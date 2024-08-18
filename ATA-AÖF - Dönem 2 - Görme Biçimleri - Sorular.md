@@ -6,7 +6,7 @@
     - C-) Rene Descartes
     - D-) De-Leukippos
     - E-) Johannes Kepler
-    ***
+    <hr />
 1. &lsquo;&rsquo;Işıklı bir ortamda nesnelere d&uuml;şen ışığın kırılarak g&ouml;z retinasına odaklanmasıyla &hellip;&hellip;&hellip;&hellip; başlar.&rsquo;&rsquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) g&ouml;rme s&uuml;reci**
@@ -14,14 +14,14 @@
     - C-) bilme s&uuml;reci
     - D-) duygulanım s&uuml;reci
     - E-) d&uuml;ş&uuml;nme s&uuml;reci
-    ***
+    <hr />
 1. <strong>İ&ccedil;inde koni ve &ccedil;ubuk h&uuml;crelerin bulunduğu ve beyinle bağlantısı olan g&ouml;z&uuml;n b&ouml;l&uuml;m&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) İris
     - **Cevap B-) Retina**
     - C-) G&ouml;z akı
     - D-) Sert tabaka
     - E-) Mercek
-    ***
+    <hr />
 1. &ldquo;G&ouml;z&uuml;n retina tabakasında yer alan ve d&uuml;ş&uuml;k ışıkta (karanlıkta) g&ouml;rmemizi sağlayan &ccedil;ubuk h&uuml;creler g&ouml;r&uuml;nt&uuml;y&uuml; &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; tonlarda g&ouml;rmemizi sağlarlar.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) kırmızı, yeşil ve mavi
@@ -29,21 +29,21 @@
     - C-) sarı
     - D-) yeşil
     - **Cevap E-) siyah-beyaz ve gri tonlarda**
-    ***
+    <hr />
 1. <strong>B&uuml;t&uuml;n nesnelerin &ccedil;ok k&uuml;&ccedil;&uuml;k g&ouml;zenekleri olduğunu ve ışığın bu g&ouml;zeneklerden &ccedil;ıkarak g&ouml;z&uuml;m&uuml;ze kadar ulaşması sonucunda g&ouml;rmenin ger&ccedil;ekleştiğini s&ouml;yleyen filozof aşağıdakilerden hangisidir?</strong> 
     - A-) Eflatun
     - **Cevap B-) Ampedokles**
     - C-) Rene Descartes
     - D-) İbni Heysem
     - E-) Jhannes Kepler
-    ***
+    <hr />
 1. <strong>G&ouml;rmenin ger&ccedil;ekleşmesini, &ldquo;Nesneleri g&ouml;r&uuml;n&uuml;r kılan şey g&ouml;z&uuml;n yaydığı ışıktır.&rdquo; şeklinde a&ccedil;ıklayan filozof aşağıdakilerden hangisidir?</strong>
     - A-) Krotonlu Alkemeon
     - **Cevap B-) Eflatun**
     - C-) Sokrates
     - D-) &Ouml;klid
     - E-) Demokritos
-    ***
+    <hr />
 1. &lsquo;&rsquo;Işık-g&ouml;z ve nesne arasında bir dizi karmaşık fizyolojik işlemler sonrasında &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. oluşur.&rsquo;&rsquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) algı
@@ -51,91 +51,91 @@
     - C-) bilin&ccedil;
     - D-) d&uuml;ş&uuml;nce
     - E-) duygu
-    ***
+    <hr />
 1. <strong>İnsan g&ouml;z&uuml; ka&ccedil; tabakadan oluşur?</strong>
     - A-) 2
     - B-) 4
     - **Cevap C-) 3**
     - D-) 5
     - E-) 6
-    ***
+    <hr />
 1. <strong>İnsan g&ouml;z&uuml;n&uuml;n retina tabakasında bulunan ve renkli g&ouml;rmemizi sağlayan koni h&uuml;creler ne renktir?</strong> 
     - A-) Mavi-sarı-kırmızı
     - **Cevap B-) Mavi-yeşil-kırmızı**
     - C-) Sarı-turuncu-mavi
     - D-) Mavi-beyaz-sarı
     - E-) Kırmızı-mavi-turuncu
-    ***
+    <hr />
 1. <strong>İnsan g&ouml;z&uuml;nde ışığa karşı duyarlı ve d&uuml;ş&uuml;k ışıkta g&ouml;rmemizi sağlayan &ccedil;ubuk h&uuml;creler daha &ccedil;ok g&ouml;z k&uuml;resinin hangi b&ouml;lgesinde yer alır?</strong>
     - A-) Orta kısmında
     - B-) &Ouml;n kısmında
     - **Cevap C-) Arka kısmında**
     - D-) Sağ alt kısmında
     - E-) Sol &uuml;st kısmında
-    ***
+    <hr />
 1. <strong>G&ouml;z&uuml;n retinal tabakasında yer alan ve renkleri g&ouml;rmemizi sağlayan ka&ccedil; tip koni h&uuml;cresi vardır?</strong>
     - A-) 2
     - **Cevap B-) 3**
     - C-) 4
     - D-) 5
     - E-) 6
-    ***
+    <hr />
 1. <strong>Beynimizin duyu organlarına ayrılan b&ouml;l&uuml;m&uuml;nde en b&uuml;y&uuml;k işlem hacmi hangi duyu organımıza aittir?</strong>
     - **Cevap A-) G&ouml;rme duyusu**
     - B-) İşitme duyusu
     - C-) Koku alma duyusu
     - D-) Dokunma duyusu
     - E-) Tat alma duyusu
-    ***
+    <hr />
 1. <strong>Duyulardan gelen bilgileri beyin daha &ouml;nce kaydettiği verilerle birleştirip dışardan gelen uyarıların ne olduğuna dair bir yargıya varır. Bilginin başladığı bu noktaya ne ad verilir?</strong>
     - A-) Duygu
     - **Cevap B-) Duyum**
     - C-) Algı
     - D-) G&ouml;rme
     - E-) Yargı
-    ***
+    <hr />
 1. <strong>G&ouml;rmeyi hem nesnelerden hem de g&ouml;zlerden &ccedil;ıkan ışığın karşılaşması ile oluşan &ldquo;G&ouml;r&uuml;ş Akıntısı&rdquo; olarak tanımlayan filozof aşağıdakilerden hangisidir ?&nbsp;</strong>
     - **Cevap A-) Eflatun**
     - B-) Sokrates
     - C-) Krotonlu Alkemeon
     - D-) Leukippos
     - E-) &Ouml;klid
-    ***
+    <hr />
 1. <strong>Optik kuramını deneysel y&ouml;ntemlerle a&ccedil;ıklamaya &ccedil;alışırken fizik biliminin temel bir disiplin h&acirc;line gelmesini sağlamış olan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Johannes Kepler
     - **Cevap B-) İbn-i Heysem**
     - C-) Rene Descartes
     - D-) Sir Isaac Newton
     - E-) Leukippos
-    ***
+    <hr />
 1. <strong>Işık ışınlarının farklı renkte olduğunu ve t&uuml;m bu ışınların karışımının beyaz ışığı verdiğini s&ouml;yleyen kuramcı aşağıdakilerden hangisidir?</strong> 
     - A-) Rene Descartes
     - B-) İbni Heysem
     - C-) Roger Bacon
     - D-) Johannes Kepler
     - **Cevap E-) Sir Isaac Newton**
-    ***
+    <hr />
 1. <strong>&Ouml;z-nesne-ışık ilişkisinin algıya d&ouml;n&uuml;şme s&uuml;recinin belli bir optik kurama oturtulmasını sağlayan Antik Yunan filozofu aşağıdakilerden hangisidir?</strong>
     - A-) Aristoteles
     - B-) Kant
     - C-) Hegel
     - **Cevap D-) Eflatun**
     - E-) Descartes
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi g&ouml;z&uuml;n yapısını oluşturan b&ouml;l&uuml;mlerden biri <u>değildir</u>?</strong>
     - A-) K&ouml;r nokta
     - B-) İris
     - C-) G&ouml;z bebeği
     - **Cevap D-) &Ouml;rs**
     - E-) Saydam tabaka
-    ***
+    <hr />
 1. <strong>G&ouml;rmeyi sağlayan h&uuml;crelerin olduğu ve beyin ile bağlantılı tabakanın adı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Retina**
     - B-) Uvea
     - C-) Kornea
     - D-) İris
     - E-) Damar tabaka
-    ***
+    <hr />
 1. Algıyı dokunma duyusuyla ilişkilendirerek b&uuml;t&uuml;n duyularımızın dokunma duyusunun değişik bi&ccedil;imleri olduğunu ileri s&uuml;rerek ruh ve beden ilişkisini algılayan ve bilenin beden değil ruh olduğu tezini &ouml;ne s&uuml;rmen Antik Yunan filozofu, Leukippos &hellip;&hellip;&hellip;&hellip; Teorisi&#39;ni geliştirmiştir.<br />
 <strong>Yukarıdaki boşluğa aşağıdaki terimlerden hangisi getirilmelidir?</strong>
     - A-) Işık
@@ -143,7 +143,7 @@
     - C-) G&ouml;z ışını
     - D-) Nesne
     - E-) Bilgi
-    ***
+    <hr />
 ## Unite 2
 1. <strong>&ldquo;Bi&ccedil;im canlı varlıktır, form (&uuml;&ccedil; boyutlu bi&ccedil;im) &ouml;l&uuml; doğadır.&rdquo; diyen teorisyen ve sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Piet Mondrian
@@ -151,70 +151,70 @@
     - C-) Henry Matisse
     - D-) Michelangelo Merisi da Caravaggio
     - E-) Paul Cezanne
-    ***
+    <hr />
 1. <strong>Bi&ccedil;im ve anlam arasındaki ilişkiyi, &lsquo;&rsquo;Eğer bir bi&ccedil;im kesin bir i&ccedil;eriğe bağlanmamışsa hi&ccedil;bir anlamı olmaz.&rsquo;&rsquo; diyen d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Immanuel Kant
     - B-) Jhon Loke
     - **Cevap C-) Karl Marks**
     - D-) James Gibson
     - E-) David Hume
-    ***
+    <hr />
 1. <strong>Kavramlardan hangisinin/hangilerinin algıya dayandığını s&ouml;yleyebiliriz?</strong>
     - A-) Koku
     - B-) Doku
     - C-) Renk ve dokunun
     - D-) Ses
     - **Cevap E-) Nesneler ve boşluğu**
-    ***
+    <hr />
 1. <strong>&ldquo;Bilgilerimiz deneyden doğar.&rdquo; diyen evrimci felsefeci aşağıdakilerden hangisidir?</strong>
     - A-) Karl Marks
     - B-) David Hume
     - **Cevap C-) Herbert Spencer**
     - D-) Jhon Loke
     - E-) Benedetto Croce
-    ***
+    <hr />
 1. <strong>Psikolojinin bilimin ayrı bir bilimsel inceleme alanı olarak ortaya &ccedil;ıkması ka&ccedil;ıncı y&uuml;zyılda olmuştur?</strong> 
     - A-) 15. yy
     - B-) 16. yy
     - C-) 17. yy
     - **Cevap D-) 19. yy**
     - E-) 20. yy
-    ***
+    <hr />
 1. <strong>Boşluğu ve boşluk i&ccedil;inde yer alan nesnelerin formlarını, şekillerini nasıl algıladığımız sorusuna cevap arayan teoriler arasında aşağıdakilerden hangisi bulunur?</strong> 
     - A-) Evrim Teorisi
     - B-) &Ouml;zel G&ouml;relilik Teorisi
     - C-) Evren Teorisi
     - **Cevap D-) Gestalt Teorisi**
     - E-) Duygu Teorisi
-    ***
+    <hr />
 1. <strong>Bilincin oluşabilmesi i&ccedil;in aşağıdaki durumlardan hangisi/hangileri ger&ccedil;ekleşmelidir?</strong>
     - A-) Duyum
     - B-) Duyum ve duygu
     - **Cevap C-) Duyum, duygu ve d&uuml;ş&uuml;nce**
     - D-) D&uuml;ş&uuml;nce
     - E-) Duyum ve d&uuml;ş&uuml;nce
-    ***
+    <hr />
 1. <strong>James J. Gibson&rsquo;un g&ouml;rsel alan ve g&ouml;rsel d&uuml;nya arasındaki farklılığı ortaya koyan ifadesi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) G&ouml;rsel d&uuml;nya, bilinir; g&ouml;rsel alan, duyumsanır.**
     - B-) G&ouml;rsel d&uuml;nya, objelerin yansıtılmış şekillerini i&ccedil;erir.
     - C-) G&ouml;rsel alan, derinlik şekillerini i&ccedil;ine alır.
     - D-) G&ouml;rsel alan, bilinir.
     - E-) G&ouml;rsel d&uuml;nya, g&ouml;r&uuml;l&uuml;r.
-    ***
+    <hr />
 1. <strong>&ldquo;İnsan zihni doğuştan boş bir sayfadır.&rdquo; d&uuml;ş&uuml;ncesi aşağıdakilerden hangi teorisyene aittir?</strong>
     - A-) Max Planck
     - **Cevap B-) John Loke**
     - C-) Jean Piaget
     - D-) Lawrence Kohlberg
     - E-) David Hume
-    ***
+    <hr />
 1. <strong>1890 tarihinde ilk kez felsefe ve psikoloji alanında ortaya atılan Gestalt Kuramı&rsquo;nın &ouml;nc&uuml;leri arasında aşağıdakilerden hangisi bulunur?</strong>
     - **Cevap A-) Christian Von Ehrenfels**
     - B-) David Hume
     - C-) Immanuel Kant
     - D-) David Hartley
     - E-) Ernst Mach
-    ***
+    <hr />
 1. G&ouml;rsel d&uuml;nyanın algısı, objelere y&uuml;klenen anlamlarla değil, ge&ccedil;mişteki uyarılara dayanır. Bu hipoteze g&ouml;re duyumsama, anlık uyarılara dayandığı h&acirc;lde algı .............. g&ouml;re şekillenir.<br />
 <strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) ge&ccedil;mişteki uyarılara ve hafızaya**
@@ -222,35 +222,35 @@
     - C-) bulunduğumuz fiziksel pozisyona
     - D-) d&uuml;ş g&uuml;c&uuml;ne
     - E-) g&ouml;zleme
-    ***
+    <hr />
 1. <strong>G&ouml;rsel alanın &ouml;zellikleri arasında aşağıdakilerden hangisi bulunur?</strong>
     - A-) S&uuml;rekliliği olan bir alandır.
     - **Cevap B-) Dokular, kenarlar, şekiller ve i&ccedil; boşluklardan oluşur.**
     - C-) Bizi &ccedil;epe&ccedil;evre sarar.
     - D-) İ&ccedil;erisinde tanıdık objeler vardır.
     - E-) Derinlik şekillerini i&ccedil;ine alır.
-    ***
+    <hr />
 1. <strong>Salt bi&ccedil;imin sanatta ereğini aşarak bizi kavrama g&ouml;t&uuml;rd&uuml;ğ&uuml;n&uuml; savunan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Immanuel Kant**
     - B-) John Loke
     - C-) James Gibson
     - D-) Karl Marks
     - E-) Ernst Mach
-    ***
+    <hr />
 1. <strong>&ldquo;Bi&ccedil;im, bizim dışımızda g&ouml;r&uuml;len nesne ile bizim aramızdaki diyalektik ilişkiden doğmuştur.&rdquo; g&ouml;r&uuml;ş&uuml;n&uuml; ortaya atan yazar aşağıdakilerden hangisidir?</strong>
     - A-) Paul Klee
     - B-) Vasili Vasilyevi&ccedil; Kandinsky
     - **Cevap C-) Rollo May**
     - D-) James J. Gibson
     - E-) Anthony Storr
-    ***
+    <hr />
 1. <strong>G&ouml;z objenin b&uuml;t&uuml;n&uuml;ne nasıl ulaşır?</strong>
     - **Cevap A-) Sınırlarını takip ederek**
     - B-) Y&uuml;zeylerine bakarak
     - C-) Dokusuyla
     - D-) Karakteriyle
     - E-) Malzemesiyle
-    ***
+    <hr />
 1. I. Derinlik<br />
 II. Uzaklık<br />
 III. Ger&ccedil;eklik<br />
@@ -261,21 +261,21 @@ IV. Ağırlık<br />
     - C-) IV ve III
     - **Cevap D-) I, II ve III**
     - E-) I, II ve IV
-    ***
+    <hr />
 1. <strong>Bilgilerimizin deneyden doğduğunu &ouml;ne s&uuml;ren, on dokuzuncu y&uuml;zyıl &uuml;nl&uuml; d&uuml;ş&uuml;n&uuml;r&uuml;n&uuml;n adı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Herbert Spencer**
     - B-) Karl Marx
     - C-) Friedrich Nietzsche
     - D-) John Venn
     - E-) Edgar Allan Poe
-    ***
+    <hr />
 1. <strong>Atları d&ouml;rt nala koşarken saniyeler i&ccedil;erisinde bir film şeridine de &ouml;nc&uuml;l oluşturacak sık aralıklar ile fotoğraflamayı başaran fotoğraf&ccedil;ının adı aşağıdakilerden hangisidir?</strong>
     - A-) Louis Daguerre
     - **Cevap B-) Eadweard Muybridge**
     - C-) Eugene Disderi
     - D-) Roger Fenton
     - E-) Henry Peach Robinson
-    ***
+    <hr />
 1. Objelerin algılanması iki obje arasındaki etkileşimden değil, devam eden bir arka planın etkisiyle oluşur. Bu demektir ki, ancak &hellip;........&hellip; plan doğru algılandığında &hellip;.........&hellip;.. da algılanır.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) &ouml;n / arka
@@ -283,7 +283,7 @@ IV. Ağırlık<br />
     - C-) arka / ışık
     - D-) uzak / saha
     - **Cevap E-) arka / uzaklık**
-    ***
+    <hr />
 ## Unite 3
 1. Eğer bakışımızı objelerin kimliklerine aldırmadan tek bir noktaya perspektif &ccedil;izer gibi odaklarsak, orada renk alanları, k&ouml;şeler, dokular vb. soyut değerler g&ouml;r&uuml;r&uuml;z.<br />
 <strong>Tarifi yapılan bu alan aşağıdakilerden hangisidir?</strong>
@@ -292,21 +292,21 @@ IV. Ağırlık<br />
     - C-) Renk alanı
     - D-) Doku alanı
     - E-) Duygu alanı
-    ***
+    <hr />
 1. <strong>G&ouml;rsel d&uuml;nya ve g&ouml;rsel alan tanımlarına aşağıdakilerden hangisi <u>uymaz</u>?</strong>
     - A-) G&ouml;rsel d&uuml;nya bizi 360 derece &ccedil;evreleyen, aşina olduğumuz g&ouml;rsel değerlere sahiptir.
     - B-) G&ouml;rsel d&uuml;nya, yaşadığımız toplumun &ouml;ğretileriyle anlamlandırılmıştır.
     - C-) G&ouml;rsel alanda objeler g&ouml;rsel d&uuml;nyadaki gibi tanıdık değil konturlar ile &ccedil;evrelenmiş renk alanları gibi g&ouml;z&uuml;k&uuml;r.
     - D-) G&ouml;rsel alan g&ouml;rsel d&uuml;nyanın sahip olduğu değerlerin azaltılmış h&acirc;line sahiptir.
     - **Cevap E-) G&ouml;rsel alan g&ouml;rme eyleminin sıradan bir izlenimidir.**
-    ***
+    <hr />
 1. <strong>Ger&ccedil;ek d&uuml;nya algımızın bozulmasına aşağıdakilerden hangisi neden olur?</strong>
     - A-) Yer değiştirmemiz
     - **Cevap B-) Dengeyi sağlayan i&ccedil; kulak rahatsızlığı**
     - C-) Bir konu &uuml;zerine odaklanma
     - D-) Heyecanlanmamız
     - E-) Dikkatimizin başka yerde olması
-    ***
+    <hr />
 1. I. Bir noktaya bakışımızı odakladığımızda g&ouml;r&uuml;nt&uuml; merkezde keskin, net ve detaylıdır.<br />
 II. G&ouml;r&uuml;nt&uuml;n&uuml;n merkezinde konturlar daha net g&ouml;z&uuml;k&uuml;rken, merkezden uzaklaştık&ccedil;a netlikleri azalır.<br />
 III. G&ouml;z g&ouml;rsel alanın sınırlarına doğru konturları takip etmekte zorlanır.<br />
@@ -317,21 +317,21 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) I ve II
     - D-) I, II ve III
     - E-) Yalnız III
-    ***
+    <hr />
 1. <strong>Durağan pozisyondayken g&ouml;z&uuml;m&uuml;z&uuml; hareket ettirdiğimizde g&ouml;r&uuml;ş alanı ile ilgili aşağıdaki hangi durum yaşanır?</strong> 
     - A-) G&ouml;r&uuml;ş alanımız daralır.
     - **Cevap B-) G&ouml;r&uuml;ş alanımız değişir.**
     - C-) G&ouml;r&uuml;ş alanımız aynı kalır.
     - D-) G&ouml;r&uuml;ş alanımızın netliği azalır.
     - E-) G&ouml;r&uuml;ş alanımızın b&ouml;l&uuml;n&uuml;r.
-    ***
+    <hr />
 1. <strong>G&ouml;rsel alan &ouml;zellikleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
     - A-) Bakış a&ccedil;ımız sağdan sola 180 derece, aşağıdan yukarıya 150 derece ile sınırlıdır.
     - B-) G&ouml;r&uuml;nt&uuml;y&uuml; deneyimlemek i&ccedil;in belli bir fiziksel &ccedil;aba gereklidir.
     - C-) G&ouml;rd&uuml;klerimiz, tanıdık olan objeler değildir.
     - **Cevap D-) Sıradan izlenimlerin bir par&ccedil;ası ve sınırsızdır.**
     - E-) V&uuml;cudumuz ve başımızın hareketsiz kalması, g&ouml;zlerimizin belli bir noktaya odaklanması gerekir.
-    ***
+    <hr />
 1. &ldquo;Bir g&ouml;z&uuml;m&uuml;z&uuml; kapattığımızda kapatılan tarafta ................oranda g&ouml;r&uuml;ş&uuml;n daraldığını fark ederiz.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 1/4
@@ -339,21 +339,21 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) 1/3**
     - D-) 1/6
     - E-) 1/5
-    ***
+    <hr />
 1. <strong>G&ouml;rsel alanın şekli aşağıdakilerden hangisi ile ifade edilir?</strong>
     - A-) Daire
     - **Cevap B-) Oval**
     - C-) Kare
     - D-) &Uuml;&ccedil;gen
     - E-) D&ouml;rtgen
-    ***
+    <hr />
 1. <strong>&lsquo;&rsquo;Kişi g&ouml;zlerinin &ouml;n&uuml;ndeki d&uuml;nya gibi, başının arkasında kalan d&uuml;nyanın da farkındadır.&rdquo;&nbsp;</strong><strong>g&ouml;r&uuml;ş&uuml;n&uuml; ortaya atan</strong><strong>&nbsp;Gestalt kuramcısı aşağıdakilerden hangisidir?</strong>
     - A-) Max Wertheimer
     - B-) Wolfgang K&ouml;hler
     - C-) Edward Chace Tolman
     - **Cevap D-) Kurt Koffka**
     - E-) Goodwin B. Watson
-    ***
+    <hr />
 1. &ldquo;G&ouml;rsel d&uuml;nya algısı &hellip;&hellip;&hellip;. bağlı iken; g&ouml;rsel alan algısı bağlı değildir.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) kişinin konumuna
@@ -361,21 +361,21 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) mek&acirc;na
     - D-) kişinin pozisyonuna
     - E-) ışığa
-    ***
+    <hr />
 1. <strong>Şeklin bilinen ka&ccedil; anlamı vardır?</strong>
     - **Cevap A-) 2**
     - B-) 3
     - C-) 4
     - D-) 5
     - E-) 6
-    ***
+    <hr />
 1. <strong>&ldquo;Tanıdık objelerin birbirleriyle olan oran ilişkisi ile geliştirdiğimiz, adımımızı atarken, bir şeyi uzanıp alırken, kısacası g&uuml;nl&uuml;k yaşamımızın i&ccedil;inde hareketlerimizi d&uuml;zenlememize olanak sunar.&rdquo; tanımında hangi algıdan bahsedilmektedir?</strong>
     - A-) Renk algısı
     - B-) Bi&ccedil;im algısı
     - **Cevap C-) Derinlik algısı**
     - D-) İşitme algısı
     - E-) Dokunma algısı
-    ***
+    <hr />
 1. &ldquo;G&ouml;rsel d&uuml;nyada objelerin arasındaki boşluklara ilgi g&ouml;sterirsek objelere benzer olarak boşlukların da ...............alanlarından oluştuğunu fark ederiz.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) bi&ccedil;im
@@ -383,7 +383,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) ışık
     - D-) form
     - E-) &ccedil;izgi
-    ***
+    <hr />
 1. Bakışımızı değiştirip ikincil bir a&ccedil;ıdan odaklanmayı denediğimizde objenin şekli bir &ouml;nceki bakışımıza g&ouml;re aynı değildir.<br />
 <strong>Faklı bakış a&ccedil;ılarına g&ouml;re şekli değişmeyen form aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) K&uuml;re**
@@ -391,7 +391,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) K&uuml;p
     - D-) Dikd&ouml;rtgen prizması
     - E-) &Uuml;&ccedil;gen Prizması
-    ***
+    <hr />
 1. Tren raylarına bakan kişilerin izlenimleri iki farklı şekilde olabilir. Birisi tren raylarının ufka doğru yaklaştık&ccedil;a birbirine yaklaştıklarını s&ouml;ylerken, başka bir izleyici de fiziksel olarak rayların birbirine uzaklığının eşit olmasından dolayı kesinlikle birbirine yaklaşmadığını s&ouml;yleyebilir.<br />
 <strong>Tren raylarının hi&ccedil;bir zaman birleşmediğini s&ouml;yleyen izleyici hangi bakış a&ccedil;ısına sahiptir?</strong>
     - A-) Perspektif
@@ -399,7 +399,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Estetik
     - D-) Anlatıcı
     - E-) Duygusal
-    ***
+    <hr />
 1. G&ouml;rsel alanımız g&ouml;z&uuml;m&uuml;z&uuml;n şekline bağlı olarak sağdan sola &hellip;..&hellip;. derece, yukarı aşağı olarak da &hellip;.&hellip;.. derecelik g&ouml;r&uuml;ş alanına sahiptir.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 45 / 45
@@ -407,14 +407,14 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) 90 / 360
     - D-) 120 / 90
     - **Cevap E-) 180 / 150**
-    ***
+    <hr />
 1. <strong>G&ouml;rsel alan bir noktaya odaklanmayı gerektirdiğinde, g&ouml;z ile yapılan odaklanma ile aşağıdakilerden hangisi hissedilecektir?</strong>
     - A-) Odaklanan alanın tamamen keskin olması
     - **Cevap B-) Odaklanan alanın tam merkezinin keskin, merkez dışına doğru netliğin azalması**
     - C-) Odaklanan alanda renksizleşme
     - D-) Odaklanan alanda renksizleşme, merkez dışına doğru netliğin azalması
     - E-) Odaklanan alanın tam merkezinde netsizlik, merkez dışına doğru renklerin azalması
-    ***
+    <hr />
 1. Baş ve bedenin hareketi, g&ouml;rsel d&uuml;nyayı etkilemez ama &hellip;&hellip;&hellip;. etkiler.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) g&ouml;rsel alanı**
@@ -422,7 +422,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) nesnelerin hızını
     - D-) nesnelerin yerini
     - E-) nesnenin hacmini
-    ***
+    <hr />
 ## Unite 4
 1. <strong>T&uuml;m zamanların en başarılı sanat fotoğraflarından biri olarak bilinen &ldquo;G&uuml;verte&rdquo; isimli fotoğraf aşağıdaki hangi sanat&ccedil;ıya aittir?</strong>
     - **Cevap A-) Alfred Stieglitz**
@@ -430,49 +430,49 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Ray Ansel
     - D-) AdamsRichard
     - E-) Avedon
-    ***
+    <hr />
 1. <strong>Hareketli g&ouml;lgelerle yaptığı deneyler ile de bilinen, bug&uuml;nk&uuml; fotoğraf makinelerinin prototipi olarak kabul edilen &quot;Karanlık Oda&quot; terimi (Daha sonra Latince &ldquo;Camera Obscuro&rdquo; olarak anılmıştır.) aşağıdaki hangi d&uuml;ş&uuml;n&uuml;re aittir?</strong>
     - A-) Robert Hooke
     - B-) Rene Descartes
     - C-) Thomas Young
     - **Cevap D-) İbni Heysem**
     - E-) Johannes Kepler
-    ***
+    <hr />
 1. <strong>&ldquo;Dr. Tulp&rsquo;un Anatomi Dersi&rdquo; tablosu aşağıdakilerden hangi sanat&ccedil;ıya aittir?</strong>
     - A-) Michelangelo Merisi da Caravaggio
     - **Cevap B-) Rembrant Harmenszoon van Rijn**
     - C-) Man Ray
     - D-) Raffaello Sanzino
     - E-) Peter Paul Rubens
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi g&ouml;rmemize olanak sağlayan doğal ışık kaynaklarından biri <u>değildir</u>?</strong>
     - A-) G&uuml;neş
     - **Cevap B-) Mum**
     - C-) Yıldızlar
     - D-) Yıldırım
     - E-) Şimşek
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi ışığın simgesel karşılığı <u>değildir</u>?</strong>
     - A-) İyilik
     - B-) Doğruluk
     - C-) G&uuml;zellik
     - **Cevap D-) Korku**
     - E-) Erdem
-    ***
+    <hr />
 1. <strong>&quot;Işık dini&quot; olarak da ifade edilen, ışık ve karanlık, iyilik ve k&ouml;t&uuml;l&uuml;k gibi iki zıt karakteri temsil eden dinin adı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Manihaizm**
     - B-) Mitra
     - C-) Minoan
     - D-) Kenani
     - E-) Atenizm
-    ***
+    <hr />
 1. <strong>Mimarisinde ışığın tanrısallık adına en g&uuml;zel kullanımını Pantheon Tapınağı&rsquo;nda buluruz. Pantheon Tapınağı nerededir?</strong>
     - A-) Viyana
     - **Cevap B-) Roma**
     - C-) Venedik
     - D-) Floransa
     - E-) Siena
-    ***
+    <hr />
 1. Ana kubbenin hem ağırlığını azaltmak hem de ana mek&acirc;nın aydınlatılmasını sağlamak i&ccedil;in kubbenin altında a&ccedil;ılmış olan 40 adet pencereden s&uuml;z&uuml;len ışık bir ill&uuml;zyon yaratarak kubbeyi karanlıkta y&uuml;z&uuml;yormuş gibi g&ouml;sterir.<br />
 <strong>C&uuml;mle ile anlatılan mimar&icirc; yapı aşağıdakilerden hangisidir?</strong>
     - A-) Pantheon
@@ -480,7 +480,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Ayasofya**
     - D-) Gol Gumbaz
     - E-) Santa Maria del Fiore
-    ***
+    <hr />
 1. Minyat&uuml;rlerde ışık sanki objelerden yayılıyormuş gibi g&ouml;r&uuml;n&uuml;r. Her bir obje sanki kendi başına birer ışık kaynağıdır.<br />
 <strong>Bu c&uuml;mle ile hangi d&ouml;nemden bahsedilmektedir?</strong>
     - **Cevap A-) Orta &Ccedil;ağ**
@@ -488,42 +488,42 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) R&ouml;nesans
     - D-) Gotik
     - E-) Antik &Ccedil;ağ
-    ***
+    <hr />
 1. <strong>Tanrıyı ve cennetin yery&uuml;z&uuml;ndeki yansımasını dinsel yapılarda insana sunmak isteyen d&ouml;nem aşağıdakilerden hangisidir?</strong>
     - A-) Barok
     - B-) R&ouml;nesans
     - **Cevap C-) Gotik**
     - D-) Maniyerizm
     - E-) Orta &Ccedil;ağ
-    ***
+    <hr />
 1. <strong>Altın oran kavramı matematiksel bir veri olarak sanatsal tasarımın en &ouml;nemli ilkesi h&acirc;line gelen d&ouml;nem aşağıdakilerden hangisidir?</strong>
     - A-) Orta &Ccedil;ağ
     - B-) Barok
     - C-) Gotik
     - **Cevap D-) R&ouml;nesans**
     - E-) Modern &Ccedil;ağ
-    ***
+    <hr />
 1. <strong>Mimaride fil ayağı sistemini geliştirerek Ayasofya&rsquo;nın kubbe &ccedil;apından daha b&uuml;y&uuml;k tam bir kubbe inşa etmiş olan Mimar Sinan&rsquo;ın yapmış olduğu yapı aşağıdakilerden hangisidir?</strong>
     - A-) Sultan Ahmet Camisi
     - **Cevap B-) Selimiye Camisi**
     - C-) R&uuml;stem Paşa Camisi
     - D-) S&uuml;leymaniye Camisi
     - E-) Şehzade Camisi
-    ***
+    <hr />
 1. <strong>Batı resim sanatında perspektifin kullanılmaya başlaması hangi sanat&ccedil;ı ile olmuştur?</strong>
     - A-) Leonardo da Vinci
     - B-) Michelangelo Buonarroti
     - C-) Raffaello Sanzio
     - D-) Albrecht D&uuml;rer
     - **Cevap E-) Giotto di Bondone**
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi ışığın genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) Y&ouml;neltilebilir.
     - B-) Yansıtılabilir.
     - **Cevap C-) Kırılamaz.**
     - D-) B&ouml;l&uuml;nebilir.
     - E-) Dağıtılabilir.
-    ***
+    <hr />
 1. Tarihin en &ouml;nemli kutsal yapıtlarından biridir. Bizans İmparatoru Justinyanus D&ouml;nemi&#39;nde bug&uuml;nk&uuml; kubbesi ile yapılmıştır. Bu olağan&uuml;st&uuml; yapı ile Justinyanus, t&uuml;m d&uuml;nyaya imparatorluğunun Tanrı katında kutsanmış en b&uuml;y&uuml;k uygarlık olduğunu adeta haykırmıştır. Ayrıca, ışığın din&icirc; mabette kullanımının en iyi &ouml;rneklerindendir. Ana kubbenin hem ağırlığını azaltmak hem de ana mek&acirc;nın aydınlatılmasını sağlamak i&ccedil;in kubbenin altında a&ccedil;ılmış olan 40 adet pencereden s&uuml;z&uuml;len ışık, bir ill&uuml;zyon (yanılsama) yaratarak kubbeyi karanlıkta y&uuml;z&uuml;yormuş gibi g&ouml;sterir. B&ouml;ylece madde ışığın i&ccedil;inde s&uuml;z&uuml;lerek soyut, ruhsal bir g&ouml;r&uuml;nt&uuml;ye d&ouml;n&uuml;ş&uuml;r.<br />
 <strong>Paragrafta tanımı yapılan mimari yapının adı aşağıdakilerden hangisidir?</strong>
     - A-) Pantheon
@@ -531,7 +531,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Ayasofya**
     - D-) Fresko, Siena
     - E-) St. Denis Kilisesi
-    ***
+    <hr />
 ## Unite 5
 1. <strong>Peter Schlemihl&rsquo;in Olağan&uuml;st&uuml; &Ouml;yk&uuml;s&uuml; (1814) kitabında, tam da Modern &Ccedil;ağı&#39;n başlangıcında, edebiyatta g&ouml;lgeyi bir metafor olarak varlık sorunu ile ilişkilendiren kitabın yazarı aşağıdakilerden hangisidir?</strong><br />
 
@@ -540,84 +540,84 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Adelbert Von Chamisso**
     - D-) Gustav Flaubert
     - E-) Emile Zola
-    ***
+    <hr />
 1. <strong>S&uuml;prematist Manifesto&rsquo;da, &ldquo;Kendimi formun sıfırına d&ouml;n&uuml;şt&uuml;rd&uuml;m ve &ccedil;&ouml;plerle dolu akademik sanat havuzunun dışına s&uuml;r&uuml;kledim.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) El Lissitzky
     - B-) Vera Yermolayeva
     - **Cevap C-) Kazimir Malevi&ccedil;**
     - D-) İlya Chashnik
     - E-) Olga Rozanova
-    ***
+    <hr />
 1. <strong>&ldquo;Siyah Kare&rdquo; yapıtıyla bilinen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kazimir Malevi&ccedil;**
     - B-) Alexander Rodchenko
     - C-) El Lissitzky
     - D-) Nikolai Suetin
     - E-) Olga Rozanova
-    ***
+    <hr />
 1. <strong>Heykellerinde formu olabildiğince sadeleştirerek varlığın arketipine (k&ouml;k &ouml;rneğine) ulaşmayı hedefleyen bir sanat anlayışına sahip sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Karel Appel
     - B-) Kazimir Malevi&ccedil;
     - **Cevap C-) Costantin Brancusi**
     - D-) Alberto Giacometti
     - E-) Ernst Barlach
-    ***
+    <hr />
 1. <strong>1981&rsquo;de Roma&rsquo;da ger&ccedil;ekleştirdiği &ldquo;Warhol De Chirico&rsquo;ya Karşı&rdquo; adlı sergiyi ger&ccedil;ekleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong> 
     - A-) Kazimir Malevi&ccedil;
     - B-) Joseph Beusy
     - **Cevap C-) Andy Warhol**
     - D-) Richard Hamilton
     - E-) Nicolas Castello
-    ***
+    <hr />
 1. <strong>Plastik Sanat Teorisi ve toplumsal plastik sanat d&uuml;ş&uuml;ncesini ortaya olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Joseph Beusy**
     - B-) Tristan Tzara
     - C-) Marcel Duchamp
     - D-) Francis Picabia
     - E-) Raoul Haousmann
-    ***
+    <hr />
 1. <strong>Doğal Tarih Ansiklopedisi&rsquo;nde resmin doğuş &ouml;yk&uuml;s&uuml;n&uuml; anlatan yazar aşağıdakilerden hangisidir?</strong>
     - A-) Joseph Meyer
     - B-) John Harris
     - **Cevap C-) Piliny the Elder**
     - D-) Ephraim Chambers
     - E-) Roger Bacon
-    ***
+    <hr />
 1. <strong>Bir &ccedil;ocuğun g&ouml;lgenin ışık ile olan ilişkisini kavraması, g&ouml;lgenin ışık noksanlığı anlamına geldiğini hangi yaşlarda olur?</strong>
     - A-) 5
     - B-) 7
     - C-) 4
     - **Cevap D-) 10**
     - E-) 9
-    ***
+    <hr />
 1. <strong>G&uuml;neş ışınları ka&ccedil; derece a&ccedil;ıyla d&uuml;ş&uuml;nce cisim ile g&ouml;lgesi aynı boyda olur?</strong>
     - A-) 30
     - B-) 15
     - **Cevap C-) 45**
     - D-) 70
     - E-) 90
-    ***
+    <hr />
 1. <strong>Kişilik katmanlarını tanımlamaya y&ouml;nelik &ccedil;alışmasında bilin&ccedil;altının ilk katmanına &ldquo;g&ouml;lge&rdquo; adını veren psikiyatr aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Carl Gustav Jung**
     - B-) Albert Bandura
     - C-) Martin Seligman
     - D-) Howard Gadner
     - E-) Daniel Goleman
-    ***
+    <hr />
 1. <strong>&Uuml;nl&uuml; mağara metaforu ile g&ouml;lgeye atfedilen anlamlarıyla da bilinen &uuml;nl&uuml; d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong> 
     - A-) Sokrates
     - B-) Aristoteles
     - C-) Demokritos
     - D-) Tales
     - **Cevap E-) Eflatun (Platon)**
-    ***
+    <hr />
 1. <strong>Fiziksel olarak ka&ccedil; t&uuml;r g&ouml;lge vardır?</strong>
     - **Cevap A-) 2**
     - B-) 3
     - C-) 4
     - D-) 5
     - E-) 6
-    ***
+    <hr />
 1. Nesnenin başka bir y&uuml;zey &uuml;zerinde oluşturduğu g&ouml;lgeye ................... denir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Bağlı g&ouml;lge
@@ -625,28 +625,28 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) İ&ccedil; g&ouml;lge
     - D-) M&uuml;kemmel g&ouml;lge
     - E-) Hareketli g&ouml;lge
-    ***
+    <hr />
 1. <strong>&ldquo;M&uuml;kemmel resim doğanın bir aynasıdır.&rdquo; diyen, sanatında g&ouml;lgenin temsiline b&uuml;y&uuml;k &ouml;nem veren sanat&ccedil;ı kimdir?</strong>
     - **Cevap A-) Rembrant Harmenszoon van Rijn**
     - B-) Peter Paul Rubens
     - C-) Francisco Goya
     - D-) Diego Velazquez
     - E-) Johannes Vermeer
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi sanatta karanlık ve aydınlığın oluşturduğu zıtlık i&ccedil;in kullanılan derimdir?</strong>
     - A-) Allegori
     - **Cevap B-) Chiaroscuro**
     - C-) Dekalomani
     - D-) Dekolaj
     - E-) İzokefali
-    ***
+    <hr />
 1. <strong>Siyahı renk paletlerinden &ccedil;ıkarıp g&ouml;lgeleri koyu renklerin karışımları olarak resimleyen sanat&ccedil;ılar hangi sanat akımı i&ccedil;erisinde yer alır?</strong>
     - **Cevap A-) Empresyonizm**
     - B-) K&uuml;bizm
     - C-) Realizm
     - D-) S&uuml;rrealizm
     - E-) R&ouml;nesans
-    ***
+    <hr />
 1. G&ouml;lge de plastik sanatlar gibi varlığını &hellip;............... bor&ccedil;ludur.<br />
 <b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b>
     - A-) altın orana
@@ -654,7 +654,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) ritme
     - **Cevap D-) ışığa**
     - E-) kompozisyona
-    ***
+    <hr />
 ## Unite 6
 1. Resimde boşluk, mek&acirc;n, uzam rasyonel bir g&ouml;zlemin yanılsamasından &ccedil;ok duyguların aktarımı i&ccedil;in kullanılmıştır.<br />
 <strong>Tanımlaması hangi sanat akımını ifade eder?</strong>
@@ -663,14 +663,14 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Romantizm**
     - D-) Dadaizm
     - E-) F&uuml;t&uuml;rizm
-    ***
+    <hr />
 1. <strong>&ldquo;Resim y&uuml;zeyinde alışıldık mek&acirc;n algısını deneyimlememize karşın, bu mek&acirc;n i&ccedil;inde yer alan nesneler oluşları ve konumları ile fiziksel ger&ccedil;ekliğe uymaz.&rdquo; c&uuml;mlesi hangi sanat akımını tarif eder?</strong>
     - A-) Fovizm
     - B-) Empresyonizm
     - C-) F&uuml;t&uuml;rizm
     - D-) Konstr&uuml;ktivizm
     - **Cevap E-) S&uuml;rrealizm**
-    ***
+    <hr />
 1. &ldquo;B&uuml;y&uuml;k Cam&rdquo; olarak da bilinen yapıtı &ldquo;Bek&acirc;rları Tarafından &Ccedil;ırıl&ccedil;ıplak Soyulan Gelin&rdquo;i cam kullanarak mek&acirc;nla b&uuml;t&uuml;nleştirmenin &ouml;tesine ge&ccedil;irerek akıp giden zamanın i&ccedil;ine de d&acirc;hil etmiştir.<br />
 <strong>Yukarıda tanıtılan yapıt kime aittir?</strong>
     - **Cevap A-) Marcel Duchamp**
@@ -678,28 +678,28 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Vassily Kandisky
     - D-) Vladimir Tatlin
     - E-) Mikhail Matiushin
-    ***
+    <hr />
 1. <strong>Uzamsal Kavram adını verdiği yapıtlarında hareket, zaman ve boşluk aramak i&ccedil;in tuval y&uuml;zeyini keserek yeni bir boyut ve sonsuzluk duygusu yaratan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Umberto Boccioni
     - B-) Carlo Carra
     - **Cevap C-) Lucio Fontana**
     - D-) Vladimir Tatlin
     - E-) Gino Severini
-    ***
+    <hr />
 1. <strong>&ldquo;Artık k&uuml;tleyi değil, sergilenen nesnelerle boşluğu yontuyoruz.&rdquo; c&uuml;mlesi hangi sanat akımının anlayışını tarif eder?</strong>
     - A-) K&uuml;bizm
     - B-) F&uuml;t&uuml;rizm
     - C-) Empresyonizm
     - **Cevap D-) Minimalizm**
     - E-) Soyut Sanat
-    ***
+    <hr />
 1. <strong>Batı uygarlığı boşluk kavramını daha &ccedil;ok hangi kavram veya kavramlar &uuml;zerinden ele almıştır?</strong>
     - A-) Mesafe
     - **Cevap B-) Zaman ve Hareket**
     - C-) Genişleme ve Uzlaşma
     - D-) Boyut ve Aralık
     - E-) Hi&ccedil;lik ve Boşluk
-    ***
+    <hr />
 1. &ldquo;Uzak Doğu uygarlıklarında &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. varlık algısının temeli olarak tanımlanır.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Hi&ccedil;lik ve Boşluk**
@@ -707,42 +707,42 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Şekil ve Konum
     - D-) Hareket ve Zaman
     - E-) Meydan ve Saha
-    ***
+    <hr />
 1. <strong>Etrafımızı saran evrene ilk kez &ldquo;kozmos&rdquo; adını veren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Immanuel Kant
     - **Cevap B-) Pisagor**
     - C-) Demokritos
     - D-) Leukippos
     - E-) Epik&uuml;r
-    ***
+    <hr />
 1. <strong>&ldquo;Boşluk, i&ccedil;inde hi&ccedil;bir duyulur cismin bulunmadığı aralık, ara nesnedir.&rdquo;&nbsp;</strong><strong>g&ouml;r&uuml;ş&uuml;n&uuml; ortaya atan</strong><strong>&nbsp;d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Farabi
     - B-) İbni Sina
     - **Cevap C-) Aristo**
     - D-) Immanuel Kant
     - E-) Pisagor
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi b&uuml;t&uuml;nl&uuml;ğ&uuml; &ldquo;temel b&uuml;t&uuml;nl&uuml;k, g&ouml;r&uuml;n&uuml;rdeki boşluktur, t&uuml;kenmez olandır&rdquo; diye tanımlayan Taocu felsefenin &ouml;nde gelen d&uuml;ş&uuml;n&uuml;rlerindendir?</strong>
     - A-) Konf&uuml;cy&uuml;s
     - B-) Meng Zi
     - C-) Kong Sun Long
     - D-) Hui Shi
     - **Cevap E-) Leo Tzu**
-    ***
+    <hr />
 1. <strong>Aristo&rsquo;dan beri s&uuml;regelen Kant ile devam eden Kartezyen temelli &ouml;zne-nesne ayrımına karşı &ccedil;ıkan ve &ouml;zne merkezli metafizik varlık anlayışı yerine ontoloji temelli bir yaklaşım ile varlığın ele alınması gerektiğini &ouml;ne s&uuml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Martin Heidegger**
     - B-) Rene Descartes
     - C-) Baruch Spinoza
     - D-) Georg Wilhelm
     - E-) Friedrich Hegel
-    ***
+    <hr />
 1. <strong>1912 de yapmış olduğu Guitar (Gitar) &ccedil;alışmasında sanat&ccedil;ının boşluğu heykelin malzemelerinden biri olarak kullandığını g&ouml;r&uuml;yoruz. Guitar &ccedil;alışması aşağıdakilerden hangi sanat&ccedil;ının eseridir?</strong>
     - **Cevap A-) Pablo Picasso**
     - B-) Naum Gabo
     - C-) Antonie Pevsner
     - D-) Auguste Rodin
     - E-) Umberto Boccinoni
-    ***
+    <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; heykel mimariden tamamen bağımsızlaşarak etrafında dolaşılarak her a&ccedil;ıdan algılanan kendi başına anlam y&uuml;klenen bir sanat dalına d&ouml;n&uuml;şm&uuml;şt&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) R&ouml;nesans&rsquo;ta
@@ -750,28 +750,28 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Barok&#39;ta**
     - D-) Maniyerizm&rsquo;de
     - E-) Orta &Ccedil;ağ&rsquo;da
-    ***
+    <hr />
 1. <strong>Heykellerini yarım bırakarak izleyicinin heykeli boşlukta tamamlamasını isteyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Naum Gabo
     - **Cevap B-) Auguste Rodin**
     - C-) Antonie Pevsner
     - D-) Pablo Picasso
     - E-) Umberto Boccinoni
-    ***
+    <hr />
 1. <strong>Heykellerinde &ccedil;oğunlukla kullandığı elips ve spirallerde oluşan formları ile uzam, boşluk, alan, &ouml;l&ccedil;&uuml;, ağırlık ve zaman kavramlarını izleyicinin beden algısı &uuml;zerinden sorgulamaya &ccedil;alışan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Richart Serra**
     - B-) Alberto Giacommetti
     - C-) Naum Gabo
     - D-) Antonie Pesvsner
     - E-) Vladimir Tatlin
-    ***
+    <hr />
 1. <strong>Boşluk kavramını aklın kavrayabileceği varlık kavramı &uuml;zerinden tanımlayan, akıl ile kavranacak ilk varlığın tanrı olduğunu ve nesneler d&uuml;nyasına indiğimizde toprak, su, hava ve ateş gibi d&ouml;rt unsurun her birinin sıcak ve soğuk gibi karşıtlıkla birleşerek maddeyi oluşturduğunu vurgulayan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Farabi**
     - B-) İbni Sina
     - C-) Aristo
     - D-) Lao Tzu
     - E-) Descartes
-    ***
+    <hr />
 ## Unite 7
 1. <strong>Geometrik ilkelere dayalı yaptığı resimlerinde uyguladığı y&ouml;ntem ile yaptığı &ccedil;izimin ger&ccedil;ek d&uuml;nyadaki g&ouml;rsel algımız ile benzerliğini ortaya koyan Floransalı sanat&ccedil;ı ve mimar aşağıdakilerden hangisidir?</strong>
     - A-) Raffaello Sanzio
@@ -779,56 +779,56 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Jan van Eyck
     - **Cevap D-) Flippo Brunesleschi**
     - E-) Piero della Francesca
-    ***
+    <hr />
 1. <strong>&ldquo;Her şey bir şeyle dolmuştur, hi&ccedil; boşluk yoktur.&rdquo; diyen İslam d&uuml;ş&uuml;n&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İbn el-Farah el Farabi**
     - B-) Hallac-ı Mansur
     - C-) İbn-i Sina
     - D-) Gazzali
     - E-) İbn-i R&uuml;şt
-    ***
+    <hr />
 1. <strong>Uzak Doğu resmi ve kaligrafisinde boşluğun resimsel g&ouml;rsel bir değer olarak resmi yapılan şeye eş değer bir &ouml;nemle ele alınması Batı sanatında hangi sanat akımına referans olmuştur?</strong>
     - A-) Fovizm
     - B-) Empresyonizm
     - C-) Neoklasisizm
     - **Cevap D-) Post-empresyonizm**
     - E-) S&uuml;rrealizm
-    ***
+    <hr />
 1. <strong>Renk planlarının birbirini &ouml;rtmesi ile oluşan derinlik algısına ne ad verilir?</strong>
     - A-) Profil
     - B-) Kroki
     - C-) Kontur
     - D-) Mas
     - **Cevap E-) Planimetrik Espas**
-    ***
+    <hr />
 1. <strong>R&ouml;nesans sanatının &ouml;nc&uuml;s&uuml; olarak kabul edilen, resim sanatında mek&acirc;n ve fig&uuml;r&uuml; y&uuml;zeye perspektif olarak doğruya &ccedil;ok yakın yerleştirmeyi başarmış 13. yy. İtalyan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Leonardo da Vinci
     - **Cevap B-) Giotto di Bondone**
     - C-) Flippo Brunesleschi
     - D-) Raffaello Sanzio
     - E-) Jan van Eyck
-    ***
+    <hr />
 1. <strong>&ldquo;Bir kap ancak boşluğu sayesinde yararlı olabilir.&rdquo; diyen antik &Ccedil;in filozofu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Lao Tzu**
     - B-) Ssu-ma Ch
     - C-) Fung Yu-Lan
     - D-) Hui Tzu
     - E-) Chuang Tzu
-    ***
+    <hr />
 1. <strong>Resim i&ccedil;indeki nesne veya fig&uuml;rlerin geometrik perspektifi kullanmaya gerek olmadan en uzak noktalara kadar taşınmasını sağlayan perspektif aşağıdakilerden hangisidir?</strong>
     - A-) &Ccedil;izgisel perspektif
     - **Cevap B-) Hava perspektif**
     - C-) Paralel perspektif
     - D-) İzometrik perspektif
     - E-) Konik perspektif
-    ***
+    <hr />
 1. <strong>&ldquo;Arnolfini&rsquo;nin D&uuml;ğ&uuml;n&uuml;&rdquo; adlı yapıtında kullandığı ayna imgesi ile dikkat &ccedil;eken ressam aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Jan van Eyck**
     - B-) Diego Velazquez
     - C-) Flippo Brunesleschi
     - D-) Leonardo da Vinci
     - E-) Raffaello
-    ***
+    <hr />
 1. Diego Velazquez&rsquo;in 1656 yılında yaptığı resimde mek&acirc;n, zaman, simgesel anlatım i&ccedil; i&ccedil;e ge&ccedil;miştir. Farklı perspektif y&ouml;ntemleriyle oluşturulan resim Picasso tarafından da 50&rsquo;nin &uuml;zerinde yorumu yapılmıştır.<br />
 <strong>Paragraf hakkında bilgi verilen resim aşağıdakilerden hangisidir?</strong>
     - A-) Arnolfini&rsquo;nin D&uuml;ğ&uuml;n&uuml;
@@ -836,28 +836,28 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Las Meninnas**
     - D-) Kral ve Krali&ccedil;e
     - E-) Aynadaki Ven&uuml;s
-    ***
+    <hr />
 1. <strong>G&ouml;rsel d&uuml;nyamıza y&uuml;zeyde g&ouml;r&uuml;nenin altında yatan yapıyı anlamak i&ccedil;in bakmayı &ouml;neren ve k&uuml;bizme giden yolu a&ccedil;an sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Pablo Picasso
     - **Cevap B-) Paul Cezanne**
     - C-) Fernand Leger
     - D-) Francis Picabia
     - E-) Georges Braque
-    ***
+    <hr />
 1. <strong>Ger&ccedil;eklik kavramını sorgularken tek bir ger&ccedil;eğin olamayacağını, dolayısıyla mutlak bir ger&ccedil;eklikten bahsedemeyeceğimizi s&ouml;yleyen ve bu d&uuml;ş&uuml;ncesini &ldquo;perspektivizm&rdquo; &uuml;zerinden tartışmaya a&ccedil;an filozof aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Friedrich Nietzsche**
     - B-) William James
     - C-) Charles Sanders Peirce
     - D-) Max Weber
     - E-) Emile Durkheim
-    ***
+    <hr />
 1. <strong>İki boyutlu resmi &uuml;&ccedil; boyutlu r&ouml;lyef ile bir araya getirerek ger&ccedil;ek mek&acirc;n ile birleştirmesi ile resim sınırlarını aşarak ger&ccedil;ek mek&acirc;nda yeni fiziksel boşluklar oluşturan konstr&uuml;ktivist sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Naum gabo
     - B-) Aexander Rodchenko
     - C-) Vasili Kandinsky
     - D-) Paul Klee
     - **Cevap E-) Lazar Markovich El Lissitzky**
-    ***
+    <hr />
 1. S&uuml;rrealizm akımının &ouml;nemli temsilcilerinden biri olan sanat&ccedil;ı. 1924&rsquo;te yaptığı &ldquo;İki &Ccedil;ocuk Bir B&uuml;lb&uuml;l Tarafından Tehdit Ediliyor&rdquo; isimli yapıtında boşluk hem algısal hem de fiziksel olarak vardır.<br />
 <strong>S&ouml;z edilen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Max Ernst**
@@ -865,28 +865,28 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Rene Magritte
     - D-) Marc Chagall
     - E-) Alberto Giacometti
-    ***
+    <hr />
 1. <strong>1953 yılında &uuml;nl&uuml; Amerikan sanat&ccedil;ı Willem de Kooning&rsquo;den aldığı bir &ccedil;izimi silgi ile silmesi ile de bilinen ve bu eylemiyle resim y&uuml;zeyinin imgelerini boşaltarak resmi kendi boşluğuna geri d&ouml;nd&uuml;rm&uuml;ş olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Piet Mondrian
     - B-) Rene Magritte
     - C-) Yves Klein
     - **Cevap D-) Robert Raushenberg**
     - E-) Max Ernst
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi resim y&uuml;zeyinde derinlik yaratmak i&ccedil;in kullanılan y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;izgi ve kont&ouml;r
     - B-) Bi&ccedil;im ve zemin
     - C-) Ge&ccedil;irgenlik
     - **Cevap D-) Vernikleme**
     - E-) Şeffalık
-    ***
+    <hr />
 1. <strong>Cezanne&rsquo;ın g&ouml;rsel d&uuml;nyaya bakıp onu betimlerken y&uuml;zeyde g&ouml;r&uuml;nenin altındaki temel yapıları g&ouml;rme ve bunu resimlerine aktarma &ccedil;abası, hangi akıma giden yolu a&ccedil;mıştır?</strong>
     - A-) Realizm
     - **Cevap B-) K&uuml;bizm**
     - C-) S&uuml;rrealizm
     - D-) Dadaizm
     - E-) Minimalizm
-    ***
+    <hr />
 ## Unite 8
 1. <strong>Ruhsal değerlerin &ouml;nemini vurgulamak amacı ile resimlerinde canlı renkler yerine renklerin a&ccedil;ık ve koyu tonlarını kullanmayı benimseyen R&ouml;nesans sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Peter Paul Rubens
@@ -894,14 +894,14 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - C-) Titian
     - D-) Raffaello Sanzio
     - **Cevap E-) Giotto di Bondone**
-    ***
+    <hr />
 1. <strong>Ka&ccedil;ıncı y&uuml;zyılda krom sarısı elde edilip ressamların paletine eklenmiştir?</strong>
     - A-) 15. yy.
     - B-) 14. yy.
     - C-) 18. yy.
     - **Cevap D-) 17. yy.**
     - E-) 13. yy.
-    ***
+    <hr />
 1. Sanat&ccedil;ılar eserlerine konu ettikleri zenginlik ve ihtişamı anlatmak i&ccedil;in parlak renkleri kullanmışlardır.<strong><br />
 Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilmektedir?</strong>
     - A-) Barok
@@ -909,14 +909,14 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) Maniyerizm
     - D-) Realizm
     - **Cevap E-) Rokoko**
-    ***
+    <hr />
 1. <strong>Renklerin doğadaki hareketleriyle tanımlanacağını s&ouml;yleyen ve doğadaki renklerin karşıtlık ve kontrastlıklarına dikkat &ccedil;ekmiş olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Robert Delaunay**
     - B-) Henry Mattisse
     - C-) Vincent Van Gogh
     - D-) Piet Mondrain
     - E-) Georges Seurat
-    ***
+    <hr />
 1. Resimlerinde renk başka şeylerin simgesi, &ouml;yk&uuml;nmesi, temsili değildir; sadece kendini temsil eder.<br />
 <strong>C&uuml;mlede aşağıdaki hangi sanat&ccedil;ıdan bahsedilmektedir?</strong>
     - A-) Henry Mattisse
@@ -924,7 +924,7 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - **Cevap C-) Mark Rothko**
     - D-) Robert Delaunay
     - E-) Paul Signac
-    ***
+    <hr />
 1. Işığın geniş dalga boyu aralığında insan g&ouml;z&uuml;ndeki foto resept&ouml;r koni h&uuml;creleri, yaklaşık 400 nm ile 700 nm arasındaki dalga boyunu renk olarak g&ouml;r&uuml;r.<br />
 <strong>Dalga boyu en uzun olan renk aşağıdakilerden hangisidir?</strong>
     - A-) Sarı
@@ -932,7 +932,7 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) Mor
     - **Cevap D-) Kırmızı**
     - E-) Mavi
-    ***
+    <hr />
 1. Dik a&ccedil;ıyla gelen g&uuml;neş ışıklarının yansıma ve sa&ccedil;ılmaya uğramadan doğrudan g&ouml;z&uuml;m&uuml;ze gelmesiyle g&uuml;neş ışınları........, g&ouml;ky&uuml;z&uuml; ........renkte g&ouml;z&uuml;k&uuml;r.<br />
 <strong>Boş bırakılan yerlere aşağıdaki se&ccedil;eneklerden hangisi gelmelidir?</strong>
     - A-) beyaz, sarı
@@ -940,28 +940,28 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) sarı, mavi
     - D-) mavi, beyaz
     - E-) turuncu, mavi
-    ***
+    <hr />
 1. <strong>G&uuml;neş ışığı, su zerreciklerinin (yağmur, fıskiye vb.) i&ccedil;ine girdiği zaman, bir kısmı damlaların i&ccedil;inden ge&ccedil;erken kırılmaya uğrayarak yansıması sonucu aşağıdaki hangi atmosferik olay ger&ccedil;ekleşir?</strong>
     - **Cevap A-) G&ouml;kkuşağı**
     - B-) Sis
     - C-) G&ouml;ky&uuml;z&uuml; beyaz g&ouml;z&uuml;k&uuml;r.
     - D-) Mavi ışık sa&ccedil;ılımı olur.
     - E-) G&ouml;ky&uuml;z&uuml; grimsi ve mavi g&ouml;z&uuml;k&uuml;r.
-    ***
+    <hr />
 1. <strong>&Uuml;&ccedil; ana rengin karışımından meydana gelen renkler nasıl tanımlanır?</strong>
     - A-) Tamamlayıcı renkler
     - **Cevap B-) N&ouml;tr renkler**
     - C-) Kontrast renkler
     - D-) Zıt renkler
     - E-) Doygunlaştırılmış renkler
-    ***
+    <hr />
 1. <strong>Isaac Newton yaklaşık &uuml;&ccedil; y&uuml;z elli yıl &ouml;nce karanlık bir odada k&uuml;&ccedil;&uuml;k bir delikten i&ccedil;eriye giren ışık demetini bir &uuml;&ccedil;gen prizmadan ge&ccedil;irerek aşağıdaki hangi ışığı bileşenlere ayırmayı başarmıştır?</strong>
     - A-) Mavi
     - **Cevap B-) Beyaz**
     - C-) Kırmızı
     - D-) Sarı
     - E-) Yeşil
-    ***
+    <hr />
 1. Yery&uuml;z&uuml;n&uuml;n topraklarında en sık rastlanan demir i&ccedil;eriği yoğun topraktan elde edilen renklerdir.<strong><br />
 19. yy.a kadar en sık rastlanan renk tonları aşağıdakilerden hangileridir?</strong>
     - A-) Kırmızı, mavi tonları
@@ -969,7 +969,7 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) Kırmız, mavi, mor tonları
     - D-) Beyaz, turuncu, mavi tonları
     - **Cevap E-) Kırmızı, sarı, yeşil tonları**
-    ***
+    <hr />
 1. Renk &ccedil;emberinde birbirinin karşısında bulunan renkler ........... renklerdir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) tamamlayıcı**
@@ -977,28 +977,28 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) n&ouml;tr
     - D-) monokrom
     - E-) saf
-    ***
+    <hr />
 1. <strong>Aşağıdaki hangi renk grubunu h</strong><strong>uzurlu sakin bir ortam yaratmak istendiğimizde kullanırız?</strong>
     - A-) Sıcak renkler
     - B-) N&ouml;tr renkler
     - **Cevap C-) Soğuk renler**
     - D-) Zıt renkler
     - E-) Monokrom renkler
-    ***
+    <hr />
 1. <strong>İnsanlık tarihinde b&uuml;t&uuml;n renklerin siyah ve beyazdan t&uuml;rediğine inanan d&ouml;nem aşağıdakilerden hangisidir?</strong>
     - A-) Neolitik
     - **Cevap B-) Antik d&ouml;nem**
     - C-) Tun&ccedil; &Ccedil;ağı
     - D-) Orta &Ccedil;ağ
     - E-) Yakın &Ccedil;ağ
-    ***
+    <hr />
 1. <strong>G&uuml;&ccedil; ve dayanıklılığın rengidir. Dışa d&ouml;n&uuml;k, yapıcı ve heyecan vericidir. Hırs, eğlence ve c&ouml;mertlik anlamına gelen renk aşağıdakilerden hangisidir?</strong>
     - A-) Kırmızı
     - **Cevap B-) Turuncu**
     - C-) Sarı
     - D-) Mavi
     - E-) Yeşil
-    ***
+    <hr />
 1. I. Işık<br />
 II. G&ouml;z<br />
 III. Beyin<br />
@@ -1008,14 +1008,14 @@ III. Beyin<br />
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    ***
+    <hr />
 1. <strong>Tamamlayıcı Renk Teorisi&#39;ne g&ouml;re Sarı&rsquo;nın tamamlayıcısı aşağıdakilerden hangisidir?</strong>
     - A-) Mavi
     - **Cevap B-) Mor**
     - C-) Yeşil
     - D-) Turuncu
     - E-) Kırmızı
-    ***
+    <hr />
 ## Unite 9
 1. Resim d&uuml;zleminde, yer &ccedil;ekimine paralel olmayan bi&ccedil;im ve &ccedil;izgiler dinamik etkileri ile ............... izlenimi yaratır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1024,7 +1024,7 @@ III. Beyin<br />
     - C-) derinlik
     - D-) denge
     - E-) perspektif
-    ***
+    <hr />
 1. Resim d&uuml;zleminde yer alan plastik &ouml;gelerin y&ouml;n değişikliği ............oluşturur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
     - A-) Ritim
@@ -1032,7 +1032,7 @@ III. Beyin<br />
     - C-) D&uuml;zen
     - D-) Derinlik
     - E-) Denge
-    ***
+    <hr />
 1. I. Renk değeri eşitliği<br />
 II. Farklı g&uuml;&ccedil;lerin dengesi<br />
 III. &Ccedil;izgisel uyumluluk<br />
@@ -1042,14 +1042,14 @@ III. &Ccedil;izgisel uyumluluk<br />
     - **Cevap C-) Yalnız II**
     - D-) I ve III
     - E-) Yalnız III
-    ***
+    <hr />
 1. <strong>Resim y&uuml;zey &ouml;zelliklerini analiz ederken hareket kavramını tansiyon kavramı ile değiştirerek terminolojide değişim yapmış olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Wassily Kandinsky**
     - B-) Piet Mondrian
     - C-) Robert Delunay
     - D-) Giorgio Morandi
     - E-) Umberto Boccioni
-    ***
+    <hr />
 1. Bir kompozisyonda her iki taraftaki g&ouml;rsel ağırlık eşit olduğunda benzeşmeyen objelerin birbirlerini tamamlamasıyla ...............oluşur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
     - A-) Simetri
@@ -1057,7 +1057,7 @@ III. &Ccedil;izgisel uyumluluk<br />
     - C-) Hareket
     - **Cevap D-) Asimetri**
     - E-) Gerilim
-    ***
+    <hr />
 1. D&uuml;zenli devamlılık evrenin .......... oluşturur ve .............&nbsp; bu ritme bağlı olarak belirlenir.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) hareketini-denge de
@@ -1065,28 +1065,28 @@ III. &Ccedil;izgisel uyumluluk<br />
     - C-) hareketini-zaman da
     - D-) ritmini- denge de
     - E-) hareketini-ritim de
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi d&uuml;zenli ritme dayalı bir etkinliktir?</strong>
     - A-) İnsanın g&ouml;z kapaklarını a&ccedil;ıp kapaması
     - B-) G&ouml;zlerin s&uuml;rekli hareket etmesi
     - C-) &Ouml;fke anında yapılan bedensel hareket
     - **Cevap D-) Mevsimlerin değişimi**
     - E-) Balıkların sudaki hareketi
-    ***
+    <hr />
 1. <strong>Bir insanın uykudayken g&ouml;z kapakları altında g&ouml;zlerinin hareket etmesi uykunun hangi evresidir?</strong> 
     - A-) 1. evre
     - **Cevap B-) REM evresi**
     - C-) 2. evre
     - D-) 3. evre
     - E-) Non REM evresi
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi g&ouml;z&uuml;n istemsiz hareketine &ouml;rnek verilebilir?</strong>
     - **Cevap A-) Y&uuml;r&uuml;y&uuml;ş yaparken kafamızın hareketine bağlı kısa g&ouml;z hareketi**
     - B-) Dans ederken ayak hareketlerimiz
     - C-) Gezegenlerin y&ouml;r&uuml;ngelerindeki yolculuğu
     - D-) Kalp atışımız
     - E-) Mevsimlerin değişimi
-    ***
+    <hr />
 1. Araştırmalara g&ouml;re, ikili ilişkilerde beden dili, s&ouml;zlerle ifade ettiklerimizden %........ daha fazla anlam taşır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 40
@@ -1094,14 +1094,14 @@ III. &Ccedil;izgisel uyumluluk<br />
     - **Cevap C-) 60**
     - D-) 30
     - E-) 70
-    ***
+    <hr />
 1. <strong>Stroboskopik hareketle yaptığı deneylerde g&ouml;zlemcilerin belirli koşullar altında algıladıkları şeyin bir konumdan diğerine hareket eden bir nesne değil, iki nesne arasında ger&ccedil;ekleşen ve her ikisiyle ilgisi olan &ldquo;saf hareket&rdquo; olduğunu bulduğunu bulan Gestalt kuramcısı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Max Wertheir**
     - B-) Wolfgap Kohler
     - C-) Kurt Kaffka
     - D-) Fritz Peris
     - E-) Jhann Wolfgang von Goethe
-    ***
+    <hr />
 1. Evrendeki varlıkların birbirleri arasındaki gerilimin oluşturduğu ritimli hareketin dinamik dengesi altın oran denilen matematiksel veride sayısal karşılığını bulur.<br />
 <strong>Altın oranın sayısal karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) 1,02
@@ -1109,21 +1109,21 @@ III. &Ccedil;izgisel uyumluluk<br />
     - **Cevap C-) 1,618**
     - D-) 1,025
     - E-) 1,125
-    ***
+    <hr />
 1. <strong>Antik Yunan&rsquo;da altın oran uygulayıcısı olarak bilinen ve isminin baş harfinin okunuşu olan &ldquo;fi&rdquo; altın oranı belirleyen sayıları ifade etmede kullanılan heykeltraş aşağıdakilerden hangisidir?</strong>
     - A-) Leochares
     - B-) Fidias
     - C-) Polykeitos
     - D-) Skopas
     - **Cevap E-) Pihidias**
-    ***
+    <hr />
 1. <strong>15. yy. R&ouml;nesans &ouml;ncesi, Arap ve Hint matematik&ccedil;ilerin geliştirdiği ondalık sistemi &lsquo;&rsquo;Liber Abaci&rsquo;&rsquo; adını verdiği kitapla Batı d&uuml;nyasına tanıtan kişi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Pisalı Leonardo Fibonacci**
     - B-) Leonardo da Vinci
     - C-) Luca Pacionli
     - D-) Hieronimo Cardano
     - E-) Ludovico Ferrari
-    ***
+    <hr />
 1. I. Ahenk ve armoni oluşturur.<br />
 II. D&uuml;zen ifadesi verir.<br />
 III. Dikkatimizi dağıtır.<br />
@@ -1133,7 +1133,7 @@ III. Dikkatimizi dağıtır.<br />
     - C-) I, II ve III
     - D-) Yalnız III
     - E-) I ve III
-    ***
+    <hr />
 1. Bir sanat eserinde yapıtı oluşturan &ouml;gelerden birinin ya da daha fazlasının d&uuml;zenli ya da d&uuml;zensiz tekrarı bize &hellip;&hellip;............&hellip;.. verir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) dengeyi
@@ -1141,7 +1141,7 @@ III. Dikkatimizi dağıtır.<br />
     - C-) kompozisyonu
     - D-) d&uuml;zeni
     - **Cevap E-) ritmi**
-    ***
+    <hr />
 ## Unite 10
 1. <strong>&quot;Sanat yapıtı oluşturma s&uuml;reci, sanat&ccedil;ının hissetme, g&ouml;rme tarzıdır. Fazla bir &ccedil;abaya ihtiya&ccedil; duymadan &uuml;retme d&uuml;rt&uuml;s&uuml;n&uuml; kendisinde bulur. Benim i&ccedil;in film d&uuml;ş&uuml;ncemde biter, diğer insanların g&ouml;rmesi i&ccedil;in filme &ccedil;ekerim.&rdquo; diyen &uuml;nl&uuml; film y&ouml;netmeni aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Alfred Hichcock**
@@ -1149,14 +1149,14 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Luis Bunuel
     - D-) Martin Scorsese
     - E-) Woody Allen
-    ***
+    <hr />
 1. <strong>Sanat&ccedil;ının en ayırt edici, en belirgin &ouml;zelliği aşağıdakilerden hangisidir?</strong>
     - A-) El becerisi
     - B-) D&uuml;ş&uuml;nme yeteneği
     - **Cevap C-) Hayal g&uuml;c&uuml;**
     - D-) Kinetik enerjisi
     - E-) Duyumsaması
-    ***
+    <hr />
 1. D&uuml;şsel g&uuml;&ccedil;lerin uyarımı i&ccedil;in sanat&ccedil;ının g&ouml;rsel d&uuml;nyadaki uyarılara ihtiyacı olduğu bir ger&ccedil;ektir.<br />
 <strong>Ressamlara, d&uuml;ş g&uuml;&ccedil;lerini uyarmaları i&ccedil;in nem lekeli duvarlara ve karışık renkli taşlara bakmalarını salık veren &uuml;nl&uuml; sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Paul Klee
@@ -1164,21 +1164,21 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Piet Mondrian
     - D-) Michelangelo di Lodovico Buonarroti
     - **Cevap E-) Leonardo da Vinci**
-    ***
+    <hr />
 1. <strong>&Ccedil;izginin Dışındakiler adlı araştırma kitabında farklı disiplin ve sanat dallarında deha olarak nitelenen kişilerin yaşamlarını incelemiş ve 10 bin saat kuralı diye adlandırdığı bir olgu ortaya koymuş olan Kanadalı gazeteci ve yazar aşağıdakilerden hangisidir?</strong>
     - A-) Anthony Giddens
     - B-) David Fredman
     - C-) Muray Rohtbard
     - **Cevap D-) Malcolm Gladwell**
     - E-) Anthony McGrew
-    ***
+    <hr />
 1. <strong>Yapıtın, her izleyicinin algısı ile yeniden yaratıldığını s&ouml;yleyen yazar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Umberto Eco**
     - B-) Rollo May
     - C-) Anthony Giddens
     - D-) Adolf von Hildebran
     - E-) Michael Wolf
-    ***
+    <hr />
 1. Sanat&ccedil;ı da estetik nesnenin belirlenmesi .......................... katılımıyla oluşur ki, bu da sanat eserinin yapılmasındaki başlangıcı teşkil eder.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi ya da hangileri getirilmelidir?</strong>
     - A-) Duyum-Duygu
@@ -1186,49 +1186,49 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Duygu-Hayal G&uuml;c&uuml;
     - D-) İlham-Duygu-Hayal g&uuml;c&uuml;
     - E-) D&uuml;ş&uuml;nce-Duygu
-    ***
+    <hr />
 1. <strong>&ldquo;Yaratıcı yazar, oyun oynayan bir &ccedil;ocukla aynı işi yapar. Son derece ciddiye aldığı -yani b&uuml;y&uuml;k oranda duygu y&uuml;klediği- bir fantezi d&uuml;nyası yaratır ve bu arada bunu ger&ccedil;eklikten kesin bir bi&ccedil;imde ayırır.&rdquo; diyen ve psikanaliz biliminin de kurucusu kabul edilen araştırmacı aşağıdakilerden hangisidir?</strong>
     - A-) Anne Frank
     - **Cevap B-) Sigmund Freud**
     - C-) Melanie Klein
     - D-) Susan Isaacs
     - E-) Karen Horney
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi yaratıcı kişiye ait &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Katı kurallarla yaşayan, duyarsız**
     - B-) Merak eden
     - C-) İ&ccedil; d&uuml;nyası ve dış d&uuml;nyasıyla bağlantı kurabilen
     - D-) G&ouml;r&uuml;nt&uuml;lerden anlam &ccedil;ıkarabilen
     - E-) Yeni ve farklı şeyleri &ouml;ğrenme heveslisi
-    ***
+    <hr />
 1. <strong>Resim &ccedil;izme etkinliğinin bir t&uuml;r dil olarak g&ouml;ren dil bilimci filozof aşağıdakilerden hangisidir?</strong>
     - A-) Johann Wolfgang von Goethe
     - B-) J.J Rousseau
     - C-) Wilhem von Humboldt
     - D-) Max Osborn
     - **Cevap E-) Paul Klee**
-    ***
+    <hr />
 1. <strong>20. yy. başlarında tasarım elemanlarının ve estetiğin bi&ccedil;imle ilişkisini sanat eğitimine i&ccedil;erik olarak yansıtmış olan sanat kurumu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Bauhaus**
     - B-) Julliard School
     - C-) Royal College of Art
     - D-) Pratt Institute
     - E-) ESMOD International
-    ***
+    <hr />
 1. <strong>Kinestetik algı aşağıdaki hangisi ya da hangileri arasındaki işlem sonucu oluşur?</strong>
     - A-) G&ouml;z, sinir-kas
     - B-) G&ouml;z, beyin
     - **Cevap C-) G&ouml;z, sinir-kas, beyin**
     - D-) G&ouml;z
     - E-) Sinir-kas, beyin
-    ***
+    <hr />
 1. <strong>26 Nisan 1937 tarihinde İspanya&rsquo;nın k&uuml;&ccedil;&uuml;k bir kenti olan Guarnica, Alman u&ccedil;akları tarafından saldırıya uğrar. Guarnica ile ilgili haberlerin etkisiyle yapılmış olan &lsquo;&rsquo;Guarnica&rsquo;&rsquo; adlı yapıt aşağıdakilerden hangi sanat&ccedil;ıya aittir?</strong>
     - A-) Francisco Goya
     - **Cevap B-) Pablo Picasso**
     - C-) Joseph Mallord William Turner
     - D-) George Braque
     - E-) Paul Cezanne
-    ***
+    <hr />
 1. Yapım s&uuml;resi boyunca sanat&ccedil;ının hareketinin g&uuml;c&uuml;, hızı ve y&ouml;n&uuml; yapıta yansır.<br />
 <strong>Bunu hangi sanat hareketlerinde g&ouml;zlemlenebilir?</strong> 
     - A-) Maniyerizm
@@ -1236,7 +1236,7 @@ III. Dikkatimizi dağıtır.<br />
     - C-) K&uuml;bizm ve f&uuml;t&uuml;rizm
     - **Cevap D-) Aksiyon sanatı ve dışavurumculuk**
     - E-) Romantizm
-    ***
+    <hr />
 1. &Ccedil;ocuklar ve sanat&ccedil;ılar yaşama, yaşamı &ccedil;oğunluğun algıladığı kanunlarla, ahlaki, geleneksel, dinsel yaptırımlarla tekd&uuml;ze bakmazlar. Onlar yaşamın değişen dinamiklerini, g&ouml;r&uuml;nenin ardındaki ger&ccedil;ekleri sezen, kavrayan ve bunları oyunları/sanatları ile nesnelleştirebilen &ouml;zel insanlardır.<br />
 <strong>&Ccedil;ocuk ile sanat&ccedil;ıyı ayıran en &ouml;nemli şey, &ccedil;ocuğun doğuştan gelen hangi &ouml;zelliğidir?</strong>
     - A-) Zeki olması
@@ -1244,7 +1244,7 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Sezgi g&uuml;c&uuml;
     - D-) Algı g&uuml;c&uuml;
     - E-) Kavrama g&uuml;c&uuml;
-    ***
+    <hr />
 1. Sanat&ccedil;ı i&ccedil;in de &hellip;..............&hellip;.., doğuştan getirdiği g&ouml;rsel yetenek kadar &ouml;nemlidir. Dahası bu yeteneğin ..............&hellip;&hellip;.. d&ouml;n&uuml;şmesi i&ccedil;in zorunluluktur.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) deha/sanata
@@ -1252,14 +1252,14 @@ III. Dikkatimizi dağıtır.<br />
     - C-) sanat/ustalığa
     - D-) sanat&ccedil;ı olmak/dehaya
     - **Cevap E-) &ccedil;alışmak/dehaya**
-    ***
+    <hr />
 1. <strong>D&uuml;nya Savaşı&rsquo;ndan sonra ABD&rsquo;de ortaya &ccedil;ıkan ve Harold Rosenberg&rsquo;in kullandığı terimle tanımlanan resim &uuml;slubu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Aksiyon Resmi**
     - B-) Kolaj
     - C-) Asemblaj
     - D-) Karakalem
     - E-) Enstalasyon
-    ***
+    <hr />
 ## Unite 11
 1. <strong>Aşağıdakilerden hangisi bir resim y&uuml;zeyinde plastik g&ouml;r&uuml;nt&uuml;n&uuml;n organik, dinamik olabilmesi i&ccedil;in gerekli &ouml;gelerden <u>değildir</u>?</strong> 
     - A-) Hareket
@@ -1267,7 +1267,7 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Par&ccedil;aların birlikteliği
     - D-) Denge
     - **Cevap E-) Sabitlik**
-    ***
+    <hr />
 1. G&ouml;rsel d&uuml;nyanın ışıkla, hareketle değişen g&ouml;rsel değerleri i&ccedil;sel d&uuml;nyada hızlı değişimlere neden olur.<br />
 <strong>Aşağıdakilerden hangisi, g&ouml;rsel deneyimlerle elde edilmiş olan bilgilerin oluşumunda etken <u>değildir</u>?</strong>
     - A-) Bilgi birikimi
@@ -1275,42 +1275,42 @@ III. Dikkatimizi dağıtır.<br />
     - C-) Bilimsel gelişmeler
     - **Cevap D-) Ara&ccedil;, gere&ccedil; kullanımı**
     - E-) Teknolojik değişimler
-    ***
+    <hr />
 1. <strong>Işık enerjisi bir resim y&uuml;zeyi &uuml;zerine d&uuml;şt&uuml;ğ&uuml;nde farklı yayılmalarda farklı pigmentler tarafından soğurulur ya da yansıtılır. Pigmentlerin yapısı aşağıdaki duyumsamalarımızdan hangisini <u>sağlamaz</u>?</strong>
     - A-) Renklerin tonunu
     - **Cevap B-) Resim y&uuml;zeyinin sınırlarını**
     - C-) Bi&ccedil;imlerin karakterini
     - D-) Renklerin parlaklığını
     - E-) Renklerin değerini
-    ***
+    <hr />
 1. <strong>G&ouml;z uzun bir s&uuml;re kırmızı ışık ışınlarına maruz kalırsa, kırmızı y&uuml;zeyden ayrıldığı anda aşağıdakilerden hangi renk ge&ccedil; g&ouml;r&uuml;nt&uuml; olarak g&ouml;z&uuml;m&uuml;z&uuml;n &ouml;n&uuml;nde belirir?</strong>
     - **Cevap A-) Yeşil**
     - B-) Kırmızı
     - C-) Mavi
     - D-) Sarı
     - E-) Mor
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi plastik d&uuml;zenlemenin koşullarından biri&nbsp;<u>olamaz</u>?</strong>
     - A-) Yakınlık
     - **Cevap B-) Kopya**
     - C-) Duygusal alan
     - D-) Benzerlik/eşitlik
     - E-) S&uuml;reklilik
-    ***
+    <hr />
 1. <strong>Resim y&uuml;zeyindeki plastik g&ouml;r&uuml;nt&uuml;den bahsederken &rdquo;G&ouml;z ısrarla b&uuml;t&uuml;nl&uuml;k ister.&rdquo; diyen yazar ve teorisyen aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Goethe**
     - B-) J.K. Rowling
     - C-) Emily Bronte
     - D-) George Orwell
     - E-) Ray Bradbury
-    ***
+    <hr />
 1. <strong>Resim y&uuml;zeyinde yaratılan plastik organizasyona g&uuml;&ccedil;l&uuml; bir gerilim aşağıdaki hangi ilkeler bilin&ccedil;li olarak birlikte kullanılınca ger&ccedil;ekleştirilebilir?</strong>
     - A-) S&uuml;reklilik ve benzerlik
     - **Cevap B-) Benzerlik ve yakınlık**
     - C-) Yakınlık ve duygusal alan
     - D-) Kapalılık ve benzerlik
     - E-) S&uuml;reklilik ve kapalılık
-    ***
+    <hr />
 1. Algımızda her &ccedil;izgi kendi doğasında bir i&ccedil; devinime, kinetik g&uuml;ce sahiptir.<strong><br />
 Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
     - **Cevap A-) S&uuml;reklilik**
@@ -1318,7 +1318,7 @@ Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
     - C-) Kapalılık
     - D-) Durağanlık
     - E-) Basitlik
-    ***
+    <hr />
 1. Dikkatin resim y&uuml;zeyi &uuml;zerinde kalması i&ccedil;in gerekli olan uyarımı ...........sağlar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
     - A-) Statik/durağan
@@ -1326,21 +1326,21 @@ Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
     - C-) Monokrom renk
     - D-) D&uuml;z &ccedil;izgi
     - E-) Kapalı bi&ccedil;imler
-    ***
+    <hr />
 1. <strong>İki g&ouml;zde oluşan iki ayrı retinal imgenin orta noktada birleşerek tek bir şey olarak g&ouml;r&uuml;lmesi ile derinlik algısının oluştuğunu g&ouml;zlemleyen ve stereoskopu bulan bilim adamı aşağıdakilerden hangisidir?</strong>
     - A-) Herman von Helmholtz
     - **Cevap B-) Psikolog Sir Charles Whatshone**
     - C-) John Logie Baird
     - D-) Alexander Graham Bell
     - E-) Guglielmo Marconi
-    ***
+    <hr />
 1. <strong>Resim y&uuml;zeyinde, iki boyutlu alanda uzaysal deneyimler, algımızda &uuml;&ccedil; boyuta ulaşma &ccedil;abası aşağıdaki hangi ilke ya da ilkeler doğrultusunda hareket eder?</strong>
     - A-) Yakınlık, benzerlik
     - B-) Benzerlik, kapalılık
     - **Cevap C-) Yakınlık, benzerlik, kapalılık**
     - D-) Benzerlik
     - E-) Kapalılık
-    ***
+    <hr />
 1. İnsan g&ouml;z&uuml; duygusal olarak g&ouml;rd&uuml;ğ&uuml; boşlukları doldurma ve birimlerin aralarındaki a&ccedil;ıklıkları ................... etkisiyle, g&ouml;rd&uuml;ğ&uuml; a&ccedil;ık formları g&ouml;r&uuml;nmez bağlarla b&uuml;t&uuml;nleyerek kapatır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) kapatma d&uuml;rt&uuml;s&uuml;**
@@ -1348,7 +1348,7 @@ Kırık bir &ccedil;izginin tekrarı hangi duyguyu oluşturur?</strong>
     - C-) benzerlik ve yakınlık
     - D-) yakınlık
     - E-) benzetme ve yakınlık
-    ***
+    <hr />
 1. I. Y&uuml;zeydeki ilişkilerin canlılığı<br />
 II. Y&uuml;zeydeki ilişkilerin netliği<br />
 III. Optik elemanların bireysel &ouml;zellikleri<br />
@@ -1358,14 +1358,14 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - **Cevap C-) Dikkat enerjisi**
     - D-) Karşılıklı değişimi
     - E-) Beğenme isteği
-    ***
+    <hr />
 1. <strong>Uzamsal kurgu yaratılırken yakınlık kuralı hangi kuralla birlikte d&uuml;ş&uuml;n&uuml;lmelidir?</strong>
     - A-) Renk&ccedil;ilik
     - B-) Duygusallık
     - C-) S&uuml;reklilik
     - D-) Kapalılık
     - **Cevap E-) Benzerlik/eşitlik**
-    ***
+    <hr />
 1. Benzer bi&ccedil;imde, uzamsal k&uuml;meler h&acirc;linde d&uuml;zenlenmiş ................. &ccedil;oğalarak i&ccedil;erdiği birimlerin toplamından daha fazla bir şeye d&ouml;n&uuml;ş&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) optik unsurlar**
@@ -1373,7 +1373,7 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - C-) geometrik bi&ccedil;imler
     - D-) S&uuml;reklilik İlkesi
     - E-) sabitlik derecesi
-    ***
+    <hr />
 ## Unite 12
 1. Bir nesnenin d&uuml;şsel, duyusal ve zihinsel algılanmasını sağlayan kendine &ouml;zg&uuml; ger&ccedil;ekliktir.<br />
 <strong>Yukarıdaki tanım aşağıdakilerden hangisine karşılık gelir?</strong>
@@ -1382,14 +1382,14 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - **Cevap C-) Bi&ccedil;im**
     - D-) Tinsellik
     - E-) &Ouml;z
-    ***
+    <hr />
 1. <strong>Bi&ccedil;im kavramını, &ldquo;Her ruh ve yery&uuml;z&uuml;ndeki her şey aslında armoniyle yazılmış bir bestedir.&rsquo;&rsquo; şeklinde a&ccedil;ıklayan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Eflatun/Platon**
     - B-) Aristoteles
     - C-) Immanuel Kant
     - D-) Heraklitos
     - E-) Pisagor/Pythagoras
-    ***
+    <hr />
 1. Madde bir nesne değildir, nesnelerin oluşumunda bulunan ve zaman i&ccedil;inde farklılaşmış temel elemandır.<br />
 <strong>Madde ile bi&ccedil;im arasındaki ayrıma ilk dikkat &ccedil;eken filozof aşağıdakilerden hangisidir?</strong>
     - A-) Demokritos
@@ -1397,7 +1397,7 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - **Cevap C-) Aristoteles**
     - D-) Eflatun/Platon
     - E-) Heraklitos
-    ***
+    <hr />
 1. &ldquo;Bi&ccedil;im &ouml;ze sıkı sıkıya bağlıdır. Bu g&ouml;r&uuml;ş, evrenin algılanmasına olduğu gibi bi&ccedil;im kavramına da estetik-matematik bir bakış a&ccedil;ısıyla yaklaşan ve her şeyin başlangıcının sayı olduğunu kabul eden ............. Kuramı&rsquo;na dayanır.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) İdealar
@@ -1405,7 +1405,7 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - C-) Taklit
     - **Cevap D-) Pisagor**
     - E-) Etkileşim
-    ***
+    <hr />
 1. Yaşamın sağladığı gere&ccedil; ve ger&ccedil;eklik &uuml;zerine sanat&ccedil;ının getirdiği duyusal ve d&uuml;ş&uuml;nsel yorumu i&ccedil;erir. Sanat eseri, sanat&ccedil;ının estetik bi&ccedil;im ile yaşamı bir t&uuml;r yargılamasıdır.<br />
 <strong>Bu yargı aşağıdakilerden hangisini belirler?</strong>
     - A-) Bi&ccedil;imi
@@ -1413,35 +1413,35 @@ III. Optik elemanların bireysel &ouml;zellikleri<br />
     - C-) D&uuml;ş g&uuml;c&uuml;n&uuml;
     - D-) Tini
     - E-) Salt varlığı
-    ***
+    <hr />
 1. <strong>Estetik terimini, 18. yy. ortalarında duyusal bilginin bilimi olarak tanımlayan ve estetiği felsefeden ayırarak bir bilim dalına d&ouml;n&uuml;şmesini sağlayan filozof aşağıdakilerden hangisidir?</strong>
     - A-) Etienne Condillac
     - B-) Georg Wilhelm Friedrich Hegel
     - C-) David Hume
     - D-) Immanuel Kant
     - **Cevap E-) Alexander Gottlieb Baumgarten**
-    ***
+    <hr />
 1. <strong>G&ouml;rsel sanatları ideaların kopyası olan g&ouml;r&uuml;n&uuml;r d&uuml;nyanın nesnelerini taklit ettikleri i&ccedil;in mimesis olarak g&ouml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Eflatun/Platon**
     - B-) Aristoteles
     - C-) Pisagor/Pythagoras
     - D-) Demokrito
     - E-) Epik&uuml;r/Epikuros
-    ***
+    <hr />
 1. <strong>&lsquo;&rsquo;D&uuml;zen d&uuml;zensizlikten, bi&ccedil;im kaostan doğup geliyor.&rsquo;&rsquo; diyen d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Honore de Balzac
     - **Cevap B-) Rollo May**
     - C-) Umberto Eco
     - D-) Rom Harre
     - E-) William James
-    ***
+    <hr />
 1. <strong>&ldquo;Kendisi o şey olmadığı halde onu &ccedil;ağrıştıran ve iletişim sağlayan, anlamlandıran bir ara&ccedil;tır ve somut veya soyut olabilir.&rdquo; tanımlaması aşağıdakilerden hangisine karşılık gelir?</strong>
     - A-) Tarz/&Uuml;slup
     - B-) Konu
     - **Cevap C-) G&ouml;sterge**
     - D-) Boşluk
     - E-) Mek&acirc;n
-    ***
+    <hr />
 1. Sanat&ccedil;ının farklı bi&ccedil;im, teknik, y&ouml;ntem ve malzeme kullanımıyla resim y&uuml;zeyinde bir araya gelen bi&ccedil;imlerin oluşturduğu b&uuml;t&uuml;n, sanat&ccedil;ının............ belirler.<strong><br />
 C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) &Uuml;slubunu**
@@ -1449,42 +1449,42 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Duygularını
     - D-) Hayallerini
     - E-) İnan&ccedil;larını
-    ***
+    <hr />
 1. <strong>&quot;Bizi ger&ccedil;ek d&uuml;nyadan koparıp d&uuml;ş d&uuml;nyasına g&ouml;t&uuml;r&uuml;r.&quot; ifadesi aşağıdakilerden hangi bi&ccedil;imi verir?</strong>
     - A-) Soyut bi&ccedil;im
     - B-) Temsil&icirc; bi&ccedil;im
     - **Cevap C-) Fantastik bi&ccedil;im**
     - D-) Organik bi&ccedil;im
     - E-) Geometrik bi&ccedil;im
-    ***
+    <hr />
 1. <strong>&rdquo;Sanatın gerecini herkes g&ouml;rebilir. İ&ccedil;erik ise ancak kendisiyle ortak bir yanı olanlarca anlaşılabilir.&rdquo; diyen doğa bilimci, teorisyen aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) J. W. von Goethe**
     - B-) Abraham Werner
     - C-) William Smith
     - D-) Karl Marx
     - E-) Charles Darwin
-    ***
+    <hr />
 1. <strong>Yaşamın i&ccedil;inden sıradan bir objenin sanat&ccedil;ının se&ccedil;imi ile bağlamından, işlevinden, anlamından koparılıp bu objeye sanatsal bir stat&uuml; kazandırılması yolunu a&ccedil;an, hazır nesne kavramını sanatın i&ccedil;ine sokan, kavramsal sanatın d&uuml;ş&uuml;nsel temelini de oluşturan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Marcel Duchamp**
     - B-) Joseph Kosuth
     - C-) Soll LeWitt
     - D-) Mark Rotko
     - E-) Wassily Kandinsky
-    ***
+    <hr />
 1. <strong>&rdquo;Ben hi&ccedil; melek resmi yapmadım, &ccedil;&uuml;nk&uuml; hi&ccedil; melek g&ouml;rmedim.&rdquo; ifadesiyle zamanın nesnelliğini vurgulayan, kendi d&uuml;nyası yerine d&uuml;nya ger&ccedil;eklerini g&ouml;zler &ouml;n&uuml;ne seren bi&ccedil;imleri tasvir etmeyi yeğleyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Paul Cezanne
     - B-) Edward Hopper
     - C-) Diego Rivera
     - D-) M. C. Escher
     - **Cevap E-) Gustav Courbet**
-    ***
+    <hr />
 1. <strong>S&uuml;prematizm Manifestosu&rsquo;nda g&uuml;ndelik ger&ccedil;ekliğin &ouml;tesinde daha derin bir ger&ccedil;eklik arayışından bahseden, geometrik soyut sanatın &ouml;nemli temsilcisi sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Piet Mondrian
     - B-) Wassily Kandinsky
     - C-) Pablo Picasso
     - **Cevap D-) Kazimir Malevi&ccedil;**
     - E-) Marcel Duchamp
-    ***
+    <hr />
 1. Batı sanatında soyutlama s&uuml;reci, 1909-1912 arasında &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. yarattığı Analitik K&uuml;bizm ile başlamış oldu. K&uuml;bizmde sanat&ccedil;ı, d&uuml;ş&uuml;ncesi doğrultusunda iki boyutlu olan y&uuml;zeyde &hellip;&hellip;&hellip;../zaman kavramını yakalamak i&ccedil;in g&ouml;r&uuml;nt&uuml;y&uuml; par&ccedil;alamakta sakınca g&ouml;rmez.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Claude Monet&#39;in / F&uuml;t&uuml;rizm
@@ -1492,7 +1492,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Edvard Munch&#39;un / dışavurumculuk
     - **Cevap D-) Braque ve Picasso&#39;nun / d&ouml;rd&uuml;nc&uuml; boyutu**
     - E-) Paul Gauguin&#39;nin / dışavurumculuk
-    ***
+    <hr />
 1. I. K&uuml;bizm<br />
 II. Pop-art<br />
 III. Arazi sanatı<br />
@@ -1503,7 +1503,7 @@ IV. Minimalizm<br />
     - C-) I, II ve III
     - D-) I, II ve IV
     - **Cevap E-) II, III ve IV**
-    ***
+    <hr />
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi bilginin kaynağının deneyden bağımsız &uuml;st d&uuml;zey bir duyum olduğunu s&ouml;yleyen us&ccedil;uluk felsefe akımının d&uuml;ş&uuml;n&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Aristoteles
@@ -1511,35 +1511,35 @@ IV. Minimalizm<br />
     - C-) Rene Descartes
     - D-) Baruch Spinoza
     - E-) Eflatun/Platon
-    ***
+    <hr />
 1. <strong>Duyuların yetkinliği &ouml;ğretisini geliştiren; estetiği, duyulur bilginin bilimi, g&uuml;zeli araştıran bilim olarak kurmuş olan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Rene Descartes
     - B-) David Hume
     - **Cevap C-) Alexander Gottlieb Baumgarten**
     - D-) John Locke
     - E-) George Berkeley
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden hangisi estetiğin temel &ouml;gelerinden biri <u>değildir</u>?</strong>
     - A-) Estetik obje
     - B-) Estetik s&uuml;je
     - C-) Estetik değer
     - **Cevap D-) Doğa**
     - E-) Estetik yargı
-    ***
+    <hr />
 1. <strong>Aşağıdakilerden d&uuml;ş&uuml;n&uuml;rlerden hangisi sanat yapıtını, &quot;İzleyicinin ampirik deneyimlerinin ya da onunla zihinsel alışverişinin sonucunda oluşmuş bir &uuml;r&uuml;n değildir. &quot; şeklinde a&ccedil;ıklamıştır?</strong>
     - A-) Aldous Huxley
     - B-) Meyer Schapiro
     - **Cevap C-) Roman Ingarden**
     - D-) John Cage
     - E-) Jean-Luc Nancy
-    ***
+    <hr />
 1. <strong>Sanat yapıtının oluşum s&uuml;recinde ka&ccedil; farklı nesne &ccedil;&ouml;z&uuml;mlemesinden bahsedilir?</strong>
     - A-) 1
     - B-) 2
     - C-) 4
     - D-) 3
     - **Cevap E-) 5**
-    ***
+    <hr />
 1. Sanat yapıtı, ger&ccedil;ek d&uuml;nyada kendiliğinden var olan nesnenin sanat&ccedil;ı tarafından mevcut nesne olarak kavranarak farklı malzemelerle yeniden varlık kazandırılmasıyla oluşur. İşte buna................denir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Objektivasyon**
@@ -1547,14 +1547,14 @@ IV. Minimalizm<br />
     - C-) Konstr&uuml;ksiyon
     - D-) Ereksel nesne
     - E-) Alımlayıcı nesne
-    ***
+    <hr />
 1. <strong>Nesneler d&uuml;nyasının algılayan &ouml;zne ile var olduğunu, algılayan olmadığında dış d&uuml;nyanın da ortadan kalkacağını savunan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Immanuel Kant
     - B-) Georg Wilhwlm Friedrich Hegel
     - C-) David Hume
     - D-) Jean-Paul Sartre
     - **Cevap E-) George Berkeley**
-    ***
+    <hr />
 1. Yansıtma Sanat Kuramı 18. y&uuml;zyılın ortalarına kadar kendi i&ccedil;inde &uuml;&ccedil; temel g&ouml;r&uuml;şle ele alınmıştır.<br />
 <strong>Bu g&ouml;r&uuml;şlerden biri olan &quot;sanat geneli ya da &ouml;z&uuml; yansıtır.&quot; d&uuml;ş&uuml;ncesi aşağıdakilerden hangi d&uuml;ş&uuml;n&uuml;re aittir?</strong>
     - A-) Benedetto Croce
@@ -1562,7 +1562,7 @@ IV. Minimalizm<br />
     - **Cevap C-) Aristo**
     - D-) George Wilhelm Friedrich Hegel
     - E-) Alexander Gottlieb Baumgarden
-    ***
+    <hr />
 1. Bi&ccedil;imci sanat kuramı yapıtı merkeze alan bir kuramdır. Estetik nesnenin duyulur olarak algılanması olgusuna dayanır. Bu kurama g&ouml;re; estetik nesne sanat elemanlarının kompozisyon ilkeleriyle bi&ccedil;im kazanarak nesnelleşir. &Ouml;zellikle &ldquo;saf resim&rdquo; kavramında estetik nesne salt estetik bi&ccedil;im olarak varlık kazanır.<strong><br />
 Saf resim kavramını ortaya atan sanat eleştirmeni aşağıdakilerden hangisidir?</strong>
     - A-) Ernst Gombrich
@@ -1570,7 +1570,7 @@ Saf resim kavramını ortaya atan sanat eleştirmeni aşağıdakilerden hangisid
     - **Cevap C-) Clement Greenberg**
     - D-) Thomas McEvilley
     - E-) Brian O&rsquo;Doherty
-    ***
+    <hr />
 1. Doğuştan zihnimizde fikirler olduğu savına şiddetle karşı &ccedil;ıkmıştır.<strong><br />
 Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğunu s&ouml;yleyen d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Aristoteles
@@ -1578,7 +1578,7 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - C-) John Locke
     - **Cevap D-) David Hume**
     - E-) Bertrand Russel
-    ***
+    <hr />
 1. Konunun sanat&ccedil;ının zihninde bi&ccedil;im kazanmış h&acirc;lidir. Sanat&ccedil;ının zihninde tasarladığı nesnedir.<br />
 <strong>Bu tanımlama sanat yapıtının oluşum s&uuml;recinden hangisini ifade eder?</strong>
     - A-) Mevcut nesne
@@ -1586,7 +1586,7 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - C-) Bitmemiş nesne
     - D-) Yapıt olarak nesne
     - E-) Alımlayıcı nesne
-    ***
+    <hr />
 1. Ontolojik anlayışa g&ouml;re; bir sanat nesnesinin varlık kazanabilmesi ancak estetik bir tavırla o nesneyi algılayan ve yorumlayan kavrayıcı &ouml;zneyle/alımlayıcıyla m&uuml;mk&uuml;n olur. Buna............. denir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Kavrayıcı tin/kavrayıcı &ouml;zne**
@@ -1594,35 +1594,35 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - C-) Yapıt olarak nesne
     - D-) Mevcut Nesne
     - E-) Bitmemiş nesne
-    ***
+    <hr />
 1. <strong>&ldquo;Pratik Usun Eleştirisi&rdquo; &ccedil;alışmasında ilk kez oyun ve sanat arasındaki benzerliğe dikkat &ccedil;eken d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Roman Ingarden
     - B-) Benedetto Croce
     - C-) Alexander Gottlieb Baumgarten
     - D-) Clement Greenberg
     - **Cevap E-) Immanuel Kant**
-    ***
+    <hr />
 1. <strong>Bilginin t&uuml;m&uuml;yle deneyden t&uuml;retilmiş olduğunu s&ouml;yleyen; duyumları, ger&ccedil;eği olduğu gibi yansıtan duyumlar ve nesnenin kendisinde bulunmayan &ouml;znel olan duyumlar olmak &uuml;zere ikiye ayıran d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) John Locke**
     - B-) George Berkeley
     - C-) Georg Wilhelm Friedrich Hegel
     - D-) Bertrand Russel
     - E-) Ludwing Wittgwnstein
-    ***
+    <hr />
 1. <strong>&ldquo;Sanat&ccedil;ı tarafından estetik erek ve estetik tavır sonucu, estetik değer ve sanatsal kaygılarla &uuml;retilen, alımlayıcı tarafından estetik y&ouml;nelimle kavranan tek ve benzersiz nesnedir.&rdquo; c&uuml;mlesi aşağıdakilerden hangisini tanımlar?</strong>
     - A-) Mevcut nesne
     - **Cevap B-) Sanat yapıtı**
     - C-) Bitmemiş nesne
     - D-) Objektivasyon
     - E-) Estetik tavır
-    ***
+    <hr />
 1. <strong>Felsefeyi, &ldquo;var olanların ilk temellerini ve ilkelerini araştıran bir bilgi&rdquo; olarak tanımlayan Antik Yunan filozofu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Aristoteles**
     - B-) David Hume
     - C-) Rene Descartes
     - D-) Meyer Schapiro
     - E-) Jean-Paul Sartre
-    ***
+    <hr />
 ## Unite 14
 1. Dış d&uuml;nyada var olan nesnelerden ve mek&acirc;ndan g&ouml;z&uuml;m&uuml;ze yansıyan izd&uuml;ş&uuml;mleri zihnimizde canlandığında dış ger&ccedil;ekliği somut veya d&uuml;şsel ya da sezgisel olarak yeniden yarattığımızda............. oluşur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1631,14 +1631,14 @@ Zihnimizin izlenimler ve fikirlerden oluşan iki t&uuml;r &ouml;zelliği olduğu
     - **Cevap C-) İmge**
     - D-) Duygulanım
     - E-) Simge
-    ***
+    <hr />
 1. <strong>&ldquo;Metnin dışında hi&ccedil;bir şey yoktur.&rdquo; &ouml;nermesi ile bilinen,Yapıs&ouml;k&uuml;mc&uuml; Anlayışı&#39;nın temelini oluşturan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Jacques Derrida**
     - B-) Rudolf Husseri
     - C-) Henri Bergson
     - D-) Bertrand Russell
     - E-) George Edward Moore
-    ***
+    <hr />
 1. D&ouml;nemin t&uuml;ketim imgelerini tekrarlayarak t&uuml;ketim k&uuml;lt&uuml;r&uuml; zihniyetini &ouml;ver.<strong><br />
 End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i bir etkiye sahip olması olgusunu imge &uuml;zerinden sanata aktaran sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Macel Duchamp
@@ -1646,21 +1646,21 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - C-) Piet Mondrian
     - D-) Wassily Kandinsky
     - E-) Sol LeWitt
-    ***
+    <hr />
 1. <strong>&ldquo;İmgelenim, eylem h&acirc;lindeki duyunun ortaya &ccedil;ıkan hareketidir.&rdquo; c&uuml;mlesi aşağıdakilerden hangi d&uuml;ş&uuml;n&uuml;re aittir?</strong>
     - **Cevap A-) Aristotles**
     - B-) Platon/Eflatun
     - C-) Heraklitos/Herakleitos
     - D-) Demokritos
     - E-) Epik&uuml;r/Epikuros
-    ***
+    <hr />
 1. <strong>&ldquo;İmgelem; nesnenin varlığı orada olmasa bile zihinde imgeyi canlandırmakla ger&ccedil;ekleşir. İmge varlığın zihinde canlandırılma h&acirc;lidir.&rdquo; diye imgelenimi a&ccedil;ıklayan ve bilgi kuramını felsefenin akılcılık ve deneycilik geleneklerini birleştirerek ele alan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) George Berkeley
     - B-) Johne Locke
     - C-) David Hume
     - **Cevap D-) Immanuel Kant**
     - E-) Georg Wilhelm Friedrich Hegel
-    ***
+    <hr />
 1. Sanat&ccedil;ılar imgelenimi ger&ccedil;ek&ccedil;i esaslara g&ouml;re betimlemeye, sistematik olarak g&ouml;z&uuml; aldatabilecek benzerliğe ulaşmaya &ccedil;alışmışlardır.<br />
 <strong>C&uuml;mlede hangi d&ouml;nem sanat&ccedil;ılarının imgeleniminden bahsedilmektedir?</strong>
     - A-) Mısır
@@ -1668,14 +1668,14 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - **Cevap C-) R&ouml;nesans**
     - D-) Hitit
     - E-) Bizans
-    ***
+    <hr />
 1. <strong>İmgenin sınırlarını ışık-g&ouml;lge ile eriterek bi&ccedil;imleri mek&acirc;n ile b&uuml;t&uuml;nleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Michelengelo Merisi da Caravaggio
     - **Cevap B-) Rembrandt Harmenszoon van Rjin**
     - C-) Diego Velazquez
     - D-) Peter Paul Rubens
     - E-) Gian Lorenzo Bernini
-    ***
+    <hr />
 1. Doğada var olan g&ouml;r&uuml;n&uuml;rl&uuml;ğ&uuml;n zaman i&ccedil;inde değişiminin kaynağı olan ışığa bakmıştır. Yakalamak istediği şey, nesneler değil onları g&ouml;r&uuml;n&uuml;r kılan g&uuml;neş ışığı ve ışığın değişimi ile oluşan anlık izlenimleriydi.<br />
 <strong>Paragrafta bahsedilen sanat akımı aşağıdakilerden hangisidir?</strong>
     - A-) Realizm
@@ -1683,49 +1683,49 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - C-) Barok
     - **Cevap D-) Empresyonizm**
     - E-) R&ouml;nesans
-    ***
+    <hr />
 1. <strong>Seri &uuml;retilmiş nesneleri, formları, imgeleri kendine mal etme d&uuml;ş&uuml;ncesi ile hazır nesne/ready made kavramını sanata getiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Vassily Kandinsky
     - B-) Piet Mondrain
     - C-) Kazimir Malevi&ccedil;
     - **Cevap D-) Marcel Duchamp**
     - E-) Pablo Picasso
-    ***
+    <hr />
 1. <strong>Bilimsel bakış a&ccedil;ısını, optik bilimine katkı yapacak seviyeye taşıyan, ışığın fotonsal değerler arasındaki verilerini, optik kuram &ccedil;er&ccedil;evesinde g&uuml;ndeme getiren postempresyonist sanat&ccedil;ılar kim/kimlerdir?</strong>
     - A-) Camille Pissarro
     - B-) Edgar Degas
     - C-) Edouard Manet ve Pierre Auguste Renoir
     - D-) Claude Monet
     - **Cevap E-) Paul Signac ve Georges Seura**
-    ***
+    <hr />
 1. <strong>&ldquo;Sanat&ccedil;ının imgelemi, ger&ccedil;ek dışı bir imgenin zihninde canlandırarak ona ger&ccedil;eklik kazandırılmasıdır.&rdquo; g&ouml;r&uuml;ş&uuml;n&uuml; savunan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Demokritos
     - B-) Aristoteles
     - **Cevap C-) Platon/Eflatun**
     - D-) Pisagor/Pythagoras
     - E-) Tales/Thales
-    ***
+    <hr />
 1. <strong>İmgelemin ruh ve beden olarak iki y&ouml;nl&uuml;l&uuml;ğ&uuml;ne dikkat &ccedil;eken, d&uuml;alist felsefeci aşağıdakilerden hangisidir?</strong>
     - A-) Pascal
     - B-) Spinoza
     - C-) Nicola Malebranche
     - **Cevap D-) Rene Descartes**
     - E-) Leibniz
-    ***
+    <hr />
 1. <strong>Balkondakiler (1868-1869) resminin kurgusunu ve bi&ccedil;imlerini alarak burjuva ve aristokrasinin elit imgelerini eleştiren Edvard Manet resmini hangi sanat&ccedil;ıdan alıntılama yaparak d&ouml;n&uuml;şt&uuml;rm&uuml;şt&uuml;r?</strong>
     - A-) Marcantoni Raimondi
     - **Cevap B-) Francisco Goya**
     - C-) Rene Magritte
     - D-) Diego Velazquez
     - E-) Leonardo da Vinci
-    ***
+    <hr />
 1. <strong>&ldquo;Resimlerde ağırlıklı olarak aşk, &ouml;l&uuml;m, kahramanlık, tabiat konularını işlemişlerdir. İmgeler, nesnel ger&ccedil;ekliğin &ouml;tesinde temsil ettiği şeyin duygusunun aktarım unsurudur.&rdquo; ifadeleri ile hangi d&ouml;nem sanatından bahsedilmektedir?</strong>
     - A-) R&ouml;nesans
     - B-) Barok
     - **Cevap C-) Romantizm**
     - D-) Maniyerizm
     - E-) Mısır
-    ***
+    <hr />
 1. &ldquo;................. bi&ccedil;imsel olarak modernist kimliğe sahip; ancak saptıran, medyatik, apolitik vb. postmodern anlayışın i&ccedil;eriğine sahiptir.&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) D&uuml;ş&uuml;nsel imge
@@ -1733,14 +1733,14 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - C-) Mevcut imge
     - D-) Ereksel imge
     - **Cevap E-) Sanal imge**
-    ***
+    <hr />
 1. <strong>İnsanın benzerini yapma &ccedil;abasını insanın doğaya karşı &uuml;st&uuml;nl&uuml;k ya da var olma &ccedil;abası olarak g&ouml;r&uuml;r. Ve bunu sanatın temel yapılarından biri olarak kabul eder. Bu s&uuml;recin b&uuml;y&uuml;l&uuml; bir yanının olduğundan da bahseden tarih&ccedil;i, yazar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ernest Fischer**
     - B-) Walter Benjamin
     - C-) Rudolf Arnheim
     - D-) Ernst Gombrich
     - E-) Wilhelm Worringer
-    ***
+    <hr />
 1. &hellip;&hellip;&hellip;&hellip;. insanın doğasına &ouml;zg&uuml; yaratıcılığın sonucu olarak, zihinsel bir aktivite ile dış ger&ccedil;ekliği bireye &ouml;zg&uuml; bir g&ouml;rsel ger&ccedil;ekliğe d&ouml;n&uuml;şt&uuml;rmenin sonucu ortaya &ccedil;ıkan g&ouml;r&uuml;nt&uuml;d&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Simge
@@ -1748,11 +1748,11 @@ End&uuml;striyel &uuml;retim nesnelerinin insanlar arasında eşitlik&ccedil;i b
     - C-) Obje
     - D-) Nesne
     - **Cevap E-) İmge**
-    ***
+    <hr />
 1. <strong>&ldquo;Sanatta d&uuml;ş&uuml;ncenin el becerisinin &ouml;n&uuml;ne ge&ccedil;tiği kırılma noktasını temsil eden d&uuml;ş&uuml;nce, sıradan bir nesneyi sanat yapıtı olarak sunmaktadır. Bu d&uuml;ş&uuml;nce sanat yapıtının biricik, benzersiz olması d&uuml;ş&uuml;ncesini temelden sarsmıştır. İmge, sanat&ccedil;ının yetenek, beceri ve d&uuml;ş g&uuml;c&uuml;yle değil; d&uuml;ş&uuml;ncesinin aracı olan sıradan bir nesne se&ccedil;imi ile ortaya &ccedil;ıkar.&rdquo; s&ouml;yleminin sanatsal olarak kavram karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) K&uuml;bizm
     - B-) Enstalasyon
     - **Cevap C-) Hazır nesne**
     - D-) Kolaj
     - E-) Asemblaj
-    ***
+    <hr />

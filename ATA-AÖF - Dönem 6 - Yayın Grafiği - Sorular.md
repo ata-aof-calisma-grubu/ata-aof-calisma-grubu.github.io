@@ -843,8 +843,8 @@ III. Şekil<br />
     <hr />
 1. <strong>Hangisi tasarım uygulamalarında kullanılan ekran rengidir?</strong>
     - A-) CMYK
-    - B-) RGB
-    - **Cevap C-) PDF**
+    - **Cevap B-) RGB**
+    - C-) PDF
     - D-) JPEG
     - E-) Pantone
     <hr />

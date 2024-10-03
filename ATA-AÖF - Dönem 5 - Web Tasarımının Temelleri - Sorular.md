@@ -1406,8 +1406,8 @@ IV. Eski teknolojiler kullanmak<br />
 1. <strong>Aşağıdakilerden hangisinde HTML de kullanılan &ldquo;BR&rdquo; etiketinin W3C standartlarına g&ouml;re kullanımı doğru verilmiştir?</strong>
     - A-) &lt;br&gt; &lt;br /&gt;
     - B-) &lt;br&gt;
-    - **Cevap C-) **
-    - D-) </br>
+    - **Cevap C-) &lt;br /&gt;**
+    - D-) &lt;/br&gt;
     - E-) br
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğu testlerinde kullanılabilecek ara&ccedil;lardan biridir?</strong>

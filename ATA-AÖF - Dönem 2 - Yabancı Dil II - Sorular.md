@@ -895,7 +895,7 @@ Which of the following completes the dialogue above?<br />
     - E-) had had
     <hr />
 1. It snows a lot here. I wish it&nbsp;........................&nbsp;so much.<br />
-<strong style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;; font-size: 13px;">C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong> 
+<strong>C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong> 
     - A-) isn&rsquo;t snow
     - **Cevap B-) didn&rsquo;t snow**
     - C-) not snow
@@ -1718,10 +1718,10 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. Students will have to take &hellip;&hellip;&hellip;&hellip; German&hellip;&hellip;&hellip;.. French next year.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) either - or**
-    - B-) but <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">- </span>or
-    - C-) or <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">- </span>yet
-    - D-) and <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">- </span>yet
-    - E-) and <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">- </span>both
+    - B-) but - or
+    - C-) or - yet
+    - D-) and - yet
+    - E-) and - both
     <hr />
 1. He ran, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; he missed the bus.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

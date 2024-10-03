@@ -82,7 +82,6 @@ IV. Yeniden d&uuml;zenleme<br />
     - E-) Devrim
     <hr />
 1. &hellip;&hellip;&hellip;&hellip;.. bir devletin ya da ulusun, başka bir devleti veya devletleri siyasi ve ekonomik a&ccedil;ıdan egemenliği altına alıp yayılması olarak tanımlanır.<br />
-<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) Emperyalizm**
     - B-) Evrim
@@ -404,7 +403,6 @@ IV. Azınlıkların faaliyetleri<br />
 1. I. Bu d&ouml;nemin &uuml;nl&uuml; Sadrazamı Nevşehirli Damat İbrahim Paşa&rsquo;dır.<br />
 II. İlk defa yurt dışına el&ccedil;iler g&ouml;nderilmiştir.<br />
 III. Patrona Halil İsyanı ile sona ermiştir.<br />
-<br />
 <strong>Osmanlı Devleti&rsquo;nde Lale Devri (1718-1730) ile ilgili olarak yukarıdaki bilgilerden hangisi ya da hangileri doğrudur?</strong> 
     - A-) Yalnız II
     - B-) Yalnız I
@@ -1425,18 +1423,14 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Mustafa Kemal&rsquo;in askerlik g&ouml;revine son verilmesi
     - E-) İstanbul H&uuml;k&ucirc;meti&#39;nin Sevr Antlaşması&rsquo;nı imzalaması
     <hr />
-1. <strong>Aşağıdakilerden hangisi IX. Ordu Kıtaat-ı M&uuml;fettişi Mustafa Kemal Paşa&rsquo;nın g&ouml;reviyle ilgili <u>değildir?</u></strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi IX. Ordu Kıtaat-ı M&uuml;fettişi Mustafa Kemal Paşa&rsquo;nın g&ouml;reviyle ilgili <u>değildir?</u></strong>
     - A-) B&ouml;lgede asayişin temini
     - B-) M&uuml;tareke gereğince silahların toplatılması
     - C-) Gayriresm&icirc; olduğu s&ouml;ylenen şuraların lağvedilmesi
     - D-) &Ccedil;etelerin lağvedilmesi
     - **Cevap E-) Mondros M&uuml;tarekesi&rsquo;nin uygulanması**
     <hr />
-1. <strong>&Uuml;nl&uuml; tarih&ccedil;i G. Jaeschke&rsquo;nin diplomasi şaheseri olarark değerlendirdiği talimatname aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>&Uuml;nl&uuml; tarih&ccedil;i G. Jaeschke&rsquo;nin diplomasi şaheseri olarark değerlendirdiği talimatname aşağıdakilerden hangisidir?</strong>
     - A-) Sivas Komutanlar Talimanamesi
     - **Cevap B-) Ordu Kıtaat-ı M&uuml;fettişliği Talimatnamesi**
     - C-) Havza Talimatnamesi
@@ -1446,7 +1440,6 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
 1. -B&ouml;lgede asayişin temini<br />
 -M&uuml;tareke gereğince silahların toplatılması<br />
 -Gayriresm&icirc; olduğu s&ouml;ylenen şuraların lağvedilmesi<br />
-<br />
 <strong>Yukarıdaki yargılar Mustafa Kemal Paşa&rsquo;nın hangi sıfatıyla ilgilidir?</strong>
     - A-) Yıldırım Orduları Komutanlığı
     - B-) Erzurum Mebusluğu
@@ -2167,9 +2160,7 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
     - **Cevap D-) TBMM&#39;nin a&ccedil;ılmasıyla**
     - E-) 1921 tarihli Teşkilat-ı Esasiye Kanunu&rsquo;nun kabul&uuml;yle
     <hr />
-1. <strong>Aşağıdakilerden hangisi, İstanbul H&uuml;k&ucirc;meti&rsquo;nin TBMM&rsquo;ye karşı m&uuml;cadelesinde başvurduğu y&ouml;ntemlerden biri <u>değildir?</u></strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi, İstanbul H&uuml;k&ucirc;meti&rsquo;nin TBMM&rsquo;ye karşı m&uuml;cadelesinde başvurduğu y&ouml;ntemlerden biri <u>değildir?</u></strong>
     - A-) İsyanlar &ccedil;ıkarması
     - B-) Anadolu halkını fetvalarla Mustafa Kemal&rsquo;e karşı kışkırtması
     - C-) İ&ccedil; isyanları desteklemesi
@@ -2216,7 +2207,6 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
 1. I. Lozan Antlaşması<br />
 II. Sevr Antlaşması<br />
 III. Mondros M&uuml;tarekesi<br />
-<br />
 <strong>Yukarıdaki antlaşmalardan hangisi ya da hangileri &ouml;l&uuml; doğmuş antlaşma olarak bilinir?</strong>
     - A-) Yalnız ı
     - **Cevap B-) Yalnız II**

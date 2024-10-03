@@ -1198,9 +1198,9 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılarının belirli bir alanda uzmanlaşma gerekliliklerinden biri <u>değildir</u>?</strong><br />
 
-    - **Cevap A-) Mesleki rekabet koşulları<br />**
+    - **Cevap A-) Mesleki rekabet koşulları**
     - B-) Hizmet verilen sekt&ouml;rlerin kendine &ouml;zg&uuml; &ouml;zellikleri
-    - C-) Fotoğraf&ccedil;ıların ilgi alanları<br />
+    - C-) Fotoğraf&ccedil;ıların ilgi alanları
     - D-) Fotoğraf&ccedil;ıların m&uuml;şteri portf&ouml;y&uuml;
     - E-) Fotoğraf&ccedil;ıların, m&uuml;şterilerine daha kaliteli hizmet verme anlayışı
     <hr />
@@ -1313,7 +1313,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
 1. <strong>Aşağıdakilerden hangisi fotoğraf st&uuml;dyolarının temel fiziki &ouml;zelliklerinden biri <u>değildir</u>?</strong><br />
 
     - A-) Işıktan yalıtılmış olması
-    - B-) Giriş &ccedil;ıkışın kontrol edilebilir olması<br />
+    - B-) Giriş &ccedil;ıkışın kontrol edilebilir olması
     - **Cevap C-) Asans&ouml;r bulunması**
     - D-) Fon bulunması
     - E-) Yapay ışık kaynaklarının bulunması
@@ -1698,7 +1698,7 @@ III. T&uuml;ketim toplumu<br />
     <hr />
 1. <strong>Bir fotoğraf portfolyosu aşağıdakilerden hangisi i&ccedil;in <u>hazırlanmaz</u>?</strong><br />
 
-    - A-) Fotoğraf eğitimi veren bir kuruma kabul edilmek i&ccedil;in<br />
+    - A-) Fotoğraf eğitimi veren bir kuruma kabul edilmek i&ccedil;in
     - B-) Bir reklam fotoğrafı &ccedil;ekim işini almak i&ccedil;in
     - **Cevap C-) Bir fotoğraf st&uuml;dyosu satın almak i&ccedil;in**
     - D-) Bir galeride fotoğraf sergisi a&ccedil;mak i&ccedil;in

@@ -411,8 +411,7 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - B-) D&uuml;z baskı (Ofset)
     - **Cevap C-) Yatay baskı (Horizontal)**
     - D-) &Ccedil;ukur baskı (Tifdruk)
-    - E-) Serigrafi baskı (Elek)<br />
-&nbsp;
+    - E-) Serigrafi baskı (Elek)
     <hr />
 1. <strong>En eski tarihli g&ouml;r&uuml;nt&uuml; ve yazı i&ccedil;eren MS 868 tarihli, bir parşomen tomarı &uuml;zerine basılan Budizm i&ccedil;in &ouml;nemli kaynaklardan biri olan &quot;Diamond Sutra &Ouml;ğretisi&quot; adlı kitap aşağıdakilerden hangisinde bulunmuştur?</strong>
     - **Cevap A-) Doğu T&uuml;rkistan&#39;da bir mağarada**
@@ -599,7 +598,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
 1. <strong>Aşağıdakilerden hangisi elektromanyetik tayf i&ccedil;erisindeki G&ouml;r&uuml;n&uuml;r Işık Tayfı i&ccedil;in doğru aralıktır?</strong>
     - A-) 120 ile 180 nm
     - B-) 340 ile 450 nm
-    - **Cevap C-) 380 ile 740 nm<br />**
+    - **Cevap C-) 380 ile 740 nm**
     - D-) 450 ile 850 nm
     - E-) 740 ile 1000 nm
     <hr />

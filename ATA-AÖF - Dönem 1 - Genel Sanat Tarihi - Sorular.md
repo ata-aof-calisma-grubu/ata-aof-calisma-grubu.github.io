@@ -98,8 +98,7 @@ Metindeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
     <hr />
 1. <strong>Mahalle aralarında bağımsız olarak veya bir yapıya bitişik yapılmış, genellikle herkesin yararlanması i&ccedil;in yapılan, borularla gelen suyun bir oluktan ya da musluktan aktığı, bir yalağı bulunan su yapılarına..&hellip;.. denir.<br />
 Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong> 
-    - A-) Sebil<br />
-<br />
+    - A-) Sebil
     - B-) ​ Selsebil
     - C-) Kurun
     - **Cevap D-) &Ccedil;eşme**
@@ -186,9 +185,7 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - **Cevap D-) Hititlerin**
     - E-) Friglerin
     <hr />
-1. <div style="text-align: justify;">
-	<strong>M&Ouml; 725-675 yıllarında Anadolu&rsquo;ya g&ouml;&ccedil; eden Balkan k&ouml;kenli boylardan olup siyasi bir topluluk olarak ilk defa M&Ouml; 750&rsquo;den sonra Hitit İmparatorluğu&rsquo;nun yıkılmasının ardından Anadolu&#39;da kurulan uygarlık aşağıdakilerden hangisidir?</strong></div>
-
+1. <strong>M&Ouml; 725-675 yıllarında Anadolu&rsquo;ya g&ouml;&ccedil; eden Balkan k&ouml;kenli boylardan olup siyasi bir topluluk olarak ilk defa M&Ouml; 750&rsquo;den sonra Hitit İmparatorluğu&rsquo;nun yıkılmasının ardından Anadolu&#39;da kurulan uygarlık aşağıdakilerden hangisidir?</strong>
     - A-) Likya
     - B-) Lidya
     - C-) Urartu
@@ -718,8 +715,7 @@ III. Klasik D&ouml;nem: Fig&uuml;rlerde idealizm &ouml;n plandadır, yapılan he
     - **Cevap A-) İkona**
     - B-) Minyat&uuml;r
     - C-) Fresko
-    - D-) Mozaik<br />
-<br />
+    - D-) Mozaik
     - E-) Diptikon
     <hr />
 1. <strong>El yazmalarında karşımıza &ccedil;ıkan, &ccedil;ok ince işlenmiş ve k&uuml;&ccedil;&uuml;k boyutlu resimlere &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..&rdquo; denir.<br />
@@ -747,8 +743,7 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir.<
 1. <strong>Bizans medeniyetinde konuşulan resm&icirc; dil aşağıdakilerden hangisidir?</strong>
     - A-) Sırp&ccedil;a
     - B-) Bulgarca
-    - C-) Rus&ccedil;a<br />
-<br />
+    - C-) Rus&ccedil;a
     - **Cevap D-) Grek&ccedil;e**
     - E-) Almanca
     <hr />

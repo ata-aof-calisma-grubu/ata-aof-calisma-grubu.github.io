@@ -1093,7 +1093,7 @@ IV. Tahta kaşıklar<br />
     - D-) Pop Art
     - E-) K&uuml;bizm
     <hr />
-1. 7.	Aşağıdakilerden hangisi modern sanatın özelliklerinden biri değildir?
+1. Aşağıdakilerden hangisi modern sanatın özelliklerinden biri değildir?
 
     - A-) Geleneksele aldığı tavırla bilinen Modernizmde &ldquo;Avangard&rdquo; kavramı y&ouml;nlendirici bir &ouml;zelliğe sahiptir.
     - B-) Modern kelimesi, Latice&rsquo;de &ldquo;tam şimdi&rdquo; anlamında kullanılan &ldquo;modo&rdquo; ve bu s&ouml;zc&uuml;kten t&uuml;retilen &ldquo;modernus&rdquo; kelimesinden ortaya &ccedil;ıkmaktadır.
@@ -1379,8 +1379,7 @@ IV. Tahta kaşıklar<br />
     - E-) Ankara/ &Ccedil;ankaya Ekslibris M&uuml;zesi
     <hr />
 1. &ldquo;Bir&ccedil;ok baskı resim tekniği olmasına rağmen, &ouml;zg&uuml;n baskı tekniklerini &uuml;&ccedil; grupta inceleyebiliriz. Bunlar &hellip;&hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip;&hellip; ve &hellip;&hellip;&hellip;&hellip;&hellip;dır.&rdquo;<br />
-<strong>Yukarıdaki c&uuml;mlede boş bırakılan yerlere hangileri gelmelidir?</strong><br />
-&nbsp;
+<strong>Yukarıdaki c&uuml;mlede boş bırakılan yerlere hangileri gelmelidir?</strong>
     - A-) litografi/ serigrafi/ grav&uuml;r
     - **Cevap B-) y&uuml;ksek baskı/ &ccedil;ukur baskı/ d&uuml;z baskı**
     - C-) ağa&ccedil; baskı/ taş baskı/ dijital baskı

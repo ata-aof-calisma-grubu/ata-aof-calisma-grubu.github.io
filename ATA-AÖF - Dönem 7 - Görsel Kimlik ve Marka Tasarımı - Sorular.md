@@ -57,7 +57,7 @@
     - E-) Satış yeri reklam uygulaması
     <hr />
 1. <strong>Aşağıdakilerden hangisi trafikte ya da yaya dolaşırken dahi g&uuml;nl&uuml;k yaşamda istemsiz maruz kalınan reklam mecrasıdır?</strong>
-    - A-) Taşıt reklam ortamları<br />
+    - A-) Taşıt reklam ortamları
     - **Cevap B-) A&ccedil;ık hava reklam ortamları**
     - C-) Satış yeri reklam uygulamaları
     - D-) Doğrudan postalama reklam materyalleri
@@ -831,12 +831,7 @@ II. Dağıtım ağının geniş olması.<br />
 III. &Ouml;l&ccedil;ek ekonomileri<br />
 IV. T&uuml;keticilerin markayı k&uuml;resel bir marka olarak kabul etmiş olması<br />
 V. Marka imajının olumlu olması<br />
-<strong>Yerel bir markanın k&uuml;resel marka haline gelmek istemesi durumunda uyması gereken temel şartlar aşağıdakilerden hangisinde yer almaktadır?</strong><br />
-<br />
-<br />
-<br />
-<br />
-&nbsp;
+<strong>Yerel bir markanın k&uuml;resel marka haline gelmek istemesi durumunda uyması gereken temel şartlar aşağıdakilerden hangisinde yer almaktadır?</strong>
     - **Cevap A-) I, III ve IV**
     - B-) I, III ve V
     - C-) II, III ve V

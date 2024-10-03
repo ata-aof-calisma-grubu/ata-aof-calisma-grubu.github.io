@@ -1,16 +1,11 @@
 # Tasarımda Tipografi
 ## Unite 1
-1. <strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong><br />
-<br />
-
-    - A-) Arial<br />
-<br />
+1. <strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong>
+    - A-) Arial
     - **Cevap B-) Times New Roman<br />
-<br />**
-    - C-) Futura<br />
-<br />
-    - D-) Gotham<br />
-<br />
+**
+    - C-) Futura
+    - D-) Gotham
     - E-) Calibri
     <hr />
 1. <strong>Aşağıdakilerden hangisi maj&uuml;sk&uuml;l harfin tanımıdır?</strong>

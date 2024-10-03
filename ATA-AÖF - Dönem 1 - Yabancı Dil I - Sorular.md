@@ -59,11 +59,7 @@ B: ..................................... .<br />
     - E-) are be
     <hr />
 1. My sister and my brother .......... twins<strong>.</strong><br />
-<div>
-	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong></div>
-<div>
-	<strong>getirilmelidir?</strong></div>
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong><strong>getirilmelidir?</strong>
     - A-) am
     - B-) is
     - C-) be
@@ -528,9 +524,7 @@ B: I am an engineer.&nbsp;<br />
     - **Cevap E-) has got**
     <hr />
 1. Thare are ............ apples in the basket.<br />
-<strong>C&uuml;mlede boş bırkılan yere aşağıdakilerden hangisi <u>getirilemez</u>?</strong><br />
-<br />
-
+<strong>C&uuml;mlede boş bırkılan yere aşağıdakilerden hangisi <u>getirilemez</u>?</strong>
     - A-) some
     - B-) a lot of
     - C-) many
@@ -718,11 +712,7 @@ B: But we have &hellip;..&hellip;. money.<br />
     - E-) many
     <hr />
 1. I have .......... friends.<br />
-<div>
-	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong></div>
-<div>
-	<strong>getirilmelidir?</strong></div>
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong><strong>getirilmelidir?</strong>
     - **Cevap A-) a lot of**
     - B-) a little
     - C-) little
@@ -739,9 +729,7 @@ B: Single, please<br />
     - E-) many
     <hr />
 1. much / there / in / İstanbul / traffic / is&nbsp;<br />
-<div>
-	<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong></div>
-
+<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) There is much traffic in İstanbul.**
     - B-) İstanbul is there in much traffic.&nbsp;
     - C-) Much İstanbul is there in traffic.
@@ -1153,9 +1141,7 @@ B: I went to cinema with my wife.&nbsp;<br />
     - E-) are went
     <hr />
 1. I __________university 3 years ago.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-<br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) started**
     - B-) start
     - C-) starting
@@ -1163,9 +1149,7 @@ B: I went to cinema with my wife.&nbsp;<br />
     - E-) are starting
     <hr />
 1. <strong>&nbsp;</strong>nice / a / we / film / yesterday / watched<br />
-<div>
-	<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong></div>
-
+<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong>
     - A-) A nice film watched we yesterday.
     - **Cevap B-) We watched a nice film yesterday.**
     - C-) A film nice watched we yesterday.
@@ -1395,11 +1379,7 @@ B: It is Smoke.<br />
     - E-) At 7 o&#39;clock, Mustafa up got.
     <hr />
 1. I was .......... bicycle at this time yesterday.<br />
-<div>
-	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong></div>
-<div>
-	<strong>getirilmelidir?</strong></div>
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong><strong>getirilmelidir?</strong>
     - A-) listening
     - **Cevap B-) riding**
     - C-) liking
@@ -1453,7 +1433,7 @@ B: It is Smoke.<br />
 
     - A-) At this time yesterday, I bicycle was riding.
     - B-) I riding was bicycle yesterday at time this.
-    - **Cevap C-) I was riding bicycle at this time yesterday.<br />**
+    - **Cevap C-) I was riding bicycle at this time yesterday.**
     - D-) I was riding at this time yesterday bicycle.
     - E-) I at time this yesterday was riding bicycle.
     <hr />
@@ -2219,9 +2199,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. A: And, would you like a salad as well?<br />
 B: &nbsp;.......................&nbsp;<br />
-<div>
-	<strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong></div>
-
+<strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong>
     - A-) Can I get you anything to drink?
     - B-) Of course, here you are.
     - **Cevap C-) Yes please. That will be nice.**
@@ -2269,7 +2247,7 @@ B: ____________________.<br />
     - D-) optimistic
     - **Cevap E-) pessimistic**
     <hr />
-1. 1. A: What would you like to drink, tea or coffe?<br />
+1. A: What would you like to drink, tea or coffe?<br />
 B: I (have) __________ a cup of tea.<br />
 Which of the following completes the dialogue above? ,<br />
 <strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> 
@@ -2751,11 +2729,7 @@ B: It was_________ I expected.&nbsp;<br />
     - E-) worst
     <hr />
 1. I am 52 years old and you are 30. So, I am ....................... than you.&nbsp;<br />
-<div>
-	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong></div>
-<div>
-	&nbsp;</div>
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>&nbsp;
     - A-) &nbsp;the old
     - B-) the oldest
     - C-) oldest

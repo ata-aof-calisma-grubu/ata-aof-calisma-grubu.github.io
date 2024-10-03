@@ -9,20 +9,15 @@
     <hr />
 1. <strong>Aşağıdaki tanıtım t&uuml;rlerinden hangisi kitlesel nitelik <u>taşımaz</u>?</strong>
     - A-) Televizyonda yapılan tanıtımlar
-    - B-) Radyoda yapılan tanıtımlar<br />
-&nbsp;
-    - C-) Elektronik postayla yapılan tanıtımlar<br />
-&nbsp;
-    - **Cevap D-) M&uuml;şteri temsilcisi aracılığıyla yapılan tanıtımlar<br />
-&nbsp;**
+    - B-) Radyoda yapılan tanıtımlar
+    - C-) Elektronik postayla yapılan tanıtımlar
+    - **Cevap D-) M&uuml;şteri temsilcisi aracılığıyla yapılan tanıtımlar**
     - E-) A&ccedil;ık havada yapılan tanıtımlar
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklamın, reklam verene sağladığı faydalardandır?</strong>
     - **Cevap A-) Fikir, mal veya hizmet konusunda bilinirliği ve tanınırlığı sağlar.**
-    - B-) Fikir, mal ya da hizmetin &ouml;zellikleri ve tedarik yolları hakkında bilgi verir.<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;nlerin kullanımı ve faydaları konusunda bilgilendirmeye yapar.<br />
-&nbsp;
+    - B-) Fikir, mal ya da hizmetin &ouml;zellikleri ve tedarik yolları hakkında bilgi verir.
+    - C-) &Uuml;r&uuml;nlerin kullanımı ve faydaları konusunda bilgilendirmeye yapar.
     - D-) Fikir, mal veya hizmetler arasında b&uuml;t&ccedil;eye en uygun olanı tercih etmeye vesile olur.
     - E-) İhtiyacı birebir karşılayan fikir, mal veya hizmetin satın alınmasına aracılık eder.
     <hr />
@@ -35,60 +30,44 @@
     <hr />
 1. <strong>Aşağıdakilerden hangisi ilettiği mesaj a&ccedil;ısından kurumsal reklamların &ouml;zelliklerindendir?</strong>
     - A-) Fikir, mal ya da hizmetin &ouml;zelliklerini a&ccedil;ıklar
-    - B-) Mal ve ya hizmetin fayda ve fiyat bilgilerini i&ccedil;erir<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;nlerin kullanım şekline y&ouml;nelik bilgiler aktarır<br />
-&nbsp;
-    - **Cevap D-) Marka, logo, amblem, renk vb. kurumsal unsurları &ouml;ne &ccedil;ıkarır<br />
-&nbsp;**
+    - B-) Mal ve ya hizmetin fayda ve fiyat bilgilerini i&ccedil;erir
+    - C-) &Uuml;r&uuml;nlerin kullanım şekline y&ouml;nelik bilgiler aktarır
+    - **Cevap D-) Marka, logo, amblem, renk vb. kurumsal unsurları &ouml;ne &ccedil;ıkarır**
     - E-) Reklam mesajı &uuml;r&uuml;n&uuml;n satışını ger&ccedil;ekleştirmeye y&ouml;neliktir
     <hr />
 1. <strong>End&uuml;striyel &uuml;r&uuml;nlerin tanıtımında daha sık başvurulan, tanık, kanıt ve belgeye dayandırılan bu y&ouml;n&uuml;yle de daha &ccedil;ok hedef kitlenin aklına ve mantığına hitap eden rasyonel temelli reklamlar hangileridir?</strong>
     - A-) Hedonik deneysel y&ouml;nl&uuml; reklamlar
-    - B-) Global reklamlar<br />
-&nbsp;
-    - **Cevap C-) Olgusal reklamlar<br />
-&nbsp;**
-    - D-) Birincil talep yaratma ama&ccedil;lı reklamlar<br />
-&nbsp;
+    - B-) Global reklamlar
+    - **Cevap C-) Olgusal reklamlar**
+    - D-) Birincil talep yaratma ama&ccedil;lı reklamlar
     - E-) Aracılara y&ouml;nelik reklamlar
     <hr />
 1. <strong>İlk basılı reklam &ouml;rneğiyle ilgili aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - **Cevap A-) Johannes Gutenberg tarafından 1450 yılında basılıp dağıtılmıştır**
-    - B-) Basılı ilk reklam, matbaanın icadından 30 yıl sonra İngiltere&rsquo;de yapılmıştır<br />
-&nbsp;
-    - C-) Basılı ilk reklam, William Caxton isimli bir matbaacının bastığı el ilanlarıdır<br />
-&nbsp;
-    - D-) Basılan ilanların ayin g&uuml;nlerinde kiliselerde dağıtılması ya da kilise duvarlarına asılması suretiyle ortaya &ccedil;ıkmıştır<br />
-&nbsp;
+    - B-) Basılı ilk reklam, matbaanın icadından 30 yıl sonra İngiltere&rsquo;de yapılmıştır
+    - C-) Basılı ilk reklam, William Caxton isimli bir matbaacının bastığı el ilanlarıdır
+    - D-) Basılan ilanların ayin g&uuml;nlerinde kiliselerde dağıtılması ya da kilise duvarlarına asılması suretiyle ortaya &ccedil;ıkmıştır
     - E-) Basılı ilk reklam &ouml;rneği kitap tanıtımına y&ouml;neliktir
     <hr />
 1. <strong>Modern reklamcılığın başlamasını sağlayan yenilik aşağıdakilerden hangisidir?</strong>
     - A-) Gazete yayımcılığının başlaması
     - B-) Fotoğrafın keşfedilmesi ve kullanılması
-    - C-) Radyo yayınlarının başlaması<br />
-&nbsp;
+    - C-) Radyo yayınlarının başlaması
     - **Cevap D-) Televizyonun bulunması ve yaygınlaşması**
     - E-) İnternetin ortaya &ccedil;ıkması
     <hr />
 1. <strong>1941 yılında Amerika&#39;da bir beyzbol (baseball) ma&ccedil;ında yapılan Bulova saatlerinin (Bulova Watch Company) reklamı hangi reklam t&uuml;r&uuml;n&uuml;n ilk &ouml;rneğidir?</strong>
     - A-) Gazete reklamı
-    - B-) Radyo reklamı<br />
-&nbsp;
-    - **Cevap C-) Televizyon reklamı<br />
-&nbsp;**
-    - D-) Basılı reklam<br />
-&nbsp;
+    - B-) Radyo reklamı
+    - **Cevap C-) Televizyon reklamı**
+    - D-) Basılı reklam
     - E-) A&ccedil;ık hava reklamı
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklamın &uuml;lkemizdeki gelişim s&uuml;reciyle doğrudan ilgili <u>değildir</u>?</strong>
     - A-) 1951 yılında Bakanlar Kurulu kararıyla radyoların reklam ortamı olarak kullanılması
-    - B-) Basın İlan Kurumu&rsquo;nun 1961 yılında kurulması<br />
-&nbsp;
-    - C-) T&uuml;rkiye Reklam Ajansları Birliği adıyla 1971 yılında reklamcılık alanındaki ilk &ouml;rg&uuml;tsel yapının kurulması<br />
-&nbsp;
-    - D-) TRT televizyonu 3 Mart 1972&rsquo;den itibaren reklam yayınlamaya başlaması<br />
-&nbsp;
+    - B-) Basın İlan Kurumu&rsquo;nun 1961 yılında kurulması
+    - C-) T&uuml;rkiye Reklam Ajansları Birliği adıyla 1971 yılında reklamcılık alanındaki ilk &ouml;rg&uuml;tsel yapının kurulması
+    - D-) TRT televizyonu 3 Mart 1972&rsquo;den itibaren reklam yayınlamaya başlaması
     - **Cevap E-) Ortadoğu Teknik &Uuml;niversitesi&rsquo;nin 1992 yılında ilk web sitesini kurması**
     <hr />
 1. <strong>Bir tanıtım faaliyetinin reklam niteliğine sahip olması i&ccedil;in aşağıdakilerden hangisi gerekli <u>değildir</u>?</strong>
@@ -108,32 +87,23 @@
 ## Unite 2
 1. <strong>Batı 18. y&uuml;zyıl başlarında end&uuml;striyel &ccedil;ağa ge&ccedil;erken ucuz hammaddeleri aşağıdakilerden hangisi sayesinde edinmiştir?</strong>
     - **Cevap A-) Buhar g&uuml;c&uuml;**
-    - B-) Fosil yakıt<br />
-&nbsp;
-    - C-) Doğal gaz<br />
-&nbsp;
-    - D-) Hidrokarbon<br />
-&nbsp;
+    - B-) Fosil yakıt
+    - C-) Doğal gaz
+    - D-) Hidrokarbon
     - E-) Radyoaktivite
     <hr />
 1. <strong>Matbaa maliyetlerini d&uuml;ş&uuml;rmek ve doğrudan net kar elde etmek hedefindeki yayıncılar aşağıdakilerden hangi sekt&ouml;rle ortak ticari birliktelik oluşturmuştur?</strong>
     - A-) Gazete
-    - B-) Radyo<br />
-&nbsp;
-    - C-) TV<br />
-&nbsp;
-    - **Cevap D-) Reklam<br />
-&nbsp;**
+    - B-) Radyo
+    - C-) TV
+    - **Cevap D-) Reklam**
     - E-) Matbaa
     <hr />
 1. <strong>Fotoğrafın icadı ve yaygınlaşmasından hemen sonra fotoğraf&ccedil;ılar i&ccedil;in aşağıdakilerden hangi alanda istihdam fırsatı oluşmuştur?</strong>
     - A-) Doğum fotoğraf&ccedil;ılığı
-    - B-) Sanat fotoğrafı<br />
-&nbsp;
-    - **Cevap C-) Tanıtım fotoğraf&ccedil;ılığı<br />
-&nbsp;**
-    - D-) Hava fotoğrafı<br />
-&nbsp;
+    - B-) Sanat fotoğrafı
+    - **Cevap C-) Tanıtım fotoğraf&ccedil;ılığı**
+    - D-) Hava fotoğrafı
     - E-) R&ouml;tuş
     <hr />
 1. <strong>Mathew Brady&rsquo;in bug&uuml;ne dek oluşturduğu en kapsamlı fotoğraf &ccedil;alışması aşağıdakilerden hangisiyle ilişkilidir?</strong>
@@ -153,49 +123,36 @@
 1. <strong>Eadweard Muybridge&rsquo;in kronofotografi serilerinden oluşturduğu kataloglara aşağıdaki kesimlerden hangisi daha yoğun ilgi g&ouml;stermiştir?</strong>
     - A-) Sağlık&ccedil;ılar
     - B-) M&uuml;hendisler
-    - **Cevap C-) Sanat&ccedil;ılar<br />
-&nbsp;**
+    - **Cevap C-) Sanat&ccedil;ılar**
     - D-) Edebiyatçılar
     - E-) Siyaset&ccedil;iler
     <hr />
 1. <strong>George Eastman&rsquo;ın kuru plaka sistemini radikal bi&ccedil;imde değiştiren icadı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Esnek tabanlı film**
-    - B-) G&uuml;m&uuml;ş nitrat sol&uuml;syon<br />
-&nbsp;
-    - C-) Dagerotip parlak plaka<br />
-&nbsp;
-    - D-) Islak Kolodyon cam levha<br />
-&nbsp;
+    - B-) G&uuml;m&uuml;ş nitrat sol&uuml;syon
+    - C-) Dagerotip parlak plaka
+    - D-) Islak Kolodyon cam levha
     - E-) Cyanotype em&uuml;lsiyon
     <hr />
 1. <strong>Kamera satmanın &ouml;tesinde Kodak&rsquo;ın fotoğraf i&ccedil;in sekt&ouml;r&uuml;ne kazandırdığı en b&uuml;y&uuml;k yenilik aşağıdakilerden hangisidir?</strong>
     - A-) Posta sistemi kurmak
-    - B-) M&uuml;şteri hizmetleri sunmak<br />
-&nbsp;
-    - **Cevap C-) Ekosistem oluşturmak<br />
-&nbsp;**
-    - D-) Kimyasallar icad etmek<br />
-&nbsp;
+    - B-) M&uuml;şteri hizmetleri sunmak
+    - **Cevap C-) Ekosistem oluşturmak**
+    - D-) Kimyasallar icad etmek
     - E-) M&uuml;şteri eğitimi başlatmak
     <hr />
 1. <strong>1903&#39;ten 1917&#39;ye kadar Alfred Stieglitz tarafından &uuml;&ccedil; ayda bir yayınlanan, d&uuml;nyanın en &ouml;nemli fotoğraf&ccedil;ılarından edinilen g&ouml;rselleri okuyucuya sunan fotoğraf dergisi aşağıdakilerden hangisidir?</strong>
     - A-) The Camera
-    - **Cevap B-) Camera Work<br />
-&nbsp;**
-    - C-) Photo-Secession<br />
-&nbsp;
-    - D-) Camera Secession<br />
-&nbsp;
+    - **Cevap B-) Camera Work**
+    - C-) Photo-Secession
+    - D-) Camera Secession
     - E-) National Geographic
     <hr />
 1. <strong>Amerikalı dergi sanat y&ouml;netmeni, Alexey Brodovitch aşağıdakilerden hangi alanda &uuml;retimde <u>bulunmamıştır</u>?</strong>
     - A-) Grafik tasarım
-    - B-) Fotoğraf<br />
-&nbsp;
-    - C-) Set ressamlığı<br />
-&nbsp;
-    - **Cevap D-) Mobilya tasarım<br />
-&nbsp;**
+    - B-) Fotoğraf
+    - C-) Set ressamlığı
+    - **Cevap D-) Mobilya tasarım**
     - E-) Mimarlık
     <hr />
 1. <strong>18. y&uuml;zyıl başlarında gelişen matbaa teknolojisiyle o d&ouml;nemde aşağıdakilerden hangisiyle &uuml;r&uuml;nler daha cazip h&acirc;le getirilmekteydi?</strong>
@@ -208,69 +165,51 @@
 ## Unite 3
 1. <strong>Aşağıdakilerden hangisi fotoğrafın kelime anlamıdır?</strong>
     - A-) Fotoğraf makinesi ile &ccedil;izilen resim
-    - B-) G&ouml;lge ile &ccedil;izilen resim<br />
-&nbsp;
-    - C-) Renk ile &ccedil;izilen resim<br />
-&nbsp;
-    - **Cevap D-) Işık ile &ccedil;izilen resim<br />
-&nbsp;**
+    - B-) G&ouml;lge ile &ccedil;izilen resim
+    - C-) Renk ile &ccedil;izilen resim
+    - **Cevap D-) Işık ile &ccedil;izilen resim**
     - E-) &Ccedil;izilen resim
     <hr />
 1. <strong>Jean Baudrillard&rsquo;a g&ouml;re fotoğraf neyin alternatifidir?</strong>
     - A-) Boyamanın
-    - **Cevap B-) Yazının<br />
-&nbsp;**
-    - C-) Okumanın<br />
-&nbsp;
-    - D-) İşaret etmenin<br />
-&nbsp;
+    - **Cevap B-) Yazının**
+    - C-) Okumanın
+    - D-) İşaret etmenin
     - E-) Arşivlemenin
     <hr />
 1. <strong>Temsil kavramına ilişkin &ldquo;g&ouml;stermek, imgelemek, başka bir şeyin tasvirini sunmak&rdquo; tanımlamasını yapan sosyolog kimdir?</strong>
     - A-) Ara G&uuml;ler
-    - **Cevap B-) Stuart Hall<br />
-&nbsp;**
-    - C-) Susan Sontag<br />
-&nbsp;
-    - D-) Jean Baudrillard<br />
-&nbsp;
+    - **Cevap B-) Stuart Hall**
+    - C-) Susan Sontag
+    - D-) Jean Baudrillard
     - E-) Edward S. Curtis
     <hr />
 1. <strong>Fotoğrafik temsili, &ldquo;sanatsal a&ccedil;ıdan g&ouml;r&uuml;nen d&uuml;nyanın en nesnel temsili ve g&uuml;ndelik yaşamın ger&ccedil;ekliğinin kusursuz bir yansıması&rdquo; şeklinde tanımlayan antropolog ve felsefeci kimdir?</strong>
     - **Cevap A-) Pierre Bourdieu**
-    - B-) Emre İkizler<br />
+    - B-) Emre İkizler
     - C-) Faruk Akbaş
     - D-) Stuart Hall
     - E-) Susan Sontag
     <hr />
 1. <strong>Fotoğraf sanat&ccedil;ısı Michael Freeman&rsquo;a g&ouml;re fotoğrafik temsil hangi amaca hizmet eder?</strong>
     - A-) Hobi edinmeye
-    - B-) Maddi bir değer elde etmeye<br />
-&nbsp;
-    - C-) Fotoğraf makinesi kullanmaya<br />
-&nbsp;
-    - D-) Fotoğraf tarihini &ouml;ğretmeye<br />
-&nbsp;
+    - B-) Maddi bir değer elde etmeye
+    - C-) Fotoğraf makinesi kullanmaya
+    - D-) Fotoğraf tarihini &ouml;ğretmeye
     - **Cevap E-) &Ouml;ğretici olma ve temsil etmeye**
     <hr />
 1. <strong>Edward S. Curtis&rsquo;in k&uuml;lt&uuml;rel temsil noktasında &uuml;retmiş olduğu fotoğraf projesi hangisidir?</strong>
     - A-) Anadolu Yaşamı
-    - **Cevap B-) Amerikan Yerlileri<br />
-&nbsp;**
-    - C-) Afrika Kabileleri<br />
-&nbsp;
-    - D-) Avrupa Yaşamı<br />
-&nbsp;
+    - **Cevap B-) Amerikan Yerlileri**
+    - C-) Afrika Kabileleri
+    - D-) Avrupa Yaşamı
     - E-) Hindistan Keşişleri
     <hr />
 1. <strong>John Thomson&rsquo;ın g&uuml;ndelik yaşamın temsili noktasında &uuml;retmiş olduğu fotoğraf projesi hangisidir?</strong>
     - **Cevap A-) Londra Sokak Yaşamı**
-    - B-) İstanbul Sokak Yaşamı<br />
-&nbsp;
-    - C-) Paris Sokak Yaşamı<br />
-&nbsp;
-    - D-) Budapeşte Sokak Yaşamı<br />
-&nbsp;
+    - B-) İstanbul Sokak Yaşamı
+    - C-) Paris Sokak Yaşamı
+    - D-) Budapeşte Sokak Yaşamı
     - E-) Berlin Sokak Yaşamı
     <hr />
 1. <strong>David Prakel&rsquo;e g&ouml;re tanıtım alanında bir fotoğrafik temsil inşa edilirken neye dikkat edilmelidir?</strong>
@@ -282,12 +221,9 @@
     <hr />
 1. <strong>Temsil fotoğrafının ana unsurunu ne oluşturur?</strong>
     - A-) Marka
-    - B-) Model<br />
-&nbsp;
-    - C-) Renk<br />
-&nbsp;
-    - **Cevap D-) G&ouml;sterge<br />
-&nbsp;**
+    - B-) Model
+    - C-) Renk
+    - **Cevap D-) G&ouml;sterge**
     - E-) R&ouml;tuş
     <hr />
 1. <strong>Tanıtım alanında &uuml;retilmiş bir fotoğrafik temsilin t&uuml;ketici &uuml;zerinde etkili olmasının sebebi aşağıdakilerden hangisidir?</strong>
@@ -307,22 +243,16 @@
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi markaların rekabet savaşlarında ana belirleyici olarak a&ccedil;ıklanmaktadır?</strong>
     - A-) Sosyal Sorumluluk
-    - B-) Eğitim<br />
-&nbsp;
-    - **Cevap C-) Marka<br />
-&nbsp;**
-    - D-) K&uuml;lt&uuml;rel Farklılıklar<br />
-&nbsp;
+    - B-) Eğitim
+    - **Cevap C-) Marka**
+    - D-) K&uuml;lt&uuml;rel Farklılıklar
     - E-) H&uuml;k&uuml;met Politikaları
     <hr />
 1. <strong>&Uuml;reticiler, rekabetten korunmak i&ccedil;in neler yapmışlardır?</strong>
     - **Cevap A-) Pazarda en iyi konuma gelmeye çalışmışlardır**
-    - B-) Rekabeti teşvik etmişlerdir<br />
-&nbsp;
-    - C-) Marka oluşturmamışlardır<br />
-&nbsp;
-    - D-) Fiyatları artırmışlardır<br />
-&nbsp;
+    - B-) Rekabeti teşvik etmişlerdir
+    - C-) Marka oluşturmamışlardır
+    - D-) Fiyatları artırmışlardır
     - E-) İnterneti kullanmamışlardır
     <hr />
 1. <strong>T&uuml;rk Markalar Kanunu&rsquo;na g&ouml;re markalar hangi ama&ccedil;la kullanılmaktadır?</strong>
@@ -341,12 +271,9 @@
     <hr />
 1. <strong>Mobil cihazlarda kullanılan uygulamalar &uuml;zerinde e-ticaret yapılması aşağıdakilerden hangisini vurgular?</strong>
     - A-) Marka &ccedil;ılgınlığını
-    - B-) Pazardaki rekabeti<br />
-&nbsp;
-    - C-) T&uuml;ketici bağımlılığını<br />
-&nbsp;
-    - **Cevap D-) Marka farkındalığını<br />
-&nbsp;**
+    - B-) Pazardaki rekabeti
+    - C-) T&uuml;ketici bağımlılığını
+    - **Cevap D-) Marka farkındalığını**
     - E-) Ekonomik sınıfları
     <hr />
 1. <strong>&ldquo;Logo Yok/Logo Goes Here&rdquo; kampanyası ne t&uuml;r bir yaklaşımı temsil etmektedir?</strong>
@@ -358,22 +285,16 @@
     <hr />
 1. <strong>Marka, aşağıdakilerden hangi işlevi yerine <u>getirmez</u>?</strong>
     - **Cevap A-) &Uuml;r&uuml;n&uuml; rakiplerine tanıtma**
-    - B-) İşletmeler arasındaki rekabeti artırma<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;n i&ccedil;in referans ve kaynak g&ouml;sterme<br />
-&nbsp;
-    - D-) Reklam ve tanıtım aracı olarak kullanma<br />
-&nbsp;
+    - B-) İşletmeler arasındaki rekabeti artırma
+    - C-) &Uuml;r&uuml;n i&ccedil;in referans ve kaynak g&ouml;sterme
+    - D-) Reklam ve tanıtım aracı olarak kullanma
     - E-) &Uuml;r&uuml;n veya hizmet ile ilgili garanti sağlama
     <hr />
 1. <strong>Rekabetin yoğun olduğu bir pazarda, markalar kendilerini farklılaştırmak i&ccedil;in hangi fakt&ouml;rlere odaklanmaktadır?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n kullanışlılığı veya performansı
-    - **Cevap B-) Markanın kurumsal değerleri<br />
-&nbsp;**
-    - C-) &Uuml;r&uuml;n&uuml;n &ouml;zellikleri<br />
-&nbsp;
-    - D-) Reklam b&uuml;t&ccedil;esi<br />
-&nbsp;
+    - **Cevap B-) Markanın kurumsal değerleri**
+    - C-) &Uuml;r&uuml;n&uuml;n &ouml;zellikleri
+    - D-) Reklam b&uuml;t&ccedil;esi
     - E-) Rekabet&ccedil;i fiyatlandırma politikaları
     <hr />
 1. <strong>Marka imajının oluşturulmasında tanıtım fotoğraflarının rol&uuml; aşağıdakilerden hangisidir?</strong>
@@ -385,12 +306,9 @@
     <hr />
 1. <strong>Tanıtım fotoğrafları, genellikle hangi ama&ccedil;la kullanılır?</strong>
     - A-) T&uuml;keticilere &uuml;r&uuml;n &ouml;zelliklerini anlatmak i&ccedil;in
-    - B-) Hedef kitlenin yaşam bi&ccedil;imini eleştirmek i&ccedil;in<br />
-&nbsp;
-    - **Cevap C-) T&uuml;keticilere ideal yaşam bi&ccedil;imlerini g&ouml;stererek olumlu marka imajları oluşturmak i&ccedil;in<br />
-&nbsp;**
-    - D-) &Uuml;r&uuml;n&uuml;n maliyetini vurgulamak i&ccedil;in<br />
-&nbsp;
+    - B-) Hedef kitlenin yaşam bi&ccedil;imini eleştirmek i&ccedil;in
+    - **Cevap C-) T&uuml;keticilere ideal yaşam bi&ccedil;imlerini g&ouml;stererek olumlu marka imajları oluşturmak i&ccedil;in**
+    - D-) &Uuml;r&uuml;n&uuml;n maliyetini vurgulamak i&ccedil;in
     - E-) &Uuml;nl&uuml; y&uuml;zlerin itibarını d&uuml;ş&uuml;rmek i&ccedil;in
     <hr />
 1. <strong>Basılı mecralardaki reklamların etkili olabilmesi i&ccedil;in hangi t&uuml;r g&ouml;rsel &ouml;geler sıklıkla kullanılır?</strong>
@@ -403,12 +321,9 @@
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;rsel &ouml;ğelerinden biri <u>değildir</u>?</strong>
     - A-) Fotoğraf
-    - B-) İll&uuml;strasyon<br />
-&nbsp;
-    - **Cevap C-) Başlık<br />
-&nbsp;**
-    - D-) Resim<br />
-&nbsp;
+    - B-) İll&uuml;strasyon
+    - **Cevap C-) Başlık**
+    - D-) Resim
     - E-) Renk
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklamın s&ouml;zel &ouml;gelerinden biridir?</strong>
@@ -420,22 +335,16 @@
     <hr />
 1. <strong>G&ouml;rsel tanıtım bileşenlerinin gelişim s&uuml;recinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Baskı tekniklerinin ortaya &ccedil;ıkması
-    - B-) Sinemanın keşfedilmesi<br />
-&nbsp;
-    - **Cevap C-) Telgrafın kullanılmaya başlanması<br />
-&nbsp;**
-    - D-) Televizyon yayınlarının başlaması<br />
-&nbsp;
+    - B-) Sinemanın keşfedilmesi
+    - **Cevap C-) Telgrafın kullanılmaya başlanması**
+    - D-) Televizyon yayınlarının başlaması
     - E-) İnternetin geliştirilip kullanılması
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklamda g&ouml;rsel kullanımının ama&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) Bir metni ya da kavramı somutlaştırma
-    - **Cevap B-) Sloganlaştırma<br />
-&nbsp;**
-    - C-) Betimleme<br />
-&nbsp;
-    - D-) S&uuml;sleme<br />
-&nbsp;
+    - **Cevap B-) Sloganlaştırma**
+    - C-) Betimleme
+    - D-) S&uuml;sleme
     - E-) G&ouml;sterme
     <hr />
 1. <strong>Farklı diller ve k&uuml;lt&uuml;rler arasındaki iletişim sorunlarını ortadan kaldırmak &uuml;zere, evrensel nitelikli resimsel / &ccedil;izgisel bir dil kullanmak suretiyle oluşturulan anlamlı simgesel işaretler hangileridir?</strong>
@@ -447,12 +356,9 @@
     <hr />
 1. <strong>Herhangi bir şeyin kendisi olmasının yanı sıra uzlaşılmış başka bir anlam taşıması, ya da belli bir insan topluluğunun aralarında uzlaşmak suretiyle &uuml;zerine belirli bir anlam y&uuml;klediği somut nesne ya da işaret aşağıdakilerden hangisidir?</strong>
     - A-) Piktogram
-    - B-) Sembol<br />
-&nbsp;
-    - **Cevap C-) Simge<br />
-&nbsp;**
-    - D-) Tipografi<br />
-&nbsp;
+    - B-) Sembol
+    - **Cevap C-) Simge**
+    - D-) Tipografi
     - E-) İll&uuml;strasyon
     <hr />
 1. <strong>Aşağıdakilerden hangisi sembol&uuml;n &ouml;zelliklerindendir?</strong>
@@ -464,12 +370,9 @@
     <hr />
 1. <strong>Aşağıdaki ikililerden hangisi simgeye &ouml;rnektir?</strong>
     - A-) Ha&ccedil; - Hıristiyanlık
-    - B-) Bozkurt - T&uuml;rkl&uuml;k<br />
-&nbsp;
-    - C-) G&uuml;vercin - Barış<br />
-&nbsp;
-    - **Cevap D-) Telefon ahizesi &ndash; Telefon numarası<br />
-&nbsp;**
+    - B-) Bozkurt - T&uuml;rkl&uuml;k
+    - C-) G&uuml;vercin - Barış
+    - **Cevap D-) Telefon ahizesi &ndash; Telefon numarası**
     - E-) Hilal &ndash; İslam
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtımın s&ouml;zel unsurlarından biri <u>değildir</u>?</strong>
@@ -481,12 +384,9 @@
     <hr />
 1. <strong>İnsanların hafızasına &uuml;r&uuml;n yahut markayla ilgili kazınmak istenen temel &ouml;zelliği yerleştirme, reklamın aktarmaya &ccedil;alıştığı fikri ve iletmek istediği mesajı hızlı şekilde ve &ouml;zl&uuml; bir ifadeyle ortaya koyan kısa c&uuml;mle aşağıdakilerden hangisidir?</strong>
     - A-) G&ouml;vde metni
-    - B-) Başlık<br />
-&nbsp;
-    - C-) Logo<br />
-&nbsp;
-    - D-) Amblem<br />
-&nbsp;
+    - B-) Başlık
+    - C-) Logo
+    - D-) Amblem
     - **Cevap E-) Slogan**
     <hr />
 1. <strong>S&ouml;zl&uuml;k anlamı &quot;resimlerle bezeme ya da resimleme&quot; olan basite indirgenmiş bir bi&ccedil;imde resimlemeden ibaret uygulama hangisidir?</strong>
@@ -507,12 +407,9 @@
     <hr />
 1. <strong>Tanıtım ama&ccedil;lı yapılan &ccedil;alışmalarda ilk fotoğraf ka&ccedil; yılında kullanılmıştır?</strong>
     - A-) 1826
-    - B-) 1839<br />
-&nbsp;
-    - C-) 1840<br />
-&nbsp;
-    - D-) 1885<br />
-&nbsp;
+    - B-) 1839
+    - C-) 1840
+    - D-) 1885
     - **Cevap E-) 1850**
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğraf&ccedil;ılığının &ccedil;alışma alanlarından birisi <u>değildir</u>?</strong>
@@ -524,16 +421,13 @@
     <hr />
 1. <strong>Nat&uuml;rmort, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.fotoğraf&ccedil;ılığının ilk &ccedil;alışma konusu olarak tanımlanabilmektedir. C&uuml;mlede boş olan yere aşağıdakilerden hangisi gelmektedir?</strong>
     - A-) End&uuml;stri
-    - B-) Stok<br />
-&nbsp;
-    - C-) Mimari<br />
-&nbsp;
-    - **Cevap D-) Still life<br />
-&nbsp;**
+    - B-) Stok
+    - C-) Mimari
+    - **Cevap D-) Still life**
     - E-) Gıda
     <hr />
 1. <strong>Fransız d&uuml;ş&uuml;n&uuml;r Baudrillard ve Moda Fotoğraf&ccedil;ısı Koray Birand&rsquo;ın modaya olan ortak bakış a&ccedil;ıları aşağıdakilerden hangisidir?</strong>
-    - A-) Sadece beğeniyle ilgili olduğu<br />
+    - A-) Sadece beğeniyle ilgili olduğu
     - B-) Tamamen ger&ccedil;eklikle ilgisi olduğu ve kurguya dayalı olmadığı
     - C-) Modanın bir bedenle gizli ilişkisi olduğu
     - **Cevap D-) Ger&ccedil;eklikten uzak ve kurguya dayalı olması**
@@ -548,42 +442,30 @@
     <hr />
 1. <strong>Turizm fotoğraf&ccedil;ılığının amacı nedir?</strong>
     - A-) Yerel k&uuml;lt&uuml;rlerin belgelenmesi
-    - B-) B&ouml;lgenin ekonomik durumunu analiz etmek<br />
-&nbsp;
-    - **Cevap C-) Turistleri g&ouml;rmeye ve tanımaya teşvik etmek<br />
-&nbsp;**
-    - D-) Yalnızca turistik yerleri estetik a&ccedil;ıdan yakalamak<br />
-&nbsp;
+    - B-) B&ouml;lgenin ekonomik durumunu analiz etmek
+    - **Cevap C-) Turistleri g&ouml;rmeye ve tanımaya teşvik etmek**
+    - D-) Yalnızca turistik yerleri estetik a&ccedil;ıdan yakalamak
     - E-) Turizm fotoğraf&ccedil;ılığında uzmanlaşmak
     <hr />
 1. <strong>Fotoğrafın turizm alanında kullanılmasıyla ne t&uuml;r katkılar sağlanabilir?</strong>
     - **Cevap A-) Ekonomik, sosyolojik ve k&uuml;lt&uuml;rel değerlerin tanıtımı ve etkili bir şekilde aktarımına**
-    - B-) Turistik alanların estetik değerlerini vurgulanması<br />
-&nbsp;
-    - C-) Doğal manzaraları belgelemek<br />
-&nbsp;
-    - D-) Fotoğraf&ccedil;ının &uuml;n kazanması<br />
-&nbsp;
+    - B-) Turistik alanların estetik değerlerini vurgulanması
+    - C-) Doğal manzaraları belgelemek
+    - D-) Fotoğraf&ccedil;ının &uuml;n kazanması
     - E-) Turistik b&ouml;lgenin k&uuml;lt&uuml;rel zenginliğine
     <hr />
 1. <strong>Ford&rsquo;un Model-A otomobilinin tanıtımında kullanılan fotoğrafları hangi alana &ouml;rnek olarak g&ouml;sterilebilir?</strong>
     - A-) Moda Fotoğraf&ccedil;ılığı
-    - B-) Still Life Fotoğraf&ccedil;ılığı<br />
-&nbsp;
-    - C-) Araba Fotoğraf&ccedil;ılığı<br />
-&nbsp;
-    - **Cevap D-) End&uuml;striyel Fotoğraf&ccedil;ılığı<br />
-&nbsp;**
+    - B-) Still Life Fotoğraf&ccedil;ılığı
+    - C-) Araba Fotoğraf&ccedil;ılığı
+    - **Cevap D-) End&uuml;striyel Fotoğraf&ccedil;ılığı**
     - E-) Gastronomi Fotoğraf&ccedil;ılığı
     <hr />
 1. <strong>Stok fotoğraf&ccedil;ılığının en b&uuml;y&uuml;k faydalarından biri aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Fotoğraf&ccedil;ıya daha fazla yaratıcılık imkanı sunar**
-    - B-) Sadece belge nitelik fotoğraflar olduğu i&ccedil;in kolay kullanım sağlar<br />
-&nbsp;
-    - C-) Yalnızca basılı medya alanlarında kullanılır<br />
-&nbsp;
-    - D-) G&ouml;rseller geniş kullanım alanlarına sahiptir<br />
-&nbsp;
+    - B-) Sadece belge nitelik fotoğraflar olduğu i&ccedil;in kolay kullanım sağlar
+    - C-) Yalnızca basılı medya alanlarında kullanılır
+    - D-) G&ouml;rseller geniş kullanım alanlarına sahiptir
     - E-) Tanınmış fotoğraf&ccedil;ılar tarafından oluşturulabilir
     <hr />
 1. <strong>Still Life &ndash; &Uuml;r&uuml;n Fotoğraf&ccedil;ılığı hangi t&uuml;r nesnelerin fotoğraflarının &ccedil;ekilmesiyle ilgilenir?</strong>
@@ -603,32 +485,23 @@
 ## Unite 7
 1. <strong>Reklamveren firmalar kampanya s&uuml;recinde aşağıdakilerden hangilerini g&ouml;z &ouml;n&uuml;nde <u>bulundurmazlar</u>?</strong>
     - A-) Markanın sekt&ouml;rel &ouml;zellikleri
-    - B-) Firmanın sekt&ouml;rdeki yeri<br />
-&nbsp;
-    - **Cevap C-) &Uuml;r&uuml;n maliyetleri<br />
-&nbsp;**
-    - D-) Kurumsal imajı<br />
-&nbsp;
+    - B-) Firmanın sekt&ouml;rdeki yeri
+    - **Cevap C-) &Uuml;r&uuml;n maliyetleri**
+    - D-) Kurumsal imajı
     - E-) Firmanın ekonomik koşulları
     <hr />
 1. <strong>Reklam iletilerinde t&uuml;keticileri etkide bulunmak i&ccedil;in aşağıdaki iletişim formlarından hangileri <u>kullanılmaz</u>?</strong>
     - A-) Kelime
-    - **Cevap B-) Duman<br />
-&nbsp;**
-    - C-) Ses<br />
-&nbsp;
-    - D-) G&ouml;r&uuml;nt&uuml;<br />
-&nbsp;
+    - **Cevap B-) Duman**
+    - C-) Ses
+    - D-) G&ouml;r&uuml;nt&uuml;
     - E-) Simge
     <hr />
 1. <strong>Aşağıdakilerden hangisi firmaların reklam yapma ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) &Uuml;r&uuml;n ve marka gereksinimi oluşturma
-    - B-) Marka hakkında bilgi verme<br />
-&nbsp;
-    - C-) Satın alma niyeti yaratma<br />
-&nbsp;
-    - D-) Marka bağlılığı yaratmayı destekleme<br />
-&nbsp;
+    - B-) Marka hakkında bilgi verme
+    - C-) Satın alma niyeti yaratma
+    - D-) Marka bağlılığı yaratmayı destekleme
     - **Cevap E-) Sekt&ouml;r&uuml;n gelişmesini sağlama**
     <hr />
 1. Doğru ve rasyonel bir &hellip;&hellip;&hellip; &uuml;zerine oturtulmuş reklam kararları, belirlenen reklam ama&ccedil;larını ve hedeflerine ulaşmayı kolaylaştırır.<br />
@@ -641,12 +514,9 @@
     <hr />
 1. <strong>Reklamın mesajı oluşturulurken, hedef kitlenin daha kolay dikkatini &ccedil;ekmeyi sağlayacak ve reklamı yapılan marka ya da &uuml;r&uuml;ne y&ouml;nelik olumlu imajlar verilmesini sağlayacak unsur aşağıdakilerden hangisidir?</strong>
     - A-) Reklamveren
-    - **Cevap B-) Yaratıcılık<br />
-&nbsp;**
-    - C-) Mesaj<br />
-&nbsp;
-    - D-) Hedef kitle<br />
-&nbsp;
+    - **Cevap B-) Yaratıcılık**
+    - C-) Mesaj
+    - D-) Hedef kitle
     - E-) Mecra
     <hr />
 1. <strong>Tanıtım fotoğrafları aşağıdaki mecraların hangilerinde <u>kullanılmaz</u>?</strong>
@@ -665,32 +535,23 @@
     <hr />
 1. <strong>Tanıtım fotoğraflarında hedef kitleye verilecek mesaj doğrultusunda g&ouml;r&uuml;nt&uuml; d&uuml;zenlemesi yapılırken aşağıdaki y&ouml;ntemlerden hangisi <u>kullanılmamaktadır</u>?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n belli bir &ouml;zelliğinin g&ouml;sterilmesi
-    - B-) &Uuml;r&uuml;n&uuml;n kullanım esnasında g&ouml;sterilmesi<br />
-&nbsp;
-    - **Cevap C-) &Uuml;r&uuml;n&uuml;n hammaddesinin g&ouml;sterilmesi<br />
-&nbsp;**
-    - D-) &Uuml;r&uuml;n&uuml;n d&uuml;z bir fon rengi &ouml;n&uuml;nde g&ouml;sterilmesi<br />
-&nbsp;
+    - B-) &Uuml;r&uuml;n&uuml;n kullanım esnasında g&ouml;sterilmesi
+    - **Cevap C-) &Uuml;r&uuml;n&uuml;n hammaddesinin g&ouml;sterilmesi**
+    - D-) &Uuml;r&uuml;n&uuml;n d&uuml;z bir fon rengi &ouml;n&uuml;nde g&ouml;sterilmesi
     - E-) &Uuml;r&uuml;n&uuml;n belli bir mekanda ve ortamda g&ouml;sterilmesi
     <hr />
 1. <strong>Reklam mesajlarında, reklama konu olan &uuml;r&uuml;n, hizmet ya da markanın nitelikleri hakkında verilen rasyonel bilgiler ve sağlayacağı yararlar sunularak hedef kitle akıl ve mantık d&uuml;zeyinde etkilenmeye &ccedil;alışıldığı yaklaşım aşağıdakilerden hangisidir?</strong>
     - A-) Duyguları hareket ge&ccedil;irme
-    - B-) &Ouml;d&uuml;llendirme<br />
-&nbsp;
-    - C-) Cezalandırma<br />
-&nbsp;
-    - **Cevap D-) Bilgi iletme<br />
-&nbsp;**
+    - B-) &Ouml;d&uuml;llendirme
+    - C-) Cezalandırma
+    - **Cevap D-) Bilgi iletme**
     - E-) Mizah kullanımı
     <hr />
 1. <strong>Bir kavramın başka bir kavramı nitelemesi olarak reklamlarda ileti tasarımlarında simgesel anlatım y&ouml;ntemi olarak olduk&ccedil;a sık uygulanan bir anlatım bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Metafor**
-    - B-) Mit<br />
-&nbsp;
-    - C-) Metanomi<br />
-&nbsp;
-    - D-) Bilgi iletme<br />
-&nbsp;
+    - B-) Mit
+    - C-) Metanomi
+    - D-) Bilgi iletme
     - E-) Duyguları hareket ge&ccedil;irme
     <hr />
 1. <strong>Hedeflenen kitlelerde marka bağımlılığı yaratma, hedef kitlenin alıştığı &uuml;r&uuml;nlerden vazge&ccedil;melerini sağlayarak yerine reklamı yapılan &uuml;r&uuml;ne y&ouml;neltme, reklamın hangi işlevinin yerine getirilmesi sonucunda ger&ccedil;ekleşir?</strong>
@@ -710,99 +571,72 @@
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi, kompozisyonda renklerin sınıflandırılmasında <u>yer almaz</u>?</strong>
     - A-) Ana renkler
-    - B-) Ara renkler<br />
-&nbsp;
-    - C-) &Uuml;&ccedil;&uuml;nc&uuml;l renkler<br />
-&nbsp;
-    - D-) Zıt renkler<br />
-&nbsp;
+    - B-) Ara renkler
+    - C-) &Uuml;&ccedil;&uuml;nc&uuml;l renkler
+    - D-) Zıt renkler
     - **Cevap E-) Pastel renkler**
     <hr />
 1. <strong>Aşağıdaki renklerden hangisi ara renkler arasında yer almaktadır?</strong>
     - A-) Kırmızı
-    - B-) Mavi<br />
-&nbsp;
-    - C-) Sarı<br />
-&nbsp;
-    - **Cevap D-) Mor<br />
-&nbsp;**
+    - B-) Mavi
+    - C-) Sarı
+    - **Cevap D-) Mor**
     - E-) Siyah
     <hr />
 1. <strong>Aşağıdakilerden hangisi sıcak renkler arasında <u>yer almaz</u>?</strong>
     - A-) Turuncu
-    - B-) Sarı<br />
-&nbsp;
-    - C-) A&ccedil;ık sarı<br />
-&nbsp;
-    - D-) Kırmızı<br />
-&nbsp;
+    - B-) Sarı
+    - C-) A&ccedil;ık sarı
+    - D-) Kırmızı
     - **Cevap E-) Mavi**
     <hr />
 1. <strong>Aşağıdakilerden hangisi Mavi rengin zıt rengidir?</strong>
     - A-) Mor
-    - **Cevap B-) Turuncu<br />
-&nbsp;**
-    - C-) Beyaz<br />
-&nbsp;
-    - D-) Siyah<br />
-&nbsp;
+    - **Cevap B-) Turuncu**
+    - C-) Beyaz
+    - D-) Siyah
     - E-) Kahverengi
     <hr />
 1. <strong>Aşağıdakilerden hangisi fotoğraflanacak konu ya da &uuml;r&uuml;n&uuml; &ccedil;er&ccedil;evenin tam ortasına yerleştirilerek oluşturulan bir kompozisyon y&ouml;ntemidir?</strong>
     - A-) Simetri
-    - B-) &Uuml;&ccedil;te bir kuralı<br />
-&nbsp;
-    - C-) Asimetri<br />
-&nbsp;
-    - **Cevap D-) Merkeze yerleştirme<br />
-&nbsp;**
+    - B-) &Uuml;&ccedil;te bir kuralı
+    - C-) Asimetri
+    - **Cevap D-) Merkeze yerleştirme**
     - E-) Sadelik
     <hr />
 1. <strong>&Uuml;&ccedil;te Bir Kuralı&#39;nda &ccedil;er&ccedil;eve hem dikey hem de yatay olarak ka&ccedil; eşit par&ccedil;aya b&ouml;l&uuml;nmektedir?</strong>
     - **Cevap A-) 9**
-    - B-) 8<br />
-    - C-) 7<br />
-    - D-) 6<br />
+    - B-) 8
+    - C-) 7
+    - D-) 6
     - E-) 5
     <hr />
 1. <strong>Aşağıdakilerden hangisi, ortadan ikiye ayrılan g&ouml;r&uuml;nt&uuml;n&uuml;n birer yansıma gibi birbirine benzemesi ile ger&ccedil;ekleştirilen kompozisyon t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Merkeze yerleştirme
-    - B-) Sadelik<br />
-&nbsp;
-    - **Cevap C-) Simetri<br />
-&nbsp;**
-    - D-) Asimetri<br />
-&nbsp;
+    - B-) Sadelik
+    - **Cevap C-) Simetri**
+    - D-) Asimetri
     - E-) &Uuml;&ccedil;te bir kuralı
     <hr />
 1. <strong>Aşağıdakilerden hangisi, &ccedil;er&ccedil;evenin i&ccedil;erisinde dikkat dağıtan ne varsa hepsini &ccedil;er&ccedil;evenin dışında bırakması y&ouml;ntemiyle ger&ccedil;ekleştirilen bir kompozisyon t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) &Uuml;&ccedil;te bir kuralı
-    - **Cevap B-) Sadelik<br />
-&nbsp;**
-    - C-) Simetri<br />
-&nbsp;
-    - D-) Asimetri<br />
-&nbsp;
+    - **Cevap B-) Sadelik**
+    - C-) Simetri
+    - D-) Asimetri
     - E-) Merkeze yerleştirme
     <hr />
 1. <strong>Aşağıdakilerden hangisi, nesnelerin bizden uzaklaştık&ccedil;a renklerinin azalması ile bilinen perspektif t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Yakınsayan perspektif
-    - **Cevap B-) Renk perspektifi<br />
-&nbsp;**
-    - C-) Asimetrik perspektif<br />
-&nbsp;
-    - D-) Alt perspektif<br />
-&nbsp;
+    - **Cevap B-) Renk perspektifi**
+    - C-) Asimetrik perspektif
+    - D-) Alt perspektif
     - E-) &Uuml;st perspektif
     <hr />
 1. <strong>Aşağıdakilerden hangisi, fotoğrafta kullanılan bir &ccedil;izginin birincil işlevidir?</strong>
     - **Cevap A-) G&ouml;z&uuml; kompozisyondaki ana nesnelere ya da &uuml;r&uuml;ne y&ouml;nlendirmek**
-    - B-) Sadece estetik bir g&ouml;r&uuml;nt&uuml; oluşturma<br />
-&nbsp;
-    - C-) Metin olarak kullanılma<br />
-&nbsp;
-    - D-) Şekilleri temsil etme<br />
-&nbsp;
+    - B-) Sadece estetik bir g&ouml;r&uuml;nt&uuml; oluşturma
+    - C-) Metin olarak kullanılma
+    - D-) Şekilleri temsil etme
     - E-) Rengi vurgulama
     <hr />
 1. <strong>Aşağıdakilerden hangisi kompozisyon tasarımı bakımından, mavi bir zeminde turuncu bir nesnenin kullanılması ile sağlanır?</strong>
@@ -822,22 +656,16 @@
 ## Unite 9
 1. <strong>Bir fotoğraf makinesi satın alırken pozometre de satın alınır. &Ccedil;&uuml;nk&uuml; yeni &uuml;retilen b&uuml;t&uuml;n makinelerinin i&ccedil;inde ışığı &ouml;l&ccedil;&uuml;p doğru poz değerini veren pozometreler vardır. Makine i&ccedil;i pozometreler hangi ışığı &ouml;l&ccedil;er?</strong>
     - A-) Gelen ışığı
-    - **Cevap B-) Yansıyan ışığı<br />
-&nbsp;**
-    - C-) Konuya d&uuml;şen ışığı<br />
-&nbsp;
-    - D-) Konuyu aydınlatan ışığı<br />
-&nbsp;
+    - **Cevap B-) Yansıyan ışığı**
+    - C-) Konuya d&uuml;şen ışığı
+    - D-) Konuyu aydınlatan ışığı
     - E-) Bir yerden yansıyarak konuya ulaşan ışığı
     <hr />
 1. <strong>Aşağıdakilerden hangisi s&uuml;z&uuml;len ışığın &ouml;zelliklerinden biridir?</strong>
     - A-) Kaynağındaki şiddeti ne ise konu &uuml;zerinde de aynı şiddettedir
-    - B-) Kaynağındaki enerji yoğunluğunu konuya ulaştırır<br />
-&nbsp;
-    - **Cevap C-) Kaynağındaki rengi s&uuml;z&uuml;ld&uuml;ğ&uuml; yarı saydam cismin rengine d&ouml;ner<br />
-&nbsp;**
-    - D-) Kaynağından gelirken hi&ccedil;bir engel ile karşılaşmadan konuyu aydınlatır<br />
-&nbsp;
+    - B-) Kaynağındaki enerji yoğunluğunu konuya ulaştırır
+    - **Cevap C-) Kaynağındaki rengi s&uuml;z&uuml;ld&uuml;ğ&uuml; yarı saydam cismin rengine d&ouml;ner**
+    - D-) Kaynağından gelirken hi&ccedil;bir engel ile karşılaşmadan konuyu aydınlatır
     - E-) Kaynağından gelirken bir y&uuml;zeye &ccedil;arpar ve yansıyarak konuyu aydınlatır
     <hr />
 1. <strong>Doğal ışık, aşağıdaki y&ouml;nlerden hangisinde bir y&uuml;zeyden yansıma haricinde konuyu <u>aydınlatmaz</u>?</strong>
@@ -849,52 +677,37 @@
     <hr />
 1. <strong>Alttan aydınlatma sinema dilinde, daha &ccedil;ok hangi i&ccedil;erikli konular i&ccedil;in kullanılmaktadır?</strong>
     - A-) Aşk sahneleri
-    - B-) Komedi sahneleri<br />
-&nbsp;
-    - C-) Diyalog sahneleri<br />
-&nbsp;
-    - **Cevap D-) Korku sahneleri<br />
-&nbsp;**
+    - B-) Komedi sahneleri
+    - C-) Diyalog sahneleri
+    - **Cevap D-) Korku sahneleri**
     - E-) Şefkat sahneleri
     <hr />
 1. <strong>Aşağıdakilerden hangisi LED ışıkların &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
     - A-) LED Paneller
-    - B-) LED Halkalar<br />
-&nbsp;
-    - C-) LED Spotlar<br />
-&nbsp;
-    - D-) LED Şeritler<br />
-&nbsp;
+    - B-) LED Halkalar
+    - C-) LED Spotlar
+    - D-) LED Şeritler
     - **Cevap E-) LED Şemsiyeler**
     <hr />
 1. <strong>Aşağıdakilerden hangisi flaşların dezavantajlarından biri <u>değildir</u>?</strong>
     - A-) Doğru kullanılmadıklarında nesneleri, mek&acirc;nları veya kişileri doğal g&ouml;r&uuml;n&uuml;m&uuml;nden uzaklaştırıp, yapay bir noktaya taşıyabilirler
-    - B-) &Uuml;r&uuml;nleri veya kişileri arka plana g&ouml;re daha parlak hale getirerek, mek&acirc;ndan koparabilirler<br />
-&nbsp;
-    - C-) Defalarca patlayan flaş ışığı kişiler &uuml;zerinde negatif bir etki yaratabilir<br />
-&nbsp;
-    - **Cevap D-) Flaşlar, beyaz ışık ayarında kullanıldıklarında &uuml;r&uuml;n&uuml;n rengine bağlı kalan ve dengeli renk elde eden sonu&ccedil;lar verirler<br />
-&nbsp;**
+    - B-) &Uuml;r&uuml;nleri veya kişileri arka plana g&ouml;re daha parlak hale getirerek, mek&acirc;ndan koparabilirler
+    - C-) Defalarca patlayan flaş ışığı kişiler &uuml;zerinde negatif bir etki yaratabilir
+    - **Cevap D-) Flaşlar, beyaz ışık ayarında kullanıldıklarında &uuml;r&uuml;n&uuml;n rengine bağlı kalan ve dengeli renk elde eden sonu&ccedil;lar verirler**
     - E-) Arka planda istenmeyen g&ouml;lgelerin oluşumuna neden olarak, negatif bir etki yaratabilirler
     <hr />
 1. <strong>Aşağıdaki programlardan hangisi fotoğraf işleme amacı ile &uuml;retilmiş ve tanıtım fotoğraf&ccedil;ılarının kullandığı programlardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Reverso Daylight**
-    - B-) Capture One<br />
-&nbsp;
-    - C-) GIMP (GNU Image Manipulation Program)<br />
-&nbsp;
-    - D-) Lightroom<br />
-&nbsp;
+    - B-) Capture One
+    - C-) GIMP (GNU Image Manipulation Program)
+    - D-) Lightroom
     - E-) Adobe Photoshop
     <hr />
 1. <strong>En yaygın olarak kullanılan ve st&uuml;dyo duvarının zeminine oval bir şekilde inşa edilen fon aşağıdakilerden hangisidir?</strong>
     - A-) Arka plan
-    - B-) D&uuml;z fon<br />
-&nbsp;
-    - C-) Degrade fon<br />
-&nbsp;
-    - **Cevap D-) Sonsuz fon<br />
-&nbsp;**
+    - B-) D&uuml;z fon
+    - C-) Degrade fon
+    - **Cevap D-) Sonsuz fon**
     - E-) Paternli fon
     <hr />
 1. <strong>St&uuml;dyoda kullanılan anlık ışık kaynakları aşağıdakilerden hangisidir?</strong>
@@ -906,19 +719,16 @@
     <hr />
 1. <strong>Aşağıdakilerden hangisi ışığın hallerini doğru bir şekilde ifade etmektedir?</strong>
     - A-) Yumuşak Işık, Kontrast Işık
-    - B-) Parlak Işık, Doğal Işık, Yapay Işık<br />
-&nbsp;
-    - C-) Gelen Işık, Yansıyan Işık<br />
-&nbsp;
-    - D-) Cephe Işığı, Tepe Işığı, Ters Işık, Alttan Işık, Yanal Işık<br />
-&nbsp;
+    - B-) Parlak Işık, Doğal Işık, Yapay Işık
+    - C-) Gelen Işık, Yansıyan Işık
+    - D-) Cephe Işığı, Tepe Işığı, Ters Işık, Alttan Işık, Yanal Işık
     - **Cevap E-) Doğrudan ışık, Yansımış Işık, S&uuml;z&uuml;lm&uuml;ş Işık**
     <hr />
 1. <strong>Aşağıdakilerden hangisi doğal ışık kaynağıdır?</strong>
     - A-) Mum
-    - B-) Flaş<br />
-    - **Cevap C-) G&uuml;neş<br />**
-    - D-) Led<br />
+    - B-) Flaş
+    - **Cevap C-) G&uuml;neş**
+    - D-) Led
     - E-) Lazer
     <hr />
 1. <strong>Aşağıdakilerden hangisi ışığın kaynağından hi&ccedil;bir engel ile karşılaşmadan konuyu aydınlatmasını ifade eder?</strong>
@@ -931,100 +741,72 @@
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi başarılı &uuml;r&uuml;n fotoğrafının en &ouml;nemli y&ouml;nlerinden biridir?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n transferini kolaylaştırması
-    - **Cevap B-) İzleyici &uuml;zerinde ilgi uyandıran bir duygu yaratması<br />
-&nbsp;**
-    - C-) B&uuml;t&ccedil;esinin fazla olması<br />
-&nbsp;
-    - D-) M&uuml;şteri memnuniyeti sağlaması<br />
-&nbsp;
+    - **Cevap B-) İzleyici &uuml;zerinde ilgi uyandıran bir duygu yaratması**
+    - C-) B&uuml;t&ccedil;esinin fazla olması
+    - D-) M&uuml;şteri memnuniyeti sağlaması
     - E-) Mizah barındırması
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında sıklıkla başvurulan bir tasarım elemanı olan rengin, kullanım ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) İzleyiciyi psikolojik olarak etkileme
-    - B-) İlgi merkezi oluşturma<br />
-&nbsp;
-    - C-) Vurguyu g&uuml;&ccedil;lendirme<br />
-&nbsp;
-    - D-) &Uuml;r&uuml;n&uuml; ortaya &ccedil;ıkarma<br />
-&nbsp;
+    - B-) İlgi merkezi oluşturma
+    - C-) Vurguyu g&uuml;&ccedil;lendirme
+    - D-) &Uuml;r&uuml;n&uuml; ortaya &ccedil;ıkarma
     - **Cevap E-) &Uuml;r&uuml;n&uuml;n fiyatını belirleme**
     <hr />
 1. <strong>Aşağıdakilerden hangisi bir tanıtım fotoğraf&ccedil;ısının en &ouml;nemli ve ana işleri arasında yer alır?</strong>
     - A-) &Uuml;r&uuml;n pazar payını artırma stratejileri belirleme
-    - B-) &Uuml;r&uuml;n-m&uuml;şteri ilişkilerini d&uuml;zenleme<br />
-&nbsp;
-    - C-) Pazar verilerinin toplanması<br />
-&nbsp;
-    - **Cevap D-) Işıkların konumunu belirleme<br />
-&nbsp;**
+    - B-) &Uuml;r&uuml;n-m&uuml;şteri ilişkilerini d&uuml;zenleme
+    - C-) Pazar verilerinin toplanması
+    - **Cevap D-) Işıkların konumunu belirleme**
     - E-) &Uuml;r&uuml;n değerlendirme anketi yapma
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında kompozit ışık kullanmanın ana sebepleri arasında yer alır?</strong>
     - **Cevap A-) &Uuml;r&uuml;n&uuml;n estetik ve ideal bir aydınlatma ile g&ouml;r&uuml;nt&uuml;lenmesi**
-    - B-) &Uuml;r&uuml;n&uuml;n y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; bir g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml; oluşturma<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;n markasının m&uuml;şteriye tanıtımı<br />
-&nbsp;
-    - D-) &Uuml;r&uuml;n&uuml;n renk se&ccedil;eneklerini g&ouml;sterme<br />
-&nbsp;
+    - B-) &Uuml;r&uuml;n&uuml;n y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; bir g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml; oluşturma
+    - C-) &Uuml;r&uuml;n markasının m&uuml;şteriye tanıtımı
+    - D-) &Uuml;r&uuml;n&uuml;n renk se&ccedil;eneklerini g&ouml;sterme
     - E-) &Uuml;r&uuml;n&uuml;n boyutunu vurgulamak i&ccedil;in
     <hr />
 1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml;de sıvı kullanımı ve bir g&ouml;r&uuml;nt&uuml;leme t&uuml;r&uuml; olarak sıvı hareketi dondurma y&ouml;ntemi ile &ccedil;ekilen bir g&ouml;r&uuml;nt&uuml;de var olan &ouml;zellikler arasında <u>yer almaz</u>?</strong>
     - A-) Dinamiktir ve inanılmaz bir hareket izlenimi yaratır
-    - B-) Su gibi nispeten yaygın bir g&uuml;ndelik nesneyi &ccedil;ıplak g&ouml;zle g&ouml;r&uuml;lemeyecek şekilde g&ouml;sterir<br />
-&nbsp;
-    - **Cevap C-) Durağan, sabit ve sıkıcı g&ouml;r&uuml;nt&uuml;ler oluşturur<br />
-&nbsp;**
-    - D-) Sıvıyı zaman i&ccedil;inde dondurur ve onu t&uuml;m ince n&uuml;ansları ve y&uuml;ce g&uuml;zelliği ile incelememizi sağlar<br />
-&nbsp;
+    - B-) Su gibi nispeten yaygın bir g&uuml;ndelik nesneyi &ccedil;ıplak g&ouml;zle g&ouml;r&uuml;lemeyecek şekilde g&ouml;sterir
+    - **Cevap C-) Durağan, sabit ve sıkıcı g&ouml;r&uuml;nt&uuml;ler oluşturur**
+    - D-) Sıvıyı zaman i&ccedil;inde dondurur ve onu t&uuml;m ince n&uuml;ansları ve y&uuml;ce g&uuml;zelliği ile incelememizi sağlar
     - E-) Bir sıvının hareketinin yakalanması, şişeler veya bardaklar gibi sıradan &uuml;r&uuml;nlere ilgin&ccedil; bir ger&ccedil;ek&uuml;st&uuml;c&uuml;l&uuml;k katmaktadır
     <hr />
 1. <strong>Aşağıdakilerden hangisi prensipte, tıpkı bir resim yapar gibi, el fenerleri ya da led ışıklar kullanılarak nesnenin fotografik olarak boyanması y&ouml;ntemidir?</strong>
     - A-) Renkli filtre kullanımı
-    - B-) Arka ışık<br />
-&nbsp;
-    - **Cevap C-) Işıkla boyama<br />
-&nbsp;**
-    - D-) Renkli fon kullanımı<br />
-&nbsp;
+    - B-) Arka ışık
+    - **Cevap C-) Işıkla boyama**
+    - D-) Renkli fon kullanımı
     - E-) Fon renklendirme
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında kullanılmak &uuml;zere, hazır alınabildiği gibi fır&ccedil;a ve boya gibi basit malzemelerle de oluşturulabilen &ccedil;ekimlerde &uuml;r&uuml;n&uuml;n &uuml;zerine yerleştirildiği bir st&uuml;dyo ekipmandır?</strong>
     - A-) Makaslar
     - B-) Sehpalar
     - **Cevap C-) Arka planlar**
-    - D-) Işık ayakları<br />
-&nbsp;
+    - D-) Işık ayakları
     - E-) Portre tası
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında &uuml;r&uuml;nle birlikte &ccedil;ok fazla ve gereksiz aksesuar kullanımıyla ortaya &ccedil;ıkan bir durumdur?</strong>
     - A-) İlgiyi merkeze toplar
-    - **Cevap B-) İlgiyi genel sahneden uzaklaştırır<br />
-&nbsp;**
-    - C-) İlgiyi sahneye &ccedil;eker<br />
-&nbsp;
-    - D-) Vurguyu olduk&ccedil;a arttırır<br />
-&nbsp;
+    - **Cevap B-) İlgiyi genel sahneden uzaklaştırır**
+    - C-) İlgiyi sahneye &ccedil;eker
+    - D-) Vurguyu olduk&ccedil;a arttırır
     - E-) Renkleri canlandırır
     <hr />
 1. <strong>Aşağıdakilerden hangisi dijital bir uygulama olan ve fotoğrafta birbirine uyumlu pozlar oluşturmak i&ccedil;in, başlamadan &ouml;nce bitmiş g&ouml;r&uuml;nt&uuml;n&uuml;n planlanmasının da yapıldığı bir g&ouml;r&uuml;nt&uuml; oluşturma y&ouml;ntemidir?</strong>
     - A-) Portre &ccedil;ekimi
-    - B-) Diyafram &ouml;ncelikli &ccedil;ekim<br />
-&nbsp;
-    - C-) Portre &ccedil;ekimi<br />
-&nbsp;
-    - **Cevap D-) Kompozit g&ouml;r&uuml;nt&uuml;<br />
-&nbsp;**
+    - B-) Diyafram &ouml;ncelikli &ccedil;ekim
+    - C-) Portre &ccedil;ekimi
+    - **Cevap D-) Kompozit g&ouml;r&uuml;nt&uuml;**
     - E-) Hareketli nesne &ccedil;ekimi
     <hr />
 1. <strong>Aşağıdakilerden hangisi tanıtım fotoğrafında, &uuml;r&uuml;n&uuml; &ouml;n plana &ccedil;ıkarmak ve ilgi merkezine oturtmak i&ccedil;in teknik olarak diyaframın kullanıldığı bir y&ouml;ntemdir?</strong>
     - **Cevap A-) Alan derinliğini kullanma**
-    - B-) Işıkla boyama<br />
-&nbsp;
-    - C-) Sahneleme<br />
-&nbsp;
-    - D-) Dijital m&uuml;dahale<br />
-&nbsp;
+    - B-) Işıkla boyama
+    - C-) Sahneleme
+    - D-) Dijital m&uuml;dahale
     - E-) Kompozit g&ouml;r&uuml;nt&uuml;
     <hr />
 1. <strong>Aşağıdakilerden hangisi tasarımda bir kompozisyon &ouml;gesi olarak kullanılan rengin oluşturduğu etkiler arasında <u>yer almaz</u>?</strong>
@@ -1058,42 +840,30 @@
     <hr />
 1. <strong>Kompozit bir g&ouml;r&uuml;nt&uuml; oluşturmak i&ccedil;in farklı mekanlarda ve zamanlarda &ccedil;ekimler yaparken post prod&uuml;ksiyonda birleştirmeyi kolaylaştırmak i&ccedil;in aşağıdakilerden hangisini kullanmak gereklidir?</strong>
     - **Cevap A-) Tripot**
-    - B-) Makro objektif<br />
-&nbsp;
-    - C-) Su terazisi<br />
-&nbsp;
-    - D-) Flaş<br />
-&nbsp;
+    - B-) Makro objektif
+    - C-) Su terazisi
+    - D-) Flaş
     - E-) Filtre
     <hr />
 1. <strong>Focus Stacking sayesinde kazanılan en avantajlı şey aşağıdakilerden hangisidir?</strong>
     - A-) Kontrast
-    - **Cevap B-) Netlik<br />
-&nbsp;**
-    - C-) Renk doygunluğu<br />
-&nbsp;
-    - D-) Y&uuml;ksek enstantane<br />
-&nbsp;
+    - **Cevap B-) Netlik**
+    - C-) Renk doygunluğu
+    - D-) Y&uuml;ksek enstantane
     - E-) Yoğunluk
     <hr />
 1. <strong>Y&uuml;ksek Dinamik Aralık (HDR) y&ouml;ntemi sayesinde aşağıdakilerden hangisi sağlanmış olur?</strong>
     - A-) Doğru diyafram değeri
-    - B-) Doğru enstantane değeri<br />
-&nbsp;
-    - C-) Doğru pozlandırma değeri<br />
-&nbsp;
-    - **Cevap D-) Doğru aydınlatma dengesi<br />
-&nbsp;**
+    - B-) Doğru enstantane değeri
+    - C-) Doğru pozlandırma değeri
+    - **Cevap D-) Doğru aydınlatma dengesi**
     - E-) Doğru kontrast değeri
     <hr />
 1. <strong>Y&uuml;ksek Dinamik Aralık (HDR) y&ouml;ntemiyle &ccedil;ekim yaparken aşağıdakilerden hangi y&ouml;ntemi kullanmak şarttır?</strong>
     - A-) Uzun pozlama
-    - B-) Y&uuml;ksek enstantane<br />
-&nbsp;
-    - C-) Flaş<br />
-&nbsp;
-    - **Cevap D-) Poz taraması<br />
-&nbsp;**
+    - B-) Y&uuml;ksek enstantane
+    - C-) Flaş
+    - **Cevap D-) Poz taraması**
     - E-) Işıkla boyama
     <hr />
 1. <strong>St&uuml;dyo flaşlarının renk sıcaklıkları hangi dereceye kalibrelidir?</strong>
@@ -1105,42 +875,30 @@
     <hr />
 1. <strong>Renk y&ouml;netimi &uuml;zerine profesyonel hizmet veren fotoğraf&ccedil;ılar aşağıdaki cihazlardan hangisinde renk kalibrasyonu yapmak <u>zorunda değildir</u>?</strong>
     - A-) Bilgisayar
-    - B-) Kamera<br />
-&nbsp;
-    - C-) Monit&ouml;r<br />
-&nbsp;
-    - D-) Yazıcı<br />
-&nbsp;
+    - B-) Kamera
+    - C-) Monit&ouml;r
+    - D-) Yazıcı
     - **Cevap E-) Pozometre**
     <hr />
 1. <strong>Gaspard-F&eacute;lix Tournachon&rsquo;ın bilinen adı aşağıdakilerden hangisidir?</strong>
     - A-) LİDAR
-    - B-) Radar<br />
-&nbsp;
-    - C-) Sonar<br />
-&nbsp;
-    - **Cevap D-) Nadar<br />
-&nbsp;**
+    - B-) Radar
+    - C-) Sonar
+    - **Cevap D-) Nadar**
     - E-) Nazar
     <hr />
 1. <strong>Ara G&uuml;ler&rsquo;in Tend&uuml;rek Dağlarında &ccedil;ektiği en &uuml;nl&uuml; hava fotoğrafı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Nuh&#39;un gemisinin izi**
-    - B-) Afrodisias antik kenti<br />
-&nbsp;
-    - C-) Nemrut krater g&ouml;l&uuml;<br />
-&nbsp;
-    - D-) Nemrut dağı &ouml;renyeri<br />
-&nbsp;
+    - B-) Afrodisias antik kenti
+    - C-) Nemrut krater g&ouml;l&uuml;
+    - D-) Nemrut dağı &ouml;renyeri
     - E-) İshak Paşa sarayı
     <hr />
 1. <strong>Drone sayesinde yeni edinilen g&ouml;rme yeteneğine hen&uuml;z aşina olunmasında aşağıdakilerden hangisi ilişkilidir?</strong>
     - **Cevap A-) Perspektifin iki boyuta inmesi**
-    - B-) Manzaranın g&uuml;zelliği<br />
-&nbsp;
-    - C-) Işığın canlılığı<br />
-&nbsp;
-    - D-) Atmosferin keskinliği<br />
-&nbsp;
+    - B-) Manzaranın g&uuml;zelliği
+    - C-) Işığın canlılığı
+    - D-) Atmosferin keskinliği
     - E-) Renk sıcaklığı
     <hr />
 1. <strong>Farklı fotoğraflardan alınan unsurların birleştirilmesiyle kompozit bir g&ouml;r&uuml;nt&uuml; oluşturmak, reklam ve tanıtım bağlamında aşağıdakilerden hangisiyle ilişkilidir?</strong>
@@ -1167,62 +925,44 @@
     <hr />
 1. <strong>Tanıtım fotoğrafı aşağıdaki reklam mecralarından hangisinde <u>kullanılamaz</u>?</strong>
     - A-) Gazete
-    - B-) Dergi<br />
-&nbsp;
-    - C-) Bilboard<br />
-&nbsp;
-    - **Cevap D-) Radyo<br />
-&nbsp;**
+    - B-) Dergi
+    - C-) Bilboard
+    - **Cevap D-) Radyo**
     - E-) Web sayfası
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklam tasarımı i&ccedil;inde basılı mecralarda tanıtım fotoğrafı ile birlikte <u>kullanılmaz</u>?</strong>
     - A-) Logo
-    - B-) Metin<br />
-&nbsp;
-    - C-) Amblem<br />
-&nbsp;
-    - D-) Tipografi<br />
-&nbsp;
+    - B-) Metin
+    - C-) Amblem
+    - D-) Tipografi
     - **Cevap E-) Video**
     <hr />
 1. <strong>Reklam kampanyalarında tanıtım fotoğraflarının sıklıkla kullanılma nedenleri arasında <u>g&ouml;sterilemez</u>?</strong>
     - A-) Mecraların &ccedil;oğunda kullanılabilmesi
-    - B-) Mesajın kolay algılanmasını sağlaması<br />
-&nbsp;
-    - C-) Mesaja dikkat &ccedil;ekmesi<br />
-&nbsp;
-    - D-) Yaratıcı mesajlar verebilmesi<br />
-&nbsp;
+    - B-) Mesajın kolay algılanmasını sağlaması
+    - C-) Mesaja dikkat &ccedil;ekmesi
+    - D-) Yaratıcı mesajlar verebilmesi
     - **Cevap E-) Prod&uuml;ksiyonunun kolay olması**
     <hr />
 1. <strong>Tanıtım fotoğrafının hazırlık ve planlama s&uuml;recinde aşağıdakilerden hangisi ger&ccedil;ekleştirilir?</strong>
     - **Cevap A-) Taslak geliştirme**
-    - B-) Baskı<br />
-&nbsp;
-    - C-) &Ccedil;ekim<br />
-&nbsp;
-    - D-) Post-prod&uuml;ksiyon<br />
-&nbsp;
+    - B-) Baskı
+    - C-) &Ccedil;ekim
+    - D-) Post-prod&uuml;ksiyon
     - E-) G&ouml;r&uuml;nt&uuml; işleme
     <hr />
 1. <strong>Reklam ajanslarında kampanya s&uuml;recinde yaratıcı ekibe liderlik ederek onları y&ouml;nlendirici pozisyonda g&ouml;rev alan uzman aşağıdakilerden hangisidir?</strong>
     - A-) Sanat y&ouml;netmeni
-    - **Cevap B-) Kreatif direkt&ouml;r<br />
-&nbsp;**
-    - C-) Ajans başkanı<br />
-&nbsp;
-    - D-) Medya planlama direkt&ouml;r&uuml;<br />
-&nbsp;
+    - **Cevap B-) Kreatif direkt&ouml;r**
+    - C-) Ajans başkanı
+    - D-) Medya planlama direkt&ouml;r&uuml;
     - E-) Grafiker
     <hr />
 1. <strong>Tanıtım fotoğrafının prod&uuml;ksiyon s&uuml;recinde post-prod&uuml;ksiyon aşamasında ger&ccedil;ekleştirilen işlemler aşağıdakilerden hangisidir?</strong>
     - A-) &Ccedil;ekim
-    - **Cevap B-) G&ouml;r&uuml;nt&uuml; işleme<br />
-&nbsp;**
-    - C-) Kompozisyon d&uuml;zenleme<br />
-&nbsp;
-    - D-) Layout hazırlama<br />
-&nbsp;
+    - **Cevap B-) G&ouml;r&uuml;nt&uuml; işleme**
+    - C-) Kompozisyon d&uuml;zenleme
+    - D-) Layout hazırlama
     - E-) Breef
     <hr />
 1. <strong>Tanıtım fotoğraf&ccedil;ılarının ajans ve m&uuml;şterilerle ilişkilerini d&uuml;zenleyen, tanıtımını yapan, teklif ve b&uuml;t&ccedil;esini hazırlayan, idari ve mali konulardaki işlerin takibini y&uuml;r&uuml;ten temsilcisi aşağıdakilerden hangisidir?</strong>
@@ -1234,22 +974,16 @@
     <hr />
 1. <strong>Tanıtım fotoğraf&ccedil;ısının hangi nitelikleri başarısında etkileyen fakt&ouml;rler arasında <u>yer almaz</u>?</strong>
     - A-) Teknik bilgisi
-    - B-) Teknik donanım<br />
-&nbsp;
-    - C-) Becerileri<br />
-&nbsp;
-    - **Cevap D-) Yazılım bilgisi<br />
-&nbsp;**
+    - B-) Teknik donanım
+    - C-) Becerileri
+    - **Cevap D-) Yazılım bilgisi**
     - E-) Yaratıcılığı
     <hr />
 1. <strong>Tanıtım fotoğraflarının istenen g&ouml;rsel etkiyi yaratabilmesi i&ccedil;in aşağıdaki hangi nitelik<u> &ouml;nemli değildir</u>?</strong>
     - **Cevap A-) Filtre kullanımı**
-    - B-) Netlik<br />
-&nbsp;
-    - C-) Kompozisyon<br />
-&nbsp;
-    - D-) Işık ve renk<br />
-&nbsp;
+    - B-) Netlik
+    - C-) Kompozisyon
+    - D-) Işık ve renk
     - E-) &Uuml;r&uuml;nlerin doğru tasviri
     <hr />
 1. <strong>Tanıtım fotoğrafının &ccedil;ekimlerinde en sık kullanılan, işlenmemiş ve ham fotoğraf olarak da ifade edilen dosya t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
@@ -1269,52 +1003,37 @@
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisinde Renk modellerine g&ouml;re renklerin &uuml;&ccedil; ana &ouml;zelliği yer almaktadır?</strong>
     - A-) Renk tonu / Doygunluk / Siyah-Beyaz
-    - B-) RGB / Doygunluk / Parlaklık<br />
-&nbsp;
-    - C-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k / Doygunluk / Parlaklık<br />
-&nbsp;
-    - **Cevap D-) Renk tonu / Doygunluk / Parlaklık<br />
-&nbsp;**
+    - B-) RGB / Doygunluk / Parlaklık
+    - C-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k / Doygunluk / Parlaklık
+    - **Cevap D-) Renk tonu / Doygunluk / Parlaklık**
     - E-) Renk tonu / Siyah-Beyaz/ Parlaklık
     <hr />
 1. <strong>Aşağıdakilerden hangisinde RGB harflerini temsil eden renkler yer almaktadır?</strong>
     - A-) Sarı-Yeşil-Mavi
-    - B-) Kırmızı-Siyah-Mavi<br />
-&nbsp;
-    - C-) Sarı-Mavi-Kırmızı<br />
-&nbsp;
-    - **Cevap D-) Kırmızı-Yeşil-Mavi<br />
-&nbsp;**
+    - B-) Kırmızı-Siyah-Mavi
+    - C-) Sarı-Mavi-Kırmızı
+    - **Cevap D-) Kırmızı-Yeşil-Mavi**
     - E-) Mavi-Yeşil-Siyah
     <hr />
 1. <strong>CMYK renk sisteminde bulunan ve &lsquo;K&rsquo; harfi ile temsil edilen renk aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Siyah**
-    - B-) Beyaz<br />
-&nbsp;
-    - C-) Kırmızı<br />
-&nbsp;
-    - D-) Mavi<br />
-&nbsp;
+    - B-) Beyaz
+    - C-) Kırmızı
+    - D-) Mavi
     - E-) Yeşil
     <hr />
 1. <strong>&Ccedil;ıkarımsal renk sentezi olarak da isimlendirilen renk modeli aşağıdakilerden hangisidir?</strong>
     - A-) RGB
-    - **Cevap B-) CMKY<br />
-&nbsp;**
-    - C-) Uzay<br />
-&nbsp;
-    - D-) LabY<br />
-&nbsp;
+    - **Cevap B-) CMKY**
+    - C-) Uzay
+    - D-) LabY
     - E-) AHB
     <hr />
 1. <strong>Aşağıdakilerden hangisi monit&ouml;rlerle kullanılmak &uuml;zere tasarlanmış bir renk uzayıdır?</strong>
     - A-) CyX
-    - B-) CI XYZ<br />
-&nbsp;
-    - C-) Lab3<br />
-&nbsp;
-    - **Cevap D-) sRGB<br />
-&nbsp;**
+    - B-) CI XYZ
+    - C-) Lab3
+    - **Cevap D-) sRGB**
     - E-) CMYK
     <hr />
 1. <strong>Renk y&ouml;netiminde &ccedil;alışma ortamını d&uuml;zenlerken masa&uuml;st&uuml; ve uygulama aray&uuml;zlerinin hangi renge ayarlanması tavsiye edilmektedir?</strong>
@@ -1333,32 +1052,24 @@
     <hr />
 1. <strong>Monit&ouml;r kalibrasyonunda en iyi y&ouml;ntem olarak tavsiye edilen ve renkleri monit&ouml;r &uuml;zerinden doğru bir şekilde g&ouml;rmek i&ccedil;in kullanılan renk kalibrasron cihazı aşağıdakilerden hangisidir?</strong>
     - A-) Yazıcı
-    - B-) Monit&ouml;r<br />
-&nbsp;
+    - B-) Monit&ouml;r
     - **Cevap C-) Colormetre<br />
-<br />
-&nbsp;**
+**
     - D-) Fotoğraf makinesi
     - E-) Tarayıcı
     <hr />
 1. <strong>Aşağıdaki uygulamalardan hangisi, fotoğrafta Beyaz Ayarı&rsquo;nı kontrol etmenin farklı y&ouml;ntemleri arasında <u>yer almaz</u>?</strong>
     - A-) &Ccedil;ekilecek sahnenin ışığı bir renk &ouml;l&ccedil;erle &ouml;l&ccedil;&uuml;lmesi
-    - B-) Fotoğraf makinesi &uuml;zerinden &ldquo;Beyaz Ayarı&rdquo; d&uuml;zenlemesi<br />
-&nbsp;
-    - C-) Raw &uuml;zerinden &ldquo;Beyaz Ayarı&rdquo; d&uuml;zenlemesi<br />
-&nbsp;
-    - D-) &Ccedil;ekim sırasında Renk Paleti kullanımı<br />
-&nbsp;
+    - B-) Fotoğraf makinesi &uuml;zerinden &ldquo;Beyaz Ayarı&rdquo; d&uuml;zenlemesi
+    - C-) Raw &uuml;zerinden &ldquo;Beyaz Ayarı&rdquo; d&uuml;zenlemesi
+    - D-) &Ccedil;ekim sırasında Renk Paleti kullanımı
     - **Cevap E-) Yedek batarya kullanımı**
     <hr />
 1. <strong>Aşağıdakilerden hangisi fotoğraf makinesi men&uuml;s&uuml;nde yer alan beyaz ayarı se&ccedil;enekleri arasında <u>yer almaz</u>?</strong>
     - A-) G&ouml;lge
-    - B-) Bulutlu<br />
-&nbsp;
-    - C-) Otomatik<br />
-&nbsp;
-    - D-) G&uuml;n ışığı<br />
-&nbsp;
+    - B-) Bulutlu
+    - C-) Otomatik
+    - D-) G&uuml;n ışığı
     - **Cevap E-) Spor modu**
     <hr />
 1. <strong>CMYK renk modelinin bir rengi tanımlamak i&ccedil;in kullandığı d&ouml;rt ana renk aşağıdakilerden hangisinde doğru verilmiştir?</strong>
@@ -1378,52 +1089,37 @@
     <hr />
 1. <strong>Pasaport i&ccedil;in ne t&uuml;r fotoğraflara ihtiya&ccedil; duyulur?</strong>
     - A-) Selfie
-    - B-) Biyografik<br />
-&nbsp;
-    - **Cevap C-) Biyometrik<br />
-&nbsp;**
-    - D-) Portre<br />
-&nbsp;
+    - B-) Biyografik
+    - **Cevap C-) Biyometrik**
+    - D-) Portre
     - E-) İkonik
     <hr />
 1. <strong>Uyuşturucu ka&ccedil;ak&ccedil;ısının yakalanmasına sebep olan şey aşağıdakilerden hangisidir?</strong>
     - A-) Google sokak g&ouml;r&uuml;nt&uuml;leri
-    - **Cevap B-) Youtube videoları<br />
-&nbsp;**
-    - C-) Paylaştığı selfiler<br />
-&nbsp;
-    - D-) WhatsApp durum mesajları<br />
-&nbsp;
+    - **Cevap B-) Youtube videoları**
+    - C-) Paylaştığı selfiler
+    - D-) WhatsApp durum mesajları
     - E-) Instagram yorumları
     <hr />
 1. <strong>Daha iyi g&ouml;r&uuml;nt&uuml; elde etme ve kullanıcı kusurlarını telafi etme adına cep telefonlarında geliştirilen en etkin y&ouml;ntem hangisidir?</strong>
     - A-) Tripot
-    - B-) Flaş<br />
-&nbsp;
-    - C-) Uzun pozlama<br />
-&nbsp;
-    - **Cevap D-) Yapay zek&acirc;<br />
-&nbsp;**
+    - B-) Flaş
+    - C-) Uzun pozlama
+    - **Cevap D-) Yapay zek&acirc;**
     - E-) Profesyonel fotoğraf&ccedil;ı
     <hr />
 1. <strong>Portre fotoğraf&ccedil;ısı Miller Mobley tarafından cep telefonuyla &ccedil;ekilen Camila Cabello, kapak fotoğrafı hangi dergide yayınlanmıştır?</strong>
     - A-) News Week
-    - B-) Rolling Stone<br />
-&nbsp;
-    - **Cevap C-) Billboard<br />
-&nbsp;**
-    - D-) National Geographic<br />
-&nbsp;
+    - B-) Rolling Stone
+    - **Cevap C-) Billboard**
+    - D-) National Geographic
     - E-) Time
     <hr />
 1. <strong>Cep telefonlarla rekabete giren akıllı k&uuml;&ccedil;&uuml;k fotoğraf makinalarının en b&uuml;y&uuml;k avantajları aşağıdakilerden hangisidir?</strong>
     - A-) Renk
-    - B-) Keskinlik<br />
-&nbsp;
-    - C-) Doygunluk<br />
-&nbsp;
-    - D-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k<br />
-&nbsp;
+    - B-) Keskinlik
+    - C-) Doygunluk
+    - D-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k
     - **Cevap E-) Optik zoom**
     <hr />
 1. <strong>GoPro ve veya DJI markalarıyla bilinen kameralar, hangi kategoride sınıflandırılır?</strong>
@@ -1435,32 +1131,23 @@
     <hr />
 1. <strong>Cambridge Analytica Skandalı&rsquo;na temelde sebep olan şey aşağıdakilerden hangisidir?</strong>
     - A-) İzinsiz satış yapma
-    - B-) İzinsiz g&ouml;steride bulunma<br />
-&nbsp;
-    - C-) İzinsiz tanıtım kampanyası<br />
-&nbsp;
-    - D-) İzinsiz pazarlamada bulunma<br />
-&nbsp;
+    - B-) İzinsiz g&ouml;steride bulunma
+    - C-) İzinsiz tanıtım kampanyası
+    - D-) İzinsiz pazarlamada bulunma
     - **Cevap E-) İzinsiz veri kullanımı**
     <hr />
 1. <strong>Kurumsal anlamda bir ya da daha fazla firma i&ccedil;in profesyonel sosyal medya i&ccedil;eriği y&ouml;netme ve tasarımlama işlerini &uuml;stlenen kişi hangi unvan ile anılır?</strong>
     - A-) Influencer
-    - B-) Fenomen<br />
-&nbsp;
-    - **Cevap C-) Sosyal medya y&ouml;neticisi<br />
-&nbsp;**
-    - D-) Admin<br />
-&nbsp;
+    - B-) Fenomen
+    - **Cevap C-) Sosyal medya y&ouml;neticisi**
+    - D-) Admin
     - E-) F&uuml;t&uuml;rist
     <hr />
 1. <strong>Ticari &uuml;r&uuml;nler web sayfalarında neden beyaz fon &uuml;st&uuml; ya da &ouml;n&uuml;nde fotoğraflanır?</strong>
     - A-) &Uuml;r&uuml;nlerin &ldquo;renk doğruluğunun&rdquo; korunması i&ccedil;in
-    - B-) &Uuml;r&uuml;nlerin &ldquo;keskinliği ve netliğinin&rdquo; arttırılması i&ccedil;in<br />
-&nbsp;
-    - C-) &Uuml;r&uuml;nlerin &ldquo;kontrast kontrol&uuml;n&uuml;n&rdquo; sağlanması i&ccedil;in<br />
-&nbsp;
-    - **Cevap D-) &Uuml;r&uuml;nler &ldquo;okunaklı ve temiz&rdquo; bi&ccedil;imde g&ouml;r&uuml;lmesi i&ccedil;in<br />
-&nbsp;**
+    - B-) &Uuml;r&uuml;nlerin &ldquo;keskinliği ve netliğinin&rdquo; arttırılması i&ccedil;in
+    - C-) &Uuml;r&uuml;nlerin &ldquo;kontrast kontrol&uuml;n&uuml;n&rdquo; sağlanması i&ccedil;in
+    - **Cevap D-) &Uuml;r&uuml;nler &ldquo;okunaklı ve temiz&rdquo; bi&ccedil;imde g&ouml;r&uuml;lmesi i&ccedil;in**
     - E-) &Uuml;r&uuml;nlerin &ldquo;renk doygunluğunun&rdquo; arttırılması i&ccedil;in
     <hr />
 1. <strong>Biyometrik fotoğraf hangi kavramla daha fazla ilişkilidir?</strong>

@@ -1079,10 +1079,10 @@ IV. Yaygın kullanıma sahip olması<br />
 1. .................... bir fikrin, d&uuml;ş&uuml;ncenin veya ideolojinin ikna odaklı olarak kitle iletişim ara&ccedil;larından yararlanılarak kitlelere aktarılması ve benimsetilmesini ama&ccedil;layan kaynaktan alıcıya tek y&ouml;nl&uuml; bir iletişim t&uuml;r&uuml;d&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
-    - A-) Reklam<br />
-    - **Cevap B-) Propaganda<br />**
-    - C-) Slogan<br />
-    - D-) &Ouml;zdeyiş<br />
+    - A-) Reklam
+    - **Cevap B-) Propaganda**
+    - C-) Slogan
+    - D-) &Ouml;zdeyiş
     - E-) Jingle<br />
     <hr />
 1. <strong>Bir reklamda markayla ilgili temel &ouml;zelliği ifade eden kısa ve &ccedil;arpıcı s&ouml;z aşağıdakilerden hangisidir?</strong> 
@@ -1540,7 +1540,7 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     <hr />
 1. <strong>Aşağıdakilerden hangisi kullanılabilirliği değerlendirme tekniklerinden biri <u>değildir</u>?</strong> 
     - A-) Kart sıralama
-    - B-) Odak grup toplantıları<br />
+    - B-) Odak grup toplantıları
     - **Cevap C-) Benzetim**
     - D-) Bireysel g&ouml;r&uuml;şmeler
     - E-) Prototip oluşturma

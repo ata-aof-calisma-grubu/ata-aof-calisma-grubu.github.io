@@ -14,7 +14,7 @@
     - D-) Tarım Toplumu-Bilgi Toplumu-Sanayi Toplumu
     - E-) Sanayi Toplumu-Bilgi Toplumu-Tarım Toplumu
     <hr />
-1. <strong>A</strong><span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><strong>şa</strong>ğıdakilerden hangisi </span><b>dijital iletişim ara&ccedil;larından biridir?</b>
+1. <strong>A</strong><span><strong>şa</strong>ğıdakilerden hangisi </span><b>dijital iletişim ara&ccedil;larından biridir?</b>
     - A-) Kitap
     - B-) Radyo
     - **Cevap C-) Web Siteleri**
@@ -28,14 +28,14 @@
     - D-) Devletten &ccedil;alışanlara yapılan işlemler
     - **Cevap E-) Devletten iş d&uuml;nyasına yapılan işlemler**
     <hr />
-1. A<span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">şağıdakilerden hangisi </span><b>Daniel Bell&rsquo;in insanlık tarihine y&ouml;nelik yapmış olduğu sınıflamalardan biri olan Sanayi D&ouml;nemi&rsquo;nin &ouml;zelliklerinden biri&nbsp; <u>değildir</u>?</b>
+1. A<span>şağıdakilerden hangisi </span><b>Daniel Bell&rsquo;in insanlık tarihine y&ouml;nelik yapmış olduğu sınıflamalardan biri olan Sanayi D&ouml;nemi&rsquo;nin &ouml;zelliklerinden biri&nbsp; <u>değildir</u>?</b>
     - A-) Batı Avrupa, Sovyetler Birliği ve Japonya&rsquo;da h&acirc;kim olmuştur.
     - B-) Makinaya dayalı &uuml;retim anlayışı benimsenmiştir.
     - C-) Deneye ve bilimsel bilgiye dayalı &uuml;retim vardır.
     - **Cevap D-) &Uuml;retim anlayışının temeli topraktır.**
     - E-) Yatırım kararlarında devlet ve &ouml;zel sekt&ouml;r belirleyicidir.
     <hr />
-1. A<span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">şağıdakilerden hangisi </span><b>McLuhan&rsquo;ın insanlık tarihine ilişkin yapmış olduğu sınıflamaya&nbsp; ait <u>değildir</u>?</b>
+1. A<span>şağıdakilerden hangisi </span><b>McLuhan&rsquo;ın insanlık tarihine ilişkin yapmış olduğu sınıflamaya&nbsp; ait <u>değildir</u>?</b>
     - A-) Kabilecilik &ccedil;ağı
     - **Cevap B-) Televizyon &ccedil;ağı**
     - C-) Elektronik &ccedil;ağ
@@ -84,7 +84,7 @@
     - D-) Sosyal medya
     - E-) Bloglar
     <hr />
-1. <b>A<span style="text-align: left; color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; text-decoration: none; word-spacing: 0px; display: inline !important; white-space: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">şağıdakilerden hangisi d</span>ijital eğitimin yararlarından biri <u>değildir</u>?</b>
+1. <b>A<span>şağıdakilerden hangisi d</span>ijital eğitimin yararlarından biri <u>değildir</u>?</b>
     - A-) &Ouml;ğretmenle &ouml;ğrencinin aynı sınıfta bulunmak zorunda olmaması
     - B-) Eğitimin sisteme y&uuml;klenen videolar &uuml;zerinden ger&ccedil;ekleşmesi
     - C-) Maliyet tasarrufu sağlanması
@@ -201,7 +201,7 @@ IV. Dijital Toplum<br />
     - D-) Snapchat
     - E-) Youtube
     <hr />
-1. <strong>A</strong><span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">şağıdakilerden hangisi s</span><b>osyal medya ortamlarında kişinin kimliği ile ilgili sanal mek&acirc;nlardan biri&nbsp;<u>değildir</u>?</b>
+1. <strong>A</strong><span>şağıdakilerden hangisi s</span><b>osyal medya ortamlarında kişinin kimliği ile ilgili sanal mek&acirc;nlardan biri&nbsp;<u>değildir</u>?</b>
     - **Cevap A-) E-devlet**
     - B-) Twitter
     - C-) Instagram
@@ -395,7 +395,7 @@ III. Dijital mek&acirc;nlar<br />
     - **Cevap D-) Sınırlı i&ccedil;erik**
     - E-) Y&ouml;ndeşme
     <hr />
-1. <strong>A</strong><span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">şağıdakilerden hangisini y</span><b>&ouml;ndeşme kavramını&nbsp; ifade etmektedir?</b>
+1. <strong>A</strong><span>şağıdakilerden hangisini y</span><b>&ouml;ndeşme kavramını&nbsp; ifade etmektedir?</b>
     - **Cevap A-) Yeni iletişim teknolojilerinin geleneksel medyanın &ouml;zelliklerini barındırması**
     - B-) İnternet teknolojilerinin kullanıcıları y&ouml;nlendirmesi
     - C-) Geleneksel medyanın yeni medyaya y&ouml;nelmesi
@@ -613,7 +613,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - **Cevap D-) İnternet**
     - E-) Televizyon
     <hr />
-1. <b>Aşağıdakilerden hangisi i</b><span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">nternetin ilk ortaya &ccedil;ıkış ama&ccedil;larından biridir</span><b>?</b>
+1. <b>Aşağıdakilerden hangisi i</b><span>nternetin ilk ortaya &ccedil;ıkış ama&ccedil;larından biridir</span><b>?</b>
     - A-) Ticaret
     - **Cevap B-) Savunma**
     - C-) Eğitim
@@ -627,7 +627,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) Sahiplik esasına dayanır.
     - **Cevap E-) İki y&ouml;nl&uuml; paylaşıma imk&acirc;n sunar.**
     <hr />
-1. A<span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: Arial,Verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">şağıdakilerden hangisi s</span><b>osyal medyanın ilk &ouml;rneği olarak&nbsp; kabul edilmektedir?</b>
+1. A<span>şağıdakilerden hangisi s</span><b>osyal medyanın ilk &ouml;rneği olarak&nbsp; kabul edilmektedir?</b>
     - **Cevap A-) SixDegrees.com**
     - B-) LinkedIn
     - C-) Facebook
@@ -1403,7 +1403,7 @@ III. K&uuml;reselleşme<br />
     - D-) Lidyalılar
     - E-) Frigyalılar
     <hr />
-1. <strong>1994 yılında hizmete girmesiyle ilk e-ticaret sitelerinin başında gelen ve g&uuml;n&uuml;m&uuml;z&uuml;n h</strong><span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span><strong>len en pop&uuml;ler e-ticaret sitelerinden biri olan e-ticaret sitesi aşağıdakilerden hangisidir?</strong>
+1. <strong>1994 yılında hizmete girmesiyle ilk e-ticaret sitelerinin başında gelen ve g&uuml;n&uuml;m&uuml;z&uuml;n h</strong><span>&acirc;</span><strong>len en pop&uuml;ler e-ticaret sitelerinden biri olan e-ticaret sitesi aşağıdakilerden hangisidir?</strong>
     - A-) Alibaba
     - B-) E-bay
     - C-) Aliexpress

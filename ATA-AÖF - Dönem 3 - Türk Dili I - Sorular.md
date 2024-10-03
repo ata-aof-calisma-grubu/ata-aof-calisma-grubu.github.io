@@ -452,9 +452,7 @@ III. T&uuml;rk&ccedil;e, diğer T&uuml;rk dilleriyle birlikte Altay dil ailesini
     - D-) &nbsp;Bu d&ouml;neme ait yazılı belgeler incelendiğinde, yazı dili tarihinin, edeb&icirc; dil olarak &ccedil;ok eskilere kadar gittiği a&ccedil;ık&ccedil;a g&ouml;r&uuml;lmektedir.
     - **Cevap E-) &nbsp;Bu d&ouml;nemde T&uuml;rk toplulukları &Ouml;n Afrika ve Avrasya coğrafyasına yayılmaya başlamışlardır.**
     <hr />
-1. <strong>T&uuml;rk&ccedil;e aşağıdaki dillerden hangisiyle en &ccedil;ok benzerlik g&ouml;steren dildir?</strong><br />
-<br />
-
+1. <strong>T&uuml;rk&ccedil;e aşağıdaki dillerden hangisiyle en &ccedil;ok benzerlik g&ouml;steren dildir?</strong>
     - **Cevap A-) Moğolca**
     - B-) Habeş&ccedil;e
     - C-) Arap&ccedil;a
@@ -642,9 +640,7 @@ III. G&ouml;&ccedil;ler<br />
     - **Cevap D-) &nbsp;Wilhelm Thomsen**
     - E-) &nbsp;Andreas Tietze
     <hr />
-1. <strong>T&uuml;rk&ccedil;eyi Arap harfleriyle ilk defa yazanlar aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>T&uuml;rk&ccedil;eyi Arap harfleriyle ilk defa yazanlar aşağıdakilerden hangisidir?</strong>
     - A-) T&uuml;rkiye T&uuml;rkleri
     - B-) Memluk T&uuml;rkleri
     - C-) Safeviler
@@ -802,9 +798,7 @@ Soramadım.<br />
     - D-) Onu bu yıl yanımıza alalım, boş kalmasın.
     - **Cevap E-) İlacın yan etkileri hemen ortaya &ccedil;ıktı.**
     <hr />
-1. <strong>Aşağıdakilerin hangisinde &ldquo;zor durumda kalmak&rdquo; anlamında bir deyim kullanılmıştır?</strong><br />
-<br />
-
+1. <strong>Aşağıdakilerin hangisinde &ldquo;zor durumda kalmak&rdquo; anlamında bir deyim kullanılmıştır?</strong>
     - A-) Aldığı bu haberle etekleri zil &ccedil;alacaktır.
     - B-) O kadar y&uuml;r&uuml;d&uuml;k ki ayaklarımıza kara sular indi.
     - C-) Sorular o kadar zordu ki alnında boncuk boncuk terler birikmişti.
@@ -1308,9 +1302,7 @@ IV. Giderken <u>ansızın</u> d&ouml;n&uuml;p yaşlı g&ouml;zleriyle bize bakt�
     - D-) Akıllı d&uuml;şman, akılsız dosttan hayırlıdır.
     - E-) Kaynayan kazan kapak tutmaz.
     <hr />
-1. <strong>Aşağıda deyimlerle ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong><br />
-<br />
-
+1. <strong>Aşağıda deyimlerle ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Belli bir durum ve olayı anlatmada kullanılırlar.
     - B-) En az iki s&ouml;zc&uuml;kten oluşurlar.
     - C-) Deyimler &ccedil;ekim ekleri vasıtasıyla &ccedil;ekimlenebilir.
@@ -1331,18 +1323,14 @@ IV. Giderken <u>ansızın</u> d&ouml;n&uuml;p yaşlı g&ouml;zleriyle bize bakt�
     - **Cevap D-) Odanın kapısına yaslanarak derin bir oh &ccedil;ekti.**
     - E-) B&uuml;t&uuml;n kapılar tek tek y&uuml;z&uuml;ne kapandı.
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde ikileme c&uuml;mleye &quot;zorlukla&quot; anlamı katmıştır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde ikileme c&uuml;mleye &quot;zorlukla&quot; anlamı katmıştır?</strong>
     - A-) Gece g&uuml;nd&uuml;z demeden &ccedil;alışıyordu.
     - **Cevap B-) &Ccedil;amurlara bata &ccedil;ıka y&uuml;r&uuml;yor.**
     - C-) Yaptığı yanlışı er ge&ccedil; anlayacak
     - D-) Bu işte onun da az &ccedil;ok payı var.
     - E-) Seninle koşa koşa gitmiştik.
     <hr />
-1. <strong>Aşağıdaki ikilemelerden hangisi diğerlerinden farklıdır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki ikilemelerden hangisi diğerlerinden farklıdır?</strong>
     - A-) Fabrikada işler ağır aksak y&uuml;r&uuml;yor.
     - B-) Aldığımız kumaş delik deşikti.
     - **Cevap C-) Olanlardan az &ccedil;ok haberim var.**
@@ -1382,18 +1370,14 @@ IV. Ağzında bakla ıslanmamak<br />
     - **Cevap D-) Akıllı bir kişinin yapacağı iş olmamak**
     - E-) Kolayca şeytana uymak
     <hr />
-1. <strong>Aşağıdaki atas&ouml;zlerinden hangisinde deyim <u>kullanılmamıştır</u>?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisinde deyim <u>kullanılmamıştır</u>?</strong>
     - A-) Isıracak it dişini g&ouml;stermez.
     - B-) Ne ekersen onu bi&ccedil;ersin.
     - C-) G&ouml;zden ırak olan g&ouml;n&uuml;lden de ırak olur.
     - D-) Etek &ouml;pmekle ağız aşınmaz.
     - **Cevap E-) At &ouml;l&uuml;r meydan kalır, yiğit &ouml;l&uuml;r şan kalır.**
     <hr />
-1. <strong>Aşağıdaki atas&ouml;zlerinden hangisi aynı veya yakın anlamlıdır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki atas&ouml;zlerinden hangisi aynı veya yakın anlamlıdır?</strong>
     - A-) Dost ile ye i&ccedil;; alışveriş yapma/Bug&uuml;n&uuml;n işini yarına bırakma.
     - B-) Fazla mal g&ouml;z &ccedil;ıkarmaz./Azıcık aşım, kaygısız başım.
     - C-) İyilik eden iyilik bulur./İyilikten maraz doğar.
@@ -1421,9 +1405,7 @@ IV. Ağzında bakla ıslanmamak<br />
     - D-) Bata &ccedil;ıka
     - E-) B&uuml;y&uuml;k k&uuml;&ccedil;&uuml;k
     <hr />
-1. <strong>&ldquo;Dolu k&uuml;p&uuml;n sesi &ccedil;ıkmaz&rdquo; atas&ouml;z&uuml;nde anlatılmak istenen aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>&ldquo;Dolu k&uuml;p&uuml;n sesi &ccedil;ıkmaz&rdquo; atas&ouml;z&uuml;nde anlatılmak istenen aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Bilen kişi her yerde konuşmaz.**
     - B-) Karnı tok olan konuşmaz.
     - C-) İ&ccedil;i doldurulan nesne &ccedil;ıkarmaz.
@@ -1503,9 +1485,7 @@ IV. Ağzında bakla ıslanmamak<br />
     - E-) Akşamki ma&ccedil;a Ali de katılacak.
     <hr />
 1. Konuşma esnasında s&ouml;zc&uuml;kler ve s&ouml;zc&uuml;kleri oluşturan seslerin ifadesi hep aynı d&uuml;zeyde olmaktan ziyade duruma, ifadeye duyguya g&ouml;re al&ccedil;alıp y&uuml;kselir. Buna &hellip;&hellip;&hellip;... denir.<br />
-<strong>Bu par&ccedil;ada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-<br />
-
+<strong>Bu par&ccedil;ada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) vurgu
     - B-) &uuml;ns&uuml;z benzeşmesi
     - C-) ulama
@@ -1519,9 +1499,7 @@ IV. Ağzında bakla ıslanmamak<br />
     - D-) <u>Azar azar</u> &ccedil;ayını yudumladı.
     - E-) <u>Evin kapısını</u> a&ccedil;ık unutmuştu.
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu y&uuml;klem &uuml;zerindedir?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde vurgu y&uuml;klem &uuml;zerindedir?</strong>
     - A-) Evler bir s&uuml;re sonra eskimeye başladı.
     - B-) Okuldan &ccedil;ıkınca apar topar eve vardı.
     - **Cevap C-) G&ouml;rmektir insana verilen en &ouml;nemli organ.**
@@ -1557,28 +1535,21 @@ IV. Ağzında bakla ıslanmamak<br />
     - D-) Kurtuluş
     - E-) Heyecanlı
     <hr />
-1. <strong>Aşağıdaki kelimelerden hangisi vurgu y&ouml;n&uuml;nden diğerlerinden farklıdır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki kelimelerden hangisi vurgu y&ouml;n&uuml;nden diğerlerinden farklıdır?</strong>
     - **Cevap A-) Fransızca**
     - B-) Teyze
     - C-) Erzurum
     - D-) H&acirc;ri&ccedil;
     - E-) Masalar
     <hr />
-1. <strong>&nbsp;Aşağıdaki c&uuml;mlelerin hangisinde vurgu, zaman &uuml;zerindedir?</strong><br />
-<br />
-
+1. <strong>&nbsp;Aşağıdaki c&uuml;mlelerin hangisinde vurgu, zaman &uuml;zerindedir?</strong>
     - A-) Ahmet, yarın akşam u&ccedil;akla Ankara&rsquo;ya gidecek.
     - B-) Yarın akşam u&ccedil;akla Ankara&rsquo;ya Ahmet gidecek.
     - **Cevap C-) Ahmet, Ankara&rsquo;ya u&ccedil;akla yarın akşam gidecek.**
     - D-) Ahmet, yarın Ankara&rsquo;ya akşam u&ccedil;akla gidecek.
     - E-) U&ccedil;akla Ankara&rsquo;ya yarın akşam Ahmet gidecek.
     <hr />
-1. <strong>&quot;Ovada sıralanan arsaların i&ccedil;inde koca koca binalar hızla y&uuml;kseliyordu.&quot; c&uuml;mlesinde hangi s&ouml;zc&uuml;kte c&uuml;mle vurgusu vardır?</strong><br />
-<br />
-<br />
-
+1. <strong>&quot;Ovada sıralanan arsaların i&ccedil;inde koca koca binalar hızla y&uuml;kseliyordu.&quot; c&uuml;mlesinde hangi s&ouml;zc&uuml;kte c&uuml;mle vurgusu vardır?</strong>
     - **Cevap A-) Hızla**
     - B-) Koca koca
     - C-) Binalar
@@ -1652,9 +1623,7 @@ IV. Ağzında bakla ıslanmamak<br />
     - E-) Nesne &ndash; Zarf T&uuml;mleci &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Y&uuml;klem
     <hr />
 1. Dostları onu k&ouml;t&uuml; g&uuml;n&uuml;nde yalnız bırakmadılar.<br />
-<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br />
-<br />
-
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong>
     - A-) &Ouml;zne - Dolaylı T&uuml;mle&ccedil; - Y&uuml;klem
     - B-) &Ouml;zne - Nesne - Zarf T&uuml;mleci - Zarf T&uuml;mleci - Y&uuml;klem
     - **Cevap C-) &Ouml;zne - Nesne - Zarf T&uuml;mleci - Y&uuml;klem**
@@ -1662,18 +1631,14 @@ IV. Ağzında bakla ıslanmamak<br />
     - E-) &Ouml;zne - Dolaylı T&uuml;mle&ccedil; - Zarf T&uuml;mleci - Y&uuml;klem
     <hr />
 1. En zor anlarımda bile yanımda olan dostlarımın beni bug&uuml;n&uuml;mde yalnız&nbsp; bırakmayacaklarını sanmıştım.<br />
-<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong><br />
-<br />
-
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru verilmiştir?</strong>
     - A-) Zarf T&uuml;mleci &ndash; Dolaylı T&uuml;mle&ccedil; &ndash; Nesne &ndash; Y&uuml;klem
     - B-) &Ouml;zne &ndash; Nesne &ndash; Y&uuml;klem
     - C-) &Ouml;zne &ndash; Nesne &ndash; Zarf T&uuml;mleci &ndash; Y&uuml;klem
     - D-) &Ouml;zne &ndash; Y&uuml;klem
     - **Cevap E-) Nesne &ndash; Y&uuml;klem**
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerde kullanılan ara s&ouml;zlerden hangisi farklı bir &ouml;genin&nbsp; a&ccedil;ıklayıcısıdır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerde kullanılan ara s&ouml;zlerden hangisi farklı bir &ouml;genin&nbsp; a&ccedil;ıklayıcısıdır?</strong>
     - A-) Melis, canımın i&ccedil;i, bug&uuml;n doğmuştu.
     - B-) Oğlum, minik yaramaz, konuşmaya başladı.
     - **Cevap C-) Okulumda, ikinci evimde, &ccedil;ok mutluyum.**
@@ -1699,9 +1664,7 @@ IV. Ağzında bakla ıslanmamak<br />
     <hr />
 1. Korkma, s&ouml;nmez <u>bu şafaklarda y&uuml;zen al sancak</u>;<br />
 S&ouml;nmeden yurdumun &uuml;st&uuml;nde t&uuml;ten, en son ocak.<br />
-<strong>Altı &ccedil;izili &ouml;ge aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+<strong>Altı &ccedil;izili &ouml;ge aşağıdakilerden hangisidir?</strong>
     - A-) Y&uuml;klem
     - **Cevap B-) &Ouml;zne**
     - C-) Nesne
@@ -1715,9 +1678,7 @@ S&ouml;nmeden yurdumun &uuml;st&uuml;nde t&uuml;ten, en son ocak.<br />
     - D-) Yer tamlayıcısı
     - E-) Zarf t&uuml;mleci
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ouml;geleri ayırmada yanlışlık yapılmıştır?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde &ouml;geleri ayırmada yanlışlık yapılmıştır?</strong>
     - A-) Buraya kadar geldiğiniz i&ccedil;in / teşekk&uuml;r ederim.
     - B-) Sorulara ş&ouml;yle bir g&ouml;z atıp / kitabı / kapattı.
     - C-) Biraz daha rahat yaşamak i&ccedil;in / &ccedil;abalıyordu
@@ -1740,19 +1701,14 @@ S&ouml;nmeden yurdumun &uuml;st&uuml;nde t&uuml;ten, en son ocak.<br />
     - E-) G&ouml;mleğinin rengi ceketine hi&ccedil; uymamış.
     <hr />
 1. Savuruyordu d&ouml;rt yana umutlarımızı bir &ouml;m&uuml;rden arta kalmanın h&uuml;zn&uuml;.<br />
-<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru sırayla verilmiştir?</strong><br />
-<br />
-
+<strong>Yukarıdaki c&uuml;mlenin &ouml;gelerinin sıralanışı hangisinde doğru sırayla verilmiştir?</strong>
     - A-) Y&uuml;klem &ndash; zarf t&uuml;mleci &ndash; nesne &ndash; &ouml;zne
     - B-) Y&uuml;klem &ndash; dolaylı t&uuml;mle&ccedil; &ndash; zarf t&uuml;mleci &ndash; &ouml;zne
     - **Cevap C-) Y&uuml;klem &ndash; dolaylı t&uuml;mle&ccedil; &ndash; nesne &ndash; &ouml;zne**
     - D-) Y&uuml;klem &ndash; nesne &ndash; dolaylı t&uuml;mle&ccedil; &ndash; &ouml;zne
     - E-) Y&uuml;klem &ndash; nesne &ndash; zarf t&uuml;mleci &ndash; &ouml;zne
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde zarf t&uuml;mleci vurgulanmıştır?</strong><br />
-<br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde zarf t&uuml;mleci vurgulanmıştır?</strong>
     - **Cevap A-) Annemi okuldan &ccedil;ıkınca ararım.**
     - B-) Arkadaşına kalem hediye etti.
     - C-) D&uuml;n beni &Ouml;zge aramış.
@@ -1828,18 +1784,14 @@ IV. Zamir<br />
     - **Cevap D-) I ve IV**
     - E-) I, II ve III
     <hr />
-1. <strong>&ldquo;Uzanıp sıcacık kuma saatlerce hayal kurmak isterdi&rdquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong><br />
-<br />
-
+1. <strong>&ldquo;Uzanıp sıcacık kuma saatlerce hayal kurmak isterdi&rdquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong>
     - A-) Devrik
     - B-) Birleşik
     - C-) Basit
     - **Cevap D-) Kurallı**
     - E-) Bağlı
     <hr />
-1. <strong>Eksiltili (Kesik) c&uuml;mle ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
-<br />
-
+1. <strong>Eksiltili (Kesik) c&uuml;mle ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Y&uuml;klemi kullanılmadığı h&acirc;lde yargı bildiren c&uuml;mlelerdir.
     - B-) Eksiltili c&uuml;mleler iyi kurulmak ve yerinde kullanılmak şartıyla anlatıma g&uuml;&ccedil; kazandırır, &ouml;zl&uuml;l&uuml;k sağlar.
     - C-) Karşılıklı konuşmalarda da eksiltili yapılar sıklıkla kullanılır.
@@ -1847,37 +1799,28 @@ IV. Zamir<br />
     - **Cevap E-) Eksiltili c&uuml;mlede her zaman bir gizli &ouml;zne bulunur.**
     <hr />
 1. T&uuml;rk&ccedil;ede c&uuml;mleler y&uuml;klemin t&uuml;r&uuml;ne g&ouml;re isim ve fiil c&uuml;mlesi olarak iki gruba ayrılmaktadır. Fiil c&uuml;mleleri olumsuzluk ekleri (-ma, -me) ile olumsuz şekle d&ouml;n&uuml;şt&uuml;r&uuml;l&uuml;rken; isim c&uuml;mleleri &ldquo;değil&rdquo; kelimesi ile olumsuz h&acirc;le getirilmektedir.<br />
-<strong>Aşağıdaki c&uuml;mlelerden hangisi bu kurala &ouml;rnek teşkil <u>etmez</u>?</strong><br />
-<br />
-
+<strong>Aşağıdaki c&uuml;mlelerden hangisi bu kurala &ouml;rnek teşkil <u>etmez</u>?</strong>
     - A-) D&uuml;n akşam da ge&ccedil; saate kadar gelmedi.
     - B-) Senin adın Mahmut değil.
     - C-) İstemem eksik olsun.
     - **Cevap D-) Kolları bileklerine kadar &ccedil;amura saplanmıştı.**
     - E-) Sana tavsiyem gece ge&ccedil; saatte yemek yeme.
     <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;klemine g&ouml;re c&uuml;mle &ccedil;eşitlerinden biri <u>değildir</u>?</strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi y&uuml;klemine g&ouml;re c&uuml;mle &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Zarf**
     - B-) Kurallı
     - C-) Devrik
     - D-) Kesik
     - E-) İsim
     <hr />
-1. <strong>&ldquo;G&ouml;zleri aşka g&uuml;len taze s&ouml;ğ&uuml;t dalısın.&rdquo; c&uuml;mlesinin y&uuml;klemi, &ccedil;eşidine g&ouml;re aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>&ldquo;G&ouml;zleri aşka g&uuml;len taze s&ouml;ğ&uuml;t dalısın.&rdquo; c&uuml;mlesinin y&uuml;klemi, &ccedil;eşidine g&ouml;re aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Ad**
     - B-) Eylem
     - C-) Zarf
     - D-) Zamir
     - E-) Sıfat
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisi devrik isim c&uuml;mlesidir?</strong><br />
-<br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisi devrik isim c&uuml;mlesidir?</strong>
     - A-) Kardeşi &ccedil;ok tatlı bir &ccedil;ocuktu.
     - B-) Herkesi yemeğe davet etmişti.
     - **Cevap C-) Her şeyiyle bir mucizeydi hayat.**
@@ -1907,9 +1850,7 @@ IV. Zamir<br />
     - D-) İnsanı ayakta tutan tek şey mutluluktur.
     - E-) Şiir d&uuml;ş&uuml;ncenin duyguya d&ouml;n&uuml;şm&uuml;ş şeklidir.
     <hr />
-1. <strong>&lsquo;&rsquo;Su &ouml;ylesine neşeli akıyordu ki insanın ruhu &acirc;deta su y&uuml;zeyindeki k&ouml;p&uuml;kle dans ediyordu.&rsquo;&rsquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong><br />
-<br />
-
+1. <strong>&lsquo;&rsquo;Su &ouml;ylesine neşeli akıyordu ki insanın ruhu &acirc;deta su y&uuml;zeyindeki k&ouml;p&uuml;kle dans ediyordu.&rsquo;&rsquo; c&uuml;mlesi y&uuml;kleminin yerine g&ouml;re nasıl bir c&uuml;mledir?</strong>
     - A-) Birleşik
     - B-) Basit
     - **Cevap C-) Kurallı**
@@ -2010,18 +1951,14 @@ IV. Zamir<br />
     - D-) Kimi aramayı d&uuml;ş&uuml;n&uuml;yorsunuz?
     - **Cevap E-) Hangimiz sohbet etmeyi sevmeyiz?**
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yan c&uuml;mlecik temel c&uuml;mlenin nesnesidir?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yan c&uuml;mlecik temel c&uuml;mlenin nesnesidir?</strong>
     - A-) Dizeler, ruhumuza seslenen notalar zinciridir.
     - B-) Kanunun h&uuml;z&uuml;n veren sesi kulaklarımda &ccedil;ınladı.
     - C-) Yurdundan uzaklara d&uuml;şm&uuml;ş minik kuş gibiydi.
     - **Cevap D-) Duygularımı canlandıran bir ses duyuyorum.**
     - E-) Bizi g&ouml;ren &ccedil;ocuklar, minik kollarıyla boynumuza atıldılar.
     <hr />
-1. <strong>Aşağıdakilerden hangisi, &ouml;znesi ortak bir sıralı c&uuml;mledir?</strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi, &ouml;znesi ortak bir sıralı c&uuml;mledir?</strong>
     - A-) Radyo &ccedil;alışıyor; oturanlar onu ilgiyle dinliyorlardı.
     - B-) Evden sessizce &ccedil;ıktık; sokakta lambalar yanmıyordu.
     - **Cevap C-) Konuşa konuşa geldiler; evin &ouml;n&uuml;nde durdular.**
@@ -2071,18 +2008,14 @@ IV. Zamir<br />
     - E-) Gece boyu uyanık kalır hi&ccedil; uyumazdı.
     <hr />
 1. &lsquo;&rsquo;Şart c&uuml;mlesi temel c&uuml;mleyi genellikle şart, zaman, sebep, benzetme gibi anlamlarla tamamlar ve temel c&uuml;mlenin zarfı olur.&rsquo;&rsquo;<br />
-<strong>Aşağıdaki c&uuml;mlelerden hangisi verilen bilgiye uygun bir &ouml;rnek <u>değildir</u>?</strong><br />
-<br />
-
+<strong>Aşağıdaki c&uuml;mlelerden hangisi verilen bilgiye uygun bir &ouml;rnek <u>değildir</u>?</strong>
     - A-) Mutluluk d&uuml;nyaya yayılırsa sorunlar &ccedil;&ouml;z&uuml;l&uuml;r.
     - B-) Atlar eğerlenirse geziye &ccedil;ıkarız.
     - C-) Sular durulursa enkazın boyutunu g&ouml;r&uuml;rler.
     - D-) Bana karşı kin kusmaya devam ederse &ouml;l&uuml;r.
     - **Cevap E-) D&uuml;n neden derse ge&ccedil; kaldın?**
     <hr />
-1. <strong>&lsquo;&rsquo;G&ouml;zleri maviydi, elleri bembeyaz ve sa&ccedil;ları alabildiğine kumral&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br />
-<br />
-
+1. <strong>&lsquo;&rsquo;G&ouml;zleri maviydi, elleri bembeyaz ve sa&ccedil;ları alabildiğine kumral&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Olumlu/Sıralı/Kurallı/İsim
     - **Cevap B-) Olumlu/Bağlı/Kurallı/İsim**
     - C-) Olumsuz/Sıralı/Kurallı/İsim
@@ -2178,9 +2111,7 @@ IV. Zamir<br />
     - D-) Havalar yavaş yavaş soğudu.
     - E-) Atlar insanların en iyi dostlarındandır.
     <hr />
-1. <strong>&lsquo;&rsquo;&Ccedil;ocuklar inanın, İnanın &ccedil;ocuklar.&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdaki se&ccedil;eneklerden hangisinde doğru olarak verilmiştir?</strong><br />
-<br />
-
+1. <strong>&lsquo;&rsquo;&Ccedil;ocuklar inanın, İnanın &ccedil;ocuklar.&rsquo;&rsquo; c&uuml;mlesinin &ouml;zellikleri aşağıdaki se&ccedil;eneklerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Basit/İsim/Olumsuz/Devrik
     - B-) Birleşik/Eylem/Olumlu/Devrik
     - C-) Sıralı/İsim/Olumsuz/Kurallı
@@ -2188,9 +2119,7 @@ IV. Zamir<br />
     - E-) Bağlı/Eylem/Olumlu/Devrik
     <hr />
 1. T&uuml;rk&ccedil;e, d&uuml;nya dilleri arasında en sağlam matematiksel yapıya sahip dillerden biridir. C&uuml;mlede &ouml;nce &ouml;zne sonra nesne en son y&uuml;klem gelir.<br />
-<strong>Paragrafta verilen bilgilerden hareketle aşağıdaki c&uuml;mlelerden hangisi &ouml;zne-nesne-y&uuml;klem şeklinde <u>sıralanmamıştır</u>?</strong><br />
-<br />
-
+<strong>Paragrafta verilen bilgilerden hareketle aşağıdaki c&uuml;mlelerden hangisi &ouml;zne-nesne-y&uuml;klem şeklinde <u>sıralanmamıştır</u>?</strong>
     - A-) Zayıflıklar insanı sıradanlaştırır.
     - **Cevap B-) Vedalaştık bir ikindi &ouml;ncesi.**
     - C-) Sen de onu getir.

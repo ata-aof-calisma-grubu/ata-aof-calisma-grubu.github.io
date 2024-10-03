@@ -907,9 +907,7 @@
     - E-) Ivan Illich
     <hr />
 1. <strong>Nathalie Heinich R&ouml;nesans&rsquo;la XIX. y&uuml;zyıl ortasında birbirini izleyen bazen &ouml;rt&uuml;şen &uuml;&ccedil; eylem tipi tasarlayarak sanat&ccedil;ının stat&uuml;s&uuml;n&uuml;n ge&ccedil;irdiği değişimleri sıralar.<br />
-Buna g&ouml;re aşağıdakilerden hangisi R&ouml;nesans&rsquo;a kadar baskın olan d&uuml;zendir?</strong><br />
-<br />
-
+Buna g&ouml;re aşağıdakilerden hangisi R&ouml;nesans&rsquo;a kadar baskın olan d&uuml;zendir?</strong>
     - A-) Akademik d&ouml;nem
     - B-) İlkel d&ouml;nem
     - C-) Sanatsal yetenek d&ouml;nemi
@@ -1130,10 +1128,10 @@ Buna g&ouml;re aşağıdakilerden hangisi krallıktan empresyonist d&ouml;neme k
     - E-) Kant
     <hr />
 1. <strong>Rastlantıdan doğduğunu ileri s&uuml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Nunez<br />**
-    - B-) Kant<br />
-    - C-) Darwin<br />
-    - D-) Roger Bastide<br />
+    - **Cevap A-) Nunez**
+    - B-) Kant
+    - C-) Darwin
+    - D-) Roger Bastide
     - E-) Hirm
     <hr />
 1. <strong>Beynin sağ yarım k&uuml;resinin gelişiminin sağlanması hangi eğitim alanının dersleriyle m&uuml;mk&uuml;nd&uuml;r?</strong>
@@ -1360,9 +1358,7 @@ IV. Herakles<br />
     - D-) Bilgisayar işlemcili dijital sanat
     - E-) Bilgisayar t&uuml;ketimli dijital sanat
     <hr />
-1. <strong>Dijital sanat&ccedil;ıların g&ouml;rsel işlerinde sık&ccedil;a kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?</strong><br />
-<br />
-
+1. <strong>Dijital sanat&ccedil;ıların g&ouml;rsel işlerinde sık&ccedil;a kullandıkları Illustrator ve Photoshop programlarının sahibi olan firma hangisidir?</strong>
     - A-) Xerox
     - B-) Amiga
     - C-) Commadore
@@ -1584,9 +1580,7 @@ IV. Herakles<br />
     - D-) Alt
     - E-) Karşıt
     <hr />
-1. <strong>&Uuml;retim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>&Uuml;retim toplumunun ahlaki nitelik arz eden kavramı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Ccedil;alışma etiği**
     - B-) T&uuml;ketim ahlakı
     - C-) Kadim değerler
@@ -1717,9 +1711,7 @@ IV. Onlar Grubu<br />
     - D-) Karacaahmet Şakirin Cami
     - E-) Bebek Cami
     <hr />
-1. <strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanat&ccedil;ılarından biri <u>değildir</u>?</strong><br />
-<br />
-
+1. <strong>Aşağıdaki ressamlardan hangisi Yeniler Grubu sanat&ccedil;ılarından biri <u>değildir</u>?</strong>
     - A-) Nuri İyem
     - B-) Avni Arbaş
     - C-) Abidin Dino

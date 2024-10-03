@@ -156,8 +156,7 @@
     - E-) Kolektif ya da bireyci toplumsal yapı sorgulaması
     <hr />
 1. <strong>&ldquo;Benzerleri arasında &uuml;r&uuml;n ya da hizmetlerin ayırıcı &ouml;zelliklerini &ouml;ne &ccedil;ıkararak markanın bilinirliğini ve tercih edilirliğini arttırmak, t&uuml;keticilerin &uuml;r&uuml;n veya markayla ilgili tutum/tercihlerini değiştirmek, t&uuml;keticileri tanıtımı yapılan &uuml;r&uuml;n ya da hizmeti denemeye y&ouml;nlendirmek&rdquo;<br />
-Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong><br />
-&nbsp;
+Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - A-) Bilgilendirme Fonksiyonu
     - B-) Hatırlatma Fonksiyonu
     - **Cevap C-) İkna Etme Fonksiyonu**
@@ -773,48 +772,42 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Orijinallik (originality)
     - E-) Akıcılık (fluency)
     <hr />
-1. <strong>Aşağıdakilerden hangisi afişlerin en &ouml;nemli &ouml;zelliğidir?</strong><br />
-&nbsp;
+1. <strong>Aşağıdakilerden hangisi afişlerin en &ouml;nemli &ouml;zelliğidir?</strong>
     - A-) Bi&ccedil;imsel olmasıdır.
     - B-) Slogan olması
     - C-) Hangi teknikle yapıldığı
     - **Cevap D-) Fark edilir olması**
     - E-) Ekonomik olması
     <hr />
-1. <strong>&Ccedil;ağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?</strong><br />
-&nbsp;
+1. <strong>&Ccedil;ağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?</strong>
     - A-) Leonardo Da Vinci
     - **Cevap B-) Jules Ch&eacute;ret**
     - C-) John Gutenberg
     - D-) Meng&uuml; Ertel
     - E-) Yurdaer Altıntaş
     <hr />
-1. <strong>Afiş tasarımı, &ccedil;eşitli sanat akımlarından etkilenmiştir. Aşağıdakilerden hangisi bu akımlardan <u>değildir</u>?</strong><br />
-&nbsp;
+1. <strong>Afiş tasarımı, &ccedil;eşitli sanat akımlarından etkilenmiştir. Aşağıdakilerden hangisi bu akımlardan <u>değildir</u>?</strong>
     - A-) Art Nouveau
     - B-) Jugend stil
     - C-) Arts and Craft
     - D-) Secessionstil
     - **Cevap E-) Realizm**
     <hr />
-1. <strong>Afişleri, t&uuml;rlerinin niteliklerine g&ouml;re ka&ccedil; b&ouml;l&uuml;me ayırabiliriz?</strong><br />
-&nbsp;
+1. <strong>Afişleri, t&uuml;rlerinin niteliklerine g&ouml;re ka&ccedil; b&ouml;l&uuml;me ayırabiliriz?</strong>
     - A-) 2
     - **Cevap B-) 3**
     - C-) 4
     - D-) 5
     - E-) 6
     <hr />
-1. <strong>Aşağıdakilerden hangisi genel olarak tasarımın g&ouml;rselleştirme s&uuml;recinde izlenilmesi gereken yollardan değildir?</strong><br />
-&nbsp;
+1. <strong>Aşağıdakilerden hangisi genel olarak tasarımın g&ouml;rselleştirme s&uuml;recinde izlenilmesi gereken yollardan değildir?</strong>
     - **Cevap A-) Bi&ccedil;im ve i&ccedil;erik**
     - B-) Bilgi toplama
     - C-) Uygulama
     - D-) Yaratıcılık ve &ccedil;&ouml;z&uuml;m
     - E-) Problem tanımı
     <hr />
-1. <strong>Bir tasarımın g&ouml;rselleştirilmesi ya da tasarım olarak d&uuml;zenlenip yaratılması i&ccedil;in ilk aşaması aşağıdakilerden hangisi olmalıdır?</strong><br />
-&nbsp;
+1. <strong>Bir tasarımın g&ouml;rselleştirilmesi ya da tasarım olarak d&uuml;zenlenip yaratılması i&ccedil;in ilk aşaması aşağıdakilerden hangisi olmalıdır?</strong>
     - A-) Uygulama
     - B-) Bilgi toplama
     - C-) Yaratıcılık ve &ccedil;&ouml;z&uuml;m

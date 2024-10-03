@@ -1346,12 +1346,10 @@ IV. K&uuml;lt&uuml;rel<br />
     - D-) G&ouml;steren
     - E-) G&ouml;sterge
     <hr />
-1. <div>
-	I. Algılama kodları<br />
+1. I. Algılama kodları<br />
 	​II. G&ouml;r&uuml;nt&uuml;sel kodlar<br />
 	​III. İkonbilimsel kodlar<br />
-	<strong>Umberto Eco&#39;ya g&ouml;re yukarıdakilerden hangisi ya da hangileri kod t&uuml;rleri arasında yer alır?</strong></div>
-
+	<strong>Umberto Eco&#39;ya g&ouml;re yukarıdakilerden hangisi ya da hangileri kod t&uuml;rleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II

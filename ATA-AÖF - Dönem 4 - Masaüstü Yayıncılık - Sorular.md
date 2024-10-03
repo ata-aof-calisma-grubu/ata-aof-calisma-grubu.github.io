@@ -138,7 +138,7 @@
     - E-) Masa&uuml;st&uuml; yayıncılıkta renk sayısının ne olacağı hususunda dok&uuml;man i&ccedil;erisinde resim kullanılmadıysa baskının daha kaliteli, renklerin ise daha parlak olması i&ccedil;in pantone renkleri kullanılır.
     <hr />
 1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılıkta kullanılan temel kavramlardan biri <u>değildir</u>?</strong>
-    - A-) Renk<br />
+    - A-) Renk
     - B-) Baskı
     - C-) Tipografi
     - D-) Y&uuml;zey
@@ -211,14 +211,14 @@ III. Tasarım y&uuml;zeyine ton ve ritm verir.<br />
     - E-) Sayfadaki boşlukların dengelenmesi
     <hr />
 1. <strong>&nbsp;Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılıkta kullanılan temel kavramlardan biridir?</strong>
-    - **Cevap A-) &nbsp;Pixel<br />**
+    - **Cevap A-) &nbsp;Pixel**
     - B-) Yazıcı
     - C-) Tarayıcı
     - D-) PDF Reader
     - E-) Animasyon Sistemleri
     <hr />
 1. &nbsp;<strong>Aşağıdakilerden hangisinde temel ama&ccedil;, mesajın alıcı tarafından doğru algılanmasını sağlamaktır?</strong> 
-    - A-) Video yazılım sistemi<br />
+    - A-) Video yazılım sistemi
     - **Cevap B-) Tipografi**
     - C-) Megapixel
     - D-) Ofset baskı
@@ -482,8 +482,7 @@ IV. Farklı renk kullanma<br />
     - **Cevap D-) Word**
     - E-) SmartArt grafikleri&nbsp;
     <hr />
-1. &nbsp; I.&nbsp;Metnin puntosunu&nbsp;b&uuml;y&uuml;tme<br />
-&nbsp;II. Altını &ccedil;izme<br />
+1. &nbsp; I.&nbsp;Metnin puntosunu&nbsp;b&uuml;y&uuml;tmeII. Altını &ccedil;izme<br />
 III. Kalın yazma<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong>
     - A-) Yalnız I
@@ -632,7 +631,7 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - E-) Hareket gerektiren becerileri &ouml;ğretmek i&ccedil;in statik g&ouml;rseller daha etkilidir.
     <hr />
 1. <strong>Genellikle ağa&ccedil;, şema veya d&uuml;ğ&uuml;m ve bağlantılardan oluşan bilgi haritaları şeklinde oluşturulan g&ouml;rsel t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) &nbsp;İlişkisel g&ouml;rseller<br />
+    - A-) &nbsp;İlişkisel g&ouml;rseller
     - **Cevap B-) &Ouml;rg&uuml;tleyici g&ouml;rseller**
     - C-) Nimonik g&ouml;rseller
     - D-) Temsili g&ouml;rseller

@@ -113,10 +113,10 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
     - E-) Benim telefonum seninki kadar iyi &ouml;zelliklere sahip değil.
     <hr />
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde kısaltmaların yazımıyla ilgili bir <u>yanlışlık</u> yapılmıştır?</strong>
-    - A-) Prof. Dr. Aziz Sancar 2015 yılında Nobel &Ouml;d&uuml;l&uuml; kazandı.<br />
-    - B-) MEB&rsquo;e &ouml;ğretmen olarak atanmak i&ccedil;in &ccedil;ok &ccedil;alıştı.<br />
-    - C-) Orkide vb. &ccedil;i&ccedil;eklerin bakımı zordur.<br />
-    - D-) Yabancı &ouml;ğrenciler T&Ouml;MER&rsquo;de eğitim almaya geldi.<br />
+    - A-) Prof. Dr. Aziz Sancar 2015 yılında Nobel &Ouml;d&uuml;l&uuml; kazandı.
+    - B-) MEB&rsquo;e &ouml;ğretmen olarak atanmak i&ccedil;in &ccedil;ok &ccedil;alıştı.
+    - C-) Orkide vb. &ccedil;i&ccedil;eklerin bakımı zordur.
+    - D-) Yabancı &ouml;ğrenciler T&Ouml;MER&rsquo;de eğitim almaya geldi.
     - **Cevap E-) T&Uuml;BİTAK&rsquo;da proje yazma eğitimleri başladı.**
     <hr />
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde sayıların yazımıyla ilgili bir <u>yanlışlık</u> vardır?</strong>
@@ -254,25 +254,25 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - E-) (:), (,), (,), (.)
     <hr />
 1. <strong>Tamamlanmış yargı bildiren c&uuml;mlelerin sonunda kullanılan noktalama işareti aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Nokta<br />**
-    - B-) Virg&uuml;l<br />
-    - C-) Noktalı virg&uuml;l<br />
-    - D-) Kısa &ccedil;izgi<br />
+    - **Cevap A-) Nokta**
+    - B-) Virg&uuml;l
+    - C-) Noktalı virg&uuml;l
+    - D-) Kısa &ccedil;izgi
     - E-) &Uuml;&ccedil; nokta
     <hr />
 1. Bir şairin en b&uuml;y&uuml;k keşfi ( ) kendi muharririni ( ) i&ccedil; &acirc;lemine doğru kendisini g&ouml;t&uuml;recek olanları bulmaktır ( )<br />
 <strong>Yukarıdaki metinde parantez ( ) ile belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?</strong>
-    - **Cevap A-) (,) (,) (.)<br />**
-    - B-) (.) (,) (.)<br />
-    - C-) (&hellip;) (,) (.)<br />
-    - D-) (,) (,) (!)<br />
+    - **Cevap A-) (,) (,) (.)**
+    - B-) (.) (,) (.)
+    - C-) (&hellip;) (,) (.)
+    - D-) (,) (,) (!)
     - E-) (;) (;) (!)
     <hr />
 1. <strong>&Uuml;nlem (!) işaretiyle ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) Olumlu yargı bildiren c&uuml;mlelerin sonunda kullanılır.<br />
-    - **Cevap B-) Heyecan bildiren ifadelerin ardından kullanılır.<br />**
-    - C-) Ara c&uuml;mleleri ayırmak i&ccedil;in kullanılır.<br />
-    - D-) Doğum tarihi bilinmeyen kişilerin isimlerinin yanında kullanılır.<br />
+    - A-) Olumlu yargı bildiren c&uuml;mlelerin sonunda kullanılır.
+    - **Cevap B-) Heyecan bildiren ifadelerin ardından kullanılır.**
+    - C-) Ara c&uuml;mleleri ayırmak i&ccedil;in kullanılır.
+    - D-) Doğum tarihi bilinmeyen kişilerin isimlerinin yanında kullanılır.
     - E-) Satıra sığmayan s&ouml;zc&uuml;kler b&ouml;l&uuml;n&uuml;rken satır sonuna konur.
     <hr />
 1. <strong>Noktanın kullanımıyla ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
@@ -386,10 +386,10 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     <hr />
 1. <strong>Aşağıdakilerin hangisinde &ccedil;elişkili s&ouml;zc&uuml;kler bir arada kullanılmıştır?</strong><br />
 
-    - **Cevap A-) Bu proje tam olarak bitti sayılır.<br />**
-    - B-) Mehmet&#39;i d&uuml;n işe giderken g&ouml;rd&uuml;m.<br />
-    - C-) Evrakınızı bize e-posta yoluyla ulaştırabilirsiniz.<br />
-    - D-) &Ccedil;arşamba g&uuml;n&uuml;ne randevunuz oluşturuldu.<br />
+    - **Cevap A-) Bu proje tam olarak bitti sayılır.**
+    - B-) Mehmet&#39;i d&uuml;n işe giderken g&ouml;rd&uuml;m.
+    - C-) Evrakınızı bize e-posta yoluyla ulaştırabilirsiniz.
+    - D-) &Ccedil;arşamba g&uuml;n&uuml;ne randevunuz oluşturuldu.
     - E-) Akşam yemeğinde arkadaşlarımla birlikteydim.
     <hr />
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde anlatım bozukluğu vardır?</strong>
@@ -551,10 +551,10 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     <hr />
 1. <strong>Canlı ya da cansız varlıkların belirgin &ouml;zelliklerini tasvir eden anlatım t&uuml;r&uuml;ne ne ad verilir?</strong><br />
 
-    - A-) A&ccedil;ıklayıcı anlatım<br />
-    - B-) &Ouml;yk&uuml;leyici anlatım<br />
-    - **Cevap C-) Betimleyici anlatım<br />**
-    - D-) Tartışmalı anlatım<br />
+    - A-) A&ccedil;ıklayıcı anlatım
+    - B-) &Ouml;yk&uuml;leyici anlatım
+    - **Cevap C-) Betimleyici anlatım**
+    - D-) Tartışmalı anlatım
     - E-) Kanıtlayıcı anlatım
     <hr />
 1. <strong>Herhangi bir konu hakkındaki g&ouml;r&uuml;şlerin, fikirlerin belirli bir d&uuml;zen i&ccedil;erisinde anlatılması i&ccedil;in yapılan plan t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
@@ -662,26 +662,26 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     <hr />
 1. <strong>Dilek&ccedil;elerin sol alt k&ouml;şesinde aşağıdakilerden hangisi bulunmalıdır?</strong><br />
 
-    - **Cevap A-) Adres<br />**
-    - B-) Hitap s&ouml;zc&uuml;ğ&uuml;<br />
-    - C-) İsim-soy isim<br />
-    - D-) Tarih<br />
+    - **Cevap A-) Adres**
+    - B-) Hitap s&ouml;zc&uuml;ğ&uuml;
+    - C-) İsim-soy isim
+    - D-) Tarih
     - E-) İmza
     <hr />
 1. <strong>Tutanak ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong><br />
 
-    - A-) Tutanağın sonuna belge eklenemez.<br />
-    - B-) Resm&icirc; olmayan bir yazı t&uuml;r&uuml;d&uuml;r.<br />
-    - **Cevap C-) Tutanakta silinti ya da karalama olmamalıdır.<br />**
-    - D-) &Ccedil;izgili k&acirc;ğıda yazılmalıdır.<br />
+    - A-) Tutanağın sonuna belge eklenemez.
+    - B-) Resm&icirc; olmayan bir yazı t&uuml;r&uuml;d&uuml;r.
+    - **Cevap C-) Tutanakta silinti ya da karalama olmamalıdır.**
+    - D-) &Ccedil;izgili k&acirc;ğıda yazılmalıdır.
     - E-) Tutanak yazılırken kurşun kalem kullanılmalıdır.
     <hr />
 1. <strong>&nbsp;Eski dilde &ldquo;arzuhal&rdquo; kavramıyla ifade edilen, resm&icirc; makamlara g&ouml;nderilen yazı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong><br />
 
-    - A-) Tutanak<br />
-    - B-) Biyografi<br />
-    - **Cevap C-) Dilek&ccedil;e<br />**
-    - D-) Anı<br />
+    - A-) Tutanak
+    - B-) Biyografi
+    - **Cevap C-) Dilek&ccedil;e**
+    - D-) Anı
     - E-) &Ouml;z ge&ccedil;miş
     <hr />
 1. <strong>Belirli bir konu &uuml;zerinde alan uzmanları tarafından y&uuml;r&uuml;t&uuml;len araştırmaların yazılı olarak sunulmasıyla oluşturulan yazılara ne ad verilir?</strong>
@@ -817,18 +817,17 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     <hr />
 1. <strong>Deneme t&uuml;r&uuml;n&uuml;n ilk temsilcisi aşağıdakilerden hangisidir?</strong><br />
 
-    - A-) Victor Hugo<br />
-    - **Cevap B-) Montaigne<br />**
-    - C-) Lamartine<br />
-    - D-) Moli&egrave;re<br />
+    - A-) Victor Hugo
+    - **Cevap B-) Montaigne**
+    - C-) Lamartine
+    - D-) Moli&egrave;re
     - E-) Shakespeare
     <hr />
-1. <div>I. Yazar samimi bir &uuml;slupla yazıyı kaleme alır.<br />
+1. I. Yazar samimi bir &uuml;slupla yazıyı kaleme alır.<br />
 II. Kişisel deneyimlerden ve g&ouml;zlemlerden faydalanılır.<br />
 III. Anlatılan konuların ispatlanması i&ccedil;in alıntılara sıklıkla yer verilir.<br />
 IV.&nbsp;Herhangi bir konu sınırlaması yoktur, her konuda yazılabilir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri deneme t&uuml;r&uuml;n&uuml;n &ouml;zellikleri arasında yer alır?</strong></div>
-
+<strong>Yukarıdakilerden hangisi ya da hangileri deneme t&uuml;r&uuml;n&uuml;n &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -923,26 +922,26 @@ IV.&nbsp;Herhangi bir konu sınırlaması yoktur, her konuda yazılabilir.<br />
 1. Roman veya hik&acirc;ye t&uuml;r&uuml;nde olayların oluşmasında etkili olan, olayları yaşayan insanlar şahıs kadrosunu (kişileri) oluşturur. Şahıs kadrosundaki insanlar, olaylar karşısında takındıkları tavırlara g&ouml;re .................. ve ................... şeklinde ikiye ayrılırlar.<br />
 <strong>Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
-    - A-) siyah-beyaz<br />
-    - B-) iyi-k&ouml;t&uuml;<br />
-    - **Cevap C-) tip-karakter<br />**
-    - D-) akıllı-akılsız<br />
+    - A-) siyah-beyaz
+    - B-) iyi-k&ouml;t&uuml;
+    - **Cevap C-) tip-karakter**
+    - D-) akıllı-akılsız
     - E-) miza&ccedil; - huy
     <hr />
 1. <strong>T&uuml;rk edebiyatında Batı hik&acirc;ye tekniğine uygun ilk hik&acirc;yeler hangi sanat&ccedil;ı tarafından kaleme alınmıştır?</strong><br />
 
-    - A-) Namık Kemal<br />
-    - B-) Ziya Paşa<br />
-    - C-) Şemseddin Sami<br />
-    - D-) Abd&uuml;lhak Hamit Tarhan<br />
+    - A-) Namık Kemal
+    - B-) Ziya Paşa
+    - C-) Şemseddin Sami
+    - D-) Abd&uuml;lhak Hamit Tarhan
     - **Cevap E-) Ahmet Mithat Efendi**
     <hr />
 1. <strong>Aşağıdakilerden hangisi hik&acirc;yeyi oluşturan unsurlardan biri <u>değildir</u>?</strong><br />
 
-    - A-) Olay &ouml;rg&uuml;s&uuml;<br />
-    - B-) Şahıs kadrosu<br />
-    - C-) Zaman<br />
-    - D-) Mek&acirc;n<br />
+    - A-) Olay &ouml;rg&uuml;s&uuml;
+    - B-) Şahıs kadrosu
+    - C-) Zaman
+    - D-) Mek&acirc;n
     - **Cevap E-) D&uuml;ş&uuml;nce**
     <hr />
 ## Unite 8
@@ -1295,10 +1294,10 @@ III. Etkili soru sorma becerisine sahiptir.<br />
 1. Fiziksel sebeplerle veya yaşanılan bir travma sonucu ortaya &ccedil;ıkan konuşma kusurudur. Konuşma esnasında hecelerin tekrar edilmesi şekilde g&ouml;r&uuml;lebilir. D&uuml;zenli egzersizlerle aşılabilecek bir sorundur.<br />
 <strong>Paragrafta anlatılan konuşma kusuru aşağıdakilerden hangidir?</strong><br />
 
-    - A-) Gevşeklik<br />
-    - B-) Atlama<br />
-    - **Cevap C-) Kekemelik<br />**
-    - D-) G&uuml;&ccedil;s&uuml;zl&uuml;k<br />
+    - A-) Gevşeklik
+    - B-) Atlama
+    - **Cevap C-) Kekemelik**
+    - D-) G&uuml;&ccedil;s&uuml;zl&uuml;k
     - E-) Parazit sesler
     <hr />
 ## Unite 11
@@ -1631,21 +1630,19 @@ III. Dinleyiciler g&ouml;r&uuml;şlerini a&ccedil;ıklayabilir.<br />
 1. I.Farklı g&ouml;r&uuml;şteki kişiler bir araya gelir.<br />
 II. Bilimsel ve belgeye dayalı kanıtlar sunulur.<br />
 III. Eleştirel ve analitik d&uuml;ş&uuml;nme becerisi kazandırır.<br />
-<strong>Yukarıdaki &ouml;zellikleri verilen konuşma t&uuml;r&uuml; hangisidir?</strong><br />
-<br />
-
-    - A-) Nutuk<br />
-    - B-) Telekonferans<br />
-    - C-) A&ccedil;ılış konuşması<br />
-    - D-) Konferans<br />
+<strong>Yukarıdaki &ouml;zellikleri verilen konuşma t&uuml;r&uuml; hangisidir?</strong>
+    - A-) Nutuk
+    - B-) Telekonferans
+    - C-) A&ccedil;ılış konuşması
+    - D-) Konferans
     - **Cevap E-) Tartışma**
     <hr />
 1. <strong>A&ccedil;ık oturumda başkanın g&ouml;revleriyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
 
-    - A-) Konuşma yapılacak konunun alt başlıklarını verir.<br />
-    - B-) Her konuşmacıya eşit s&uuml;re tanındığından emin olur.<br />
-    - C-) Konuşmayla ilgili gerekli planlamaları yapmaktan sorumludur.<br />
-    - **Cevap D-) Oturum esnasında konuyla ilgili tercih ettiği g&ouml;r&uuml;ş&uuml; ifade eder.<br />**
+    - A-) Konuşma yapılacak konunun alt başlıklarını verir.
+    - B-) Her konuşmacıya eşit s&uuml;re tanındığından emin olur.
+    - C-) Konuşmayla ilgili gerekli planlamaları yapmaktan sorumludur.
+    - **Cevap D-) Oturum esnasında konuyla ilgili tercih ettiği g&ouml;r&uuml;ş&uuml; ifade eder.**
     - E-) Oturum &ouml;ncesi giriş konuşmasını yapar.
     <hr />
 1. Ey benim, namlı, şerefli, sadık emirlerim!&nbsp;<br />
@@ -1693,7 +1690,7 @@ Bug&uuml;n sizlere derim ki (...)<br />
 <strong>Yukarıda bir &ouml;zelliğinden bahsedilen s&ouml;zl&uuml; anlatım t&uuml;r&uuml; hangisidir?</strong>
     - A-) M&uuml;nazara
     - B-) S&ouml;yleşi
-    - C-) Konferans<br />
+    - C-) Konferans
     - **Cevap D-) Telekonferans**
     - E-) Forum
     <hr />
@@ -1771,10 +1768,10 @@ IV. Sempozyum<br />
     - E-) Telekonferans
     <hr />
 1. <strong>Mek&acirc;ndan bağımsız olarak uzaktan eğitim yoluyla yapılan canlı dersler hangi konuşma t&uuml;r&uuml; kapsamında ele alınır?</strong>
-    - A-) Tartışma&nbsp;<br />
-    - B-) S&ouml;ylev<br />
-    - **Cevap C-) Telekonferans<br />**
-    - D-) M&uuml;nazara<br />
+    - A-) Tartışma&nbsp;
+    - B-) S&ouml;ylev
+    - **Cevap C-) Telekonferans**
+    - D-) M&uuml;nazara
     - E-) A&ccedil;ılış konuşması
     <hr />
 1. Toplumu yakından ilgilendiren herhangi bir konu hakkında, dinleyiciler karşısında farklı uzman kişilerin konu ya da olayla ilgili yaptığı seri konuşmalara ............ adı verilir. Bu t&uuml;r konuşmalarda belirlenen bir konu &uuml;zerinde &ccedil;alışma yapan alanın uzmanları bir araya getirilir ve sunulacak konular tasnif edilerek oturumlar d&uuml;zenlenir.<br />

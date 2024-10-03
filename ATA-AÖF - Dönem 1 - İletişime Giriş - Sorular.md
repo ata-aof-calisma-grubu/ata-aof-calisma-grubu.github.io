@@ -1683,7 +1683,6 @@ IV. Kamuoyunu Bilgilendirme Modeli<br />
 1. I. N&uuml;fus artışı<br />
 II. Pazarlama y&ouml;ntemleri<br />
 III. İkna teknikleri<br />
-<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri siyasal iletişim kavramının gelişmesinde etkili <u>olmamıştır</u>?</strong>
     - **Cevap A-) Yalnız I**
     - B-) I ve II

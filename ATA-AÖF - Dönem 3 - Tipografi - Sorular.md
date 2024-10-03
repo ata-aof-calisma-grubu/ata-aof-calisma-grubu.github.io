@@ -591,7 +591,7 @@ III.&nbsp;Lombardik ve Vizigot stili<br />
     - E-) Kalıpların ahşaptan yapılması
     <hr />
 1. <strong>Litografi tekniğinin gazete ve dergilerde tercih edilmiş olmasının temel sebebi nedir?</strong>
-    - A-) K&acirc;ğıt yapımının fabrikasyon h<span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span>le gelmesi
+    - A-) K&acirc;ğıt yapımının fabrikasyon h<span>&acirc;</span>le gelmesi
     - B-) Buharlı makinelerin ortaya &ccedil;ıkması
     - **Cevap C-) Tekniğin renkli baskı i&ccedil;in elverişli olması**
     - D-) Dizginin &ccedil;abuk yapılabilmesi
@@ -653,8 +653,8 @@ IV.&nbsp;Ofset Litografi<br />
 1. <strong>Aşağıdakilerden hangisi&nbsp;k&uuml;t seriflilerin &ouml;zelliklerinden biri&nbsp;</strong><u><strong>değildir</strong></u><strong>?</strong>
     - A-) Yazı karakterleri &ouml;ylesine b&uuml;y&uuml;k puntolarda kullanılır ki hurufat d&ouml;k&uuml;m&uuml;nde kullanılan kurşun hem &ccedil;ok pahalıya mal olur hem de metal kalıpların ağırlığı başka bir dezavantaj oluşturur.
     - B-) Aşırı harf y&uuml;ksekliğine ve genişliğine sahiptir.
-    - C-) Modern yazı karakterlerinin ince ve kalın &ccedil;izgileri arasındaki kontrast daha da abartılı h<span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span>le gelir.
-    - **Cevap D-) Başlık yazı karakteri olan &ldquo;Fat Face&rdquo;lerin metin yazı karakteri olarak kullanıma uygun h<span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span>le getirilmiştir.**
+    - C-) Modern yazı karakterlerinin ince ve kalın &ccedil;izgileri arasındaki kontrast daha da abartılı h<span>&acirc;</span>le gelir.
+    - **Cevap D-) Başlık yazı karakteri olan &ldquo;Fat Face&rdquo;lerin metin yazı karakteri olarak kullanıma uygun h<span>&acirc;</span>le getirilmiştir.**
     - E-) Metal harf kalıplarınından farklı olarak ahşap harf kalıpları &ldquo;satır&rdquo; (line) veya &ldquo;pika&rdquo; (pica) olarak &ouml;l&ccedil;&uuml;lendirilir.
     <hr />
 1. <strong>Arts &amp; Crafts Hareketi&rsquo;nin &ouml;nc&uuml;s&uuml; olan ve&nbsp;Golden Type adını verdiği yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?</strong>

@@ -1406,7 +1406,7 @@ IV. Eski teknolojiler kullanmak<br />
 1. <strong>Aşağıdakilerden hangisinde HTML de kullanılan &ldquo;BR&rdquo; etiketinin W3C standartlarına g&ouml;re kullanımı doğru verilmiştir?</strong>
     - A-) &lt;br&gt; &lt;br /&gt;
     - B-) &lt;br&gt;
-    - **Cevap C-) <br />**
+    - **Cevap C-) **
     - D-) </br>
     - E-) br
     <hr />

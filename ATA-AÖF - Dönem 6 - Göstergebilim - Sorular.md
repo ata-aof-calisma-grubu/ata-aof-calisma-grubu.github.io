@@ -28,7 +28,7 @@ III. G&ouml;stergebilim, sembollerin, işaretlerin, logoların yorumlama eylemid
     <hr />
 1. <b>Aşağıdakilerden hangisi g&ouml;stergebilimin g&uuml;n&uuml;m&uuml;zde benimseyip kullandığı y&ouml;ntemdir?</b><br />
 
-    - **Cevap A-) Eş s&uuml;rem/Eş zamanlılık<br />**
+    - **Cevap A-) Eş s&uuml;rem/Eş zamanlılık**
     - B-) Dil/S&ouml;z
     - C-) Belirti
     - D-) Arts&uuml;rem/Artzamanlılık
@@ -463,7 +463,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
 1. <strong>&ldquo;Sous Rature&rdquo; yani &uuml;st&uuml;n&uuml; &ccedil;izme kavramıyla metinde okuyucu, s&ouml;zc&uuml;ğ&uuml;n &uuml;st&uuml;n&uuml;n &ccedil;izili olduğunu g&ouml;rmesiyle s&ouml;zc&uuml;ğ&uuml;n g&ouml;r&uuml;n&uuml;rdeki anlamına inanmayacağını ileri s&uuml;ren postyapısalcı d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Jacques Lacan
     - **Cevap B-) Jacques Derrida**
-    - C-) Michel Foucault<br />
+    - C-) Michel Foucault
     - D-) Ferdinand De Saussure
     - E-) Julia Kristeva
     <hr />
@@ -485,7 +485,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     <hr />
 1. <strong>Postyapısalcılıkla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
 
-    - A-) B&uuml;t&uuml;nsel ve değişmez toplum yapısını kabul etmez.<br />
+    - A-) B&uuml;t&uuml;nsel ve değişmez toplum yapısını kabul etmez.
     - B-) Toplumsal yapı i&ccedil;inde &ouml;zne pasif değil, aktif olarak konumlandırılmalıdır.
     - C-) Toplumsal yapı i&ccedil;inde kadın ve erkek dışında farklı cinsel ve alt kimlikler kendine yer bulmalıdır.
     - D-) &Ouml;znelere g&ouml;re değişen par&ccedil;alı anlam yapısını &ouml;n plana &ccedil;ıkarır.
@@ -510,7 +510,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
 1. <strong>Aşağıdakilerden hangisi postyapısalcı d&uuml;ş&uuml;n&uuml;rlerden biri <u>değildir</u>?</strong> 
     - A-) Jacques Derrida
     - B-) Jacques Lacan
-    - **Cevap C-) Ferdinand De Saussure<br />**
+    - **Cevap C-) Ferdinand De Saussure**
     - D-) Michel Foucault
     - E-) Julia Kristeva
     <hr />
@@ -534,7 +534,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
 
     - A-) Michel Foucault
     - **Cevap B-) Jacques Derrida**
-    - C-) Jacques Lacan<br />
+    - C-) Jacques Lacan
     - D-) Julia Kristeva
     - E-) Helena Cixous
     <hr />
@@ -835,7 +835,7 @@ III. Simge<br />
 
     - A-) Yalnız I
     - B-) Yalnız II
-    - **Cevap C-) Yalnız III<br />**
+    - **Cevap C-) Yalnız III**
     - D-) I ve II
     - E-) I, II ve III
     <hr />
@@ -1070,7 +1070,7 @@ III. Simge<br />
     <hr />
 1. <strong>&ldquo;Teknik Olarak Sanat&rdquo; isimli yapıtında edebiyat dilinin g&uuml;nl&uuml;k dil kullanımından farklı olması gerektiğini ve amacının alışkanlıkları kırarak farkında olma ve farkına varma bilincini aşılaması gerektiğini savunan bilim insanı aşağıdakilerden hangisidir?</strong><br />
 
-    - A-) Osip Brik<br />
+    - A-) Osip Brik
     - **Cevap B-) Victor Shlovsky**
     - C-) Viktor Vinogradov
     - D-) Vladimir Propp
@@ -1086,7 +1086,7 @@ III. Simge<br />
 1. ............................................&nbsp; &ldquo;dışarıdan eleştiri&rdquo; y&ouml;ntemiyle araştırmayı ama&ccedil;layan bakış a&ccedil;ılarına karşılık metnin i&ccedil;indeki &ouml;geleri inceleyerek &ldquo;i&ccedil;eriden eleştiri&rdquo; anlayışını &ccedil;alışmalarına uygulayan ilk kuramcılardır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
 
-    - **Cevap A-) Rus bi&ccedil;imciler<br />**
+    - **Cevap A-) Rus bi&ccedil;imciler**
     - B-) Alman bi&ccedil;imciler
     - C-) Japon bi&ccedil;imciler
     - D-) İngiliz bi&ccedil;imciler
@@ -1222,7 +1222,7 @@ III. Bir projeye g&ouml;re tasarlanmış &ccedil;ok katı metinlerdir.<br />
 1. <strong>Bir &ouml;yk&uuml;n&uuml;n tek bi&ccedil;imli okunmasına imk&acirc;n sağlayan &ccedil;ok katlı anlambilimsel kategoriler b&uuml;t&uuml;n&uuml;ne ne ad verilir?</strong><br />
 
     - **Cevap A-) İzotopi**
-    - B-) Hermetizm<br />
+    - B-) Hermetizm
     - C-) Rasyonalizm&nbsp;
     - D-) İrrasyonalizm
     - E-) Sembolizm
@@ -1239,7 +1239,7 @@ II. D&ouml;rd&uuml;nc&uuml; aşama olarak kabul edilir.<br />
 III. Bu aşamanın &ouml;rnekleri amblemler, m&uuml;zik harfleri ve matematiksel g&ouml;stergelerdir.<br />
 <strong>Yukarıdaki &ouml;zellikler Eco&#39;nun&nbsp;g&ouml;stergelerin &uuml;retim tarzı tipolojisine ait aşamalarından hangisi ile ilgilidir?</strong><br />
 
-    - A-) Fiziksel emek<br />
+    - A-) Fiziksel emek
     - B-) Tanıma
     - C-) Doğrudan g&ouml;sterge (ostensiyon)
     - **Cevap D-) Kopya (&ouml;rnek)**
@@ -1334,7 +1334,7 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     <hr />
 1. <strong>Kurgusal fotoğrafın &ouml;nemli isimlerinden biri olmasına rağmen, her fotoğrafın farklı d&uuml;zeylerde de olsa kurgu i&ccedil;erdiğine inandığı i&ccedil;in &quot;kurgusal&quot; terimini reddeden sanat&ccedil;ı aşağıdakilerden hangisidir?</strong><br />
 
-    - **Cevap A-) Jeff Wall<br />**
+    - **Cevap A-) Jeff Wall**
     - B-) Gregory Crewdson
     - C-) Alex Prager
     - D-) Cindy Sherman

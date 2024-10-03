@@ -568,7 +568,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - A-) 24-70mm f/2.8
     - B-) 100-400mm f/4.5-5.6
     - C-) 10-24mm f/4
-    - **Cevap D-) 24mm f/1.4<br />**
+    - **Cevap D-) 24mm f/1.4**
     - E-) 2x Tele d&ouml;n&uuml;şt&uuml;r&uuml;c&uuml;
     <hr />
 1. <strong>&Ccedil;oğu balık g&ouml;z&uuml; objektifin derece cinsinden sahip olduğu a&ccedil;ısal g&ouml;r&uuml;ş alanı</strong><strong>&nbsp;aşağıdakilerden hangisidir?</strong><br />
@@ -651,9 +651,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - **Cevap D-) Halka (ring) flaş**
     - E-) Manuel flaş
     <hr />
-1. <strong>S&uuml;rekli ışık kaynakları i&ccedil;inde LED ışıkların halojen lambalı ışıklara olan &uuml;st&uuml;nl&uuml;ğ&uuml; aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br />
-<br />
-
+1. <strong>S&uuml;rekli ışık kaynakları i&ccedil;inde LED ışıkların halojen lambalı ışıklara olan &uuml;st&uuml;nl&uuml;ğ&uuml; aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
     - A-) 1200 kelvin ışık verir.
     - B-) &Ccedil;ok y&uuml;ksek aydınlatma g&uuml;c&uuml;ne sahiptir.
     - C-) &Ccedil;oğunlukla sarı ışık verir.
@@ -1009,11 +1007,10 @@ III. Konuya uzaklık<br />
     - E-) Fotoğraf makinesinin pili erken biter.
     <hr />
 1. <strong>Aşağıdakilerden hangisi manzara fotoğrafında ufuk &ccedil;izgisinin kadrajdaki yerinin doğru konumlandırıldığı orandır?</strong>
-    - **Cevap A-) 1/3<br />**
+    - **Cevap A-) 1/3**
     - B-) 3/3
     - C-) 3/4
-    - D-) 4/1<br />
-<br />
+    - D-) 4/1
     - E-) 4/3
     <hr />
 1. <strong>Fotoğrafta y&uuml;ksek ISO değeri kullanıldığında ortaya &ccedil;ıkan sorun aşağıdakilerden hangisidir?</strong>
@@ -1331,7 +1328,7 @@ III. Konuya uzaklık<br />
     - A-) G&uuml;venli bir arşiv sistemi oluşturulması
     - B-) Fotoğraflara hızlı bir şekilde ulaşılması
     - C-) Karmaşanın ve hataların oluşması ihtimalinin minimize edilmesi
-    - **Cevap D-) Diğer sistemlere g&ouml;re arşivin &ccedil;ok daha kısa s&uuml;rede oluşturulması<br />**
+    - **Cevap D-) Diğer sistemlere g&ouml;re arşivin &ccedil;ok daha kısa s&uuml;rede oluşturulması**
     - E-) İşlevsel bir arşiv sisteminin oluşturulması
     <hr />
 1. <strong>Y&uuml;kl&uuml;/b&uuml;y&uuml;k arşivleri y&ouml;netebilmek, sistemde hızlı aramalar yapabilmek ve fotoğrafların verimli bir şekilde işlenmesini sağlayabilmek i&ccedil;in aşağıdaki ekipmanlardan hangisine ihtiya&ccedil; duyulur?</strong>
@@ -1886,27 +1883,21 @@ IV. Yeşil<br />
     - D-) Beyaz, siyah, sarı, yeşil, mavi ve mor
     - E-) Yeşil, mavi ve mor
     <hr />
-1. <strong>Aşağıdakilerden hangisi renk sentezlerinin kullanım ama&ccedil;larından biri değildir?</strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi renk sentezlerinin kullanım ama&ccedil;larından biri değildir?</strong>
     - A-) Renklerin tonlarını tanımlamak
     - B-) Evrensel bir standartta renkleri tanımlamak
     - C-) Bir anlamda renklerin sınıflandırmasını ve kataloglanmasını sağlamak
     - **Cevap D-) Renklerin kişiden kişiye farklılık g&ouml;stermesini sağlamak**
     - E-) Renkleri doğru olarak g&ouml;stermek
     <hr />
-1. <strong>RGB renk sisteminin kısaltmasında bulunan &lsquo;G&rsquo; harfi hangi rengi temsil etmektedir?</strong><br />
-<br />
-
+1. <strong>RGB renk sisteminin kısaltmasında bulunan &lsquo;G&rsquo; harfi hangi rengi temsil etmektedir?</strong>
     - A-) Kırmızı
     - B-) Sarı
     - **Cevap C-) Yeşil**
     - D-) Siyah
     - E-) Mavi
     <hr />
-1. <strong>RGB renk sistemindeki &uuml;&ccedil; ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?</strong><br />
-<br />
-
+1. <strong>RGB renk sistemindeki &uuml;&ccedil; ana rengin eşit oranlarda birleşiminden hangi renk oluşmaktadır?</strong>
     - A-) Kırmızı
     - **Cevap B-) Beyaz**
     - C-) Yeşil
@@ -1920,18 +1911,14 @@ IV. Yeşil<br />
     - D-) Beyaz
     - E-) Kobalt rengi
     <hr />
-1. <strong>CMYK renklerinin her biri i&ccedil;in&nbsp; %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong><br />
-<br />
-
+1. <strong>CMYK renklerinin her biri i&ccedil;in&nbsp; %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>
     - A-) C%10, M%10, Y%10, K%10
     - B-) C%100, M%100, Y%100, K%100
     - **Cevap C-) C%0, M%0, Y%0, K%0**
     - D-) C%50, M%50, Y%50, K%50
     - E-) C%25, M%25, Y%25, K%25
     <hr />
-1. <strong>Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarındandır?</strong><br />
-<br />
-
+1. <strong>Aşağıdakilerden hangisi RGB renk modeline dayalı renk alanlarındandır?</strong>
     - **Cevap A-) Adobe RGB**
     - B-) CMYK
     - C-) CIE L*a*b

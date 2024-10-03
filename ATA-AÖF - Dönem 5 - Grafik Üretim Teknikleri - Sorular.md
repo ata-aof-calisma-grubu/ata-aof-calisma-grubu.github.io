@@ -731,28 +731,18 @@ III. &Ouml;n pozlandırma<br />
     - D-) Hybrid Packs
     - E-) Adobe Photoshop
     <hr />
-1. <strong>Tasarıma başlamadan &ouml;nce mutlaka tasarımcının elinde olması gereken aşağıdakilerden hangisidir?</strong><br />
-&nbsp;
-    - **Cevap A-) Yaka teknik &ccedil;izim planı<br />
-&nbsp;**
-    - B-) Ambalajlama bi&ccedil;imi<br />
-&nbsp;
-    - C-) Renk bilgisi<br />
-&nbsp;
-    - D-) Kullanacağı program bilgisi<br />
-&nbsp;
+1. <strong>Tasarıma başlamadan &ouml;nce mutlaka tasarımcının elinde olması gereken aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Yaka teknik &ccedil;izim planı**
+    - B-) Ambalajlama bi&ccedil;imi
+    - C-) Renk bilgisi
+    - D-) Kullanacağı program bilgisi
     - E-) Renk tonlaması
     <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?&nbsp;&nbsp;</strong><br />
-&nbsp;
-    - A-) A/A<br />
-&nbsp;
-    - B-) A/B<br />
-&nbsp;
-    - C-) B/B<br />
-&nbsp;
-    - **Cevap D-) A/A veya A/B<br />
-&nbsp;**
+1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?&nbsp;&nbsp;</strong>
+    - A-) A/A
+    - B-) A/B
+    - C-) B/B
+    - **Cevap D-) A/A veya A/B**
     - E-) B/A
     <hr />
 1. I. Ofset<br />
@@ -760,22 +750,17 @@ II. Flekso<br />
 III. Tifdruk<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri matbaacılıkta kullanılan baskı tekniklerindendir?</strong><br />
 
-    - A-) Yalnız I<br />
-    - B-) Yalnız II<br />
-    - C-) I ve II<br />
-    - D-) II ve III<br />
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden doypack ambalaj diğer adı ile neler olarak adlandırılır?</strong><br />
-&nbsp;
-    - A-) Basit Poşet - Kilitsiz<br />
-&nbsp;
-    - B-) Oturan Ambalaj<br />
-&nbsp;
-    - C-) Yastık Ambalaj<br />
-&nbsp;
-    - D-) Pouch Ambalaj<br />
-&nbsp;
+1. <strong>Ambalajlama bi&ccedil;imlerinden doypack ambalaj diğer adı ile neler olarak adlandırılır?</strong>
+    - A-) Basit Poşet - Kilitsiz
+    - B-) Oturan Ambalaj
+    - C-) Yastık Ambalaj
+    - D-) Pouch Ambalaj
     - **Cevap E-) Hazır Poşet &ndash; Kilitli Poşet**
     <hr />
 1. <strong>Aşağıdakilerden hangisi tifdruk ya da flekso baskı ambalaj t&uuml;r&uuml;ne verilen isimdir?</strong> 
@@ -785,52 +770,32 @@ III. Tifdruk<br />
     - D-) Flekso Ambalaj
     - E-) Plastik ambalaj
     <hr />
-1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de ka&ccedil; rakamlı barkod numarası kullanılmaktadır?</strong><br />
-&nbsp;
-    - **Cevap A-) 13<br />
-&nbsp;**
-    - B-) 8<br />
-&nbsp;
-    - C-) 12<br />
-&nbsp;
-    - D-) 11<br />
-&nbsp;
+1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de ka&ccedil; rakamlı barkod numarası kullanılmaktadır?</strong>
+    - **Cevap A-) 13**
+    - B-) 8
+    - C-) 12
+    - D-) 11
     - E-) 14
     <hr />
-1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de kullanılan barkodların ilk 3 rakamı ne anlam ifade eder?</strong><br />
-&nbsp;
-    - A-) Firma Kodu<br />
-&nbsp;
-    - B-) Kontrol Kodu<br />
-&nbsp;
-    - **Cevap C-) &Uuml;lke Kodu<br />
-&nbsp;**
-    - D-) &Uuml;r&uuml;n Kodu<br />
-&nbsp;
+1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de kullanılan barkodların ilk 3 rakamı ne anlam ifade eder?</strong>
+    - A-) Firma Kodu
+    - B-) Kontrol Kodu
+    - **Cevap C-) &Uuml;lke Kodu**
+    - D-) &Uuml;r&uuml;n Kodu
     - E-) Firma Adı
     <hr />
-1. <strong>Esnek ambalaj tasarımlarında kullanılan photoshop belgelerinin &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; minimum ka&ccedil; dpi ve hangi formatta olmalıdır?</strong><br />
-&nbsp;
-    - A-) 200 dpi ve psd format<br />
-&nbsp;
-    - B-) 150 dpi ve psd format<br />
-&nbsp;
-    - C-) 300 dpi ve tiff format<br />
-&nbsp;
-    - D-) 200 dpi ve jpeg format<br />
-&nbsp;
+1. <strong>Esnek ambalaj tasarımlarında kullanılan photoshop belgelerinin &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; minimum ka&ccedil; dpi ve hangi formatta olmalıdır?</strong>
+    - A-) 200 dpi ve psd format
+    - B-) 150 dpi ve psd format
+    - C-) 300 dpi ve tiff format
+    - D-) 200 dpi ve jpeg format
     - **Cevap E-) 300 dpi ve psd format**
     <hr />
-1. <strong>Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne ama&ccedil; ile yapılmaktadır?</strong><br />
-&nbsp;
-    - A-) Renklerin daha d&uuml;zg&uuml;n &ccedil;ıkması i&ccedil;in<br />
-&nbsp;
-    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının &ouml;n&uuml;ne ge&ccedil;mek i&ccedil;in<br />
-&nbsp;**
-    - C-) Renk kombinasyonu yaratmak i&ccedil;in<br />
-&nbsp;
-    - D-) G&ouml;rsel etkiyi artırmak i&ccedil;in<br />
-&nbsp;
+1. <strong>Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne ama&ccedil; ile yapılmaktadır?</strong>
+    - A-) Renklerin daha d&uuml;zg&uuml;n &ccedil;ıkması i&ccedil;in
+    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının &ouml;n&uuml;ne ge&ccedil;mek i&ccedil;in**
+    - C-) Renk kombinasyonu yaratmak i&ccedil;in
+    - D-) G&ouml;rsel etkiyi artırmak i&ccedil;in
     - E-) Renk tonlaması oluşturmak i&ccedil;in
     <hr />
 1. <strong>Tasarımlarda kullanılan yazı ve logo b&uuml;y&uuml;kl&uuml;kleri aşağıdakilerden hangisine g&ouml;re uyumlu olmalıdır?</strong>
@@ -849,10 +814,10 @@ III. Tifdruk<br />
     <hr />
 1. <strong>Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı, renk ayrımı olarak Illustrator programında nereden inceleyebilir?</strong><br />
 
-    - A-) Layer<br />
-    - B-) Renk Katmanı<br />
-    - **Cevap C-) &Uuml;st Men&uuml; &ndash; window &ndash; seperations preview<br />**
-    - D-) Renk Skalası<br />
+    - A-) Layer
+    - B-) Renk Katmanı
+    - **Cevap C-) &Uuml;st Men&uuml; &ndash; window &ndash; seperations preview**
+    - D-) Renk Skalası
     - E-) &Uuml;st Men&uuml;
     <hr />
 1. <strong>Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı overprint uygulaması kontrol&uuml;n&uuml; ne i&ccedil;in yapar?</strong>

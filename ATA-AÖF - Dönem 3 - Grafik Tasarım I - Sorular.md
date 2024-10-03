@@ -948,10 +948,10 @@ III. Hiyerarşi<br />
     <hr />
 1. <strong>Afiş tasarımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong><br />
 
-    - A-) Afiş tasarımının amacı mesajları m&uuml;mk&uuml;n olan en kısa s&uuml;rede ve hatırlanabilir bir şekilde hedef kitleye iletmektir.<br />
-    - B-) Afişler g&ouml;rsel buluşlarla veya tipografik oyunlarla izleyicilerin dikkatini &ccedil;eken ve basılarak &ccedil;oğaltılan g&ouml;rsel iletişim ara&ccedil;larıdır.<br />
-    - C-) Afiş tasarımı, g&ouml;rsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.<br />
-    - D-) Afiş tasarımı yaparken kullanılan g&ouml;rsel &uuml;sluplar veya kişisel tarzlar sanatsal bir ifade yaratılmasına yardımcı olur.<br />
+    - A-) Afiş tasarımının amacı mesajları m&uuml;mk&uuml;n olan en kısa s&uuml;rede ve hatırlanabilir bir şekilde hedef kitleye iletmektir.
+    - B-) Afişler g&ouml;rsel buluşlarla veya tipografik oyunlarla izleyicilerin dikkatini &ccedil;eken ve basılarak &ccedil;oğaltılan g&ouml;rsel iletişim ara&ccedil;larıdır.
+    - C-) Afiş tasarımı, g&ouml;rsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.
+    - D-) Afiş tasarımı yaparken kullanılan g&ouml;rsel &uuml;sluplar veya kişisel tarzlar sanatsal bir ifade yaratılmasına yardımcı olur.
     - **Cevap E-) Afiş tasarımı konularına g&ouml;re &quot;imgesel&quot; ve &quot;tipografik&quot; afişler olmak &uuml;zere iki kısma ayrılır.**
     <hr />
 1. <strong>Tipografik afişlerle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u></strong>?

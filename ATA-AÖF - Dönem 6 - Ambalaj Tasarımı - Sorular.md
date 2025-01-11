@@ -1,5 +1,19 @@
 # Ambalaj Tasarımı
 ## Unite 1
+1. <strong>Bir ped aracılığıyla m&uuml;rekkebin doğrudan transferini i&ccedil;eren baskı tekniği aşağıdakilerden hangisidir?</strong>
+    - A-) Şablon Baskı
+    - B-) Tipo Baskı
+    - C-) Serigrafi Baskı
+    - D-) Ofset Baskı
+    - **Cevap E-) Tampon Baskı**
+    <hr />
+1. <strong>1823 yılında İngiliz Peter Durand tarafından patenti alınan ilk ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) Plastik Ambalaj
+    - **Cevap B-) Metal Ambalaj**
+    - C-) K&acirc;ğıt Ambalaj
+    - D-) Karton Kutu
+    - E-) Cam Ambalaj
+    <hr />
 1. I. K&acirc;ğıt<br />
 II. Karton<br />
 III. Selofan<br />
@@ -82,12 +96,33 @@ III. Selofan<br />
     - E-) Ambalaj malzemesi &uuml;r&uuml;n&uuml; kimyasal ve fiziksel tehlikelere karşı korumalıdır.
     <hr />
 ## Unite 2
+1. <strong>Kişiye &ouml;zel &ccedil;ıkan ya da &ouml;zel hissettiren ambalaj fonksiyonu aşağıdakilerden hangisidir?</strong>
+    - A-) Ambalajın tutundurma fonksiyonu
+    - B-) Ambalajın g&ouml;rsel fonksiyonu
+    - **Cevap C-) Ambalajın fiyatlandırma fonksiyonu**
+    - D-) Ambalajın bilgi verme fonksiyonu
+    - E-) Ambalajın depolama fonksiyonu
+    <hr />
+1. <strong>&Uuml;r&uuml;n&uuml;n raf &ouml;mr&uuml;n&uuml; uzatan ambalaj fonksiyonu aşağıdakilerden hangisidir?</strong>
+    - A-) Tutundurma fonksiyonu
+    - B-) G&ouml;rsel fonksiyonu
+    - C-) Depolama fonksiyonu
+    - D-) Bilgi verme fonksiyonu
+    - **Cevap E-) Koruma fonksiyonu**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi etkili ve nitelikli olarak adlandırılan ambalaj &ouml;zelliklerindendir?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n yapısı hakkında bilgi verilmesi zorunlu değildir.
     - B-) Hassas ve &ccedil;abuk deforme olabilecek ambalaj malzemeleri se&ccedil;ilmelidir.
     - C-) Ambalaj &uuml;retiminde sert malzemeler tercih edilmelidir.
     - **Cevap D-) Ambalaj fonksiyonları d&uuml;ş&uuml;n&uuml;lerek tasarlanmalıdır.**
     - E-) B&uuml;t&uuml;n &uuml;r&uuml;nlerde dış ambalaj (ikincil ambalaj) kullanılmalıdır.
+    <hr />
+1. <strong>Ambalaj etiketinde bulunması zorunlu olmayan unsur aşağıdakilerden hangisidir?</strong>
+    - A-) Barkod
+    - B-) &Uuml;retim, son t&uuml;ketim tarihleri
+    - C-) Marka logosu
+    - **Cevap D-) Marka sloganı**
+    - E-) Enerji ve besin &ouml;geleri
     <hr />
 1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n ile doğrudan temas halindeki ambalaj t&uuml;r&uuml;d&uuml;r?</strong>
     - **Cevap A-) Satış ambalajı**
@@ -169,6 +204,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) Sadelik
     - E-) Hedef kitleye uygunluk
     <hr />
+1. <strong>&Uuml;r&uuml;n gruplarının olduğu raflarda, bir ambalajın ilk &ouml;nce dikkat &ccedil;ekmesi hangi tasarım kriteri ile ilişkilidir?</strong>
+    - A-) End&uuml;striyellik
+    - B-) Hedef kitleye uygunluk
+    - C-) Markaya ve &uuml;r&uuml;ne uygunluk
+    - **Cevap D-) Fark edilebilirlik**
+    - E-) &Ouml;zg&uuml;nl&uuml;k
+    <hr />
 1. <strong>Aşağıdakilerden hangisi ambalaj tasarım kriterleri arasında <u>yer almaz</u>?</strong>
     - A-) Markaya ve &uuml;r&uuml;ne uygunluk
     - B-) Fark edilebilirlik
@@ -240,6 +282,20 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Geliştirme
     <hr />
 ## Unite 4
+1. <strong>Ekran kartlarının g&ouml;r&uuml;nt&uuml; işlemcisine ne ad verilmektedir?</strong>
+    - A-) CPU
+    - **Cevap B-) GPU**
+    - C-) RAM
+    - D-) Piksel
+    - E-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k
+    <hr />
+1. <strong>G&uuml;n&uuml;m&uuml;zde RAM b&uuml;y&uuml;kl&uuml;kleri hangi birim ile ifade edilmektedir?</strong>
+    - **Cevap A-) GB**
+    - B-) MB
+    - C-) TB
+    - D-) KB
+    - E-) Byte
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bilgisayarın t&uuml;m donanımları arasındaki iletişimi koordine ederek verileri işleyen donanımdır?</strong>
     - **Cevap A-) Merkezi işlem birimi**
     - B-) Ekran kartı
@@ -311,6 +367,21 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) &Ccedil;evrimi&ccedil;i bulut sisteminde depolama
     <hr />
 ## Unite 5
+1. Ambalajda baskı oluşum s&uuml;re&ccedil;leri &uuml;&ccedil; aşamada incelenmektedir.<strong><br />
+Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
+    - A-) Baskı &ouml;ncesi hazırlık- baskı sonrası-basım
+    - **Cevap B-) Baskı &ouml;ncesi hazırlık-basım s&uuml;reci-baskı sonrası**
+    - C-) Konstr&uuml;ktiyon-montaj-perforaj
+    - D-) Baskı kalıbı hazırlığı-taşma payı ve kesim &ccedil;izgileri hazırlığı-montaj
+    - E-) Maket oluşturma-Lup ile kontrol-basım s&uuml;reci
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ldquo;Tiraj&rdquo; teriminin karşılığıdır?</strong>
+    - A-) Taşma payı ve kesim &ccedil;izgileri i&ccedil;in işaret
+    - B-) Renk dizisi
+    - C-) Fire
+    - D-) G&ouml;rsel &uuml;zerindeki noktacık sayısı
+    - **Cevap E-) Talep edilen baskı sayısı**
+    <hr />
 1. <strong>&Ccedil;oğunlukla fleksbıl denilen cips, jelibon, &ccedil;orba, &ccedil;ikolata, dondurma vb. esnek ambalajlarda kullanılan baskı tekniği aşağıdakilerden hangisidir?</strong>
     - A-) Serigrafi
     - B-) Ofset
@@ -384,6 +455,20 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Serigrafi
     <hr />
 ## Unite 6
+1. <strong>Aşağıdakilerden hangisi k&acirc;ğıt ambalaj yapımında ham madde olarak da kullanılan, odun, pamuk, bambu ve keten diğer bitkisel maddelerin h&uuml;cre &ccedil;eperinin temel maddesini oluşturmaktadır?</strong>
+    - A-) Lignin
+    - **Cevap B-) Sel&uuml;loz**
+    - C-) Hemisel&uuml;loz
+    - D-) Pektin
+    - E-) Polietilen
+    <hr />
+1. <strong>Aşağıdakilerden hangisi camın kimyasal bileşimi g&ouml;z &ouml;n&uuml;ne alınarak yapılan sınıflandırmanın i&ccedil;erisinde <u>yer almaz</u>?</strong>
+    - A-) Soda-kire&ccedil; camı
+    - B-) Kristal cam
+    - C-) Borosilikat camı
+    - D-) &Ouml;zel camlar
+    - **Cevap E-) Cam elyaf**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi k&acirc;ğıt ambalaj yapımında kullanılan hammaddedir?</strong>
     - A-) Sel&uuml;loz
     - B-) Lignin
@@ -463,6 +548,14 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) Fotoğraf
     - E-) Tipografi
     <hr />
+1. S&uuml;prematizm Akımı&#39;nın temsilcilerinden Kazimir Malevich&rsquo;in eserlerinde sıklıkla kullandığı bir renktir.&nbsp;Malevich, bu rengin &ldquo;sonsuzluğun ger&ccedil;ek rengi&rdquo; olduğunu savunmuştur.<br />
+<strong>S&ouml;z&uuml; edilen renk aşağıdakilerden hangisidir?</strong>
+    - A-) Gri
+    - **Cevap B-) Beyaz**
+    - C-) Siyah
+    - D-) Mavi
+    - E-) Mor
+    <hr />
 1. &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; ışığın eşya &uuml;zerine &ccedil;arpması ile yansıyan ışınlardan g&ouml;z&uuml;m&uuml;zde meydana gelen duyumların her biridir.&rdquo;<br />
 <strong>C&uuml;mleden boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Kontrastlık
@@ -537,6 +630,20 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Yatay &ccedil;izgili renkler genişlik duygusu yaratır.
     <hr />
 ## Unite 8
+1. <strong>Bir i&ccedil;ecek ambalajında, tipografinin &uuml;r&uuml;n&uuml;n muhteviyatını yansıtır şekilde hazırlanmış olması hangi tipografi unsuru ile ilişkilidir?</strong>
+    - A-) Hedef kitleye uygunluk
+    - B-) Markaya uygunluk
+    - **Cevap C-) &Uuml;r&uuml;ne uygunluk**
+    - D-) Ambalaja uygunluk
+    - E-) Rekabete uygunluk
+    <hr />
+1. <strong>&ldquo;Modern&rdquo; bir algı uyandırmak istenen ambalajlarda aşağıdaki yazı tiplerinden hangisini kullanmak uygundur?</strong>
+    - **Cevap A-) Sans serif**
+    - B-) Display (dekoratif) yazı
+    - C-) Bold (kalın) yazı
+    - D-) Script yazı
+    - E-) Serif
+    <hr />
 1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında tipografinin kullanım bi&ccedil;imlerindendir?</strong>
     - A-) &Uuml;retici odaklı kullanım
     - **Cevap B-) Enformasyon ama&ccedil;lı kullanım**
@@ -608,6 +715,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Dekoratif yazı t&uuml;rlerinden faydalanmak
     <hr />
 ## Unite 9
+1. <strong>Ambalaj tasarımı g&ouml;rsel se&ccedil;iminde aşağıdakilerden hangisi etkili <u>değildir</u>?</strong>
+    - **Cevap A-) &Uuml;r&uuml;n&uuml;n rengi**
+    - B-) &Uuml;r&uuml;n&uuml; i&ccedil;eriği
+    - C-) &Uuml;r&uuml;n&uuml;n doğası
+    - D-) &Uuml;r&uuml;n&uuml;n cinsi
+    - E-) &Uuml;r&uuml;n&uuml;n etki g&uuml;c&uuml;
+    <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.; bir &uuml;r&uuml;n ya da hizmetin, bedelinin kimin tarafından &ouml;dendiği belli olacak şekilde, kitle iletişim ara&ccedil;larında yer ve zaman satın alınarak geniş halk kitlelerine tanıtılması &ccedil;abalarının tamamıdır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Ambalaj
@@ -690,6 +804,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Kent ill&uuml;strasyonu
     <hr />
 ## Unite 10
+1. <strong>En eski pazarlama anlayışı olarak bilinen ve &ldquo;Ne &uuml;retirsem onu satarım.&rdquo; anlayışına sahip pazarlama yaklaşımı aşağıdakilerden hangisidir?</strong>
+    - A-) &Uuml;r&uuml;n Anlayışlı Yaklaşım
+    - **Cevap B-) &Uuml;retim Anlayışlı Yaklaşım**
+    - C-) Modern Pazarlama Anlayışlı Yaklaşım
+    - D-) Holistik (B&uuml;t&uuml;nsel) Anlayışlı Yaklaşım
+    - E-) Satış Anlayışlı Yaklaşım
+    <hr />
 1. <strong>Aşağıdakilerden hangisi n&ouml;ropazarlama yaklaşımlarının &uuml;st&uuml;n y&ouml;nleri arasında <u>yer almaz</u>?</strong>
     - A-) G&uuml;venilir olması
     - B-) &Ouml;l&ccedil;&uuml;m&uuml; daha &ouml;nce yapılmamış alanlarda kullanılabilmesi
@@ -776,6 +897,14 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - C-) Markanın tanınırlığı
     - D-) &Uuml;r&uuml;n&uuml;n faydası
     - E-) Markanın vaadi
+    <hr />
+1. Marka &hellip;&hellip;&hellip;&hellip;&hellip;.. kısaca işletmenin, t&uuml;keticilerinin marka hakkında nasıl hissetmesi, algılaması ve nasıl hatırlaması istediği olarak tanımlanabilir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) konumlandırması**
+    - B-) vaadi
+    - C-) manifestosu
+    - D-) g&uuml;veni
+    - E-) imajı
     <hr />
 1. <strong>&Uuml;r&uuml;n&uuml;n; isim, logo ve diğer g&ouml;rsel işaret ve sembollerle rakiplerinden farklılaşması olarak tanımlanmasına ne denir?</strong>
     - A-) Ambalaj
@@ -1004,6 +1133,20 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) Yenilebilir ambalajlar
     <hr />
 ## Unite 14
+1. <strong>&ldquo;T&uuml;m raportların en basitidir ve uygulaması en kolay olan raportlama şeklidir.&rdquo; ifadesi ile a&ccedil;ıklanan raport t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) &Uuml;slup raport (diogonel soter raport)
+    - B-) &Ccedil;evirme
+    - C-) Kapaklama (ayna)
+    - **Cevap D-) Tam raport (d&uuml;z raport)**
+    - E-) Yarım raport (soter raport)
+    <hr />
+1. <strong>Raportlar tasarım aşamasında hangi geometrik yapılar i&ccedil;erisinde d&uuml;ş&uuml;n&uuml;l&uuml;p uygulanır?</strong>
+    - **Cevap A-) Kare-dikd&ouml;rtgen**
+    - B-) Kare-&uuml;&ccedil;gen
+    - C-) Dikd&ouml;rtgen-&uuml;&ccedil;gen
+    - D-) Dikd&ouml;rtgen-oval
+    - E-) Kare-oval
+    <hr />
 1. <strong>Aşağıdaki raport &ccedil;eşitlerinden hangisinde desen tekrarı zikzak hareketi vardır?</strong>
     - A-) &Ccedil;evirme
     - B-) Kapaklama

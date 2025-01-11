@@ -129,6 +129,13 @@ III. İletişim sembollerle y&uuml;r&uuml;t&uuml;l&uuml;r.<br />
     - D-) Televizyon
     - E-) İnternet
     <hr />
+1. <strong>Aşağıdakilerden hangisi iletişimin unsurlarından biri <u>değildir</u>?</strong>
+    - A-) Kaynak
+    - **Cevap B-) &Ccedil;evre**
+    - C-) G&uuml;r&uuml;lt&uuml;
+    - D-) Mesaj
+    - E-) Kanal
+    <hr />
 1. <strong>Aşağıdakilerden hangisi iletişimin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) İletişim ka&ccedil;ınılmazdır.
     - **Cevap B-) İletişim &uuml;&ccedil; d&uuml;zlemde ger&ccedil;ekleşir.**
@@ -140,7 +147,7 @@ III. İletişim sembollerle y&uuml;r&uuml;t&uuml;l&uuml;r.<br />
     - A-) Alıcının bilgi ve tecr&uuml;be alanına giren semboller kullanılmalıdır.
     - B-) Semboller alıcının daha &ouml;nce alışmış olduğu anlamda kullanılmalıdır. Aksi takdirde alıcı bunu yanlış yorumlayabilir.
     - C-) Alıcının anlamaması muhtemel olan kelimeler a&ccedil;ıklanmalıdır.
-    - D-) Alıcının tecr&uuml;besinin az olması veya daha &ouml;nce hi&ccedil; karşılaşmadığı bir konudan bahsedilmesi h&acirc;linde g&ouml;ndericinin ona konu ile ilgili kısa bir a&ccedil;ıklama ve tanım yapmasını gerektirebilir.&nbsp;
+    - D-) Alıcının tecr&uuml;besinin az olması veya daha &ouml;nce hi&ccedil; karşılaşmadığı bir konudan bahsedilmesi h&acirc;linde g&ouml;ndericinin ona konu ile ilgili kısa bir a&ccedil;ıklama ve tanım yapmasını gerektirebilir.
     - **Cevap E-) Kaynak somut ifade ve sembollerden &ccedil;ok soyut semboller kullanmalıdır.**
     <hr />
 1. <strong>Bir iletişim s&uuml;recinde, s&uuml;recin başlamasına yol a&ccedil;ıp duygu ve d&uuml;ş&uuml;ncelerini &ccedil;eşitli iletişim bi&ccedil;imleriyle karşısındaki kişi ya da kişilere aktarmak &uuml;zere harekete ge&ccedil;enlere verilen isim aşağıdakilerden hangisidir?</strong>
@@ -312,6 +319,13 @@ III. K&uuml;lt&uuml;r sosyal kimliğin oluşmasında en başat fakt&ouml;rd&uuml
     - D-) Yazı dili, konuşma diline g&ouml;re daha kalıcıdır.
     - E-) Yazı dili nesilden nesle aktarılabilir.
     <hr />
+1. <strong>K&uuml;lt&uuml;r kavramıyla ilgili aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
+    - **Cevap A-) Bireyin doğuştan getirdiği bir &ouml;zelliktir.**
+    - B-) K&uuml;lt&uuml;rel değerler sosyalleşme s&uuml;recinde eğitim ve &ouml;ğretimle kazanılır.
+    - C-) Tarihsel bir olgudur.
+    - D-) Sosyolojik bir miras olarak kuşaktan kuşağa aktarılır.
+    - E-) İ&ccedil; ve dış etkenlere bağlı olarak hızlı veya yavaş değişebilir.
+    <hr />
 1. <strong>Aşağıdaki ifadelerden hangisi, verilen kavramla ilişkili <u>değildir</u>?</strong> 
     - A-) Konuşma dili: dilin gramer bilgisi gerektirmeyecek şekilde g&uuml;nl&uuml;k yaşamda kullanılması
     - B-) Yazı dili: noktalama işaretleri, c&uuml;mle yapısı gibi kurallara tabi olan resmi dil
@@ -334,7 +348,7 @@ III. K&uuml;lt&uuml;r sosyal kimliğin oluşmasında en başat fakt&ouml;rd&uuml
     - E-) Bireyin &ouml;n kabullerden kurtulması
     <hr />
 1. <strong>Belli bir yazı sistemi d&acirc;hilinde, &ouml;zel kuralların uygulandığı, anlatımlar ve eğitim i&ccedil;in kabul edilmiş, bir &uuml;lkede kullanılan ağızlardan se&ccedil;ilen dile ne ad verilir?</strong>
-    - A-) K&uuml;lt&uuml;r&nbsp;
+    - A-) K&uuml;lt&uuml;r
     - B-) Sosyal
     - C-) Sokak
     - D-) Konuşma
@@ -348,11 +362,11 @@ III. K&uuml;lt&uuml;r sosyal kimliğin oluşmasında en başat fakt&ouml;rd&uuml
     - E-) Toplumsal d&uuml;zenin kuşaklar boyu aktarılmasına&nbsp;imk&acirc;n tanır.
     <hr />
 1. <strong>Aşağıdakilerden hangisi dil kullanımının sosyal boyutunu anlatmaktadır?</strong>
-    - A-) Gayriresmî ortamlarda kullanılan ifadeler, resmî ortamlarda kullanılmayabilir.
-    - B-) Dilin hem yapısı hem de içeriği, taşıdığı kültür tarafından şekillenir.
+    - A-) Gayriresm&icirc; ortamlarda kullanılan ifadeler, resm&icirc; ortamlarda kullanılmayabilir.
+    - B-) Dilin hem yapısı hem de i&ccedil;eriği, taşıdığı k&uuml;lt&uuml;r tarafından şekillenir.
     - C-) Toplumların değerler sistemi, kendi gereksinimleri ve temel varsayımları doğrultusunda oluşur.
-    - D-) İçeriğin zaman, mekân ve bağlama göre farklılık göstermesidir.
-    - **Cevap E-) İletişimde anlatım çeşitliliğini sağlar.**
+    - D-) İ&ccedil;eriğin zaman, mekân ve bağlama g&ouml;re farklılık g&ouml;stermesidir.
+    - **Cevap E-) İletişimde anlatım &ccedil;eşitliliğini sağlar.**
     <hr />
 1. <strong>Yapı ve s&ouml;z dizimi bakımından bir dilden ayrışan, zaman i&ccedil;inde o dilden farklılaşan ve dile en uzak olan kol aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Leh&ccedil;e**
@@ -360,6 +374,13 @@ III. K&uuml;lt&uuml;r sosyal kimliğin oluşmasında en başat fakt&ouml;rd&uuml
     - C-) Ana Dil
     - D-) Yabancı Dil
     - E-) Şive
+    <hr />
+1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n işlevleri arasında <u>yer almaz</u>?</strong>
+    - A-) Toplumun değerlerini bir b&uuml;t&uuml;n h&acirc;line getirir.
+    - **Cevap B-) İdari bir kurumdur.**
+    - C-) Toplumsal d&uuml;zenin kuşaklar boyu aktarılmasına imk&acirc;n tanır.
+    - D-) Sosyal kimliğin oluşmasında en baş fakt&ouml;rd&uuml;r.
+    - E-) Sosyal dayanışmaya temel oluşturur.
     <hr />
 1. <strong>&quot;D&uuml;nya evrensel bir k&ouml;yd&uuml;r.&quot; ifadesi aşağıdaki d&uuml;ş&uuml;n&uuml;rlerden hangisine aittir?</strong>
     - A-) Saussure
@@ -373,7 +394,7 @@ III. K&uuml;lt&uuml;r sosyal kimliğin oluşmasında en başat fakt&ouml;rd&uuml
     - A-) Lasswell&#39;in Genel İletişim Modeli
     - **Cevap B-) Gerbner&#39;in Genel İletişim Modeli**
     - C-) Riley ve Riley Modeli
-    - D-) Suskunluk/Sessizlik Sarmalı Modeli
+    - D-) Suskunluk / Sessizlik Sarmalı Modeli
     - E-) Newcomb&rsquo;un ABX Denge Modeli
     <hr />
 1. <strong>İletişimsel ilişkinin şekillenmesinde ve iletişim s&uuml;recinin oluşmasında t&uuml;m sosyal sistemin etkili olduğunu ileri s&uuml;ren model aşağıdakilerden hangisidir?</strong>
@@ -442,7 +463,7 @@ III. D&uuml;nyada okuma yazma oranının azlığı&nbsp;<br />
     - D-) İnsanlar geniş toplumsal yapılara bağlıdır.
     - **Cevap E-) İletişim salt bireysel bir olgudur.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Shannon ve Weaver&rsquo;ın Enformasyon Kuramında enformasyon fazlalığını g&ouml;steren kavramdır?</strong>
+1. <strong>Aşağıdakilerden hangisi Shannon ve Weaver&rsquo;ın Enformasyon Kuramı&#39;nda enformasyon fazlalığını g&ouml;steren kavramdır?</strong>
     - A-) Entropi
     - **Cevap B-) Redundancy**
     - C-) Feedback
@@ -495,8 +516,14 @@ IV. D D&uuml;zeyi- Enformasyon Sorunları<br />
     - **Cevap D-) Harold Lasswell**
     - E-) Geoerge Gerbner
     <hr />
-1. <strong>Elisabeth Noelle-Neuman tarafından 1974 yılında geliştirilen,&nbsp;genel olarak farklı konular &uuml;zerine toplumun bir kısmının herhangi bir kaygı g&uuml;tmeden&nbsp;fikirlerini beyan edebilmesine karşın diğer kısmının neden sessiz kaldığı sorusu &uuml;zerine&nbsp;temellenen modele ne ad verilir?</strong><br />
-
+1. <strong>Aşağıda verilenlerden hangisi &ouml;zellikle İkinci D&uuml;nya Savaşı sonrası d&ouml;nemde bilimsel y&ouml;ntemlerle&nbsp;kuramsallaştırılan iletişim modellerinden biri <u>değildir</u>?&nbsp;</strong>
+    - A-) Lasswell&rsquo;in Genel İletişim Modeli
+    - **Cevap B-) Eşik Bek&ccedil;iliği Modeli**
+    - C-) Shannon ve Weaver&rsquo;in Enformasyon Modeli
+    - D-) Newcomb&rsquo;un ABX Denge Modeli
+    - E-) Riley ve Riley Modeli
+    <hr />
+1. <strong>Elisabeth Noelle-Neuman tarafından 1974 yılında geliştirilen,&nbsp;genel olarak farklı konular &uuml;zerine toplumun bir kısmının herhangi bir kaygı g&uuml;tmeden&nbsp;fikirlerini beyan edebilmesine karşın diğer kısmının neden sessiz kaldığı sorusu &uuml;zerine&nbsp;temellenen modele ne ad verilir?</strong>
     - A-) Westley ve Maclean&#39;in Aracılanmış İletişim Modeli
     - **Cevap B-) Suskunluk Sarmalı Modeli**
     - C-) Lasswell&rsquo;in Genel İletişim Modeli
@@ -527,7 +554,7 @@ IV. D D&uuml;zeyi- Enformasyon Sorunları<br />
 1. Bu model iletişim s&uuml;recini &ccedil;izgisel şekle d&ouml;n&uuml;şt&uuml;rmekte ve g&ouml;nderici ve alıcı arasına neyin, nasıl iletileceğine karar veren &uuml;&ccedil;&uuml;nc&uuml; &ouml;geyi eklemektedir. Eklenen bu &uuml;&ccedil;&uuml;nc&uuml; &ouml;ge matematiksel modelde iletiyi aktaran araca denk gelmektedir.<br />
 <strong>Tanımı verilen iletişim modeli aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Westley ve Maclean&#39;in Aracılanmış İletişim Modeli**
-    - B-) Newcomb&rsquo;un ABX Denge Modeli&nbsp;
+    - B-) Newcomb&rsquo;un ABX Denge Modeli
     - C-) Suskunluk Sarmalı Modeli
     - D-) Shannon ve Weaver&rsquo;in Enformasyon Modeli
     - E-) Riley ve Riley Modeli
@@ -598,8 +625,8 @@ II. Bireyselliği artırır.<br />
 III. İnsanların hafızalarını g&uuml;&ccedil;lendirir.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri g&ouml;rsel iletişimin &ouml;zelliklerindendir?</strong> 
     - A-) Yalnız I
-    - **Cevap B-) Yalnız II**
-    - C-) I ve II
+    - B-) Yalnız II
+    - **Cevap C-) I ve II**
     - D-) I ve III
     - E-) II ve III
     <hr />
@@ -659,6 +686,14 @@ III. İnsanların hafızalarını g&uuml;&ccedil;lendirir.<br />
     - D-) Bireyselleşme doğal sonucudur.
     - E-) Y&uuml;z y&uuml;ze iletişim temellidir.
     <hr />
+1. .................., &ouml;nce fotoğrafın, sonra da hareketli fotoğraf olarak sinemanın icadıyla b&uuml;y&uuml;k atılım yapmış, televizyon ve sonrasında da bilgisayar ve internet ile egemenliği eline ge&ccedil;irmiştir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    - **Cevap A-) G&ouml;rsel iletişim**
+    - B-) Yazılı iletişim
+    - C-) S&ouml;zl&uuml; iletişim
+    - D-) S&ouml;zs&uuml;z iletişim
+    - E-) Kitlesel iletişim
+    <hr />
 1. Bireyselleşen, yalnızlaşan, belleği zayıflayan insanlar, ......... k&uuml;lt&uuml;r &ccedil;ağında hızın da etkisiyle bilgiyle sahici ilişkisini de kaybetmiştir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) yazılı
@@ -666,6 +701,13 @@ III. İnsanların hafızalarını g&uuml;&ccedil;lendirir.<br />
     - **Cevap C-) g&ouml;rsel**
     - D-) kitlesel
     - E-) toplumsal
+    <hr />
+1. <strong>Bir kurumsal yapıda aynı seviyede olan insanlar arasındaki iletişim şekli aşağıdakilerden hangisidir?</strong>
+    - A-) Dikey iletişim
+    - B-) Y&uuml;zy&uuml;ze iletişim
+    - **Cevap C-) Yatay iletişim**
+    - D-) Kitle iletişimi
+    - E-) Beden dili
     <hr />
 1. I. Belleğin zayıflaması<br />
 II. İnsanların bireyselleşmesi<br />
@@ -685,7 +727,7 @@ III. İnsanların yalnızlaşması<br />
     - E-) Mesajın şahıslar tarafından yanlış iletilmesi
     <hr />
 1. <strong>G&ouml;rsel iletişimin gelişim aşamaları aşağıdakilerden hangisinde doğru olarak sıralanmıştır?&nbsp;</strong>
-    - A-) İnternet- Bilgisayar-Sinema- Televizyon-Fotoğraf&nbsp;
+    - A-) İnternet- Bilgisayar-Sinema- Televizyon-Fotoğraf
     - B-) Sinema- Televizyon-Fotoğraf-İnternet- Bilgisayar
     - C-) Fotoğraf- Sinema- Televizyon-İnternet- Bilgisayar
     - **Cevap D-) Fotoğraf- Sinema- Televizyon-Bilgisayar-İnternet**
@@ -890,6 +932,13 @@ IV. Kullanılan dil<br />
     - **Cevap D-) Yerine ge&ccedil;me işlevi**
     - E-) D&uuml;zenleme işlevi
     <hr />
+1. <strong>Aşağıdakilerden hangisi ailevi ve kişisel olmayan g&uuml;nl&uuml;k ilişkilerin yaşandığı alandır?</strong>
+    - A-) Kamusal Alan
+    - **Cevap B-) Sosyal Alan**
+    - C-) Kişisel Alan
+    - D-) Mahrem Alan
+    - E-) Genel Alan
+    <hr />
 ## Unite 6
 1. <strong>Bir şeyi duyurmak veya tanıtmak i&ccedil;in kurum tarafından hazırlanan, kalabalığın g&ouml;rebileceği yere asılmış resimli duvar ilanları olarak kullanılan kurum i&ccedil;i iletişim ara&ccedil;larına ne ad verilir?</strong>
     - A-) B&uuml;ltenler
@@ -951,13 +1000,27 @@ V. Toplantılar ve y&uuml;z y&uuml;ze g&ouml;r&uuml;şmeler<br />
 1. I. G&ouml;rev sınırları netleşir.<br />
 II. Geri bildirim kolaylaşır.<br />
 III. Yanlış anlaşılmalar en az d&uuml;zeye iner.<br />
-IV. Otorite merkezileşir.<br />
+IV. Otorite merkez&icirc;leşir.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri Smith&rsquo;in kurum i&ccedil;i iletişimin iyileştirilmesinin &ouml;nemini belirttiği nedenler arasında yer alır?</strong> 
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I, II ve III**
     - D-) I, III ve IV
     - E-) II, III ve IV
+    <hr />
+1. <strong>Kurumun bağımlı olduğu gruplarla ilişkilerini d&uuml;zenlemek amacıyla i&ccedil;sel iletişim y&ouml;ntemlerini etkin ve verimli bir şekilde kullanan idari s&uuml;re&ccedil; aşağıdakilerden hangisidir?</strong>
+    - A-) Halkla İlişkiler
+    - **Cevap B-) Kurum İ&ccedil;i İletişim**
+    - C-) İkna
+    - D-) Dikey İletişim
+    - E-) Yatay İletişim
+    <hr />
+1. <strong>Aşağıdakilerden hangisi orta kademe y&ouml;netici gereksinimlerinden biri <u>değildir</u>?</strong> 
+    - A-) Denetleme yetkileri
+    - B-) Denetleme otoritesinin sınırları
+    - C-) Sendika ilişkileriyle ilgili politikalar
+    - **Cevap D-) &Ouml;rg&uuml;t&uuml;n ge&ccedil;mişi**
+    - E-) &Uuml;st y&ouml;netim ve b&ouml;l&uuml;mlerle ilişkiler
     <hr />
 1. I. İş s&uuml;recine ilişkin y&ouml;nlendirici direktifler vermek<br />
 II. Kurumsal s&uuml;re&ccedil;ler ve uygulamalar hakkında bilgi sahibi olmak<br />
@@ -978,7 +1041,7 @@ IV. Merkez&icirc;leşme derecesi d&uuml;ş&uuml;k<br />
     - A-) I ve IV
     - B-) II ve IV
     - **Cevap C-) I,II ve III**
-    - D-) I,II ve IV&nbsp;
+    - D-) I,II ve IV
     - E-) I,II, III ve IV
     <hr />
 1. <strong>Aşağıdakilerden hangisi Merkez&icirc; Model&#39;den sonra merkeziyet&ccedil;iliğe en &ccedil;ok yol a&ccedil;an modellerden biridir?</strong> 
@@ -1052,9 +1115,9 @@ IV. Merkez&icirc;leşme derecesi d&uuml;ş&uuml;k<br />
     - **Cevap E-) Y&ouml;neticilerin &ccedil;alışanlar &uuml;zerindeki yetkilerini artırmak.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi kurum i&ccedil;i iletişimin işlevleri arasında <u>yer almaz</u>?</strong>
-    - A-) İkna etme ve etkileme&nbsp;
-    - B-) Bilgi sağlama&nbsp;
-    - C-) Emredici ve &ouml;ğretici iletişim kurma&nbsp;
+    - A-) İkna etme ve etkileme
+    - B-) Bilgi sağlama
+    - C-) Emredici ve &ouml;ğretici iletişim kurma
     - **Cevap D-) Paydaş kurumlarla iletişim kurma**
     - E-) Birleştirme ve eş g&uuml;d&uuml;m sağlama
     <hr />
@@ -1091,7 +1154,7 @@ IV. Merkez&icirc;leşme derecesi d&uuml;ş&uuml;k<br />
 1. <strong>&nbsp;Orta kademe y&ouml;netici gereksinimleri&nbsp; arasında aşağıdakilerden hangisi&nbsp; <u>yer almaz</u>?</strong>
     - **Cevap A-) İş g&uuml;venliği**
     - B-) Denetleme yetkileri
-    - C-) Denetleme otoritesinin sınırları&nbsp;
+    - C-) Denetleme otoritesinin sınırları
     - D-) &Uuml;st y&ouml;netim ve b&ouml;l&uuml;mlerle ilişkiler
     - E-) Sendika ilişkileriyle ilgili politikaları
     <hr />
@@ -1114,7 +1177,7 @@ IV. Merkez&icirc;leşme derecesi d&uuml;ş&uuml;k<br />
     - **Cevap A-) Televizyon**
     - B-) Fotoğraf
     - C-) Gazete
-    - D-) Radyo
+    - D-) Faks
     - E-) Mektup
     <hr />
 1. <strong>Sinemanın tarihsel gelişimiyle ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
@@ -1486,6 +1549,13 @@ III. Amacı bilgiyi yaymaktır.<br />
     - D-) Az araştırmaya dayanır.
     - **Cevap E-) İletişimin işleyişi &ccedil;ift y&ouml;nl&uuml;d&uuml;r.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi Basın Ajanslığı Modeli&rsquo;nin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) İletişimin işleyişi tek y&ouml;nl&uuml;d&uuml;r.
+    - B-) &Ouml;rg&uuml;t ve kamuları arasında karşılıklı anlayış &ouml;nemli değildir.
+    - C-) İyi niyete ve d&uuml;r&uuml;stl&uuml;ğe her zaman yer verilmez.
+    - D-) Abartılar &uuml;zerine kurulmuştur.
+    - **Cevap E-) &Ccedil;ok araştırmaya dayanır.**
+    <hr />
 1. ............................, kişi veya kuruluşların ama&ccedil;larını ger&ccedil;ekleştirmesine yardımcı olan, kimi zaman t&uuml;ketici, kimi zaman dağıtımcı ve &ccedil;alışanlar gibi kurumun yapısına g&ouml;re değişkenlik g&ouml;steren hedef kitlelerle ger&ccedil;ekleştirilen iletişim y&ouml;netimidir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) Halkla İlişkiler**
@@ -1555,7 +1625,7 @@ III. Amacı bilgiyi yaymaktır.<br />
     - A-) Yazılı ara&ccedil;lar
     - B-) S&ouml;zl&uuml; ara&ccedil;lar
     - C-) Basınla ilişkilerde kullanılan ara&ccedil;lar
-    - D-) Kuruluş dışı diğer ara&ccedil;lar&nbsp;
+    - D-) Kuruluş dışı diğer ara&ccedil;lar
     - **Cevap E-) Test ara&ccedil;lar**
     <hr />
 1. <strong>Aşağıdakilerden hangisi halkla ilişkiler uygulayıcılarının rollerinden biri olan &ldquo;operasyonel rol&uuml;n&rdquo; &ouml;zellikleri i&ccedil;inde <u>yer almaz</u>?</strong> 
@@ -1774,7 +1844,7 @@ III. Se&ccedil;im gezileri<br />
 1. Yasal olarak herhangi bir dayanakları olmayan, ancak belli ama&ccedil;lar i&ccedil;in bir araya gelen kişilerin oluşturdukları gruplara ...................... adı verilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Sivil Toplum &Ouml;rg&uuml;tleri
-    - B-) Sendika&nbsp;
+    - B-) Sendika
     - **Cevap C-) Baskı Grupları**
     - D-) Siyasal Partiler
     - E-) H&uuml;k&ucirc;met
@@ -1894,6 +1964,14 @@ III. Farklı &ouml;zelliklere sahip bireylerde değişik etkilerin olacağının
     - C-) Televizyon, video, sinema, reklamlar, yazılı basın, internet vb. ortamlardaki mesajlara ulaşarak bunları &ccedil;&ouml;z&uuml;mleme, değerlendirme ve iletme yeteneği elde eder.
     - D-) Yazılı, g&ouml;rsel, işitsel medyaya y&ouml;nelik eleştirel bakış a&ccedil;ısı kazanır.
     - E-) Mesajların oluşturulmasına ve analizine d&ouml;n&uuml;k olarak cevap bulmaktan-soru sorma s&uuml;recine doğru bir değişimi g&uuml;ndeme getirir.
+    <hr />
+1. &ldquo;Medya ile eğitim&rdquo; ile &ldquo;medya eğitimi&rdquo; farklı şeylerdir. İlkinde .................. medyanın egemenliği altındayken ikincisinde .................... medyanın &ccedil;alışma mekanizmasını incelemektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) eğitim, medya
+    - B-) medya, eğitim
+    - C-) &ouml;ğretmen, medya
+    - **Cevap D-) &ouml;ğretmen, &ouml;ğretmen**
+    - E-) medya, &ouml;ğretmen
     <hr />
 1. <strong>K&uuml;lt&uuml;r end&uuml;strisi kavramı aşağıdakilerden hangisi ya da hangilerine aittir?</strong>
     - A-) Herman ve Chomsky
@@ -2077,6 +2155,14 @@ III. 1990&rsquo;larda SSCB&rsquo;nin dağılması sonucu g&uuml;&ccedil; dengesi
     - **Cevap D-) tanıtım - denetleme**
     - E-) denetim - g&ouml;zetim
     <hr />
+1. ......... iletişim ise; &uuml;lkelerin b&ouml;lgesel (AB- Avrupa Birliği, İKO-İslam Konferansı &Ouml;rg&uuml;t&uuml;, KEİ: Karadeniz Ekonomik İş Birliği, NAFTA- Kuzey Amerika &Uuml;lkeleri Serbest Ticaret Anlaşması, NATO) ve k&uuml;resel d&uuml;zeyde (NATO- Kuzey Atlantik Antlaşması Teşkilatı, BM-Birleşmiş Milletler) &ouml;rg&uuml;tlenerek y&uuml;r&uuml;tt&uuml;kleri ilişkileri kapsar.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Ulusal
+    - B-) Tek y&ouml;nl&uuml;
+    - C-) &Ccedil;ift y&ouml;nl&uuml;
+    - **Cevap D-) &Ccedil;ok y&ouml;nl&uuml;**
+    - E-) Uluslararası
+    <hr />
 1. <strong>&ldquo;Varoluşsal boşluk&rdquo;tan s&ouml;z eden psikolog aşağıdakilerden hangisidir?</strong> 
     - A-) Clark
     - **Cevap B-) Frankl**
@@ -2104,7 +2190,7 @@ III. Disney<br />
 1. Bu ilişki bi&ccedil;imi, g&uuml;nl&uuml;k iletişim faaliyetlerini idealleştiren değerler sistemini, medya profesyonelizmini, profesyonel ideolojiyi ve medya politikasını kapsarken, aynı zamanda &ouml;rg&uuml;tsel pratik bi&ccedil;imlerini ve bu pratiklerin varsayımlarını da beraberinde getirir.<br />
 <strong>Yukarıda a&ccedil;ıklaması &nbsp;verilen uluslararası iletişim d&uuml;zenindeki ilişki bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İdeolojik destek**
-    - B-) İletişim teknolojisinin &uuml;r&uuml;n &uuml;retimi&nbsp;
+    - B-) İletişim teknolojisinin &uuml;r&uuml;n &uuml;retimi
     - C-) İletişim teknolojisinin &uuml;r&uuml;n dağıtımı
     - D-) İletişim teknolojisi ve ilişkileri
     - E-) Ekonomik İlişkiler
@@ -2281,6 +2367,14 @@ IV. Enformasyon hizmetleri<br />
     - D-) Profesyonel kurgulanmış i&ccedil;erik
     - E-) Tek y&ouml;nl&uuml; konuşma
     <hr />
+1. Genel anlamda ..................................., bilginin egemen olduğu, demokratik, rasyonel, &ouml;zg&uuml;rl&uuml;k&ccedil;&uuml; bir toplum yapısı olarak tanımlanabilir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) enformasyon toplumu**
+    - B-) bilgi toplumu
+    - C-) ağ toplumu
+    - D-) end&uuml;striyel toplum
+    - E-) iletişim toplumu
+    <hr />
 1. 2004 yılında geliştirilen .............. internet kullanıcılarını pasif kullanıcılardan aktif kullanıcılara d&ouml;n&uuml;şt&uuml;rm&uuml;şt&uuml;r.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;&nbsp;</strong>
     - A-) Web 1.0
@@ -2297,8 +2391,7 @@ IV. Enformasyon hizmetleri<br />
     - D-) Web 3.0
     - E-) Web 4.0
     <hr />
-1. <strong>Bilginin egemen olduğu, demokratik, rasyonel, &ouml;zg&uuml;rl&uuml;k&ccedil;&uuml; toplum yapısına ne ad verilir?</strong><br />
-
+1. <strong>Bilginin egemen olduğu, demokratik, rasyonel, &ouml;zg&uuml;rl&uuml;k&ccedil;&uuml; toplum yapısına ne ad verilir?</strong>
     - A-) Modern toplum
     - B-) Sınıfsız toplum
     - C-) Sanayileşmiş toplum
@@ -2429,8 +2522,8 @@ III. Teleolojik etik<br />
     - A-) Deontolojik Etik Model
     - **Cevap B-) Teleolojik Etik Model**
     - C-) Erdem Etik
-    - D-) Betimleyici etik
-    - E-) Meta etik
+    - D-) Betimleyici Etik
+    - E-) Meta Etik
     <hr />
 1. <strong>Aşağıdakilerden hangisi halkla ilişkiler mesleğinin sorumluluk alanlarından biri <u>değildir</u>?</strong>
     - A-) Halkla İlişkilerin Kamusal Sorumluluğu

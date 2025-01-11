@@ -92,12 +92,35 @@
     - D-) Sayısal u&ccedil;urum
     - **Cevap E-) Yeni teknolojik gelişmeler**
     <hr />
+1. ............................. kavramı en genel ifadeyle; gazete, dergi, kitap, broş&uuml;r, afiş vb. yayınları bilgisayar ortamında planlayıp tasarlayarak yayıma hazırlama ya da yine bu ortamda &ccedil;oğaltma ya da yayımlama s&uuml;recidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Geleneksel Medya Yayıncılığı
+    - B-) Yeni Medya Yayıncılığı
+    - **Cevap C-) Masa&uuml;st&uuml; Yayıncılık**
+    - D-) Bilgisayarlı Yayıncılık
+    - E-) Software Yayıncılık
+    <hr />
+1. Geleneksel medyanın kimliği belirsiz yığınlara, kitlelere hitap etmesine karşın, yeni medya doğrudan bireyleri hedef almaktadır.<br />
+<strong>C&uuml;mlesinde a&ccedil;ıklaması verilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) Eş zamansızlık
+    - B-) &Ouml;l&ccedil;&uuml;lebilirlik
+    - C-) Hareketlilik
+    - **Cevap D-) Kitlesizleştirme**
+    - E-) Etkileşim
+    <hr />
 1. <strong>&nbsp;İşletmeler a&ccedil;ısından aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık avantajlarından biridir?</strong>
     - A-) Dijital yayınlara ulaşma, iki taraflı iletişim
     - B-) &Ccedil;ağdaş bilgisayar teknolojilerinden yararlanma
     - **Cevap C-) Giderlerden, baskı maliyetlerinden, iş g&uuml;c&uuml;nden ve zamandan tasarruf**
     - D-) Kaliteli baskı, serili &uuml;retim
     - E-) T&uuml;keticiler ile yakından temasta olma
+    <hr />
+1. <strong>T&uuml;keticiler a&ccedil;ısından aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık avantajlarındandır?</strong>
+    - **Cevap A-) İstenilen zamanda ve yerde dijital yayınlara ulaşma, detaylı bilgi, arşivleme**
+    - B-) &Ccedil;ağdaş bilgisayar teknolojilerinden yararlanma
+    - C-) Giderlerden, baskı maliyetlerinden, iş g&uuml;c&uuml;nden ve zamandan tasarruf
+    - D-) Kaliteli baskı, serili &uuml;retim
+    - E-) Başkaları ile yakından temasta olma
     <hr />
 1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık i&ccedil;in gerekli olan ara&ccedil;lardan biri <u>değildir</u>?</strong>
     - A-) Kişisel bilgisayar
@@ -231,6 +254,20 @@ III. Tasarım y&uuml;zeyine ton ve ritm verir.<br />
     - D-) Adobe Premiere
     - **Cevap E-) 3DS Max**
     <hr />
+1. <strong>Aşağıdakilerden hangisi metinler &uuml;zerinde en sade ve temel tasarıma olanak tanıyan kelime işlem programlarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Wordpad
+    - B-) World
+    - C-) Write
+    - **Cevap D-) Adobe Illustrator**
+    - E-) Notepad
+    <hr />
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılıkta kullanılan yazılım t&uuml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Metin Tasarım Yazılımı
+    - B-) Ses Tasarım Yazılımı
+    - C-) Grafik Tasarım Yazılımı
+    - **Cevap D-) Java Yazılımı**
+    - E-) Animasyon Tasarım Yazılımı
+    <hr />
 1. <strong>Dijital g&ouml;sterge ve grafik tasarımında g&ouml;r&uuml;nt&uuml;n&uuml;n oluşmasına olanak sağlayan en k&uuml;&ccedil;&uuml;k g&ouml;r&uuml;nt&uuml; birimi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Pixel**
     - B-) Tipografi
@@ -335,6 +372,13 @@ III.&nbsp;Ofset baskı<br />
     - **Cevap D-) 8**
     - E-) 10
     <hr />
+1. <strong>Aşağıdakilerden hangisi belge oluşturma aşamalarından biri <u>değildir</u>?</strong>
+    - A-) Şablon Belirlemek
+    - B-) Sayfa Boyutu
+    - C-) Yerleşim D&uuml;zeni
+    - **Cevap D-) Yazı Tipi Tercihleri**
+    - E-) Metin D&uuml;zeni
+    <hr />
 1. <strong>Masa&uuml;st&uuml; yayımcılıkta belge oluşturulduktan sonra aşağıdaki aşamalardan hangisine ge&ccedil;ilmektedir?</strong>
     - A-) Şablon belirleme
     - B-) Sayfa boyutu
@@ -347,7 +391,7 @@ III.&nbsp;Ofset baskı<br />
     - B-) Tasarım - Analiz - Uygulama - Geliştirme&nbsp;- Değerlendirme
     - C-) Analiz - Geliştirme - Tasarım - Uygulama - Değerlendirme
     - D-) Tasarım - Uygulama - Geliştirme&nbsp;- Değerlendirme&nbsp;- Analiz
-    - E-) Tasarım - Uygulama - Değerlendirme&nbsp;- Analiz&nbsp;- Geliştirme&nbsp;
+    - E-) Tasarım - Uygulama - Değerlendirme&nbsp;- Analiz&nbsp;- Geliştirme
     <hr />
 1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayımcılık geliştirme s&uuml;recinin tasarım aşamasında g&ouml;rev alan kişilerin sahip olması gereken yeterliklerden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;&ouml;z&uuml;mleri g&ouml;rselleştirme
@@ -455,14 +499,28 @@ IV. Farklı renk kullanma<br />
     - E-) Beyaz zemin &uuml;zerine kırmızı renk yazı
     <hr />
 1. <strong>Yazıyı oluşturan unsurların her bir b&ouml;l&uuml;m&uuml;ne verilen isim aşağıdakilerden hangisidir?</strong>
-    - A-) Grafik&nbsp;
+    - A-) Grafik
     - **Cevap B-) Metin**
     - C-) Kelime
     - D-) Sayı
     - E-) Tablo
     <hr />
+1. <strong>Aşağıdakilerden hangisi metinsel bir &ouml;zellik <u>değildi</u>r?</strong> 
+    - A-) Yazı tipi kategorisi
+    - B-) Yazı tipi boyutu
+    - **Cevap C-) Metin kutusu ekleme**
+    - D-) Sayfa yerleşimi
+    - E-) Vurgulama
+    <hr />
+1. <strong>Metinlerde her bir satırın başlangı&ccedil; ve bitiş noktalarının dağınık h&acirc;lde olduğu metin hizalama t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) Serbest hizalama
+    - B-) Sağa hizalama
+    - C-) Sola hizalama
+    - D-) İki yana hizalama
+    - **Cevap E-) Ortaya hizalama**
+    <hr />
 1. <strong>&nbsp;Kesintisiz bir s&uuml;reci g&ouml;stermek i&ccedil;in kullanılan SmartArt grafik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) &nbsp;Matris&nbsp;
+    - A-) &nbsp;Matris
     - B-) İşlem
     - C-) Liste
     - **Cevap D-) D&ouml;ng&uuml;**
@@ -480,9 +538,10 @@ IV. Farklı renk kullanma<br />
     - B-) Grafikler
     - C-) Şekiller
     - **Cevap D-) Word**
-    - E-) SmartArt grafikleri&nbsp;
+    - E-) SmartArt grafikleri
     <hr />
-1. &nbsp; I.&nbsp;Metnin puntosunu&nbsp;b&uuml;y&uuml;tmeII. Altını &ccedil;izme<br />
+1. &nbsp; I.&nbsp;Metnin puntosunu&nbsp;b&uuml;y&uuml;tme<br />
+II. Altını &ccedil;izme<br />
 III. Kalın yazma<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri vurgulama yapılırken kullanılanlar arasında yer almaktadır?</strong>
     - A-) Yalnız I
@@ -583,6 +642,13 @@ III. Kalın yazma<br />
     - C-) Yazım &ouml;ğelerini belirleme
     - **Cevap D-) Bilgileri edinme**
     - E-) Tasarım işlemlerini ger&ccedil;ekleştirme
+    <hr />
+1. <strong>Publisher 2016 programında broş&uuml;r yazdırmak i&ccedil;in hangi sekme kullanılır?</strong> 
+    - A-) Postalar
+    - B-) Ekle
+    - C-) Giriş
+    - **Cevap D-) Dosya**
+    - E-) Sayfa Tasarımı
     <hr />
 1. I.&nbsp;Kurum, kuruluş ya da birimlerin reklamlarını yapmak<br />
 II. Bir &uuml;r&uuml;n veya hizmet satmaya zorlamak<br />
@@ -721,6 +787,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - **Cevap D-) GOM Player**
     - E-) GIMP
     <hr />
+1. <strong>Aşağıda iletişimsel işlevlerine g&ouml;re ayrılan g&ouml;rsel t&uuml;rlerinden hangisi genellikle estetik, mizah veya motivasyonel ama&ccedil;lar i&ccedil;in kullanılmaktadır?</strong>
+    - A-) Temsili
+    - B-) A&ccedil;ıklayıcı
+    - C-) Nimonik
+    - D-) &Ouml;rg&uuml;tleyici
+    - **Cevap E-) Dekoratif**
+    <hr />
 ## Unite 7
 1. <strong>Geleneksel y&ouml;ntemlerle yapılan ve kare kare &ccedil;izilen resimlerin art arda g&ouml;sterilmesiyle oluşturulan animasyon t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İki boyutlu**
@@ -805,6 +878,13 @@ III.&nbsp;Eğitim, sağlık, ticaret, ulaşım, eğlence ve iletişim programlar
     - **Cevap C-) Ctrl + T**
     - D-) Shift + Enter
     - E-) Alt + T
+    <hr />
+1. <strong>Reklam sekt&ouml;r&uuml;nde yaygın bir kullanım alanı olan, kod desteği (script) ve fizik kurallarına uygun iskeletleştirme (rigging) ara&ccedil;ları sunan 3 boyutlu animasyon hazırlama programı aşağıdakilerden hangisidir?</strong>
+    - A-) Adobe Flash
+    - B-) 3D Studio Max
+    - C-) Adobe Edge Animate
+    - **Cevap D-) Maya**
+    - E-) Adobe Photoshop
     <hr />
 1. <strong>Adobe Edge Animate programında nesnelerin hangi saniyede harekete başladığının ve hangi saniyede hareketinin bittiğinin belirlendiği panel aşağıdakilerden hangisidir?</strong>
     - A-) Design Panel
@@ -1044,6 +1124,13 @@ III. K&acirc;ğıt t&uuml;r&uuml;<br />
     - D-) D&uuml;zenleme
     - E-) Hizalama
     <hr />
+1. <strong>&nbsp;Bir tabloda &ldquo;Delete Rows&rdquo; komutu ile hangi işlem yapılır?</strong>
+    - **Cevap A-) Satır silinir**
+    - B-) S&uuml;tun silinir
+    - C-) Satır eklenir
+    - D-) S&uuml;tun eklenir
+    - E-) Tablo silinir
+    <hr />
 1. <strong>Scribus&rsquo;ta belgeye herhangi bir nesne eklendiğinde nesne ile ilgili ayarları yapmak i&ccedil;in aşağıdakilerden hangisi takip edilir?</strong>
     - **Cevap A-) Pencereler / &Ouml;zellikler**
     - B-) Sayfa / G&ouml;r&uuml;nt&uuml;le
@@ -1201,6 +1288,13 @@ IV. Metin d&uuml;zenleme<br />
     - D-) II, III ve IV
     - **Cevap E-) I, II, III ve IV**
     <hr />
+1. <strong>Indesign 6 programında metinlerin d&uuml;zenlenmesi ile ilgili olarak aşağıdakilerden hangisi&nbsp;</strong><strong><u>yanlıştır</u>?</strong>
+    - A-) Indesign Program&rsquo;ında işlem ger&ccedil;ekleştirmek i&ccedil;in &ccedil;er&ccedil;evelere ihtiya&ccedil; vardır.
+    - B-) &Ccedil;er&ccedil;eveler sayesinde belgenin i&ccedil;ine metin, resim veya video gibi &ouml;geler eklenip d&uuml;zenlenebilmektedir.
+    - C-) Metin işlemleri ger&ccedil;ekleştirilirken boş olarak gelen belgeye &ouml;nce metin &ccedil;er&ccedil;evesi eklenmesi gerekmektedir.
+    - D-) Yazma alanı oluşturulduktan sonra Se&ccedil;im Aracı kullanılarak yazı alanı istenildiği gibi bi&ccedil;imlendirilebilir.
+    - **Cevap E-) Yazma aracı diğer kelime işleme programlarında kullanılan metin kutusu &ouml;zelliği mantığından farklı &ccedil;alışmaktadır.**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi e-kitap tanımlarında ortaya &ccedil;ıkan sınıflandırmalardan biri <u>değildir</u>?</strong> 
     - A-) E-kitaplar ekranı bulunan herhangi bir ortamda izlenebilen elektronik i&ccedil;eriklerdir.
     - B-) Bir metnin e-kitap olabilmesi i&ccedil;in metin zenginleştirici olarak adlandırılan yazılımların i&ccedil;inde bulunması gerekir.
@@ -1352,6 +1446,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Microsoft Publisher
     - D-) PageMaker
     - **Cevap E-) PrintDesign**
+    <hr />
+1. <strong>&nbsp;InDesign programı yardımıyla yollara, şekillere, metin &ccedil;er&ccedil;evelerine veya metin ana hatlarına &ccedil;izgi ayarları uygulanmasına imk&acirc;n tanıyan ara&ccedil;ların bulunduğu panel aşağıdakilerden hangisidir?</strong>
+    - A-) Renk
+    - B-) Bağlar
+    - C-) Katmanlar
+    - D-) Şekiller
+    - **Cevap E-) Kontur**
     <hr />
 1. <strong>InDesign programında yollara, şekillere, metin &ccedil;er&ccedil;evelerine veya metin ana hatlarına &ccedil;izgi eklemek i&ccedil;in aşağıdakilerden hangisi takip edilir?&nbsp;</strong>
     - **Cevap A-) Pencere / Kontur**
@@ -1565,6 +1666,14 @@ III. Dijital Filigran<br />
     - C-) Yazı tipi değiştirilebilir.
     - D-) Metin akıcılığını desteklemektedir.
     - **Cevap E-) Resim dosyaları i&ccedil;erebilir.**
+    <hr />
+1. Yazar adı, telif hakkı, renk uzayı, &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;, anahtar kelimeler gibi standart bilgiler e-kitap ile ilgili &hellip;&hellip;&hellip;&hellip;.. verilerdir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - A-) matematiksel
+    - **Cevap B-) meta**
+    - C-) sayısal
+    - D-) metinsel
+    - E-) s&ouml;zel
     <hr />
 1. <strong>Google Chrome web tarayıcısı i&ccedil;in geliştirilen Epub formatındaki e-kitapları bir yazılıma gerek kalmadan, tarayıcıdan okumaya imk&acirc;n tanıyan yazılım aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Readium**

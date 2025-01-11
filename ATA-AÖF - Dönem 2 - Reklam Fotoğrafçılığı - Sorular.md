@@ -36,84 +36,96 @@
     - D-) Matthew Brady
     - E-) Louis Jacques Mande Daguerre
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğraf&ccedil;ılığın &ouml;nc&uuml;leri arasında <u>yer almaz</u>?</strong>&nbsp; &nbsp;
+1. <strong>Aşağıdakilerden hangisi fotoğraf&ccedil;ılığın &ouml;nc&uuml;leri arasında <u>yer almaz</u>?</strong>&nbsp; 
     - A-) Niepce
     - B-) Daguerre
     - C-) Talbot
     - **Cevap D-) Avedon**
     - E-) Andre Adolphe-Eugene Disderi
     <hr />
-1. <strong>Niepce ilk fotoğrafı oluştururken ka&ccedil; dakikalık bir pozlama yapmak durumunda kalmıştır?</strong><br />
-
-    - A-) 3&nbsp;
-    - B-) 20&nbsp;
+1. <strong>Niepce ilk fotoğrafı oluştururken ka&ccedil; dakikalık bir pozlama yapmak durumunda kalmıştır?</strong>
+    - A-) 3
+    - B-) 20
     - **Cevap C-) 480&nbsp;**
-    - D-) 180&nbsp;
-    - E-) 60&nbsp;
+    - D-) 180
+    - E-) 60
     <hr />
-1. <strong>Aşağıdakilerden hangisi Daguerretype&rsquo;ın &ouml;zelliklerinden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Daguerretype&rsquo;ın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Ekonomik olarak pahalı olması
     - **Cevap B-) Herkes tarafından satın alınabilir olması**
     - C-) Kırılgan olması
     - D-) Tek kopya olması
     - E-) M&uuml;cevher gibi kutularda saklanması
     <hr />
-1. <strong>Aşağıdakilerden hangisi Talbot&rsquo;un buluşunun adlandırılışını tanımlamaktadır?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Talbot&rsquo;un buluşunun adlandırılışını tanımlamaktadır?</strong>
     - A-) G&uuml;neş yazısı - Heliography
     - B-) Cyonatype
     - C-) Pinhole
     - D-) Daguerretype
     - **Cevap E-) Calotype - G&uuml;zel yazı**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Talbot&rsquo;un buluşunun en &ouml;nemli &ouml;zelliğidir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Talbot&rsquo;un buluşunun en &ouml;nemli &ouml;zelliğidir?</strong>
     - A-) Ucuz olması
     - **Cevap B-) &Ccedil;oğaltılabilir bir yapıya sahip olması**
     - C-) &Ccedil;ok keskin hatlara sahip olmaması
     - D-) Buluşun İngiltere&rsquo;de ger&ccedil;ekleşmiş olması
     - E-) Talbot ve Daguerre ile aynı d&ouml;nemde olması
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğraf s&ouml;zc&uuml;ğ&uuml;n&uuml; ilk kez kullanan kişidir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi fotoğraf s&ouml;zc&uuml;ğ&uuml;n&uuml; ilk kez kullanan kişidir?</strong>
     - A-) Talbot
     - B-) Daguere
     - **Cevap C-) Herschel**
     - D-) Niepce
     - E-) Nadar
     <hr />
-1. <strong>Fotoğraf tarihinin en &ccedil;ok bilinen, reklam/tanıtım &ndash; satış stratejisi olan &ldquo;Siz deklanş&ouml;re basın gerisini biz halledelim&rdquo; sloganını hangi fotoğraf firması geliştirmiştir?</strong><br />
-
+1. <strong>Fotoğraf tarihinin en &ccedil;ok bilinen, reklam/tanıtım &ndash; satış stratejisi olan &ldquo;Siz deklanş&ouml;re basın gerisini biz halledelim&rdquo; sloganını hangi fotoğraf firması geliştirmiştir?</strong>
     - **Cevap A-) Kodak**
     - B-) Fuji
     - C-) Nikon
     - D-) Canon
     - E-) Sony
     <hr />
-1. <strong>Fotoğrafın en yoğun bir bi&ccedil;imde kitlelerce kullanımına y&ouml;nelik olarak geliştirilip, 1 dolar karşılığında piyasaya s&uuml;r&uuml;len model hangisidir?</strong><br />
-
+1. <strong>Fotoğrafın en yoğun bir bi&ccedil;imde kitlelerce kullanımına y&ouml;nelik olarak geliştirilip, 1 dolar karşılığında piyasaya s&uuml;r&uuml;len model hangisidir?</strong>
     - A-) No:1
     - B-) No:2
     - C-) No:3
     - D-) No:4
     - **Cevap E-) Brownie**
     <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;zde 35 mm fotoğraf makinesi olarak adlandırılan kamera tipinin mucidi kimdir?</strong><br />
-
+1. <strong>G&uuml;n&uuml;m&uuml;zde 35 mm fotoğraf makinesi olarak adlandırılan kamera tipinin mucidi kimdir?</strong>
     - **Cevap A-) Oscar Barnack**
     - B-) Lumiere
     - C-) Alvin Langdon Coburn
     - D-) Asahi Kogaku Goshi Kaisha
     - E-) Nippon Kogaku
     <hr />
-1. <strong>Fotoğrafın &ccedil;ağdaş bir tarih anlatıcısı olmasını sağlayan &ouml;zellik aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi bi&ccedil;imsel olarak fotoğraf g&ouml;stergelerinden biri <u>değildir</u>?</strong>
+    - A-) G&ouml;rmek
+    - B-) Hissetmek
+    - C-) Karar vermek
+    - D-) Kaydetmek
+    - **Cevap E-) Propaganda yapmak**
+    <hr />
+1. <strong>Fotoğrafın &ccedil;ağdaş bir tarih anlatıcısı olmasını sağlayan &ouml;zellik aşağıdakilerden hangisidir?</strong>
     - A-) Resim sanatının al&ccedil;ak g&ouml;n&uuml;ll&uuml; bir hizmetk&acirc;rı olması
     - B-) Yazı ile birlikte kullanılabilir olması
     - **Cevap C-) G&uuml;ncel hayatın kameraların tanıklığında yaşanması**
     - D-) Kameraların hafiflemesi
     - E-) Cep telefonlarında kamera kullanımı
+    <hr />
+1. <strong>Fotoğraf tarihinde se&ccedil;im stratejisi ama&ccedil;lı lider tanıtım fotoğrafını ilk olarak aşağıdakilerden hangisi &ccedil;ekmiştir?</strong>
+    - A-) Robert Capa &ndash; General Eisenhower
+    - B-) Alberto Korda - Che
+    - C-) Richard Avedon &ndash; Bill Clinton
+    - **Cevap D-) Matthew Brady &ndash; Abraham Lincoln**
+    - E-) Ara G&uuml;ler &ndash; Recep Tayyip Erdoğan
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bi&ccedil;imsel olarak fotoğrafın tanımlarından biri <u>değildir</u>?</strong>
+    - A-) Fotoğraf ışığı g&ouml;rmek, yorumlamak ve kullanmaktır.
+    - B-) Fotoğraf hissetmektir.
+    - C-) Fotoğraf karar vermektir.
+    - **Cevap D-) Fotoğraf haberdir.**
+    - E-) Fotoğraf g&ouml;rmektir.
     <hr />
 1. <strong>1889 yılında &quot;Siz deklanş&ouml;re basın, gerisini biz hâlledelim.&quot; sloganı ile piyasaya fotoğraf makinesi&nbsp;s&uuml;ren ve fotoğrafın demokratik bir&nbsp;sanat ve t&uuml;ketim aracı hâline gelmesinde etkin rol oynayan firmanın adı aşağıdakilerden hangisidir?</strong>
     - A-) Sony
@@ -172,71 +184,63 @@
     - D-) Dar a&ccedil;ılı objektif
     - E-) Geniş a&ccedil;ılı objektif
     <hr />
-1. <strong>Aşağıdaki fotoğraf makinası t&uuml;rlerinden hangisinde obt&uuml;rat&ouml;r olarak ayna <u>kullanılmaz</u>?</strong><br />
-
+1. <strong>Aşağıdaki fotoğraf makinası t&uuml;rlerinden hangisinde obt&uuml;rat&ouml;r olarak ayna <u>kullanılmaz</u>?</strong>
     - A-) Dijital Tek Objektifli Refleks Fotoğraf Makinaları
     - B-) Değişken Objektifli Refleks Dijital Fotoğraf Makinaları
     - **Cevap C-) Aynasız Değişken Objektifli Refleks Dijital Fotoğraf Makinaları**
     - D-) Film Kullanılan Fotoğraf Makinaları
     - E-) Aynalı Değişken Objektifli Refleks Dijital Fotoğraf Makinaları
     <hr />
-1. <strong>Fotoğraflanması istenen bir kişiyi ezik ve komik g&ouml;stermek i&ccedil;in aşağıdaki objektiflerden hangisi kullanılmalıdır?</strong><br />
-
+1. <strong>Fotoğraflanması istenen bir kişiyi ezik ve komik g&ouml;stermek i&ccedil;in aşağıdaki objektiflerden hangisi kullanılmalıdır?</strong>
     - A-) Normal 50 mm objektif
     - B-) Dar a&ccedil;ılı 200 mm tele objektif
     - C-) 80-210 mm zoom objektif
     - D-) 90 mm objektif
     - **Cevap E-) 10 mm balık g&ouml;z&uuml; objektif**
     <hr />
-1. <strong>Fotoğraflanması istenen bir kişiyi g&uuml;&ccedil;l&uuml;, heybetli ve b&uuml;y&uuml;k g&ouml;stermek i&ccedil;in ne t&uuml;r bir objektif kullanılması gerekir?</strong><br />
-
+1. <strong>Fotoğraflanması istenen bir kişiyi g&uuml;&ccedil;l&uuml;, heybetli ve b&uuml;y&uuml;k g&ouml;stermek i&ccedil;in ne t&uuml;r bir objektif kullanılması gerekir?</strong>
     - A-) 20 mm balık g&ouml;z&uuml; objektif
     - B-) Normal 50 mm objektif
     - C-) Dar a&ccedil;ılı 90 mm tele objektif
     - **Cevap D-) Geniş a&ccedil;ılı bir objektif**
     - E-) 10 mm balık g&ouml;z&uuml; objektif
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;İyi fotoğraf &ccedil;ekmek i&ccedil;in &ccedil;ok pahalı ekipmana ihtiya&ccedil; vardır.&rdquo; yanılsamasına g&ouml;nderme yapmaktadır?</strong>&nbsp; &nbsp;
+1. <strong>Aşağıdakilerden hangisi &ldquo;İyi fotoğraf &ccedil;ekmek i&ccedil;in &ccedil;ok pahalı ekipmana ihtiya&ccedil; vardır.&rdquo; yanılsamasına g&ouml;nderme yapmaktadır?</strong>&nbsp; 
     - A-) &Ouml;ğrenmek
     - B-) Ertelemek
     - C-) Geliştirmek
     - **Cevap D-) Sahip olmak**
     - E-) Paylaşmak
     <hr />
-1. <strong>Aşağıdakilerden hangi enstantane/&ouml;rt&uuml;c&uuml; değeri deklanş&ouml;re basıldığı s&uuml;rece perdenin a&ccedil;ık kalıp, pozlamanın devam ettiğinin g&ouml;stergesidir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangi enstantane/&ouml;rt&uuml;c&uuml; değeri deklanş&ouml;re basıldığı s&uuml;rece perdenin a&ccedil;ık kalıp, pozlamanın devam ettiğinin g&ouml;stergesidir?</strong>
     - A-) 1/1000
     - B-) 1/200
     - **Cevap C-) B**
     - D-) T
     - E-) Z
     <hr />
-1. <strong>Objektif ile duyarlı y&uuml;zey/sens&ouml;r arasında bulunan ve f ile simgelenen değere ne ad verilir?</strong><br />
-
+1. <strong>Objektif ile duyarlı y&uuml;zey/sens&ouml;r arasında bulunan ve f ile simgelenen değere ne ad verilir?</strong>
     - A-) Diyafram
     - B-) Enstantane
     - C-) Alan derinliği
     - D-) Netleme halkası
     - **Cevap E-) Odak uzaklığı**
     <hr />
-1. <strong>Aşağıdakilerden hangisi dar a&ccedil;ılı objektiflere ait <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi dar a&ccedil;ılı objektiflere ait <u>değildir</u>?</strong>
     - A-) B&uuml;y&uuml;kl&uuml;k
     - B-) Yığılma etkisi
     - C-) Mesafelerin yakınmış izlenimi vermesi
     - D-) Detayların ayıklanması
     - **Cevap E-) Sınırsız alan derinliği**
     <hr />
-1. <strong>Balık g&ouml;z&uuml; gibi &ccedil;ok geniş a&ccedil;ılı objektifler fotoğraf &ccedil;ekmek i&ccedil;in ne t&uuml;r mek&acirc;nlarda fotoğraf&ccedil;ının işini kolaylaştırırlar?</strong><br />
-
+1. <strong>Balık g&ouml;z&uuml; gibi &ccedil;ok geniş a&ccedil;ılı objektifler fotoğraf &ccedil;ekmek i&ccedil;in ne t&uuml;r mek&acirc;nlarda fotoğraf&ccedil;ının işini kolaylaştırırlar?</strong>
     - **Cevap A-) &Ccedil;ok dar mesafeli mek&acirc;nlarda**
     - B-) Eski evlerde
     - C-) Antik kentlerde
     - D-) Portre &ccedil;ekimlerinde
     - E-) Yağmurlu havalarda
     <hr />
-1. <strong>Diyafram kısıldık&ccedil;a (rakamsal olarak b&uuml;y&uuml;d&uuml;k&ccedil;e) alan derinliği ne olur?</strong><br />
-
+1. <strong>Diyafram kısıldık&ccedil;a (rakamsal olarak b&uuml;y&uuml;d&uuml;k&ccedil;e) alan derinliği ne olur?</strong>
     - A-) Azalır.
     - **Cevap B-) Artar.**
     - C-) Sabit kalır.
@@ -244,8 +248,7 @@
     - E-) İso değişir.
     <hr />
 1. &ldquo;Y&uuml;ksek enstantane &ccedil;ekimleri ile ..................; d&uuml;ş&uuml;k enstantene ile yapılan &ccedil;ekimler ise ......................... g&ouml;r&uuml;l&uuml;r.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) portre - makro
     - B-) harekette netsizlik - hareketin yakalanması
     - **Cevap C-) hareketin yakalanması - harekette netsizlik**
@@ -258,6 +261,13 @@
     - C-) Netsizlik
     - D-) Blurluk
     - E-) Kararma
+    <hr />
+1. <strong>Aşağıdakilerden hangisi fotoğraf&ccedil;ılığın temel ilkelerinden biri <u>değildir</u>?</strong>
+    - A-) &Ouml;ğrenmek
+    - B-) Sahip olmak
+    - C-) Geliştirmek
+    - **Cevap D-) Hissetmek&nbsp;**
+    - E-) Paylaşmak
     <hr />
 1. I. Perde<br />
 II. Enstantene<br />
@@ -272,7 +282,7 @@ IV. Odak uzaklığı<br />
     <hr />
 1. <strong>Hızlı devinimi olan bir konunun hareket anını yakalamak i&ccedil;in &ouml;ncelikli olarak aşağıdaki yollardan hangisi denenir?</strong>
     - A-) ISO&rsquo;yu d&uuml;ş&uuml;rmek
-    - B-) Kısık diyafram değeri kullanmak&nbsp;&nbsp;&nbsp;
+    - B-) Kısık diyafram değeri kullanmak&nbsp;&nbsp;
     - **Cevap C-) Y&uuml;ksek enstantane değeri kullanmak&nbsp;**
     - D-) D&uuml;ş&uuml;k enstantane değeri kullanmak
     - E-) Parasoley kullanmak
@@ -284,6 +294,13 @@ IV. Odak uzaklığı<br />
     - C-) Efekt ya da filtre kullanımı
     - D-) ISO
     - **Cevap E-) G&ouml;rsel kayıt t&uuml;r&uuml;**
+    <hr />
+1. <strong>Genel olarak bir y&uuml;zey sanatının, &ouml;zel olarak fotoğrafın dilini oluşturan t&uuml;m anlatım &ouml;gelerinin, belli bir &ccedil;er&ccedil;eve i&ccedil;erisinde, anlatımı etkili kılacak, izleyicinin duygu ve d&uuml;ş&uuml;nceleriyle anlatılanı paylaşmasını sağlayacak doğrultuda d&uuml;zenlenmesine ne ad verilir?</strong>
+    - A-) Fotografik g&ouml;rme
+    - B-) Alan derinliği
+    - C-) Altın oran
+    - D-) Estetik
+    - **Cevap E-) Kompozisyon**
     <hr />
 1. ........................, en basit şekilde ifade edilecek olursa &ldquo;aynanın/perdenin&rdquo; a&ccedil;ılıp kapanma hızıdır. Bir başka deyişle duyarlı y&uuml;zeye girecek olan ışığın s&uuml;resini belirler.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
@@ -301,85 +318,82 @@ IV. Odak uzaklığı<br />
     - D-) &ouml;rt&uuml;c&uuml;
     - E-) denklanş&ouml;r
     <hr />
-1. <strong>Aşağıdakilerden hangisi kompozisyon d&uuml;zenlemelerinde etkili <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi kompozisyon d&uuml;zenlemelerinde etkili <u>değildir</u>?</strong>
     - A-) Kullanılacak objektifin odak uzaklığı
     - B-) Konuyla aradaki mesafe
     - C-) Bakış a&ccedil;ısı ve bakış y&uuml;ksekliği
     - D-) G&ouml;rsel kayıt t&uuml;r&uuml;
     - **Cevap E-) Objektifin optik kalitesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi kompozisyon kurallarını uygulama ama&ccedil;ları arasında <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi kompozisyon kurallarını uygulama ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Kurallara uymuş olmak**
     - B-) Hoşa gidecek bir bi&ccedil;im oluşturmak
     - C-) Anlam oluşturmak
     - D-) Doğru bir teknik uygulamak
     - E-) İzleyiciye konu hakkında a&ccedil;ık bir iletide bulunmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi izleyicilerin anlam oluşturmasında etkili <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi izleyicilerin anlam oluşturmasında etkili <u>değildir</u>?</strong>
     - A-) Algı d&uuml;zeyi
     - B-) K&uuml;lt&uuml;rel altyapısı
     - C-) İnan&ccedil;ları
     - D-) Yorum yeteneği
     - **Cevap E-) Ekonomik d&uuml;zeyi**
     <hr />
-1. <strong>Fotoğrafı &ccedil;ekilecek konuyu izleyicinin g&ouml;z&uuml;nde y&uuml;celtmek i&ccedil;in aşağıdaki&nbsp; değişkenlerden hangisini kullanırdınız?</strong><br />
-
+1. <strong>Fotoğrafı &ccedil;ekilecek konuyu izleyicinin g&ouml;z&uuml;nde y&uuml;celtmek i&ccedil;in aşağıdaki&nbsp; değişkenlerden hangisini kullanırdınız?</strong>
     - A-) Konuya yakın bir mesafeden &ccedil;ekim yapmak
     - B-) Ayrıntı &ccedil;ekimi yapmak
     - C-) Teleobjektifle konuyu b&uuml;y&uuml;tmek
     - **Cevap D-) Alt a&ccedil;ıdan &ccedil;ekmek**
     - E-) Altın kesit kuralına uygun bir kompozisyon uygulamak
     <hr />
-1. <strong>Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin&nbsp; dikkatini &ccedil;eker?</strong><br />
-
+1. <strong>Aşağıdaki kompozisyon kavramlarından hangisini uygulamak izleyicinin&nbsp; dikkatini &ccedil;eker?</strong>
     - A-) Uyum
     - **Cevap B-) Zıtlık**
     - C-) Simetri
     - D-) Ritm
     - E-) Uzam
     <hr />
-1. <strong>Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki&nbsp; <u>etmemektedir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi hız ve hareket izlenimi yaratmada etki&nbsp; <u>etmemektedir</u>?</strong>
     - A-) Hareketin hızı
     - B-) Hareketin y&ouml;n&uuml;
     - C-) Hareket boşluğu
     - D-) Enstantane değeri
     - **Cevap E-) Objektifin odak uzaklığı**
     <hr />
-1. <strong>Fotoğrafta sade bir anlatım yapabilmek i&ccedil;in aşağıdakilerden hangisi etkili <u>olmaz</u>?</strong><br />
-
+1. <strong>Fotoğrafta sade bir anlatım yapabilmek i&ccedil;in aşağıdakilerden hangisi etkili <u>olmaz</u>?</strong>
     - **Cevap A-) Geniş a&ccedil;ı objektif kullanmak**
     - B-) Hareketli konularda doğru zamanlama
     - C-) Bakış y&uuml;ksekliğini değiştirmek
     - D-) Alan derinliğinden yararlanmak
     - E-) Fonu g&ouml;lgede bırakan yarı ters ışık kullanmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi insan fotoğraflarında kullanılan &ccedil;ekim&nbsp; &ouml;l&ccedil;eklendirmeleri arasında <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi insan fotoğraflarında kullanılan &ccedil;ekim&nbsp; &ouml;l&ccedil;eklendirmeleri arasında <u>yer almaz</u>?</strong>
     - A-) Baş plan
     - **Cevap B-) Yakın plan**
     - C-) Boy plan
     - D-) Diz plan
     - E-) Genel plan
     <hr />
-1. <strong>Fotoğraf&ccedil;ının hangi &ouml;zellikleri &ccedil;ekim esnasında yapacağı tercihlerde anlam&nbsp; oluşumuna doğrudan etki <u>etmemektedir</u>?</strong><br />
-
+1. <strong>Fotoğraf&ccedil;ının hangi &ouml;zellikleri &ccedil;ekim esnasında yapacağı tercihlerde anlam&nbsp; oluşumuna doğrudan etki <u>etmemektedir</u>?</strong>
     - A-) Fotoğraf&ccedil;ının g&ouml;rme yeteneği
     - B-) Fotoğraf&ccedil;ının politik ve d&uuml;nya g&ouml;r&uuml;ş&uuml;
     - **Cevap C-) Fotoğraf&ccedil;ının maddi durumu**
     - D-) Fotoğraf&ccedil;ının konuyla ilgili bilgi ve ilgisi
     - E-) Fotoğraf&ccedil;ının k&uuml;lt&uuml;rel altyapısı
     <hr />
-1. <strong>İzleyiciye zaman ile ilgili bilgi aşağıdakilerden hangisiyle verilebilir?</strong><br />
-
+1. <strong>İzleyiciye zaman ile ilgili bilgi aşağıdakilerden hangisiyle verilebilir?</strong>
     - A-) Konunun hareketi
     - B-) Konu ile kamera arasındaki mesafe
     - C-) Kullanılan &ccedil;ekim &ouml;l&ccedil;eği
     - **Cevap D-) Konunun &uuml;zerine d&uuml;şen ışık**
     - E-) Konunun &ccedil;er&ccedil;eve i&ccedil;inde kapladığı alan
+    <hr />
+1. <strong>Aşağıdaki kompozisyon &ouml;gelerinden hangisi &ccedil;okluk etkisi yaratmada kullanılmaktadır?</strong>
+    - A-) Derinlik
+    - B-) Uyum
+    - **Cevap C-) Ritm**
+    - D-) Zıtlık
+    - E-) Simetri
     <hr />
 1. <strong>G&ouml;rsel sanat disiplinleri i&ccedil;erisinde nesnelerin anlamlı ve estetik bir b&uuml;t&uuml;n oluşturacak şekilde yerleştirilmeleri i&ccedil;in kabul edilmiş oranın adı aşağıdakilerden hangisidir?</strong>
     - A-) Pozlama
@@ -398,14 +412,12 @@ IV. Odak uzaklığı<br />
 1. I. Dosya boyutu<br />
 II. Hareketin hızı<br />
 III. Hareketin y&ouml;n&uuml;<br />
-IV. Enstantene değeri<br />
-V. WB ayarı<br />
 <strong>Hareketli nesnelerin hız ve hareketinin ifadesi, teknik bilgi ve deneyimin yanısıra yukarıdaki değişkenlerden hangisi ya da hangisine bağlıdır?</strong>
-    - A-) Yalnız I
-    - B-) I ve III
-    - C-) I ve IV
-    - D-) II ve V
-    - **Cevap E-) II, III ve IV**
+    - A-) I ve II
+    - B-) I, II ve III
+    - C-) Yalnız I
+    - **Cevap D-) II ve III**
+    - E-) Yalnız II
     <hr />
 ## Unite 4
 1. <strong>Dijital fotoğraf makinelerinde d&acirc;hil&icirc; ya da haric&icirc; kayıt edicilere ne ad verilmektedir?</strong>
@@ -438,88 +450,84 @@ V. WB ayarı<br />
     - D-) &Ccedil;ekim maliyeti
     - E-) Taşıma kolaylığı
     <hr />
-1. <strong>ISO değeri arttık&ccedil;a aşağıdakilerin hangisi ile <u>karşılaşılmaz</u>?</strong><br />
-
+1. <strong>ISO değeri arttık&ccedil;a aşağıdakilerin hangisi ile <u>karşılaşılmaz</u>?</strong>
     - A-) ISO değeri y&uuml;kseldik&ccedil;e enstantane değeri de y&uuml;kselir.
     - **Cevap B-) ISO değeri y&uuml;kseldik&ccedil;e az ışıklı ortamda fotoğraf &ccedil;ekmek zorlaşır.**
     - C-) ISO değeri arttık&ccedil;a grenlilik artar.
     - D-) ISO değeri arttık&ccedil;a elde yapılan &ccedil;ekimlerde net fotoğrafa ulaşma olasılığı artar.
     - E-) ISO değerinin artması diyaframın kısılmasına yardımcı olur.
     <hr />
-1. <strong>İlk &uuml;retilen dijital fotoğraf makineleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
-
+1. <strong>İlk &uuml;retilen dijital fotoğraf makineleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Ağırlıkları fazlaydı.
     - B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kleri d&uuml;ş&uuml;kt&uuml;.
     - **Cevap C-) Ergonomik bir yapıya sahiplerdi.**
     - D-) G&ouml;vdeleri b&uuml;y&uuml;kt&uuml;.
     - E-) Hantallardı.
     <hr />
-1. <strong>Dijital makineleri birbiri ile kıyaslarken aşağıdakilerden hangisine <u>bakılmaz</u>?</strong><br />
-
+1. <strong>Dijital makineleri birbiri ile kıyaslarken aşağıdakilerden hangisine <u>bakılmaz</u>?</strong>
     - A-) Azami enstantane hızına
     - B-) Saniyede &ccedil;ekilebilen fotoğraf sayısına
     - C-) Netleme nokta sayısına
     - D-) &Ccedil;ekim hızına
     - **Cevap E-) Taksitle satılıp satılamayacağına**
     <hr />
-1. <strong>Dijital ve analog sistemi karşılaştırdığımızda aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
-
+1. <strong>Dijital ve analog sistemi karşılaştırdığımızda aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Dijital g&ouml;r&uuml;nt&uuml;lerin paylaşımı analog sisteme kıyasla daha kolaydır.
     - B-) Dijital makineler ile farklı ışık kaynaklarında &ccedil;ekim yapmak, analog kameralara g&ouml;re &ccedil;ok daha kolaydır.
     - C-) Dijital fotoğraflara &ccedil;ekim sonrası m&uuml;dahale, analog fotoğraflara oranla daha kolaydır.
     - **Cevap D-) Analog makineler dijital makinelere oranla daha kırılgan bir yapıya sahipler ve toza, neme, rutubete karşı da hassastır.**
     - E-) Dijital fotoğrafları bir kaynaktan başka bir kaynağa kaydetmek esnasında hi&ccedil;bir kayıp s&ouml;z konusu değildir. Oysa film karelerinde yapılacak &ccedil;oğaltım i&ccedil;in yapılan kopyalarda minimum % 15 oranında bir değer kaybı s&ouml;z konusudur.
     <hr />
-1. <strong>Dijital g&ouml;r&uuml;nt&uuml; kaydetme formatlarının en y&uuml;ksek kaliteden en d&uuml;ş&uuml;k kaliteye g&ouml;re sıralaması aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Dijital g&ouml;r&uuml;nt&uuml; kaydetme formatlarının en y&uuml;ksek kaliteden en d&uuml;ş&uuml;k kaliteye g&ouml;re sıralaması aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) TIFF, RAW, JPEG**
     - B-) RAW, TIFF, JPEG
     - C-) JPEG, RAW, TIFF
     - D-) TIFF, JPEG, RAW
     - E-) RAW, JPEG, TIFF
     <hr />
-1. <strong>Yatay piksel adedi 5616 ve dikey piksel adedi 3744 &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;ndeki g&ouml;r&uuml;nt&uuml; kapasitesine sahip dijital bir makine ile &ccedil;ekilen fotoğrafın &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Yatay piksel adedi 5616 ve dikey piksel adedi 3744 &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;ndeki g&ouml;r&uuml;nt&uuml; kapasitesine sahip dijital bir makine ile &ccedil;ekilen fotoğrafın &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) 12 Mega piksel
     - B-) 15 Mega piksel
     - C-) 18 Mega piksel
     - **Cevap D-) 21 Mega piksel**
     - E-) 24 Mega piksel
     <hr />
-1. <strong>Fotoğraftaki gelişmeler incelendiğinde, temelde aşağıdakilerden hangisi k&ouml;kl&uuml; bir değişime <u>uğramamıştır</u>?</strong><br />
-
+1. <strong>Fotoğraftaki gelişmeler incelendiğinde, temelde aşağıdakilerden hangisi k&ouml;kl&uuml; bir değişime <u>uğramamıştır</u>?</strong>
     - **Cevap A-) Karanlık kutu yapısı ve objektifler**
     - B-) Makine ebatları
     - C-) Kaydedici sistem ve film ebatları
     - D-) Işık &ouml;l&ccedil;me y&ouml;ntemleri
     - E-) Film sarma sistemi
     <hr />
-1. <strong>Aşağıdakilerden hangisi dijital fotoğraf&ccedil;ılıkla ortaya &ccedil;ıkan kavramlardan biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi dijital fotoğraf&ccedil;ılıkla ortaya &ccedil;ıkan kavramlardan biri <u>değildir</u>?</strong>
     - A-) Piksel sayısı
     - B-) &Ccedil;arpan fakt&ouml;r&uuml;
     - C-) Sens&ouml;r boyutu
     - **Cevap D-) Azami enstantane hızı**
     - E-) Bellek kartları
     <hr />
-1. <strong>Dijital fotoğraf&ccedil;ılıkta g&ouml;r&uuml;nt&uuml; algılayıcı tiplerine bir &ouml;rnek olarak aşağıdakilerden hangisi verilebilir?</strong><br />
-
+1. <strong>Dijital fotoğraf&ccedil;ılıkta g&ouml;r&uuml;nt&uuml; algılayıcı tiplerine bir &ouml;rnek olarak aşağıdakilerden hangisi verilebilir?</strong>
     - A-) CCD algılayıcı, Foveon X3 algılayıcı, RAW
     - B-) CCD algılayıcı, CMOS algılayıcı, TİFF
     - C-) CMOS algılayıcı, JPEG, Foveon X3 algılayıcı
     - D-) JPEG, RAW, TİFF
     - **Cevap E-) CCD algılayıcı, CMOS algılayıcı, Foveon X3 algılayıcı**
     <hr />
-1. <strong>Dijital fotoğraf sistemi d&uuml;ş&uuml;n&uuml;ld&uuml;ğ&uuml;nde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
-
+1. <strong>Dijital fotoğraf sistemi d&uuml;ş&uuml;n&uuml;ld&uuml;ğ&uuml;nde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Dijital makineler analog makinelere oranla daha az batarya kullanırlar.**
     - B-) Dijital sistem, fotoğrafı daha geniş kitlelere yaymış ve ilgilenen sayısını artırmıştır.
     - C-) Film yıkama aşamalarına ihtiya&ccedil; duyulmadığından fotoğrafa daha hızlı ulaşılır.
     - D-) &Ccedil;ekim sonrasında fotoğrafa m&uuml;dahale etmek &ccedil;ok daha kolay ve esnek bir &ouml;zellik g&ouml;sterir.
     - E-) Dijital makineler ile farklı ışık kaynaklarında &ccedil;ekim yapmak &ccedil;ok daha kolaydır.
     <hr />
-1. <strong>Analog fotoğraf makinelerindeki filmin işlevini dijital fotoğraf makinelerinde aşağıdakilerden hangisi g&ouml;r&uuml;r?</strong><br />
-
+1. <strong>Dijital fotoğraf makinesinin temelleri aşağıdaki hangi olayla atılmıştır?</strong>
+    - A-) Gizli g&ouml;r&uuml;nt&uuml;n&uuml;n film &uuml;zerine yakalanması
+    - **Cevap B-) G&ouml;rsellerin tarayıcı yardımı ile bilgisayar ortamına transferi i&ccedil;in ilk kez bir tarayıcı tasarlanması**
+    - C-) Karanlık kutunun icat edilerek g&ouml;r&uuml;nt&uuml;n&uuml;n ters bir şekilde kutu i&ccedil;inde elde edilmesi
+    - D-) İnternetin bulunması ve yaygın kullanıma girmesi
+    - E-) Daha &ouml;nce yapılmış baskıların yeniden fotoğraflanması
+    <hr />
+1. <strong>Analog fotoğraf makinelerindeki filmin işlevini dijital fotoğraf makinelerinde aşağıdakilerden hangisi g&ouml;r&uuml;r?</strong>
     - **Cevap A-) Sens&ouml;rler**
     - B-) Tarayıcı bellek
     - C-) Batarya
@@ -571,77 +579,89 @@ V. WB ayarı<br />
     - D-) &Uuml;r&uuml;n yerleştirme
     - E-) İmaj
     <hr />
-1. <strong>Reklam denildiğinde aşağıdakilerden hangisi akla <u>gelmez</u>?</strong><br />
-
+1. <strong>Reklam denildiğinde aşağıdakilerden hangisi akla <u>gelmez</u>?</strong>
     - A-) Reklam=tanıtım
     - B-) Reklam=satış/tiraj
     - C-) Reklam=markalaşma
     - D-) Reklam=pazarlama
     - **Cevap E-) Reklam=din**
     <hr />
-1. <strong>Reklamın temel bileşenleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong><br />
-
+1. <strong>Reklamın temel bileşenleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) G&ouml;r&uuml;nt&uuml; - İmaj
     - B-) Yazı - Tipografi
     - C-) Ses - M&uuml;zik
     - D-) Slogan
     - **Cevap E-) Piktogram**
     <hr />
-1. <strong>Reklam fotoğraf&ccedil;ılığında maliyetin ucuzlamasıyla tematik portre st&uuml;dyolarının a&ccedil;ılmasına olanak sağlayan mucit fotoğraf&ccedil;ı aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Reklam fotoğraf&ccedil;ılığında maliyetin ucuzlamasıyla tematik portre st&uuml;dyolarının a&ccedil;ılmasına olanak sağlayan mucit fotoğraf&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Daguerre
     - B-) Muybridge
     - **Cevap C-) Disdéri**
     - D-) Nadar
     - E-) Edward Curtis
     <hr />
-1. <strong>Abraham Lincoln başkanlık se&ccedil;im kampanyası i&ccedil;in aşağıdaki fotoğraf&ccedil;ılardan hangisine poz vermiştir?</strong><br />
-
+1. <strong>Abraham Lincoln başkanlık se&ccedil;im kampanyası i&ccedil;in aşağıdaki fotoğraf&ccedil;ılardan hangisine poz vermiştir?</strong>
     - **Cevap A-) Mathew Brady**
     - B-) Benjamin Franklin
     - C-) Disd&eacute;ri
     - D-) Nadar
     - E-) Robert Frank
     <hr />
-1. <strong>Fotoğraf tarihinin en başarılı kampanya satış sloganı aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Fotoğraf tarihinin en başarılı kampanya satış sloganı aşağıdakilerden hangisidir?</strong>
     - A-) Kodak ile g&uuml;venle
     - **Cevap B-) Siz deklanş&ouml;re basın gerisini biz h&acirc;lledelim.**
     - C-) Siz &ccedil;ekin biz basalım.
     - D-) Fotoğraf Kodaktır.
     - E-) 150 yıl &ouml;nce t&uuml;m insanlığın anlaşabileceği bir dil icat edildi.
     <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;z modern reklam fotoğraf&ccedil;ılığının temellerini atan fotoğraf&ccedil;ı kimdir ve hangi firma i&ccedil;in fotoğraflar &ccedil;ekmiştir?</strong><br />
-
+1. <strong>G&uuml;n&uuml;m&uuml;z modern reklam fotoğraf&ccedil;ılığının temellerini atan fotoğraf&ccedil;ı kimdir ve hangi firma i&ccedil;in fotoğraflar &ccedil;ekmiştir?</strong>
     - **Cevap A-) Edward Steichen - Art et Decoration**
     - B-) Alfred Stiglitz - Vogue
     - C-) Richard Avedon - Fashion
     - D-) Man Ray &ndash; Club Decoration
     - E-) Ara G&uuml;ler -&nbsp; FHM
     <hr />
-1. <strong>Reklam fotoğraflarının aldatıcılığı hangi filmde hangi akt&ouml;r&uuml;n performansı ile eleştirilmiştir?</strong><br />
-
+1. <strong>Reklam fotoğraflarının aldatıcılığı hangi filmde hangi akt&ouml;r&uuml;n performansı ile eleştirilmiştir?</strong>
     - **Cevap A-) Falling Down &ndash; Michael Douglas**
     - B-) Godfather &ndash; Al Pacino
     - C-) Kill Bill &ndash; Uma Truman
     - D-) Truman Show &ndash; Jim Carry
     - E-) Beverly Hills Ninja &ndash; Chris Farley
     <hr />
-1. <strong>Reklamların en basit amacı nedir?</strong><br />
-
+1. <strong>Reklamların en basit amacı nedir?</strong>
     - A-) Tanıtmak
     - **Cevap B-) Satış**
     - C-) &Uuml;r&uuml;n &ccedil;eşitliliği
     - D-) Yerel tanınırlık
     - E-) Uluslararası tanınırlık
     <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;z reklam fotoğrafları en &ccedil;ok hangi medya sekt&ouml;r&uuml;nde yayımlanmaktadır?</strong><br />
-
+1. <strong>G&uuml;n&uuml;m&uuml;z reklam fotoğrafları en &ccedil;ok hangi medya sekt&ouml;r&uuml;nde yayımlanmaktadır?</strong>
     - A-) Televizyon
     - B-) Radyo
     - C-) Gazete &ndash; Dergi - Internet
     - D-) Tiyatro
     - **Cevap E-) Sinema**
+    <hr />
+1. <strong>Bir mal veya hizmeti kamuya duyurmak, tanıtmak, &uuml;r&uuml;ne ilişkin bilgi vermek, &ouml;vmek veya &uuml;r&uuml;n&uuml;n satışını artırmak i&ccedil;in kullanılacak olan g&ouml;rsel materyallerin, profesyonel ve/veya profesyonel olmayan kişiler tarafından &uuml;retilmesini ifade etmek i&ccedil;in kullanılan kavram aşağıdakilerden hangisidir?</strong> 
+    - A-) Tipografi
+    - B-) Tanıtım
+    - C-) Reklam
+    - **Cevap D-) Reklam Fotoğraf&ccedil;ılığı**
+    - E-) Afiş
+    <hr />
+1. <strong>Amerikan başkanlık se&ccedil;imleri sırasında&nbsp;se&ccedil;im kampanyası i&ccedil;in fotoğraf&ccedil;ı Mathew Brady&#39;e poz veren başkan aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) Edward Steichen
+    - **Cevap B-) Abraham Lincoln**
+    - C-) Grover Cleveland
+    - D-) Andrew Johnson
+    - E-) Woodrow Wilson
+    <hr />
+1. <strong>Reklam fotoğrafının tarihinde &ouml;nemli bir yere sahip olan&nbsp;&nbsp;Kitty Kramer&rsquo;e ait&nbsp;Kodak Kızı reklam fotoğrafında kadın fig&uuml;r&uuml; kullanılarak verilmek istenen mesaj aşağıdakilerden hangisinde verilmiştir?</strong>
+    - **Cevap A-) Fotoğraf makinasının hafif ve kolay&nbsp;taşınabilir olduğuna vurgu yapmak istenmiştir.**
+    - B-) Fotoğraf makinasının maliyetinin ucuzluğuna&nbsp;vurgu yapmak istenmiştir.
+    - C-) Reklam fotoğrafı &ccedil;ekimlerinin eğitimsiz herkesin yapabileceğine vurgu yapmak istenmiştir.
+    - D-) Fotoğraf makinasının hızlı ve kolay bir uğraş olduğuna vurgu yapmak istenmiştir.
+    - E-) Fotoğraf makinasının sadece belirli kesime ait kişilerin kullanabileceğine vurgu yapmak istenmiştir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi başarılı bir reklamın ama&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
     - A-) İkna edici olması
@@ -686,24 +706,21 @@ V. WB ayarı<br />
     - D-) Evrensel anlamda d&uuml;ş&uuml;nmek ve iletişim kurmak
     - **Cevap E-) İşini sadece yerel &ouml;l&ccedil;ekte s&uuml;rd&uuml;rmek**
     <hr />
-1. <strong>Reklam fotoğraf&ccedil;ılığının yapım s&uuml;recinde m&uuml;şteri ile ilk diyalog sağlayan kişi aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Reklam fotoğraf&ccedil;ılığının yapım s&uuml;recinde m&uuml;şteri ile ilk diyalog sağlayan kişi aşağıdakilerden hangisidir?</strong>
     - A-) Yapımcı
     - **Cevap B-) Sekreter**
     - C-) Kreatif direkt&ouml;r
     - D-) Sanat y&ouml;netmeni
     - E-) Işık&ccedil;ı
     <hr />
-1. <strong>Tanıtımı istenen bir &uuml;r&uuml;nle ilgili olarak anlaşma yapım s&uuml;recinde ilk iş nedir?</strong><br />
-
+1. <strong>Tanıtımı istenen bir &uuml;r&uuml;nle ilgili olarak anlaşma yapım s&uuml;recinde ilk iş nedir?</strong>
     - A-) &Ccedil;ekim yeri aramak
     - B-) Model aramak
     - C-) Ekipman aramak
     - **Cevap D-) Zaman &ccedil;izelgesi hazırlamak**
     - E-) Dekor yapmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım ekibinde <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi tasarım ekibinde <u>yer almaz</u>?</strong>
     - A-) Creatif direkt&ouml;r
     - B-) Sanat y&ouml;netmeni
     - C-) Metin yazarı
@@ -711,16 +728,14 @@ V. WB ayarı<br />
     - E-) Grafik tasarımcıları
     <hr />
 1. &ldquo;G&ouml;r&uuml;nt&uuml; işleme ekibinin g&ouml;revlerinden biri .................... ve fotoğrafı&nbsp; ................h&acirc;le getirmektir.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ilgi &ccedil;ekici &ndash; g&uuml;zel
     - B-) renk ayarı yapmak &ndash; pazarlanabilir
     - **Cevap C-) g&ouml;r&uuml;nt&uuml;deki kusurları gidermek &ndash; ilgi &ccedil;ekici**
     - D-) photoshop kullanmak &ndash; siyah beyaz
     - E-) genel &ccedil;ekim &ndash; pazarlama
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ekim ekibinde <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi &ccedil;ekim ekibinde <u>yer almaz</u>?</strong>
     - A-) Reklam Fotoğraf&ccedil;ısı
     - **Cevap B-) M&uuml;şteri ilişkileri temsilcisi**
     - C-) Işık&ccedil;ı
@@ -728,24 +743,21 @@ V. WB ayarı<br />
     - E-) &Ccedil;ekim asistanı
     <hr />
 1. &ldquo;Grafik tasarımcı ............. ile ..........başarılı bir bi&ccedil;imde kompoze eden kişidir.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) tipografi - imajı**
     - B-) yazı - photoshop
     - C-) slogan - tipografiyi
     - D-) ışık - yazı
     - E-) yazı- slogan
     <hr />
-1. <strong>Benjamin Franklin kışın evde oturmaktan hastalanan kadınlar i&ccedil;in hangi &uuml;r&uuml;n&uuml;n tanıtımını yapmıştır?</strong><br />
-
+1. <strong>Benjamin Franklin kışın evde oturmaktan hastalanan kadınlar i&ccedil;in hangi &uuml;r&uuml;n&uuml;n tanıtımını yapmıştır?</strong>
     - A-) Opon
     - B-) Taylol Hot
     - C-) Ayakkabı ke&ccedil;esi
     - **Cevap D-) Pennsylvania Ş&ouml;mineleri**
     - E-) UFO elektrikli ısıtıcı
     <hr />
-1. <strong>Creative Director, tasarım grubunda aşağıdaki vasıflardan hangisi ile anılır?</strong><br />
-
+1. <strong>Creative Director, tasarım grubunda aşağıdaki vasıflardan hangisi ile anılır?</strong>
     - A-) Organizat&ouml;r
     - B-) Tek sorumlu
     - **Cevap C-) Amiral**
@@ -760,21 +772,37 @@ V. WB ayarı<br />
     - E-) High Volume
     <hr />
 1. &ldquo;Işık&ccedil;ının g&ouml;revleri arasında yeri geldiğinde atmosfer yaratacak ..............yeri geldiğinde Hollywood yıldızları i&ccedil;in kullanılan .............. tipi ışıklandırmayı ayarlayabilmek yer alır.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) dramatik Işık &ndash; duman
     - B-) duman &ndash; r&ouml;pr&uuml;d&uuml;ks&uuml;yon
     - C-) &uuml;&ccedil; ışık &ndash; hotlight
     - D-) soft Light &ndash; hotlight
     - **Cevap E-) dramatik ışık &ndash; glamour lighting**
     <hr />
-1. <strong>Reklam fotoğ&ccedil;ılığında gelişen teknoloji sonucunda dia/slayt filmlerin kullanımdan kalkması hangi sekt&ouml;r&uuml; doğrudan etkilemiştir?</strong><br />
-
+1. <strong>Reklam fotoğ&ccedil;ılığında gelişen teknoloji sonucunda dia/slayt filmlerin kullanımdan kalkması hangi sekt&ouml;r&uuml; doğrudan etkilemiştir?</strong>
     - A-) Gazetecilik sekt&ouml;r&uuml;n&uuml;
     - B-) Fotoğraf malzemeleri satan toptancıları
     - **Cevap C-) Matbaada &ccedil;alışan renk ayrımcılarını**
     - D-) Fotoşop&ccedil;uları
     - E-) Reklam fotoğraf&ccedil;ılarını
+    <hr />
+1. Bug&uuml;n reklam&nbsp;fotoğraf&ccedil;ılığının en &ouml;nemli kazan&ccedil; kapılarından biri ................ fotoğraf&ccedil;ılığıdır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) portre
+    - **Cevap B-) stok&nbsp;**
+    - C-) manzara
+    - D-) &uuml;r&uuml;n
+    - E-) magazin
+    <hr />
+1. I. &Ccedil;ekim &ouml;ncesi gereksinimleri belirleyen ve en ideal &ccedil;ekim şartlarına y&ouml;nelik &ouml;neriler ortaya koyan kişidir.<br />
+II. Modellerin giyeceği kost&uuml;mlerden &uuml;zerinde&nbsp;taşıyacakları aksesuarlara, &ccedil;ekimin yapılacağı mek&acirc;nın se&ccedil;iminden, dekorun&nbsp;tasarlanmasına ve yerleştirilmesine değin pek &ccedil;ok şeyi denetler.<br />
+III. Kamera arkasından tek bir noktaya değil, g&ouml;rselliğin ger&ccedil;ekleştiği t&uuml;m alanı denetler.<br />
+<strong>Yukarıda g&ouml;revleri verilen ajans birimi hangisidir?</strong>
+    - **Cevap A-) Sanat y&ouml;netmeni**
+    - B-) Sekreter
+    - C-) Yapımcı
+    - D-) Kreatif y&ouml;netmen
+    - E-) Tasarım ekibi
     <hr />
 1. <strong>İdeal bir reklam ajansı b&uuml;nyesinde aşağıdakilerden hangisinin&nbsp;yer almasına gerek <u>yoktur</u>?</strong>
     - A-) Prod&uuml;ks&uuml;yon yardımcısı/m&uuml;şteri ilişkileri temsilcisi
@@ -782,6 +810,13 @@ V. WB ayarı<br />
     - C-) &Ccedil;ekim ekibi (Reklam fotoğraf&ccedil;ısı, &Ccedil;ekim asistanı, Işık&ccedil;ı, Maky&ouml;z,&nbsp;Kost&uuml;m tasarımcısı)
     - D-) G&ouml;r&uuml;nt&uuml; işleme ekibi (Photoshop teknisyenleri/uzmanları)
     - **Cevap E-) Baskı aşamasının hızlı ve verimli ilerleyebilmesi i&ccedil;in matbaa olanakları ve matbaa ekibi**
+    <hr />
+1. <strong>İdeal bir reklam ajansı b&uuml;nyesinde &ccedil;alışan reklam metin yazarının en &ouml;nemli &ouml;zelliği aşağıdakilerden hangisi olmalıdır?</strong>
+    - A-) Mali konuları bilme ve kontrol edebilme
+    - **Cevap B-) Ana diline olduk&ccedil;a hâkim olma, dil&nbsp;oyunlarını bilme, toplumu ve i&ccedil;inde yaşadığı k&uuml;lt&uuml;r&uuml; &ccedil;ok iyi g&ouml;zlemleyebilme**
+    - C-) &Ccedil;ekim &ouml;ncesi gereksinimleri belirleyebilme ve en ideal &ccedil;ekim şartlarına y&ouml;nelik &ouml;neriler ortaya koyabilme
+    - D-) Y&ouml;netim alanında olduk&ccedil;a uzman olma ve yaratıcı tasarımlar oluşturabilme
+    - E-) Kurumsal yapının vitrin y&uuml;z&uuml; olabilme &ouml;zelliğini taşıma ve m&uuml;şteri ile ilk diyaloğu kurabilme
     <hr />
 ## Unite 7
 1. <strong>Fotoğrafta konu &uuml;zerinde oluşan en aydınlık b&ouml;lge ile en karanlık b&ouml;lge&nbsp;arasındaki farka ne ad verilir?</strong>
@@ -806,24 +841,21 @@ V. WB ayarı<br />
     - E-) İki ışıklı aydınlatma
     <hr />
 1. Işık, ister doğal ister yapay olsun konuyu &uuml;&ccedil; h&acirc;lde aydınlatır.<br />
-<strong>Işığın &uuml;&ccedil; aydınlatma h&acirc;li aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br />
-
+<strong>Işığın &uuml;&ccedil; aydınlatma h&acirc;li aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Doğal aydınlatma, yapay aydınlatma, tersten aydınlatma
     - B-) Tek ışık aydınlatması, iki ışık aydınlatması, &uuml;&ccedil; ışık aydınlatması
     - C-) S&uuml;z&uuml;lm&uuml;ş aydınlatma, kontrast aydınlatma, doğal aydınlatma
     - **Cevap D-) Doğrudan aydınlatma, yansımış aydınlatma, s&uuml;z&uuml;lm&uuml;ş aydınlatma**
     - E-) S&uuml;z&uuml;lm&uuml;ş aydınlatma, dif&uuml;z aydınlatma, yapay aydınlatma
     <hr />
-1. <strong>Bir fotoğraf &ccedil;ekerken ya da &ccedil;ekilmiş bir fotoğrafa bakarken, ışığın konuyu hangi y&ouml;nden aydınlattığı nasıl anlaşılır?</strong><br />
-
+1. <strong>Bir fotoğraf &ccedil;ekerken ya da &ccedil;ekilmiş bir fotoğrafa bakarken, ışığın konuyu hangi y&ouml;nden aydınlattığı nasıl anlaşılır?</strong>
     - A-) Şiddeti &ouml;l&ccedil;&uuml;lerek
     - B-) Rengi &ouml;l&ccedil;&uuml;lerek
     - C-) Konuya olan mesafesine bakılarak
     - **Cevap D-) Objenin g&ouml;lgesine bakılarak**
     - E-) Yansıtıcı kullanılarak
     <hr />
-1. <strong>G&uuml;n ışığı aşağıdaki hangi y&ouml;nde konuyu <u>aydınlatmaz</u>?</strong><br />
-
+1. <strong>G&uuml;n ışığı aşağıdaki hangi y&ouml;nde konuyu <u>aydınlatmaz</u>?</strong>
     - A-) Cephe
     - B-) Tepe
     - **Cevap C-) Alttan**
@@ -834,24 +866,21 @@ V. WB ayarı<br />
 II. Cisimlerin &uuml;&ccedil; boyut yapısını vurgulayan en ideal ışıktır.<br />
 III. Doğru renklerin en kolay yakalandığı aydınlatma y&ouml;n&uuml;d&uuml;r.<br />
 IV. G&ouml;lge ve aydınlık b&ouml;lgeyi aynı anda barındırır.<br />
-<strong>Yukarıdaki &ouml;zellikler konuyu hangi y&ouml;nden aydınlatan ışık i&ccedil;in ge&ccedil;erlidir?</strong><br />
-
+<strong>Yukarıdaki &ouml;zellikler konuyu hangi y&ouml;nden aydınlatan ışık i&ccedil;in ge&ccedil;erlidir?</strong>
     - A-) Cephe
     - B-) Tepe
     - C-) Alttan
     - D-) Ters
     - **Cevap E-) Yanal**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Rembrandt aydınlatması i&ccedil;in <u>s&ouml;ylenemez</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Rembrandt aydınlatması i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
     - A-) Dar a&ccedil;ılı ışık veren aydınlatma kaynağı kullanılarak konu aydınlatılır.
     - **Cevap B-) Birden fazla aydınlatma kullanıldığından konu &uuml;zerinde yeterince g&ouml;lgeli alan yoktur.**
     - C-) Işık y&uuml;z&uuml;n bir b&ouml;l&uuml;m&uuml;ne 45 derecelik a&ccedil;ı ile verilir.
     - D-) Az ışık alan y&uuml;z&uuml;n diğer b&ouml;l&uuml;m&uuml;nde g&ouml;z&uuml;n altında ve elmacık kemiğinde ters &uuml;&ccedil;gen şeklinde bir aydınlatma olur.
     - E-) Kadraj alanı i&ccedil;inde konunun belli b&ouml;lgeleri aydınlatılırken diğer b&ouml;lgeleri tamamen ya da azaltılmış oranda karartılır.
     <hr />
-1. <strong>St&uuml;dyo ortamında fotoğrafı &ccedil;ekilecek bir konunun d&ouml;rt ışık ile aydınlatılmasında aşağıdaki ışıklardan hangisi <u>kullanılmaz</u>?</strong><br />
-
+1. <strong>St&uuml;dyo ortamında fotoğrafı &ccedil;ekilecek bir konunun d&ouml;rt ışık ile aydınlatılmasında aşağıdaki ışıklardan hangisi <u>kullanılmaz</u>?</strong>
     - A-) Ana (anahtar) ışık
     - B-) Yardımcı ışık
     - **Cevap C-) Ortam ışığı**
@@ -862,56 +891,49 @@ IV. G&ouml;lge ve aydınlık b&ouml;lgeyi aynı anda barındırır.<br />
 II. Yardımcı ışık, daima konuyu tam karşıdan aydınlatacak şekilde kullanılır.<br />
 III. Asıl işlevi, ışık almayan b&ouml;lgelere ışık vererek kontrastı d&uuml;ş&uuml;rmektir.<br />
 IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanılır.<br />
-<strong>Dolgu (yardımcı) ışıkla ilgili yukarıdaki &ouml;zelliklerden hangileri <u>yanlıştır</u>?</strong><br />
-
+<strong>Dolgu (yardımcı) ışıkla ilgili yukarıdaki &ouml;zelliklerden hangileri <u>yanlıştır</u>?</strong>
     - A-) I ve II
     - B-) I ve III
     - C-) II ve III
     - **Cevap D-) II ve IV**
     - E-) III ve IV
     <hr />
-1. <strong>High Key aydınlatma i&ccedil;in </strong><strong>aşağıdakilerden hangisi&nbsp;</strong><strong><u>s&ouml;ylenemez</u>?</strong><br />
-
+1. <strong>High Key aydınlatma i&ccedil;in </strong><strong>aşağıdakilerden hangisi&nbsp;</strong><strong><u>s&ouml;ylenemez</u>?</strong>
     - A-) Işık kaynakları şiddetli olarak objeyi aydınlatır ve parlak g&ouml;r&uuml;nt&uuml; oluşur.
     - **Cevap B-) Kontrast olduk&ccedil;a y&uuml;ksektir.**
     - C-) Aydınlatılan kişiler daha mutlu g&ouml;z&uuml;k&uuml;rler.
     - D-) Birden fazla ışık kaynağı kullanıldığında daha kolay elde edilir.
     - E-) Işığın şiddetinin y&uuml;ksek oluşu, g&ouml;lgeleri ve g&ouml;r&uuml;nt&uuml;de doku zenginliğini yok eder.
     <hr />
-1. <strong>Low Key aydınlatmaya ilişkin aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong><br />
-
+1. <strong>Low Key aydınlatmaya ilişkin aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Fotoğraf karesi i&ccedil;inde objenin yalnız bir b&ouml;l&uuml;m&uuml; aydınlatılır.
     - B-) Dramatik bir atmosfer elde edilerek gerilimli bir ifadeye ulaşmaya &ccedil;alışılır.
     - C-) &Ccedil;ekilen fotoğraflarda tonlar daha koyu ve h&acirc;kim renk genellikle siyahtır.
     - D-) &Ccedil;oğu zaman tek ışık kullanılır.
     - **Cevap E-) Reflekt&ouml;r yardımı ile fotoğraf tamamen karartılır.**
     <hr />
-1. <strong>Reklam fotoğrafında ışıktan s&ouml;z edildiğinde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong><br />
-
+1. <strong>Reklam fotoğrafında ışıktan s&ouml;z edildiğinde aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Işığın konu &uuml;zerinde en aydınlık b&ouml;lgeden en karanlık b&ouml;lgeye g&ouml;re &ldquo;ton farkı&rdquo; oluştururken kontrastı da belirlenmiş olur.
     - B-) G&uuml;n ışığında yapılan bir reklam &ccedil;ekimi d&uuml;ş&uuml;n&uuml;ld&uuml;ğ&uuml;nde; sabahın erken ve akşamın ge&ccedil; saatlerinde, g&uuml;neşin rengi daha sarı olduğu i&ccedil;in &ccedil;ekilen fotoğrafta da hakim renk sarı olacaktır.
     - C-) Işık, konudan uzaklaştık&ccedil;a şiddeti, aldığı mesafenin karesi oranında azalır.
     - **Cevap D-) Işık, saydam ya da yarı saydam bir objeden s&uuml;z&uuml;lerek konuyu aydınlatıyorsa, s&uuml;z&uuml;ld&uuml;ğ&uuml; objenin rengini almaz, kaynağındaki rengi konu &uuml;zerine taşır.**
     - E-) Işık, yansıyarak geldiğinde, yansıdığı y&uuml;zeyin rengini alarak konuyu aydınlatır.
     <hr />
-1. <strong>Rembrandt&rsquo;ın asıl mesleği aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Rembrandt&rsquo;ın asıl mesleği aşağıdakilerden hangisidir?</strong>
     - A-) Heykeltıraş
     - B-) Şair
     - **Cevap C-) Ressam**
     - D-) Fotoğraf&ccedil;ı
     - E-) Sanat Tarih&ccedil;i
     <hr />
-1. <strong>&Ouml;zel ışık aydınlatma başlığı altında verilen aydınlatma &ccedil;eşitleri aşağıdaki hangi şıkta doğru şekilde verilmiştir?</strong><br />
-
+1. <strong>&Ouml;zel ışık aydınlatma başlığı altında verilen aydınlatma &ccedil;eşitleri aşağıdaki hangi şıkta doğru şekilde verilmiştir?</strong>
     - **Cevap A-) Rembrandt aydınlatma, High Key, Low Key**
     - B-) Tek ışıklı aydınlatma, iki ışıklı aydınlatma
     - C-) High Key, Low Key, &ccedil;oklu aydınlatma
     - D-) Rembrandt aydınlatması, &ccedil;oklu aydınlatma, &uuml;&ccedil;l&uuml; aydınlatma
     - E-) İkili aydınlatma, &uuml;&ccedil;l&uuml; aydınlatma, &ccedil;oklu aydınlatma
     <hr />
-1. <strong>Fotoğraf&ccedil;ılıkta anahtar ışığın diğer adı aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong><br />
-
+1. <strong>Fotoğraf&ccedil;ılıkta anahtar ışığın diğer adı aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
     - **Cevap A-) Ana ışık**
     - B-) Tepe ışığı
     - C-) Dolgu ışığı
@@ -924,6 +946,13 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - C-) S&uuml;z&uuml;lm&uuml;ş Işık, Dolgu Işığı
     - **Cevap D-) Anahtar Işık, Dolgu Işığı**
     - E-) Anahtar Işık, Tepe Işığı
+    <hr />
+1. <strong>Işık, konuyu aydınlatırken şiddetli aydınlattığı b&ouml;lgeden daha az şiddetli aydınlattığı b&ouml;lgeye doğru ilerlerken g&uuml;&ccedil; kaybederek yoluna devam eder. Işığın konu &uuml;zerinde oluşturduğu bu değişim fotoğraf&ccedil;ılıkta aşağıdaki hangi kavram ile ifade edilmektedir?&nbsp;</strong>
+    - **Cevap A-) Ton Farkı&nbsp;**
+    - B-) Kontrast
+    - C-) Fon Işığı
+    - D-) Ortam Işığı
+    - E-) Tepe Işığı
     <hr />
 1. <strong>Bir fotoğrafta ana ışıkla konunun bir b&ouml;l&uuml;m&uuml; aydınlanırken diğer b&ouml;l&uuml;m&uuml;nde kullanılan ve ana ışığa oranla daha d&uuml;ş&uuml;k şiddette olan ışık t&uuml;r&uuml;ne verilen ad aşağıdakilerden hangisidir?</strong>
     - A-) Ters ışık
@@ -955,8 +984,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - E-) Pop&uuml;ler fotoğraflara yorum yapılmalıdır.
     <hr />
 1. Kitle iletişim ara&ccedil;ları &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. g&ouml;rsellikleri yeniden tasarlar.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) reel &ndash; sanal &ndash; sayısal**
     - B-) s&ouml;zl&uuml; &ndash; yazılı &ndash; sembolik
     - C-) duygusal &ndash; bilişsel &ndash; davranışsal
@@ -966,8 +994,7 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
 1. I. Mesajın hedef kitlenin &ouml;zelliklerine g&ouml;re kurgulanmasını kolaylaştırır.<br />
 II. Ekonomik ve siyasi meselelerle ilgilidir.<br />
 III. Ger&ccedil;ekliği bağlamından kopararak yeniden &uuml;retir.<br />
-<strong>Yukarıdaki alternatif fotoğraf&ccedil;ılığa ilişkin ifadelerden hangisi ya da hangileri <u>yanlıştır</u>?</strong><br />
-
+<strong>Yukarıdaki alternatif fotoğraf&ccedil;ılığa ilişkin ifadelerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -1042,8 +1069,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - **Cevap D-) Para kazanma**
     - E-) Uyarma
     <hr />
-1. <strong>Polaroid firması 2009 yılında girmiş olduğu ekonomik krizden &ccedil;ıkmak i&ccedil;in aşağıdaki hangi &uuml;nl&uuml; sanat&ccedil;ıyı creative director olarak ortaklığına almıştır ?</strong><br />
-
+1. <strong>Polaroid firması 2009 yılında girmiş olduğu ekonomik krizden &ccedil;ıkmak i&ccedil;in aşağıdaki hangi &uuml;nl&uuml; sanat&ccedil;ıyı creative director olarak ortaklığına almıştır ?</strong>
     - **Cevap A-) Lady Gaga**
     - B-) Cindy Crawford
     - C-) Tom Cruise
@@ -1081,16 +1107,14 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Leaf Capture
     - E-) Nikon Capture NX
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ekim sonrasında g&ouml;r&uuml;nt&uuml; işleme nedenleri arasında <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi &ccedil;ekim sonrasında g&ouml;r&uuml;nt&uuml; işleme nedenleri arasında <u>yer almaz</u>?</strong>
     - A-) Objektiften kaynaklanan hataları d&uuml;zeltmek
     - B-) Fotoğrafta g&ouml;r&uuml;lmesi istenmeyen nesneleri &ccedil;ıkarmak ve silmek
     - **Cevap C-) &Ccedil;ekilen fotoğrafı arşivlemek**
     - D-) Anlatımı destekleyecek &ouml;zel efekt ve filtre uygulamaları kullanmak
     - E-) Netlik ve keskinlik problemlerini d&uuml;zeltmek
     <hr />
-1. <strong>Filme pozlanan bir g&ouml;r&uuml;nt&uuml;n&uuml;n bilgisayar ortamında işlenebilmesi i&ccedil;in aşağıdakilerden hangisi yapılmalıdır?</strong><br />
-
+1. <strong>Filme pozlanan bir g&ouml;r&uuml;nt&uuml;n&uuml;n bilgisayar ortamında işlenebilmesi i&ccedil;in aşağıdakilerden hangisi yapılmalıdır?</strong>
     - **Cevap A-) Taranmış olması**
     - B-) Pozlanmış olması
     - C-) Kart &uuml;zerine baskısının yapılması
@@ -1196,8 +1220,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Arka plan belirli bir zamana veya mek&acirc;na ait bilgiler taşımamalıdır.
     - **Cevap E-) Tanınmış erkek ve kadın modellerle &ccedil;alışılmalıdır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılarının belirli bir alanda uzmanlaşma gerekliliklerinden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılarının belirli bir alanda uzmanlaşma gerekliliklerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Mesleki rekabet koşulları**
     - B-) Hizmet verilen sekt&ouml;rlerin kendine &ouml;zg&uuml; &ouml;zellikleri
     - C-) Fotoğraf&ccedil;ıların ilgi alanları
@@ -1310,16 +1333,14 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) &Uuml;r&uuml;n&uuml;n g&ouml;rsel a&ccedil;ıdan cazip g&ouml;sterilmesinde ışık ge&ccedil;irme durumu belirleyici olmaktadır.
     - **Cevap E-) Fotoğraflarda d&uuml;zensizlik, &ccedil;atlak, toz ve parmak izi gibi ayrıntı ve detaylar &ouml;nemsiz kalmaktadır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğraf st&uuml;dyolarının temel fiziki &ouml;zelliklerinden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi fotoğraf st&uuml;dyolarının temel fiziki &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Işıktan yalıtılmış olması
     - B-) Giriş &ccedil;ıkışın kontrol edilebilir olması
     - **Cevap C-) Asans&ouml;r bulunması**
     - D-) Fon bulunması
     - E-) Yapay ışık kaynaklarının bulunması
     <hr />
-1. <strong>Aşağıdakilerden hangisi aydınlatmanın ama&ccedil;ları arasında <u>yer almaz</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi aydınlatmanın ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) &Uuml;r&uuml;nleri g&ouml;r&uuml;n&uuml;r kılmak.
     - **Cevap B-) &Uuml;r&uuml;nlerin maliyetlerini azaltmak.**
     - C-) &Uuml;r&uuml;nlerin niteliklerinin vurgulanması.
@@ -1438,8 +1459,7 @@ III. Kumaş y&uuml;zeyli &uuml;r&uuml;nler<br />
     - E-) Metin i&ccedil;inde tırnaklı karakterler tercih edilmelidir.
     <hr />
 1. &ldquo;Reklamcılığın &ouml;z&uuml;nde &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. yatar.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) yan anlam &ndash; mantık &ndash; duygular
     - B-) s&ouml;zc&uuml;kler &ndash; resimler &ndash; ikonlar
     - C-) g&ouml;r&uuml;nt&uuml;ler &ndash; yazılı-g&ouml;rsel unsurlar &ndash; sesler
@@ -1449,8 +1469,7 @@ III. Kumaş y&uuml;zeyli &uuml;r&uuml;nler<br />
 1. I. Reklamı yapılan marka ya da &uuml;r&uuml;n&uuml;n &ouml;zellikleri<br />
 II. &Uuml;r&uuml;n&uuml;n hedef kitleye sunduğu fayda<br />
 III. Hedef kitlenin olumsuz davranışları<br />
-<strong>Yukarıdakilerden hangisi veya hangileri reklam metni yazımı sırasında g&ouml;z &ouml;n&uuml;nde bulundurulan unsurlardır?</strong><br />
-
+<strong>Yukarıdakilerden hangisi veya hangileri reklam metni yazımı sırasında g&ouml;z &ouml;n&uuml;nde bulundurulan unsurlardır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**
@@ -1525,6 +1544,13 @@ III. &Ccedil;ok sayıda anahtar s&ouml;zc&uuml;k yoluyla geliştirilir.<br />
     - D-) ironik
     - E-) metafizik
     <hr />
+1. <strong>Bir eşyayı, objeyi, yeri, işleyişi ya da kavramı resim yoluyla temsil eden sembole ne ad verilir?</strong>
+    - A-) Somutlaştırma
+    - B-) Amblem
+    - C-) Logo
+    - **Cevap D-) Piktogram**
+    - E-) İl&uuml;strasyon
+    <hr />
 1. Reklam fotoğrafının işlevleri bağlamında değerlendirildiğinde başarılı fotoğraf, başarılı .................... demektir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) tasarım
@@ -1576,8 +1602,7 @@ III. T&uuml;ketim toplumu<br />
     - E-) Feminist &ccedil;&ouml;z&uuml;mleme
     <hr />
 1. Reklamlarda kullanılan fotoğraflar ve g&ouml;r&uuml;nt&uuml;ler, g&ouml;rsel bir &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; işaret eder.&nbsp;<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) eksiltiye
     - **Cevap B-) retoriğe**
     - C-) ertelemeye
@@ -1585,8 +1610,7 @@ III. T&uuml;ketim toplumu<br />
     - E-) azaltmaya
     <hr />
 1. G&ouml;stergebilim anlamın ........ olduğuna değil; ........yansıtılıp, metinlere aktarıldığıyla ilgilenir.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) nasıl &ndash; ne i&ccedil;in
     - B-) ne i&ccedil;in - nasıl
     - C-) ne - neden
@@ -1688,16 +1712,14 @@ III. T&uuml;ketim toplumu<br />
     - E-) Yansılama (Parodie)
     <hr />
 ## Unite 14
-1. <strong>Aşağıdaki sunum şekillerinden hangisi bir fotoğraf sunum şekli <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdaki sunum şekillerinden hangisi bir fotoğraf sunum şekli <u>değildir</u>?</strong>
     - A-) Sergi a&ccedil;mak
     - B-) Foto-alb&uuml;m ya da katalog yayımlamak
     - C-) Web sayfası &uuml;zerinden sunmak
     - **Cevap D-) Y&uuml;z y&uuml;ze konuşmak**
     - E-) Portfolyo hazırlamak
     <hr />
-1. <strong>Bir fotoğraf portfolyosu aşağıdakilerden hangisi i&ccedil;in <u>hazırlanmaz</u>?</strong><br />
-
+1. <strong>Bir fotoğraf portfolyosu aşağıdakilerden hangisi i&ccedil;in <u>hazırlanmaz</u>?</strong>
     - A-) Fotoğraf eğitimi veren bir kuruma kabul edilmek i&ccedil;in
     - B-) Bir reklam fotoğrafı &ccedil;ekim işini almak i&ccedil;in
     - **Cevap C-) Bir fotoğraf st&uuml;dyosu satın almak i&ccedil;in**
@@ -1782,6 +1804,17 @@ III. T&uuml;ketim toplumu<br />
     - **Cevap C-) Altın yaldızlı k&acirc;ğıt**
     - D-) Mat k&acirc;ğıt
     - E-) Parlak k&acirc;ğıt
+    <hr />
+1. I. Kapak<br />
+II. &Ouml;zge&ccedil;miş<br />
+III. Giriş yazısı<br />
+IV. Se&ccedil;ilen fotoğraflar<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri bir fotoğraf portfolyosunda olması gerekenler arasında yer alır?</strong>
+    - A-) Yalnız II
+    - B-) I ve III
+    - C-) II ve IV
+    - D-) I, II ve III
+    - **Cevap E-) I, II, III ve IV**
     <hr />
 1. <strong>Usta fotoğraf&ccedil;ıların, fotoğraf se&ccedil;mek i&ccedil;in &ccedil;ekimden sonra altı ay&nbsp;gibi bir s&uuml;renin ge&ccedil;mesini &ouml;nermesinin nedeni aşağıdakilerden hangisidir?</strong>
     - A-) Proje i&ccedil;in alınan izin s&uuml;relerini etkili kullanılarak eksiksiz bir &ccedil;ekim yapılması istenmektedir.

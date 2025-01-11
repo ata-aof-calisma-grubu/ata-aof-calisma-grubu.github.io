@@ -187,6 +187,13 @@ IV. Yeniden d&uuml;zenleme<br />
     - D-) Marksizm
     - E-) Monarşizm
     <hr />
+1. <strong>K&ouml;ken olarak Arap&ccedil;a &ldquo;kalb&rdquo; k&ouml;k&uuml;nden gelen ve bir h&acirc;lden başka bir h&acirc;le d&ouml;n&uuml;şmeyi ifade eden kavram aşağıdakilerden hangisidir?</strong>
+    - A-) İsyan
+    - B-) İhtilal
+    - **Cevap C-) İnkılap**
+    - D-) Tek&acirc;m&uuml;l
+    - E-) Reform
+    <hr />
 1. <strong>Litarat&uuml;rde tamamlanmak ve m&uuml;kemmelleşmek olarak bilinen ve &ldquo;kemal&rdquo; k&ouml;k&uuml;nden t&uuml;reyen &ldquo;tek&acirc;m&uuml;l&rdquo; s&ouml;zc&uuml;ğ&uuml;n&uuml;n Batı dillerindeki karşılığı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Evolution**
     - B-) Reformation
@@ -271,7 +278,7 @@ IV. Azınlıkların faaliyetleri<br />
     - D-) Timar
     - E-) Şura-yı Devlet
     <hr />
-1. L&uuml;gat manası mektup olup bu tabir Osmanlı Devleti&rsquo;nde herhangi bir g&ouml;reve, hizmete tayin veya maaş tahsisi yahut da unvan ve nişan verilmesi, bir muafiyet veya imtiyaz verilmesi dolayısıyla hazırlanan fermanlar i&ccedil;in kullanılmıştır.<br />
+1. L&uuml;gat manası &quot;mektup&quot; olup bu tabir Osmanlı Devleti&rsquo;nde herhangi bir g&ouml;reve, hizmete tayin veya maaş tahsisi yahut da unvan ve nişan verilmesi, bir muafiyet veya imtiyaz verilmesi dolayısıyla hazırlanan fermanlar i&ccedil;in kullanılmıştır.<br />
 <strong>A&ccedil;ıklaması yapılan kavram aşağıdakilerden hangisidir?</strong>
     - A-) Ferman
     - **Cevap B-) Berat**
@@ -328,12 +335,26 @@ IV. Azınlıkların faaliyetleri<br />
     - D-) Farklı din, mezhep ve ırklara karşı olduk&ccedil;a hoşg&ouml;r&uuml;l&uuml; olması
     - E-) Kapıkulu sisteminin iyi işlemesi
     <hr />
+1. <strong>Osmanlı Devleti&#39;nde &quot;din b&uuml;rokrasisi&quot;ni oluşturan sınıf aşağıdakilerden hangisidir?</strong>
+    - A-) Reaya
+    - **Cevap B-) Ulema**
+    - C-) Kalemiyye
+    - D-) Enderun
+    - E-) Ayan
+    <hr />
 1. <strong>Sonu&ccedil;larının insanlığı derinden etkilediği Fransız İhtilali&#39;nin ger&ccedil;ekleştiği tarih aşağıdakilerden hangisidir?</strong>
     - A-) 1918
     - B-) 1908
     - **Cevap C-) 1789**
     - D-) 1914
     - E-) 1920
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Osmanlı Devleti&rsquo;ni, &ccedil;ağının en itibarlı devleti yapan sebeplerden biri</strong> <strong><u>değildir</u>?</strong>
+    - A-) G&uuml;&ccedil;l&uuml; asker&icirc; teşkilatının olması
+    - B-) Kapıkulu sisteminin iyi işlemesi
+    - C-) Hukuk devleti olması
+    - **Cevap D-) Devlet y&ouml;neticilerinin g&ouml;sterişli ve şatafatlı bir yaşam tarzına sahip olması**
+    - E-) Farklı din, mezhep ve ırklara karşı olduk&ccedil;a hoşg&ouml;r&uuml;l&uuml; olması
     <hr />
 ## Unite 3
 1. <strong>Osmanlı Devleti&rsquo;nde matbaanın M&uuml;sl&uuml;manların hizmetine başlama tarihi aşağıdakilerden hangisidir?</strong>
@@ -498,6 +519,15 @@ V. İlk defa resm&icirc; gazete &ccedil;ıkarıldı.<br />
     - C-) Vergilerin eşit alınmaması
     - **Cevap D-) Gayrim&uuml;slimlere y&ouml;nelik hukuki hakların azaltılmak istenmesi**
     - E-) Avrupalı devletlerin dış baskısı
+    <hr />
+1. Sadrazam Mustafa Reşit Paşa, yapılması gereken ıslahatlarla ilgili programı hazırlayarak padişahın onayına sundu.<br />
+Tarihte &ldquo;Hatt-ı H&uuml;mayun&rdquo; olarak da anılan program padişah Abdulmecit tarafından onaylanarak 3 Kasım 1839&#39;da y&uuml;r&uuml;rl&uuml;ğe girdi.<br />
+<strong>Devletin siyasi, sosyal, asker&icirc; ve k&uuml;lt&uuml;rel alanlarda k&ouml;t&uuml; gidişatını &ouml;nlemek i&ccedil;in &ccedil;ok geniş reformları i&ccedil;eren bu program aşağıdakilerden hangisidir?</strong>
+    - A-) Kan&ucirc;n-ı Es&acirc;s&icirc;
+    - **Cevap B-) Tanzimat Fermanı**
+    - C-) Nizam-ı Cedit
+    - D-) I. Meşrutiyet
+    - E-) Islahat Fermanı
     <hr />
 1. <strong>T&uuml;rk modernleşmesi i&ccedil;in &ouml;nemli bir kilometre taşı olan ve 3 Kasım 1839-23 Aralık 1876 tarihleri arasını kapsayan d&ouml;nem aşağıdakilerden hangisidir?</strong>
     - A-) Islahat
@@ -739,7 +769,7 @@ V. Batı d&uuml;nyasının İslam d&uuml;nyasına karşı oryantalist ve misyone
     - **Cevap D-) T&uuml;rk&ccedil;&uuml;l&uuml;k**
     - E-) Adem-i Merkez&icirc;yet&ccedil;ilik
     <hr />
-1. <strong>I. D&uuml;nya Savaşı &ouml;ncesi ortaya &ccedil;ıkan &Uuml;&ccedil;l&uuml; İttifak Grubu, hangi &uuml;lkenin &ouml;nc&uuml;l&uuml;ğ&uuml;nde oluşturulmuştur?</strong>
+1. <strong>I. D&uuml;nya Savaşı &ouml;ncesi ortaya &ccedil;ıkan &Uuml;&ccedil;l&uuml; İttifak Grubu hangi &uuml;lkenin &ouml;nc&uuml;l&uuml;ğ&uuml;nde oluşturulmuştur?</strong>
     - **Cevap A-) Almanya**
     - B-) İngiltere
     - C-) Fransa
@@ -770,6 +800,14 @@ IV. Aşırı silahlanma ve militarizm&nbsp;<br />
     - **Cevap C-) I. D&uuml;nya Savaşı**
     - D-) Trablusgarp Savaşı
     - E-) Kurtuluş Savaşı
+    <hr />
+1. Avrupa&#39;da ekonomik g&uuml;c&uuml; en &uuml;st d&uuml;zeye &ccedil;ıkaran Sanayi İnkılabı ile Avrupa Devletleri arasında 19. y&uuml;zyıl başlarında b&uuml;y&uuml;k bir yarış başlamıştır.<br />
+<strong>Bu yarış aşağıdakilerden hangisine y&ouml;neliktir?</strong>
+    - A-) R&ouml;nesans hareketlerinin başlamasına
+    - B-) Coğrafi keşiflerin yaygınlaştırılmasına
+    - **Cevap C-) S&ouml;m&uuml;rge alanlarının arttırılmasına**
+    - D-) D&uuml;nya barışına katkı sağlamasına
+    - E-) Avrupalı devletlerin itibarlı ve b&uuml;y&uuml;k devlet olmasına
     <hr />
 1. <strong>Aşağıdakilerden hangisi I. Balkan Savaş&#39;ına <u>katılmamıştır</u>?</strong>
     - A-) Bulgaristan
@@ -884,7 +922,7 @@ III. Osmanlı Devleti&rsquo;ni savaş dışında bırakmak.<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Aşağıdaki devletlerden hangisinde, I. D&uuml;nya Savaşı&#39;nın devam ettiği sırada rejim değişikliği olmuştur?</strong> 
+1. <strong>Aşağıdaki devletlerden hangisinde I. D&uuml;nya Savaşı&#39;nın devam ettiği sırada rejim değişikliği olmuştur?</strong> 
     - A-) Fransa
     - **Cevap B-) Rusya**
     - C-) Almanya
@@ -919,6 +957,20 @@ III. Osmanlı Devleti&rsquo;ni savaş dışında bırakmak.<br />
     - D-) İttifak Devletleri Bulgaristan&rsquo;ı kendi yanlarına aldı.
     - E-) Osmanlı Devleti boğazları ve İstanbul&rsquo;u elde tutmayı başardı.
     <hr />
+1. <strong>Osmanlı Devleti&rsquo;nin savaştığı cephelerden hangisi savaşın uzamasında ve Rus &Ccedil;arlığı&rsquo;nın yıkılmasında etkili olmuştur?</strong> 
+    - A-) Kafkas Cephesi
+    - B-) Marn Cephesi
+    - C-) Gali&ccedil;ya Cephesi
+    - **Cevap D-) &Ccedil;anakkale Cephesi**
+    - E-) Irak Cephesi
+    <hr />
+1. <strong>I. D&uuml;nya Savaşı&rsquo;nda T&uuml;rk birlikleri m&uuml;ttefiklerine yardım amacıyla aşağıdaki cephelerden hangisinde savaşmıştır?</strong>
+    - **Cevap A-) Gali&ccedil;ya**
+    - B-) Mısır
+    - C-) Kafkasya
+    - D-) &Ccedil;anakkale
+    - E-) İran
+    <hr />
 1. <strong>Aşağıdakilerden hangisi I. D&uuml;nya Savaşı sırasında Osmanlı Devleti&#39;nin savaştığı cephelerden biri <u>değildir</u>?</strong>
     - A-) Kafkas Cephesi
     - B-) Irak Cephesi
@@ -946,9 +998,16 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
 <strong>I. D&uuml;nya Savaşı&#39;nda İtilaf Devletleri yukarıdaki sebeplerden dolayı Osmanlı Devleti&#39;ne karşı hangi cepheyi a&ccedil;mışlardır?</strong>
     - A-) Kafkas Cephesi
     - B-) Kanal Cephesi
-    - C-) Suriye- Filistin Cephesi&nbsp;
+    - C-) Suriye- Filistin Cephesi
     - **Cevap D-) &Ccedil;anakkale Cephesi&nbsp;**
-    - E-) Gali&ccedil;ya Cephesi&nbsp;
+    - E-) Gali&ccedil;ya Cephesi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi&nbsp;Osmanlı Devleti&rsquo;nin Almanya&rsquo;nın yanında savaşa girme nedenleri arasında <u>yer almaz</u>?&nbsp;</strong>
+    - A-) Rusya&rsquo;nın dağılması h&acirc;linde b&uuml;y&uuml;k Turan İmparatorluğu kurulabileceği d&uuml;ş&uuml;ncesi
+    - **Cevap B-) İtilaf Devletleri&#39;nin Osmanlı topraklarına saldırması**
+    - C-) Son savaşlarda kaybedilen toprakların geri alınmak istenmesi
+    - D-) Almanya&rsquo;nın savaştan galip &ccedil;ıkacağı d&uuml;ş&uuml;ncesi
+    - E-) T&uuml;rk-Alman dostluğu
     <hr />
 1. <strong>28 Haziran 1914&rsquo;te Saraybosna&rsquo;yı ziyaret eden Avusturya- Macaristan İmparatorluğu Veliahtı Franz Ferdinand ve karısının, Princip adında bir Sırp milliyet&ccedil;isi&nbsp;tarafından suikast sonucu &ouml;ld&uuml;r&uuml;lmesi aşağıdaki olaylardan hangisinin &ccedil;ıkmasının sebeplerinden olmuştur?</strong>
     - **Cevap A-) I. D&uuml;nya Savaşı**
@@ -1065,6 +1124,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - **Cevap D-) Rauf Bey**
     - E-) Enver Bey
     <hr />
+1. <strong>Aşağıdakilerden hangisi Paris Barış Konferansı&rsquo;nı y&uuml;r&uuml;t&uuml;c&uuml; egemen devletlerden biri <u>değildir</u>?</strong>
+    - A-) İtalya
+    - B-) İngiltere
+    - **Cevap C-) Almanya**
+    - D-) Fransa
+    - E-) ABD
+    <hr />
 1. <strong>Almanya&rsquo;nın I. D&uuml;nya Savaşı sonrası imzalamak zorunda kaldığı antlaşma aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Versailles Barış Antlaşması**
     - B-) G&uuml;mr&uuml; Antlaşması
@@ -1119,7 +1185,14 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - B-) Lozan Anlaşması
     - **Cevap C-) Mondros M&uuml;tarekesi&nbsp;**
     - D-) Sevr Antlaşması
-    - E-) İstanbul Antlaşması&nbsp;
+    - E-) İstanbul Antlaşması
+    <hr />
+1. <strong>I. D&uuml;nya Savaşı&#39;nın ardından 28 Haziran 1919&#39;da İtilaf Devletleri ile Almanya arasında imzalanan anlaşma aşağıdakilerden hangisidir?&nbsp;</strong>
+    - A-) Neuilly Antlaşması
+    - B-) St. Germain Barış Antlaşması
+    - C-) B&uuml;kreş Antlaşması
+    - **Cevap D-) Versailles Barış Antlaşması**
+    - E-) Trianon Antlaşması
     <hr />
 1. <strong>Aşağıdakilerden hangisi I. D&uuml;nya Savaşı yıllarında, İtilaf Devletleri&#39;nin Osmanlı Devleti&#39;ni paylaşmak i&ccedil;in yaptıkları gizli anlaşmalar arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) B&uuml;kreş Anlaşması**
@@ -1178,55 +1251,49 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Karakol Cemiyeti
     - E-) Kilikyalılar Cemiyeti
     <hr />
-1. <strong>Aşağıdakilerden hangisi 1814&rsquo;te Megalo İdea&rsquo;yı ger&ccedil;ekleştirmek amacıyla Rumlar tarafından kurulmuş olan zararlı cemiyettir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi 1814&rsquo;te Megalo İdea&rsquo;yı ger&ccedil;ekleştirmek amacıyla Rumlar tarafından kurulmuş olan zararlı cemiyettir?</strong>
     - A-) K&uuml;rt Teali Cemiyeti
     - B-) Hın&ccedil;ak Cemiyeti
     - **Cevap C-) Etniki Eterya Cemiyeti**
     - D-) Kordos Komitesi
     - E-) Yunan Kızılha&ccedil;ı
     <hr />
-1. <strong>11 Aralık 1918&rsquo;de Dr. Esat Bey (Işık) tarafından İstanbul&rsquo;da kurulan ve partiler &uuml;st&uuml; bir teşkilat olan yararlı cemiyet aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>11 Aralık 1918&rsquo;de Dr. Esat Bey (Işık) tarafından İstanbul&rsquo;da kurulan ve partiler &uuml;st&uuml; bir teşkilat olan yararlı cemiyet aşağıdakilerden hangisidir?</strong>
     - A-) İzmir M&uuml;dafaa-i Hukuk-ı Osmaniye Cemiyeti
     - B-) Karakol Cemiyeti
     - C-) İstanbul M&uuml;dafaa-i Milliye Cemiyeti
     - D-) Trakya Paşaeli M&uuml;dafaa-i Hukuk-ı Osmaniye Cemiyeti
     - **Cevap E-) Mill&icirc; Kongre Cemiyeti**
     <hr />
-1. <strong>Sivas Kongresi sonrası, Sivaslı vatansever kadınların bir araya gelerek kurdukları yararlı cemiyet aşağıdakilerden hangisidir?</strong>&nbsp;
+1. <strong>Sivas Kongresi sonrası, Sivaslı vatansever kadınların bir araya gelerek kurdukları yararlı cemiyet aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Anadolu Kadınları M&uuml;dafaa-i Vatan Cemiyeti**
     - B-) M&uuml;sl&uuml;man Kadınlar Birliği
     - C-) Vatansever Anadolu Kadınları Cemiyeti
     - D-) Trakya Kadınları Cemiyeti
     - E-) T&uuml;rk Kadınlar Cemiyeti
     <hr />
-1. <strong>Aşağıdaki cemiyetlerden hangisi Sivas Kongresi&rsquo;nde teşekk&uuml;l ettirilmiştir?</strong><br />
-
+1. <strong>Aşağıdaki cemiyetlerden hangisi Sivas Kongresi&rsquo;nde teşekk&uuml;l ettirilmiştir?</strong>
     - A-) Kilikyalılar Cemiyeti
     - B-) Trakya Paşaeli Cemiyeti
     - C-) Reddi İlhak Cemiyeti
     - **Cevap D-) Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti**
     - E-) Mill&icirc; Kongre Cemiyeti
     <hr />
-1. <strong>Aşağıdakilerden hangisi mill&icirc; varlığa d&uuml;şman cemiyetlerden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi mill&icirc; varlığa d&uuml;şman cemiyetlerden biri <u>değildir</u>?</strong>
     - A-) Sulh ve Selameti Osmaniye Fırkası
     - B-) Teali İslam Cemiyeti
     - C-) H&uuml;rriyet ve İtilaf Fırkası
     - D-) Wilson Prensipleri Cemiyeti
     - **Cevap E-) Kilikyalılar Cemiyeti**
     <hr />
-1. <strong>Aşağıdaki gazetelerden hangisi Mill&icirc; M&uuml;cadele d&ouml;neminde Erzurum&rsquo;da &ccedil;ıkarılmaktaydı?</strong><br />
-
+1. <strong>Aşağıdaki gazetelerden hangisi Mill&icirc; M&uuml;cadele d&ouml;neminde Erzurum&rsquo;da &ccedil;ıkarılmaktaydı?</strong>
     - A-) Sada-yı Millet
     - B-) İstikbal
     - **Cevap C-) Albayrak**
     - D-) İrade-yi Milliye
     - E-) Ahali
     <hr />
-1. <strong>Kurmuş oldukları silahlı &ccedil;etelerle masum insanları katleden, Anadolu&rsquo;nun &ccedil;eşitli b&ouml;lgelerinde isyanlar &ccedil;ıkaran, 1905&rsquo;teki II. Abdulhamit&rsquo;e yapılan suikast girişimi ve bir&ccedil;ok siyasi cinayetlerde aktif rol aynayan Ermeni &ouml;rg&uuml;t&uuml; aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Kurmuş oldukları silahlı &ccedil;etelerle masum insanları katleden, Anadolu&rsquo;nun &ccedil;eşitli b&ouml;lgelerinde isyanlar &ccedil;ıkaran, 1905&rsquo;teki II. Abdulhamit&rsquo;e yapılan suikast girişimi ve bir&ccedil;ok siyasi cinayetlerde aktif rol aynayan Ermeni &ouml;rg&uuml;t&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Mavri Mira
     - **Cevap B-) Ermeni Taşnak Komitesi**
     - C-) Kordos Cemiyeti
@@ -1236,32 +1303,28 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
 1. -Yaşadıkları b&ouml;lgeden hi&ccedil; bir surette g&ouml;&ccedil; etmemek.<br />
 -Halkı bilim, sanat, iktisat, din ve asker&icirc; alanda &ouml;rg&uuml;tlemek.<br />
 -Yapılacak herhangi bir saldırıya karşı silahlı savunma yapmak.<br />
-<strong>Anadolu&#39;da başlayan işgallere karşı kurulan ve yukarıda programı anahatlarıyla verilen cemiyet aşağıdakilerden hangisidir?</strong><br />
-
+<strong>Anadolu&#39;da başlayan işgallere karşı kurulan ve yukarıda programı anahatlarıyla verilen cemiyet aşağıdakilerden hangisidir?</strong>
     - A-) Trakya Paşaeli
     - B-) Trabzon Muhafaza-i Hukuk-ı Milliye
     - **Cevap C-) Vilayat-ı Şarkiye M&uuml;dafaa-i Hukuk**
     - D-) Mill&icirc; Kongre
     - E-) Kilikyalılar
     <hr />
-1. <strong>Mondros M&uuml;tarekesi&rsquo;nden hemen sonra Osmanlı topraklarını işgale başlayan ilk İtilaf Devleti aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Mondros M&uuml;tarekesi&rsquo;nden hemen sonra Osmanlı topraklarını işgale başlayan ilk İtilaf Devleti aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) İngiltere**
     - B-) Romanya
     - C-) Yunanistan
     - D-) Fransa
     - E-) İtalya
     <hr />
-1. <strong>Kendi b&ouml;lgelerindeki Ermenilerin zararlı faaliyetlerini engellemek amacı ile kurulan mill&icirc; cemiyetler aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong><br />
-
+1. <strong>Kendi b&ouml;lgelerindeki Ermenilerin zararlı faaliyetlerini engellemek amacı ile kurulan mill&icirc; cemiyetler aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Mill&icirc; Kongre Cemiyeti-Karakol Cemiyeti
     - B-) Trabzon Muhafaza-ı&nbsp; Hukuk Cemiyeti-Reddi İlhak Cemiyeti
     - **Cevap C-) Vilayat-ı Şarkiye M&uuml;dafaa-i Hukuk-ı&nbsp; Milliye Cemiyeti-Kilikyalılar Cemiyeti**
     - D-) Trakya Paşaeli Cemiyeti-Reddi İlhak Cemiyeti
     - E-) Anadolu Kadınları M&uuml;dafa-i Vatan Cemiyeti-M&uuml;dafaa-i Milliye Cemiyeti
     <hr />
-1. <strong>Mill&icirc; M&uuml;cadele d&ouml;neminde faaliyet g&ouml;steren &ldquo;Anadolu Kadınları M&uuml;dafaa-i Vatan&rdquo; cemiyeti hangi ilimizde kurulmuştur?</strong><br />
-
+1. <strong>Mill&icirc; M&uuml;cadele d&ouml;neminde faaliyet g&ouml;steren &ldquo;Anadolu Kadınları M&uuml;dafaa-i Vatan&rdquo; cemiyeti hangi ilimizde kurulmuştur?</strong>
     - A-) İstanbul
     - B-) Erzurum
     - C-) İzmir
@@ -1355,32 +1418,28 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Pontus Rum Cemiyeti
     - **Cevap E-) Wilson Prensipleri Cemiyeti**
     <hr />
-1. <strong>Aşağıdakilerden hangisi IX. Ordu Kıtaat-ı M&uuml;fettişi Mustafa Kemal Paşa&rsquo;nın g&ouml;reviyle ilgili <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi IX. Ordu Kıtaat-ı M&uuml;fettişi Mustafa Kemal Paşa&rsquo;nın g&ouml;reviyle ilgili <u>değildir</u>?</strong>
     - A-) B&ouml;lgede asayişin temini
     - B-) M&uuml;tareke gereğince silahların toplatılması
     - C-) Gayriresm&icirc; olduğu s&ouml;ylenen şuraların lağvedilmesi
     - D-) &Ccedil;etelerin lağvedilmesi
     - **Cevap E-) Mondros M&uuml;tarekesi&rsquo;nin uygulanması**
     <hr />
-1. <strong>&Uuml;nl&uuml; tarih&ccedil;i G. Jaeschke&rsquo;nin diplomasi şaheseri olarark değerlendirdiği talimatname aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>&Uuml;nl&uuml; tarih&ccedil;i G. Jaeschke&rsquo;nin diplomasi şaheseri olarark değerlendirdiği talimatname aşağıdakilerden hangisidir?</strong>
     - A-) Sivas Komutanlar Talimanamesi
     - **Cevap B-) IX. Ordu Kıtaat-ı M&uuml;fettişliği Talimatnamesi**
     - C-) Havza Talimatnamesi
     - D-) Misak-ı Mill&icirc; Talimatnamesi
     - E-) TBMM Talimatnamesi
     <hr />
-1. <strong>F. (Falke) ordusu olarak bilinen Osmanlı ordusu aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>F. (Falke) ordusu olarak bilinen Osmanlı ordusu aşağıdakilerden hangisidir?</strong>
     - A-) IX. Kolordu Komutanlığı
     - B-) XX. Kolordu Komutanlığı
     - **Cevap C-) Yıldırım Ordular Grubu Komutanlığı**
     - D-) Garp Cephesi Grup Komutanlığı
     - E-) Kafkas İslam Ordusu Komutanlığı
     <hr />
-1. <strong>Mondros M&uuml;tarekesi imzalandığında Mustafa Kemal Paşa hangi sıfatı taşımaktaydı?</strong><br />
-
+1. <strong>Mondros M&uuml;tarekesi imzalandığında Mustafa Kemal Paşa hangi sıfatı taşımaktaydı?</strong>
     - **Cevap A-) Yıldırım Ordular Komutanlığı**
     - B-) Kafkas Ordular Komutanlığı
     - C-) Trakya Ordular Komutanlığı
@@ -1471,6 +1530,13 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Rahip Frew
     - **Cevap E-) Halide Edip Adıvar**
     <hr />
+1. <strong>Mustafa Kemal Paşa, M&uuml;tarekeden sonra İstanbul&rsquo;a d&ouml;n&uuml;nce kendi d&uuml;ş&uuml;ncelerini ortaya koymak ve kamuoyu oluşturmak i&ccedil;in yakın arkadaşı Fethi Bey&rsquo;le birlikte aşağıdaki gazetelerden hangisini &ccedil;ıkarmıştır?</strong>
+    - A-) Vatan
+    - **Cevap B-) Minber**
+    - C-) T&uuml;rk&ccedil;e İstanbul
+    - D-) Vakit
+    - E-) Tasvir-i Efk&acirc;r
+    <hr />
 1. <strong>Aşağıdakilerden hangisi Mustafa Kemal Paşa&#39;ya verilen IX. Ordu Kıtaat M&uuml;fettişliği Talimatnamesi&#39;nin kapsadığı yerlerden biri <u>değildir</u>?</strong>
     - A-) Trabzon
     - B-) Erzurum
@@ -1514,32 +1580,28 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Samsun&rsquo;a &ccedil;ıkış
     - E-) Konya isyanları
     <hr />
-1. <strong>Mustafa Kemal Paşa Havza Beyannamesi&rsquo;nde kamuoyunu haksız işgallere karşı bilin&ccedil;lendirmek ve g&ouml;sterilen tepkileri canlı tutmak amacıyla hangi y&ouml;nteme başvurulmasını istemiştir?</strong><br />
-
+1. <strong>Mustafa Kemal Paşa Havza Beyannamesi&rsquo;nde kamuoyunu haksız işgallere karşı bilin&ccedil;lendirmek ve g&ouml;sterilen tepkileri canlı tutmak amacıyla hangi y&ouml;nteme başvurulmasını istemiştir?</strong>
     - A-) Siyasi parti kurulması
     - **Cevap B-) Mitingler d&uuml;zenlenmesi**
     - C-) Kooperatifleşme
     - D-) Mevcut durumu kabullenme
     - E-) İstanbul h&uuml;k&ucirc;meti ile iş birliği
     <hr />
-1. <strong>Amasya Genelgesi&rsquo;nin hazırlanma s&uuml;recine aşağıdaki isimlerden hangisi <u>katılmamıştır</u>?</strong><br />
-
+1. <strong>Amasya Genelgesi&rsquo;nin hazırlanma s&uuml;recine aşağıdaki isimlerden hangisi <u>katılmamıştır</u>?</strong>
     - A-) Rauf Bey
     - B-) Mustafa Kemal Paşa
     - C-) Ali Fuat Paşa
     - D-) K&acirc;zım Karabekir Paşa
     - **Cevap E-) Nurettin Paşa**
     <hr />
-1. <strong>Amasya Genelgesi&#39;nde &quot;Milletin bağımsızlığını yine milletin azmi ve kararı kurtaracaktır.&quot; maddesinin yer alması, aşağıdakilerden hangisinin değişeceğinin bir işaretidir?</strong><br />
-
+1. <strong>Amasya Genelgesi&#39;nde &quot;Milletin bağımsızlığını yine milletin azmi ve kararı kurtaracaktır.&quot; maddesinin yer alması, aşağıdakilerden hangisinin değişeceğinin bir işaretidir?</strong>
     - A-) Mebuslar Meclisindeki &uuml;yelerin
     - **Cevap B-) &Uuml;lkedeki egemenlik anlayışının**
     - C-) İstanbul H&uuml;k&ucirc;meti&#39;nin
     - D-) Merkezden y&ouml;netimin
     - E-) Başka milletlerle yapılan antlaşmaların
     <hr />
-1. <strong>Mustafa Kemal Paşa, 19 Mayıs 1919 g&uuml;n&uuml; Samsun&rsquo;a &ccedil;ıktığında hangi resm&icirc; g&ouml;revi taşımaktaydı?</strong><br />
-
+1. <strong>Mustafa Kemal Paşa, 19 Mayıs 1919 g&uuml;n&uuml; Samsun&rsquo;a &ccedil;ıktığında hangi resm&icirc; g&ouml;revi taşımaktaydı?</strong>
     - A-) Yıldırım Ordular Komutanlığı
     - B-) Kafkas Ordular Komutanlığı
     - **Cevap C-) IX. Ordu Kıtaat-ı M&uuml;fettişliği**
@@ -1547,24 +1609,21 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - E-) XX. Kolordu Komutanlığı
     <hr />
 1. Amasya Genelgesi, T&uuml;rk ulusuna ulusal egemenliğine kavuşması yolunda bir &ccedil;ağrı idi.<br />
-<strong>Bu &ccedil;ağrının gerek&ccedil;esi aşağıdakilerden hangisidir?</strong><br />
-
+<strong>Bu &ccedil;ağrının gerek&ccedil;esi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n ve ulusun geleceğinin tehlikede olması**
     - B-) İstanbul h&uuml;k&ucirc;metinin g&ouml;revini yapmaktan &ccedil;ekinmesi
     - C-) Ulusun bağımsızlığını yine ulusun azim ve kararının kurtaracağı
     - D-) Ulusal bir kongrenin kısa s&uuml;rede Sivas&rsquo;ta toplanmasına karar verilmesi
     - E-) Her olasılığa karşı durumun ulusal bir sır h&acirc;linde tutulması
     <hr />
-1. <strong>Amasya Genelgesi&rsquo;nde yer alan &ldquo;milletin geleceğini yine milletin azim ve kararı kurtaracaktır&rdquo; kararı, aşağıdaki ilkelerden hangisiyle ilgili <u>değildir</u>?</strong><br />
-
+1. <strong>Amasya Genelgesi&rsquo;nde yer alan &ldquo;milletin geleceğini yine milletin azim ve kararı kurtaracaktır&rdquo; kararı, aşağıdaki ilkelerden hangisiyle ilgili <u>değildir</u>?</strong>
     - A-) Milliyet&ccedil;ilikle
     - **Cevap B-) Devlet&ccedil;ilikle**
     - C-) Mill&icirc; egemenlikle
     - D-) Mill&icirc; birlikle
     - E-) Bağımsızlıkla
     <hr />
-1. <strong>Aşağıdakilerden hangisinde ilk kez mill&icirc; direniş ilkeleri bir protokol halinde hazırlanmıştır?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisinde ilk kez mill&icirc; direniş ilkeleri bir protokol halinde hazırlanmıştır?</strong>
     - A-) Havza Genelgesi
     - B-) Misak-ı İktisadi Genelgesi
     - **Cevap C-) Amasya Tamimi**
@@ -1572,16 +1631,14 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - E-) Komutanlar Genelgesi
     <hr />
 1. İşgaller &ouml;zellikle İzmirli Rumlarca b&uuml;y&uuml;k coşkuyla karşılandı. İzmir&rsquo;in işgaline fiil&icirc; tepkiyi ise eski Teşkil&acirc;t-ı Mahsusacı ve Hukuk-ı Beşer (İnsan Hakları) gazetesi sahibi ilk kurşunu sıkarak g&ouml;sterdi ancak vurularak şehit edildi.<br />
-<strong>Hakkında bilgi verilen kişi aşağıdakilerden hangisidir?</strong><br />
-
+<strong>Hakkında bilgi verilen kişi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Hasan Tahsin**
     - B-) Y&ouml;r&uuml;k Ali Efe
     - C-) &Ccedil;erkes Ethem
     - D-) Deli Halit Paşa
     - E-) Kılı&ccedil; Ali
     <hr />
-1. <strong>Aşağıdakilerden hangisi 1919&rsquo;da Mustafa Kemal Paşa&rsquo;nın Erzurum&rsquo;a ilk yolculuğunun g&uuml;zerg&acirc;hı doğru verilmiştir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi 1919&rsquo;da Mustafa Kemal Paşa&rsquo;nın Erzurum&rsquo;a ilk yolculuğunun g&uuml;zerg&acirc;hı doğru verilmiştir?</strong>
     - A-) Samsun-Havza- Trabzon- Sivas- Erzurum
     - **Cevap B-) Samsun-Havza-Tokat-Sivas-Erzincan- Erzurum**
     - C-) Samsun-Trabzon-G&uuml;m&uuml;şhane-Bayburt-Erzurum
@@ -1601,6 +1658,16 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - **Cevap C-) Amasya Tamimi**
     - D-) Sivas Kongresi
     - E-) Misak-ı Mill&icirc; Kararları
+    <hr />
+1. I. Doğu vilayetleri adına 10 Temmuz&#39;da Erzurum&#39;da bir kongre toplanacaktır.<br />
+II. Milletin istiklalini yine milletin azim ve kararı kurtaracaktır.<br />
+III. Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml; milletin bağımsızlığı tehlikededir.<br />
+<strong>Bazı maddeleri verilen genelge aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Amasya Tamimi**
+    - B-) Erzurum Genelgesi
+    - C-) Havza Genelgesi
+    - D-) Sivas Genelgesi
+    - E-) TBMM Genelgesi
     <hr />
 ## Unite 11
 1. <strong>&ldquo;Manda ve himaye kabul edilemez.&rdquo; h&uuml;km&uuml; aşağıdakilerden hangisinde yer almıştır?</strong> 
@@ -1638,31 +1705,28 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Alaşehir Kongresi
     - E-) Trabzon Kongreleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi Erzurum Kongresi&rsquo;nin &ouml;nem ve &ouml;zelliklerinden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Erzurum Kongresi&rsquo;nin &ouml;nem ve &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Toplanma şekli b&ouml;lgesel olmasına rağmen aldığı kararlar b&uuml;t&uuml;n &uuml;lkeye şamildir ve mill&icirc;dir.
     - B-) Mill&icirc; egemenliğe dayalı yeni bir devletin kurulacağının işaretleri verilmiştir.
     - C-) Kongreyle ilk defa mill&icirc; sınırlardan bahsedilmiştir.
     - D-) İlk defa azınlıklara ayrıcalık verilemeyeceği ifade edilmiştir.
     - **Cevap E-) Meclis-i Mebusan&rsquo;ın Sivas&rsquo;ta toplanması gerektiği ifade edilmiştir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Mill&icirc; M&uuml;cadele s&uuml;recine destek vermek i&ccedil;in Anadolu&rsquo;da yapılan kongrelerden biri <u>değildir</u>?</strong>&nbsp;
+1. <strong>Aşağıdakilerden hangisi Mill&icirc; M&uuml;cadele s&uuml;recine destek vermek i&ccedil;in Anadolu&rsquo;da yapılan kongrelerden biri <u>değildir</u>?</strong>
     - A-) Sivas Kongresi
     - B-) Pozantı Kongresi
     - C-) Alaşehir kongresi
     - **Cevap D-) Saltanat Şurası**
     - E-) Erzurum Kongresi
     <hr />
-1. <strong>Aşağıdakilerden hangisi Mustafa Kemal&rsquo;in, Erzurum Kongresi esnasında 9. Ordu M&uuml;fettişliği&rsquo;nden alınmasına g&ouml;sterdiği tepkidir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Mustafa Kemal&rsquo;in, Erzurum Kongresi esnasında 9. Ordu M&uuml;fettişliği&rsquo;nden alınmasına g&ouml;sterdiği tepkidir?</strong>
     - A-) Bu g&ouml;reve tekrar alınması i&ccedil;in padişaha istekte bulunmuştur.
     - **Cevap B-) T&uuml;rk Milleti&#39;nin azim ve cesaretine g&uuml;venerek askerlik g&ouml;revinden t&uuml;m&uuml;yle istifa etmiştir.**
     - C-) Osmanlı Devleti&rsquo;ne aynı g&ouml;reve devam etme azim ve kararlılığında olduğunu belirtmiştir.
     - D-) Bunun &uuml;zerine T&uuml;rk Milleti ona &quot;gazilik&quot; unvanı vermiştir.
     - E-) İstanbul&rsquo;a geri d&ouml;nm&uuml;şt&uuml;r.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Kars ve civarında kurulan demokratik bir cumhuriyettir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Kars ve civarında kurulan demokratik bir cumhuriyettir?</strong>
     - A-) Trakya Paşaeli Cemiyeti
     - B-) Mill&icirc; Kongre Cemiyeti
     - C-) Vilayet-i Şarkiye M&uuml;dafaa-i Hukuk Cemiyeti
@@ -1683,8 +1747,7 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - **Cevap D-) Redd-i İlhak Cemiyeti**
     - E-) Teal&icirc;-i İslam Cemiyeti
     <hr />
-1. <strong>Aşağıdakilerden hangisi, Erzurum Kongresi&rsquo;nin kararlarından biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi, Erzurum Kongresi&rsquo;nin kararlarından biri <u>değildir</u>?</strong>
     - A-) Doğu Anadolu illerindeki direniş hareketlerinin y&ouml;nlendirilmesi
     - **Cevap B-) Milis g&uuml;&ccedil;ler yerine ulusal ordu kurulması**
     - C-) Mandacılığın reddedilmesi
@@ -1698,32 +1761,28 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
     - D-) Antalya Kongresi
     - E-) İzmit Kongresi
     <hr />
-1. <strong>Anadolu&rsquo;nun işgallerden kurtarılması i&ccedil;in Batı Anadolu vilayetlerinde ger&ccedil;ekleştirilen kongrelerde aşağıdakilerden hangisi <u>ama&ccedil;lanmamıştır</u>?</strong><br />
-
+1. <strong>Anadolu&rsquo;nun işgallerden kurtarılması i&ccedil;in Batı Anadolu vilayetlerinde ger&ccedil;ekleştirilen kongrelerde aşağıdakilerden hangisi <u>ama&ccedil;lanmamıştır</u>?</strong>
     - A-) Batı Anadolu&rsquo;daki işgaller karşısında alınacak tedbirler konuşulmuştur.
     - B-) B&ouml;lgesel ama&ccedil;lar etrafında kararlar alınmıştır.
     - C-) Kuva-yı Miliye &ouml;rg&uuml;tlerinin kurulması hızlandırılmıştır.
     - D-) Yapılan &ccedil;alışmalar Batı Cephesi&rsquo;nin kurulmasına ortam hazırlanmıştır.
     - **Cevap E-) Bağımsız bir Ermeni Devleti&rsquo;nin kurulması engellenmek istenmiştir.**
     <hr />
-1. <strong>Batı Anadolu&rsquo;da, Yunan ilerleyişini durdurmak amacıyla silahlı birlikler kurmak suretiyle faaliyet g&ouml;steren cemiyet aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Batı Anadolu&rsquo;da, Yunan ilerleyişini durdurmak amacıyla silahlı birlikler kurmak suretiyle faaliyet g&ouml;steren cemiyet aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Trakya Paşaeli Cemiyeti**
     - B-) Mill&icirc; Kongre Cemiyeti
     - C-) Vilayet-i Şarkiye M&uuml;dafaa-i Hukuk Cemiyeti
     - D-) Hareket-i Milliye Cemiyeti
     - E-) Cenubi Garbi Kafkas H&uuml;k&ucirc;meti
     <hr />
-1. <strong>Heyet-i Temsiliye&rsquo;nin oluşumu ilk kez hangi kongrenin sonucunda teşekk&uuml;l etmiştir?</strong><br />
-
+1. <strong>Heyet-i Temsiliye&rsquo;nin oluşumu ilk kez hangi kongrenin sonucunda teşekk&uuml;l etmiştir?</strong>
     - A-) Sivas Kongresi
     - **Cevap B-) Erzurum Kongresi**
     - C-) Balıkesir Kongresi
     - D-) Alaşehir Kongresi
     - E-) Amasya G&ouml;r&uuml;şmeleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi Elviye-i Selase B&ouml;lgesi&rsquo;nde kurulmuş siyasi bir oluşumdur?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Elviye-i Selase B&ouml;lgesi&rsquo;nde kurulmuş siyasi bir oluşumdur?</strong>
     - **Cevap A-) Cenub-i Garbi Kafkas H&uuml;k&ucirc;meti**
     - B-) TBMM&rsquo;nin a&ccedil;ılması
     - C-) Batı Trakya T&uuml;rk Devleti
@@ -1833,72 +1892,63 @@ III. Osmanlı Devleti&rsquo;nin Almanya&rsquo;yı desteklemesini engellemek<br /
 1. I. Erzurum Kongresi<br />
 II. Sivas Kongresi<br />
 III. Son Osmanlı Meclis-i Mebusanı<br />
-<strong>Manda ve himaye konusu yukarıdakilerden hangisi ya da hangilerinde tartışılmıştır?</strong><br />
-
+<strong>Manda ve himaye konusu yukarıdakilerden hangisi ya da hangilerinde tartışılmıştır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - **Cevap D-) I ve II**
     - E-) I, II ve III
     <hr />
-1. <strong>Anadolu ve Rumeli&#39;de bulunan m&uuml;dafaa-i hukuk cemiyetleri aşağıdaki kongrelerden hangisinde Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti &ccedil;atısı altında birleştirilmiştir?</strong><br />
-
+1. <strong>Anadolu ve Rumeli&#39;de bulunan m&uuml;dafaa-i hukuk cemiyetleri aşağıdaki kongrelerden hangisinde Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti &ccedil;atısı altında birleştirilmiştir?</strong>
     - A-) Erzurum Kongresi
     - **Cevap B-) Sivas Kongresi**
     - C-) Edirne Kongresi
     - D-) Balıkesir kongreleri
     - E-) Nazilli Kongresi
     <hr />
-1. <strong>Aşağıdakilerden hangisi Sivas&rsquo;ta Mustafa Kemal Paşa&rsquo;nın desteği ile &ccedil;ıkarılan Mill&icirc; M&uuml;cadele taraftarı olan gazetedir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Sivas&rsquo;ta Mustafa Kemal Paşa&rsquo;nın desteği ile &ccedil;ıkarılan Mill&icirc; M&uuml;cadele taraftarı olan gazetedir?</strong>
     - **Cevap A-) İrade-i Milliye**
     - B-) Tanin
     - C-) Cumhuriyet
     - D-) Peyam-ı Sabah
     - E-) Albayrak
     <hr />
-1. <strong>Aşağıdakilerden hangisi Sivas Kongresi kararlarının halka duyurulması i&ccedil;in yapılan &ccedil;alışmalardan biridir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Sivas Kongresi kararlarının halka duyurulması i&ccedil;in yapılan &ccedil;alışmalardan biridir?</strong>
     - A-) Cemiyetlerin birleştirilmesi
     - B-) Temsil Heyeti&rsquo;nin ulusal h&acirc;le getirilmesi
     - **Cevap C-) İrade-i Milliye gazetesinin &ccedil;ıkarılması**
     - D-) Ali Fuat Paşa&rsquo;nın Batı Cephesi Komutanlığına atanması
     - E-) Mandacılık fikrinin reddedilmesi
     <hr />
-1. <strong>Ali Fuat Paşa&rsquo;nın Batı Cephesi Komutanlığına atanması hangi kongre s&uuml;recinde ger&ccedil;ekleşmiştir?</strong><br />
-
+1. <strong>Ali Fuat Paşa&rsquo;nın Batı Cephesi Komutanlığına atanması hangi kongre s&uuml;recinde ger&ccedil;ekleşmiştir?</strong>
     - A-) Nazilli Kongresi
     - B-) Erzurum Kongresi
     - C-) Trakya Kongreleri
     - **Cevap D-) Sivas Kongresi**
     - E-) Oltu Şura H&uuml;k&ucirc;meti Kongreleri
     <hr />
-1. <strong>&ldquo;Temsilciler Kurulu, Doğu Anadolu&rsquo;nun b&uuml;t&uuml;n&uuml;n&uuml; temsil eder.&rdquo; kararı, aşağıdakilerin hangisinde, &ldquo;Temsilciler Kurulu yurdun b&uuml;t&uuml;n&uuml;n&uuml; temsil eder.&rdquo; şeklinde yeniden d&uuml;zenlenmiştir?</strong><br />
-
+1. <strong>&ldquo;Temsilciler Kurulu, Doğu Anadolu&rsquo;nun b&uuml;t&uuml;n&uuml;n&uuml; temsil eder.&rdquo; kararı, aşağıdakilerin hangisinde, &ldquo;Temsilciler Kurulu yurdun b&uuml;t&uuml;n&uuml;n&uuml; temsil eder.&rdquo; şeklinde yeniden d&uuml;zenlenmiştir?</strong>
     - A-) İlk TBMM&rsquo;de
     - **Cevap B-) Sivas Kongresi&rsquo;nde**
     - C-) Balıkesir Kongresi&rsquo;nde
     - D-) Erzurum Kongresi&rsquo;nde
     - E-) Alaşehir Kongresi&rsquo;nde
     <hr />
-1. <strong>Amasya G&ouml;r&uuml;şmeleri&rsquo;yle, Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti&rsquo;nin yasal bir kuruluş olarak İstanbul h&uuml;k&ucirc;metince tanınması cemiyete hangi konuda &ouml;nemli bir imk&acirc;n sağlamıştır?</strong><br />
-
+1. <strong>Amasya G&ouml;r&uuml;şmeleri&rsquo;yle, Anadolu ve Rumeli M&uuml;dafaa-i Hukuk Cemiyeti&rsquo;nin yasal bir kuruluş olarak İstanbul h&uuml;k&ucirc;metince tanınması cemiyete hangi konuda &ouml;nemli bir imk&acirc;n sağlamıştır?</strong>
     - **Cevap A-) Siyasal etkinliği artırmıştır.**
     - B-) Temsil Kurulu&rsquo;nu oluşturmuştur.
     - C-) &Uuml;yelerini se&ccedil;imle belirlemiştir.
     - D-) Mustafa Kemal&rsquo;i başkan se&ccedil;miştir.
     - E-) Mill&icirc; cemiyetleri b&uuml;nyesinde toplamıştır.
     <hr />
-1. <strong>I. D&uuml;nya Savaşı sonrası Wilson İlkeleri&#39;ne ters d&uuml;şmemek i&ccedil;in galip devletlerin geliştirdiği yeni bir s&ouml;m&uuml;rgecilik y&ouml;ntemi olan ve kendi kendini idare edemeyen bir memleketi idare etmek i&ccedil;in Milletler Cemiyeti&rsquo;nin bir devlete verdiği vekillik olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>I. D&uuml;nya Savaşı sonrası Wilson İlkeleri&#39;ne ters d&uuml;şmemek i&ccedil;in galip devletlerin geliştirdiği yeni bir s&ouml;m&uuml;rgecilik y&ouml;ntemi olan ve kendi kendini idare edemeyen bir memleketi idare etmek i&ccedil;in Milletler Cemiyeti&rsquo;nin bir devlete verdiği vekillik olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - A-) Kurucu Meclis
     - B-) Şura
     - **Cevap C-) Manda**
     - D-) Vek&acirc;let
     - E-) İttifak
     <hr />
-1. <strong>Aşağıdakilerden hangisi Amasya G&ouml;r&uuml;şmeleri&rsquo;nin sonu&ccedil;larından biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Amasya G&ouml;r&uuml;şmeleri&rsquo;nin sonu&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) İstanbul h&uuml;k&ucirc;meti Anadolu&rsquo;da başlayan mill&icirc; hareketi ve alınan kararları kabul etmiştir.
     - B-) İstanbul h&uuml;k&ucirc;meti Heyet-i Temsiliye&rsquo;yi resmen tanımıştır.
     - C-) Bu g&ouml;r&uuml;şmeler sonucunda Meclis-i Mebusan&rsquo;ın yeniden a&ccedil;ılması kararlaştırılmıştır.
@@ -1933,7 +1983,7 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
     - D-) Sivas Kongresi
     - E-) Erzurum Kongresi
     <hr />
-1. <strong>Hem Sivas Kongresi&#39;nin başarısız olması hem de Mustafa Kemal ve arkadaşlarının yakalanarak tutuklanması i&ccedil;in İstanbul H&uuml;k&ucirc;meti kimi g&ouml;revlendirmiştir?</strong>
+1. <strong>Hem Sivas Kongresi&#39;nin başarısız olması hem de Mustafa Kemal ve arkadaşlarının yakalanarak tutuklanması i&ccedil;in İstanbul H&uuml;k&ucirc;meti ve işgalci g&uuml;&ccedil;ler tarafından g&ouml;revlendirilen kişi aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) İngiliz Kemal
     - B-) &Ccedil;erkez Ethem
     - C-) Sarı Efe
@@ -1990,16 +2040,14 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
     - D-) Erzurum
     - E-) Sivas
     <hr />
-1. <strong>Aşağıdakilerden hangisi Misak-ı Mill&icirc; kararlarından biridir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Misak-ı Mill&icirc; kararlarından biridir?</strong>
     - A-) Havza Genelgesi&rsquo;nin yayımlanması
     - B-) Erzurum Kongresi&rsquo;nin toplanması
     - C-) Ulusal cemiyetlerin birleştirilmesi
     - D-) Temsilciler Kurulu&rsquo;nun Ankara&rsquo;ya gelmesi
     - **Cevap E-) Ulusal ekonomideki gelişmeyi engelleyen kısıtlamaların kaldırılması**
     <hr />
-1. <strong>Misak-ı Mill&icirc; Kararları&rsquo;nda aşağıdakilerden hangisi konu <u>edilmemiştir</u>?</strong><br />
-
+1. <strong>Misak-ı Mill&icirc; Kararları&rsquo;nda aşağıdakilerden hangisi konu <u>edilmemiştir</u>?</strong>
     - **Cevap A-) Cumhuriyet idaresi**
     - B-) Vatanın b&uuml;t&uuml;nl&uuml;ğ&uuml;
     - C-) Batı Trakya
@@ -2007,31 +2055,28 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
     - E-) Bor&ccedil;lar
     <hr />
 1. Mustafa Kemal Paşa, İstanbul&rsquo;un işgali haberleri &uuml;zerine hemen b&uuml;t&uuml;n kolordu komutanlarına &ccedil;ektiği telgraflarda, bu andan itibaren Heyet-i Temsiliye&rsquo;nin Anadolu&rsquo;da m&uuml;racaat edilecek tek idari merci olduğunu vurgulamıştır. 16 ve 17 Mart 1920 tarihli telgraflarla alınacak tedbirleri kolordulara ve valilere bildirmiştir.<br />
-<strong>Bu telgraflarda aşağıdaki emirlerden hangisi <u>yoktur</u>?</strong><br />
-
+<strong>Bu telgraflarda aşağıdaki emirlerden hangisi <u>yoktur</u>?</strong>
     - A-) İstanbul ile g&ouml;r&uuml;şme kesilecektir.
     - B-) Hristiyan halka dokunulmayacaktır.
     - C-) Olumsuz propagandalar &ouml;nlenecektir.
     - D-) Asker&icirc; ve sivil makamlar iş birliği yaparak &ccedil;alışacaklardır.
     - **Cevap E-) İstanbul h&uuml;k&ucirc;metiyle irtibat koparılmayacaktır.**
     <hr />
-1. <strong>Aşağıdaki tarih ve vakaların hangisi farklıdır?</strong>&nbsp;
+1. <strong>Aşağıdaki tarih ve vakaların hangisi farklıdır?</strong>
     - A-) 16 Mart 1920-İstanbul&rsquo;un resmen işgali
     - B-) 20- 22 Ekim 1919-Amasya G&ouml;r&uuml;şmeleri
     - C-) 28 Ocak 1920-Misak-ı Mill&icirc;&rsquo;nin kabul edilmesi
     - **Cevap D-) 27 Aralık 1920-Heyet-i Temsiliye&rsquo;nin Ankara&rsquo;ya gelişi**
     - E-) 04- 11 Eyl&uuml;l 1919-Sivas Kongresi
     <hr />
-1. <strong>Aşağıdakilerden hangisi Heyet-i Temsiliye&rsquo;nin Ankara&rsquo;yı Mill&icirc; M&uuml;cadele&rsquo;nin&nbsp; idare merkezi olarak tercih etmesinin nedenlerinden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Heyet-i Temsiliye&rsquo;nin Ankara&rsquo;yı Mill&icirc; M&uuml;cadele&rsquo;nin&nbsp; idare merkezi olarak tercih etmesinin nedenlerinden biri <u>değildir</u>?</strong>
     - A-) Anadolu&rsquo;nun tam ortasında bulunması
     - B-) İstanbul&rsquo;a demir yolu ve haberleşme sistemiyle bağlı olması
     - C-) Mill&icirc; teşkilatların g&uuml;&ccedil;l&uuml; olması
     - **Cevap D-) XV. Kolordu Komutanı K&acirc;zım Karabekir&rsquo;in burada olması**
     - E-) &Ouml;nemli ulaşım yollarının kesişme noktası olması
     <hr />
-1. <strong>Mill&icirc; iradenin son Osmanlı Mebuslar Meclisi&rsquo;nde&rdquo; Misak-I Mill&icirc;&rdquo; şeklinde ilan edilmesinden sonra, İtilaf Devletleri nasıl bir karşılık vermiştir?</strong><br />
-
+1. <strong>Mill&icirc; iradenin son Osmanlı Mebuslar Meclisi&rsquo;nde&rdquo; Misak-I Mill&icirc;&rdquo; şeklinde ilan edilmesinden sonra, İtilaf Devletleri nasıl bir karşılık vermiştir?</strong>
     - A-) Musul işgal edilmiştir.
     - B-) Kars işgal edilmiştir.
     - C-) İzmir işgal edilmiştir.
@@ -2041,16 +2086,14 @@ III. Son Osmanlı Meclis-i Mebusanı<br />
 1. I. Erzurum Kongresi Kararları<br />
 II. Sivas Kongresi Kararları<br />
 III. TBMM&rsquo;nin A&ccedil;ılması<br />
-<strong>Her şeyden &ouml;nce mill&icirc; ve b&ouml;l&uuml;nmez T&uuml;rk vatanının sınırlarının &ccedil;izildiği Misak-ı Mill&icirc; Kararları&rsquo;nın hazırlanmasında yukarıdakilerden hangisi ya da hangilerinin katkısı <u>yoktur</u>?</strong><br />
-
+<strong>Her şeyden &ouml;nce mill&icirc; ve b&ouml;l&uuml;nmez T&uuml;rk vatanının sınırlarının &ccedil;izildiği Misak-ı Mill&icirc; Kararları&rsquo;nın hazırlanmasında yukarıdakilerden hangisi ya da hangilerinin katkısı <u>yoktur</u>?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) Yalnız III**
     - D-) I ve II
     - E-) II ve III
     <hr />
-1. <strong>Son Osmanlı Mebusan Meclisinde alınan Misak-ı Mill&icirc; Kararları&rsquo;nda Elviye-i Selase (Kars- Ardahan-Batum) ve Batı Trakya ile ilgili olarak nasıl bir g&ouml;r&uuml;ş bildirilmiştir?</strong><br />
-
+1. <strong>Son Osmanlı Mebusan Meclisinde alınan Misak-ı Mill&icirc; Kararları&rsquo;nda Elviye-i Selase (Kars- Ardahan-Batum) ve Batı Trakya ile ilgili olarak nasıl bir g&ouml;r&uuml;ş bildirilmiştir?</strong>
     - A-) B&ouml;lge halkını silahlandırmak
     - B-) Bu b&ouml;lgeleri g&ouml;r&uuml;şmeler yolu ile geri almak
     - C-) Savaşarak işgalden kurtulmalarını sağlamak
@@ -2094,6 +2137,13 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
     - E-) Gaspıralı İsmail Bey
     <hr />
 ## Unite 14
+1. <strong>Aşağıdakilerden hangisi Sevr Anlaşması&#39;nın imzalandığı tarihtir?</strong> 
+    - A-) 21 Mart 1920
+    - B-) 26 Nisan 1920
+    - C-) 11 Mayıs 1920
+    - D-) 22 Temmuz 1920
+    - **Cevap E-) 10 Ağustos 1920**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi boğazların ve İstanbul&rsquo;a giden yolların g&uuml;venliğini elinde tutmak isteyen işgalci devletlerin ve İstanbul h&uuml;k&ucirc;metinin teşvikiyle &ccedil;ıkarılan ayaklanmalardandır?</strong>
     - **Cevap A-) Bolu-D&uuml;zce-Hendek ve Adapazarı Ayaklanmaları**
     - B-) Konya İsyanları
@@ -2115,16 +2165,14 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
     - D-) Hıyanet-i Vataniye Kanunu&rsquo;nun &ccedil;ıkarılması
     - E-) D&uuml;zenli ordunun kuruluş s&uuml;recinin hızlandırılması
     <hr />
-1. <strong>I. TBMM&rsquo;de &ccedil;ok farklı g&ouml;r&uuml;şte kişiler bulunmaktaydı. I. Meclis&rsquo;te g&ouml;rev yapan milletvekillerinin ortak ama&ccedil;ları aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>I. TBMM&rsquo;de &ccedil;ok farklı g&ouml;r&uuml;şte kişiler bulunmaktaydı. I. Meclis&rsquo;te g&ouml;rev yapan milletvekillerinin ortak ama&ccedil;ları aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Uuml;lkenin işgallerden kurtarılması**
     - B-) Laik bir devletin kurulması
     - C-) Kadınlara se&ccedil;me-se&ccedil;ilme hakkının tanınması
     - D-) Cumhuriyet&#39;in ilan edilmesi
     - E-) &Ccedil;ok partili d&uuml;zene ge&ccedil;ilmesi
     <hr />
-1. <strong>Aşağıdakilerden hangisinin TBMM&rsquo;nin varlığına y&ouml;nelik tehditleri &ouml;nleme amacı <u>yoktur</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisinin TBMM&rsquo;nin varlığına y&ouml;nelik tehditleri &ouml;nleme amacı <u>yoktur</u>?</strong>
     - A-) D&uuml;zenli ordunun oluşturulması
     - B-) Hıyanet-i Vataniye Kanunu&rsquo;nun &ccedil;ıkarılması
     - **Cevap C-) Meclis H&uuml;k&ucirc;meti sisteminin benimsenmesi**
@@ -2138,8 +2186,7 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
     - D-) Kuvvetler birliği esası vardır.
     - E-) TBMM&rsquo;nin &uuml;st&uuml;nde bir kuvvet yoktur.
     <hr />
-1. <strong>Aşağıdakilerden hangisi, İstanbul H&uuml;k&ucirc;meti&rsquo;nin TBMM&rsquo;ye karşı m&uuml;cadelesinde başvurduğu y&ouml;ntemlerden biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi, İstanbul H&uuml;k&ucirc;meti&rsquo;nin TBMM&rsquo;ye karşı m&uuml;cadelesinde başvurduğu y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) İsyanlar &ccedil;ıkarması
     - B-) Anadolu halkını fetvalarla Mustafa Kemal&rsquo;e karşı kışkırtması
     - C-) İ&ccedil; isyanları desteklemesi
@@ -2181,16 +2228,14 @@ III. TBMM&rsquo;nin A&ccedil;ılması<br />
     - **Cevap D-) Arap Ayaklanmaları**
     - E-) Bolu-D&uuml;zce-Hendek ve Adapazarı Ayaklanması
     <hr />
-1. <strong>Aşağıdakilerden hangisi İstiklal Savaşı&rsquo;nda &ccedil;ıkan ayaklanmalardan biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi İstiklal Savaşı&rsquo;nda &ccedil;ıkan ayaklanmalardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Menemen**
     - B-) Delibaş Mehmet
     - C-) &Ccedil;opur Musa
     - D-) Şeyh Eşref
     - E-) Mill&icirc; Aşiret
     <hr />
-1. <strong>Aşağıdakilerden hangisinin TBMM&rsquo;nin varlığına y&ouml;nelik tehditleri &ouml;nleme amacı <u>yoktur</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisinin TBMM&rsquo;nin varlığına y&ouml;nelik tehditleri &ouml;nleme amacı <u>yoktur</u>?</strong>
     - A-) D&uuml;zenli ordunun oluşturulması
     - B-) Hıyanet-i Vataniye Kanunu&rsquo;nun &ccedil;ıkarılması
     - **Cevap C-) Meclis H&uuml;k&ucirc;meti sisteminin benimsenmesi**

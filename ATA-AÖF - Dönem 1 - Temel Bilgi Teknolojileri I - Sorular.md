@@ -22,7 +22,7 @@
     - D-) Bilgelik
     - E-) Veritabanı
     <hr />
-1. <strong>Aşağıdakilerden hangisi veri işlemenin evreleri arasında yer <u>almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi veri işlemenin evreleri arasında <u>yer almaz</u>?</strong> 
     - A-) El yordamıyla veri işleme
     - B-) Mekanik veri işleme
     - C-) Elektromekanik veri işleme
@@ -78,12 +78,19 @@
     - D-) Bilgelik
     - E-) Veritabanı
     <hr />
-1. <strong>Olası problemleri g&ouml;rebilme, değerlendirebilme, doğru yanlış ayrımını yapabilme yeteneği olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
+1. <strong>&quot;Olası problemleri g&ouml;rebilme, değerlendirebilme, doğru yanlış ayrımını yapabilme yeteneği&quot; olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - A-) Veri
     - B-) Enformasyon
     - C-) Bilgi
     - **Cevap D-) Bilgelik**
     - E-) Veritabanı
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde delikli kartlar kullanılarak veri işleme yapılmıştır?</strong>
+    - A-) El yordamıyla veri işleme
+    - B-) Mekanik veri işleme
+    - **Cevap C-) Elektromekanik veri işleme**
+    - D-) Mantıksal veri işleme
+    - E-) Elektronik veri işleme
     <hr />
 1. <strong>Herhangi bir mekanik araca ihtiya&ccedil; duyulmayan veri işleme evresi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) El yordamıyla veri işleme**
@@ -91,6 +98,13 @@
     - C-) Elektromekanik veri işleme
     - D-) Mantıksal veri işleme
     - E-) Elektronik veri işleme
+    <hr />
+1. <strong>Aşağıdakilerden hangisi d&ouml;rd&uuml;nc&uuml; kuşak bilgisayarların temel &ouml;zelliklerinden biridir?</strong> 
+    - A-) Vakumlu t&uuml;pler
+    - B-) Transist&ouml;rler
+    - C-) Entegre devreler
+    - **Cevap D-) Mikroişlemciler**
+    - E-) Delikli kartlar
     <hr />
 1. <strong>Yapılacak işlemin bir defa ve kalıcı olarak kaydedildiği bilgisayar sınıfı aşağıdakilerden hangisidir?</strong>
     - A-) Genel ama&ccedil;lı dijital bilgisayarlar
@@ -159,7 +173,7 @@ III. Tazeleme hızı<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Klavye &uuml;zerindeki harflerin dizilimine g&ouml;re belirlenen klavye t&uuml;rleri aşağıdaki se&ccedil;eneklerin hangisinde doğru olarak verilmiştir?</strong>
+1. <strong>Klavye &uuml;zerindeki harflerin dizilimine g&ouml;re belirlenen klavye t&uuml;rleri aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong> 
     - A-) A ve Z klavyeler
     - B-) J ve P klavyeler
     - **Cevap C-) Q ve F klavyeler**
@@ -187,6 +201,13 @@ III. Tazeleme hızı<br />
     - D-) Sabit disk
     - **Cevap E-) Klavye**
     <hr />
+1. <strong>Kaydediciler (registers) verileri depolarken aşağıdaki sayı sistemlerinden hangisini kullanırlar?</strong>
+    - A-) Octal
+    - **Cevap B-) Binary**
+    - C-) Decimal
+    - D-) Hexadecimal
+    - E-) Quinary
+    <hr />
 1. I. HDD<br />
 II. SSD<br />
 III. HHD<br />
@@ -211,6 +232,13 @@ III. HHD<br />
     - D-) Google Dok&uuml;manlar
     - E-) Adobe Illustrator
     <hr />
+1. <strong>Aşağıdakilerden hangisi i&ccedil;sel bir donanımdır?</strong>
+    - A-) Yazıcı
+    - B-) Modem
+    - **Cevap C-) CD-DVD s&uuml;r&uuml;c&uuml;ler**
+    - D-) Mikrofon
+    - E-) Hoparl&ouml;r
+    <hr />
 ## Unite 3
 1. <strong>Kullanıcı ile bilgisayar arasındaki iletişimi sağlayan, kullanıcının isteklerine g&ouml;re donanım ve yazılım kaynaklarını d&uuml;zenleyen sisteme ne ad verilir?</strong>
     - A-) Donanım sistemi
@@ -226,8 +254,7 @@ III. HHD<br />
     - D-) IBS 360 OS
     - E-) UNIX
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir işletim sistemi <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi bir işletim sistemi <u>değildir</u>?</strong>
     - A-) Windows
     - B-) Linux
     - C-) Pardus
@@ -283,10 +310,10 @@ III. HHD<br />
     - D-) iOS
     - E-) Pardus
     <hr />
-1. I. Transist&ouml;rlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir d&ouml;neme girmiştir.&nbsp;<br />
-II. Entegre devreler ile boyutları k&uuml;&ccedil;&uuml;len bilgisayarlar daha &ccedil;ok kişi tarafından ulaşılabilir olmuştur.&nbsp;<br />
-III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&uuml;&ccedil;&uuml;lm&uuml;ş ve yaygınlaşmıştır.<br />
-<strong>İşletim sistemlerinin tarih&ccedil;esi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong>
+1. I. Transist&#246;rlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir d&#246;neme girmiştir.&#160;<br />
+II. Entegre devreler ile boyutları k&#252;&#231;&#252;len bilgisayarlar daha &#231;ok kişi tarafından ulaşılabilir olmuştur.&#160;<br />
+III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&#252;&#231;&#252;lm&#252;ş ve yaygınlaşmıştır.<br />
+<strong>İşletim sistemlerinin tarih&#231;esi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -324,6 +351,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Uygulama &Ccedil;atısı
     - **Cevap E-) Uygulama Katmanı**
     <hr />
+1. <strong>Aşağıdakilerden hangisi Apple iOS İşletim Sistemi katmanı <u>değildir</u>?</strong>
+    - **Cevap A-) Uygulama Katmanı**
+    - B-) Core OS Katmanı
+    - C-) Core Servis Katmanı
+    - D-) Medya Katmanı
+    - E-) Cocoa Touch Katmanı
+    <hr />
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi bir vir&uuml;s t&uuml;r&uuml; <u>değildir</u>?</strong>
     - A-) Solucanlar
@@ -355,16 +389,14 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - E-) Antivir&uuml;s yazılımı ve g&uuml;venlik duvarı kullanılarak korunulabilir.
     <hr />
 1. Kullanıcının isteği dışında kendisine gelen elektronik postalar ....................&hellip; olarak adlandırılmaktadır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) solucan
     - **Cevap B-) spam**
     - C-) truva atı
     - D-) spyware
     - E-) firmware
     <hr />
-1. <strong>Aşağıdakilerden hangisi k&ouml;t&uuml; ama&ccedil;lı bir yazılım <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi k&ouml;t&uuml; ama&ccedil;lı bir yazılım <u>değildir</u>?</strong>
     - A-) Truva atı
     - B-) Trojan
     - C-) Solucan
@@ -407,12 +439,26 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) .dev
     - E-) .trz
     <hr />
+1. <strong>Bilgisayar sistemindeki sabit diskin &ouml;n y&uuml;kleme (Master Boot Record &ndash; MBR) b&ouml;l&uuml;m&uuml;ne yazılarak &ccedil;alışan vir&uuml;s aşağıdakilerden hangisidir?</strong>
+    - A-) Trojan
+    - **Cevap B-) &Ouml;n y&uuml;kleme vir&uuml;s&uuml;**
+    - C-) Solucan
+    - D-) Casus yazılım
+    - E-) Makro vir&uuml;sleri
+    <hr />
 1. <strong>İnternet tarayıcısında bağlanmak istenilen web sayfasının adresinin yazıldığı alan aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Adres &ccedil;ubuğu**
     - B-) Gizli sekme
     - C-) Tarayıcı ge&ccedil;mişi
     - D-) Yeni sekme
     - E-) Hakkında
+    <hr />
+1. <strong>Kullanıcı hareketlerinin takip edilmemesi ve gizli kalmasının istenildiği durumlarda kullanılan tarayıcı &ouml;zelliği hangisidir?</strong> 
+    - A-) Yeni sekme
+    - **Cevap B-) Gizli sekme**
+    - C-) Ara&ccedil;lar
+    - D-) Web ge&ccedil;mişi
+    - E-) G&ouml;r&uuml;n&uuml;m
     <hr />
 ## Unite 5
 1. <strong>Metin dok&uuml;manlarının oluşturulmasına, d&uuml;zenlenmesine, kaydedilmesine, g&ouml;r&uuml;nt&uuml;lenmesine ve yazdırılmasına olanak tanıyan programlara ne ad verilir?</strong>
@@ -439,8 +485,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
 1. <strong>Word programı karşılama ekranının yardımıyla aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>
     - A-) Boş belge a&ccedil;ılabilir.
     - B-) Var olan belge a&ccedil;ılabilir.
-    - C-) Hazır şablonlar kullanılabilir.<br />
-
+    - C-) Hazır şablonlar kullanılabilir.
     - **Cevap D-) Belge yazdırılabilir.**
     - E-) Word se&ccedil;eneklerine erişilebilir.
     <hr />
@@ -507,8 +552,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - **Cevap D-) Sayfa g&ouml;sterme se&ccedil;enekleri ayarlanabilir.**
     - E-) Geribildirim se&ccedil;eneklerine erişilebilir.
     <hr />
-1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Belgeyi Koru se&ccedil;eneği kullanılarak aşağıdakilerden hangisi yapılabilir?</strong><br />
-
+1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Belgeyi Koru se&ccedil;eneği kullanılarak aşağıdakilerden hangisi yapılabilir?</strong>
     - A-) Belgeyi inceleme
     - **Cevap B-) Dijital imza ekleme**
     - C-) Erişebilirliği denetleme
@@ -522,6 +566,20 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Belgeyi yazdırma
     - E-) Dijital imza ekleme
     <hr />
+1. <strong>Word 2021&rsquo;de Dosya men&uuml;s&uuml;nde yer alan Paylaş se&ccedil;eneği kullanılarak aşağıdakilerden hangisi <u>yapılamaz</u>?</strong>
+    - A-) Belge pdf olarak g&ouml;nderilebilir.
+    - **Cevap B-) Belge xps olarak g&ouml;nderilebilir.**
+    - C-) Belge internet faksı olarak g&ouml;nderilebilir.
+    - D-) Belge web tarayıcısında g&ouml;r&uuml;nt&uuml;lenebilecek h&acirc;le getirilebilir.
+    - E-) Belgeye d&uuml;zenleme kısıtı getirilebilir.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Apple tarafından geliştirilmiş ve sayfa mizanpajı yapmak i&ccedil;in de kullanılan kelime işlemci programıdır?</strong>
+    - **Cevap A-) iWork Pages**
+    - B-) LibreOffice Writer
+    - C-) Calligra
+    - D-) Dropbox Paper
+    - E-) Apache OpenOffice Writer
+    <hr />
 1. <strong>Aşağıdakilerden hangisi kelime işlemci programlarından biri olan&nbsp;LibreOffice Writer&#39;ın temel &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Varsayılan &ldquo;odt&rdquo; dosya bi&ccedil;iminin yanı sıra &ldquo;docx&rdquo;, &ldquo;rtf&rdquo; gibi bi&ccedil;imleri destekler.
     - B-) İki belgeyi karşılaştırabilir ve değişiklikleri izleyebilir.
@@ -530,7 +588,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - **Cevap E-) Sadece pdf formatında dışa aktarım yapabilir.**
     <hr />
 ## Unite 6
-1. <strong>Word program penceresinde g&ouml;r&uuml;n&uuml;m d&uuml;ğmeleri kullanılarak aşağıdakilerden hangisi yapılabilir?</strong>
+1. <strong>Word programı penceresinde g&ouml;r&uuml;n&uuml;m d&uuml;ğmeleri kullanılarak aşağıdakilerden hangisi yapılabilir?</strong>
     - **Cevap A-) Belge, okuma modunda g&ouml;r&uuml;nt&uuml;lenebilir.**
     - B-) Belge, birden &ccedil;ok sayfa h&acirc;linde g&ouml;r&uuml;nt&uuml;lenebilir.
     - C-) Belge yazdırılabilir.
@@ -614,6 +672,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) F10+CTRL
     - E-) F10+SHIFT
     <hr />
+1. <strong>Word programında tema, filigran ve sayfa rengi komutları aşağıdaki sekmelerin hangisinde yer alır?</strong>
+    - A-) &Ccedil;iz
+    - B-) Ekle
+    - C-) Giriş
+    - **Cevap D-) Tasarım**
+    - E-) D&uuml;zen
+    <hr />
 1. <strong>Word programında bir metnin yazı tipi boyutunu değiştirmek i&ccedil;in kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) CTRL+SHIFT+P**
     - B-) CTRL+SHIFT+Y
@@ -695,16 +760,14 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Sonraki sayfa
     - E-) &Ccedil;ift sayfa
     <hr />
-1. <strong>Word programında belgenin t&uuml;m&uuml;ne satır numarası eklemek i&ccedil;in kullanılan komut hangi sekmede yer alır?</strong><br />
-
+1. <strong>Word programında belgenin t&uuml;m&uuml;ne satır numarası eklemek i&ccedil;in kullanılan komut hangi sekmede yer alır?</strong>
     - A-) Giriş
     - B-) Başvurular
     - **Cevap C-) D&uuml;zen**
     - D-) Tasarım
     - E-) G&ouml;r&uuml;n&uuml;m
     <hr />
-1. <strong>Word programında t&uuml;m belgenin arkasına şirket logosu, sloganı vb. bilgileri silik bir bi&ccedil;imde bastırmaya yarayan &ouml;zellik aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Word programında t&uuml;m belgenin arkasına şirket logosu, sloganı vb. bilgileri silik bir bi&ccedil;imde bastırmaya yarayan &ouml;zellik aşağıdakilerden hangisidir?</strong>
     - A-) Grafik
     - B-) Dipnot
     - C-) Son not
@@ -732,8 +795,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap D-) Başvurular**
     - E-) D&uuml;zen
     <hr />
-1. <strong>Word programında sayfaların boyutlarını ayarlamak i&ccedil;in kullanılan komut aşağıdaki hangi sekmede yer alır?</strong><br />
-
+1. <strong>Word programında sayfaların boyutlarını ayarlamak i&ccedil;in kullanılan komut aşağıdaki hangi sekmede yer alır?</strong>
     - **Cevap A-) D&uuml;zen**
     - B-) Giriş
     - C-) Başvurular
@@ -754,6 +816,20 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Tasarım
     - E-) G&ouml;r&uuml;n&uuml;m
     <hr />
+1. <strong>Word programında sayfalara kenarlık eklemek i&ccedil;in kullanılan komut hangi sekmede yer alır?</strong>
+    - A-) Giriş
+    - B-) Başvurular
+    - C-) Ekle
+    - **Cevap D-) Tasarım**
+    - E-) G&ouml;r&uuml;n&uuml;m
+    <hr />
+1. <strong>Word programında belgeye dipnot eklemek i&ccedil;in kullanılan komut hangi sekmede yer alır?</strong> 
+    - A-) Giriş
+    - B-) D&uuml;zen
+    - C-) Tasarım
+    - D-) Ekle
+    - **Cevap E-) Başvurular**
+    <hr />
 1. <strong>Word&#39;de hazırlanan bir tablo ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tablolar, verileri d&uuml;zenli bir bi&ccedil;imde sunmak i&ccedil;in kullanılan yapılardır.
     - **Cevap B-) Tasarım sekmesindeki tablolar grubunda yer alan tablo d&uuml;ğmesi ile tablo ekle men&uuml;s&uuml; g&ouml;r&uuml;nt&uuml;lenir.**
@@ -761,7 +837,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Metin kolaylıkla tabloya d&ouml;n&uuml;şt&uuml;r&uuml;lebilir.
     - E-) Tablolar, satır ve s&uuml;tunlardan oluşur.
     <hr />
-1. <strong>Word programında&nbsp;yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle g&ouml;sterilmesi,&nbsp;kayıt altına alınması ve g&ouml;sterilmesi i&ccedil;in aşağıdakilerden hangi sekme ve komutlar ile izleme başlatılır?</strong>
+1. <strong>Word programında&nbsp;yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle g&ouml;sterilmesi,&nbsp;kayıt altına alınması ve g&ouml;sterilmesi i&ccedil;in aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?</strong>
     - A-) G&ouml;zden Ge&ccedil;ir sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.
     - B-) Giriş sekmesinin İzleme grubunda bulunan Değişiklikleri İzle d&uuml;ğmesi ile izleme başlatılır.
     - C-) Giriş sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.
@@ -776,18 +852,17 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap D-) Excel g&uuml;ncel s&uuml;r&uuml;mleri exceloffice.com sitesinden indirilmektedir.**
     - E-) Excel 2021 men&uuml;leri diğer Excel s&uuml;r&uuml;mleriyle benzerlik g&ouml;stermektedir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Excel programının bileşenlerinden biri&nbsp;<u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi Excel programının bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Başlık &ccedil;ubuğu
     - B-) Dosya men&uuml;s&uuml;
     - C-) Men&uuml; Şerit Bloğu
     - D-) Form&uuml;l &Ccedil;ubuğu
     - **Cevap E-) Dikd&ouml;rtgen H&uuml;cre Bloğu**
     <hr />
-1. <strong>Excel programında satır ve s&uuml;tunların kesiştiği kutucuklar ne ile adlandırılmaktadır?</strong>
-    - A-) Form&uuml;l
+1. <strong>Excel programında satır ve s&#252;tunların kesiştiği kutucuklar ne ile adlandırılmaktadır?</strong>
+    - A-) Form&#252;l
     - B-) Excel alanı
-    - **Cevap C-) H&uuml;cre**
+    - **Cevap C-) H&#252;cre**
     - D-) Rakam
     - E-) Harf
     <hr />
@@ -899,7 +974,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap D-) 1**
     - E-) 9
     <hr />
-1. <strong>&ldquo;=TOPLA(C3:C6)&rdquo; fonksiyonunun a&ccedil;ılımı aşağıdakilerden hangisidir?</strong>
+1. <strong>“=TOPLA(C3:C6)” fonksiyonunun a&#231;ılımı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) =C3+C4+C5+C6**
     - B-) =C4+C5
     - C-) =C3+C6
@@ -956,8 +1031,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) İ&ccedil;erik &uuml;retim ve y&ouml;netim kolaylığı
     - E-) Etkileşim ve topluluk &ouml;zelliklerinin yer alması
     <hr />
-1. <strong>&Ouml;ğrenme Y&ouml;netim Sistemi kurulurken aşağıdaki adımlardan hangisinin yapılmasına <u>ihtiya&ccedil; duyulmaz</u>?</strong><br />
-
+1. <strong>&Ouml;ğrenme Y&ouml;netim Sistemi kurulurken aşağıdaki adımlardan hangisinin yapılmasına <u>ihtiya&ccedil; duyulmaz</u>?</strong>
     - A-) İhtiya&ccedil;ların belirlenmesi
     - **Cevap B-) Raporların incelenmesi**
     - C-) Uygun &Ouml;YS se&ccedil;iminin belirlenmesi
@@ -978,12 +1052,12 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Kaynak kodları a&ccedil;ıktır.
     - E-) İsteyen herkes kodları kullanabilir.
     <hr />
-1. <strong>Belirli g&ouml;n&uuml;ll&uuml; topluluklar tarafından geliştirilmiş &uuml;cretsiz &Ouml;ğrenme Y&ouml;netim Sistemleri aşağıdakilerden hangisidir?</strong>
-    - A-) A&ccedil;ık Lisanslı &Ouml;YS&rsquo;ler
-    - B-) A&ccedil;ık Y&ouml;netimli &Ouml;YS&rsquo;ler
-    - C-) A&ccedil;ık Sistemli &Ouml;YS&rsquo;ler
-    - **Cevap D-) A&ccedil;ık Kaynak Kodlu &Ouml;YS&rsquo;ler**
-    - E-) A&ccedil;ık Merkezli &Ouml;YS&rsquo;ler
+1. <strong>Belirli g&#246;n&#252;ll&#252; topluluklar tarafından geliştirilmiş &#252;cretsiz &#214;ğrenme Y&#246;netim Sistemleri aşağıdakilerden hangisidir?</strong>
+    - A-) A&#231;ık Lisanslı &#214;YS'ler
+    - B-) A&#231;ık Y&#246;netimli &#214;YS'ler
+    - C-) A&#231;ık Sistemli &#214;YS'ler
+    - **Cevap D-) A&#231;ık Kaynak Kodlu &#214;YS'ler**
+    - E-) A&#231;ık Merkezli &#214;YS'ler
     <hr />
 1. <strong>&Ouml;ğrenme y&ouml;netim sistemlerinde yedekleme işlemleri yapılmaması durumunda aşağıdaki durumlardan hangisi oluşabilmektedir?</strong>
     - A-) D&uuml;zenleme men&uuml;s&uuml; &ccedil;alışmayacaktır.
@@ -1019,6 +1093,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap C-) Canlı ders mod&uuml;l&uuml;**
     - D-) Portfolyo mod&uuml;l&uuml;
     - E-) Dosya paylaşım mod&uuml;l&uuml;
+    <hr />
+1. <strong>&Ouml;ğrenme Y&ouml;netim Sistemleri (&Ouml;YS)&rsquo;de &ouml;ğrenenlerin &ouml;z ge&ccedil;miş ve yetkinliklerinin yer aldığı mod&uuml;l aşağıdakilerden hangisidir?</strong> 
+    - A-) Blog mod&uuml;l&uuml;
+    - B-) Duyuru mod&uuml;l&uuml;
+    - C-) Dahili mesajlaşma mod&uuml;l&uuml;
+    - **Cevap D-) Portfolyo mod&uuml;l&uuml;**
+    - E-) Tartışma mod&uuml;l&uuml;
     <hr />
 1. <strong>Aşağıdakilerden hangisi &Ouml;ğrenme Y&ouml;netim Sistemi&#39;nin eş zamanlı mod&uuml;lleri arasında yer alır?</strong>
     - A-) Duyuru mod&uuml;l&uuml;
@@ -1109,6 +1190,13 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Focus To-Do
     - E-) XMind
     <hr />
+1. <strong>George Siemens ve Stephen Downes&rsquo;ın MOOC uygulaması aşağıdaki kuramlardan hangisi &uuml;zerine kurulmuştur?</strong> 
+    - A-) Bilişsel
+    - **Cevap B-) Bağlantıcı**
+    - C-) Duyuşsal
+    - D-) Yapıcı
+    - E-) Davranış&ccedil;ı
+    <hr />
 1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan &ouml;ğrenme ortamlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) E-posta
     - B-) Web g&uuml;nceleri (Blog)
@@ -1141,7 +1229,7 @@ III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<
     - E-) A&ccedil;ık Eğitim Kaynakları
     <hr />
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinin &ouml;ğelerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinin &ouml;ğelerinden <u>değildir</u>?</strong> 
     - A-) Alıcı
     - B-) Kanal
     - **Cevap C-) Teknoloji**
@@ -1159,10 +1247,10 @@ IV. Kitlesizleştirme<br />
     - D-) I, II ve III
     - **Cevap E-) I, II ve IV**
     <hr />
-1. <strong>Aşağıdakilerden hangisi kaynak ve alıcının farklı ortamlarda aynı zaman dilimi i&ccedil;erisinde birbirleriyle multimedya ara&ccedil;larını kullanarak iletişim kurma s&uuml;recidir?</strong>
+1. <strong>Aşağıdakilerden hangisi kaynak ve alıcının farklı ortamlarda aynı zaman dilimi i&#231;erisinde birbirleriyle multimedya ara&#231;larını kullanarak iletişim kurma s&#252;recidir?</strong>
     - A-) Geleneksel
     - **Cevap B-) Eş zamanlı**
-    - C-) Y&uuml;z y&uuml;ze
+    - C-) Y&#252;z y&#252;ze
     - D-) Eş zamanlı olmayan
     - E-) Hibrit
     <hr />
@@ -1265,9 +1353,9 @@ III. Yapıcı i&ccedil;erik<br />
     - **Cevap D-) Sınırlı depolama kapasitesi**
     - E-) Anında iletişim
     <hr />
-1. <strong>Aşağıdakilerden hangisi mobil teknolojiler arasında yer <u>almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi mobil teknolojiler arasında <u>yer almaz</u>?</strong>
     - A-) Giyilebilir teknolojiler
-    - **Cevap B-) Radyo**
+    - **Cevap B-) Masa&uuml;st&uuml; bilgisayar**
     - C-) Dijital asistanlar
     - D-) Tabletler
     - E-) Akıllı telefonlar
@@ -1297,8 +1385,7 @@ IV. Sınırlı fiziksel &ouml;zellikler sunma<br />
     - **Cevap D-) &Ccedil;oklu ortam desteği**
     - E-) Kısa pil &ouml;mr&uuml;
     <hr />
-1. <strong>Aşağıdakilerden hangisi karşı tarafa mesaj g&ouml;nderirken bu mesajlara grafik eklenmesine izin veren mobil teknolojilerdendir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi karşı tarafa mesaj g&ouml;nderirken bu mesajlara grafik eklenmesine izin veren mobil teknolojilerdendir?</strong>
     - **Cevap A-) MMS**
     - B-) SMS
     - C-) WAP
@@ -1362,8 +1449,7 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - **Cevap D-) Basılı materyaller ile eğitimin s&uuml;rd&uuml;r&uuml;lmesi**
     - E-) İletişim ve etkileşimin teknoloji aracılığıyla ger&ccedil;ekleştirilmesi
     <hr />
-1. <strong>Eğitimin genellikle bilgisayar gibi elektronik medya ve cihazların eğitim, iletişim ve etkileşim i&ccedil;in eş zamanlı ve eş zamansız olarak kullanıldığı &ouml;ğrenme etkinliği aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Eğitimin genellikle bilgisayar gibi elektronik medya ve cihazların eğitim, iletişim ve etkileşim i&ccedil;in eş zamanlı ve eş zamansız olarak kullanıldığı &ouml;ğrenme etkinliği aşağıdakilerden hangisidir?</strong>
     - A-) Harmanlanmış &ouml;ğrenme
     - **Cevap B-) E-&ouml;ğrenme**
     - C-) Sınıf i&ccedil;i &ouml;ğrenme
@@ -1388,7 +1474,7 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - A-) A&ccedil;ık&ouml;ğretim sistemi
     - B-) Bilgi işlem merkezi
     - C-) E- kitaplar
-    - **Cevap D-) &Ouml;ğrenim y&ouml;netim sistemleri**
+    - **Cevap D-) &Ouml;ğrenme y&ouml;netim sistemleri**
     - E-) Canlı sınıf yazılımları
     <hr />
 1. <strong>Aşağıdakilerden hangisi &Ouml;ğrenim Y&ouml;netim Sistemlerinde bulunması gereken &ouml;zelliklerinden <u>değildir</u>?</strong>

@@ -46,6 +46,13 @@ IV. Web Tasarımı<br />
     - D-) Bi&ccedil;im
     - E-) Tipografi
     <hr />
+1. <strong>Tasarım ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Tasarımın temelini yaratıcılık oluşturmaktadır.
+    - **Cevap B-) Tasarım i&ccedil;in &ouml;nemli olan tasarlayan kişinin fikirleri ve &uuml;r&uuml;nleridir.**
+    - C-) Tasarım, insan yaşamının kalitesini belirleyen vazge&ccedil;ilmez bir kavramdır.
+    - D-) Tasarım, yeni bir &uuml;r&uuml;n&uuml;n ya da objenin planlanarak geliştirilme s&uuml;recini anlatmaktadır.
+    - E-) Tasarım, dil ile birlikte, insanın en ayırt edici &ouml;zelliklerindendir
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bir afişin tasarımında, afişe y&uuml;klenecek mesajın doğru algılanabilmesi i&ccedil;in &ouml;nemli bir etken <u>değildir</u>?</strong>
     - **Cevap A-) Hedef kitlenin tam olarak ka&ccedil; kişiden oluştuğu**
     - B-) Hedef kitlenin yaş ortalaması
@@ -60,7 +67,7 @@ IV. Web Tasarımı<br />
     - D-) Bir şeyi zihinde bi&ccedil;imlendirme, kurma ve tasavvur etmedir.
     - **Cevap E-) Bir uygulama-&ccedil;&ouml;z&uuml;mleme s&uuml;recidir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Temel Tasarım Dersi&rdquo;nin ana amacıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi Temel Tasarım Dersinin ana amacıdır?</strong>
     - **Cevap A-) G&ouml;rme ve algılama becerilerini geliştirerek sanatsal bir duyarlılık ve bilin&ccedil; oluşturmak**
     - B-) &Ccedil;izim yapabilmek
     - C-) &Uuml;r&uuml;n pazarlayabilmek
@@ -137,6 +144,13 @@ IV. Web Tasarımı<br />
     - C-) Vurgu
     - D-) G&ouml;rsel hiyerarşi
     - **Cevap E-) Tasarım**
+    <hr />
+1. <strong>Grafik tasarımla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Bir mesaj alma amacıyla yapılan y&ouml;ntemin tanıtımıdır.**
+    - B-) G&ouml;rsel bir iletişim sanatıdır.
+    - C-) &Ccedil;ok y&ouml;nl&uuml; bir iletişimdir.
+    - D-) Bir problemin &ccedil;&ouml;z&uuml;m&uuml; i&ccedil;in sonsuz y&ouml;ntem ve uygulama yapılabilir.
+    - E-) Disiplinler arası bir alandır.
     <hr />
 1. <strong>Bir şeyi başka bir şeyle anlatmaya ve dolaylı bir anlatım dili benimsemeye ne ad verilir?</strong>
     - A-) İmge
@@ -287,6 +301,13 @@ III. Bireyin din&icirc; inanışları<br />
     - D-) Yan lob
     - E-) Beyincik lobu
     <hr />
+1. <strong>Renkli g&ouml;rme olayının nasıl ger&ccedil;ekleştiğiyle&nbsp;ilgili&nbsp;ilk teoriyi ortaya koyan İngiliz fizik&ccedil;isi aşağıdakilerden hangisidir?</strong>
+    - A-) Auguste Bravais
+    - B-) Sadi Carnot
+    - **Cevap C-) Thomas Young**
+    - D-) Marie Curie
+    - E-) William Crookes
+    <hr />
 1. <strong>G&ouml;z ile beyin arasındaki bağlantılarda gizli olan ve algının devreye girmesiyle başlayan psikolojik s&uuml;re&ccedil; aşağıdakilerden hangisidir?</strong>
     - A-) Fiziksel G&ouml;rme
     - **Cevap B-) Zihinsel G&ouml;rme**
@@ -409,7 +430,7 @@ III. Bireyin din&icirc; inanışları<br />
     - **Cevap D-) Monokromatik renk**
     - E-) Soğuk renkler
     <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisinde Pantone olarak &uuml;retilen her bir rengin, tescillenmiş bir numaralandırılma sistemine g&ouml;re RGB, HEX/HTML ve CMYK değeriyle kodlanır?</strong>
+1. <strong>Aşağıdakilerden hangisinde Pantone olarak &uuml;retilen her bir rengin, tescillenmiş bir numaralandırılma sistemine g&ouml;re RGB, HEX/HTML ve CMYK değeriyle kodlanır?</strong>
     - A-) &Ccedil;ıkarımsal renkler
     - B-) Monokromatik renkler
     - **Cevap C-) &Ouml;zel Renk Sistemi**
@@ -452,6 +473,13 @@ Bu doğrultuda aşağıdakilerden hangisi v&uuml;cutta epinefrin salgılatarak t
     - D-) Siyah
     - **Cevap E-) Yeşil**
     <hr />
+1. <strong>Işığın hızla yayılıp yayılmadığını bilimsel olarak ilk deneyleyen İtalyan bilim adamı aşağıdakilerden hangisidir?</strong>
+    - A-) Newton
+    - B-) Christiaan Huygens
+    - C-) Leonardo da Vinci
+    - **Cevap D-) Galileo Galilei**
+    - E-) Aristoteles
+    <hr />
 1. I.&nbsp; &nbsp;Işığın kaynağı g&uuml;neştir.<br />
 II.&nbsp;&nbsp;Renkler ışık ile algılanır.<br />
 III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br />
@@ -461,6 +489,13 @@ III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br />
     - C-) I ve II
     - **Cevap D-) I, II ve III**
     - E-) II ve III
+    <hr />
+1. <strong>Sarı, mavi ve kırmızı renklerden oluşan skala hangi renk grubunu oluşturmaktadır?</strong>
+    - A-) Tamamlayıcı Renkler
+    - B-) Komplemanter Renkler
+    - **Cevap C-) Ana Renkler**
+    - D-) Soğuk Renkler
+    - E-) Ara Renkler
     <hr />
 ## Unite 4
 1. <strong>Bilginin g&ouml;rsel yolla analiz edilerek anlamlandırılmasına ne ad verilir?</strong>
@@ -538,7 +573,7 @@ Yukarıda verilen se&ccedil;eneklerden hangileri tasarım y&uuml;zeyini oluştur
     - D-) III ve IV
     - E-) I, II, III ve IV
     <hr />
-1. <strong>G&ouml;rsel uyaranların birbirleriyle olan konumlarının &ouml;ğeleri b&uuml;t&uuml;nsel bir yapıda algılatabileceğini işaret eden ilke aşağıdakilerden hangisidir?</strong>
+1. <strong>G&ouml;rsel uyaranların birbirleriyle olan konumlarının &ouml;geleri b&uuml;t&uuml;nsel bir yapıda algılatabileceğine işaret eden ilke aşağıdakilerden hangisidir?</strong>
     - A-) Şekil ve Zemin İlkesi
     - B-) Benzerlik İlkesi
     - C-) Zaman İlkesi
@@ -619,11 +654,25 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - D-) Tamamlama&nbsp;İlkesi
     - E-) S&uuml;reklilik&nbsp;İlkesi
     <hr />
+1. <strong>Aşağıdakilerden hangisi&nbsp;Gestalt Algılama İlkeleri&#39;nin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Tasarım&nbsp;s&uuml;recini&nbsp;ilgilendiren&nbsp;pek&nbsp;&ccedil;ok&nbsp;grafik&nbsp;&ouml;ğe&nbsp;arasında&nbsp;bağlantılar kurmayı&nbsp;sağlayabilir.
+    - B-) Tasarımın&nbsp;g&ouml;rsel&nbsp;hiyerarşisini&nbsp;b&uuml;t&uuml;nsel&nbsp;bir&nbsp;sistemle&nbsp;değerlendirmeye&nbsp;katkı sunabilir.
+    - C-) Tasarımın&nbsp;vurgusunu&nbsp;etkileyebilir.
+    - D-) Tasarımın&nbsp;i&ccedil;eriği&nbsp;ve&nbsp;bi&ccedil;im&nbsp;dili&nbsp;arasındaki&nbsp;etkileşimi&nbsp;g&uuml;&ccedil;lendirebilir.
+    - **Cevap E-) Tasarımın rengi, kompozisyon algısını etkileyebilir.**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi&nbsp;Gestalt algılama ilkelerinden biri <u>değildir</u>?</strong>
+    - A-) Tasarım s&uuml;recini ilgilendiren pek &ccedil;ok grafik &ouml;ge arasında bağlantılar kurmayı sağlayabilir.
+    - B-) Tasarımın g&ouml;rsel hiyerarşisini b&uuml;t&uuml;nsel bir sistemle değerlendirmeye katkı sunabilir.
+    - C-) Tasarımın vurgusunu etkileyebilir.
+    - **Cevap D-) Tasarım y&uuml;zeyi; &ccedil;izgi, renk, doku, tekst&uuml;r, bi&ccedil;im, hareket, imge, fotoğraf ve ill&uuml;strasyon gibi yapısında bir&ccedil;ok farklı unsur barındırabilir.**
+    - E-) Tasarımın i&ccedil;eriği ve bi&ccedil;im dili arasındaki etkileşimi g&uuml;&ccedil;lendirebilir.
+    <hr />
 1. <strong>&nbsp;İnsan algısındaki her yapıyı bir kavramla ilişkilendirip bir b&uuml;t&uuml;n olarak değerlendirme s&uuml;reci aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Simgesel S&uuml;re&ccedil;**
     - B-) Alıcı S&uuml;re&ccedil;
     - C-) Uygulayıcı S&uuml;re&ccedil;
-    - D-) Duygusal S&uuml;re&ccedil;&nbsp;
+    - D-) Duygusal S&uuml;re&ccedil;
     - E-) Psikolojik S&uuml;re&ccedil;
     <hr />
 1. <strong>1995 yılında tasarlanan,&nbsp;şekil ve zemin algısının değişken yapısının izlenebildiği afiş aşağıdaki hangi sanat&ccedil;ıya aittir?</strong>
@@ -634,6 +683,13 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - E-) Paul Auster
     <hr />
 ## Unite 5
+1. <strong>Aşağıdakilerden hangisi &quot;bir kavramı niteleyen somut şekil&quot; olarak tanımlanan Yunanca k&ouml;kenli bir kelimedir?</strong>
+    - A-) Bi&ccedil;im
+    - B-) Form
+    - **Cevap C-) Sembol**
+    - D-) Yapı
+    - E-) Tasarım
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tek ya da fazla sayıda harfin birleşiminden oluşan logo tasarımı anlamına gelir?</strong>
     - A-) İdeogram
     - B-) Piktogram
@@ -669,6 +725,14 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - **Cevap D-) Fraktal**
     - E-) Piktogram
     <hr />
+1. &hellip;&hellip;&hellip;.., herhangi bir nesneyi veya kavramı resmetmek yoluyla iletişim kurmayı hedefleyen sembold&uuml;r. Genel olarak soyut bir algılama ile geometrik bi&ccedil;im temelinde tasarlanır.<br />
+<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Piktogram**
+    - B-) Simge
+    - C-) İdeogram
+    - D-) Harf
+    - E-) Geometrik şekil
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım y&uuml;zeyini ilgilendiren temel geometrik bi&ccedil;im ve &ouml;n-arka plan arasındaki ilişkiyi <u>ifade etmez</u>?</strong>
     - A-) Tasarım y&uuml;zeyindeki grafik &ouml;gelerin vurgusunu g&uuml;&ccedil;lendirir.
     - B-) İ&ccedil;erikle bağ kurabilir.
@@ -691,19 +755,19 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - D-) Vladimir Tatlin
     - E-) Pablo Picasso
     <hr />
-1. <strong>I. Beşgen<br />
+1. I. Beşgen<br />
 II. Kare<br />
 III. Daire<br />
-IV. &Uuml;&ccedil;gen<br />
-Yukarıda verilen se&ccedil;eneklerden hangileri tasarımın soyut olan temel geometrik bi&ccedil;imleri arasında yer alır?</strong>
+IV. &#220;&#231;gen<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik bi&#231;imleri arasında yer alır?</strong>
     - A-) Yalnız I
     - **Cevap B-) II, III ve IV**
     - C-) Yalnız II
     - D-) I, II ve III
     - E-) Yalnız IV
     <hr />
-1. <strong>K&uuml;bizmin kurucusu ve en &ouml;nemli temsilcisi kimdir?</strong>
-    - A-) Leonardo Da Vinci
+1. <strong>K&uuml;bizmin kurucusu ve en &ouml;nemli temsilcisi aşağıdakilerden hangisidir?</strong>
+    - A-) Leonardo da Vinci
     - B-) El Lissitzky
     - C-) Kazimir Malevich
     - D-) Vladimir Tatlin
@@ -744,6 +808,14 @@ Aşağıdaki se&ccedil;eneklerden hangisi yukarıda bahsedilen durumu ifade eder
     - C-) Tasarımda yol g&ouml;sterici olabilir.
     - D-) Tasarımın y&uuml;zeyindeki katmanlı yapı anlayışına değer katabilir.
     - E-) Geometrik bi&ccedil;im tekrarı, tasarımda ritim, hareket veya derinlik algısı yaratabilir.
+    <hr />
+1. ..........., tasarım s&uuml;recinin ilk aşamasından itibaren iyi bir fikir bulmanın anahtarıdır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Perspektif
+    - B-) Derinlik
+    - C-) Katman
+    - **Cevap D-) İ&ccedil;erik**
+    - E-) Arka plan
     <hr />
 1. <strong>&quot;G&ouml;rsel D&uuml;ş&uuml;nme&quot; kitabının yazarı aşağıdakilerden hangisidir?</strong>
     - A-) Emre Becer
@@ -930,6 +1002,13 @@ Yukarıda bahsedilen &ouml;rnekte beynimizin hangi &ouml;zelliğinden bahsedilme
     - D-) Frank Stella
     - E-) Bridget Riley
     <hr />
+1. <strong>&Ccedil;izgi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Sanatsal &uuml;retimin temelinde hep &ccedil;izgi vardır.
+    - B-) &Ccedil;izgi desenin temelini oluşturan bir &ouml;gedir.
+    - C-) &Ccedil;izgi, belirli bir doğrultuda ivme kazanarak hareket eden noktaların toplamıdır.
+    - D-) &Ccedil;izgi, en az iki veya &ccedil;ok sayıda noktanın birleşmesidir.
+    - **Cevap E-) &Ccedil;izgi sanatın sonunu temsil eder.**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi doğal &ccedil;izgi olarak ifade edilebilecek g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml; <u>değildir</u>?</strong>
     - **Cevap A-) El yazısı**
     - B-) Deniz kabuğu
@@ -976,6 +1055,13 @@ IV. Her formun bir şekli vardır fakat her şeklin bir formu olamaz.<br />
     - C-) G&ouml;lge
     - D-) Derinlik
     - E-) Benzerlik
+    <hr />
+1. <strong>Tasarımda doku kullanımıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Doku tekrarı, yanılsamaya neden olabilir.
+    - B-) Yapay dokular tasarıma estetik bir değer kazandırabilir.
+    - C-) &Uuml;&ccedil; boyutlu dokular aynı zamanda matematiksel bir temele dayanır.
+    - **Cevap D-) Doku tasarım ilkelerinden bağımsız d&uuml;ş&uuml;n&uuml;lmelidir.**
+    - E-) Bir tasarım &uuml;r&uuml;n&uuml;nde ger&ccedil;eklik izlenimi uyandıran taklit dokulara yer verebilir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi tek bir form veya şekille sınırlanan dokulara &ouml;rnek <u>g&ouml;sterilemez</u>?</strong>
     - A-) Bir taş par&ccedil;ası
@@ -1078,6 +1164,21 @@ III. Kimyasal tepkime<br />
     - C-) Paul Signac
     - **Cevap D-) Vincent Van Gogh**
     - E-) Paul Cezanne
+    <hr />
+1. Doku, .................. &nbsp;olmak &uuml;zere ikiye ayrılır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) mat ve parlak
+    - B-) yumuşak ve sert
+    - **Cevap C-) doğal ve yapay**
+    - D-) yumuşak ve parlak
+    - E-) parlak ve sert
+    <hr />
+1. <strong>Aşağıdaki sanatlardan hangisinde dokunun işlevsel bir tasarım elamanı olma &ouml;zelliği <u>yoktur</u>?</strong>
+    - A-) Resim
+    - B-) Heykel
+    - C-) Seramik
+    - D-) Geleneksel T&uuml;rk sanatları
+    - **Cevap E-) Ritmik sanatlar**
     <hr />
 1. <strong>Ton değeri y&uuml;zeyin hangi elemanlarıyla uyumlu bir ilişki i&ccedil;erisinde olmalıdır?</strong>
     - **Cevap A-) Tasarım**
@@ -1352,13 +1453,13 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
     - D-) Kurgu ve yapılandırma, t&uuml;m tasarım &ouml;gelerinin uyum i&ccedil;erisinde &ouml;rg&uuml;tlenmesini gerektirmez.
     - E-) Kurguyu yapılandırmak i&ccedil;in detay değil y&uuml;zeysel anlamlar &ouml;nemlidir.
     <hr />
-1. <strong>&ldquo;Kurgu ve yapılandırmanın iki boyutlu d&uuml;zlemdeki etkinliğine y&ouml;nelik yapılacağınız pek &ccedil;ok g&ouml;rsel araştırma, tasarım problemlerine y&ouml;nelik &hellip;&hellip;&hellip;.. &uuml;retme yetinizi derinden etkileyecektir.&rdquo;&nbsp;<br />
-Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong>
-    - A-) Form
-    - B-) Doku
-    - C-) Tipografi
-    - D-) Renk
-    - **Cevap E-) Fikir**
+1. Kurgu ve yapılandırmanın iki boyutlu d&uuml;zlemdeki etkinliğine y&ouml;nelik yapılacağınız pek &ccedil;ok g&ouml;rsel araştırma, tasarım problemlerine y&ouml;nelik &hellip;&hellip;&hellip;.. &uuml;retme yetinizi derinden etkileyecektir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong>
+    - A-) form
+    - B-) doku
+    - C-) tipografi
+    - D-) renk
+    - **Cevap E-) fikir**
     <hr />
 1. <strong>Kurgu ve yapılandırma a&ccedil;ısından, tasarım ilkelerinin bir d&uuml;zlemdeki etkinliğini kavramak i&ccedil;in aşağıdaki &ouml;gelerden hangisi ile g&ouml;rsel araştırmalar <u>yapılamaz</u>?</strong>
     - A-) Nokta
@@ -1397,7 +1498,7 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?<
     - **Cevap E-) İnsan yaşamındaki d&uuml;zensizliği de ifade edebilir.**
     <hr />
 1. <strong>Bir tasarımdaki kurgu ve yapılandırmayla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Bir tasarımda anlam yaratmak, kurgu ve yapılandırmayla sağlanır.&nbsp;
+    - A-) Bir tasarımda anlam yaratmak, kurgu ve yapılandırmayla sağlanır.
     - B-) İzleyene yeni bir g&ouml;rsel deneyim yaşatmalıdır.
     - C-) İletişim kurma misyonu &uuml;stlenmelidir.
     - **Cevap D-) Tasarımda yer verilecek &ouml;gelere nicelik kazandırmalıdır.**
@@ -1640,9 +1741,9 @@ Yukarıdaki se&ccedil;eneklerden hangisi/hangileri tasarımda inorganik bi&ccedi
     - D-) D&uuml;ş&uuml;k renklendirme etkisine sahiptirler
     - **Cevap E-) K&uuml;&ccedil;&uuml;k par&ccedil;acıklardır.**
     <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi temel dokular arasında <u>g&ouml;sterilemez</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi temel dokular arasında <u>g&#246;sterilemez</u>?</strong>
     - **Cevap A-) Somut**
-    - B-) Ger&ccedil;ek
+    - B-) Ger&#231;ek
     - C-) Doğal
     - D-) Yapay
     - E-) Keşfedilmiş
@@ -1685,6 +1786,13 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     - C-) Yer d&ouml;şemeleri
     - D-) End&uuml;striyel &uuml;retilen mobilya
     - **Cevap E-) Dalından koparılmış taze elma**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &quot;organik&quot; s&ouml;zc&uuml;ğ&uuml; i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
+    - A-) Doğal
+    - B-) Doğada bulunan
+    - **Cevap C-) İnsan eliyle yapılmış olan**
+    - D-) Katkı maddesi i&ccedil;ermeyen
+    - E-) Doğal yolla yapılan
     <hr />
 ## Unite 13
 1. <strong>Tasarımda g&ouml;rsel hiyerarşiyle ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>

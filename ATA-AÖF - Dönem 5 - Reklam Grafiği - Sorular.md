@@ -84,12 +84,26 @@
     - **Cevap D-) İnternet**
     - E-) Dergi
     <hr />
+1. <strong>Aşağıdaki TV reklamlarından hangisi yayın esnasında akışı engellemeyecek şekilde ses ve s&ouml;z kullanılmadan ekranın herhangi bir yerinde reklam verilerinin kullanılmasıyla yapılan reklam t&uuml;r&uuml;ne &ouml;rnektir?</strong>
+    - A-) Basılı reklam
+    - B-) &Uuml;r&uuml;n yerleştirme reklamları
+    - **Cevap C-) Bant reklam**
+    - D-) Hareketli reklam
+    - E-) Hareketsiz reklam
+    <hr />
 1. <strong>Aşağıdakilerden hangisi doğrudan satış ve program destekleme reklamlarını kapsar?</strong>
     - A-) Hareketsiz (durağan) reklamlar
     - **Cevap B-) Hareketli reklamlar**
     - C-) &Uuml;r&uuml;n yerleştirme reklamları
     - D-) &Ccedil;er&ccedil;eve reklamlar
     - E-) Sanal reklamlar
+    <hr />
+1. <strong>Aşağıdakilerden hangisi gazete reklamlarının nitelik ve maliyetini belirleyen unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Kullanılan alan
+    - B-) K&acirc;ğıt t&uuml;r&uuml;
+    - C-) Yayın sayfası
+    - **Cevap D-) Tasarım bi&ccedil;imi**
+    - E-) Renk &ouml;zelliği
     <hr />
 1. <strong>Oluşturulmuş toplu organizasyonlarda firmaların kendilerini ya da mal ve hizmetlerini tanıtmak &uuml;zere hedef kitleyle karşılıklı etkileşime girdikleri reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Satış yeri reklamı
@@ -155,13 +169,12 @@
     - D-) Baskın bir siyasi ya da ekonomik ideolojinin varlığı
     - E-) Kolektif ya da bireyci toplumsal yapı sorgulaması
     <hr />
-1. <strong>&ldquo;Benzerleri arasında &uuml;r&uuml;n ya da hizmetlerin ayırıcı &ouml;zelliklerini &ouml;ne &ccedil;ıkararak markanın bilinirliğini ve tercih edilirliğini arttırmak, t&uuml;keticilerin &uuml;r&uuml;n veya markayla ilgili tutum/tercihlerini değiştirmek, t&uuml;keticileri tanıtımı yapılan &uuml;r&uuml;n ya da hizmeti denemeye y&ouml;nlendirmek&rdquo;<br />
-Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
+1. <strong>&#39;&#39;Benzerleri arasında &#252;r&#252;n ya da hizmetlerin ayırıcı &#246;zelliklerini &#246;ne &#231;ıkararak markanın bilinirliğini ve tercih edilirliğini artırmak, t&#252;keticilerin &#252;r&#252;n veya markayla ilgili tutum/tercihlerini değiştirmek, t&#252;keticileri tanıtımı yapılan &#252;r&#252;n ya da hizmeti denemeye y&#246;nlendirmek&#39;&#39; şeklinde&#160;tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - A-) Bilgilendirme Fonksiyonu
     - B-) Hatırlatma Fonksiyonu
     - **Cevap C-) İkna Etme Fonksiyonu**
     - D-) Değer Katma Fonksiyonu
-    - E-) &Ouml;rg&uuml;tleme Fonksiyonu
+    - E-) &#214;rg&#252;tleme Fonksiyonu
     <hr />
 1. <strong>&Ccedil;ocuklara y&ouml;nelik reklamlarda aşağıdakilerden hangisine dikkat etmek gerekli <u>değildir</u>?</strong>
     - **Cevap A-) &Ccedil;ocuklar konusu aile ortamının dışında ge&ccedil;en reklamlarda yer almamalıdır.**
@@ -198,6 +211,13 @@ Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - D-) Alınız, yiyiniz
     - E-) &Ouml;zenli ellerden, sizin i&ccedil;in
     <hr />
+1. <strong>Reklamın toplum &uuml;zerindeki etkilerinin olumsuz sonu&ccedil;ları arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Reklam, insanları ihtiyacı olmayan &uuml;r&uuml;nleri satın almaya y&ouml;nlendirir.
+    - B-) Reklam, toplumsal değerleri ihmal etmeye sebep olur.
+    - **Cevap C-) Reklam, insanları &uuml;r&uuml;n &ouml;zellikleriyle ilgili bilgilendirir.**
+    - D-) Reklam, insanları t&uuml;ketim &ccedil;ılgınlığına sevk eder.
+    - E-) Reklam, insanların metayı &ouml;nemsemesine neden olur.
+    <hr />
 1. <strong>&Uuml;reticiler a&ccedil;ısından reklamın toplumsal etkisi aşağıdakilerden hangisiyle ilgili <u>değildir</u>?</strong>
     - **Cevap A-) Tatmin**
     - B-) &Uuml;retim
@@ -212,6 +232,13 @@ Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - C-) Amerika Birleşik Devletleri
     - **Cevap D-) Japonya**
     - E-) Almanya
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilin&ccedil;altı reklamların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) &Ouml;zel hazırlanmış enstr&uuml;manlarla t&uuml;keticinin bilin&ccedil;altına hitap eder.
+    - B-) Mesaj, reklamdaki herhangi bir unsurun i&ccedil;ine gizlenmiştir.
+    - C-) Mesajın doğrudan algılanması zordur.
+    - **Cevap D-) Mesaja t&uuml;ketici tarafından bilin&ccedil;li bir şekilde tepki verilir.**
+    - E-) Mesaj, ilk anda fark edilmemek &uuml;zere tasarlanmıştır.
     <hr />
 1. <strong>Aşağıdakilerden hangisi reklamın t&uuml;ketici &uuml;zerindeki sosyolojik etkilerinden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) &Uuml;r&uuml;nle ilgili tatmin duygusu yaratmak**
@@ -354,6 +381,13 @@ Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - D-) Fayda başlığı
     - E-) Meraklandırıcı başlık
     <hr />
+1. <strong>&nbsp;Bir markayı, firmayı, kurumu, kuruluşu, topluluğu veya fikri temsil eden, adını ve amacını tanımlayan, i&ccedil;eriğinde grafiksel unsurların yer aldığı semboller aşağıdakilerden hangisidir?</strong>
+    - A-) Billboard
+    - B-) İll&uuml;strasyon
+    - **Cevap C-) Logo**
+    - D-) Efekt
+    - E-) Animasyon
+    <hr />
 ## Unite 4
 1. <strong>&ldquo;Kendisinden başka bir şeyin yerini tutan, daha doğrusu, kendi dışında bir şey g&ouml;steren&rdquo; olarak tanımlanabilen kavram aşağıdakilerin hangisidir?</strong>
     - A-) G&ouml;stergebilim
@@ -446,12 +480,26 @@ Yukarıda tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
     - D-) John Locke
     - E-) Jean Henri Lambert
     <hr />
+1. <strong>&ldquo;Gibi g&ouml;stermek&rdquo; olarak ifade edilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) G&ouml;sterge
+    - B-) G&ouml;sterilen
+    - C-) G&ouml;steren
+    - D-) İroni
+    - **Cevap E-) Metafor**
+    <hr />
 1. <strong>G&ouml;stergebilimi &ldquo;g&ouml;sterge, g&ouml;sterilen ve yorumlayıcı&rdquo; a&ccedil;ısından ele alan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Jean Henri Lambert
     - B-) Ferdinand de Saussure
     - C-) Roland Barthes
     - D-) John Locke
     - **Cevap E-) Charles Sanders Peirce**
+    <hr />
+1. <strong>&ldquo;G&ouml;stergelerin, d&uuml;z anlamı dışında, bireylerin kişisel deneyimleri, demografik &ouml;zellikleri ya da k&uuml;lt&uuml;rel etkenler gibi değişkenlere bağlı olarak yorumlanan anlamları&rdquo; olarak ifade edilen kavram aşağıdakilerden hangisidir?</strong>
+    - A-) D&uuml;z anlam
+    - **Cevap B-) Yan anlam**
+    - C-) Mecaz anlam
+    - D-) Kinayeli anlam
+    - E-) G&ouml;sterilen anlam
     <hr />
 ## Unite 5
 1. <strong>Aşağılardakilerden hangisi reklam grafiklerinde tipografik tasarımlarda dikkat edilmesi gereken temel kurallardan biri <u>değildir</u>?</strong>
@@ -509,7 +557,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Yaratıcı fikre g&ouml;rsel destek sağlamak
     - E-) Alıcıya/bakan kişiye hedeflenen duygu aktarımını sağlamak
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi se&ccedil;imi/uygulamasında dikkat edilmesi gereken hususlardan birisi <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi se&ccedil;imi/uygulamasında dikkat edilmesi gereken hususlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) &Uuml;r&uuml;n/hizmet &ouml;zelliklerini bilmek
     - B-) Reklam fikri/stratejisini anlamak
     - C-) Yazı tipinin bi&ccedil;imsel &ouml;zelliklerini bilmek
@@ -550,6 +598,20 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) B&uuml;y&uuml;k-k&uuml;&ccedil;&uuml;k harf kullanımı
     - D-) İtalik, bold ve light yazı tipi karakterlerinin aynı anda uygulanması
     - E-) &Ouml;nem sırasına g&ouml;re reklam grafiğindeki elemanların dizimi
+    <hr />
+1. <strong>Gutenberg&rsquo;in hareketli hurufat sistemini geliştirmesi &ouml;ncesi d&ouml;nemde reklam grafiklerinde tipografi hangi ama&ccedil;larla kullanılmıştır?</strong>
+    - A-) Yaratıcı fikir
+    - B-) G&ouml;rsel fakt&ouml;r
+    - **Cevap C-) İşlevsel metinsel unsur**
+    - D-) Reklam stratejisine y&ouml;nelik d&uuml;zenleme
+    - E-) Dikkat &ccedil;ekme
+    <hr />
+1. <strong>Matbaanın ilk d&ouml;nemlerinde basılı ilanlarda kullanılan yazı tipi aşağıdakilerden hangisidir?</strong>
+    - A-) Copper plate
+    - B-) Comic Sans
+    - **Cevap C-) Gotik**
+    - D-) Calibri
+    - E-) San serif
     <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisinde geleneksel reklam mecraları doğru sıralanmıştır?</strong>
@@ -657,6 +719,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Maliyeti y&uuml;ksek reklamlardır.
     - E-) Reklam tasarımında şerifli (tırnaklı) fontlar kullanılır.
     <hr />
+1. <strong>Aşağıdakiler hangi ikisi en &ccedil;ok tercih edilen yazılı basın reklam aracıdır?</strong>
+    - A-) Katalog-Broş&uuml;r
+    - **Cevap B-) Dergi-Gazete**
+    - C-) El ilanı-Dergi
+    - D-) Gazete-Katalog
+    - E-) Broş&uuml;r-El ilanı
+    <hr />
 1. <strong>Aşağıdakilerden hangisi dijital reklam mecralarından biri <u>değildir</u>?</strong>
     - **Cevap A-) El ilanları**
     - B-) E-postalar
@@ -722,11 +791,11 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - E-) Rahat bir kurum olduğu
     <hr />
 1. <strong>G&ouml;rsel kimliği yeşil ağırlıklı olan bir gıda firmasının hedef kitleye verdiği mesaj aşağıdakilerden hangisidir?</strong>
-    - A-) Deniz &uuml;r&uuml;nlerine sahip olduğu mesajını verir
-    - B-) Fast-food gibi hazır gıdalar olan bir &uuml;r&uuml;n yelpazesi vardır
-    - C-) Tehlikeli, zehirli &uuml;r&uuml;nlere sahip olduğu mesajını verir
-    - **Cevap D-) Organik ve doğal &uuml;r&uuml;nlere sahip olduğu mesajını verir**
-    - E-) Sadece erkeklere &ouml;zel &uuml;r&uuml;nlere sahip olduğu mesajını verir
+    - A-) Deniz &uuml;r&uuml;nlerine sahip olduğu mesajını verir.
+    - B-) Fast-food gibi hazır gıdalar olan bir &uuml;r&uuml;n yelpazesi vardır.
+    - C-) Tehlikeli, zehirli &uuml;r&uuml;nlere sahip olduğu mesajını verir.
+    - **Cevap D-) Organik ve doğal &uuml;r&uuml;nlere sahip olduğu mesajını verir.**
+    - E-) Sadece erkeklere &ouml;zel &uuml;r&uuml;nlere sahip olduğu mesajını verir.
     <hr />
 1. <strong>Kurum veya hizmet adının harf, kelimeler ve/veya g&ouml;r&uuml;nt&uuml; gibi &ccedil;eşitli g&ouml;rsel &ouml;geler kullanılarak sembolize edilmesine ne ad verilir?</strong>
     - **Cevap A-) Logo**
@@ -756,6 +825,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Bireysel kimlik
     - E-) Kolektif kimlik
     <hr />
+1. <strong>Aşağıdakilerden hangisi siyah rengin olumlu &ccedil;ağrışımlar yarattığı kavramlardan biri <u>değildir</u>?</strong>
+    - A-) Şıklık
+    - **Cevap B-) Korku**
+    - C-) Zarafet
+    - D-) G&uuml;&ccedil;
+    - E-) Ciddiyet
+    <hr />
 1. <strong>Kurumsal logosunda ağırlıklı olarak daire bi&ccedil;iminden yararlanılan bir marka i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Sonsuzluğu &ccedil;ağrıştıran bir kurumdur, m&uuml;cevher markası olabilir.
     - B-) S&uuml;rekliliği temsil eden bir kurumdur, saat markası logosu olabilir.
@@ -764,8 +840,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap E-) Stabil/durağan bir kurumdur, inşaat firması logosu olabilir.**
     <hr />
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi yaratıcılığın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi yaratıcılığın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Esneklik (flexibility)
     - B-) Zenginleştirme (elaboration)
     - **Cevap C-) Kararlılık (resolvity)**
@@ -779,11 +854,11 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Fark edilir olması**
     - E-) Ekonomik olması
     <hr />
-1. <strong>&Ccedil;ağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?</strong>
+1. <strong>&#199;ağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?</strong>
     - A-) Leonardo Da Vinci
-    - **Cevap B-) Jules Ch&eacute;ret**
+    - **Cevap B-) Jules Ch&#233;ret**
     - C-) John Gutenberg
-    - D-) Meng&uuml; Ertel
+    - D-) Meng&#252; Ertel
     - E-) Yurdaer Altıntaş
     <hr />
 1. <strong>Afiş tasarımı, &ccedil;eşitli sanat akımlarından etkilenmiştir. Aşağıdakilerden hangisi bu akımlardan <u>değildir</u>?</strong>
@@ -849,6 +924,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) İz
     - E-) Sayı
     <hr />
+1. <strong>Bug&uuml;nk&uuml; anlamda ilk afiş sanatı aşağıdaki &uuml;lkelerden hangisinde g&ouml;r&uuml;lm&uuml;şt&uuml;r?</strong>
+    - A-) Almanya
+    - **Cevap B-) Fransa**
+    - C-) İtalya
+    - D-) Japonya
+    - E-) &Ccedil;in
+    <hr />
 1. <strong>Tasarım s&uuml;recinde &ldquo;gazete tasarımları&rdquo; aşağıdakilerden hangi taslakların gelişim evreleri i&ccedil;erisinde yer alır?</strong>
     - **Cevap A-) Mondrian taslaklar**
     - B-) Sirk taslaklar
@@ -878,9 +960,10 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Zaman B&uuml;t&ccedil;esi
     - E-) Zaman Ayarı
     <hr />
-1. <strong>&ldquo;Animasyonlar bir şirketin reklam mesajını kısa ve &ouml;z bir şekilde izleyicinin izlerken zevk alacağı g&ouml;rsel/işitsel &ccedil;ekiciliğe sahip &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. verebilirler.&rdquo; İfadesinde noktalı yere aşağıdakilerden hangisi gelmelidir?</strong>
+1. Animasyonlar bir şirketin reklam mesajını kısa ve &#246;z bir şekilde izleyicinin izlerken zevk alacağı g&#246;rsel/işitsel &#231;ekiciliğe sahip ……………………. verebilirler.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Ses formatında
-    - B-) G&ouml;r&uuml;nt&uuml; formatında
+    - B-) G&#246;r&#252;nt&#252; formatında
     - C-) Karmaşık bir yapıda
     - **Cevap D-) Basitleştirilmiş bir formda**
     - E-) Sofistike bir yapıda
@@ -936,13 +1019,19 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - E-) Değer katma
     <hr />
 1. Reklamlar nihayetinde .........................&hellip;&hellip;&hellip;&hellip;&hellip;.. veya korumayı hedefleyen belirli ama&ccedil;ları yerine getirmek i&ccedil;in yapılırlar.<strong> </strong><br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) satışı sağlamayı, artırmayı**
     - B-) satışı durdurmayı, dondurmayı
     - C-) pazarı durdurmayı, bekletmeyi
     - D-) sekt&ouml;r&uuml; araştırmayı, beklemeyi
     - E-) sunumu hazırlamayı, sunmayı
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde reklamın işlevi doğru verilmiştir?</strong>
+    - A-) Hatırlanma, değerlendirme, fiyat ayarlama
+    - **Cevap B-) Bilgi verme, hatırlanma, ikna, değer katma**
+    - C-) Bilgi verme, hatırlanma, fiyat ayarlama, değer katma
+    - D-) Bilgi verme, ikna etme, değerlendirme
+    - E-) Hatırlanma, fiyat ayarlama, değer katma
     <hr />
 1. <strong>Aşağıdakilerden hangisi animasyonun reklam ile kurduğu farklı t&uuml;rdeki ilişkilerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Tetrad**
@@ -1053,6 +1142,14 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Hedef kitle g&ouml;z &ouml;n&uuml;nde bulundurularak yapılan tasarımlar anlatımı g&uuml;&ccedil;lendirerek hedef kitle ile iletişimi kolaylaştırır.
     - **Cevap E-) Reklam fotoğrafı tasarımları belli kurallar &ccedil;er&ccedil;evesince yapılmalıdır.**
     <hr />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; reklam grafiklerinde yer alan metinlerin bi&ccedil;imsel &ouml;zelliklerini ele alan bir disiplindir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Metin
+    - B-) Fotoğraf
+    - **Cevap C-) Tipografi**
+    - D-) Layout
+    - E-) Taslak
+    <hr />
 ## Unite 11
 1. <strong>Aşağıdakilerden hangisi ambalajı oluşturan &ouml;ğelerden <u>değildir</u>?</strong>
     - A-) Metin
@@ -1123,6 +1220,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) Prova baskının alınması
     - **Cevap D-) Tasarım &ccedil;alışmasının yapılması**
     - E-) Baskı kalıplarının hazırlanması
+    <hr />
+1. <strong>Ambalaj tasarımı yaparken kullandığımız kırmızı renk kişide hangi tat duygusunu uyandırır?</strong>
+    - A-) Ekşi
+    - B-) Acı
+    - C-) Tuzlu
+    - **Cevap D-) Tatlı**
+    - E-) Lezzet
     <hr />
 1. <strong>Aşağıdakilerden hangisi marka/logonun g&ouml;revlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Marka bağlılığını artırır.
@@ -1261,10 +1365,10 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     <hr />
 1. <strong>Aşağıdakilerden hangisi lightbox &ouml;zelliklerindendir?</strong>
     - A-) Elektrik direği reklamı, direk reklamı olarak da bilinir.
-    - **Cevap B-) Y&uuml;zeyinde kağıt yerine y&uuml;ksek kalitedeki ışıklı kumaş kullanılır.**
+    - **Cevap B-) Y&uuml;zeyinde k&acirc;ğıt yerine y&uuml;ksek kalitedeki ışıklı kumaş kullanılır.**
     - C-) Seri şeklinde kullanıldığında, bir noktaya ulaşmak i&ccedil;in y&ouml;nlendirme bilgisi verebilir.
     - D-) Reklamın bulunduğu y&uuml;zeyin y&uuml;ksekliği 10 metreyi bulabilir.
-    - E-) Delikli vinil olarak bilinir
+    - E-) Delikli vinil olarak bilinir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi billboard t&uuml;rlerinden <u>değildir</u>?</strong>
     - A-) Mobil (hareketli) billboard
@@ -1372,11 +1476,11 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Banner (bant) tasarımı**
     - E-) Sosyal medya konsept tasarımı
     <hr />
-1. <strong>Araştırma hangisi hem a&ccedil;ık havada hem i&ccedil; mekanda kullanılan grafik &uuml;r&uuml;nleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Araştırma hangisi hem a&#231;ık havada hem i&#231; mek&#226;nda kullanılan grafik &#252;r&#252;nleri arasında <u>yer almaz</u>?</strong>
     - A-) Delikli branda (Mesh)
     - B-) Raket pano (CLP)
     - C-) Işıklı pano (Lightbox)
-    - D-) Tek y&ouml;n g&ouml;rsel (One way vision)
+    - D-) Tek y&#246;n g&#246;rsel (One way vision)
     - **Cevap E-) Raf kart**
     <hr />
 1. Hedef kitleyle ilgili bilgileri netleştirmek, &uuml;r&uuml;n&uuml;n veya hizmetin tanıtımında kullanılacak y&ouml;ntemi se&ccedil;meye yardımcı olmaktadır.<strong><br />

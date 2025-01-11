@@ -230,8 +230,7 @@ IV. Dijital Toplum<br />
     - D-) Hikȃyeleştirme
     - E-) İtibarı y&uuml;kseltme
     <hr />
-1. <strong>Aşağıdakilerden hangisi bireylerin sosyal medyada bulunduğu mek&acirc;nla iletmek istediği alt mesajları konumlandırma ve bu eylemlerde bulunmanın motivasyonlarından biri <u>değildir</u>?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi bireylerin sosyal medyada bulunduğu mek&acirc;nla iletmek istediği alt mesajları konumlandırma ve bu eylemlerde bulunmanın motivasyonlarından biri <u>değildir</u>?</strong>
     - A-) G&ouml;z &ouml;n&uuml;nde olma, sesini duyurma, sosyal medyada g&ouml;r&uuml;n&uuml;r olma, bu sebeple ayrıcalık oluşturma
     - B-) Var olma arzusu
     - C-) Silinmeme ve g&uuml;ndemde kalma, unutulma kaygısı
@@ -244,6 +243,13 @@ IV. Dijital Toplum<br />
     - C-) Sosyal medyanın t&uuml;ketim &ouml;zelliği
     - D-) Perşembeye d&ouml;n&uuml;ş (ne g&uuml;nlerdi / throwback Thursday-TBT)
     - E-) G&ouml;steriş toplumu
+    <hr />
+1. <strong>LinkedIn sosyal medya aracı kişinin kimliğinin hangi &ouml;zelliğini g&ouml;stermektedir?</strong>
+    - A-) Kişinin siyasi s&ouml;ylemini
+    - **Cevap B-) Kişinin iş &ccedil;evresini**
+    - C-) Kişinin akraba &ccedil;evresini
+    - D-) Kişinin bilgi d&uuml;zeyini
+    - E-) Kişinin mahalle &ccedil;evresini
     <hr />
 1. <strong>Aşağıdakilerden hangisi&nbsp;bir kişinin ya da grubun kendini dijital (sanal) ortamda tanımlaması, kendisini kişi veya grubun da i&ccedil;erisinde konumlandırmasıdır?</strong>
     - A-) Kimlik
@@ -268,6 +274,13 @@ III. Dijital mek&acirc;nlar<br />
     - C-) I ve II
     - D-) I ve III
     - **Cevap E-) I, II ve III**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi sosyal medya benlik sunum ara&ccedil;larının en &ouml;nemlilerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Instagram
+    - B-) Facebook
+    - **Cevap C-) Linkedin**
+    - D-) Twitter
+    - E-) Youtube
     <hr />
 ## Unite 3
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&nbsp; genellikle, kullanıcılar, izleyiciler, t&uuml;keticiler ve taraftarların i&ccedil;erik ve k&uuml;lt&uuml;r oluşturmasına d&acirc;hil olmasını belirtmek i&ccedil;in kullanılan bir kavramdır.<br />
@@ -307,8 +320,7 @@ III. Dijital mek&acirc;nlar<br />
     - D-) Toplumu tembelliğe g&ouml;t&uuml;r&uuml;r.
     - E-) Algılama etkisini g&uuml;&ccedil;lendirir.
     <hr />
-1. <strong>Emotikon kavramı ile ilgili olarak aşağıda verilenlerden hangisi doğrudur?</strong><br />
-
+1. <strong>Emotikon kavramı ile ilgili olarak aşağıda verilenlerden hangisi doğrudur?</strong>
     - A-) Emotikon yalnız noktalama işaretlerinden oluşur.
     - B-) Emotikon yalnız sayılardan oluşur.
     - **Cevap C-) Emotikon ASCII (American Standart Code for Information Intercange) karakterleri kullanan kullanıcılar tarafından oluşturulmuş metin tabanlıdır.**
@@ -342,6 +354,13 @@ III. Dijital mek&acirc;nlar<br />
     - C-) Melezler
     - D-) Emoji kullananlar
     - E-) X kuşağı
+    <hr />
+1. <strong>Kitle iletişiminde detaylı a&ccedil;ıklanması gereken bir durumda iletişimi emoji ile sonu&ccedil;landırmak emojinin hangi &ouml;zelliğini g&ouml;sterir?</strong>
+    - **Cevap A-) İnsanları tembelliğe g&ouml;t&uuml;rd&uuml;ğ&uuml;**
+    - B-) İnsanları iş yapmada hızlandırdığı ve zamandan kazandırdığı
+    - C-) İnsanların zek&acirc;sını geliştirdiği
+    - D-) Kitle iletişimin gereksiz olduğu
+    - E-) İnsanların algılama etkisini g&uuml;&ccedil;lendirdiği
     <hr />
 1. <strong>Kişinin otomobili alamadığı bir reklam filminde otomobilin logosuna &ldquo;&uuml;zg&uuml;n insan&rdquo; emojisi yerleştirmek emojinin hangi &ouml;zelliğini g&ouml;sterir?</strong>
     - A-) Simgesel boyutu
@@ -451,6 +470,13 @@ III. Dijital mek&acirc;nlar<br />
     - C-) Bilişim &ccedil;ağı
     - D-) Dijital &ccedil;ağ
     - E-) İnternet &ccedil;ağı
+    <hr />
+1. <strong>Yeni iletişim teknolojileri olarak adlandırılan iletişim ara&ccedil;larının gelişimine hangi gelişmeler &ouml;nc&uuml;l&uuml;k etmiştir?</strong>
+    - **Cevap A-) Bilgisayar ve internet alanındaki gelişmeler**
+    - B-) Sağlık alanındaki gelişmeler
+    - C-) Ekonomideki gelişmeler
+    - D-) Siyaset alanındaki gelişmeler
+    - E-) Sosyal hayattaki gelişmeler
     <hr />
 1. Her kuşağın yaşamı algılama bi&ccedil;imleri, farklı iletişim kurma ve kullanma tarzlarıyla kendine &ouml;zg&uuml; &ouml;zellikleri bulunmaktadır.<br />
 <strong>Aşağıdakilerden hangisi literat&uuml;rde yer alan kuşak sınıflandırması i&ccedil;erisinde <u>yer almaz</u>?</strong>
@@ -588,6 +614,13 @@ III. Dijital mek&acirc;nlar<br />
     - D-) Dijital okuryazarlık
     - E-) İnternet okuryazarlığı
     <hr />
+1. <strong>T&uuml;rkiye&rsquo;de medya okuryazarlığına y&ouml;nelik atılan adımlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - **Cevap A-) Medya takip merkezinin kurulması**
+    - B-) Okulların m&uuml;fredatına Medya Okuryazarlığı dersinin eklenmesi
+    - C-) www.medyaokuryazarligi.org.tr adlı sitenin kurulması
+    - D-) Haydi &Ccedil;ocuklar Uykuya uygulamasının hayata ge&ccedil;irilmesi
+    - E-) Koruyucu sembol sisteminin zorunlu h&acirc;le getirilmesi
+    <hr />
 1. <strong>Aşağıdakilerden hangisi kullanıcıların; fotoğrafları, resimleri ve g&ouml;rsel mesajları kolay ve akıcı bir şekilde &ccedil;&ouml;z&uuml;mlemesini sağlayan okuryazarlık becerisidir?</strong>
     - A-) Medya okuryazarlığı
     - **Cevap B-) G&ouml;rsel okuryazarlık**
@@ -697,6 +730,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) Twitter &ndash; WhatsApp &ndash; Facebook &ndash; YouTube
     - E-) YouTube &ndash; Facebook &ndash; Twitter &ndash; WhatsApp
     <hr />
+1. <strong>&ldquo;Geleneksel medya iletişimlerinde medyana gelen zaman farkı, anında etki ve tepkisi olan sosyal medya ile kıyaslandığında daha uzun olabilmektedir.&rdquo; ifadesine karşılık gelen ayrım aşağıdakilerden hangisidir?</strong>
+    - A-) Erişim
+    - B-) Yayılma
+    - C-) Kalıcılık
+    - D-) Etkileşim
+    - **Cevap E-) Yenilik**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi geleneksel medya ile sosyal medya arasındaki farklardan biri <u>değildir</u>?</strong>
     - A-) Erişim
     - B-) Kullanılabilirlik
@@ -710,6 +750,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - C-) Sanal d&uuml;nyalar
     - **Cevap D-) RSS (Really Simple Syndication)**
     - E-) Medya paylaşım siteleri
+    <hr />
+1. <strong>Aşağıdakilerden hangisi sosyal medyanın ilk &ouml;rneği olarak kabul edilmektedir?</strong>
+    - A-) Yahoo!
+    - B-) YouTube
+    - **Cevap C-) SixDegrees**
+    - D-) Twitter
+    - E-) Facebook
     <hr />
 1. <strong>Dawley tarafından sınıflandırılan sosyal paylaşım siteleri ile ilgili aşağıda verilen eşleştirmelerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Sosyal Siteler: MySpace, Facebook, Twitter
@@ -789,6 +836,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) Kullanıcının paylaşım yaparak maddi kazan&ccedil; sağlamak istemesi
     - E-) Kullanıcının toplumsal değerleri korumak istemesi
     <hr />
+1. <strong>Guy Debord&rsquo;un &ldquo;g&ouml;steri toplumu&rdquo; kavramı aşağıdakilerden hangisiyle ilişkilendirilmiştir?</strong>
+    - **Cevap A-) T&uuml;ketim k&uuml;lt&uuml;r&uuml;**
+    - B-) Geleneksel k&uuml;lt&uuml;r
+    - C-) Din&icirc; k&uuml;lt&uuml;r
+    - D-) Y&uuml;ksek k&uuml;lt&uuml;r
+    - E-) Halk k&uuml;lt&uuml;r&uuml;
+    <hr />
 1. <strong>G&ouml;steri toplumu kavramının en b&uuml;y&uuml;k tetikleyicisi nedir?</strong>
     - A-) Ekonomi
     - B-) Siyaset
@@ -809,6 +863,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - C-) Duygu ve d&uuml;ş&uuml;ncelerini ifade edebilmesi
     - **Cevap D-) Pasif bir nitelikte olması**
     - E-) Mahremiyete &ouml;nem vermemesi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi mahremiyetin boyutlarıdır?</strong>
+    - **Cevap A-) Bireysel/Mek&acirc;nsal/Enformasyonel**
+    - B-) Bedensel/Ruhsal/Toplumsal
+    - C-) Ekonomik/Siyasal/K&uuml;lt&uuml;rel
+    - D-) Yakın/Orta/Uzak
+    - E-) Bireysel/Toplumsal/Kamusal
     <hr />
 1. <strong>Bireylerin kişiye &ouml;zel kabul edilen &ouml;zel bilgilerinin hukuken kontrol ve denetim altına alınması sonucunu doğuran mahremiyet hakkı aşağıdakilerden hangisidir?</strong>
     - A-) &Ouml;zel mahremiyet
@@ -904,8 +965,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) İ&ccedil;erik &uuml;retimi yapabilme
     - **Cevap E-) Dijital &ccedil;erezleri kabul etme**
     <hr />
-1. <strong>Bir bilgisayar ağı veya internet &uuml;zerinden bir&ccedil;ok oyuncu ile oynanan oyunlar aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Bir bilgisayar ağı veya internet &uuml;zerinden bir&ccedil;ok oyuncu ile oynanan oyunlar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Ccedil;evrim i&ccedil;i oyunlar**
     - B-) Offline oyunlar
     - C-) Masa&uuml;st&uuml; oyunlar
@@ -1073,6 +1133,13 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - C-) KAYSİS
     - D-) CİMER
     - E-) BİMER
+    <hr />
+1. <strong>Hangisi kamuda dijitalleşmeyi gerektiren şartlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Şehirleşme
+    - **Cevap B-) Personel sayısının azlığı**
+    - C-) Bilgi ve iletişim teknolojilerinin gelişmesi ve yaygınlaşması
+    - D-) Vatandaşın verimli ve etkin hizmet beklentisi
+    - E-) K&uuml;reselleşme
     <hr />
 1. I. Şehirleşme<br />
 II. Bilgi ve iletişim teknolojilerinin gelişmesi ve yaygınlaşması<br />
@@ -1381,6 +1448,13 @@ III. K&uuml;reselleşme<br />
     - **Cevap D-) HotWired Web Dergisi**
     - E-) Geocities.com
     <hr />
+1. <strong>Web 2.0 d&ouml;neminde en yoğun kullanılan dijital reklam platformları aşağıdakilerden hangisinde doğru olarak belirtilmiştir?</strong>
+    - **Cevap A-) Google ve Facebook**
+    - B-) Instagram ve Spotify
+    - C-) Hotmail ve Gmail
+    - D-) Twitter ve YouTube
+    - E-) Soundcloud ve Snapchat
+    <hr />
 1. <strong>Reklamın bin kullanıcı tarafından g&ouml;r&uuml;nt&uuml;lenmesi sonucunda reklam verenin &uuml;cret &ouml;deyeceği model aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) CPM**
     - B-) CPC
@@ -1613,6 +1687,13 @@ III. K&uuml;reselleşme<br />
     - C-) Ceza İnfaz İlkesi
     - D-) Yargı İlkesi
     - E-) Ceza ve Muhakemede Yargı İlkesi
+    <hr />
+1. <strong>Bir sosyal medya platformunda hi&ccedil; tanımadığı bir kullanıcıyı sadece farklı siyasi g&ouml;r&uuml;şte olduğu i&ccedil;in tehdit eden kişi, TCK&rsquo;ya g&ouml;re şik&acirc;yet edilmesi durumunda hangi madde kapsamında yargılanması <u>beklenmez</u>?</strong>
+    - A-) Tehdit
+    - B-) Şantaj
+    - C-) Nefret ve Ayrımcılık
+    - D-) Hakaret
+    - **Cevap E-) Dolandırıcılık**
     <hr />
 1. <strong>Aşağıdakilerden hangisi, bir kullanıcının sosyal medyada yaptığı paylaşımın TCK&rsquo;ya g&ouml;re Kamu Barışına Karşı İşlenen Su&ccedil;lar kapsamında doğrudan değerlendirilmesini gerektiren bir durum <u>değildir</u>?</strong>
     - A-) Su&ccedil; işlemeyi tahrik eden paylaşım

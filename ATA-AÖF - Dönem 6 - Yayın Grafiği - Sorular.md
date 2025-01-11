@@ -77,6 +77,13 @@
     - **Cevap D-) İş g&uuml;c&uuml; daha fazla artmıştır.**
     - E-) &Ccedil;ok farklı sekt&ouml;re ulaşılabilmektedir.
     <hr />
+1. <strong>Aşağıdakilerden hangisi &ccedil;ağlar boyunca bilgi aktarım ara&ccedil;larının başında yer almıştır?</strong>
+    - A-) Dergi
+    - B-) Gazete
+    - C-) El ilanı
+    - **Cevap D-) Kitap**
+    - E-) Broş&uuml;r
+    <hr />
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi grafik tasarımcı kelimesini oluşturan k&ouml;klerden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;izen
@@ -147,6 +154,20 @@
     - C-) Maskot Karakter, Kuklacılık.
     - **Cevap D-) Font, Sayfa D&uuml;zeni.**
     - E-) Kullanıcı Ara Y&uuml;z&uuml;, Sinema Filmi
+    <hr />
+1. <strong>Bulunan bir fikrin eski bir tasarımda kullanılmadığından emin olmak isteyen kişi aşağıdakilerden hangisini yapmalıdır?</strong>
+    - A-) &Ccedil;alışma arkadaşlarına sormalıdır.
+    - B-) Konu &uuml;zerine derinlikli d&uuml;ş&uuml;nmelidir.
+    - C-) Daha yaratıcı olmak i&ccedil;in odaklanmalıdır.
+    - **Cevap D-) &Ouml;n araştırma yapmalıdır.**
+    - E-) Aynı fikri daha &ouml;nce g&ouml;r&uuml;p g&ouml;rmediğini hatırlamalıdır.
+    <hr />
+1. <strong>Beyin Fırtınası Tekniği aşağıdaki ama&ccedil;lardan hangisi i&ccedil;in kullanılmaktadır?</strong>
+    - A-) &Ccedil;alışma s&uuml;resini arttırmak
+    - **Cevap B-) Yaratıcı fikir bulmak**
+    - C-) Araştırma yapmak
+    - D-) Gider kalemi oluşturmak
+    - E-) &Ccedil;alışmayı daha g&uuml;zel g&ouml;stermek
     <hr />
 1. <strong>Beyin fırtınası tekniği ger&ccedil;ekleştirilirken ilk aşamada hangi nitelikte fikirler ortaya sunulmalıdır?</strong>
     - A-) K&ouml;t&uuml; fikirler sunulmalıdır.
@@ -226,12 +247,26 @@
     - D-) Tasarımdaki g&ouml;rsellerin en soğuk renkli olanıdır.
     - E-) Tasarımdaki dengeyi bozan &ouml;ğeyi kasteder.
     <hr />
+1. <strong>Aşağıdakilerden hangisi formu tanımlar?</strong>
+    - A-) Tasarım &ouml;gelerinin birbiriyle uyumudur.
+    - B-) Bir nesnenin y&uuml;zey &ouml;r&uuml;nt&uuml;s&uuml;d&uuml;r.
+    - C-) Bir nesnenin algılanmasını sağlayan yapısal &ouml;zelliklerdir.
+    - **Cevap D-) Bir nesnenin boşlukta kapladığı alandır.**
+    - E-) Tasarımdaki nesnelerin &ouml;nem sırasıdır.
+    <hr />
 1. <strong>Aşağıdakilerden hangisi yayın grafiklerinde tasarımcının duyarlılık geliştirmesi a&ccedil;ısından &ouml;nemli olup, belli standartları gerektiren bir arg&uuml;mandır?</strong>
     - A-) Oran Orantı
     - **Cevap B-) &Ouml;l&ccedil;ek**
     - C-) Denge
     - D-) Bi&ccedil;im
     - E-) Vurgu
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bir yayın grafiği tasarımı <u>değildir</u>?</strong>
+    - A-) Dergi tasarımı
+    - B-) Kitap tasarımı
+    - C-) Broş&uuml;r tasarımı
+    - D-) Gazete tasarımı
+    - **Cevap E-) Tipografi tasarımı**
     <hr />
 ## Unite 4
 1. <strong>Fotoğraf işleme &ccedil;alışmaları ve dijital ill&uuml;strasyonlar aşağıdaki programlardan hangisi ile yapılmaktadır?</strong>
@@ -303,6 +338,13 @@
     - **Cevap C-) Vekt&ouml;r**
     - D-) G&ouml;rsel
     - E-) RGB
+    <hr />
+1. <strong>Masa&uuml;st&uuml; yayıncılık i&ccedil;in daha &ccedil;ok ara&ccedil; bulunduran yazılım hangisidir?</strong>
+    - A-) Adobe Premiere Pro
+    - B-) Adobe Lightroom
+    - C-) Adobe Photoshop
+    - D-) Adobe Illustrator
+    - **Cevap E-) Adobe Indesign**
     <hr />
 1. <strong>Yazılımdaki ara&ccedil;ların kısayollarını değiştirmek i&ccedil;in hangi işlemleri yapmamız gerekmektedir?</strong>
     - A-) File, Package
@@ -382,6 +424,20 @@
     - D-) Form, Bi&ccedil;im, Baskı, Birim, Vurgu, Başlık
     - E-) Fotoğraf, Metin, Kağıt, S&uuml;tun, Marj
     <hr />
+1. <strong>Aşağıdakilerden hangisi s&uuml;reli yayın grafiği baskı ve &ccedil;oğaltım aşamasındaki s&uuml;re&ccedil;lerden biri <u>değildir</u>?</strong>
+    - A-) Forma d&uuml;zeni
+    - B-) Renk ayrımı
+    - **Cevap C-) Eskiz &ccedil;alışması**
+    - D-) Kalıp
+    - E-) Baskı modeli
+    <hr />
+1. <strong>Aşağıdakilerden hangisi ile sayfa tasarımında grid (ızgara) d&uuml;zeniyle ayarlamalar <u>yapılamaz</u>?</strong>
+    - A-) &Ouml;l&ccedil;eklendirme
+    - B-) Marj boşlukları
+    - C-) Mod&uuml;l sistemi
+    - **Cevap D-) G&ouml;r&uuml;nt&uuml; işleme**
+    - E-) G&ouml;z&uuml;n hareket planı
+    <hr />
 ## Unite 6
 1. <strong>Metnin rahat bir şekilde algılanabilmesi gerekli satır arası boşlukların d&uuml;zenlenmesi işlemi aşağıdakilerden hangisidir?</strong>
     - A-) Kerning
@@ -460,6 +516,13 @@
     - D-) Leading
     - E-) Hyphenating
     <hr />
+1. <strong>İki yana yaslanmış metinlerde ortaya &ccedil;ıkan ve kelimeler arasında oluşan fazla boşlukların satırlar boyunca aşağı doğru oluşturduğu beyaz boşluğa ne ad verilir?</strong>
+    - A-) Dul
+    - B-) Yetim
+    - C-) &Ouml;ks&uuml;z
+    - D-) Kırıntı
+    - **Cevap E-) Nehir**
+    <hr />
 ## Unite 7
 1. <strong>Fotoğraf makinalarındaki fotoğraflanması hedeflenen alanı tanımlayan &ccedil;er&ccedil;eve aşağıdakilerden hagisidir?</strong>
     - A-) Diyafram
@@ -534,6 +597,20 @@ III. Şekil<br />
     - **Cevap D-) Birler**
     - E-) Tekler
     <hr />
+1. <strong>Aşağıdakilerden hangisi yayın grafiğinde kullanılan g&ouml;rsel unsurlardan biridir?</strong>
+    - A-) Folkl&ouml;r
+    - **Cevap B-) Tıp ill&uuml;strasyonu**
+    - C-) Giyim etiketi
+    - D-) Sarı renk
+    - E-) Film
+    <hr />
+1. <strong>Bir kompozisyonda aşağıdaki &ouml;zelliklerden hangisi <u>aranmaz</u>?</strong>
+    - A-) Oran-orantı
+    - B-) B&uuml;t&uuml;nl&uuml;k
+    - C-) Uyum
+    - D-) Denge
+    - **Cevap E-) Armoni**
+    <hr />
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi gazete reklam t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Teşhir (display)
@@ -606,6 +683,13 @@ III. Şekil<br />
     - **Cevap D-) Izgara**
     - E-) Hiyerarşi
     <hr />
+1. <strong>&quot;Markayı ifade eden harf, kelime veya rakamlardan meydana gelmektedir.&quot; şeklinde tanımlanan kavram aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Logo**
+    - B-) Amblem
+    - C-) Slogan
+    - D-) Metin
+    - E-) Logo/Amblem
+    <hr />
 1. <strong>Aşağıdakilerden hangisi reklam tasarımındaki kompozisyon ve sayfa d&uuml;zeni ilkelerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Değer**
     - B-) Denge
@@ -614,6 +698,13 @@ III. Şekil<br />
     - E-) Perspektif
     <hr />
 ## Unite 9
+1. <strong>Yayında kullanılan &ouml;zel terimlerin, kişilerin ya da kavramların hangi sayfalarda g&ouml;r&uuml;nd&uuml;klerini g&ouml;steren liste aşağıdakilerden hangisidir?</strong>
+    - A-) S&ouml;zl&uuml;k
+    - **Cevap B-) Dizin**
+    - C-) İ&ccedil;indekiler
+    - D-) Referanslar
+    - E-) K&uuml;nye
+    <hr />
 1. <strong>Aşağıdakilerden hangisi &ouml;n kapakta yer alan unsurlardan birisi <u>değildir</u>?</strong>
     - **Cevap A-) Barkod**
     - B-) Başlık
@@ -685,6 +776,20 @@ III. Şekil<br />
     - **Cevap E-) Master/Parent pages**
     <hr />
 ## Unite 10
+1. <strong>Otokopi t&uuml;r&uuml; k&acirc;ğıtlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) İrsaliye kağıdı
+    - B-) Makbuz kağıdı
+    - C-) Fatura kağıdı
+    - D-) Sipariş kağıdı
+    - **Cevap E-) Kuşe kağıdı**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi hazırlıklarda yer alan ciltleme hedefi kazanımlarından biri <u>değildir</u>?</strong>
+    - A-) Maliyetten kazan&ccedil;
+    - B-) Estetik g&ouml;r&uuml;n&uuml;m
+    - **Cevap C-) İş g&uuml;c&uuml;nden kazanım**
+    - D-) Basılı &uuml;r&uuml;n&uuml;n direnci
+    - E-) Kullanıcı ergonomisi
+    <hr />
 1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi hazırlık aşamalarından biri <u>değildir</u>?</strong>
     - A-) Kağıt &ouml;l&ccedil;&uuml;lendirme
     - B-) Kağıt t&uuml;r&uuml; se&ccedil;imi
@@ -751,7 +856,7 @@ III. Şekil<br />
 1. <strong>Kuzey Amerika Paund veya Bond sistemi olarak anılan sistemin sembol&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &amp;
     - B-) $
-    - C-) <span class="math-tex">\(\square \)</span>
+    - C-) <span>\(\square \)</span>
     - D-) &frac12;
     - **Cevap E-) #**
     <hr />
@@ -762,6 +867,13 @@ III. Şekil<br />
     - C-) Dijital Baskı
     - D-) Sergirafi
     - E-) Flesko Baskı
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde baskı &ouml;ncesi aşamalar doğru bir şekilde verilmiştir?</strong>
+    - **Cevap A-) Kağıt / Matbaa / Kalıplama / Renk Ayrımı / Montaj**
+    - B-) Tireleme / Tram / Layout / Dijital Baskı /Uygulama
+    - C-) Pilyaj / Poza / Revolta / Montaj / Flekso / Tram
+    - D-) Matbaa / Layout / Scanner / Perforaj / Gofre
+    - E-) Varak / Gofre / Lak / Pantone / CMYK
     <hr />
 1. <strong>Aşağıdakilerden hangisi yayın grafiği aşamalarında ve yayının sonu&ccedil;landırılmasındaki g&ouml;revlilerden biri <u>değildir</u>?</strong>
     - A-) Tasarımcı
@@ -841,10 +953,19 @@ III. Şekil<br />
     - D-) Farklı platformlardan ve ara&ccedil;lardan okunabilmesi
     - E-) Genellikle &uuml;cretsiz haberlere erişilebilmesi
     <hr />
+1. Dijital ortamda sergilenen dergi, kitap benzeri tasarımların sayfa kaydırma efektli (Flip) y&uuml;klenmesi, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;bakımından, tasarımcı ve kullanıcı i&ccedil;in cazip h&acirc;le gelmektedir.<br />
+<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">
+	<b>C&uuml;mle boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b></p>
+    - **Cevap A-) kullanıcıya fiziksel deneyime yakın bir olanak sunması**
+    - B-) tasarımcının kolay tasarlanabilmesi
+    - C-) birden &ccedil;ok alternatif sunması
+    - D-) farklı kayıt se&ccedil;enekleri barındırması
+    - E-) daha fazla kişiye ulaşabilmesi
+    <hr />
 1. <strong>Hangisi tasarım uygulamalarında kullanılan ekran rengidir?</strong>
     - A-) CMYK
-    - **Cevap B-) RGB**
-    - C-) PDF
+    - B-) RGB
+    - **Cevap C-) PDF**
     - D-) JPEG
     - E-) Pantone
     <hr />
@@ -990,12 +1111,26 @@ III. Şekil<br />
     - E-) Diyagonal
     <hr />
 ## Unite 14
+1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımında storyboard&rsquo;un kullanılabileceği alanlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Televizyon reklamları
+    - B-) Hareketli online bannerlar
+    - **Cevap C-) &Ccedil;eviri ama&ccedil;lı alt yazılar**
+    - D-) Televizyonda yayımlanan canlandırmalar
+    - E-) Film jenerikleri
+    <hr />
 1. <strong>Aşağıdakilerden hangisi vekt&ouml;r tabanlı g&ouml;r&uuml;nt&uuml; ile &uuml;retilmiş bir hareketli grafik g&ouml;r&uuml;nt&uuml;n&uuml;n piksel tabanlı hareketli g&ouml;r&uuml;nt&uuml;ye karşı avantajıdır?</strong>
     - A-) Saniyede ge&ccedil;en kare sayısının ayarlanabilmesi
     - B-) İstenilen renk paletinin uygulanabilmesi
     - C-) Zengin doku ve detayların kolaylıkla tasarıma uygulanabilmesi
     - D-) &Uuml;retiminin daha kolay bir şekilde ger&ccedil;ekleştirilebilmesi
     - **Cevap E-) G&ouml;r&uuml;nt&uuml;n&uuml;n bulanıklaşmadan istenilen boyutta b&uuml;y&uuml;t&uuml;lebilmesi**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi konu olarak canlandırmada ezilme ve esneme prensibinin uygulanması i&ccedil;in uygun <u>değildir</u>?</strong>
+    - **Cevap A-) Metal k&uuml;re**
+    - B-) Su dolu balon
+    - C-) Plastik top
+    - D-) Jelibon şeker
+    - E-) Kuşt&uuml;y&uuml; yastık
     <hr />
 1. <strong>Aşağıdakilerden hangisi, &ouml;nc&uuml;l hareket i&ccedil;eren bir &ouml;rnek <u>değildir</u>?</strong>
     - A-) Topa vuran bezbolcu

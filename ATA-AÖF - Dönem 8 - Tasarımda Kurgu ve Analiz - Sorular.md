@@ -70,6 +70,20 @@
     - D-) Sarı
     - E-) Gri
     <hr />
+1. <strong>Problemin tanımlama aşamasından basılmış ve &ccedil;oğaltılmış k&acirc;ğıt &uuml;zerindeki &uuml;r&uuml;ne kadarki s&uuml;re&ccedil; aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
+    - A-) Araştırma, durum tespiti ve kararların verilmesi - &Ouml;n taslaklar - Orijinal hazırlanması- Baskı ve &ccedil;oğaltım aşamaları - Sunum taslakları
+    - B-) Araştırma, durum tespiti ve kararların verilmesi - Sunum taslakları - &Ouml;n taslaklar - Orijinal hazırlanması- Baskı ve &ccedil;oğaltım aşamaları
+    - C-) Sunum taslakları - Araştırma, durum tespiti ve kararların verilmesi - &Ouml;n taslaklar - Baskı ve &ccedil;oğaltım aşamaları - Orijinal hazırlanması
+    - **Cevap D-) Araştırma, durum tespiti ve kararların verilmesi - &Ouml;n taslaklar - Sunum taslakları - Orijinal hazırlanması- Baskı ve &ccedil;oğaltım aşamaları**
+    - E-) Sunum taslakları - Araştırma, durum tespiti ve kararların verilmesi - &Ouml;n taslaklar - Orijinal hazırlanması - Baskı ve &ccedil;oğaltım aşamaları
+    <hr />
+1. <strong>Bir kuruluşun felsefesini g&ouml;rsel dile &ccedil;evirerek kendisini ifade etme bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
+    - A-) Paketleme Tasarımı
+    - **Cevap B-) Kurumsal Kimlik Tasarımı**
+    - C-) Bilgi Tasarımı
+    - D-) Yayın Tasarımı
+    - E-) &Ccedil;evresel Grafik Tasarımı
+    <hr />
 ## Unite 2
 1. G&uuml;n&uuml;m&uuml;z tasarımlarında hangi fakt&ouml;r &ouml;n plana &ccedil;ıkmıştır?
     - A-) Geleneksel unsurlar
@@ -140,6 +154,20 @@
     - C-) Linux
     - D-) Android
     - E-) iOS
+    <hr />
+1. <strong>Aşağıdakilerden hangisi web tasarımcılarının kullanıcı memnuniyetini artırması ile ilgili doğrudur?</strong>
+    - A-) Renk se&ccedil;enekleri
+    - B-) Geleneksel unsurların dijitalde kullanımı
+    - C-) Teknolojik donanımın &ouml;nemi
+    - D-) Geleneksel sanatın dijital teknolojiyle &ccedil;atışması
+    - **Cevap E-) Estetik ve fonksiyonu bir araya getirme**
+    <hr />
+1. <strong>Adobe Photoshop ve İll&uuml;strat&ouml;r programı hangi işletim sistemleri i&ccedil;in geliştirilmiştir?</strong>
+    - A-) MacOS ve Android
+    - **Cevap B-) MacOS ve Windows**
+    - C-) Linux ve Ubuntu
+    - D-) Windows ve Ubuntu
+    - E-) iOS ve Android
     <hr />
 ## Unite 3
 1. <strong>Grafik tasarımın &ouml;geleri ile ilgili aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong>
@@ -213,6 +241,20 @@
     - D-) Orantı
     - **Cevap E-) G&ouml;rsel Devamlılık**
     <hr />
+1. <strong>Aşağıdakilerden hangisi kavramsal &ouml;geler arasında <u>yer almaz</u>?</strong>
+    - A-) Nokta
+    - **Cevap B-) Şekil**
+    - C-) &Ccedil;izgi
+    - D-) D&uuml;zlem
+    - E-) Hacim
+    <hr />
+1. <strong>Aşağıdakilerden hangisi renk kullanımlarının ama&ccedil;larından biri <u>değildir</u>?</strong>
+    - A-) Renkler izleyicinin dikkatini &ccedil;ekmektedir.
+    - **Cevap B-) Hedef kitleye dokunsal bir deneyim sunmaktadır.**
+    - C-) Farklı &ouml;gelerin birleştirilmesi ile uyumlu ve b&uuml;t&uuml;nsel bir g&ouml;r&uuml;nt&uuml; oluşmasını sağlamaktadır.
+    - D-) Renkler tasarımın i&ccedil;eriğini ve iletilmek istenen mesajı g&uuml;&ccedil;lendirmektedir.
+    - E-) Markayla &ouml;zdeşleştirilerek g&ouml;rsel bir dil oluşturmaktadır.
+    <hr />
 ## Unite 4
 1. <strong>Fotoğrafın tasarım unsuru olarak reklam end&uuml;strisindeki rol&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Sadece sanatsal bir ifade bi&ccedil;imi olarak&nbsp;vardır.
@@ -284,6 +326,20 @@
     - D-) &Ccedil;ocuk hik&acirc;yesi kitapları i&ccedil;in &ccedil;izim yapmak
     - **Cevap E-) Projedeki detayları g&ouml;rselleştirmek**
     <hr />
+1. <strong>Foto manip&uuml;lasyon uygulanacak fotoğraflarda baskı &ouml;ncesi dikkat edilmesi gereken &ouml;nemli fakt&ouml;r aşağıdakilerden hangisidir?</strong>
+    - A-) Renk uyumu
+    - B-) Doku Uyumu
+    - **Cevap C-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k uyumu ve ışık uyumu**
+    - D-) Boşluk kesim payı
+    - E-) Photoshop kullanımı
+    <hr />
+1. <strong>Fotoğrafların tasarım dosyasına entegre edilmesi s&uuml;recinde, g&ouml;rsellerin programa tanıtılmasını sağlamak amacıyla hangi komut kullanılır?</strong>
+    - A-) Import Image Komutu
+    - B-) Integrate File Komutu
+    - **Cevap C-) Link Komutu**
+    - D-) Embed Feature Komutu
+    - E-) Attach Graphic Komutu
+    <hr />
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken fakt&ouml;rlerden biri <u>değildir</u>?</strong>
     - A-) Yazı karakteri
@@ -349,13 +405,34 @@
     - **Cevap D-) Yeni medya**
     - E-) Hizalama
     <hr />
-1. <strong>Metinleri, harfleri, kelimeleri okunabilir, a&ccedil;ık, estetik ve g&ouml;rsel olarak &ccedil;ekici bir şekilde d&uuml;zenleme ve tasarlama sanatı aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Metinleri, harfleri, kelimeleri okunabilir, a&ccedil;ık, estetik ve g&ouml;rsel olarak &ccedil;ekici bir şekilde d&uuml;zenleme ve tasarlama sanatı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tipografi**
     - B-) Yazı karakteri
     - C-) Hiyerarşi
     - D-) Kontrast
     - E-) Beyaz alan
+    <hr />
+1. <strong>Aşağıdakilerde hangisi yazı karakterinin standart &ouml;l&ccedil;&uuml; birimidir?</strong>
+    - A-) 3D Tipografi
+    - **Cevap B-) Punto sistemi**
+    - C-) Ağırlık
+    - D-) &Ouml;l&ccedil;eklendirme
+    - E-) Tipografi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken fakt&ouml;rlerden biridir?</strong>
+    - A-) Yayın tasarımı
+    - B-) Helvetica Bold
+    - **Cevap C-) Beyaz alan**
+    - D-) Enstalasyon
+    - E-) İll&uuml;strasyon
+    <hr />
+1. Tasarım s&uuml;recinde, d&uuml;zenlemelere g&ouml;rsel bir kılavuz sağlayarak, farklı metin par&ccedil;alarının birbirine g&ouml;re &ouml;nem derecesini belirtmek i&ccedil;in kullanılan mantıklı ve g&ouml;rsel bir y&ouml;ntem mevcuttur.<br />
+<strong>Bu y&ouml;ntem aşağıdakilerden hangisidir?</strong>
+    - A-) Deneysel tipografi
+    - B-) Enstalasyon
+    - C-) Grid sistemi
+    - **Cevap D-) Hiyerarşi**
+    - E-) Tipografik kompozisyon
     <hr />
 ## Unite 6
 1. Aşağıdakilerden hangisi renk ilişkilerini g&ouml;rselleştiren ara&ccedil;ların adıdır?
@@ -428,6 +505,13 @@
     - D-) Renk sayısını sınırlamak
     - E-) Amacı belirlemek
     <hr />
+1. <strong>Aşağıdakilerden hangisi bir rengin g&ouml;r&uuml;n&uuml;r spektrumdaki veya renk tekerleğindeki konumunu belirten ortak addır?</strong>
+    - **Cevap A-) Ton**
+    - B-) Degrade
+    - C-) Parlaklık
+    - D-) Keskinlik
+    - E-) Renk
+    <hr />
 ## Unite 7
 1. Aşağıdakilerden hangisi y&ouml;nbilgide genellikle bulunan bilgi k&uuml;melerinden biri <u>değildir</u>?
     - A-) Projenin amacı
@@ -498,6 +582,13 @@
     - C-) Zihin haritası
     - **Cevap D-) Kulu&ccedil;ka**
     - E-) Beyin fırtınası
+    <hr />
+1. <strong>Zihin haritaları aşağıdakilerden hangisi i&ccedil;in <u>kullanılmaz</u>?</strong>
+    - A-) Hafıza gelişimi
+    - B-) Karar alma s&uuml;reci
+    - C-) D&uuml;ş&uuml;nceleri d&uuml;zenleme
+    - **Cevap D-) Esin kaynakları toplama**
+    - E-) Etkili not tutma
     <hr />
 ## Unite 8
 1. Aşağıdakilerden hangisi grafik tasarım s&uuml;re&ccedil;leri ile ilgili adımlardan birisi <u>değildir</u>?
@@ -585,7 +676,7 @@
     - D-) Black
     - E-) Cyan
     <hr />
-1. <strong>Ton ge&ccedil;işi olmadan yapılan renk ayrımına ne ad verilir?</strong>
+1. <strong>Ton ge&ccedil;işi olmadan yapılan renk ayrımına ne denir?</strong>
     - **Cevap A-) Tire**
     - B-) Tram
     - C-) Dia
@@ -640,6 +731,13 @@
     - C-) Forma
     - D-) Perforaj
     - **Cevap E-) Spiral**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tasarımın kontrol&uuml; s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Baskıyla ilgili sorunu &ccedil;&ouml;zd&uuml; m&uuml;?**
+    - B-) Beklentiyi karşılıyor mu?
+    - C-) Baskı teknik veya teknikleri tasarım i&ccedil;in uygun mu?
+    - D-) Se&ccedil;ilen baskı tekniklerinin avantaj ve dezavantajları nelerdir?
+    - E-) Baskı s&uuml;reci sorunları neler olabilir?
     <hr />
 ## Unite 10
 1. Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n tanımlarından <u>değildir</u>?
@@ -711,6 +809,13 @@
     - C-) İll&uuml;strasyon
     - D-) Sayfa d&uuml;zeni
     - E-) Tipografi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bir d&uuml;ş&uuml;nceyi, olguyu, nesneyi g&ouml;steren semboller b&uuml;t&uuml;n&uuml;d&uuml;r?</strong>
+    - A-) Kurumsal kimlik
+    - B-) İmaj
+    - C-) Fotoğraf
+    - **Cevap D-) Yazı**
+    - E-) Logo
     <hr />
 ## Unite 11
 1. G&ouml;stergebilimin kurucusu kimdir?
@@ -815,8 +920,7 @@
 1. G&ouml;rsel bir d&uuml;nyanın bireye sunmuş olduğu &ouml;nkoşulsuz bilgi, aşağıdakilerden hangisini etkileyen bir s&uuml;recin par&ccedil;asıdır?
     - A-) Tasarım
     - **Cevap B-) Algılama**
-    - C-) D&uuml;zen<br />
-
+    - C-) D&uuml;zen
     - D-) G&ouml;rme
     - E-) Hiyerarşi
     <hr />
@@ -854,6 +958,13 @@
     - C-) S&uuml;reklilik
     - D-) Yakınlık
     - E-) Ortak Kader
+    <hr />
+1. <strong>Aşağıdaki isimlerden hangisi algıyı anlamanın yolunu fizyolojik g&ouml;rme konusu ile ilişkilendirmiştir?</strong>
+    - A-) James Jerome Gibson
+    - B-) Jonathan Crary
+    - **Cevap C-) E. Bruce Goldstein**
+    - D-) Metin İnceoğlu
+    - E-) Dabney Townsend
     <hr />
 ## Unite 13
 1. Aşağıdakilerden hangisi yaratıcılık s&uuml;recinin &ouml;zelliklerinden biri <u>değildir</u>?
@@ -926,6 +1037,21 @@
     - **Cevap D-) En az 3 farklı tasarım ilkesi uygulanmalı**
     - E-) İlanda mutlaka logo olmalı
     <hr />
+1. .................................., tek bir fotoğraf &uuml;zerinde ger&ccedil;ekleştirilen deformasyonlar aracılığıyla veya birden &ccedil;ok fotoğrafın birleştirilmesiyle elde edilebilir.<br />
+<strong>Aşağıdakilerden hangisi yaratıcılık mitlerinin ortaya &ccedil;ıkma sebeplerinden biridir?</strong>
+    - **Cevap A-) Fotomanip&uuml;lasyon**
+    - B-) Baskı kalitesini
+    - C-) İll&uuml;strasyon
+    - D-) Yayın İll&uuml;strasyonları
+    - E-) Bilimsel İll&uuml;strasyonlar
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yaratıcılık mitlerinden biri <u>değildir</u>?</strong>
+    - A-) Herkes yaratıcıdır.
+    - B-) Yaratıcılık bilin&ccedil; dışıdır.
+    - C-) Her yaratıcı biraz delidir.
+    - D-) Yaratıcılık &ouml;ğretilemez.
+    - **Cevap E-) Yaratıcılık bulaşıcıdır.**
+    <hr />
 ## Unite 14
 1. <strong>&Ccedil;izgisel anlatımın grafik tasarımdaki temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Renk paletini belirlemek
@@ -996,4 +1122,11 @@
     - C-) Renk paleti
     - **Cevap D-) Soyutlama**
     - E-) Fig&uuml;ratif ifadeler
+    <hr />
+1. <strong>&Ccedil;izgisel anlatımın temel unsurlarından biri olan &ccedil;izgilerin yoğun bir şekilde kullanılmasının amacı aşağıdakilerden hangisidir?</strong>
+    - A-) Renkleri vurgulamak
+    - **Cevap B-) İzleyiciyi belirli bir duygu durumunu iletmek**
+    - C-) Fig&uuml;rleri detaylı bir şekilde tasvir etmek
+    - D-) G&ouml;rsel &ouml;geleri karıştırmak
+    - E-) Şekilleri g&ouml;stermek
     <hr />

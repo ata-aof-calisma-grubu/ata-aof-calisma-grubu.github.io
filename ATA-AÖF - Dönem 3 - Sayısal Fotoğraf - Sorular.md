@@ -30,7 +30,7 @@
     <hr />
 1. <strong>İlk kez CCD ile &ccedil;alışan d&uuml;zlem yataklı tarayıcının mucidi aşağıdakilerden hangisidir?</strong>
     - A-) Neil Amstrong
-    - B-) Ara G&uuml;ler
+    - B-) Steve Sasson
     - **Cevap C-) Raymond Kurzweil**
     - D-) Steve Job
     - E-) Steve Martin
@@ -50,11 +50,11 @@
     - **Cevap E-) Kameralı olması**
     <hr />
 1. <strong>Bir bilgisayarla birlikte kullanılmak &uuml;zere geliştirilen ilk g&ouml;r&uuml;nt&uuml; tarayıcı a</strong><strong>şağıdakilerden hangisidir?</strong>
-    - A-) Masa&uuml;st&uuml;&nbsp;
-    - B-) Tablet&nbsp;
+    - A-) Masa&uuml;st&uuml;
+    - B-) Tablet
     - **Cevap C-) Tambur&nbsp;**
-    - D-) Kambur&nbsp;
-    - E-) Diz &uuml;st&uuml;&nbsp;
+    - D-) Kambur
+    - E-) Diz &uuml;st&uuml;
     <hr />
 1. <strong>Cep telefonunda &ldquo;panorama&rdquo; modunu ilk kez aşağıdaki firmalardan hangisi geliştirmiştir?</strong>
     - A-) Sony
@@ -252,8 +252,7 @@ III. Sosyal medya<br />
     - D-) Alan derinliği
     - **Cevap E-) Kontrast**
     <hr />
-1. <strong>Fotoğrafta belirli bir uyumla ardışık olarak tekrarlanan nesnelerle oluşturulan kompozisyon bi&ccedil;imi aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Fotoğrafta belirli bir uyumla ardışık olarak tekrarlanan nesnelerle oluşturulan kompozisyon bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - A-) Doku
     - **Cevap B-) Ritim**
     - C-) Sadelik
@@ -310,7 +309,7 @@ Yukarıda boş bırakılan yere hangi ifadenin yerleştirilmesi uygun olur?</str
     - D-) G&ouml;r&uuml;nt&uuml;de &uuml;&ccedil;te bir kuralı kullanımı
     - E-) G&ouml;r&uuml;nt&uuml;y&uuml; simetriye g&ouml;re d&uuml;zenleme
     <hr />
-1. <strong>Fotoğrafta tercih edeceğimiz kadrajdan fotoğrafın i&ccedil;inde yer alan &ouml;gelerin yerleşimine kadar bir&ccedil;ok şeyi kapsayan kavram aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğrafta tercih edilen kadrajdan fotoğrafın i&ccedil;inde yer alan &ouml;gelerin yerleşimine kadar bir&ccedil;ok şeyi kapsayan kavram aşağıdakilerden hangisidir?</strong>
     - A-) Kontrast
     - B-) Zıtlık
     - **Cevap C-) Bi&ccedil;im**
@@ -349,7 +348,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
-    - D-) II ve III&nbsp;
+    - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
 ## Unite 3
@@ -387,6 +386,20 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - C-) Pentax K-1II
     - D-) Canon 7DMII
     - **Cevap E-) Pentax K-70**
+    <hr />
+1. <strong>Makinelerde, uydu ile bağlantı kurarak konum bilgisini dosyaya yazan &ouml;zellik aşağıdakilerden hangisidir?</strong>
+    - A-) IHA
+    - **Cevap B-) GPS**
+    - C-) SLR
+    - D-) X-U
+    - E-) Wi-Fi
+    <hr />
+1. <strong>DSLR ifadesinin a&ccedil;ılımı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - A-) Digital Solid Lens Rear
+    - B-) Device Single Lens Reflex
+    - C-) Digital Sayısal Lens Room
+    - D-) Digital Sony Lens Reflex
+    - **Cevap E-) Digital Single Lens Reflex**
     <hr />
 1. <strong>Yakın d&ouml;nemde hangi aksiyon kamera &uuml;reticisi 2 modeli yan yana yerleştirerek 3D kamera &uuml;retmiştir?</strong>
     - A-) DJI - 2x3D
@@ -520,8 +533,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - E-) 1/50.000
     <hr />
 ## Unite 4
-1. <strong>Yakın tarihlerde k&uuml;&ccedil;&uuml;k sens&ouml;rl&uuml; bir makine g&ouml;vdesi i&ccedil;in &uuml;retilen ve 35 mm&rsquo;de karşılığı 24 - 3000 mm&rsquo;ye denk gelen, değişken odaklı (zoom) lensin optik yaklaştırma oranı aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Yakın tarihlerde k&uuml;&ccedil;&uuml;k sens&ouml;rl&uuml; bir makine g&ouml;vdesi i&ccedil;in &uuml;retilen ve 35 mm&rsquo;de karşılığı 24 - 3000 mm&rsquo;ye denk gelen, değişken odaklı (zoom) lensin optik yaklaştırma oranı aşağıdakilerden hangisidir?</strong>
     - A-) 24 kat
     - B-) 50 kat
     - **Cevap C-) 125 kat**
@@ -542,8 +554,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) pound
     - E-) in&ccedil;
     <hr />
-1. <strong>Aşağıdakilerden hangisi ışık ge&ccedil;irgenliğinin &ouml;zellikleri arasında <u>yer almaz?</u></strong><br />
-
+1. <strong>Aşağıdakilerden hangisi ışık ge&ccedil;irgenliğinin &ouml;zellikleri arasında <u>yer almaz?</u></strong>
     - A-) Objektif hızı olarak da adlandırılır.
     - B-) Sayısal değeri&nbsp; f/&hellip;&nbsp; olarak g&ouml;sterilir.
     - C-) En b&uuml;y&uuml;k a&ccedil;ıklığı, en k&uuml;&ccedil;&uuml;k sayısal değeridir.
@@ -558,11 +569,11 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - E-) 200mm
     <hr />
 1. <strong>Basit optik tasarımları, k&uuml;&ccedil;&uuml;k boyutları ve az malzeme ile d&uuml;ş&uuml;k maliyetlerine rağmen olduk&ccedil;a kaliteli g&ouml;r&uuml;nt&uuml; veren objektifler aşağıdakilerden hangisidir?</strong>
-    - A-) Hareket eksenli&nbsp;
-    - B-) Makro&nbsp;
+    - A-) Hareket eksenli
+    - B-) Makro
     - **Cevap C-) Normal&nbsp;**
-    - D-) Balıkg&ouml;z&uuml;&nbsp;
-    - E-) Aynalı&nbsp;
+    - D-) Balıkg&ouml;z&uuml;
+    - E-) Aynalı
     <hr />
 1. <strong>Aşağıdakilerden hangisi sabit odaklı (prime) bir objektifdir?</strong>
     - A-) 24-70mm f/2.8
@@ -571,8 +582,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - **Cevap D-) 24mm f/1.4**
     - E-) 2x Tele d&ouml;n&uuml;şt&uuml;r&uuml;c&uuml;
     <hr />
-1. <strong>&Ccedil;oğu balık g&ouml;z&uuml; objektifin derece cinsinden sahip olduğu a&ccedil;ısal g&ouml;r&uuml;ş alanı</strong><strong>&nbsp;aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>&Ccedil;oğu balık g&ouml;z&uuml; objektifin derece cinsinden sahip olduğu a&ccedil;ısal g&ouml;r&uuml;ş alanı</strong><strong>&nbsp;aşağıdakilerden hangisidir?</strong>
     - A-) 45<sup>0&nbsp;</sup>- 55<sup>0</sup>
     - **Cevap B-) 170<sup>0</sup> - 180<sup>0</sup>**
     - C-) 270<sup>0&nbsp;</sup>- 360<sup>0</sup>
@@ -623,7 +633,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - E-) Balık g&ouml;z&uuml; lensler
     <hr />
 1. <strong>Normal lenslerden &ccedil;ok daha yakın odaklanma mesafelerine sahip olan ve g&ouml;zle g&ouml;r&uuml;lmeyecek kadar k&uuml;&ccedil;&uuml;k ayrıntıları &ccedil;ekebilmesini sağlayan lens aşağıdakilerden hangisidir?</strong>
-    - A-) Balık g&ouml;z&uuml;&nbsp;
+    - A-) Balık g&ouml;z&uuml;
     - **Cevap B-) Makro**
     - C-) Konvert&ouml;r
     - D-) Geniş a&ccedil;ı
@@ -677,7 +687,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - B-) NAS
     - C-) Headset grip
     - D-) El manueli
-    - **Cevap E-) El kabzası (battery grip)**
+    - **Cevap E-) El kabzası**
     <hr />
 1. <strong>Al&uuml;minyumdan %30 daha hafif ve en az onun kadar dayanıklı tripot aşağıdakilerden hangisidir?</strong>
     - A-) Fiber magnezyum
@@ -899,8 +909,7 @@ III. &Ouml;zel efektler oluşturma<br />
     - D-) Zaman
     - **Cevap E-) Işık yoğunluğu**
     <hr />
-1. <strong>&Ccedil;er&ccedil;evenin bir&ccedil;ok k&uuml;&ccedil;&uuml;k par&ccedil;aya b&ouml;l&uuml;nd&uuml;ğ&uuml;, her bir b&ouml;l&uuml;mden poz okuması ve genel ortalama hesaplaması alınarak yapılan &ouml;l&ccedil;&uuml;m değeri aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>&Ccedil;er&ccedil;evenin bir&ccedil;ok k&uuml;&ccedil;&uuml;k par&ccedil;aya b&ouml;l&uuml;nd&uuml;ğ&uuml;, her bir b&ouml;l&uuml;mden poz okuması ve genel ortalama hesaplaması alınarak yapılan &ouml;l&ccedil;&uuml;m değeri aşağıdakilerden hangisidir?</strong>
     - A-) Nokta
     - B-) Merkez Ağırlıklı
     - C-) Par&ccedil;alı
@@ -938,7 +947,7 @@ III. ISO hassasiyeti<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO&nbsp;(Hassasiyet)&nbsp;hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
     - A-) Otomatik Mod
     - **Cevap B-) Program Modu**
     - C-) Diyafram &Ouml;ncelikli Mod
@@ -1034,6 +1043,13 @@ III. Konuya uzaklık<br />
     - D-) Geniş a&ccedil;ı objektif kullanmak
     - E-) D&uuml;ş&uuml;k ISO kullanmak
     <hr />
+1. <strong>Aşağıdakilerden hangisi makro objektiflerin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) &Ccedil;ıplak g&ouml;zle g&ouml;remediğimiz detayları g&ouml;sterir.
+    - **Cevap B-) Ultra geniş a&ccedil;ıya sahiptir.**
+    - C-) Yakın &ccedil;ekimlerde keskin g&ouml;r&uuml;nt&uuml;ler verir.
+    - D-) Sınırlı alan derinliğine sahiptir.
+    - E-) Diğer objektiflere g&ouml;re daha &ccedil;ok b&uuml;y&uuml;tme oranına sahiptir.
+    <hr />
 1. <strong>Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bildirmek
     - **Cevap B-) Eğlendirmek**
@@ -1108,10 +1124,10 @@ III. Konuya uzaklık<br />
     - **Cevap A-) Reklam ve tanıtım fotoğraf&ccedil;ılığı**
     - B-) Haber fotoğraf&ccedil;ılığı
     - C-) Basın fotoğraf&ccedil;ılığı
-    - D-) Sanat fotoğraf&ccedil;ılığı&nbsp;
+    - D-) Sanat fotoğraf&ccedil;ılığı
     - E-) Bireysel fotoğraf&ccedil;ılık
     <hr />
-1. <strong>Konulara &ccedil;ok yakın mesafelerden &ccedil;ekim yaparak &ccedil;evremizdeki k&uuml;&ccedil;&uuml;k (mikro) d&uuml;nyayı, b&uuml;y&uuml;terek fotoğraflamayı hedefleyen fotoğraf t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Konulara &ccedil;ok yakın mesafelerden &ccedil;ekim yaparak &ccedil;evremizdeki k&uuml;&ccedil;&uuml;k (mikro) d&uuml;nyayı b&uuml;y&uuml;terek fotoğraflamayı hedefleyen fotoğraf t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Manzara Fotoğrafı
     - B-) Mimari Fotoğraf
     - C-) Moda Fotoğrafı
@@ -1164,8 +1180,8 @@ III. Konuya uzaklık<br />
 1. <strong>Dijital fotoğraf makinelerinde kullanılan kulaklık &ccedil;ıkışının kullanım amacı aşağıdakilerden hangisidir?</strong>
     - A-) M&uuml;zik dinlemek
     - **Cevap B-) Video &ccedil;ekim esnasında mikrofonun hangi derecede sesi algıladığını kontrol etmek**
-    - C-) Telsiz kullanımı&nbsp;
-    - D-) Deklanş&ouml;r sesini duyabilmek&nbsp;
+    - C-) Telsiz kullanımı
+    - D-) Deklanş&ouml;r sesini duyabilmek
     - E-) Video &ccedil;ekim esnasında g&ouml;r&uuml;nt&uuml;y&uuml; g&ouml;rebilmek
     <hr />
 1. <strong>&quot;1/15, 1/30, 1/60, 1/125, 1/500&quot; şeklinde verilen değerler aşağıdakilerden hangisini fade eder?</strong>
@@ -1444,8 +1460,7 @@ III. Konuya uzaklık<br />
     - D-) Ekran boyutu
     - **Cevap E-) Ethernet kartı**
     <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi sayısal fotoğraf işleme s&uuml;recinde kullanılan ekran siperliğinin (hood) kullanım amacını ifade eder?</strong><br />
-
+1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi sayısal fotoğraf işleme s&uuml;recinde kullanılan ekran siperliğinin (hood) kullanım amacını ifade eder?</strong>
     - **Cevap A-) Ekran &uuml;zerindeki yansımaları &ouml;nlemek**
     - B-) Renk paleti i&ccedil;in yardımcı ekipman olarak kullanmak
     - C-) Beyaz ayarı yapmak
@@ -1501,8 +1516,7 @@ III. Konuya uzaklık<br />
     - D-) .pdf
     - E-) .png
     <hr />
-1. <strong>Geniş alanların (360 derece a&ccedil;ıların dahi) g&ouml;r&uuml;nt&uuml;lenebilmesini sağlayan, &ccedil;eşitli sayısal fotoğraf işleme programları ile birden fazla fotoğrafın birleştirildiği fotoğraf tekniği aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Geniş alanların (360 derece a&ccedil;ıların dahi) g&ouml;r&uuml;nt&uuml;lenebilmesini sağlayan, &ccedil;eşitli sayısal fotoğraf işleme programları ile birden fazla fotoğrafın birleştirildiği fotoğraf tekniği aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Panoramik fotoğraf**
     - B-) HDR fotoğraf
     - C-) Mimari fotoğraf
@@ -1586,6 +1600,13 @@ III. Konuya uzaklık<br />
     - C-) Control + A
     - D-) Alt + Control + W
     - E-) Control + X
+    <hr />
+1. <strong>Photoshop programı, &ldquo;tercihler&rdquo; men&uuml;s&uuml;nde bulunan komutları ile aşağıdakilerden hangisi <u>ger&ccedil;ekleştirilmez</u>?</strong>
+    - A-) Genel g&ouml;r&uuml;nt&uuml;leme se&ccedil;enekleri
+    - B-) Dosya kaydetme se&ccedil;enekleri
+    - C-) Men&uuml; saydamlık se&ccedil;enekleri
+    - D-) Yazım se&ccedil;enekleri
+    - **Cevap E-) Ekran kalibrasyon se&ccedil;enekleri**
     <hr />
 1. <strong>Aşağıdakilerden hangisi Photoshop men&uuml; &ccedil;ubuğunda bulunan men&uuml;lerden biridir?</strong>
     - A-) Library men&uuml;s&uuml;
@@ -1867,16 +1888,14 @@ IV. Yeşil<br />
     - E-) Bilgisayara kurulan, colormetre programı ile kalibrasyonun başlatılması
     <hr />
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi boya renklerinde iki ana rengin eşit oranlarda karıştırılmasıyla oluşan bir ara renktir?</strong><br />
-
+1. <strong>Aşağıdakilerden hangisi boya renklerinde iki ana rengin eşit oranlarda karıştırılmasıyla oluşan bir ara renktir?</strong>
     - A-) Kırmızı
     - B-) Sarı
     - C-) Mavi
     - **Cevap D-) Yeşil**
     - E-) Siyah
     <hr />
-1. <strong>Beyaz ışığın prizmadan ge&ccedil;irilmesiyle oluşan kırılmada hangi renkler g&ouml;r&uuml;lebilir?</strong><br />
-
+1. <strong>Beyaz ışığın prizmadan ge&ccedil;irilmesiyle oluşan kırılmada hangi renkler g&ouml;r&uuml;lebilir?</strong>
     - **Cevap A-) Kırmızı, turuncu, sarı, yeşil, mavi ve mor**
     - B-) Turuncu, sarı, yeşil, mavi ve mor
     - C-) Sarı, yeşil, mavi ve mor
@@ -1945,6 +1964,13 @@ IV. Yeşil<br />
     - C-) 15 in&ccedil;
     - D-) 90 in&ccedil;
     - E-) 10 in&ccedil;
+    <hr />
+1. <strong>Aşağıdakilerden hangisi m&uuml;rekkep p&uuml;sk&uuml;rtmeli masa&uuml;st&uuml; yazıcılarda bulunan &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - **Cevap A-) &Ccedil;ok b&uuml;y&uuml;k ebatlarda k&acirc;ğıda baskı alması**
+    - B-) Farklı marka model &ccedil;eşitliliği
+    - C-) Ev kullanımı i&ccedil;in uygunluğu
+    - D-) Daha az yer kaplaması
+    - E-) Yeterli kalitede baskı alınabilmesi
     <hr />
 1. <strong>M&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcıdan yeterli kalitede bir baskı almak i&ccedil;in aşağıdaki &ouml;zelliklerden hangisine <u>gerek duyulmaz</u>?</strong>
     - A-) Yazıcı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;

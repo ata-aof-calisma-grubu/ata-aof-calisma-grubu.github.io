@@ -39,7 +39,7 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - D-) 15. Y&uuml;zyıl
     - E-) 6. y&uuml;zyıl
     <hr />
-1. <strong>Yazı ve resimlerin aynı y&uuml;zeye oyularak oluşturulan ağa&ccedil; kalıba ne ad verilir?</strong>
+1. <strong>Yazı ve resimlerin aynı y&uuml;zeye oyulmasıyla oluşturulan ağa&ccedil; kalıba ne ad verilir?</strong>
     - **Cevap A-) Blok baskı**
     - B-) Tipo baskı
     - C-) Ofset baskı
@@ -88,12 +88,33 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - **Cevap D-) K&acirc;ğıt**
     - E-) Matbaa
     <hr />
+1. <strong>K&acirc;ğıt ilk olarak hangi &uuml;lkede bulunmuştur?</strong>
+    - A-) Arabistan
+    - **Cevap B-) &Ccedil;in**
+    - C-) Japonya
+    - D-) Mısır
+    - E-) Almanya
+    <hr />
+1. <strong>Manastırlarda bulunan kitap &ccedil;oğaltma at&ouml;lyelerine ne ad verilirdi?</strong>
+    - **Cevap A-) Scriptorium**
+    - B-) Ksilografi
+    - C-) Tipografi
+    - D-) Opisthografische
+    - E-) Anopistografish
+    <hr />
 1. <strong>Karolenj yazı sistemi aşağıdakilerden hangisidir?</strong>
     - A-) Barok
     - B-) Helvetica
     - **Cevap C-) Gotik**
     - D-) Kufi
     - E-) Futura
+    <hr />
+1. <strong>Gutenberg&rsquo;in bastığı ilk kitap aşağıdakilerden hangisidir?</strong>
+    - A-) Roman
+    - B-) Şiir
+    - **Cevap C-) İncil**
+    - D-) Bilimsel makale
+    - E-) Hik&acirc;ye kitabı
     <hr />
 1. <strong>Hangi yazı sistemi, sesler i&ccedil;in işaretler geliştirerek bunların oluşturduğu dizinler ile s&ouml;zc&uuml;kler yazmaya odaklanmıştır?</strong>
     - A-) S&uuml;mer &Ccedil;ivi Yazısı
@@ -117,7 +138,7 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - D-) Ucuz olması
     - E-) Mekanik olması
     <hr />
-1. <strong>Baskıresim ilk hangi malzemeye basılmıştır?</strong>
+1. <strong>Baskıresim ilk olarak aşağıdaki hangi malzemeye basılmıştır?</strong>
     - A-) K&acirc;ğıda
     - B-) Taşa
     - C-) Kile
@@ -194,6 +215,13 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - **Cevap D-) Art Nouveau**
     - E-) Soyut Sanat
     <hr />
+1. <strong>Sanatı sokaklara taşıyan sanatsal uygulama aşağıdakilerden hangisidir?</strong>
+    - A-) Yağlı boya tablo
+    - B-) Kartpostal
+    - **Cevap C-) Afiş**
+    - D-) Takvim
+    - E-) Gazete
+    <hr />
 1. <strong>Divan Japonnais afiş tasarımı hangi sanat&ccedil;ıya aittir?</strong>
     - A-) Cheret
     - B-) Goya
@@ -202,10 +230,10 @@ IV.&nbsp;Silindir damga m&uuml;h&uuml;rler<br />
     - E-) Rafael
     <hr />
 1. <strong>Art Nouveau sanat akımının karakteristik &ouml;zelliği nedir?</strong>
-    - A-) D&uuml;z &ccedil;izgiler ve geometrik formların kullanımı&nbsp;
+    - A-) D&uuml;z &ccedil;izgiler ve geometrik formların kullanımı
     - **Cevap B-) Organik ve eğrisel formların kullanımı&nbsp;**
-    - C-) Yalnızca siyah ve beyaz renklerin kullanımı&nbsp;
-    - D-) Sembolist temaların h&acirc;kimiyeti&nbsp;
+    - C-) Yalnızca siyah ve beyaz renklerin kullanımı
+    - D-) Sembolist temaların h&acirc;kimiyeti
     - E-) Litografi tekniğinin eksiksiz kullanımı
     <hr />
 1. <strong>Afiş tasarımında renkli basım kolaylığı sağlayan hangi baskıresim tekniği sıklıkla tercih edilmiştir?</strong>
@@ -332,12 +360,26 @@ IV. Tahta kaşıklar<br />
     - D-) Tıpkıbasım
     - E-) Edisyon
     <hr />
-1. <strong>Linol baskı, ağa&ccedil; baskı y&ouml;ntemine neden tercih edilmiştir?</strong>
+1. <strong>Renkli baskı yaparken kullanılan teknik aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Eksiltmeli-Eklemeli**
+    - B-) Kolaj
+    - C-) Pozlama
+    - D-) Mumlama
+    - E-) Şablon
+    <hr />
+1. <strong>Tahta kalıplardan resimler basan sanat&ccedil;ılar aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - A-) Leonardo da Vinci ve Michelangelo
+    - B-) Vincent van Gogh ve Pablo Picasso
+    - **Cevap C-) Albrecht D&uuml;rer ve Lucas Granach**
+    - D-) Claude Monet ve Edgar Degas
+    - E-) Jackson Pollock ve Andy Warhol
+    <hr />
+1. <strong>Linol baskı, Ağa&#231; Baskı Y&#246;ntemi&#39;ne neden tercih edilmiştir?</strong>
     - A-) Linol plakalar daha ucuzdur.
     - B-) Linol plakalar daha dayanıklıdır.
-    - C-) Linol baskı daha renkli sonu&ccedil;lar verir.
+    - C-) Linol baskı daha renkli sonu&#231;lar verir.
     - **Cevap D-) Linol baskı daha ince ayrıntıların oyulmasını kolaylaştırır.**
-    - E-) Linol baskıda plaka y&uuml;zeyi serttir.
+    - E-) Linol baskıda plaka y&#252;zeyi serttir.
     <hr />
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi metal plaka &uuml;zerine yapılan geleneksel &ccedil;ukur baskı tekniklerinden biri <u>değildir</u>?</strong>
@@ -375,12 +417,12 @@ IV. Tahta kaşıklar<br />
     - D-) &Ccedil;elik
     - **Cevap E-) Bakır**
     <hr />
-1. <strong>&Ccedil;ukur baskı plakalarının kenarlarının 35-45 derecelik a&ccedil;ıyla t&ouml;rp&uuml;, perdah kalemi veya el matkabı ile yapılan elde t&ouml;rp&uuml;lenmesi işlemine ne denir?</strong>
-    - A-) &Ccedil;apak alma
+1. <strong>&#199;ukur baskı plakalarının kenarlarının 35-45 derecelik a&#231;ıyla t&#246;rp&#252;, perdah kalemi veya el matkabı ile elde t&#246;rp&#252;lenmesi işlemine ne denir?</strong>
+    - A-) &#199;apak alma
     - **Cevap B-) Pahlanma**
     - C-) Parlatma
-    - D-) T&ouml;rp&uuml;leme
-    - E-) D&uuml;zeltme
+    - D-) T&#246;rp&#252;leme
+    - E-) D&#252;zeltme
     <hr />
 1. <strong>Aşağıdakilerden hangisi baskı plakasına m&uuml;rekkep verilmesi işlemiyle ilgili <u>değildir</u>?</strong>
     - A-) M&uuml;rekkep verilmeden &ouml;nce plaka ısıtılır.
@@ -423,6 +465,14 @@ IV. Tahta kaşıklar<br />
     - C-) Engraving
     - **Cevap D-) Mezotint**
     - E-) Crible
+    <hr />
+1. Kuru kazıma tekniğinde a&ccedil;ık ve koyu tonlar elde etmek &ccedil;izgilerin tarama şekillerine bağlıdır.<strong><br />
+Buna g&ouml;re koyu tonlu alanlar nasıl elde edilir?</strong>
+    - A-) Yatay &ccedil;izgilerle taranarak
+    - B-) Paralel ve dik &ccedil;izgilerin &uuml;st &uuml;ste binmesiyle
+    - **Cevap C-) Paralel ve &ccedil;apraz &ccedil;izgilerin sıkışmasıyla**
+    - D-) Dikey &ccedil;izgilerle boyanarak
+    - E-) Dairesel &ccedil;izgilerle
     <hr />
 1. <strong>Genelde &ccedil;ok kalabalık kompozisyonlar, belirli bir naif kalite ve yoğun bir din&icirc; duygu ile yaklaşık yetmiş &uuml;&ccedil; plaka &uuml;retmiş olan Fransız baskı sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Andre Mantegna
@@ -530,12 +580,19 @@ IV. Tahta kaşıklar<br />
     - D-) R&ouml;lyef
     - E-) Gofre
     <hr />
-1. <strong>Aquatint tekniğinde re&ccedil;inenin plaka y&uuml;zeyine yapışması i&ccedil;in hangi işlem uygulanır?</strong>
-    - A-) Re&ccedil;ine s&uuml;r&uuml;lecek y&uuml;zey temizlenir.
-    - B-) Re&ccedil;ine plaka y&uuml;zeyine sıvı halde s&uuml;r&uuml;l&uuml;r.
+1. <strong>Aquatint Tekniği&#39;nde re&#231;inenin plaka y&#252;zeyine yapışması i&#231;in hangi işlem uygulanır?</strong>
+    - A-) Re&#231;ine s&#252;r&#252;lecek y&#252;zey temizlenir.
+    - B-) Re&#231;ine plaka y&#252;zeyine sıvı h&#226;lde s&#252;r&#252;l&#252;r.
     - C-) Plaka sıcak suyla yıkanır.
-    - **Cevap D-) Toz re&ccedil;ine serpilmiş plaka ısı kaynağının &uuml;zerine yerleştirilir.**
+    - **Cevap D-) Toz re&#231;ine serpilmiş plaka ısı kaynağının &#252;zerine yerleştirilir.**
     - E-) Plaka soğuk suya sokulur.
+    <hr />
+1. <strong>Grav&uuml;rde koruyucu vernik veya lak, hangi ama&ccedil;la kullanılır?</strong>
+    - A-) Plakanın desenini oluşturmak i&ccedil;in
+    - B-) Plaka y&uuml;zeyini parlatmak i&ccedil;in
+    - C-) Plaka kenarlarını t&ouml;rp&uuml;lemek i&ccedil;in
+    - **Cevap D-) Metal levhayı asit etkisinden korumak i&ccedil;in**
+    - E-) Plaka yağını temizlemek i&ccedil;in
     <hr />
 1. <strong>Yumuşak vernik ile yapılan baskılarda hangi malzemeler doku oluşturmak i&ccedil;in kullanılabilir?</strong>
     - A-) Metal levha
@@ -608,7 +665,7 @@ IV. Tahta kaşıklar<br />
     - D-) Fransa
     - E-) İspanya
     <hr />
-1. <strong>&ldquo;Maniyerizm&rdquo; en &uuml;nl&uuml; ressamı kimdir?</strong>
+1. <strong>Maniyerizm&#39;in en &uuml;nl&uuml; ressamı aşağıdakilerden hangisidir?</strong>
     - A-) Rambrant
     - B-) D&uuml;rer
     - C-) Rafaello
@@ -628,6 +685,13 @@ IV. Tahta kaşıklar<br />
     - C-) Rengin sert kontrastı
     - D-) Rengin yumuşak ge&ccedil;işi
     - **Cevap E-) Işık ve g&ouml;lgenin sert kontrastı**
+    <hr />
+1. <strong>Nemesis aşağıdaki sanat&ccedil;ılardan hangisinin eseridir?</strong>
+    - A-) Rosso Fiorentino
+    - B-) Martin Schongauer
+    - **Cevap C-) Albrecht D&uuml;rer**
+    - D-) Tiziano
+    - E-) El Greco
     <hr />
 1. <strong>Almanya&rsquo; da grav&uuml;r yapan ilk b&uuml;y&uuml;k sanat&ccedil;ı Martin Schongauer, grav&uuml;rlerinde neleri vurgulamış ve nasıl bir teknik kullanmıştır?</strong>
     - A-) Renk kontrastlarını vurgulamış, yağlı boya tekniği kullanmıştır.
@@ -697,11 +761,11 @@ IV. Tahta kaşıklar<br />
     - E-) <img alt="" border="0" hspace="0" src="data:image/jpeg;base64,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" style="border:0px solid black; height:100px; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; width:145px" vspace="0" />
     <hr />
 1. <strong>K&ouml;keni Fransızca olan ve ahşap, taş, muşamba veya metal bir levhanın oyularak bir y&uuml;zeye basılması ile elde edilen, en temel şekliyle &ldquo;kazıma resim sanatı&rdquo; olarak bilinen baskı tekniği aşağıdakilerden hangisidir?</strong>
-    - A-) litografi
-    - B-) serigrafi
-    - C-) dijital baskı
-    - D-) ofset baskı
-    - **Cevap E-) grav&uuml;r**
+    - A-) Litografi
+    - B-) Serigrafi
+    - C-) Dijital baskı
+    - D-) Ofset baskı
+    - **Cevap E-) Grav&uuml;r**
     <hr />
 1. <strong>Francisco Goya&rsquo;nın başarı ile kullanarak eserlerine sanatsal bir g&uuml;&ccedil; kazandırdığı tekniğin adı aşağıdakilerden hangisidir?</strong>
     - A-) Flesko
@@ -724,6 +788,20 @@ IV. Tahta kaşıklar<br />
     - C-) Postempresyonizm - Gustave Dore
     - D-) Romantizm - Claude Monet
     - E-) Empresyonizm - Albrecht D&uuml;rer
+    <hr />
+1. <strong>Aşağıdaki ressamlardan hangisi sanat&ccedil;ının i&ccedil; d&uuml;nyasını yansıtan Romantizm akımının temsilcilerinden biridir?</strong>
+    - **Cevap A-) William Turner**
+    - B-) Van Gogh
+    - C-) Picasso
+    - D-) Rembrandt
+    - E-) Modigliani
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Almanya&rsquo;da yetişen başarılı grav&uuml;r ustalarından biridir?</strong>
+    - A-) Joan Miro
+    - **Cevap B-) Albrecht D&uuml;rer**
+    - C-) Vesselin Vassilev
+    - D-) Charles Nicolas Cochin
+    - E-) Titian
     <hr />
 1. <strong>Eserlerini, &lsquo;Kaprisler&rsquo;, &lsquo;Savaşın Yıkımları&rsquo;, &lsquo;Boğa G&uuml;reşleri&rsquo; ve &lsquo;D&uuml;şlemler, Fanteziler, Sa&ccedil;malıklar&rsquo; serisi olarak d&ouml;rt ana başlık altında toplayan grav&uuml;r sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Claude Monet
@@ -923,6 +1001,13 @@ IV. Tahta kaşıklar<br />
     - D-) Fotograv&uuml;r
     - E-) Mezotint
     <hr />
+1. <strong>Aşağıdakilerden hangisi monotip baskının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Mantık olarak bir y&uuml;zeydeki boyanın diğer y&uuml;zeye tek seferde aktarılmasıdır.
+    - B-) Plaka olarak kullanılan malzeme &uuml;zerine &ccedil;eşitli boyalarla &ccedil;izim, resim ya da &ccedil;alışma yapılır.
+    - C-) Y&uuml;zey ıslakken, yani boyalar kurumamışken başka bir k&acirc;ğıda yapılan baskı işlemidir.
+    - **Cevap D-) İpek kalıp &uuml;zerine baskı yapılır.**
+    - E-) Monotip baskı tekniğinde edisyon sayısı 1&rsquo;dir.
+    <hr />
 1. <strong>Eksiltmeli teknikler i&ccedil;in ideal plaka hangi malzemedir?</strong>
     - A-) Linolyum
     - B-) &Ccedil;inko
@@ -959,12 +1044,12 @@ IV. Tahta kaşıklar<br />
     - D-) Rusya
     - E-) Almanya
     <hr />
-1. <strong>&ldquo;Bir ağacın enine ve boyuna oyularak oluşturulan desenin kağıda veya kumaşa basılmasıdır&rdquo; tanımı hangi baskı tekniğini ifade etmektedir?</strong>
+1. <strong>“Bir ağacın enine ve boyuna oyularak oluşturulan desenin k&#226;ğıda veya kumaşa basılmasıdır.” tanımı hangi baskı tekniğini ifade etmektedir?</strong>
     - A-) Serigrafi Baskı
     - B-) Linol Baskı
     - C-) Litografi (Taş Baskı)
-    - D-) Grav&uuml;r
-    - **Cevap E-) Ağa&ccedil; Baskı Tekniği**
+    - D-) Grav&#252;r
+    - **Cevap E-) Ağa&#231; Baskı Tekniği**
     <hr />
 1. <strong>Ağa&ccedil; baskının Japonya&rsquo;da ka&ccedil;ıncı y&uuml;zyıldan beri kullanıldığı bilinmektedir?</strong>
     - A-) 3.y&uuml;zyıldan beri
@@ -1036,6 +1121,13 @@ IV. Tahta kaşıklar<br />
     - D-) G&uuml;nl&uuml;k hayatın zevk ve eğlencesini g&ouml;stermek
     - **Cevap E-) Budizm bilgisini yaymak**
     <hr />
+1. <strong>İlk b&uuml;y&uuml;k Ukiyo-e sanat&ccedil;ısı aşağıdakilerden hangisinde doğru verilmiştir?</strong>
+    - **Cevap A-) Hishikawa Moronobu**
+    - B-) Kitagawa Utamaro
+    - C-) Ando Hisroshige
+    - D-) Torii Kiyonaga
+    - E-) Suziki Harunobu
+    <hr />
 1. <strong>Japon baskısının tarihsel gelişiminde en erken d&ouml;nemlerinde kullanılan teknik aşağıdakilerden hangisidir?</strong>
     - A-) Nishiki-e
     - **Cevap B-) Sumizuri-e**
@@ -1093,8 +1185,7 @@ IV. Tahta kaşıklar<br />
     - D-) Pop Art
     - E-) K&uuml;bizm
     <hr />
-1. Aşağıdakilerden hangisi modern sanatın özelliklerinden biri değildir?
-
+1. 7.	Aşağıdakilerden hangisi modern sanatın özelliklerinden biri değildir?
     - A-) Geleneksele aldığı tavırla bilinen Modernizmde &ldquo;Avangard&rdquo; kavramı y&ouml;nlendirici bir &ouml;zelliğe sahiptir.
     - B-) Modern kelimesi, Latice&rsquo;de &ldquo;tam şimdi&rdquo; anlamında kullanılan &ldquo;modo&rdquo; ve bu s&ouml;zc&uuml;kten t&uuml;retilen &ldquo;modernus&rdquo; kelimesinden ortaya &ccedil;ıkmaktadır.
     - C-) İlerleme d&uuml;ş&uuml;ncesinin h&uuml;k&uuml;m s&uuml;rd&uuml;ğ&uuml; kendi i&ccedil;sel &ouml;l&ccedil;&uuml;tlerine yanıt veren &ldquo;soyut bir fikir-d&uuml;ş&uuml;&rdquo;n&uuml;n &ouml;nem kazandığı bir duruma karşılık gelir.
@@ -1193,7 +1284,7 @@ IV. Tahta kaşıklar<br />
     - D-) Pera
     - E-) Devlet Resim Heykel
     <hr />
-1. <strong>Sanayi-i Nefise&rsquo;de 1892-1897 tarihleri arasında grav&uuml;r b&ouml;l&uuml;m&uuml;ne aşağıdaki isimlerden hangisi getirilmiştir?</strong>
+1. <strong>Sanayi-i Nefise'de 1892-1897 tarihleri arasında grav&#252;r b&#246;l&#252;m&#252;nde aşağıdaki isimlerden hangisi g&#246;rev yapmıştır?</strong>
     - **Cevap A-) Artur Napier**
     - B-) Hoca Ali Rıza
     - C-) Osman Hamdi
@@ -1306,6 +1397,13 @@ IV. Tahta kaşıklar<br />
     - D-) Tunuslu Hacı Ahmet
     - E-) Turgut Zaim
     <hr />
+1. <strong>XV-XVI. y&uuml;zyıllardaki ilk grav&uuml;rlerin &ouml;zelliği aşağıdakilerden hangisidir?</strong>
+    - A-) İki boyutlu manzaralardır.
+    - B-) İ&ccedil; mek&acirc;n tasvirleridir.
+    - C-) Portrelerdir.
+    - **Cevap D-) Kuş bakışı g&ouml;r&uuml;nt&uuml;ler ya da uzun panoramalardır.**
+    - E-) Kıyafet ve g&uuml;nl&uuml;k yaşam tasvirleridir.
+    <hr />
 1. <strong>Grav&uuml;r sanat&ccedil;ıları olan William Henry Bartlett, Thomas Allom ve Henri Cayol, hangi Osmanlı padişahı zamanında İstanbul&rsquo;da &ccedil;alışmalar yapmıştır?</strong>
     - **Cevap A-) II. Mahmut**
     - B-) IV. Murat
@@ -1356,8 +1454,8 @@ IV. Tahta kaşıklar<br />
     - D-) Ekslibris tasarımında, &ldquo;Ekslibris&rdquo; kelimesi mutlaka yazılmalıdır.
     - **Cevap E-) Ekslibris, &ouml;len kişiler i&ccedil;in yapılabilir.**
     <hr />
-1. &ldquo;Ekslibris, hi&ccedil;bir zaman tek işlevle sınırlandırılmamalıdır. Kitaba paha bi&ccedil;ilemez bir değer katarak, sanat ve tasarım nesnesine d&ouml;n&uuml;şt&uuml;ren ekslibrisin bir işlevi bitse diğer işlevi başlayacaktır. 19. y&uuml;zyılın sonlarına doğru ekslibris ile ilgili kuramsal &ccedil;alışmalar ve araştırmalar kitap ve dergilerde yayınlanmış (Ardahanlı, 2013, s:10), ekslibris &uuml;retiminde bir canlanma yaşanmıştır. Bu bağlamda d&ouml;nem; ekslibris&hellip;&hellip;&hellip;&hellip;&hellip;..ortaya &ccedil;ıkmasına ve pop&uuml;lerleşmesine sebep olarak, ekslibrisin&hellip;&hellip;&hellip;&hellip;arasında değiş tokuşuna tanıklık etmiştir.<br />
-<strong>Yukarıdaki metinde boş bırakılan yerlere aşağıdakilerden hangisinin getirilmesi gerekir?</strong>
+1. Ekslibris, hi&ccedil;bir zaman tek işlevle sınırlandırılmamalıdır. Kitaba paha bi&ccedil;ilemez bir değer katarak, sanat ve tasarım nesnesine d&ouml;n&uuml;şt&uuml;ren ekslibrisin bir işlevi bitse diğer işlevi başlayacaktır. 19. y&uuml;zyılın sonlarına doğru ekslibris ile ilgili kuramsal &ccedil;alışmalar ve araştırmalar kitap ve dergilerde yayınlanmış, ekslibris &uuml;retiminde bir canlanma yaşanmıştır. Bu bağlamda d&ouml;nem; ekslibris &hellip;&hellip;&hellip;&hellip;&hellip;.. ortaya &ccedil;ıkmasına ve pop&uuml;lerleşmesine sebep olarak, ekslibrisin &hellip;&hellip;&hellip;&hellip; arasında değiş tokuşuna tanıklık etmiştir.<br />
+<strong>Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) grubunun/ arkadaşlar
     - **Cevap B-) koleksiyonunun/ koleksiyonerler**
     - C-) mesleğinin/ esnaflar
@@ -1402,6 +1500,14 @@ IV. Tahta kaşıklar<br />
     - D-) Transfer taş baskı (L2) ve Plastik grav&uuml;r (C8)
     - E-) Monotip (tek tip) baskı (M) ve Ofset &ccedil;inkosuyla baskı (L3)
     <hr />
+1. Kitap sahibinin ismi ile birlikte kullanılan&hellip;&hellip;...&hellip;, sahiplik bildirmek i&ccedil;in kitapların &ouml;n kapağının i&ccedil; kısmına yapıştırılan etiketlerdir.&nbsp;<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) arma
+    - B-) m&uuml;h&uuml;r
+    - C-) nişan
+    - **Cevap D-) ekslibris**
+    - E-) sembol
+    <hr />
 1. <strong>&ldquo;Ekslibris, kitabın kartviziti ya da tapusudur.&rdquo; ifadesi kime aittir?</strong>
     - A-) M&uuml;rşide İ&ccedil;meli
     - **Cevap B-) Hasip Pektaş**
@@ -1429,4 +1535,11 @@ IV. Tahta kaşıklar<br />
     - C-) El yazması notlar
     - D-) Kitap etiketleri
     - E-) İmzalar
+    <hr />
+1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi T&uuml;rkiye&#39;de ekslibris sanatının yayılmasına b&uuml;y&uuml;k katkı sağlamış ve 1997&#39;de Ankara Ekslibris Derneği&#39;ni kurmuştur?</strong>
+    - A-) M&uuml;rşide İ&ccedil;meli
+    - **Cevap B-) Hasip Pektaş**
+    - C-) S&uuml;leyman Saim Tekcan
+    - D-) Hasan Pekmezci
+    - E-) Şule Atılgan
     <hr />

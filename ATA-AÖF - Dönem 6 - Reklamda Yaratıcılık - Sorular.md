@@ -35,6 +35,13 @@
     - D-) Aydınlanma aşamasına birey zorlanmadan kendiliğinden gelmelidir.
     - E-) Doğrulama aşaması yaratıcı d&uuml;ş&uuml;nme s&uuml;recinde ortaya &ccedil;ıkan yeni fikrin yeterliliği ve uygulanabilirliğinin değerlendirildiği son aşamadır.
     <hr />
+1. <strong>Yaratıcı d&uuml;ş&uuml;nme ile ilgili olarak aşağıdaki bilgilerden hangisi doğrudur?</strong>
+    - A-) Tek bir doğruya y&ouml;nelik derinlemesine d&uuml;ş&uuml;nmeyi i&ccedil;eren dikey bir d&uuml;ş&uuml;nme bi&ccedil;imidir.
+    - **Cevap B-) Sağ beyine &ouml;zg&uuml; bir d&uuml;ş&uuml;nme bi&ccedil;imidir.**
+    - C-) Mantıksaldır.
+    - D-) Tek ya da daha az sayıda yanıta ulaşmaya &ccedil;alışır.
+    - E-) Tek bir doğruya y&ouml;nelik fikirlerin kesiştiği bir d&uuml;ş&uuml;nme bi&ccedil;imidir.
+    <hr />
 1. <strong>Yaratıcılık kavramı aşağıdaki &ouml;zelliklerden hangisini <u>i&ccedil;ermez</u>?</strong>
     - A-) Orijinal olanı &uuml;retme
     - B-) Kavramlar arası yeni bağlantılar kurma
@@ -134,6 +141,17 @@
     - C-) Bireyin &ouml;teki yetenekleriyle uygunluk g&ouml;stermeyen bir &ouml;zelliğe sahiptir.
     - D-) Sorunun &ccedil;&ouml;z&uuml;lmesinde aynı &ouml;l&ccedil;&uuml;tte bulunanlara g&ouml;re &uuml;st seviyede performans g&ouml;sterebilme durumudur.
     - E-) Karar unsurları i&ccedil;erisinden bir ya da birden &ccedil;ok se&ccedil;eneği elimine ederek avantaj elde edebilme kabiliyetidir.
+    <hr />
+1. I. Yaratıcı zek&acirc;<br />
+II. Medya<br />
+III. Hayal g&uuml;c&uuml;<br />
+IV. Yapay zek&acirc;<br />
+<strong>Yukarıdaki hangi iki nosyon bir bilim adamını bilinmeyenler alanından elde ettiği bilgileri bilinen bir alana taşımasında k&ouml;pr&uuml; g&ouml;revi g&ouml;rmektedir?</strong>
+    - A-) I ve II
+    - **Cevap B-) I ve III**
+    - C-) I ve IV
+    - D-) II ve III
+    - E-) II ve IV
     <hr />
 1. <strong>Aşağıdakilerden hangisi iş yaşamında yaratıcılığı betimleyen &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - A-) Bireysel yaratıcılığın &ouml;tesindedir.
@@ -247,6 +265,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - **Cevap E-) İnci K&uuml;peli Kız tablosu**
     <hr />
 ## Unite 3
+1. <strong>Aşağıdakilerden hangisi reklamda yaratıcılığı sınırlandıran fakt&ouml;rlerden biridir?</strong>
+    - A-) Reklam kampanya s&uuml;resinin uzun olması
+    - B-) Reklamın hedef kitlesinin yaş aralığı
+    - **Cevap C-) Sekt&ouml;rdeki yaratıcı insan kaynağının yetersizliği**
+    - D-) Reklamın hedef kitlesinin cinsiyeti
+    - E-) Reklam ajansının y&ouml;netim yapısının farklılıklara a&ccedil;ık olması
+    <hr />
 1. &Uuml;r&uuml;n&uuml;n kendisinden kaynaklanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..... bir &ccedil;arpıcılık reklamlardaki yaratıcılığı tanımlar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) karmaşık unsurları i&ccedil;eren
@@ -254,6 +279,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) dolaylı anlatımları i&ccedil;eren
     - **Cevap D-) sade ve basit**
     - E-) tartışmalı
+    <hr />
+1. Reklamda yaratıcılığı ........................... yapmak, pop&uuml;ler k&uuml;lt&uuml;rle bağlantılı ve pop&uuml;ler k&uuml;lt&uuml;r&uuml; y&ouml;nlendiren kampanya fikirleri ile a&ccedil;ıklamak m&uuml;mk&uuml;nd&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) doğrudan satışa y&ouml;nelik kampanyalar
+    - B-) konumlandırma kampanyaları
+    - C-) kurumsal marka kampanyaları
+    - **Cevap D-) konuşulan kampanyalar**
+    - E-) marka imajı kampanyaları
     <hr />
 1. Reklam &uuml;retiminde ................... kullanmak yaratıcı s&uuml;re&ccedil;te yaşanan en &ouml;nemli problem olan &uuml;retilen fikirlerin az olması yani &ccedil;ok sayıda fikir &uuml;retilememesinin &ouml;n&uuml;ne ge&ccedil;ilmesini sağlamaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -334,6 +367,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Uygunluk ve yansıma boyutu
     - D-) Farkındalık boyutu
     - E-) Teklik boyutu
+    <hr />
+1. <strong>Reklam ve yaratıcılık kavramları arasındaki ilişkiyi &quot;duygular ve aklın birleşimi, hazlar ve rasyonelliğin savaşı&quot; olarak ifade eden reklamcı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Jacques S&eacute;gu&eacute;la**
+    - B-) William Bernbach
+    - C-) Rosser Reeves
+    - D-) David Ogilvy
+    - E-) Raymand Rubicam
     <hr />
 1. <strong>&quot;Bir Reklamcının İtirafları&quot; isimli &uuml;nl&uuml; eser aşağıdakilerden hangisine aittir?</strong>
     - **Cevap A-) Ogilvy**
@@ -455,6 +495,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Abs&uuml;rd Alternatif
     - E-) Birleştirme
     <hr />
+1. Sorun ya da konu hakkında bilinen yollardan farklı bir yolla tanımlama yapılabilmesidir.<br />
+<strong>Verilen ifade aşağıdaki yaratıcılık boyutlarından hangisine aittir?</strong>
+    - A-) Akıcılık
+    - B-) Esneklik
+    - C-) &Ouml;zg&uuml;nl&uuml;k
+    - D-) Ayrıntılama
+    - **Cevap E-) Yeniden Tanımlama**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi başarılı olan fikirlerin ortak &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) G&uuml;venilir olmak
     - **Cevap B-) Soyut terimler kullanmak**
@@ -469,7 +517,21 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Doğrulama
     - E-) Uygulama
     <hr />
+1. <strong>Altı Şapkalı D&uuml;ş&uuml;nme Tekniği i&ccedil;erisinde yer alan Beyaz Şapkanın anlamı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Tarafsızlık ve nesnellik**
+    - B-) Hiddet, &ouml;fke ve duygular
+    - C-) İyimser ve olumlu d&uuml;ş&uuml;nce
+    - D-) Yeni yaratıcılık ve yeni fikirler
+    - E-) Kasvet ve olumsuzluk
+    <hr />
 ## Unite 5
+1. <strong>Tek/farklı olmak, satış ve vaat/&ouml;neri kavramları aşağıda sıralanan hangi yaratıcı reklam stratejisini tanımlamaktadır?</strong>
+    - A-) Jenerik Strateji
+    - B-) Konumlandırma Stratejisi
+    - C-) Marka İmajı Stratejisi
+    - D-) Yankılama Yaklaşımı
+    - **Cevap E-) Temel Satış Vaadi Stratejisi**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi reklamda temel yaratıcı stratejilerden Konumlandırma (Positioning) Stratejisi&rsquo;ni alana kazandıran reklamcılardan biridir?</strong>
     - **Cevap A-) Al Ries**
     - B-) David Ogilvy
@@ -576,6 +638,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Temel Satış Vaadi
     - E-) &Ouml;nce Satın Alma İddiası
     <hr />
+1. ..................: Temel Satış Vaadi ve Marka İmajı stratejilerini de kapsayan bir temel yaratıcı stratejidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    - **Cevap A-) Konumlandırma Stratejisi**
+    - B-) Yankılama Yaklaşımı
+    - C-) Jenerik (generic) Strateji
+    - D-) Duygusal Strateji
+    - E-) &Ouml;nce satın alma (preemptive) iddiası
+    <hr />
 ## Unite 6
 1. <strong>Chicago Ekol&uuml;&rsquo;n&uuml;n kurucusu olan &uuml;nl&uuml; reklamcı aşağıdakilerden hangisidir?</strong>
     - A-) William (Bill) Bernbach
@@ -611,6 +681,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Levi&rsquo;s
     - D-) Pepsodent
     - E-) Anacin
+    <hr />
+1. <strong>Toplumsal konulara odaklanan ve g&ouml;reni d&uuml;ş&uuml;nmeye sevk eden reklamcılık anlayışına sahip &uuml;nl&uuml; reklamcı aşağıdakilerden hangisidir?</strong>
+    - A-) John Hegarty
+    - **Cevap B-) Oliviero Toscani**
+    - C-) David Ogilvy
+    - D-) Jacgues S&eacute;gu&eacute;la
+    - E-) Claude C. Hopkins
     <hr />
 1. <strong>1960&rsquo;ların sonunda T&uuml;rk reklamcılığında &ldquo;dil devrimi&rdquo; yaparak ağdalı dilin yerine yalın ve anlaşılır reklam dilinin gelmesini sağlayan reklamcılar aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Ferit Edg&uuml; ve Ersin Salman
@@ -695,6 +772,20 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Temel Satış Vaadi
     - D-) Uygulama Vurgusu
     - **Cevap E-) Star Stratejisi**
+    <hr />
+1. <strong>Aşağıdakiler ifadelerden hangisi&nbsp;Hopkins&rsquo;in geliştirdiği Bilimsel Reklamcılık Yaklaşımı&#39;na ait&nbsp;<u>değildir</u>?</strong>
+    - A-) &ldquo;Bilimsel reklamcılık&rdquo; anlayışına y&ouml;n veren en temel nokta ise satıştır.
+    - B-) Bir reklam, hedef kitlenin yani alıcının &ccedil;ıkarını d&uuml;ş&uuml;nmeli, bireye vaadini net olarak sunmalıdır.
+    - **Cevap C-) Reklamda mizah &ouml;nemlidir.**
+    - D-) Reklam, genel bir etki i&ccedil;in, adınızı g&uuml;ndemde tutmak i&ccedil;in değildir.
+    - E-) Neden ve sonuca dayalı rasyonel temellere dayanan reklamcılık anlayışı h&acirc;kimdir.
+    <hr />
+1. <strong>52 &uuml;lkede satılan ve 17 dilde reklamları yayınlanan, d&uuml;nyada en iyi bilinen markalardan biri h&acirc;line gelen Pepsodent reklamları&nbsp;aşağıdaki reklamcılardan hangisine aittir?</strong>
+    - A-) William (Bill) Bernbach
+    - B-) Leo Burnett
+    - C-) John Hegarty
+    - D-) David Ogilvy
+    - **Cevap E-) Claude C. Hopkins**
     <hr />
 1. <strong>Advertising Age Dergisi&rsquo;nin &ldquo;En İyi 100 Reklam Kampanyası&rdquo; listesinde 39. sırada yer alan &ldquo;M&amp;M&rsquo;s Şekerlemeleri&rdquo; ile 19. sırada yer alan &ldquo;Anacin Ağrı Kesicileri&rdquo; kampanyaları&nbsp;aşağıdaki reklamcılardan hangisine aittir?</strong>
     - **Cevap A-) Rosser Reeves**
@@ -808,6 +899,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - **Cevap C-) Satışı ger&ccedil;ekleştirecek odak noktalarının mizah i&ccedil;inde kullanılması.**
     - D-) Mizah &ccedil;ekiciliğinde t&uuml;keticiyle alay edilecek bir senaryonun kullanılması.
     - E-) Reklamda mizahın abartılı &ouml;geler kullanılarak sunulması.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi mizah &ccedil;ekiciliği i&ccedil;eren bir reklama &ouml;rnek olabilir?</strong>
+    - A-) Aldın aldın son &uuml;&ccedil; &uuml;r&uuml;n, bu fırsatı ka&ccedil;ırma! (Beyaz eşya mağazası)
+    - B-) Muhteşem Cuma indirimleri bu hafta. Ka&ccedil;ırmayın! (Sanal alışveriş platformu)
+    - C-) Bilim adamları sizin i&ccedil;in test etti, onayladı. (Diş macunu)
+    - D-) Sigorta seni ve sevdiklerini g&uuml;venceye alır. (Sigorta şirketi)
+    - **Cevap E-) Alkoll&uuml; birinin kullandığı arabaya binmektense arabayı kendim kullanırım. (G&ouml;rme engelli ses sanat&ccedil;ısı - Trafik Kazalarıyla M&uuml;cadele Derneği)**
     <hr />
 1. <strong>Aşağıdakilerden hangisi sosyal tehdidin kullanıldığı reklama bir &ouml;rnektir?</strong>
     - A-) Bu sigortayı yaptırırsan t&uuml;m zararın karşılanır.
@@ -1173,6 +1271,14 @@ III. Sinema salonlarındaki reklamlara y&ouml;nelik t&uuml;keticilerin tepkileri
     - D-) PET
     - E-) MEG
     <hr />
+1. Biyometrik teknikler ile v&uuml;cudumuzun ........... ve ............ tepkilerinde yaşanan değişimler &ouml;l&ccedil;&uuml;mlenmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) merkez&icirc; - &ccedil;evresel
+    - B-) otonom - psikolojik
+    - C-) &ccedil;evresel - sinirsel
+    - **Cevap D-) otonom - somatik**
+    - E-) merkez&icirc; - psikolojik
+    <hr />
 1. <strong>Aşağıdakilerden hangisi reklamlarda son test i&ccedil;in kullanılan y&ouml;ntemlerdendir?</strong>
     - **Cevap A-) Hafıza testleri**
     - B-) Okunabilirlik testleri
@@ -1306,6 +1412,14 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
     <hr />
+1. Reklam sekt&ouml;r&uuml;n&uuml;n &ouml;nemli bir b&ouml;l&uuml;m&uuml;n&uuml; oluşturan medyada yaratıcılık; &hellip;&hellip;&hellip;&hellip;&hellip;.. ve &hellip;&hellip;&hellip;&hellip;. olmak &uuml;zere iki temel alanda incelenmektedir.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) yaratıcı strateji - medya stratejisi
+    - B-) medya yaratıcılığı - yaratıcı konsept
+    - **Cevap C-) medya planlarındaki yaratıcılık - yaratıcı mecra**
+    - D-) yaratıcı mecra - medya ajansı
+    - E-) medya stratejisi - dijital konsept
+    <hr />
 1. <strong>Aşağıdakilerden hangisi ajanslarda insan kaynakları politikaları kapsamındaki uygulamalardan biri <u>değildir</u>?</strong>
     - A-) Eleman alımı ve se&ccedil;iminde tavsiye y&ouml;ntemi, gazete ilanları, transferler gibi y&ouml;ntemler kullanılır.
     - B-) &Uuml;cret sisteminde &ccedil;oğunlukla eşit maaş dağıtımı ve performansa dayalı &ouml;demeler, prim sistemleri uygulanır.
@@ -1401,9 +1515,9 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - E-) P&uuml;f noktaları
     <hr />
 1. <strong>Aşağıdakilerden hangisi t&uuml;rdeş alanlı portfolyoların &ouml;zelliğidir?</strong>
-    - A-) İş portfolyosudur.&nbsp;
-    - B-) İll&uuml;strasyon portfolyosudur.&nbsp;
-    - C-) Grafik tasarım portfolyosudur.&nbsp;
+    - A-) İş portfolyosudur.
+    - B-) İll&uuml;strasyon portfolyosudur.
+    - C-) Grafik tasarım portfolyosudur.
     - D-) Ajans portfolyosudur.
     - **Cevap E-) Birden fazla yaratıcı alan portfolyosudur.**
     <hr />

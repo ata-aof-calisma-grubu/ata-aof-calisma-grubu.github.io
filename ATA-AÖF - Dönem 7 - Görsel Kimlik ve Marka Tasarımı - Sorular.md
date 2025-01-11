@@ -21,12 +21,12 @@
     - D-) Joseph Adison
     - **Cevap E-) Montague**
     <hr />
-1. <strong>Reklamların t&uuml;ketici &uuml;zerindeki etki alanları aşağıdaki işlevlerden hangisine bağlı <u>değildir</u>?</strong>
-    - **Cevap A-) K&uuml;resel işlevi.**
-    - B-) İkna etme işlevi.
-    - C-) Hatırlatma işlevi.
-    - D-) Destekleme işlevi.
-    - E-) Değer katma işlevi.
+1. <strong>Reklamların t&#252;ketici &#252;zerindeki etki alanları aşağıdaki işlevlerden hangisine bağlı <u>değildir</u>?</strong>
+    - **Cevap A-) K&#252;resel işlevi**
+    - B-) İkna etme işlevi
+    - C-) Hatırlatma işlevi
+    - D-) Destekleme işlevi
+    - E-) Değer katma işlevi
     <hr />
 1. <strong>100 TL fiyatında olan bir &uuml;r&uuml;n&uuml; 99,99 TL olarak g&ouml;stererek daha uygun fiyat imajı verilerek yapılan ikna y&ouml;ntemi aşağıdakilerden hangisidir?</strong>
     - A-) Fazla veya belirsiz konuşmak.
@@ -63,7 +63,7 @@
     - D-) Doğrudan postalama reklam materyalleri
     - E-) İnternet
     <hr />
-1. <strong>Aşağıdaki reklam mecralarından hangisi baskı kalitesinin d&uuml;ş&uuml;kl&uuml;ğ&uuml;nde dolayı &ouml;nemini yitirmeye başlamıştır?</strong>
+1. <strong>Aşağıdaki reklam mecralarından hangisi baskı kalitesinin d&uuml;ş&uuml;kl&uuml;ğ&uuml;nden dolayı &ouml;nemini yitirmeye başlamıştır?</strong>
     - A-) İnternet
     - B-) Dergi
     - **Cevap C-) Gazete**
@@ -76,6 +76,13 @@
     - **Cevap C-) &Ccedil;ığırtkanların esir satışlarında bağırmaları**
     - D-) Londra&rsquo;da kilise duvarındaki afişler
     - E-) İnci satış b&uuml;rosu reklamı
+    <hr />
+1. <strong>Dijital ve geleneksel medya ilişkisi bağlamında aşağıdaki bilgilerden hangisi ters verilmiştir?</strong>
+    - A-) Dijital medya &ccedil;ok sayıda kanala sahip iken geleneksel medya az sayıda kanala sahiptir.
+    - B-) Dijital medya &ccedil;eşitli i&ccedil;eriklerde iken geleneksel medya sınırlıdır.
+    - C-) Dijital medya etkileşimli iken geleneksel medya tek y&ouml;nl&uuml;d&uuml;r.
+    - D-) Dijital medya k&uuml;resel iken geleneksel medya daha &ccedil;ok b&ouml;lgeseldir.
+    - **Cevap E-) Dijital medya gazete dergi gibi yayınları kapsarken geleneksel medya internet teknolojilerini kapsar.**
     <hr />
 1. <strong>Doğrudan postalama reklam materyallerinde reklam ortamının s&uuml;rekli g&uuml;ncel tutulması gereken noktası aşağıdakilerden hangisidir?</strong>
     - A-) Mesaj
@@ -134,8 +141,8 @@
     - D-) Ambalaj tasarımı
     - **Cevap E-) D&uuml;ğ&uuml;n davetiyesi**
     <hr />
-1. &ldquo;G&ouml;rsel kimlik tasarımında &hellip;.., &hellip;&hellip;, &hellip;.., &hellip;.., konusu olduk&ccedil;a &ouml;nemlidir. Bu unsurlar netleştikten sonra belirli bir s&uuml;re değişikliğe gidilemeyeceğinden g&ouml;rsel kimlik tasarımının bi&ccedil;imsel unsurları &ccedil;ok iyi şekilde değerlendirilip, alternatif formatlar arasında en uygun olana karar verilmesi gerekmektedir&rdquo;.<br />
-<strong>C&uuml;mlesinde boşluğa aşağıdakilerden hangisi <u>getirilemez</u>?</strong>
+1. G&ouml;rsel kimlik tasarımında &hellip;.., &hellip;&hellip;, &hellip;.., &hellip;.., konusu olduk&ccedil;a &ouml;nemlidir. Bu unsurlar netleştikten sonra belirli bir s&uuml;re değişikliğe gidilemeyeceğinden g&ouml;rsel kimlik tasarımının bi&ccedil;imsel unsurları &ccedil;ok iyi şekilde değerlendirilip, alternatif formatlar arasında en uygun olana karar verilmesi gerekmektedir.<br />
+<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi <u>getirilemez</u>?</strong>
     - **Cevap A-) i&ccedil; mek&acirc;n**
     - B-) &ouml;l&ccedil;&uuml;
     - C-) format
@@ -155,6 +162,20 @@
     - C-) &Ouml;l&ccedil;&uuml; materyalleri &ndash; ill&uuml;strasyonlar &ndash; grafikler- ikonlar
     - D-) Fotoğraflar &ndash; ill&uuml;strasyonlar &ndash; kataloglar- ikonlar
     - E-) Fotoğraflar &ndash; ill&uuml;strasyonlar &ndash; grafikler- billboardlar
+    <hr />
+1. <strong>Reklam aşağıdaki hangi ama&ccedil; doğrultusunda <u>hazırlanmaz</u>?</strong>
+    - A-) Motive etmek
+    - B-) Dikkat &ccedil;ekmek
+    - C-) İlgi uyandırmak
+    - D-) İstek yaratmak
+    - **Cevap E-) Sınırlı &ccedil;evrede kalmak**
+    <hr />
+1. <strong>&ldquo;G&ouml;rsel kimlik tasarımı, kendi sekt&ouml;r&uuml;nde benzer hizmet veya &uuml;r&uuml;n vadeden kurumlardan yani rakiplerden farklı bir konumda olmalıdır&rdquo; c&uuml;mlesi hangi g&ouml;rsel kimlik tasarımı unsurunu ifade eder?</strong>
+    - A-) Fonksiyonellik
+    - **Cevap B-) Farklılık**
+    - C-) Uygunluk
+    - D-) Sadelik
+    - E-) Eskimezlik
     <hr />
 1. <strong>Kurum kimliğinin g&uuml;venilirlik ilkesi aşağıdakilerden hangisinde doğru şekilde a&ccedil;ıklanmıştır?</strong>
     - A-) G&uuml;venilir bir kurum kimliği i&ccedil;in kalabalık bir ekiple &ccedil;alışılmış olmalıdır.
@@ -241,6 +262,20 @@
     - D-) İşitme
     - E-) Dokunma
     <hr />
+1. <strong>Aşağıdakilerden hangisi grafik tasarımın ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
+    - A-) G&ouml;rsel dilde mesaj aktarımı
+    - B-) &Uuml;r&uuml;n&uuml;n g&ouml;rsel tanıtımı
+    - C-) &Uuml;r&uuml;n&uuml;n kurumsal kimlik tasarımı
+    - **Cevap D-) Ekonomik maliyet**
+    - E-) Sunulan hizmetin g&ouml;rsel tanıtımı
+    <hr />
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel kimlik tasarımının temellerinden biri <u>değildir</u>?</strong>
+    - A-) Bi&ccedil;im i&ccedil;erik uyumu
+    - B-) Hedef kitleye uygunluk
+    - C-) G&ouml;rsel algılama prensiplerine uygunluk
+    - D-) Temel tasarım ilkelerine uygunluk
+    - **Cevap E-) Tasarım &ouml;gelerine uygunluk**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi iki boyutlu bir tasarımda boyut ve b&uuml;y&uuml;kl&uuml;ğ&uuml; anlatan değerler arasında <u>yer almaz</u>?</strong>
     - A-) Y&uuml;kseklik
     - B-) Genişlik
@@ -263,7 +298,7 @@
     - D-) Devamlılık
     - E-) Yakınlık
     <hr />
-1. <strong>&ldquo;G&ouml;rsel elemanların, tasarım alanının dikey ve yatay eksenine eşit oranda yerleştirilmesidir&rdquo; c&uuml;mlesinin tanımı aşağıdakilerden hangisidir?</strong>
+1. <strong>&ldquo;G&ouml;rsel elemanların, tasarım alanının dikey ve yatay eksenine eşit oranda yerleştirilmesidir.&rdquo; c&uuml;mlesinin tanımı aşağıdakilerden karşılığıdır?</strong>
     - A-) Armoni
     - B-) G&ouml;rsel Hiyerarşi
     - C-) B&uuml;t&uuml;nl&uuml;k
@@ -292,11 +327,11 @@
     - D-) Felsefe
     - E-) Matematik
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Y&uuml;zeyler, objeler, cisimler, fig&uuml;rler, karakterler, g&ouml;rseller arasında yer alan boşluk veya aralıktır.&rdquo; tasarım elemanının tanımıdır?</strong>
+1. <strong>Y&#252;zeyler, objeler, cisimler, fig&#252;rler, karakterler, g&#246;rseller arasında yer alan boşluk veya aralıktır, şeklinde tanımlanan tasarım elemanı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Espas**
     - B-) Doku
     - C-) Mekan
-    - D-) &Ccedil;izgi
+    - D-) &#199;izgi
     - E-) Ton
     <hr />
 1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n ortaya koymak &uuml;zere yapılan tasarlama eyleminin s&uuml;re&ccedil;lerinden <u>değildir</u>?</strong>
@@ -320,6 +355,27 @@
     - C-) Tasarımda g&ouml;rsel ve yazıların, &ouml;nem sırasına g&ouml;re &ouml;l&ccedil;&uuml;, renk, karşıtlık bakımından sıralanmasıdır.
     - D-) Tasarımı oluşturan b&uuml;t&uuml;n unsurların, istenilen etkiye ve mesaja&nbsp; g&ouml;re, belirlenen d&uuml;zlem &uuml;zerinde dağılımıdır.
     - E-) G&ouml;z&uuml;n alışkanlık gereği soldan sağa, yukarıdan aşağı, b&uuml;y&uuml;kten k&uuml;&ccedil;&uuml;ğe, koyu renkten a&ccedil;ık renge, renkliden renksize, alışılmamış olandan alışılmış, istenilen algı, beğeni ve dikkati elde edilebilmesidir.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ldquo;Bir d&uuml;ş&uuml;ncenin g&ouml;rselleştirilmesinde rol oynayan s&ouml;zc&uuml;klerin, imgelerin, şekillerin d&uuml;zenlenmesinde ve etkili tasarımlar yaratmasında yol g&ouml;stericidir.&rdquo; &nbsp;c&uuml;mlesinin karşılığıdır?</strong>
+    - A-) Tasarım &Ouml;geleri-Elemanları
+    - **Cevap B-) Tasarım İlkeleri**
+    - C-) Tasarım
+    - D-) Marka
+    - E-) Kurumsal Kimlik
+    <hr />
+1. <strong>İnsan beyninin g&ouml;rsel d&uuml;nyada algıladığı uyaranlarda nesne tam olarak tamamlanmamış olsa da var olan boşlukları doldurarak &ouml;rg&uuml;tleme eğilimi hangi tasarım ilkesini tanımlar?</strong>
+    - A-) B&uuml;t&uuml;nl&uuml;k
+    - B-) G&ouml;rsel Hiyerarşi
+    - **Cevap C-) Kapalılık**
+    - D-) Egemenlik
+    - E-) Denge
+    <hr />
+1. <strong>Aşağıdaki tasarım ilkelerinden hangisi &ldquo;Aynı hareket bi&ccedil;iminde olan unsurlar, bir grup ve b&uuml;t&uuml;n olarak algılanırlar.&rdquo; metnini tanımlar?</strong>
+    - A-) Devamlılık
+    - **Cevap B-) Ortak Yazgı Kuralı**
+    - C-) Fig&uuml;r-Fon İlişkisi
+    - D-) Ritim
+    - E-) B&uuml;t&uuml;nl&uuml;k
     <hr />
 1. <strong>Aşağıdaki Temel Tasarım İlkeleri&#39;nden hangisi armoniyi ifade eder?</strong>
     - A-) Ortak Yazgı Kuralı
@@ -406,6 +462,20 @@
     - D-) Promosyon
     - E-) Broş&uuml;r
     <hr />
+1. <strong>Kurum ve işletmelerin, markaları veya &uuml;r&uuml;nleri hakkında m&uuml;şterilerine ya da hedef kitlelerine bilgi vermek amacıyla hazırladıkları kitap&ccedil;ıklara ne ad verilir?</strong>
+    - A-) Kitap
+    - B-) Y&ouml;nerge
+    - **Cevap C-) Katalog**
+    - D-) B&uuml;lten
+    - E-) El ilanı
+    <hr />
+1. <strong>G&ouml;rsel kimlik oluşturmada aşağıdakilerden hangisi dikkat edilmesi gereken hususlardan biridir?</strong>
+    - A-) Tasarımlarda farklı renklerde g&ouml;rsel &ouml;ğeler kullanmak
+    - B-) G&ouml;rsel kimlik &ccedil;alışmalarında sadece tipografiye yer vermek
+    - C-) Tasarımlarda yazı ağırlıklı &ccedil;&ouml;z&uuml;mler &uuml;retmek
+    - **Cevap D-) Tasarım dilini bir b&uuml;t&uuml;n halinde sunmak**
+    - E-) &Uuml;r&uuml;n yerine marka logosunu &ouml;n plana &ccedil;ıkarmak
+    <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi Web tasarımının birbirine bağlı bileşenlerinden <u>değildir</u>?</strong>
     - A-) Teknoloji
@@ -414,12 +484,12 @@
     - D-) Etkileşim tasarımı
     - **Cevap E-) İnternet**
     <hr />
-1. <strong>Aşağıdakilerden Web sitesi i&ccedil;erik &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Hedef kitlenin ihtiya&ccedil;larını yansıtmalarıdır.
+1. <strong>Aşağıdakilerden hangisi web sitesi i&#231;erik &#246;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) Hedef kitlenin ihtiya&#231;larını yansıtmalıdır.
     - B-) Sitenin amacını yansıtmalıdır.
-    - **Cevap C-) Metinler uzun bloklar halinde olmalıdır.**
-    - D-) G&ouml;z alıcı g&ouml;rseller kullanılmalıdır.
-    - E-) Ama&ccedil; sitenin mesajını basitleştirmek olmalıdır.
+    - **Cevap C-) Metinler uzun bloklar h&#226;linde olmalıdır.**
+    - D-) G&#246;z alıcı g&#246;rseller kullanılmalıdır.
+    - E-) Ama&#231; sitenin mesajını basitleştirmek olmalıdır.
     <hr />
 1. <strong>Aşağıdakilerden hangisi tipografinin ilgi alanlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Yazı boyutunun se&ccedil;imi
@@ -470,12 +540,23 @@
     - D-) Banner
     - **Cevap E-) CTA Butonu**
     <hr />
-1. <strong>Animasyonlu ve interaktif bannerlar ile ilgili aşağıdakilerden hangisi ge&ccedil;erli <u>değildir</u>?</strong>
-    - **Cevap A-) Animasyonlu bannerlar bilgi girme veya satın alma gibi etkinliklere olanak tanır.**
-    - B-) M&uuml;dahaleci ve dikkat &ccedil;ekici olma avantajına sahiptir.
-    - C-) Tıklanma oranlarını artırabilir.
-    - D-) Zengin medya teknolojileriyle oluşturulur.
-    - E-) M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatabilir.
+1. I.&nbsp;M&uuml;dahaleci ve dikkat &ccedil;ekici olma avantajına sahiptir.<br />
+II.&nbsp;Tıklanma oranlarını artırabilir.<br />
+III.&nbsp;Zengin medya teknolojileriyle oluşturulur.<br />
+IV.&nbsp;M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatabilir.<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri animasyonlu ve interaktif bannerların sunmuş olduğu &ouml;zelliklerdendir?&nbsp;</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) II ve III
+    - D-) I, II ve III
+    - **Cevap E-) I, II, III ve IV**
+    <hr />
+1. <strong>Web tasarımının teknolojiyle olan bağlantısı kapsamında aşağıda verilen bilgilerden hangisi ge&ccedil;erli <u>değildir</u>?</strong>
+    - **Cevap A-) Web siteleri tek bir tarayıcı ve platforma uyumlu olmalıdır.**
+    - B-) Web sitesini potansiyel olarak g&ouml;r&uuml;nt&uuml;leyecek milyonlarca kullanıcının &ccedil;ok &ccedil;eşitli bilgisayar sistemleri vardır.
+    - C-) Bir Web sitesinin kullanıcının sisteminde nasıl g&ouml;r&uuml;neceği &uuml;zerinde tam bir kontrol yoktur.
+    - D-) Renkler ve yazı tipleri faklı monit&ouml;rlerde farklı g&ouml;r&uuml;nt&uuml;lenebilir.
+    - E-) Bir sistemde m&uuml;kemmel g&ouml;r&uuml;nen bir yazı tipi boyutu başka bir sistemde &ccedil;ok b&uuml;y&uuml;k g&ouml;r&uuml;nebilir.
     <hr />
 1. <strong>Web tasarımında, bir sitenin kapsayıcı akışı ve yapısına ne ad verilir?</strong>
     - A-) İ&ccedil;erik
@@ -492,7 +573,7 @@
     - E-) Hedefli
     <hr />
 ## Unite 7
-1. <strong>Aşağıdakilerden hangisi bir i&ccedil;erik <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi i&ccedil;erik t&uuml;rlerinden&nbsp;<u>değildir</u>?</strong>
     - A-) Bloglar
     - **Cevap B-) Mobil cihazlar**
     - C-) Sosyal ağlar
@@ -555,12 +636,26 @@
     - D-) E-posta
     - E-) Infografik
     <hr />
-1. <strong>Karmaşık ve geniş bir alana yayılmış olan veri k&uuml;mlerini g&ouml;rsel grafiklerle sunma metodu olarak tanımlanan i&ccedil;erik pazarlama t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Karmaşık ve geniş bir alana yayılmış olan veri k&uuml;melerini g&ouml;rsel grafiklerle sunma metodu olarak tanımlanan i&ccedil;erik pazarlama t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Blog
-    - **Cevap B-) Infografik**
+    - **Cevap B-) İnfografik**
     - C-) Video
     - D-) E-kitap
     - E-) Sosyal medya
+    <hr />
+1. <strong>Bir i&ccedil;erik pazarlaması t&uuml;r&uuml; olarak videonun asıl amacı aşağıdakilerden hangisidir?</strong>
+    - A-) Takip&ccedil;i sayısını artırmak
+    - B-) &Uuml;nl&uuml; olmak
+    - **Cevap C-) T&uuml;ketici sorularını yanıtlayıp &ccedil;&ouml;z&uuml;mler sunmak**
+    - D-) T&uuml;keticiye doğrudan ulaşmak
+    - E-) B&uuml;y&uuml;k veriyi daha net ve kolay anlatmak
+    <hr />
+1. <strong>İ&ccedil;erik oluşturma s&uuml;recinde aşağıdakilerin hangisinden <u>bahsedilemez</u>?</strong>
+    - A-) Başlama ve bitiş zamanı kesin değildir.
+    - **Cevap B-) Hedef kitle analiz edilir.**
+    - C-) Hik&acirc;ye i&ccedil;in ana fikir oluşturulur.
+    - D-) Tutarlılık ve devamlılık gerektirir.
+    - E-) &Uuml;&ccedil; adımda tamamlanabilir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi i&ccedil;erik pazarlama stratejisi kurallarından biridir?</strong>
     - A-) T&uuml;keticiye &ouml;zg&uuml; belirlenmesi
@@ -599,11 +694,11 @@
     - D-) Reklam stratejisi
     - E-) Tipografi
     <hr />
-1. <strong>Televizyon, gazete, dergi, radyo ve A&ccedil;ıkhava gibi geleneksel medya ortamları &uuml;zerinde yapılan reklamcılık t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) &Ccedil;evrimdışı Reklamcılık**
+1. <strong>Televizyon, gazete, dergi, radyo ve a&#231;ıkhava gibi geleneksel medya ortamları &#252;zerinde yapılan reklamcılık t&#252;r&#252; aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) &#199;evrimdışı Reklamcılık**
     - B-) Kurumsal Reklamcılık
     - C-) Satış Odaklı Reklamcılık
-    - D-) &Ccedil;evrimi&ccedil;i Reklamcılık
+    - D-) &#199;evrimi&#231;i Reklamcılık
     - E-) Gerilla Reklamcılık
     <hr />
 1. &hellip;&hellip;&hellip;.. &hellip;&hellip;&hellip;&hellip;.. televizyon da yayın devam ederken genelde ekranın altında &ccedil;ıkan reklam olarak tanımlanırken &hellip;&hellip;&hellip;&hellip;.. &hellip;&hellip;&hellip;&hellip;. normal bir televizyon yayınında programa ara verilerek yayınlanan reklamlar olarak tanımlanabilir.<br />
@@ -664,11 +759,11 @@ IV. Maliyet<br />
     <hr />
 ## Unite 9
 1. <strong>Bir kimsenin kim olduğuna, kendi &ouml;z niteliklerine ve konumuna ilişkin toplumsal ve duygusal algısı olarak tanımlanabilecek kimlik t&uuml;r&uuml; aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
-    - A-) &Ouml;z Kimlik
-    - **Cevap B-) Bireysel Kimlik**
-    - C-) Toplumsal Kimlik
-    - D-) Duygusal Kimlik
-    - E-) Kişisel Kimlik
+    - A-) &Ouml;z kimlik
+    - **Cevap B-) Bireysel kimlik**
+    - C-) Toplumsal kimlik
+    - D-) Duygusal kimlik
+    - E-) Kişisel kimlik
     <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&nbsp;&nbsp;&nbsp; &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; bir kurumun s&ouml;yledikleri ve yaptıkları aracılığıyla kendisini sunması olarak tanımlanabileceği gibi bir kurumu benzersiz hale getiren &ouml;zelliklerin b&uuml;t&uuml;nc&uuml;l bir şekilde yansıması olarak da tanımlanabilmektedir.<br />
 <strong>Yukarıda boş bırakılan yere gelecek olan doğru ifade aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
@@ -714,8 +809,8 @@ Yukarıdaki g&ouml;rsellere ilişkin doğru tanımlama aşağıdaki şıklardan 
     - D-) Amblem
     - E-) İkon
     <hr />
-1. Yazının en temel işlevi işaretler yardımıyla d&uuml;ş&uuml;nce ve bilgi aktarmasıdır. Bununla beraber &hellip;&hellip;&hellip;&hellip;&hellip; bu tanımın &ouml;tesindedir ve bir yazı ile sanat yapma işidir.<br />
-<strong>Yukarıda boş bırakılan yere gelecek olan doğru ifade aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
+1. Yazının en temel işlevi işaretler yardımıyla d&#252;ş&#252;nce ve bilgi aktarmasıdır. Bununla beraber …………… bu tanımın &#246;tesindedir ve bir yazı ile sanat yapma işidir.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Logotype
     - **Cevap B-) Tipografi**
     - C-) Şablon
@@ -949,11 +1044,11 @@ III. Tek bir coğrafi alanda satışının yapılıyor olması<br />
     - E-) M&uuml;şteri memnuniyeti
     <hr />
 1. <strong>Aşağıdakilerden hangisi marka iletişimi kampanyasında b&uuml;t&ccedil;elemenin gerekliliğidir?</strong>
-    - A-) Teknolojik altyapıyı geliştirmek&nbsp;
+    - A-) Teknolojik altyapıyı geliştirmek
     - **Cevap B-) Firmanın tanıtım faaliyetlerinin ne kadara mal olduğunu &ouml;ğrenmek&nbsp;**
-    - C-) Firmaya ait &uuml;r&uuml;n &ccedil;eşitliliğini artırmak&nbsp;
-    - D-) Firma &ccedil;alışanlarının &uuml;cretlerini &ouml;demek&nbsp;
-    - E-) Ar-ge &ccedil;alışmaları yapmak&nbsp;
+    - C-) Firmaya ait &uuml;r&uuml;n &ccedil;eşitliliğini artırmak
+    - D-) Firma &ccedil;alışanlarının &uuml;cretlerini &ouml;demek
+    - E-) Ar-ge &ccedil;alışmaları yapmak
     <hr />
 1. <strong>Marka iletişimi kampanyası medya planlama s&uuml;recinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) En uygun maliyet
@@ -997,7 +1092,7 @@ III. Tek bir coğrafi alanda satışının yapılıyor olması<br />
     - D-) Sosyal medya organları
     - E-) İşitsel medya organları
     <hr />
-1. <strong>Aşağıdaki verilenlerden hangisi bir kampanya s&uuml;recinde en y&uuml;ksek iletişim b&uuml;t&ccedil;esine sahiptir?</strong>
+1. <strong>Aşağıdakilerden hangisi bir kampanya s&uuml;recinde en y&uuml;ksek iletişim b&uuml;t&ccedil;esine sahiptir?</strong>
     - **Cevap A-) Filmler**
     - B-) Broş&uuml;rler
     - C-) Dergi ve gazeteler
@@ -1027,6 +1122,13 @@ III.&nbsp;Hedef kitlenin &uuml;r&uuml;n&uuml; satın almaya ikna edilebilirliği
     - C-) Marka iletişimini belirlemek &ndash; hedef kitleyi belirlemek &ndash; sonu&ccedil;ları değerlendirmek
     - D-) Sosyal medya organlarını belirlemek &ndash; g&ouml;rsel medya organlarını belirlemek &ndash; işitsel medya organlarını belirlemek
     - E-) Kampanyayı belirlemek &ndash; hedef kitleyi belirlemek &ndash; sonu&ccedil;ları değerlendirmek
+    <hr />
+1. <strong>Bir medya planlaması yapılırken aşağıdaki hedef kitleye y&ouml;nelik &ouml;zelliklerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Medya planlaması esnasında hedef kitlenin yaşı dikkate alınmalıdır.
+    - **Cevap B-) Medya planlaması esnasında hedef kitlenin kişisel eğilimlerini ve zihinsel yetilerini dikkate almaya gerek yoktur.**
+    - C-) Medya planlama esnasında hedef kitlenin demografik &ouml;zellikleri olduk&ccedil;a &ouml;nemlidir.
+    - D-) Medya planlama esnasında hedef kitlenin t&uuml;m &ouml;zellikleri dikkate alınmalıdır.
+    - E-) Medya planlama esnasında hedef kitlenin sosyal gruplarla olan ilişkileri dikkate alınmalıdır.
     <hr />
 ## Unite 13
 1. <strong>Aşağıdaki ifadelerden hangisi marka stratejisi i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
@@ -1191,6 +1293,13 @@ III.&nbsp;Hedef kitlenin &uuml;r&uuml;n&uuml; satın almaya ikna edilebilirliği
     - C-) TOMS
     - D-) P&amp;G
     - **Cevap E-) Patagonia**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yaratıcı arketipinin marka kişiliğine sağladığı katkılardan biridir?</strong>
+    - A-) Bu marka kişiliğini kullanan markaların m&uuml;şterileri kendilerini iyi ve ahlaklı vatandaşlar olarak betimlerler.
+    - B-) M&uuml;şteriler toplumun belli başlı sorunlarını &ccedil;&ouml;zmeye hazır hissederler.
+    - C-) &Uuml;r&uuml;n&uuml;n fiyatı ortalamadan d&uuml;ş&uuml;kse de bir direniş sembol&uuml; olarak arketip markaya katkı yapacaktır.
+    - **Cevap D-) M&uuml;şteriler marka &uuml;zerinden kendilerini ifade şansı bulabilirler.**
+    - E-) Lekeli bir imaja sahip rakiplerinden ayrışarak m&uuml;şterilerine g&uuml;ven duygusu verir.
     <hr />
 1. <strong>Y&uuml;ksek fiyatlı veya daha se&ccedil;kin &uuml;r&uuml;nlerden olumlu bir şekilde ayrılmak isteyen markalar i&ccedil;in uygun bir strateji sağlayacak arketip aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Sıradan Adam/ Kadın**

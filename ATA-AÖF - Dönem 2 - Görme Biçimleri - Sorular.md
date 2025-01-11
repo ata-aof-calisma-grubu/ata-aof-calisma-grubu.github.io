@@ -44,6 +44,13 @@
     - D-) &Ouml;klid
     - E-) Demokritos
     <hr />
+1. <strong>G&ouml;rmenin ger&ccedil;ekleşebilmesi i&ccedil;in hem g&ouml;z&uuml;n hem de cismin aydınlık olması gerektiğini s&ouml;yleyen filozof aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Rene Descartes**
+    - B-) Eflatun
+    - C-) &Ouml;klid
+    - D-) Demokritos
+    - E-) Sokrates
+    <hr />
 1. &lsquo;&rsquo;Işık-g&ouml;z ve nesne arasında bir dizi karmaşık fizyolojik işlemler sonrasında &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. oluşur.&rsquo;&rsquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) algı
@@ -158,6 +165,13 @@
     - **Cevap C-) Karl Marks**
     - D-) James Gibson
     - E-) David Hume
+    <hr />
+1. <strong>Yaşamı devam ettirmek, bir şeyleri yapabilmek, &ouml;ğrenebilmek i&ccedil;in beynimiz bu g&ouml;rsel d&uuml;nyanın verilerinin bazılarını yok sayar, bazılarını değiştirir, bazılarını indirger ve o an yapılan işe g&ouml;re de bazı objelere odaklanır. Buna algıda ne ad verilir?</strong> 
+    - **Cevap A-) Se&ccedil;icilik**
+    - B-) Gruplama
+    - C-) Değişim
+    - D-) Dikkat
+    - E-) İndirgeme
     <hr />
 1. <strong>Kavramlardan hangisinin/hangilerinin algıya dayandığını s&ouml;yleyebiliriz?</strong>
     - A-) Koku
@@ -293,6 +307,13 @@ IV. Ağırlık<br />
     - D-) Doku alanı
     - E-) Duygu alanı
     <hr />
+1. <strong>G&ouml;rsel d&uuml;nyamızın en karakteristik &ouml;zelliği aşağıdakilerden hangisidir?</strong>
+    - A-) Değişken olması
+    - **Cevap B-) Durağan olması**
+    - C-) Tanımlanamaz olması
+    - D-) Soyut değerlere sahip olması
+    - E-) Renk alanlarından oluşması
+    <hr />
 1. <strong>G&ouml;rsel d&uuml;nya ve g&ouml;rsel alan tanımlarına aşağıdakilerden hangisi <u>uymaz</u>?</strong>
     - A-) G&ouml;rsel d&uuml;nya bizi 360 derece &ccedil;evreleyen, aşina olduğumuz g&ouml;rsel değerlere sahiptir.
     - B-) G&ouml;rsel d&uuml;nya, yaşadığımız toplumun &ouml;ğretileriyle anlamlandırılmıştır.
@@ -306,6 +327,14 @@ IV. Ağırlık<br />
     - C-) Bir konu &uuml;zerine odaklanma
     - D-) Heyecanlanmamız
     - E-) Dikkatimizin başka yerde olması
+    <hr />
+1. Derinlik algısı ........... dayanarak oluşturduğumuz g&ouml;rsel d&uuml;nyamıza dair algılama bi&ccedil;imidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) ge&ccedil;miş deneyimlerimize**
+    - B-) anlık deneyimlerimize
+    - C-) nesneler arası deneyimlerimize
+    - D-) duygusal deneyimlere
+    - E-) &ccedil;alışma deneyimlerimize
     <hr />
 1. I. Bir noktaya bakışımızı odakladığımızda g&ouml;r&uuml;nt&uuml; merkezde keskin, net ve detaylıdır.<br />
 II. G&ouml;r&uuml;nt&uuml;n&uuml;n merkezinde konturlar daha net g&ouml;z&uuml;k&uuml;rken, merkezden uzaklaştık&ccedil;a netlikleri azalır.<br />
@@ -400,6 +429,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) Anlatıcı
     - E-) Duygusal
     <hr />
+1. <strong>Temel olarak ikiye ayrılan g&ouml;rme bi&ccedil;imleri aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
+    - **Cevap A-) G&ouml;rsel D&uuml;nya / G&ouml;rsel Alan**
+    - B-) G&ouml;rsel Alan / D&uuml;zen
+    - C-) &Ccedil;er&ccedil;eve / D&uuml;zlem
+    - D-) &Ccedil;izgi / G&ouml;rsel D&uuml;nya
+    - E-) &Ccedil;er&ccedil;eve / Tonlama
+    <hr />
 1. G&ouml;rsel alanımız g&ouml;z&uuml;m&uuml;z&uuml;n şekline bağlı olarak sağdan sola &hellip;..&hellip;. derece, yukarı aşağı olarak da &hellip;.&hellip;.. derecelik g&ouml;r&uuml;ş alanına sahiptir.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 45 / 45
@@ -438,12 +474,27 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) İbni Heysem**
     - E-) Johannes Kepler
     <hr />
+1. 1876&rsquo;da kısa aralıklarla &ccedil;ektiği fotoğraflar sinema d&uuml;ş&uuml;ncesinin temelini oluşturdu. Yan yana getirilmiş bu fotoğrafların bir silindire yerleştirilip hızla &ccedil;evrilmesi atın koşma hareketini bir yanılsama olarak canlandırdı.<br />
+<strong>Paragrafta anlatılan fotoğraf&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    - A-) Lumiere Kardeşler
+    - **Cevap B-) Eadweard Muybridge**
+    - C-) Ansel Adams
+    - D-) Rechard Avedon
+    - E-) Man Ray
+    <hr />
 1. <strong>&ldquo;Dr. Tulp&rsquo;un Anatomi Dersi&rdquo; tablosu aşağıdakilerden hangi sanat&ccedil;ıya aittir?</strong>
     - A-) Michelangelo Merisi da Caravaggio
     - **Cevap B-) Rembrant Harmenszoon van Rijn**
     - C-) Man Ray
     - D-) Raffaello Sanzino
     - E-) Peter Paul Rubens
+    <hr />
+1. <strong>Empresyonizmin ilk sanat&ccedil;ılarından Claude Oscar Monet tarafından 1892-1894 yılları arasında otuz defadan fazla resimlenmiş olan katedral aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Rouen Katedrali**
+    - B-) Sainte Chapelle
+    - C-) Notre Dame Katedrali
+    - D-) Chartres Katedrali
+    - E-) Metz Katedrali
     <hr />
 1. <strong>Aşağıdakilerden hangisi g&ouml;rmemize olanak sağlayan doğal ışık kaynaklarından biri <u>değildir</u>?</strong>
     - A-) G&uuml;neş
@@ -533,13 +584,19 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - E-) St. Denis Kilisesi
     <hr />
 ## Unite 5
-1. <strong>Peter Schlemihl&rsquo;in Olağan&uuml;st&uuml; &Ouml;yk&uuml;s&uuml; (1814) kitabında, tam da Modern &Ccedil;ağı&#39;n başlangıcında, edebiyatta g&ouml;lgeyi bir metafor olarak varlık sorunu ile ilişkilendiren kitabın yazarı aşağıdakilerden hangisidir?</strong><br />
-
+1. <strong>Peter Schlemihl&rsquo;in Olağan&uuml;st&uuml; &Ouml;yk&uuml;s&uuml; (1814) kitabında, tam da Modern &Ccedil;ağı&#39;n başlangıcında, edebiyatta g&ouml;lgeyi bir metafor olarak varlık sorunu ile ilişkilendiren kitabın yazarı aşağıdakilerden hangisidir?</strong>
     - A-) La Fontaine
     - B-) Victor Hugo
     - **Cevap C-) Adelbert Von Chamisso**
     - D-) Gustav Flaubert
     - E-) Emile Zola
+    <hr />
+1. <strong>20. y&uuml;zyılın sonlarına doğru Sim&uuml;lasyon (Hiperger&ccedil;eklik) Kuramı ve postmodernizm &uuml;zerine yapmış olduğu &ccedil;alışmalarıyla bilinen kuramcı, yazar aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Jean Baudrillard**
+    - B-) Michel Foucault
+    - C-) Jacques Derrida
+    - D-) Jacques Lacan
+    - E-) Gilles Deleuze
     <hr />
 1. <strong>S&uuml;prematist Manifesto&rsquo;da, &ldquo;Kendimi formun sıfırına d&ouml;n&uuml;şt&uuml;rd&uuml;m ve &ccedil;&ouml;plerle dolu akademik sanat havuzunun dışına s&uuml;r&uuml;kledim.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) El Lissitzky
@@ -655,6 +712,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) ışığa**
     - E-) kompozisyona
     <hr />
+1. <strong>Sanatı karanlığı sonsuz olanakların kaynağı olarak g&ouml;ren ve &quot;Siyah Kare&quot; isimli tabloyu yapan sanat&ccedil;ının adı aşağıdakilerden hangisidir?</strong>
+    - A-) Michelangelo Merisi da Caravaggio
+    - **Cevap B-) Kazimir Malevi&ccedil;**
+    - C-) Salvador Dali
+    - D-) Pablo Picasso
+    - E-) Man Ray
+    <hr />
 ## Unite 6
 1. Resimde boşluk, mek&acirc;n, uzam rasyonel bir g&ouml;zlemin yanılsamasından &ccedil;ok duyguların aktarımı i&ccedil;in kullanılmıştır.<br />
 <strong>Tanımlaması hangi sanat akımını ifade eder?</strong>
@@ -663,6 +727,20 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap C-) Romantizm**
     - D-) Dadaizm
     - E-) F&uuml;t&uuml;rizm
+    <hr />
+1. <strong>Hangi sanat akımı ile birlikte sanat&ccedil;ılar resim y&uuml;zeyinde, artık sadece duyulara y&ouml;nelik olmayan, boşluk ve zaman ilişkisini d&uuml;ş&uuml;nsel bir kaygıyla ele almaya başladı?</strong>
+    - A-) K&uuml;bizm
+    - **Cevap B-) Empresyonizm**
+    - C-) Dadaizm
+    - D-) F&uuml;t&uuml;rizm
+    - E-) Romantizm
+    <hr />
+1. <strong>&quot;Nesne ile bağlarını k&ouml;kten koparırken, mek&acirc;n algısını da resmin dışında bırakarak tamamen değişime uğrattı.&quot; c&uuml;mlesinde hangi sanat hareketinden bahsedilmektedir?</strong>
+    - A-) K&uuml;bizm
+    - B-) Empresyonizm
+    - C-) F&uuml;t&uuml;rizm
+    - **Cevap D-) Soyut Sanat**
+    - E-) Konstr&uuml;ktivizm
     <hr />
 1. <strong>&ldquo;Resim y&uuml;zeyinde alışıldık mek&acirc;n algısını deneyimlememize karşın, bu mek&acirc;n i&ccedil;inde yer alan nesneler oluşları ve konumları ile fiziksel ger&ccedil;ekliğe uymaz.&rdquo; c&uuml;mlesi hangi sanat akımını tarif eder?</strong>
     - A-) Fovizm
@@ -787,12 +865,26 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) Gazzali
     - E-) İbn-i R&uuml;şt
     <hr />
+1. <strong>İslam d&uuml;nyasının gizemli kadın yaşamı ve s&uuml;sl&uuml; objelerini de konuları arasına alan Romantizm ve Neoklasisizm akımlarında etkili olan d&uuml;ş&uuml;nce hangisidir?</strong>
+    - A-) Klasisizm
+    - B-) Empresyonizm
+    - **Cevap C-) Oryantalizm**
+    - D-) K&uuml;bizm
+    - E-) S&uuml;rrealizm
+    <hr />
 1. <strong>Uzak Doğu resmi ve kaligrafisinde boşluğun resimsel g&ouml;rsel bir değer olarak resmi yapılan şeye eş değer bir &ouml;nemle ele alınması Batı sanatında hangi sanat akımına referans olmuştur?</strong>
     - A-) Fovizm
     - B-) Empresyonizm
     - C-) Neoklasisizm
     - **Cevap D-) Post-empresyonizm**
     - E-) S&uuml;rrealizm
+    <hr />
+1. <strong>Resim d&uuml;zleminde şekiller arasında oluşan boşluklar ve en arkada kalan d&uuml;zlemin par&ccedil;alanmış boşluklarının toplamı resmin mek&acirc;nıdır. Resim sanatında buna ne ad verilir?</strong>
+    - **Cevap A-) Mas ve Espas**
+    - B-) Kadraj
+    - C-) Val&ouml;r
+    - D-) Değer
+    - E-) Nesnel-G&ouml;lgesel
     <hr />
 1. <strong>Renk planlarının birbirini &ouml;rtmesi ile oluşan derinlik algısına ne ad verilir?</strong>
     - A-) Profil
@@ -873,6 +965,13 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) Robert Raushenberg**
     - E-) Max Ernst
     <hr />
+1. <strong>Sıfırı cebirsel ifade olarak işlemlere katmasıyla pek &ccedil;ok geometrik problemi &ccedil;&ouml;z&uuml;ms&uuml;zl&uuml;kten kurtaran d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?&nbsp;</strong>
+    - **Cevap A-) &Ouml;mer Hayyam**
+    - B-) Aristo
+    - C-) Farabi
+    - D-) Platon
+    - E-) Lao Tzu
+    <hr />
 1. <strong>Aşağıdakilerden hangisi resim y&uuml;zeyinde derinlik yaratmak i&ccedil;in kullanılan y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;izgi ve kont&ouml;r
     - B-) Bi&ccedil;im ve zemin
@@ -909,6 +1008,13 @@ Bu c&uuml;mle ile aşağıdaki hangi d&ouml;nem sanat&ccedil;ıları ifade edilm
     - C-) Maniyerizm
     - D-) Realizm
     - **Cevap E-) Rokoko**
+    <hr />
+1. <strong>Renk ve bi&ccedil;im ilişkilerini kuramsal olarak araştırmış, rengin her t&uuml;rl&uuml; kontrastını resimlerinde kullanmış olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    - A-) Piet Mondrian
+    - **Cevap B-) Wasili Kandinsky**
+    - C-) Mark Rothko
+    - D-) James Barry
+    - E-) Paul Signac
     <hr />
 1. <strong>Renklerin doğadaki hareketleriyle tanımlanacağını s&ouml;yleyen ve doğadaki renklerin karşıtlık ve kontrastlıklarına dikkat &ccedil;ekmiş olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Robert Delaunay**
@@ -1245,6 +1351,13 @@ III. Dikkatimizi dağıtır.<br />
     - D-) Algı g&uuml;c&uuml;
     - E-) Kavrama g&uuml;c&uuml;
     <hr />
+1. <strong>Sanat derslerinin amacı g&ouml;rsel, yorumsal olarak bi&ccedil;imlendirici d&uuml;ş&uuml;nme bi&ccedil;imine ulaşmaktır. 1961&rsquo;de kendine &ouml;zg&uuml; d&uuml;ş&uuml;nme bi&ccedil;imi olarak tanımladığı sanatın eğitim ile geliştirilebileceğini ortaya atan kuramcı aşağıdakilerden hangisidir?</strong>
+    - A-) Walter Groupius
+    - B-) Paul Klee
+    - C-) Herbert Read
+    - D-) J. F. Schiller
+    - **Cevap E-) R. Pfenning**
+    <hr />
 1. Sanat&ccedil;ı i&ccedil;in de &hellip;..............&hellip;.., doğuştan getirdiği g&ouml;rsel yetenek kadar &ouml;nemlidir. Dahası bu yeteneğin ..............&hellip;&hellip;.. d&ouml;n&uuml;şmesi i&ccedil;in zorunluluktur.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) deha/sanata
@@ -1253,7 +1366,7 @@ III. Dikkatimizi dağıtır.<br />
     - D-) sanat&ccedil;ı olmak/dehaya
     - **Cevap E-) &ccedil;alışmak/dehaya**
     <hr />
-1. <strong>D&uuml;nya Savaşı&rsquo;ndan sonra ABD&rsquo;de ortaya &ccedil;ıkan ve Harold Rosenberg&rsquo;in kullandığı terimle tanımlanan resim &uuml;slubu aşağıdakilerden hangisidir?</strong>
+1. <strong>1. D&uuml;nya Savaşı&rsquo;ndan sonra ABD&rsquo;de ortaya &ccedil;ıkan ve Harold Rosenberg&rsquo;in kullandığı terimle tanımlanan resim &uuml;slubu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Aksiyon Resmi**
     - B-) Kolaj
     - C-) Asemblaj

@@ -30,6 +30,13 @@
     - D-) Tasarımcının hayal g&uuml;c&uuml;ne bağlı olarak farklılık g&ouml;sterebilir.
     - **Cevap E-) Bir tasarımdaki boşluğun kendine ait tasarım dili yoktur.**
     <hr />
+1. <strong>Herhangi bir tasarım fikrine y&ouml;nelik g&ouml;rsel d&uuml;ş&uuml;nmek aşağıdakilerden hangisini gerektirir?</strong>
+    - A-) Kimlik
+    - B-) Tipografik metin
+    - C-) Tek bir g&ouml;rsel &ouml;ge
+    - **Cevap D-) Sonsuz bir deneme ve bakış a&ccedil;ısı**
+    - E-) Sınırsız bir boşluk
+    <hr />
 1. <strong>Tasarımdaki boşluk anlayışıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Tasarım a&ccedil;ısından her bir kavram ve g&ouml;rsel &ouml;ge, boşluk kavramı a&ccedil;ısından değer taşımaz.**
     - B-) Grafik &uuml;r&uuml;nleri kapsar.
@@ -127,6 +134,20 @@ III. Katman<br />
     - E-) Boşluk anlayışı, tasarımcının yaratıcı d&uuml;ş&uuml;nmeye bağlı olarak tasarım s&uuml;recinin her aşamasına yansır.
     <hr />
 ## Unite 2
+1. <strong>Algı d&uuml;nyamızı etkileyen &ouml;n-arka plan ilişkisinin yaşamdaki etkinliğine y&ouml;nelik olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Her bir nesneyi bir diğeriyle ilişkilendirmemizi sağlar.
+    - B-) Şehir planlamasına y&ouml;nelik değer taşır.
+    - **Cevap C-) G&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml;ne y&ouml;nelik algımızı yanıltmaz.**
+    - D-) G&ouml;rsel iletişime katkı sağlar.
+    - E-) Tasarım &uuml;r&uuml;n&uuml;ne değer katar.
+    <hr />
+1. <strong>&Ouml;n plan ilişkisi kapsayan tasarımdaki katmanlarla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Tasarım s&uuml;recinde aktif ya da pasif rol &uuml;stlenmez.**
+    - B-) Tasarım y&uuml;zeyindeki tek bir grafik &ouml;ge, bir veya birden &ccedil;ok katmanlı i&ccedil;erebilir.
+    - C-) Tasarımdaki vurgunun belirlenmesinde etken olabilir.
+    - D-) İzleyenin dikkatinin nereye ve nasıl bir şekilde &ccedil;ekileceğini etkileyebilir.
+    - E-) Renk, doku, denge ve y&ouml;n gibi pek &ccedil;ok kavram a&ccedil;ısından değer taşıyabilir.
+    <hr />
 1. <strong>&ldquo;Tasarım yeni fikirler bulabileceğiniz devasa bir alan&rdquo; ifadesi aşağıdakilerden hangisine aittir?</strong>
     - A-) Fletcher
     - **Cevap B-) Arbuzov**
@@ -342,12 +363,28 @@ V.&nbsp;Bir grafik kompozisyonun tasarım s&uuml;recinde, d&ouml;rt temel kavram
     - E-) III ve V
     <hr />
 ## Unite 4
+1. Boyutları hakkında geniş bilgilere sahip olduğumuz fig&uuml;r ya da nesnelerin ................. yerleştirilmesi ................ D&ouml;nemi&#39;nden bug&uuml;ne kullanılmaktadır.<br />
+<strong>Boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) arka plana / R&ouml;nesans**
+    - B-) &ouml;n tarafa / Barok
+    - C-) kenarlara / Modern Sanat
+    - D-) &uuml;st kısıma / Barok
+    - E-) alt kısıma / R&ouml;nesans
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarımda derinlik etkisi oluşturma y&ouml;ntemlerinden biri <u>değildir</u>?</strong>
     - A-) &Ouml;gelerin geriye doğru giderek k&uuml;&ccedil;&uuml;lmesi
     - B-) Parlak renklerin &ouml;ne &ccedil;ıkması
     - **Cevap C-) Rengin psikolojik etkisinden yararlanılması**
     - D-) Netlik unsurunun kullanılması
     - E-) Zıtlıklara yer verilmesi
+    <hr />
+1. Atmosferik perspektifte nesnelerin fiziksel &ouml;zeliklerinde yaşanan değişim nesne ile izleyen arasına daha fazla ................ girmesiyle a&ccedil;ıklanmaktadır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) boşluk**
+    - B-) detay
+    - C-) &ouml;ge
+    - D-) renk
+    - E-) g&ouml;lge
     <hr />
 1. I. İzleyici bakışının tam olarak resme yerleşmesi &ldquo;Giotto&rdquo; ile olmuştur.<br />
 II. &Ccedil;izgisel perspektif R&ouml;nesans&rsquo;ın kazandırdığı b&uuml;y&uuml;k yeniliklerden biridir.<br />
@@ -467,6 +504,14 @@ III. G&uuml;neş ışınları yapay aydınlatmaların tersine radyal bi&ccedil;i
     - E-) Zeminde yer alan degrade renk kullanımı ile hacimsel g&ouml;r&uuml;nt&uuml;n&uuml;n yakalanması
     <hr />
 ## Unite 5
+1. Ger&ccedil;ek doğa yerine insanın yarattığı metropolleri esrarengiz doğa olarak deneyimleyen ....................., kolaj ve ...................... ile &ouml;zne-nesne arasındaki gerilimli dengeyi kurabilmek i&ccedil;in nesneyi &ouml;znelleştirip kendi ger&ccedil;ekliğinden kopararak &ouml;l&uuml; doğa resimlemelerinde yeniden kurdular.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) k&uuml;bistler / dekupajlar
+    - B-) dadistler / boyamalar
+    - C-) postmodernistler / heykeller
+    - **Cevap D-) ger&ccedil;ek&uuml;st&uuml;c&uuml;ler / fotomontajlar**
+    - E-) konstr&uuml;ktivistler / asamblajlar
+    <hr />
 1. I. Fotomontaj y&ouml;ntemi K&uuml;bizm ile birlikte uygulanmaya başlamıştır.<br />
 II. Kolaj, analitik ve sentetik K&uuml;bizme kolay uyum sağlayacak yapıdaydı.<br />
 III. Kolaj K&uuml;bizm ile etkin bir şekilde tekrar g&uuml;ndeme gelmiştir.<br />
@@ -593,6 +638,21 @@ III. Marksist Estetik, sanatı yaşamın bir yansıması olarak ele alır.<br />
     - D-) Yalnız II
     - E-) I, II ve III
     <hr />
+1. &ldquo;........................ zihinsel s&uuml;re&ccedil;lerle doğup gelişen fikir, g&uuml;d&uuml; ve yeni bir eylemin başlatıcısıdır. Bu y&ouml;ntemle zihninde oluşturulan bir&ccedil;ok imge ve imgeler ilişkisiyle ger&ccedil;ekte var olmayan bir g&ouml;r&uuml;n&uuml;m&uuml; ortaya &ccedil;ıkartılır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Algılama
+    - **Cevap B-) İmgelem**
+    - C-) Soyutlama
+    - D-) Metafor
+    - E-) İmajinasyon
+    <hr />
+1. <strong>Sanatsal imgenin oluşturulmasında doğru sıralama aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Duyum-Algılama-Sezgi-Bi&ccedil;imlendirme**
+    - B-) Algılama-Sezgi-Duyum- Bi&ccedil;imlendirme
+    - C-) Sezgi-Algılama-Duyum-Bi&ccedil;imlendirme
+    - D-) Bi&ccedil;imlendirme-Sezgi-Duyum-Algılama
+    - E-) Algılama-Bi&ccedil;imlendirme-Duyum-Sezgi
+    <hr />
 1. <strong>&ldquo;İmajinasyon&rdquo; i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - **Cevap A-) İmgelerin zihinde depolanmasıdır.**
     - B-) Eş anlamlısı &ldquo;imgeleme&rdquo;dir.
@@ -693,6 +753,13 @@ III.&nbsp;Duyu bilgileri ile tasarımları imgeler<br />
     - C-) Akılda kalıcılık
     - D-) Ayırt edicilik
     - E-) Bilginin doğru aktarımı
+    <hr />
+1. <strong>Sanatsal imgelerin gelişimiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İmgeye dair ilk &ouml;rnekler ilkel insanın mağara duvarlarına ya da kayalara resmettikleri betimlemelerde g&ouml;r&uuml;l&uuml;r.
+    - B-) Arkaik toplumlarda temsil ettiği nesneyi ve durumu &ccedil;ağrıştıran, soyutlayan piktogram ve ideogram oluşumları dikkat &ccedil;ekmektedir.
+    - C-) Mısır medeniyetinde ruhun imgede ve imge sayesinde yasayacağına inanılır.
+    - D-) Orta &Ccedil;ağ Sanatı&rsquo;nda imgeler &ccedil;oğunlukla kutsal &ouml;ğretileri ileten unsurlar olarak karşımıza &ccedil;ıkmıştır.
+    - **Cevap E-) R&ouml;nesans ile birlikte imge yeniden insan ve onun &ccedil;evresinin dini anlayışına odaklanmıştır.**
     <hr />
 ## Unite 7
 1. George Orwell, Hayvan &Ccedil;iftliği isimli kitabında bir &ccedil;iftlikteki hayvanları, politik kimliklerle simgesel olarak eşleştirir.<br />
@@ -805,6 +872,13 @@ III. Terapotik<br />
     - **Cevap C-) Kavramsal Sanat**
     - D-) Realist Sanat
     - E-) Empresyonist Sanat
+    <hr />
+1. <strong>Aşağıdakilerden hangisi metaforun t&uuml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Soyut-somut metafor
+    - B-) Mutlak metafor
+    - C-) Karma metafor
+    - **Cevap D-) Sevimli metafor**
+    - E-) Genişletilmiş metafor
     <hr />
 1. <strong>Aşağıdakilerden hangisi &quot;geleneksel metafor yaklaşımları&quot; ortaya atan temsilcilerden biri <u>değildir</u>?</strong>
     - A-) Platon
@@ -924,6 +998,14 @@ III. Sentaks<br />
     - D-) Yalnız II
     - **Cevap E-) I, II ve III**
     <hr />
+1. ...........; bir nesne, fig&uuml;r ya da olayı daha geniş kitlelerce ortak bir manada anlaşılır kılmaya yarayan sistematik grafik anlatım bi&ccedil;imleridir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Piktogram**
+    - B-) Sembol
+    - C-) İşaret
+    - D-) İdeogram
+    - E-) Hiyeroglif
+    <hr />
 1. <strong>Aşağıdakilerden hangisi sembolik işaretlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Matematiksel işaretler
     - B-) M&uuml;zik işaretleri
@@ -1038,8 +1120,16 @@ III. Sentaks<br />
     - D-) Sagmeister
     - E-) Brody
     <hr />
+1. İ&ccedil;eriğin tasarımdaki etkisini d&uuml;ş&uuml;nd&uuml;ğ&uuml;m&uuml;zde, farklı g&ouml;r&uuml;şlerden s&ouml;z edilebilir.<br />
+<strong>Bu ifadeden hareketle aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İ&ccedil;erik, tasarımcıyı d&uuml;ş&uuml;nmeye sevk eden bir olgudur. Ancak bu olgu, tasarım fikri a&ccedil;ısından kapsamlı bir araştırma yapmayı gerektirir. Bu y&ouml;n&uuml;yle i&ccedil;erik, s&ouml;zel ve g&ouml;rsel bilgiyi kapsayabilir.
+    - B-) Tasarım fikrinin var olma şeklini belirleyen i&ccedil;eriktir.
+    - C-) İ&ccedil;erik, imge &uuml;retimine y&ouml;nelik tasarımcının zihinsel s&uuml;recini ve algı d&uuml;nyasını etkiler.
+    - **Cevap D-) Tasarımcının i&ccedil;eriğe yaklaşım bi&ccedil;imi, bir d&uuml;zen gerektirmez.**
+    - E-) İ&ccedil;erikle ilişkilendirilen kavram ve anahtar kelimeler, grafik &uuml;r&uuml;n&uuml;n bi&ccedil;imsel yaklaşımı etkileyecektir.
+    <hr />
 1. <strong>&ldquo;Geri d&ouml;n&uuml;ş&uuml;m&rdquo; temalı bir afiş tasarımı i&ccedil;in yapılacak araştırma i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili olarak bilimsel veri niteliği taşıyan kongre veya sempozyumların d&uuml;zenlenip d&uuml;zenlenmediği araştırılabilir.&nbsp;
+    - A-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili olarak bilimsel veri niteliği taşıyan kongre veya sempozyumların d&uuml;zenlenip d&uuml;zenlenmediği araştırılabilir.
     - **Cevap B-) Belirlenen bir zaman dilimine ve incelemeye gerek yoktur.**
     - C-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili istatiksel verilerin yer aldığı tablo ve grafikler incelenebilir.
     - D-) İ&ccedil;inde geri d&ouml;n&uuml;ş&uuml;me y&ouml;nelik kuramsal bilgilerin yer aldığı kitaplar taranabilir.
@@ -1263,6 +1353,14 @@ III. Metafor<br />
     - C-) II ve III
     - D-) Yalnız II
     - E-) I, II ve III
+    <hr />
+1. Doğada bir&ccedil;ok bitkinin yaprak diziliminde, gelişiminde, hayvanların anatomik yapısında, insan anatomisinde karşımıza &ccedil;ıkan ve sanat&ccedil;ılar tarafında da kullanılan bir form&uuml;ld&uuml;r.<br />
+<strong>Tanımlamada aşağıdakilerden hangisi ifade edilmektedir?</strong>
+    - A-) Hiyerarşi
+    - **Cevap B-) Altın Oran**
+    - C-) Simetri
+    - D-) Eşit En Sistemi
+    - E-) Espas
     <hr />
 1. &ldquo;Tasarımda dolu alanlara karşıt negatif alanların bırakılması ilkesine ................ ................. kullanımı adı verilir.&rdquo;<br />
 <strong>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>

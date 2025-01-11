@@ -56,6 +56,13 @@
     - D-) Ambalaj, dergi, kitap
     - E-) Moda, tıp, kitap
     <hr />
+1. <strong>Aşağıdaki ifadelerden hangisi illustrasyon teriminin tanımlarından biri <u>değildir</u>?</strong>
+    - A-) İll&uuml;strasyon bir metni, bir olguyu, bir durumu g&ouml;rsel yolla a&ccedil;ıklamaya y&ouml;nelik resimlemelerdir.
+    - B-) Kitap i&ccedil;indeki yazıyı a&ccedil;ıklayan ve s&uuml;sleyen bir &ouml;gedir.
+    - C-) İll&uuml;strasyon artık canlı ve s&uuml;rekli gelişmekte olan g&uuml;&ccedil;l&uuml; bir uygulamalı sanat bi&ccedil;imidir.
+    - D-) İll&uuml;strasyon, izah edici resim anlamına gelmektedir.
+    - **Cevap E-) İllustrasyon geleneksel sanatlardan biri olarak ifade edilmektedir.**
+    <hr />
 1. <strong>Aşağıdaki sanat akımlarından hangisi 20. y&uuml;zyılın başlarında ortaya &ccedil;ıkmış ve modern boyutta bir tarza d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
     - A-) Lale Devri Sanatı
     - **Cevap B-) Art Deco Sanat Akımı**
@@ -76,6 +83,20 @@
     - **Cevap C-) Karakalem Tekniği**
     - D-) M&uuml;rekkepler
     - E-) Dijital Uygulama Teknikleri
+    <hr />
+1. <strong>Aşağıdakilerden hangisi İspanya&rsquo;da bulunan bir mağaradır?</strong>
+    - A-) Magura mağarası
+    - B-) Lascaux Mağarası
+    - **Cevap C-) Altamira Mağarası**
+    - D-) Bhimbetka Mağarası
+    - E-) Eller Mağarası
+    <hr />
+1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong> 
+    - A-) Yoğun &ccedil;izgiler
+    - B-) Karışık renkler
+    - C-) Ayrıntılı &ccedil;izgiler
+    - **Cevap D-) Minimal etkiler**
+    - E-) Karışık desenler
     <hr />
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi bilgisayarın gelişim s&uuml;recine ait d&ouml;nemlerden biridir?</strong> 
@@ -155,8 +176,22 @@
     - D-) İbrahim &Ccedil;allı
     - E-) Matrak&ccedil;ı Nasuh
     <hr />
+1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri&nbsp;<u>değildir</u>?</strong> 
+    - A-) Y&uuml;ksek &ccedil;ıkış hızı
+    - B-) Kaliteli renkli baskı imk&acirc;nı
+    - C-) Kaliteli siyah-beyaz baskı imk&acirc;nı
+    - **Cevap D-) &Ccedil;ok b&uuml;y&uuml;k ebatlı baskı imk&acirc;nı**
+    - E-) D&uuml;ş&uuml;k &ccedil;ıkış maliyeti
+    <hr />
+1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong> 
+    - A-) Agrandiz&ouml;r
+    - **Cevap B-) Pikaj&ouml;r**
+    - C-) Viz&ouml;r
+    - D-) Grafik&ccedil;i
+    - E-) Desinat&ouml;r
+    <hr />
 ## Unite 3
-1. <strong>Alfabeyi kim bulmuştur?</strong> 
+1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Romalılar
     - **Cevap B-) Fenikeliler**
     - C-) Yunanlılar
@@ -420,12 +455,26 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) Mezopotamya topraklarında
     - E-) Fransa Lascaux Mağarası&#39;nda
     <hr />
+1. <strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Basımı yapılacak tasarımın k&acirc;ğıda &ccedil;izilmesi
+    - B-) Tasarımın linol blok &uuml;zerine aktarılması
+    - **Cevap C-) Baskı sonrası k&acirc;ğıt kalıptan dikkatlice ayrılarak kurutulmak &uuml;zere kuruma rafına yerleştirilmesi**
+    - D-) Linol blok &uuml;zerindeki negatif alanların oyulması
+    - E-) Baskı m&uuml;rekkebinin d&uuml;z bir y&uuml;zey &uuml;zerine spatula ile s&uuml;r&uuml;lmesi
+    <hr />
 1. <strong>Aşağıdaki tekniklerin hangisinde oluşturulan g&ouml;r&uuml;nt&uuml; baskıda pozitif olarak &ccedil;ıkar?</strong>
     - A-) Leke baskı
     - **Cevap B-) Y&uuml;ksek yedirme**
     - C-) Yumuşak yedirme
     - D-) Kabartma
     - E-) Asite yedirme
+    <hr />
+1. <strong>Yağ ile suyun birbirini itmesi temel ilkesine g&ouml;re &ccedil;alışan baskı tekniği aşağıdakilerden hangisidir?</strong>
+    - A-) Mono baskı
+    - B-) Linol baskı
+    - C-) Serigrafi baskı
+    - D-) Şablon baskı
+    - **Cevap E-) Litografi (taş) baskı**
     <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
@@ -494,6 +543,20 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Kişilik
     - **Cevap E-) &Ccedil;evre**
     <hr />
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel tasarım a&ccedil;ısından, kurumsal kimlik tasarımının işlev g&ouml;receği farklı elemanlar arasında <u>yer almaz</u>?</strong>
+    - A-) Logo
+    - B-) Yazı tipi
+    - **Cevap C-) &Ouml;n &ccedil;alışma**
+    - D-) Stil Y&ouml;nergeleri (Style guides)
+    - E-) G&ouml;rseller
+    <hr />
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap A-) Resim &ccedil;izme**
+    - B-) &Ouml;n &ccedil;alışma
+    - C-) Tasarım aşaması
+    - D-) Revizyon-d&uuml;zeltme aşaması
+    - E-) Tasarımın onaylanması ve teslim
+    <hr />
 1. Kurumsal kimlik tasarımında tipografi &ouml;nemli bir rol oynamaktadır.<br />
 <strong>Buna g&ouml;re &ouml;zellikle yazı tipinin se&ccedil;ilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisine <u>dikkat edilmez</u>?</strong>
     - A-) Fotoğraf
@@ -508,6 +571,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Yazı Tipi
     - D-) G&ouml;rsel Standartlar
     - **Cevap E-) B&uuml;t&ccedil;e**
+    <hr />
+1. <strong>ToysRUs firmasının a&ccedil;tığı dava kurumsal kimlik tasarımı ile ilgili aşağıdakilerden hangisini anlatmaktadır?</strong>
+    - **Cevap A-) Tasarım yapılırken t&uuml;m &ouml;geler &ouml;zg&uuml;n olmalıdır.**
+    - B-) Tasarım yapılırken m&uuml;d&uuml;rden izin alınmalıdır.
+    - C-) Tasarım yapılırken sulu boya kullanılması şarttır.
+    - D-) Tasarım yapılırken kurumun b&uuml;t&ccedil;esi yazılmalıdır.
+    - E-) Tasarım yapılırken pastel renk kullanılması şarttır.
     <hr />
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı dallarından biridir?</strong>
@@ -593,6 +663,20 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Daha &ouml;nce algılanmış olan bir nesne veya olayın bilin&ccedil;te sonradan ortaya &ccedil;ıkan kopyası
     - D-) Bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağı
     - **Cevap E-) İnsan aklının erebileceği olgu**
+    <hr />
+1. <strong>&Ccedil;evresel grafik tasarım kapsamında faaliyet g&ouml;steren &Ccedil;evresel Grafik Tasarım Kurumu (Society for Environmental Graphic Design/SEGD) merkezi nerededir?</strong>
+    - **Cevap A-) Amerika Birleşik Devletleri**
+    - B-) İtalya
+    - C-) T&uuml;rkiye
+    - D-) Avusturya
+    - E-) Almanya
+    <hr />
+1. <strong>Bilgi &ccedil;ağında tasarım ortamlarının da gelişimiyle, bilgi yoğunluğunun artmasıyla bilgi kirliliğinin de yoğun bir bi&ccedil;imde kendini g&ouml;stermesi beraberinde aşağıdakilerden hangisini getirmektedir?</strong>
+    - A-) Bilgilendirme tasarımının tanımı değişmiştir.
+    - B-) Şemalara g&ouml;sterilen ilgi azalmıştır.
+    - C-) Web tasarımına ihtiya&ccedil; olmuştur.
+    - **Cevap D-) Bilgilendirme tasarımı &ouml;nem kazanmıştır.**
+    - E-) &Ccedil;ok renkli haritalar tasarlamıştır.
     <hr />
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi elektromanyetik tayf i&ccedil;erisindeki G&ouml;r&uuml;n&uuml;r Işık Tayfı i&ccedil;in doğru aralıktır?</strong>
@@ -751,6 +835,14 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) BMP
     - E-) SVG
     <hr />
+1. Temel bilgi birikimi isteyen dizgi işleminde dikkat edilmesi gereken diğer bazı &ouml;nemli hususlar bulunmaktadır.<br />
+<strong>Aşağıdakilerden hangisi bu hususlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Dizgi işlemini kelime işlemci programlar kullanarak yapmak
+    - B-) Dizgi işleminde boşluk (space) karakterini, yerlerinde ve doğru bi&ccedil;imde kullanmak
+    - C-) Metin hizalamalarını &ldquo;TAB&rdquo; tuşu kullanılarak yapmak
+    - D-) Paragraf başı girintilerini artırmak i&ccedil;in &ldquo;boşluk&rdquo; veya &ldquo;tab&rdquo; tuşu kullanmamak
+    - **Cevap E-) Paragraf arası boşluk bırakmak i&ccedil;in birden fazla &quot;delete&quot; boşluğu kullanmak**
+    <hr />
 1. G&ouml;rsel iletişim &uuml;r&uuml;n&uuml;nde kullanılacak dijital g&ouml;r&uuml;nt&uuml;ler &ccedil;eşitli y&ouml;ntemlerle temin edilir.<br />
 <strong>Aşağıdakilerden hangisi bu y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) Tarayıcı ile bilgisayara g&ouml;r&uuml;nt&uuml; aktarılabilir.
@@ -843,6 +935,20 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Grafik
     - D-) İll&uuml;strasyon
     - E-) Sembol tasarımı
+    <hr />
+1. <strong>Aşağıdakilerden hangisi eskiz hazırlama malzemelerinden biri <u>değildir</u>?</strong>
+    - A-) K&acirc;ğıt
+    - B-) Kalem
+    - **Cevap C-) Defter**
+    - D-) &Ccedil;izim ara&ccedil;ları
+    - E-) Renklendirme
+    <hr />
+1. <strong>Bir tasarımcı tasarıma hangi evreden başlar?</strong>
+    - A-) Modelleme
+    - B-) Resmetme
+    - **Cevap C-) Eskiz &ccedil;izme**
+    - D-) Sembol tasarlama
+    - E-) Grafik oluşturma
     <hr />
 1. I. Tasarım d&uuml;ş&uuml;ncesini etkiler.<br />
 II. Tasarıma y&ouml;n verir.&nbsp;<br />
@@ -979,7 +1085,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - A-) İ&ccedil;eriği hakkında doğrudan bilgi verir.
     - B-) &Uuml;r&uuml;n&uuml; g&ouml;sterir.
     - C-) Ambalajın baskılı alanları dışında ambalajın i&ccedil;i izlenebilir.
-    - D-) Kullanım, koruma, saklama koşulları hakkında bilgi verir.&nbsp;
+    - D-) Kullanım, koruma, saklama koşulları hakkında bilgi verir.
     - **Cevap E-) M&uuml;şterinin fikir sahibi olması i&ccedil;in ambalajda &uuml;r&uuml;n g&ouml;rseli kullanılır.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında kullanım kolaylığı işlevi <u>değildir</u>?</strong>
@@ -997,8 +1103,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - E-) Bilgi verme işlevi
     <hr />
 1. ....................... tarafından k&acirc;ğıt katlama makinesinin icadı, taş baskının (litography) keşfi, k&acirc;ğıdın daha hızlı ve ucuz &uuml;retilmesini sağlayan k&acirc;ğıt makinasının &uuml;retilmesi, kutuların &uuml;zerine baskı yapılmaya başlanması gibi ambalaj a&ccedil;ısından &ouml;nemli gelişmelere perde olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) &Ccedil;inliler
     - B-) Hintli rahipler
     - C-) Fenikeliler
@@ -1190,6 +1295,13 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - C-) M&uuml;zikler
     - D-) Videolar
     - **Cevap E-) Derlemeler**
+    <hr />
+1. <strong>İnsanın nesnelerle kurduğu en temel iletişim modeli aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Tasarım**
+    - B-) Resim
+    - C-) Dil
+    - D-) Felsefe
+    - E-) İşaret
     <hr />
 1. <strong>G&uuml;n&uuml;m&uuml;zde tasarım hangi teknoloji &uuml;r&uuml;n&uuml;n&uuml;n dijital bir ger&ccedil;ekliğidir?</strong>
     - **Cevap A-) Bilgisayar**

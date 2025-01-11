@@ -7,16 +7,15 @@
     - **Cevap D-) Kurumsal bir kimlik taşıması&nbsp;**
     - E-) G&ouml;rsel &ouml;yk&uuml;leme oluşturması
     <hr />
-1. &ldquo;&Ccedil;ocuk konuşmaya başlamadan &ouml;nce bakıp tanımayı &ouml;ğrenir&rdquo;<br />
-<strong>Yukarıdaki c&uuml;mle kime aittir?</strong>
+1. &Ccedil;ocuk konuşmaya başlamadan &ouml;nce bakıp tanımayı &ouml;ğrenir.<br />
+<strong>C&uuml;mlesi aşağıdakilerden hangisine aittir?</strong>
     - A-) Steven Heller
     - **Cevap B-) John Berger**
     - C-) Roland Barthes
     - D-) Beatrix Potter
     - E-) Jon Meli&eacute;s
     <hr />
-1. &ldquo;Gibi&rdquo; ilgecini kullanmadan, bir kavramın yerine bir diğerini koyarak anlam oluşturmaya &hellip; denir.<br />
-<strong>Yukarıdaki boşluğu aşağıdakilerden hangisiyle tamamlarsınız?</strong>
+1. <strong>&ldquo;Gibi&rdquo; ilgecini kullanmadan, bir kavramın yerine bir diğerini koyarak anlam oluşturmaya ne ad verilir?</strong>
     - A-) Bitiştirme
     - B-) S&uuml;sleme
     - C-) Betimleme
@@ -41,7 +40,7 @@
     - A-) Petrogliflerin kazıma y&ouml;ntemi ile yapılmış olması
     - B-) Doğal boyalar kullanılmış olması
     - C-) İlk &ouml;rneklerin &ccedil;izgi ve nokta gibi geometrik formlar i&ccedil;ermeleri
-    - D-) Avcı-toplayıcı insanlar tarafından yapılmaları&nbsp;
+    - D-) Avcı-toplayıcı insanlar tarafından yapılmaları
     - **Cevap E-) Hepsi**
     <hr />
 1. <strong>Mağara resimleri ni&ccedil;in yapılmış olabilir?</strong>
@@ -52,7 +51,7 @@
     - **Cevap E-) Bilgilendirme i&ccedil;in**
     <hr />
 1. <strong>Bilinen en eski mağara resimleri hangi mağaradadır?</strong>
-    - A-) Eller Mağarası / Arjantin&nbsp;
+    - A-) Eller Mağarası / Arjantin
     - **Cevap B-) Blombos Mağarası / G&uuml;ney Afrika**
     - C-) Altamira Mağarası / İspanya
     - D-) Bhimbetka Mağarası / Hindistan
@@ -67,7 +66,7 @@
     <hr />
 1. <strong>1940&rsquo;ta Fransa&rsquo;da keşfedilip 1979&rsquo;da UNESCO tarafından D&uuml;nya Mirası Listesine alınan mağara hangisidir?</strong>
     - A-) Serra de Capivara Mağarası
-    - B-) Altamira Mağarası&nbsp;
+    - B-) Altamira Mağarası
     - **Cevap C-) Lascaux Mağarası**
     - D-) Chauvet Mağarası
     - E-) Laas Gaal Mağarası
@@ -78,6 +77,28 @@
     - C-) Taş / kaya
     - D-) Kumaş
     - **Cevap E-) Yaprak**
+    <hr />
+1. <strong>K&acirc;ğıdı aşağıdakilerden hangisi icad etmiştir?</strong>
+    - **Cevap A-) Chai Lun**
+    - B-) Kaşgarlı Mahmud
+    - C-) Jean Mi&eacute;lot
+    - D-) Johnannes Gutenberg
+    - E-) John of Arderne
+    <hr />
+1. <strong>Anadolu&rsquo;da yazıldığı bilinen ilk T&uuml;rk&ccedil;e kitap aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Tuhfe-i M&uuml;b&acirc;rrizi - H&acirc;kim Bereket**
+    - B-) Acaib&uuml;&rsquo;l Mahl&ucirc;kat ve Garaib&uuml;&rsquo;l Mevc&ucirc;dat - Kazvini
+    - C-) Kutadgu Bilig - Yusuf Has Hacib
+    - D-) D&icirc;v&acirc;n&uuml; Lugati&#39;t-T&uuml;rk - Kaşgarlı Mahmud
+    - E-) Keşf&uuml;z-z&uuml;n&ucirc;n &ndash; Katip &Ccedil;elebi
+    <hr />
+1. İlk b&ouml;l&uuml;mde ac&acirc;yip, mahl&ucirc;kat ve garip kelimelerinin anlamlarından, İslam, Roma ve İran takvimlerinden, evrende yaratılmış canlı cansız varlıklardan, M&uuml;sl&uuml;manların astronomik bilgilerinden, gezegenlerden, yıldızlardan, meleklerden bahsedilir. Evrenin eşsiz g&uuml;zellikleri ve g&ouml;k cisimlerinin insan hayatı &uuml;zerindeki etkileri vurgulanır. Diğer b&ouml;l&uuml;mde ateş, hava, su, toprak gibi elementler, denizler, yery&uuml;z&uuml;nde denge sağlayan dağlar, adalar, şehir ve kasabalar vb. coğrafi b&ouml;lgeler, jeolojik oluşumlar; bitkiler, ağa&ccedil;lar, suda ve karada yaşayan hayvanlar, insanlar, mitolojik yaratıklar, cinler, devler yanı sıra d&uuml;nyanın tuhaflıkları anlatılır... (Yılmaz, 2012).<br />
+<strong>Paragrafta s&ouml;z&uuml; edilen eser aşağıdakilerden hangisidir?</strong>
+    - A-) Aristoteles / Historia Animalium
+    - **Cevap B-) Kazvini / Acaib&uuml;&rsquo;l Mahl&ucirc;kat ve Garaib&uuml;&rsquo;l Mevc&ucirc;dat**
+    - C-) Solak-z&acirc;de / Tuhfet&uuml;&rsquo;z-zam&acirc;n Fi-Tev&acirc;rih-i Al-I Osm&acirc;n
+    - D-) Şem&rsquo;&icirc; / Bust&acirc;n-ı Sad&icirc;
+    - E-) Yusuf Nabi / M&uuml;nşe&acirc;t-ı
     <hr />
 ## Unite 2
 1. <strong>&Ccedil;in ill&uuml;strasyon konu t&uuml;rleri hangisinde yanlış verilmiştir?</strong>
@@ -101,7 +122,7 @@
     - D-) D&uuml;nyanın en eski kitabı
     - E-) Kalıp baskı kitabı
     <hr />
-1. <strong>&Ccedil;in ill&uuml;strasyon sanatın Altın &Ccedil;ağ olarak kabul edilen d&ouml;nem hangi hanedan y&ouml;netimindedir?</strong>
+1. <strong>&Ccedil;in ill&uuml;strasyon sanatın Altın &Ccedil;ağ olarak kabul edilen d&ouml;nemi hangi hanedan y&ouml;netimindedir?</strong>
     - **Cevap A-) Tang**
     - B-) Ming
     - C-) Song
@@ -150,6 +171,13 @@
     - D-) Sun
     - E-) Tan
     <hr />
+1. <strong>&Ccedil;in&rsquo;de propaganda posterlerin kullanılmasına sebep olan&nbsp;</strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
+    - A-) &Ccedil;in Halk Medeniyeti
+    - B-) &Ccedil;in Hanedan sistemi
+    - C-) &Ccedil;in Ticaret Sistemi
+    - D-) &Ccedil;in Millet Partisi
+    - **Cevap E-) &Ccedil;in Halk Cumhuriyeti**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi &Ccedil;in ill&uuml;strasyon konuları <u>yer almaz</u>?</strong>
     - A-) Fal bakma
     - B-) Aile ansiklopedileri
@@ -163,6 +191,13 @@
     - C-) Li ailesi t&uuml;rbesi
     - D-) Hu ailesi t&uuml;rbesi
     - E-) Han ailesi t&uuml;rbesi
+    <hr />
+1. <strong>Batı sanatındaki g&ouml;lgelendirme ve perspektifi &Ccedil;in&rsquo;e tanıtan misyoner mezhebi hangisidir?</strong>
+    - A-) Katolik
+    - B-) Protestan
+    - C-) Budist
+    - **Cevap D-) Jizvit**
+    - E-) Daoist
     <hr />
 ## Unite 3
 1. &ldquo;Japonya ------------- Kıtası&rsquo;nın doğusunda yer alan ve ------------- oluşan bir &uuml;lkedir&rdquo;.<br />
@@ -179,7 +214,7 @@
     - **Cevap B-) Edo D&ouml;nemi (Tokugawa d&ouml;nemi)**
     - C-) Meiji D&ouml;nemi
     - D-) Nara D&ouml;nemi
-    - E-) Kamakura D&ouml;nemi&nbsp;
+    - E-) Kamakura D&ouml;nemi
     <hr />
 1. &ldquo;Japonya, tarihinin en &ouml;nemli d&ouml;nemlerinden biri olan Meiji D&ouml;nemi ile kapılarını dış d&uuml;nyaya a&ccedil;arak uluslararası ticarete başlamış ve modernleşme s&uuml;recini hızlandırılmıştır.&rdquo;<strong><br />
 Aşağıdakilerden hangisi bu d&ouml;nemde yapılan reformlardan biri <u>değildir</u>?</strong>
@@ -243,12 +278,26 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - **Cevap D-) Utamaro**
     - E-) Okyo
     <hr />
+1. <strong>Japonya&rsquo;nın ilk modern d&ouml;nemi aşağıdakilerden hangisidir?</strong>
+    - A-) Meiji D&ouml;nemi
+    - B-) Asuka D&ouml;nemi
+    - C-) Kamakura D&ouml;nemi
+    - D-) Azuchi-Momoyama D&ouml;nemi
+    - **Cevap E-) Edo D&ouml;nemi (Tokugawa D&ouml;nemi)**
+    <hr />
 1. <strong>Japonya, hangi d&ouml;nemde kapılarını dış d&uuml;nyaya a&ccedil;arak uluslararası ticarete başlamıştır?</strong>
     - **Cevap A-) Meiji D&ouml;nemi**
     - B-) Yayoi D&ouml;nemi
     - C-) Nara D&ouml;nemi
     - D-) Muroma&ccedil;i D&ouml;nemi
     - E-) Yamato D&ouml;nemi
+    <hr />
+1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi Japon sanatına, g&uuml;zel kadınların tasvir edildiği Ōkubi-e resimlerini kazandırmıştır?</strong>
+    - A-) Hiroshige
+    - B-) Hokusai
+    - C-) Moronobu
+    - D-) Kuniyoshi
+    - **Cevap E-) Utamaro**
     <hr />
 ## Unite 4
 1. <strong>İslam sanatında yasak ve sınırlama olmaksızın canlı varlıkların tasviri ne zamana kadar yapılabilmiştir?</strong>
@@ -259,18 +308,18 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) 11. y&uuml;zyılın sonu
     <hr />
 1. <strong>İslam sanatında M&uuml;sl&uuml;man sanat&ccedil;ıyı aşağıdakilerden hangisi <u>tanımlamaz</u>?</strong>
-    - A-) Yaratıcı değil, g&uuml;zellikleri keşfedendir.&nbsp;
-    - B-) D&uuml;nyadaki yanılsamaları değil, &ouml;z&uuml; bulmaya &ccedil;alışır.&nbsp;
+    - A-) Yaratıcı değil, g&uuml;zellikleri keşfedendir.
+    - B-) D&uuml;nyadaki yanılsamaları değil, &ouml;z&uuml; bulmaya &ccedil;alışır.
     - **Cevap C-) Perspektif, ışık-g&ouml;lge ve &uuml;&ccedil; boyutluluğu &ouml;nemser.&nbsp;**
-    - D-) Sanatını bir ibadet gibi g&ouml;r&uuml;r.&nbsp;
+    - D-) Sanatını bir ibadet gibi g&ouml;r&uuml;r.
     - E-) Eserinde Allah&rsquo;ı hissettirir.
     <hr />
 1. <strong>İslam sanatında minyat&uuml;r ne zaman &uuml;&ccedil; boyutluluktan uzaklaşarak iki boyutlu, soyut bir anlatıma d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
-    - A-) 10. y&uuml;zyılda&nbsp;
+    - A-) 10. y&uuml;zyılda
     - **Cevap B-) 13. y&uuml;zyılın sonu&nbsp;**
     - C-) 15. y&uuml;zyılın başı
     - D-) 16. y&uuml;zyılın ortası
-    - E-) 17. y&uuml;zyılda&nbsp;
+    - E-) 17. y&uuml;zyılda
     <hr />
 1. <strong>Aşağıdakilerden hangisi minyat&uuml;r sanatında sıklıkla işlenen konulardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Kanuni Sultan S&uuml;leyman&#39;ın Muhibbi Divanı&#39;ı&nbsp;**
@@ -282,8 +331,8 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. <strong>18. y&uuml;zyılda Osmanlı minyat&uuml;r sanatında &ouml;ne &ccedil;ıkan nakkaş kimdir?</strong>
     - A-) Nakkaş Osman
     - B-) Kemalettin Bihzad
-    - C-) Nigari&nbsp;
-    - D-) Matrak&ccedil;ı Nasuh&nbsp;
+    - C-) Nigari
+    - D-) Matrak&ccedil;ı Nasuh
     - **Cevap E-) Levni**
     <hr />
 1. <strong>Mushaflarda tezhip yapılan, Fatiha suresi ve Bakara suresinin ilk beş ayetinin yer aldığı ilk iki sayfaya ne ad verilir?</strong>
@@ -320,6 +369,13 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - C-) Balık
     - D-) Deve
     - E-) At
+    <hr />
+1. <strong>Ebru sanatında kitre ne ama&ccedil;la kullanılır?</strong>
+    - **Cevap A-) Suyun yoğunluğunu artırmak**
+    - B-) Suyun rengini a&ccedil;mak
+    - C-) Boyaların kağıda ge&ccedil;mesini sağlamak
+    - D-) Toprak boyaların mermerde ezilmesini kolaylaştırmak
+    - E-) Boyaların rengini a&ccedil;mak
     <hr />
 1. <strong>Aşağıdakilerden hangisi Rumi Motifi <u>olamaz</u>?</strong>
     - A-) Kartal
@@ -416,6 +472,20 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Afişlerin dikkat &ccedil;ekici olması
     - **Cevap E-) Reklam gelirini arttırması**
     <hr />
+1. <strong>Modern afişin babası olarak bilinen Fransız litograf aşağıdakilerden hangisidir?</strong>
+    - A-) Edvard Munch
+    - B-) Alphonse Mucha
+    - **Cevap C-) Jules Ch&eacute;ret**
+    - D-) Kay Nielsen
+    - E-) Henri Matisse
+    <hr />
+1. <strong>Aşağıdakilerden hangisi İll&uuml;strasyonun Altın &Ccedil;ağı sanat&ccedil;ılarından <u>değildir</u>?</strong>
+    - A-) Walter Crane
+    - **Cevap B-) Dante Gabriel Rossetti**
+    - C-) Edmund Dulac
+    - D-) Arthur Rackham
+    - E-) Kay Nielsen
+    <hr />
 ## Unite 6
 1. &ldquo;Doğal yaşamı g&ouml;zlemlemek R&ouml;nesans&rsquo;ta &ouml;nemli h&acirc;le geldi.&rdquo;<br />
 <strong>Buna g&ouml;re hangi akım Albrecht D&uuml;rer&rsquo;in fikirlerini oluşturmuştur?</strong>
@@ -425,7 +495,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Romantizm
     - E-) Klasizm
     <hr />
-1. <strong>Aşağıdakilerden hangisi Leonardo da Vinci i&ccedil;in <u>yanlış </u>bir bilgidir?</strong>
+1. <strong>Aşağıdakilerden hangisi Leonardo da Vinci i&ccedil;in <u>yanlış</u> bir bilgidir?</strong>
     - A-) Verrocchio&rsquo;nun at&ouml;lyesinde sanatsal &ccedil;alışmalarına başlamıştır.
     - **Cevap B-) Empresyonist d&ouml;nem sanat&ccedil;ısıdır.**
     - C-) Doğaya olan ilgisi sanatına y&ouml;n vermiştir.
@@ -447,7 +517,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - **Cevap E-) Hayvanlar ve bitkiler hakkında &ccedil;izimlere eğilim g&ouml;stermemiştir**
     <hr />
 1. <strong>Aşağıdakilerden hangisi doğa bilimlerini i&ccedil;eren ill&uuml;strasyonların yapım s&uuml;recinde başta kullanılan ara&ccedil;lardan ya da tekniklerden biri <u>değildir</u>?</strong>
-    - A-) Suluboya
+    - A-) Sulu boya
     - B-) Guaj boya
     - C-) M&uuml;rekkep
     - **Cevap D-) Cam boya**
@@ -497,6 +567,13 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) G&ouml;rselin kafa karıştıran detaylarını ortadan kaldırabilir.
     - **Cevap E-) Fotoğraf makinesi her zaman daha az işlevli olmuştur.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi doğa bilimleri arasında <u>yer almaz</u>?</strong>
+    - A-) Yer bilimleri
+    - B-) Fizik
+    - C-) Biyoloji
+    - **Cevap D-) Astroloji**
+    - E-) Kimya
+    <hr />
 1. Kimya&rsquo;nın bilim &ouml;ncesi evresi olan &hellip;&hellip;&hellip;.&hellip;&hellip;&hellip;&hellip; alanında bir&ccedil;ok ill&uuml;strasyon mevcuttur ve bu alanda &ouml;nemli bir yer tutar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Fizik
@@ -505,11 +582,18 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Biyoloji
     - E-) Jeoloji
     <hr />
+1. <strong>Aşağıdakilerden hangisi tıp alanında &ccedil;alışan ill&uuml;strat&ouml;rler i&ccedil;in <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Sanat&ccedil;ı ve bilim insanının birlikte &ccedil;alışmasına gerek yoktur.**
+    - B-) İnsan v&uuml;cudu hakkında bilgi sahibi olması gerekir.
+    - C-) Tıp alanında alt yapıya sahip olmalıdır.
+    - D-) Genellikle bu alanda &ouml;zel eğitimlidirler.
+    - E-) Sunum netliği ve etkililiği &uuml;zerinde de &ccedil;alışırlar.
+    <hr />
 ## Unite 7
 1. <strong>Bilimsel ill&uuml;strasyon ilkeleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) G&ouml;zleme dayalı olması
     - B-) A&ccedil;ık se&ccedil;ik bir belirginlik taşıması
-    - C-) Sanatsal değerinin olması&nbsp;
+    - C-) Sanatsal değerinin olması
     - **Cevap D-) &Ouml;zg&uuml;n sanatsal yorum taşıması**
     - E-) Bilimsel bilgi ve bulgularla uyumlu olması
     <hr />
@@ -520,12 +604,15 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Micrographia
     - E-) Cerrahiyet&uuml;l Haniyye
     <hr />
-1. <strong>Aşağıdakilerden hangisi Cerrahiyet&uuml;l Haniyye kitabı hakkında <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Cerrahi &uuml;zerine ilk resimli kitap olması
-    - B-) Şerafeddin Sabuncuoğlu tarafından yazılması
-    - C-) Minyat&uuml;r y&ouml;ntemi ile resimlenmiş olması
-    - **Cevap D-) G&uuml;n&uuml;m&uuml;ze ulaşmış bir kopyası olmaması**
-    - E-) İ&ccedil;inde tıbbi metot ve prosed&uuml;rleri betimleyen minyat&uuml;rler bulunması
+1. I.&nbsp;Cerrahi &uuml;zerine ilk resimli kitap olması<br />
+II.&nbsp;Şerafeddin Sabuncuoğlu tarafından yazılması<br />
+III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&uuml;rler ve hastalıkları betimlemesi<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Cerrahiyet&uuml;l Haniyye kitabı hakkındadır?&nbsp;</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) Yalnız III
+    - D-) I ve II
+    - **Cevap E-) I, II ve III**
     <hr />
 1. <strong>Orta &Ccedil;ağ Avrupasında neden diseksiyon ve anatomi &ccedil;alışmaları insan bedeni &uuml;zerinde <u>yapılamamıştır</u>?</strong>
     - A-) Teknolojik koşullar izin vermediği i&ccedil;in
@@ -570,11 +657,25 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) &Ccedil;izim malzemeleri
     <hr />
 1. <strong>Bir diyagramı başka ill&uuml;strasyonlardan ayıran nedir?</strong>
-    - A-) Etkileşimli dijital g&ouml;rselleştirmeler olması&nbsp;
+    - A-) Etkileşimli dijital g&ouml;rselleştirmeler olması
     - **Cevap B-) Diyagramın bilgiyi iletmede en &ouml;nemli ara&ccedil; olması**
     - C-) Sadece siyah beyaz teknik &ccedil;izim kullanılması
     - D-) Herkes tarafından yapılabilmesi
     - E-) S&uuml;sleme işlevinin olması
+    <hr />
+1. <strong>Bilimsel infografiklerde kullanılan ill&uuml;strasyonlu diyagramlar arasında aşağıdakilerden hangisi&nbsp;<u>yer almaz</u>?</strong>
+    - A-) Yaşam d&ouml;ng&uuml;s&uuml; ve ilerleme diyagramları
+    - B-) İll&uuml;stratif habitat diyagramları
+    - C-) İll&uuml;stratif haritalar
+    - D-) Morfoloji tabloları
+    - **Cevap E-) Editoryal ill&uuml;strasyon**
+    <hr />
+1. <strong>Bilimsel İll&uuml;strasyon tarihinde Andreas Vesalius&rsquo;un &ouml;nemi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Tıpta bug&uuml;nk&uuml; dizgesel anlatım, fonksiyonel ill&uuml;strasyon ve terminolojiyi kurmuş olması**
+    - B-) Anatomi &ccedil;alışmalarını maymun ve domuzlar &uuml;zerinde y&uuml;r&uuml;tmesi
+    - C-) Din odaklı bir doğa kavrayışı olması
+    - D-) Galenos&rsquo;un sistemini aynı şekilde devam ettirmesi
+    - E-) Anatomide renk kodlamaları sistemini kurması
     <hr />
 1. <strong>&quot;İnfografik&quot; tanımı aşağıdakilerden hangisidir?</strong>
     - A-) İstatistik
@@ -601,7 +702,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. <strong>İngiltere&rsquo;deki Romantizmin temsilcileri hangisinde doğru verilmiştir?</strong>
     - A-) Fuseli, Goya, Constable
     - B-) Friedrich, Blake, Olivier
-    - C-) Fuseli, Blake, Cole&nbsp;
+    - C-) Fuseli, Blake, Cole
     - **Cevap D-) Fuseli, Blake, Constable**
     - E-) Turner, Blake, Catlin
     <hr />
@@ -613,7 +714,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Turner
     <hr />
 1. <strong>Romantik eserlerde insanın hangi &ouml;zelliği <u>yansıtılmamaktadır</u>?</strong>
-    - A-) Bireysellik&nbsp;
+    - A-) Bireysellik
     - **Cevap B-) Aşk**
     - C-) &Ouml;znellik
     - D-) Ruhanilik
@@ -634,11 +735,11 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Audubon
     <hr />
 1. <strong>Hangisi d&uuml;z y&uuml;zey baskı t&uuml;r&uuml;d&uuml;r?</strong>
-    - A-) grav&uuml;r
-    - B-) linol
-    - C-) ağa&ccedil; baskı
-    - **Cevap D-) litografi**
-    - E-) bakır baskı
+    - A-) Grav&uuml;r
+    - B-) Linol
+    - C-) Ağa&ccedil; baskı
+    - **Cevap D-) Litografi**
+    - E-) Bakır baskı
     <hr />
 1. <strong>Romantizmin tipik konuları arasında hangisi <u>yer almaz</u>?</strong>
     - A-) antik k&ouml;pr&uuml;ler
@@ -756,25 +857,25 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Ansiklopedi
     <hr />
 1. <strong>Aşağıdakilerden hangisi gazete ve dergilerdeki g&ouml;rsel ill&uuml;strasyonların &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) G&ouml;rsel iletişim&nbsp;
-    - B-) Bilgi aktarma&nbsp;
-    - C-) Okuyucuların dikkatini &ccedil;ekme&nbsp;
+    - A-) G&ouml;rsel iletişim
+    - B-) Bilgi aktarma
+    - C-) Okuyucuların dikkatini &ccedil;ekme
     - D-) Mesajları etkin bir şekilde iletme
     - **Cevap E-) Okuyucuları sanata y&ouml;nlendirme**
     <hr />
 1. <strong>Yayın ill&uuml;strasyonları ile ilgili olarak aşağıdaki ifadelerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Beraberindeki metni tanıtan ve konu hakkında bilgi verme amacı ile tasarlanan ill&uuml;strasyonlar olarak tanımlanabilir.
     - **Cevap B-) Yayın ill&uuml;strasyonlarında belirli şablonlara uyulma zorunluluğu vardır.**
-    - C-) &Ccedil;eşitli dergilerde ve gazetelerde kullanılabilmektedir.&nbsp;
+    - C-) &Ccedil;eşitli dergilerde ve gazetelerde kullanılabilmektedir.
     - D-) Yayın ill&uuml;strasyonları, basılı materyallerde metne uygun g&ouml;rsellerden oluşmaktadır.
     - E-) İll&uuml;strasyondan en fazla yararlanılan basılı i&ccedil;erik t&uuml;r&uuml; &ccedil;ocuk kitaplarıdır.
     <hr />
 1. <strong>Okuyucuların erişilebilirlik ihtiya&ccedil;larına ve tercihlerine g&ouml;re uyarlanabilen ill&uuml;strasyonlar hangi etkiye sahiptir?</strong>
-    - **Cevap A-) Yayınları daha kapsayıcı hale getirme**
-    - B-) Yayınları daha bağlantılı hale getirme
-    - C-) Yayınları daha somut hale getirme
-    - D-) Yayınları daha &ccedil;eşitli hale getirme
-    - E-) Yayınları daha betimleyici hale getirme
+    - **Cevap A-) Yayınları daha kapsayıcı h&acirc;le getirme**
+    - B-) Yayınları daha bağlantılı h&acirc;le getirme
+    - C-) Yayınları daha somut h&acirc;le getirme
+    - D-) Yayınları daha &ccedil;eşitli h&acirc;le getirme
+    - E-) Yayınları daha betimleyici h&acirc;le getirme
     <hr />
 1. &hellip;&hellip;&hellip;&hellip;.. ill&uuml;strasyonlara bakıldığında, konularına g&ouml;re genellikle o sayıdaki &ouml;nemli bir konu ya da olay &ouml;ne &ccedil;ıkarılarak okuyucuyu etkilemek i&ccedil;in hazırlanmışlardır.<br />
 <strong>Yukarıdaki boşluğa hangisi gelmelidir?</strong>
@@ -792,7 +893,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Soyutluk
     <hr />
 1. <strong>Gazete ve dergi ill&uuml;strasyonlarında dijital entegrasyon ne anlama gelmektedir?</strong>
-    - A-) Dijital medyadaki pop&uuml;lerlik&nbsp;
+    - A-) Dijital medyadaki pop&uuml;lerlik
     - B-) Dijital ara&ccedil;lara egemen olma
     - C-) Dijital mecraları etkin kullanma
     - **Cevap D-) Dijital platformlarda uyarlanabilme**
@@ -835,7 +936,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     <hr />
 ## Unite 11
 1. <strong>Aşağıdakilerden hangisi moda ill&uuml;strat&ouml;r&uuml;n&uuml;n g&ouml;revini tanımlar?</strong>
-    - A-) Giysi modellerini tasarlayarak, tasarımın konseptine ve amacına uygun olan kumaş, d&uuml;ğme, iplik gibi dikiş &ouml;gelerini se&ccedil;er ve malzemeleri bir araya getirir.&nbsp;
+    - A-) Giysi modellerini tasarlayarak, tasarımın konseptine ve amacına uygun olan kumaş, d&uuml;ğme, iplik gibi dikiş &ouml;gelerini se&ccedil;er ve malzemeleri bir araya getirir.
     - B-) Moda tasarımcısının tasarımlarını, detaylarıyla modele aktaran kişidir. Modelist modelin kalıbını &ccedil;ıkarmadan &ouml;nce moda tasarımcısı giysinin fermuar, d&uuml;ğme, plise, cep, astar vb. t&uuml;m detaylarını planlar
     - **Cevap C-) Moda tasarımcısının verdiği y&ouml;n bilgi ve &ccedil;izdiği &ccedil;er&ccedil;eve i&ccedil;erisinde modellerle ilgili sanatsal ve serbest &ccedil;izimleri ger&ccedil;ekleştirir.**
     - D-) &Uuml;retilecek giysinin, t&uuml;m kontrolleri yapılmış olan baz kalıba g&ouml;re diğer bedenleri oluşturur.
@@ -856,7 +957,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - **Cevap E-) Akıl &Ccedil;ağı**
     <hr />
 1. <strong>&Ouml;zellikle Fransa&#39;da etkin olan Belle Epoque D&ouml;nemi&#39;nin &ouml;zellikleri ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Bu d&ouml;nemde moda ill&uuml;strasyonları zarif ve zengin detaylara sahip modelleri betimlemiştir.&nbsp;
+    - A-) Bu d&ouml;nemde moda ill&uuml;strasyonları zarif ve zengin detaylara sahip modelleri betimlemiştir.
     - B-) S-Kıvrımlı Siluet i&ccedil;in kadın korseleri tasarlanmıştır.
     - C-) Erkeklerde de dar kesim ceket ve pantolonlar moda oldup, siluetlerde beden yapısı belirginleşmiştir.
     - **Cevap D-) Canlı ve kontrast renkler tercih edilmiştir.**
@@ -913,7 +1014,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) İzlenimci D&ouml;nem
     <hr />
 1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı zamanında İngiliz H&uuml;k&ucirc;meti tarafından halka aşılanmıştır?</strong>
-    - A-) Savaş Modası&nbsp;
+    - A-) Savaş Modası
     - B-) Feminen Giyim
     - **Cevap C-) Giyim Kotası**
     - D-) D&uuml;ğme Savaşı
@@ -932,7 +1033,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - B-) Hayatın kollektifliği
     - **Cevap C-) &Ccedil;ocukların oyun oynaması**
     - D-) Yedi yaşından itibaren &ccedil;ocukların yetişkin işlerinde &ccedil;alışması
-    - E-) Eğitim ve okur yazarlığın gelişmemiş olması&nbsp;
+    - E-) Eğitim ve okur yazarlığın gelişmemiş olması
     <hr />
 1. <strong>&Ccedil;ocukluk ilk olarak hangi d&ouml;nemden itibaren tanımlanmaya başlamıştır?</strong>
     - A-) 15. yy
@@ -974,7 +1075,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - **Cevap A-) Kunst und Lehrb&uuml;chlein&nbsp;**
     - B-) The Famous History of John Gilpin
     - C-) Orbis Sensualium Pictus
-    - D-) The House That Jack Built&nbsp;
+    - D-) The House That Jack Built
     - E-) Kinder und Hausm&auml;rchen
     <hr />
 1. <strong>Modern resimli kitabın babası olarak anılan sanat&ccedil;ı kimdir?</strong>
@@ -986,7 +1087,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     <hr />
 1. <strong>Rus masallarından esinlenen Altın &Ccedil;ağ ill&uuml;strat&ouml;r&uuml; kimdir?</strong>
     - **Cevap A-) Ivan Bilibin**
-    - B-) Fran&ccedil;ois Boucher&nbsp;
+    - B-) Fran&ccedil;ois Boucher
     - C-) Edmund Dulac
     - D-) John Tenniel
     - E-) Beatrix Potter
@@ -1006,6 +1107,13 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) Chris Riddell
     <hr />
 ## Unite 13
+1. <strong>Animasyon ifadesi ile ilgili aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) Mağara duvarlarına yaşadıkları olayları aktarmak i&ccedil;in resimler &ccedil;izen insan, aklı ve fikri geliştik&ccedil;e hayatlarında yaşadıkları pek &ccedil;ok &ouml;nemli olayı da gelecek nesillere aktarmak i&ccedil;in &ccedil;eşitli bi&ccedil;imlerde arayışlar sergilemiştir.
+    - **Cevap B-) En genel bir kapsamıyla incelendiğinde animasyon, bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme y&ouml;ntemidir.**
+    - C-) Afiş, poster ve diğer g&ouml;rsel iletişim unsurlularını da kapsayacak geniş bir alanı tanımlarken kullanılabilir.
+    - D-) Eğlence sekt&ouml;r&uuml;nde bulunan aktivitelerin tamamı ve &ouml;zellikle de otellerde g&ouml;steri yapan sporcuları da kapsayan bir ifadedir.
+    - E-) Lumiere Kardeşlerin yapımlarında kullanılan ifadeyle nefes, ruh, can anlamında g&uuml;n&uuml;m&uuml;ze kadar gelmiş bir sanat dalıdır.
+    <hr />
 1. <strong>Araştırmacılar tarafından ilk renkli animasyon olarak kabul edilen yapım aşağıdakilerden hangisidir?</strong>
     - A-) Dinazor Gertie
     - **Cevap B-) Pauvre Pierrot**
@@ -1032,7 +1140,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - B-) &Ccedil;oğunlukla otellerde hareketli g&ouml;steri ve şovlarla insanları eğlendirme eylemlerinin genel adıdır.
     - **Cevap C-) Bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme ve izlenebilir h&acirc;le getirme y&ouml;ntemidir.&nbsp;**
     - D-) &Ccedil;izgi film &uuml;retimi ve ilişkili sekt&ouml;rlerde &ccedil;alışan tasarımcı ve ill&uuml;strat&ouml;rlere verilen unvandır.
-    - E-) Can, nefes ve ruh anlamında kullanılan &uuml;&ccedil; boyutlu &ccedil;izim tekniğidir.&nbsp;
+    - E-) Can, nefes ve ruh anlamında kullanılan &uuml;&ccedil; boyutlu &ccedil;izim tekniğidir.
     <hr />
 1. <strong>Araştırmacı ve tarih&ccedil;iler tam anlamıyla animasyon kavramının &ouml;zelliklerini taşıyan ilk renkli animasyon olarak aşağıdakilerden hangisini kabul eder?</strong>
     - **Cevap A-) Pauvre Pierrot**

@@ -73,6 +73,13 @@
     - D-) &nbsp;Sanat ve tasarım ilişkisi
     - E-) Tasarım alanında yenilikler
     <hr />
+1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
+    - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
+    - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahip olmak
+    - C-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol ve işlemleri tasarlayan plan ve &ccedil;er&ccedil;eve olarak yorumlanır.
+    - **Cevap D-) Tasarı oluşturma anlamına gelerek kural ve kanun koyma eylemidir.**
+    - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmayı tanımlar.
+    <hr />
 1. <strong>Fotoğraflar kullanarak 3 boyutlu modellemeler elde edilebilen bir teknik olarak tanımlanan y&ouml;ntem aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Fotogrametri**
     - B-) After Effect
@@ -151,6 +158,20 @@
     - D-) Mavi, Mor, Yeşil
     - E-) Turuncu, Sarı, Kırmızı
     <hr />
+1. <strong>Tehdit, tehlike, endişe gibi kavramlarla ilişkilendirilebilen şekil aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) &Uuml;&ccedil;gen**
+    - B-) Kare
+    - C-) Daire
+    - D-) Silindir
+    - E-) K&uuml;re
+    <hr />
+1. <strong>Aşağıdaki renk &ccedil;iftlerinden hangisinin her ikisi de sıcak renklerdendir?</strong>
+    - A-) Mavi ve yeşil
+    - B-) Mavi ve mor
+    - C-) Kırmızı ve mavi
+    - **Cevap D-) Kırmızı ve turuncu**
+    - E-) Turuncu ve mavi
+    <hr />
 ## Unite 3
 1. <strong>Fotoğraf s&ouml;zc&uuml;ğ&uuml;n&uuml; oluşturan foton-grafi s&ouml;zc&uuml;klerinin karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) Resim-Yakalama
@@ -214,6 +235,13 @@
     - **Cevap C-) Fotoğrafa ger&ccedil;ek&ccedil;i bir g&ouml;r&uuml;nt&uuml; katar.**
     - D-) Fotoğrafta izleyicinin ilgisini organize eder.
     - E-) İlgiyi merkeze toplar.
+    <hr />
+1. <strong>Fotoğrafta &ccedil;izgilerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) İzleyicinin bakışlarının y&ouml;nlendirilmesinde etkili bir ara&ccedil;tır.
+    - B-) Fotoğraf&ccedil;ının kadraja d&acirc;hil ettiği pek &ccedil;ok nesne veya nesneler &ccedil;izgi oluşturmak i&ccedil;in kullanılabilir.
+    - **Cevap C-) Fotoğrafta sadece d&uuml;z &ccedil;izgilerden yararlanabiliriz.**
+    - D-) &Ccedil;izgilerle, g&ouml;r&uuml;nt&uuml;ye hareket hissi katabiliriz.
+    - E-) Yatay &ccedil;izgilerle izleyicide dingin bir his uyandırabiliriz.
     <hr />
 1. <strong>F1.4 i&ccedil;in aşşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
     - A-) Diyafram a&ccedil;ıklığı değişmez.
@@ -282,12 +310,33 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Nesnelerin b&uuml;y&uuml;kl&uuml;klerini belirler.**
     - E-) &Uuml;&ccedil; boyutlu etki sağlamaya yardımcı olur.
     <hr />
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir &ouml;ge <u>değildir</u>?</strong>
+    - A-) Renk
+    - B-) Kontrast
+    - **Cevap C-) Beğeni**
+    - D-) Derinlik
+    - E-) Yansıma
+    <hr />
+1. <strong>Aşağıdakilerden hangisi kompozisyonu oluşturan &ouml;gelerden biri <u>değildir</u>?</strong>
+    - A-) Hareket ve ritim
+    - B-) Zıtlık ve karşıtlık
+    - **Cevap C-) Kuram ve yargı**
+    - D-) B&uuml;t&uuml;nl&uuml;k ve &ccedil;eşitlilik
+    - E-) Renk ve ton
+    <hr />
 1. <strong>Aşağıdakilerden hangisinin alan derinliğe etkisi <u>yoktur</u>?</strong>
     - **Cevap A-) Karşıtlık**
     - B-) Perspektif
     - C-) Nesnelerin konumu
     - D-) Işık
     - E-) Kontrast
+    <hr />
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel g&ouml;stergebilimin ilgi alanına <u>girmez</u>?</strong>
+    - A-) Mimari
+    - B-) Karikat&uuml;r
+    - C-) Reklam
+    - D-) Fotoğraf
+    - **Cevap E-) Tiyatro**
     <hr />
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
@@ -367,6 +416,13 @@ III. Mısır Piramitleri<br />
     - D-) Ticaretle ilgilenmemelidir.
     - E-) Meraklı olmamalıdır.
     <hr />
+1. <strong>Başarılı reklam fotoğrafları oluşturmak ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
+    - **Cevap A-) Fotoğrafın reklam alanının tamamının en az &uuml;&ccedil;te birini kaplaması gerekir.**
+    - B-) G&ouml;r&uuml;nt&uuml;deki diğer nesneler reklamla bağlantılı olmamalıdır.
+    - C-) Mesaj dikkat &ccedil;ekmeden verilmelidir.
+    - D-) Vaad verilmemeli sadece bilgi verilmelidir.
+    - E-) &Uuml;r&uuml;ne yer verilmeden mesaj aktarılmalıdır.
+    <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi Osman Hamdi&rsquo;nin fotoğraftan yararlanarak yaptığı eseridir?</strong>
     - A-) Şehzade T&uuml;rbesinde Derviş
@@ -445,6 +501,20 @@ III. Mısır Piramitleri<br />
     - D-) Aliye Berger
     - **Cevap E-) Osman Hamdi**
     <hr />
+1. <strong>Aşağıdakilerden hangisi son yıllarda yapılan deneysel ekslibris tasarımları arasında <u>yer almaz</u>?</strong>
+    - **Cevap A-) Ağa&ccedil; Baskı Ekslibris**
+    - B-) Artırılmış Ger&ccedil;eklik Ekslibris
+    - C-) Quilling Ekslibris
+    - D-) Işıklı Pop-Up Ekslibris
+    - E-) Video Broş&uuml;r Ekslibris
+    <hr />
+1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi tasarımlarında Ekslibris kullanmıştır?</strong>
+    - A-) Fatih Aksular
+    - B-) Hedieh Jafari
+    - C-) Oleg Dergachov
+    - D-) Ercan Tuna
+    - **Cevap E-) Osman Din&ccedil;**
+    <hr />
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi bir tasarım disiplini olan grafik tasarımla ilgili <u>değildir</u>?</strong>
     - A-) Hedef kitleye &uuml;r&uuml;n ya da hizmet ile ilgili g&ouml;rsel mesajlar verir.
@@ -515,6 +585,42 @@ III. Mısır Piramitleri<br />
     - C-) Tasarım programlarının geliştirilmesi
     - D-) G&ouml;r&uuml;nt&uuml; işleme programlarının ortaya &ccedil;ıkması
     - **Cevap E-) Fotoğraf&ccedil;ı sayılarının artması**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi grafik tasarımda hedef kitleye mesaj aktarımında kullanılan g&ouml;r&uuml;nt&uuml;l&uuml; bilgilerden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Sembol
+    - B-) İll&uuml;strasyon
+    - C-) Tipografi
+    - **Cevap D-) Fonograf**
+    - E-) Fotoğraf
+    <hr />
+1. <strong>Fotoğrafta ilk kez negatif-pozitif tekniğin uygulanabildiği g&ouml;r&uuml;nt&uuml;leme tekniğinin adı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Kalotip**
+    - B-) Deguerreotype
+    - C-) Helyografi
+    - D-) Judea Bit&uuml;m&uuml;
+    - E-) Sel&uuml;loit
+    <hr />
+1. <strong>Bir &uuml;r&uuml;n ya da hizmet ile ilgili hedef kitleye iletilmek istenen mesajı metin ve g&ouml;rsellerle algılanabilir ve g&ouml;r&uuml;lebilir bir d&uuml;zlemde organize ederek sunan tasarım disiplini aşağıdakilerden hangisidir?</strong>
+    - A-) &Ccedil;evre tasarımı
+    - B-) Web tasarımı
+    - **Cevap C-) Grafik tasarımı**
+    - D-) Moda tasarımı
+    - E-) End&uuml;stri tasarımı
+    <hr />
+1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarımla olan ilişkisinin ama&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
+    - A-) Fotoğrafın, hedef kitlenin dikkatini tasarımın konusuna &ccedil;ekmede etkili olması
+    - B-) Fotoğrafın; kullanıldığı iletişim aracına estetik boyut katması
+    - C-) Tasarımlarda kullanılan fotoğrafların hedef kitlede ilgi ve merak uyandırıcı g&ouml;rsel g&uuml;ce sahip olması
+    - D-) Fotoğrafın tasarımlarda herkesin anlayabileceği g&ouml;rsel bir dil oluşturarak mesajın iletimini evrenselleştirmesi
+    - **Cevap E-) Fotoğraf olmadan grafik tasarım &uuml;r&uuml;nlerinin tasarlanmasının imk&acirc;n olmaması**
+    <hr />
+1. Somut g&ouml;r&uuml;nt&uuml;n&uuml;n fotoğraf kağıdında b&uuml;y&uuml;k bir netlikle belirlenebilmesi, sanat&ccedil;ıların g&ouml;rd&uuml;kleri somut g&ouml;r&uuml;nt&uuml;y&uuml; tuvale aktarmak yerine yeni bir g&ouml;rsel dil arayışı i&ccedil;erisine girmelerine neden olmuştur.<br />
+<strong>Bi&ccedil;imsel sanat hareketleri diye adlandırılan yeni yaklaşımların isimleri aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
+    - **Cevap A-) K&uuml;bizm, Konstr&uuml;ktivizm ve De Stijl**
+    - B-) Fauvism, Konstr&uuml;ktivizm ve De Stijl
+    - C-) Fauvism, K&uuml;bizm ve Konstr&uuml;ktivizm
+    - D-) Alman dışavurumculuğu, Fauvism ve K&uuml;bizm
+    - E-) Alman dışavurumculuğu, K&uuml;bizm ve De Stijl
     <hr />
 1. <strong>Yepyeni baskı teknikleriyle birlikte 1960&rsquo;larda ortaya &ccedil;ıkan foto-grafik anlatım dilini &ccedil;alışmalarında kullanan sanat&ccedil;ılar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Holger Matthies
@@ -592,7 +698,14 @@ III. Mısır Piramitleri<br />
     - **Cevap B-) Kitap ve gazetelerde**
     - C-) Cep telefonu ve tabletlerde
     - D-) &Ccedil;ocuk kitaplarında
-    - E-) Broş&uuml;rlerde ve el ilanlarında&nbsp;
+    - E-) Broş&uuml;rlerde ve el ilanlarında
+    <hr />
+1. <strong>Konferans, seminer, sinema, tiyatro, konser ve sergi gibi k&uuml;lt&uuml;rel aktiviteler hakkında duyurulması gerekenlerin; fotoğraf, ill&uuml;strasyon ve tipografi kullanılarak tasarlandığı afişlere ne ad verilir?</strong>
+    - A-) Sergi Afişi
+    - B-) Sanatsal Afişler
+    - C-) Ticari Afişler
+    - D-) Sosyal Afişler
+    - **Cevap E-) K&uuml;lt&uuml;rel Afişler**
     <hr />
 1. <strong>Yazı tiplerinin tasnifi aşağıdakilerden hangisidir?</strong>
     - A-) Okunur-okunmaz
@@ -679,6 +792,20 @@ III. Mısır Piramitleri<br />
     - D-) G&ouml;r&uuml;nt&uuml;n&uuml;n &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;n&uuml;n artırılması g&ouml;r&uuml;nt&uuml; işleme işlemidir.
     - **Cevap E-) G&ouml;r&uuml;nt&uuml;n&uuml;n bir kısmının yazılımda a&ccedil;ılması g&ouml;r&uuml;nt&uuml; işleme işlemidir.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi Adobe Photoshop ve Adobe Illustrator yazılımlarının kullanımı i&ccedil;in gerekli olan uygulamadır?</strong>
+    - A-) GIMP
+    - B-) Photo Identier
+    - **Cevap C-) Creative Cloud**
+    - D-) Adobe Express
+    - E-) Figma
+    <hr />
+1. <strong>Vekt&ouml;rel tabanlı yazılımlar hakkında aşağıdaki ifadelerden hangisi doğrudur?</strong>
+    - **Cevap A-) &Ccedil;alışma alanının b&uuml;y&uuml;kl&uuml;ğ&uuml; ne olursa olsun bozulma olmaz.**
+    - B-) Derin &ouml;ğrenme teknolojisi ile &ccedil;alışır.
+    - C-) Piksel tabanlı yazılımlara g&ouml;re &ccedil;ok daha verimli ve sağlıklı &ccedil;alışır.
+    - D-) Video &ccedil;alışmaları i&ccedil;in en ideal yazılımlardır.
+    - E-) Piksel tabanlı yazılımlara g&ouml;re kullanımını daha kolaydır.
+    <hr />
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın tanımıdır?</strong>
     - A-) End&uuml;striye y&ouml;nelik &uuml;retim y&ouml;ntemleri geliştirilen bir s&uuml;re&ccedil;tir.
@@ -757,6 +884,13 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) İhtiya&ccedil; tasarımı**
     - E-) Şekillendirme tasarımı
     <hr />
+1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n tanıtımında etkili olan fotoğrafların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Fonksiyona dair d&uuml;zenlemeler
+    - B-) Doğru a&ccedil;ılar
+    - C-) Kullanıma dair sahne ve pozlar
+    - **Cevap D-) Fotoğraftaki tipografik &ouml;geler**
+    - E-) Doğru ışıklandırma
+    <hr />
 ## Unite 11
 1. <strong>Moda kavramı ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) G&uuml;n&uuml;m&uuml;zde her an değişen ve gelişen teknolojiler modanın belirleyicisi değildir.
@@ -828,6 +962,20 @@ III. Mısır Piramitleri<br />
     - D-) Modeli beğendirmek
     - **Cevap E-) &Ccedil;ekilen &uuml;r&uuml;n&uuml;n satışını arttırmak**
     <hr />
+1. <strong>Moda Fotoğrafında Modernizm&#39;in &ouml;nc&uuml;s&uuml; ve &ldquo;New Objektivity&rdquo; kavramını ortaya koyan aşağıdakilerden hangisidir?</strong>
+    - A-) Adolf de Mayer
+    - **Cevap B-) Edward Steichen**
+    - C-) Martin Muncaski
+    - D-) Man Ray
+    - E-) Lee&nbsp; Miller
+    <hr />
+1. <strong>Aşağıdakilerden hangileri yapay ışık kaynaklarından biri <u>değildir</u>?</strong>
+    - A-) Led amp&uuml;ller
+    - **Cevap B-) G&uuml;neş**
+    - C-) Florasanlar
+    - D-) Sokak lambalar
+    - E-) Mum ışığı
+    <hr />
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi yapısal &ouml;geler i&ccedil;erisinde yer alır?</strong>
     - A-) Işık
@@ -843,7 +991,7 @@ III. Mısır Piramitleri<br />
     - D-) Devamlılık
     - E-) Benzerlik
     <hr />
-1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli husus nedir?</strong>
+1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Doku
     - B-) Espas
     - C-) Işık
@@ -898,6 +1046,20 @@ III. Mısır Piramitleri<br />
     - C-) Koku Algısı
     - **Cevap D-) G&ouml;rsel Algı**
     - E-) Tat Algısı
+    <hr />
+1. <strong>Aşağıdakilerden hangisi mek&acirc;nın temsilinin &ouml;nemini <u>vurgulamamaktadır</u>?</strong>
+    - A-) Belirli grupların hedeflerini destekleyecek doğrultudadır.
+    - B-) Bize yeni bakış a&ccedil;ıları vermektedir.
+    - C-) Ger&ccedil;eğin yeniden uyarlanmış ve inşa edilmiş h&acirc;lidir.
+    - D-) Temsile dayalı farklı yorumlama &nbsp;bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
+    - **Cevap E-) Temsil, mimarın &ouml;zg&uuml;nl&uuml;ğ&uuml;n&uuml; azaltır.**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi mek&acirc;nın g&ouml;rsel algısını etkileyen tasarım unsurlarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Bi&ccedil;im
+    - B-) Işık
+    - C-) Renk
+    - D-) Malzeme
+    - **Cevap E-) Koku**
     <hr />
 1. <strong>Kendi tasarımlarını &ccedil;ekmeden &ouml;nce kurgulayan mimar&nbsp;</strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
     - A-) Pierre Jeanneret

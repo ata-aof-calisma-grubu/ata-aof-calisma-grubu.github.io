@@ -2,8 +2,7 @@
 ## Unite 1
 1. <strong>Aşağıdaki yazı karakterlerinden hangisi tırnaklı (serif) yazı karakteridir?</strong>
     - A-) Arial
-    - **Cevap B-) Times New Roman<br />
-**
+    - **Cevap B-) Times New Roman**
     - C-) Futura
     - D-) Gotham
     - E-) Calibri
@@ -70,6 +69,20 @@
     - C-) Leading
     - D-) Alignment
     - E-) Kerning
+    <hr />
+1. <strong>Kapital harf y&uuml;ksekliğinin, maj&uuml;sk&uuml;l harflerin taban &ccedil;izgisinden &uuml;st kısmına kadar olan y&uuml;ksekliğine ne ad verilir?</strong>
+    - A-) Baseline
+    - B-) Mean Line
+    - C-) Ascender Line
+    - D-) Descender Line
+    - **Cevap E-) Cap Height**
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde 1 pikanın punto cinsinden değeri verilmiştir?</strong> 
+    - A-) 6
+    - **Cevap B-) 12**
+    - C-) 17
+    - D-) 20
+    - E-) 24
     <hr />
 1. <strong>Aşağıdaki terimlerden hangisi s&ouml;zc&uuml;kleri dil bilgisi kurallarına uygun b&ouml;l&uuml;p kelimenin bir kısmını satırın sonunda bırakarak kalan kısmını sonraki satırda verilmesini ve kelimeyi b&ouml;lmek i&ccedil;in kısa &ccedil;izgi kullanılmasını ifade etmede kullanılır?</strong>
     - A-) Leading (satır arası boşluk)
@@ -163,6 +176,13 @@
     - D-) Kızgın
     - E-) Modern
     <hr />
+1. <strong>&ldquo;Doğru deneysellik risk almaktır.&rdquo; s&ouml;z&uuml; aşağıdakilerden hangisine aittir?</strong>
+    - A-) David Carson
+    - B-) Brecht Cuppens
+    - **Cevap C-) Michael Worthington**
+    - D-) Peter Bilak
+    - E-) Gavin Ambrose
+    <hr />
 ## Unite 3
 1. <strong>Duygu, d&uuml;ş&uuml;nce ve olayların; şekil, bi&ccedil;im, sembol gibi &ccedil;eşitli g&ouml;rsellerle y&uuml;zey &uuml;zerinde organize edilmesi eylemi nedir?</strong>
     - A-) Baskı
@@ -214,7 +234,7 @@
     - E-) Tipografi
     <hr />
 1. <strong>Aşağıdaki ifadelerden hangisi Yeni Tipografi Hareketi&#39;ne ait &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır.&nbsp;
+    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır.
     - B-) Tasarımlarda beyaz boşluk kullanılır.
     - C-) Serifsiz yazı karakteri kullanılır.
     - **Cevap D-) Simetrik d&uuml;zenleme yapılır.**
@@ -237,13 +257,34 @@
 1. I. 1700-1800&rsquo;l&uuml; yıllar arası d&ouml;nemde kullanılan yazı tiplerinin tanımlanmasında kullanılır.<br />
 II. Kalın ve ince &ccedil;izgiler arasındaki kontrast daha keskindir.<br />
 III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin &ouml;zelliklerindendir?</strong><br />
-
+<strong>Yukarıdakilerden hangisi ya da hangileri modern yazı karekterlerinin &ouml;zelliklerindendir?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) I ve II
     - **Cevap E-) I, II ve III**
+    <hr />
+1. <strong>En fazla bilinen ve g&uuml;n&uuml;m&uuml;zde de kitap ve dergi yayımcılığında yaygın olarak kullanılan yazı karakteri aşağıdakilerden hangisidir?</strong>
+    - A-) Caledonia
+    - B-) Perpetua
+    - C-) Fournier
+    - D-) Bodoni
+    - **Cevap E-) Baskerville**
+    <hr />
+1. Bauhaus Akımı &ouml;zellikle De Stijl ve Konstr&uuml;ktivizm etkisinde kalmakla beraber, Almanya&rsquo;nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve k&uuml;lt&uuml;rel alanlarda yeni bir d&uuml;zen arayışından ortaya &ccedil;ıkmıştır.&nbsp;<br />
+<strong>Buna g&ouml;re Bauhaus Akımı kimin &ouml;nderliğinde ortaya &ccedil;ıkmıştır?</strong>
+    - **Cevap A-) Walter Gropius**
+    - B-) Moholy-Nagy
+    - C-) Jan Tschichold
+    - D-) El Lissitzky
+    - E-) Pierre Simon
+    <hr />
+1. <strong>&ldquo;Anma g&uuml;nleri, festivaller, kutlamalar, tematik uygulamalar, t&uuml;r&uuml;ne g&ouml;re kitap başlıkları, tiyatro ve sinema g&ouml;steri tanıtımları, vb. bir&ccedil;ok uygulamada ayırt edici &ouml;zellik olarak kullanılan yazı karakterleri hangisidir?</strong>
+    - **Cevap A-) Serbest stil yazı karakterleri**
+    - B-) Dekoratif yazı karakterleri
+    - C-) Ge&ccedil;iş d&ouml;nemi yazı karakterleri
+    - D-) Eski bi&ccedil;em (old style) yazı karakterleri
+    - E-) Serifsiz yazı karakterleri
     <hr />
 ## Unite 4
 1. <strong>Tipografik hiyerarşi tanımına en uygun ifade bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
@@ -323,6 +364,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - **Cevap D-) Aynı renk ve ton kullanımı ile yazıyı oluşturma**
     - E-) Birden fazla farklı yazı tipi kullanımı ile karakterlerin birbirinden farklılaşıp ayrışması
     <hr />
+1. <strong>Aşağıda yer alan tipografik hiyerarşi tekniklerinden hangisi metin i&ccedil;erisinde <u>tercih edilmez</u>?</strong>
+    - A-) İtalik yazı kullanımı
+    - B-) Renk tonlamaları
+    - C-) B&uuml;y&uuml;k harf (uppercase) kullanımı
+    - D-) Kalın (bold) yazı kullanımı
+    - **Cevap E-) &Uuml;&ccedil; ve daha fazla yazı tipi kullanımı**
+    <hr />
 ## Unite 5
 1. <strong>Markalama s&uuml;recinin ilk &ouml;rnekleri aşağıdakilerden hangisidir?</strong>
     - A-) &Ccedil;anak ve &ccedil;&ouml;mleklere yapılan işaretlemeler.
@@ -401,6 +449,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - **Cevap D-) Sosyal stat&uuml; sembol&uuml;d&uuml;r.**
     - E-) Finansal geri d&ouml;n&uuml;şlerin kaynağıdır.
     <hr />
+1. <strong>Logolar aşağıdaki işlevlerden hangisiyle kurum kimliğini desteklemektedir?</strong>
+    - **Cevap A-) Marka ismini ve marka imajını sembolize etme**
+    - B-) Markayı tanıtma
+    - C-) Marka hakkında &ccedil;ağrışım yaratma
+    - D-) Hedef kitleye y&ouml;nelik mesajlar iletme
+    - E-) Markaya değer katma
+    <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi tarih boyunca yazının bi&ccedil;imini etkileyen / bi&ccedil;imlendiren &ouml;nemli etkenlerden biridir?</strong>
     - A-) Coğrafi &ouml;zellikler
@@ -478,6 +533,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - C-) Stop motion
     - D-) İki boyutlu bilgisayar animasyonları
     - E-) &Uuml;&ccedil; boyutlu g&ouml;r&uuml;nt&uuml;ler
+    <hr />
+1. <strong>1895 yılında Paris&rsquo;te yapılan halka a&ccedil;ık ilk film g&ouml;sterimi kim ya da kimler tarafından yapılmıştır?</strong>
+    - A-) Cohen Kardeşler
+    - B-) Saul Bass
+    - C-) Alfred Hitchcock
+    - **Cevap D-) Lumiere Kardeşler**
+    - E-) Harold Lloyd
     <hr />
 1. <strong>&Ouml;zellikle 1990&rsquo;lı yıllar sonrasında jenerik tasarımlarında g&ouml;r&uuml;len gelişmeler hangi yeniliklerin sonucunda olmuştur?</strong>
     - A-) İnternet teknolojilerindeki yenilikler
@@ -589,6 +651,20 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
     <hr />
+1. <strong>İngiliz şair Andrew Motion iş birliği ile granit kaldırım taşları ile oluşturulmuş &ccedil;evresel tipografi &ouml;rneğinin adı aşağıdakilerden hangisidir?</strong>
+    - A-) Bisiklet yolu
+    - B-) New 42nd Street Studios
+    - C-) Solow binası
+    - **Cevap D-) BBC kamu sanatı projesi**
+    - E-) Komedi halısı
+    <hr />
+1. <strong>İşaret tasarımında tipografi se&ccedil;ilirken aşağıdakilerden hangisinin g&ouml;z &ouml;n&uuml;nde bulundurulmasına <u>gerek yoktur</u>?</strong>
+    - A-) Yazı karakteri se&ccedil;imi
+    - B-) Alt ve &uuml;st uzantıların uzunluğu
+    - C-) a,b,d gibi harflerin kapalı boşlukları
+    - **Cevap D-) Tasarımcısının adı**
+    - E-) x-y&uuml;ksekliği
+    <hr />
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi yazının gelişmesine neden olan tarihsel olaylardan biri <u>değildir</u>?</strong>
     - A-) Matbaanın icadı
@@ -674,6 +750,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Kontr&uuml;ktivizm
     - E-) De Stilj
     <hr />
+1. <strong>Eski tasarım kurallarını sorgulayan ve sistematik tipografi yerleşimlerini reddeden hareket aşağıdakilerden hangisidir?</strong>
+    - A-) F&uuml;t&uuml;rizm
+    - B-) Kontr&uuml;ktivizm
+    - C-) De Stilj
+    - **Cevap D-) Yeni Tipografi**
+    - E-) Dadaizm
+    <hr />
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi tipografik sistemlerin geliştirilmesinin nedenlerinden biridir?</strong>
     - **Cevap A-) Tipografik &ccedil;eşitliliğin artması**
@@ -744,6 +827,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - C-) Raslantısal (Random) Sistem
     - D-) Eksenel (Axial) Sistem
     - E-) Ge&ccedil;işken (Transitional) Sistem
+    <hr />
+1. <strong>Kaligramlar ilk defa hangi d&ouml;nemde &ldquo;&ouml;zg&uuml;rl&uuml;ğe kavuşan s&ouml;zc&uuml;kler&rdquo; ve &ldquo;serbest tipografi&rdquo; sloganları ile ortaya &ccedil;ıkmış bir tipografi harekettir?</strong>
+    - A-) Dadaist d&ouml;nem
+    - **Cevap B-) F&uuml;t&uuml;rist d&ouml;nem**
+    - C-) Konstr&uuml;ktivist d&ouml;nem
+    - D-) De Stijl d&ouml;nemi
+    - E-) Bauhaus d&ouml;nemi
     <hr />
 ## Unite 10
 1. <strong>Kamuya a&ccedil;ık bir şekilde; gazete, dergi, kitap vb. okumaya y&ouml;nelik &uuml;r&uuml;nlerin basılıp &ccedil;oğaltılması işine ne denir?</strong>
@@ -964,7 +1054,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
 1. <strong>Aşağıdakilerden hangisi reklam filmlerinin dezavantajları arasında <u>yer almaz</u>?</strong>
     - A-) Reklamın yayın ve yapım masrafları reklam filmi maliyetlerini y&uuml;kseltmektedir.
     - B-) Yayının s&uuml;rekli akması sebebiyle kalıcı olmamaktadır.
-    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir.&nbsp;
+    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir.
     - D-) Geniş kitlelere hitap ettiği i&ccedil;in belli bir kitleyi hedefleyen reklam verenler i&ccedil;in zayıf bir se&ccedil;imdir.
     - **Cevap E-) Diğer reklam ara&ccedil;larına kıyasla daha fazla kişiye ulaştığı i&ccedil;in toplam maliyet daha d&uuml;ş&uuml;k olarak hesaplanmaktadır.**
     <hr />
@@ -1012,6 +1102,14 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) teknoloji
     - **Cevap E-) reklam**
     <hr />
+1. Reklam filmlerinde kullanılan tipografi uygulamaları temeli ve gelişim s&uuml;reci g&ouml;z &ouml;n&uuml;nde bulundurulduğunda kendine has teknik &ouml;zellikler &ccedil;er&ccedil;evesi i&ccedil;indedir.<br />
+<strong>Aşağıdakilerden hangisi bunlardan biri <u>değildir</u>?</strong>
+    - **Cevap A-) Şekil**
+    - B-) Anlam
+    - C-) &Ccedil;er&ccedil;eve
+    - D-) Renk
+    - E-) Dijital hakimiyet
+    <hr />
 ## Unite 13
 1. <strong>Ambalajın insan ve yaşamla olan etkinliğine y&ouml;nelik aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İlgi &ccedil;ekicidir.
@@ -1033,7 +1131,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - B-) Rengi
     - **Cevap C-) Tipografiyi**
     - D-) Arka planı
-    - E-) G&ouml;rsel hiyerarşiyi&nbsp;
+    - E-) G&ouml;rsel hiyerarşiyi
     <hr />
 1. I. IBM<br />
 II. Coca-Cola<br />
@@ -1088,13 +1186,12 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - D-) Ambalaj tasarımındaki yazı karakteri iletişimsel bir ara&ccedil;tır.
     - **Cevap E-) Ambalajdaki yazı karakteri son olarak renkli olmalıdır.**
     <hr />
-1. <strong>Yaşlanma karşıtı kırışıklık &ouml;nleyici bakım kremi veya g&ouml;z altı ve &ccedil;evresi bakım &uuml;r&uuml;nleri gibi bazı kozmetik &uuml;r&uuml;n ambalajlarının şişe, plastik veya metal gibi i&ccedil;inde yer alan &uuml;r&uuml;n kutularından &ccedil;ok fazla b&uuml;y&uuml;k olması hangi a&ccedil;ıdan t&uuml;keticiyi yanıltmaktadır?</strong><br />
-
+1. <strong>Yaşlanma karşıtı kırışıklık &ouml;nleyici bakım kremi veya g&ouml;z altı ve &ccedil;evresi bakım &uuml;r&uuml;nleri gibi bazı kozmetik &uuml;r&uuml;n ambalajlarının şişe, plastik veya metal gibi i&ccedil;inde yer alan &uuml;r&uuml;n kutularından &ccedil;ok fazla b&uuml;y&uuml;k olması hangi a&ccedil;ıdan t&uuml;keticiyi yanıltmaktadır?</strong>
     - **Cevap A-) Tasarım etiği**
     - B-) Renk tercihi
     - C-) Baskı tekniği
     - D-) K&uuml;lt&uuml;rel g&ouml;sterge
-    - E-) Tipografik vurgu&nbsp;
+    - E-) Tipografik vurgu
     <hr />
 ## Unite 14
 1. <strong>&quot;İll&uuml;strasyon&quot; kelimesinin anlamı a</strong><strong>şağıdakilerden hangisidir?</strong>
@@ -1186,8 +1283,7 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - E-) Afiliasyon
     <hr />
 1. ................... algılama &ouml;rg&uuml;tleme ilkelerinden şekil-zemin ilişkisine g&ouml;re; normal şartlar altında, bireyin dikkati şekil &uuml;st&uuml;nde odaklanır; bazı durumlarda şekil ve zeminin birbirleriyle yer değiştirdiği durumlar ortaya &ccedil;ıkabilir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Anstalt
     - B-) Dergestalt
     - C-) Haftanstalt

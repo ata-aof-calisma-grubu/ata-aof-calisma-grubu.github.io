@@ -71,6 +71,13 @@
     - D-) S&uuml;rekli olarak yeni bilgi &uuml;reten bir toplumdur.
     - E-) Makine g&uuml;c&uuml;n&uuml;n yerine d&uuml;ş&uuml;nce ve insan aklını koyması ile sanayi toplumlarından ayrılır.
     <hr />
+1. <strong>Aşağıdakilerden hangisi felsefi bilginin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) Felsefi d&uuml;ş&uuml;nce ussal (akla dayalı) bir d&uuml;ş&uuml;nme etkinliğinin sonucunda elde edilir.
+    - B-) Felsefi bilgi bilgelik arayışında olan bir zihinsel tutumla elde edilir.
+    - C-) Felsefi bilgi a&ccedil;ık, sistematik, tutarlı ve b&uuml;t&uuml;nsel bir d&uuml;ş&uuml;nce ile gelişir.
+    - D-) Felsefi d&uuml;ş&uuml;nce yansıtıcı bir d&uuml;ş&uuml;nme faaliyetinin sonucudur.
+    - **Cevap E-) Felsefi bilgi bir olgunun doğru olup olmadığının araştırılması etkinliğidir.**
+    <hr />
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının hedeflerinden biri <u>değildir</u>?</strong>
     - A-) Anlaşılabilirlik
@@ -141,6 +148,27 @@
     - **Cevap C-) Tipografi**
     - D-) Grafik
     - E-) Diyagram
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgiyi kelimeler, semboller, diyagramlar, resim ve tipografi yardımıyla alıcıya doğrudan aktaran g&ouml;rsel iletişim tasarımı i&ccedil;erisindeki bir alandır?</strong>
+    - **Cevap A-) Bilgilendirme Tasarımı**
+    - B-) Renk
+    - C-) G&ouml;rsel
+    - D-) Hiyerarşi
+    - E-) Piktogram
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı t&uuml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Form Tasarımı
+    - B-) İnfografikler
+    - C-) Sergileme Tasarımı
+    - D-) Y&ouml;nlendirme ve İşaretleme Tasarımı
+    - **Cevap E-) Portfolyo Tasarımı**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi piktogramın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Simgesel işaretler değiştirilebilir ve geliştirilebilir olmalıdır.
+    - **Cevap B-) Farklı renkler kullanılmalıdır.**
+    - C-) Tek bir grafik sisteme g&ouml;re d&uuml;zenlenmelidir.
+    - D-) Standart renkler kullanılmalıdır.
+    - E-) Uluslararası olarak anlaşılır olmalıdır.
     <hr />
 ## Unite 3
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı t&uuml;rlerinden biri <u>değildir</u>?</strong>
@@ -213,6 +241,13 @@
     - D-) S&uuml;rekli sergiler
     - **Cevap E-) Kılavuz Sergiler**
     <hr />
+1. <strong>Aşağıdakilerden hangisi &ldquo;belge&rdquo; kavramını doğru olarak tanımlamaktadır?</strong>
+    - A-) Akıl ile &uuml;retilen ve insan aklının algılayabileceği olgu, ger&ccedil;ek ve ilkeler b&uuml;t&uuml;n&uuml;d&uuml;r.
+    - B-) İnsanın bilişsel yapısında değişiklik yaratan herhangi bir şeydir.
+    - **Cevap C-) Herhangi bir eylemin y&ouml;ntemlerini ortaya koyan veya okuyanı bir iş ya da bir g&ouml;revle ilgili y&ouml;nlendiren elektronik veya basılı metinlerdir.**
+    - D-) Bir alandaki bilgiyi aktaran, talimat veya yol g&ouml;steren kitaplara verilen addır.
+    - E-) D&uuml;nyanın ya da bir b&ouml;lgenin genel g&ouml;r&uuml;n&uuml;m&uuml;n&uuml;n belirli bir &ouml;l&ccedil;ekte k&uuml;&ccedil;&uuml;lt&uuml;lerek &ouml;zel sembollerle d&uuml;z bir y&uuml;zey &uuml;zerine &ccedil;izilmiş bir rehberdir.
+    <hr />
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi &ouml;ğrenmenin temel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) İnsan davranışında g&ouml;zlenebilir bir değişim yaşanması
@@ -283,6 +318,27 @@
     - C-) &Ouml;n &ccedil;alışma ger&ccedil;ekleştirilerek tasarımda yer alacak bilgilerin toplanması
     - D-) Kullanılacak tasarım t&uuml;rlerinin belirlenmesi
     - E-) Verilerin hedeflere ulaşmaya yardımcı olacak şekilde d&uuml;zenlenmesi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi eğitim materyali olarak kullanılabilecek bilgilendirme tasarımlarının sahip olması gereken nitelikler arasında <u>yer almaz</u>?</strong>
+    - A-) Dolaysız, net ve anlaşılır olmalıdır.
+    - **Cevap B-) Yalnızca g&ouml;rsellerden oluşmalıdır.**
+    - C-) İşlenebilir olmalıdır.
+    - D-) Etkileyici bir tasarıma sahip olmalıdır.
+    - E-) Amaca uygun ve tutarlı olmalıdır.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenenin bilgilendirme tasarımı hazırlama s&uuml;recindeki kazanımları arasında <u>yer almaz</u>?</strong>
+    - A-) G&ouml;rsel ve dijital okuryazarlık yeteneklerinin geliştirilmesi
+    - B-) &Ouml;z d&uuml;zenleyici &ouml;ğrenmenin sağlanması
+    - C-) Bilginin &ouml;rg&uuml;tlenmesi ve &ouml;ğrenmenin desteklenmesi
+    - D-) Anlamlı ve kalıcı &ouml;ğrenmenin sağlanması
+    - **Cevap E-) Dikkat ve odağın azaltılması**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının &ouml;ğrenme &uuml;zerindeki etkileri arasında <u>yer almaz</u>?</strong>
+    - **Cevap A-) Kısa s&uuml;reli bellekteki bilginin uzun s&uuml;reliği belleğe aktarılmasını sağlar.**
+    - B-) Bilginin g&ouml;rsel yolla aktarılması &ouml;ğrenenin konuya ilişkin g&uuml;d&uuml;lenmesini sağlar.
+    - C-) Soyut kavram ve konuları somutlaştırarak anlaşılabilirliğin artırılmasında etkilidir.
+    - D-) &Ouml;ğrenen ve &ouml;ğrenilen arasındaki ilişkinin kolay anlaşılır h&acirc;le gelmesini sağlar.
+    - E-) Kalıcı &ouml;ğrenmenin sağlanmasına aracılık eder.
     <hr />
 ## Unite 5
 1. <strong>Veriye ilişkin aşağıdaki tanımlamalardan hangisi&nbsp;<u>yanlıştır</u>?</strong>
@@ -355,6 +411,13 @@
     - D-) Verileri sadece uzmanlara y&ouml;nlendirmek
     - E-) İstatistik bilimini eleştirel olarak g&ouml;rmemek
     <hr />
+1. <strong>&ldquo;Sayısal ger&ccedil;eklerin bir toplamı veya koleksiyonu&rdquo; olarak tanımlanan &ouml;ge aşağıdakilerden hangisidir?</strong>
+    - A-) Veri
+    - B-) Grafik
+    - C-) Tablo
+    - **Cevap D-) İstatistik**
+    - E-) İnfografik
+    <hr />
 ## Unite 6
 1. <strong>&Ccedil;ağdaş bilgilendirme tasarımını kim icat etmiştir?</strong>
     - A-) Marie Neurath
@@ -426,6 +489,20 @@
     - **Cevap D-) Mies van der Rohe**
     - E-) L&aacute;szl&oacute; Moholy-Nagy
     <hr />
+1. <strong>Sanatsal &ccedil;alışmalarını, haritalar ve haritalandırma y&ouml;ntemi &uuml;zerine kuran akım aşağıdakilerden hangisidir?</strong>
+    - A-) Dadaizm
+    - B-) S&uuml;rrealizm
+    - C-) F&uuml;t&uuml;rizm
+    - **Cevap D-) Sit&uuml;asyonizm**
+    - E-) Cobra
+    <hr />
+1. <strong>Aşağıdakilerden hangisi fikirlerin g&ouml;rselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Hazırlık ve analiz aşaması
+    - B-) Konsept ve i&ccedil;erik haritalandırılması
+    - C-) Hedef kitlenin gereksinim ve beklentilerinin araştırılması
+    - D-) Gerekli bilgi, enformasyon ve verilerin toplanması
+    - **Cevap E-) SEO analiz aşaması**
+    <hr />
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiğinin eğitimde kullanıldığı duruma &ouml;rnek olarak <u>verilmemiştir</u>?</strong>
     - A-) Mevsimler, harfler, kelimeler, aylar, g&uuml;neş sistemi vb. ifadelerin kalıcı ve kolay algılanır şekilde sunulması
@@ -496,6 +573,20 @@
     - C-) Havaalanları
     - D-) M&uuml;zeler
     - **Cevap E-) Yemekhaneler**
+    <hr />
+1. <strong>Bilgilendirme Tasarımları gazetelerde hangi ama&ccedil;la kullanılmaktadır?</strong>
+    - A-) Yemek tarif ve i&ccedil;eriklerin g&ouml;rsel ve betimsel ifadelerinde
+    - B-) &Ouml;ğretimin kolaylaştırılmasında
+    - C-) Kolay ulaşım sağlamada
+    - D-) Aray&uuml;zlere basit erişim sağlamakta
+    - **Cevap E-) Verilerin basit bir anlatımla sunulmasında**
+    <hr />
+1. <strong>Editoryal infografikler nerede kullanılmaktadır?</strong>
+    - A-) Eğitimde
+    - B-) Afişlerde
+    - C-) Kiosklarda
+    - D-) Men&uuml;lerde
+    - **Cevap E-) Gazetelerde**
     <hr />
 ## Unite 8
 1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;recinde bilgi sınıflandırma aşamalarından biri <u>değildir</u>?</strong>
@@ -573,6 +664,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Estetik
     - E-) Yazı Karakteri
     <hr />
+1. <strong>&quot;Bir fikri ger&ccedil;ek ve kullanışlı kılmak i&ccedil;in tasarlanmış dosyadır.&quot;&nbsp;ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
+    - A-) Garamond
+    - B-) Yazı Karakteri
+    - C-) Times New Roman
+    - **Cevap D-) Font**
+    - E-) Comic Sans
+    <hr />
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi, genel olarak grafik tasarım ve bilgilendirme tasarımı &ccedil;alışmalarında kullanılan g&ouml;stergelerin &ouml;zelliğidir?</strong>
     - A-) Yerel
@@ -642,6 +740,20 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - B-) Representamen
     - **Cevap C-) İnterpretant**
     - D-) G&ouml;nderge
+    - E-) Semiyosis
+    <hr />
+1. <strong>Aşağıdakilerden hangisi g&ouml;stergebilimin tanımıdır?</strong>
+    - A-) G&ouml;stergebilim, g&ouml;stergelerin sanatsal işlevlerini inceleyen bir bilim dalıdır.
+    - **Cevap B-) G&ouml;stergebilim, g&ouml;stergeleri ve g&ouml;sterge sistemlerini inceleyen bir bilim dalıdır.**
+    - C-) G&ouml;stergebilim, g&ouml;stergelerin, sosyo-k&uuml;lt&uuml;rel &ouml;zelliklerini inceleyen bir bilim dalıdır.
+    - D-) G&ouml;stergebilim, k&uuml;lt&uuml;rel değişiklikleri inceleyen bir bilim dalıdır.
+    - E-) G&ouml;stergebilim, kitle iletişim sistemlerini inceleyen bir bilim dalıdır.
+    <hr />
+1. <strong>Peirce&rsquo;in G&ouml;sterge Modeli&#39;ne g&ouml;re g&ouml;stergenin nesnesi nasıl adlandırılır?</strong>
+    - A-) G&ouml;nderge
+    - B-) Representamen
+    - C-) İnterpretant
+    - **Cevap D-) Obje**
     - E-) Semiyosis
     <hr />
 ## Unite 10
@@ -716,6 +828,20 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Vurgu-Odak noktası
     - E-) Tartım
     <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımında temel tasarım ilkelerinden biridir?</strong>
+    - A-) G&ouml;r&uuml;nt&uuml;ler
+    - B-) Renk
+    - **Cevap C-) Tartım**
+    - D-) Yazı
+    - E-) Izgara Sistemi
+    <hr />
+1. <strong>Bilgilendirme tasarımlarında g&ouml;r&uuml;nt&uuml;ler başlığı adı altında aşağıdakilerden hangisi <u>sayılamaz</u>?</strong>
+    - A-) Fotoğraf
+    - B-) Video
+    - **Cevap C-) Tipografi**
+    - D-) Animasyon
+    - E-) &Ccedil;izim
+    <hr />
 ## Unite 11
 1. <strong>Bilgilendirme tasarımlarında Gestalt kuramı hangi ama&ccedil;la kullanılabilir?</strong>
     - A-) Tasarımların daha karmaşık olması amacıyla
@@ -786,6 +912,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) Ger&ccedil;ek hareket
     - D-) Otokinetik etki
     - E-) Monok&uuml;ler İpu&ccedil;ları
+    <hr />
+1. <strong>Aşağıdakilerden hangisi algısal gruplamanın unsurlarından <u>değildir</u>?</strong>
+    - **Cevap A-) Alanda y&uuml;kseklik**
+    - B-) Şekil-zemin ilişkisi
+    - C-) Tamamlama ilişkisi
+    - D-) Yakınlık ilişkisi
+    - E-) Benzerlik ilişkisi
     <hr />
 ## Unite 12
 1. <strong>Aşağıdakilerden bir baskı altı malzemesidir?</strong>
@@ -999,4 +1132,11 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) After Effects
     - D-) Photoshop
     - **Cevap E-) Unity**
+    <hr />
+1. <strong>Clever Franke tasarım st&uuml;dyosunun yaptığı web sitesinde mobil cihazlarda kullanıcı deneyimini sağlamak i&ccedil;in aşağıdakilerden hangisi yapılmıştır?</strong>
+    - **Cevap A-) Optimize edilmesi**
+    - B-) Grid sistemi kullanılması
+    - C-) Hareketli grafiklerin kullanım
+    - D-) AR kullanımı
+    - E-) Minimalist yaklaşım kullanılması
     <hr />

@@ -91,7 +91,14 @@
     - D-) Le Corbusier
     - E-) Alexandre Vallaury
     <hr />
-1. <strong>Aşağıdakilerden hangisi Konstr&uuml;ktivizm akımını benimsemiş bir sanat&ccedil;ıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi De Stijl Akımı&#39;nın temel prensibidir?</strong>
+    - A-) Doğadan ilham almak
+    - **Cevap B-) Doğadan yola &ccedil;ıkmayan soyutlamalar yapmak**
+    - C-) Gotik &uuml;sluptan esinlenmek
+    - D-) Doğu ve Uzak Doğu sanatı etkisinde eserler &uuml;retmek
+    - E-) Mitolojiden yola &ccedil;ıkan fig&uuml;ratif eserler &uuml;retmek
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Konstr&uuml;ktivizm Akımı&#39;nı benimsemiş bir sanat&ccedil;ıdır?</strong>
     - A-) Piet Mondrian
     - B-) Antoni Gaudi
     - **Cevap C-) Alexandr Rodchenko**
@@ -120,7 +127,7 @@
     - **Cevap D-) Weimar**
     - E-) New York
     <hr />
-1. <strong>Bauhaus y&ouml;neticilerinin g&ouml;reve gelişleri aşağıdakilerden hangisinde doğru sıralanmıştır?</strong>
+1. <strong>Bauhaus y&ouml;neticilerinin g&ouml;reve geliş sıraları aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
     - A-) Meyer, Gropius, Miesvan der Rohe
     - **Cevap B-) Gropius, Meyer, Miesvan der Rohe**
     - C-) Meyer, Miesvan der Rohe, Gropius
@@ -197,12 +204,26 @@
     - **Cevap D-) Nazi rejimi**
     - E-) Sosyal rejim
     <hr />
+1. <strong>Bauhaus stilin temel ilkeleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Resimsiz duvarlar
+    - B-) &Ccedil;ok cam kullanımı
+    - C-) &Ccedil;ok metal kullanımı
+    - D-) Mat camlı lambalar
+    - **Cevap E-) Kuş ve &ccedil;i&ccedil;ek desenli duvar k&acirc;ğıdı**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Bauhaus&#39;un &uuml;nl&uuml; &ouml;ğrencilerinden biri <u>değildir</u>?</strong>
     - A-) Gunta St&ouml;lzl
     - B-) Marianne Brandt
     - **Cevap C-) William Morris**
     - D-) Josef Hartwig
     - E-) Josef Albers
+    <hr />
+1. <strong>Bauhaus metal at&ouml;lyesinde &ccedil;alışmasına ilk defa izin verilen ve ikonik metal &ccedil;aydanlıkları tasarlayan kadın &ouml;ğrenci kimdir?</strong>
+    - A-) Anni Albers
+    - **Cevap B-) Marianne Brandt**
+    - C-) Gunta St&ouml;lzl
+    - D-) Otto Lindig
+    - E-) Elsa Frieda Fleischmann
     <hr />
 1. <strong>Ludwig Miesvan der Rohe&#39;nin tasarladığı &uuml;nl&uuml; koltuk aşağıdakilerden hangisidir?</strong>
     - A-) Wassily
@@ -233,9 +254,9 @@
     - D-) Komplementer olması
     - E-) Analog olması
     <hr />
-1. <strong>Kontrast &ccedil;eşitlerinden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Aşağıdaki kontrast &ccedil;eşitlerinden hangisi <u>yanlıştır</u>?</strong>
     - A-) A&ccedil;ık-koyu kontrastı
-    - B-) Eşzamanlı kontrastı
+    - B-) Eş zamanlı kontrastı
     - C-) Nitelik kontrastı
     - D-) Sıcak-soğuk kontrastı
     - **Cevap E-) Hava kontrastı**
@@ -275,7 +296,7 @@
     - D-) Sadeleştirir ve sakinleştirir.
     - **Cevap E-) &Ouml;zg&uuml;n ve ilgin&ccedil; hale getirir.**
     <hr />
-1. <strong>G&ouml;rsel ilişkilendirme ilkesi tasarım &ouml;ğelerini hangi y&ouml;ntemler yardımıyla gruplar halinde organize eder?</strong>
+1. <strong>G&ouml;rsel ilişkilendirme ilkesi tasarım &ouml;gelerini hangi y&ouml;ntemler yardımıyla gruplar h&acirc;linde organize eder?</strong>
     - **Cevap A-) &Ouml;rt&uuml;şme, şeffaflık, ge&ccedil;işme, ortak kenar paylaşma**
     - B-) Kapatma, şeffaflık, ge&ccedil;işme, ortak kenar paylaşma
     - C-) Kesişme, ge&ccedil;irgenlik, ortak kenar paylaştırma, &ouml;rt&uuml;şme
@@ -296,12 +317,26 @@
     - D-) Uzamsal y&ouml;nelim benzerliği
     - **Cevap E-) Duruş benzerliği**
     <hr />
+1. <strong>Aşağıdakilerden hangisi uzamdaki &ouml;gelerin arasında birine dikkat &ccedil;ekici &ouml;zellikler verilmesini anlatır?</strong>
+    - **Cevap A-) Vurgu/baskınlık**
+    - B-) Zıtlık/kontrast
+    - C-) Tekrar/ritim
+    - D-) Sadeleştirme/ekonomi
+    - E-) Vurgu/&ccedil;arpıcılık
+    <hr />
 1. <strong>Aşağıdakilerden hangisi izleyicinin bakışını uzaklara y&ouml;nlendirmeyi ama&ccedil;lar?</strong>
     - A-) Sığ uzam
     - B-) Plastik uzam
     - **Cevap C-) Derin uzam**
     - D-) Dekoratif uzam
     - E-) Ger&ccedil;ek uzam
+    <hr />
+1. <strong>Nitelik kontrastı renklerin hangi &ouml;zelliğine dayanır?</strong>
+    - A-) A&ccedil;ıklık değerine
+    - B-) Isı değerine
+    - C-) Miktarına
+    - D-) Derinliğine
+    - **Cevap E-) Kromasına**
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;izginin fiziksel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) Y&ouml;n&uuml;
@@ -416,6 +451,27 @@
     - **Cevap D-) Viyad&uuml;k**
     - E-) S şekil
     <hr />
+1. <strong>Aşağıdakilerden hangisi konuyu en al&ccedil;ak noktadan yukarı doğru bakarak g&ouml;steren kompozisyon &ccedil;eşididir?</strong>
+    - A-) Balık g&ouml;z&uuml;
+    - B-) Kaplan g&ouml;z&uuml;
+    - C-) Kuş bakışı
+    - D-) Tırtıl g&ouml;z&uuml;
+    - **Cevap E-) Solucan bakışı**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi izleyiciyi duygusal olarak rahatsız etmeye y&ouml;nelik bir d&uuml;zendir?</strong>
+    - A-) Topoğrafik d&uuml;zen
+    - **Cevap B-) Doğal olmayan d&uuml;zen**
+    - C-) Doğal d&uuml;zen
+    - D-) Mimari d&uuml;zen
+    - E-) Alışılagelmiş d&uuml;zen
+    <hr />
+1. <strong>Kırık (toprak) renklerin t&uuml;m saf renklerle uyum g&ouml;stermesi hangi &ouml;zelliklerine dayanır?</strong>
+    - A-) Sal olmalarına
+    - B-) Sıcak olmalarına
+    - C-) Geniş alan kaplamalarına
+    - **Cevap D-) T&uuml;m renklerin karışımı olmalarına**
+    - E-) Ana renkler olmalarına
+    <hr />
 1. <strong>Kompozisyonun en &ouml;nemli amacı aşağıdakilerden hangisidir?</strong>
     - A-) Objeler arasındaki ilişkilerinin g&uuml;zel sunulması
     - **Cevap B-) Mesajın net iletilmesini sağlaması**
@@ -488,10 +544,10 @@
     - E-) Araştırmada hi&ccedil;bir değişken olmaması
     <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım temelli araştırmayı eylem araştırmasından ayıran y&ouml;nlerden biridir?</strong>
-    - A-) Tasarım sorunlarına odaklanarak bir yeniliğin &uuml;retimini sağlamak
+    - **Cevap A-) Tasarım sorunlarına odaklanarak bir yeniliğin &uuml;retimini sağlamak**
     - B-) D&ouml;ng&uuml;sellik
     - C-) Eğitim alanında kullanılması
-    - **Cevap D-) Karma y&ouml;ntemlerin kullanılması**
+    - D-) Karma y&ouml;ntemlerin kullanılması
     - E-) Uygulama ve teoriyi birleştirmesi
     <hr />
 1. <strong>Aşağıdakilerden hangisi Wolcott ve arkadaşlarının tasarım temelli araştırma yapacak araştırmacılara sunduğu &ouml;nerilerden biri <u>değildir</u>?</strong>
@@ -515,6 +571,13 @@
     - D-) Tasarımcı g&uuml;nl&uuml;kleri
     - E-) Tasarım taslakları
     <hr />
+1. <strong>Aşağıdakilerden hangisi tasarım temelli araştırmaların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Eğitim problemlerini &ccedil;&ouml;zmeyi hedefler.
+    - B-) Araştırma kendi bağlamında yapılandırılır.
+    - C-) Yansıtıcıdır.
+    - D-) Karmaşıktır.
+    - **Cevap E-) Sistemsizdir.**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım temelli araştırmaların &ccedil;oğunlukla kullanıldığı alanlardan biridir?</strong>
     - **Cevap A-) Eğitim bilimleri**
     - B-) Mikrobiyoloji
@@ -528,6 +591,13 @@
     - C-) &Ouml;ğretmenler
     - **Cevap D-) Pilotlar**
     - E-) Alan uzmanları
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tasarım temelli araştırmaların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Bir yeniliğe odaklanmayan**
+    - B-) İ&ccedil;eriksel
+    - C-) Esnek
+    - D-) Faydacı
+    - E-) Tekrarlayan
     <hr />
 ## Unite 6
 1. <strong>Yaratıcılığı etkileyen temel bilişsel değişkenler nelerdir?</strong>
@@ -558,12 +628,12 @@
     - D-) Mekanik cihazların yeterlikleridir.
     - E-) İnsanı ilgilendirmeyen.
     <hr />
-1. <strong>Aşağıdakilerden hangisi yaratıcılığı etkileyen temel bilişsel değişkenlerden iki tanesidir?</strong>
-    - A-) K&uuml;lt&uuml;rel Fakt&ouml;rler ve Sosyoekonomik fakt&ouml;rler
-    - B-) Politik ve Dinsel fakt&ouml;rler
-    - C-) İ&ccedil;sel Motivasyon ve Sosyoekonomik fakt&ouml;rler
-    - D-) Dışsal Motivasyon ve Sosyoekonomik fakt&ouml;rler
-    - **Cevap E-) Zek&acirc; ve &Ouml;zel Yetenekler**
+1. <strong>Aşağıdakilerden hangisi yaratıcılığı etkileyen temel bilişsel değişkenlerden ikisidir?</strong>
+    - A-) K&uuml;lt&uuml;rel fakt&ouml;rler ve sosyoekonomik fakt&ouml;rler
+    - B-) Politik ve dinsel fakt&ouml;rler
+    - C-) İ&ccedil;sel motivasyon ve sosyoekonomik fakt&ouml;rler
+    - D-) Dışsal motivasyon ve sosyoekonomik fakt&ouml;rler
+    - **Cevap E-) Zek&acirc; ve &ouml;zel yetenekler**
     <hr />
 1. <strong>Aşağıdakilerden hangisi yaratıcılığın elde edilmesinde etken olan &uuml;&ccedil; t&uuml;r değişkendir?</strong>
     - A-) Genel &ndash; &Ouml;zel - Tarihsel
@@ -622,9 +692,24 @@
     - **Cevap D-) Tahmin ve varsayımsal y&ouml;ntem**
     - E-) Kitaplar ve diğer basılı kaynaklar
     <hr />
+1. Tasarım odaklı d&uuml;ş&uuml;nme, bir problemle başlamak yerine, &hellip;..............&hellip; başlar. Sorundan ziyade, insanların neye ihtiyacı olduğu anlaşılmasıyla belirlenir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) g&ouml;zlemle**
+    - B-) sipariş bir problemle
+    - C-) tasarımcının belirlediği bir sorunla
+    - D-) rastgele
+    - E-) &ouml;n yargısız ve plansız
+    <hr />
 1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&ouml;ntem olarak da bilinen Altı Şapka Y&ouml;ntemi&#39;nde analiz eden, karar veren ve d&uuml;ş&uuml;nme s&uuml;recini d&uuml;zenlemeyi temsil eden şapka rengidir?</strong>
     - **Cevap A-) Mavi Şapka**
     - B-) Beyaz Şapka
+    - C-) Yeşil Şapka
+    - D-) Kırmızı Şapka
+    - E-) Sarı Şapka
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&#246;ntem olarak da bilinen Altı Şapka Y&#246;ntemi&#39;nde kesin bilgiyi, tarafsız olmayı simgeleyen şapka rengidir?</strong>
+    - A-) Mavi Şapka
+    - **Cevap B-) Beyaz Şapka**
     - C-) Yeşil Şapka
     - D-) Kırmızı Şapka
     - E-) Sarı Şapka
@@ -751,6 +836,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Tasarımın heyecan verici olduğu
     - **Cevap D-) Tasarımın mistik veya sezgisel olmadığı**
     - E-) Tasarımın neşe ve enerji taşıması gerektiği
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &quot;tasarım&quot; teriminin T&uuml;rk&ccedil;e karşılıklarından biri <u>değildir</u>?</strong>
+    - **Cevap A-) Aktarım**
+    - B-) Plan
+    - C-) İlk taslak
+    - D-) Zihinsel temsil
+    - E-) Zihindeki canlandırma
     <hr />
 ## Unite 8
 1. <strong>Barnett Newman&rsquo;ın Kırık Obelisk heykeli ve Pablo Picasso&rsquo;nun Guernica tablosu aşağıdaki yaratıcı stratejilerden hangisi ile ilişkilendirilebilir?</strong>
@@ -1016,6 +1108,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Tasarımlar sadece &uuml;&ccedil; boyutlu değil, aynı zamanda iki boyutlu ortamlar i&ccedil;in de yapılmaktadır.
     - E-) Tasarımcılara farklı ger&ccedil;eklik t&uuml;rleri &uuml;zerinde &ccedil;alışma yapma olanağı sağlar.
     <hr />
+1. <strong>Aşağıdaki cihazlardan hangisi dijital ill&uuml;strasyon yaparken kullanılan &ouml;ncelikli ara&ccedil;lardan biridir?</strong>
+    - A-) Harici bellek
+    - **Cevap B-) &Ccedil;izim tableti**
+    - C-) Ses donanımı
+    - D-) Type-C soket
+    - E-) Google Glass
+    <hr />
 1. <strong>Vekt&ouml;rel tabanlı yazılımlar hakkında aşağıdaki ifadelerden hangisi doğrudur?</strong>
     - **Cevap A-) &Ccedil;alışma alanının b&uuml;y&uuml;kl&uuml;ğ&uuml; ne olursa olsun bozulma olmaz.**
     - B-) Daha az enerji t&uuml;ketir.
@@ -1125,11 +1224,11 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Gelecek kuşakların ihtiyacından almadan, bug&uuml;n&uuml; &uuml;retmek**
     - E-) Bir g&uuml;zel resim yapmak
     <hr />
-1. <strong>S&uuml;rd&uuml;r&uuml;lebilir Kalkınma farkındalık toplantıları ne zaman başlamıştır?</strong>
-    - A-) &Ccedil;izimle başlamıştır.
+1. <strong>S&#252;rd&#252;r&#252;lebilir kalkınma farkındalık toplantıları ne zaman başlamıştır?</strong>
+    - A-) &#199;izimle başlamıştır.
     - B-) Resimle başlamıştır.
-    - **Cevap C-) 1972 yılında Stokholm&rsquo;de başlamıştır.**
-    - D-) İnsanın ara&ccedil; gere&ccedil; yapımıyla başlamıştır.
+    - **Cevap C-) 1972 yılında Stokholm'de başlamıştır.**
+    - D-) İnsanın ara&#231; gere&#231; yapımıyla başlamıştır.
     - E-) İnsanın heykel yapımıyla başlamıştır.
     <hr />
 1. <strong>S&uuml;rd&uuml;r&uuml;lebilir Kalkınma hedefleri ka&ccedil; maddeden oluşmaktadır?</strong>
@@ -1206,6 +1305,13 @@ IV. S&uuml;rekli &uuml;retim yapmak<br />
     - **Cevap D-) I, II ve III**
     - E-) I, II, III ve IV
     <hr />
+1. <strong>3-14 Haziran 1992 tarihleri arasında, Rio de Janerio&rsquo;da d&uuml;zenlenen Birleşmiş Milletler &Ccedil;evre ve Kalkınma Konferansı ni&ccedil;in toplanmıştır?</strong>
+    - A-) Bitkilerin korunması
+    - **Cevap B-) &Ccedil;evreye duyarlı politikaların geliştirilmesi**
+    - C-) Hayvanların korunması
+    - D-) Fabrikaların kapatılması
+    - E-) Ara&ccedil;ların azaltılması
+    <hr />
 1. I. Yoksullukla m&uuml;cadele<br />
 II.&nbsp;Sorumlu &uuml;retim ve t&uuml;ketim<br />
 III.&nbsp;Sağlıklı yaşam<br />
@@ -1238,9 +1344,9 @@ III.&nbsp;Sağlıklı yaşam<br />
     - **Cevap D-) Ekonomi**
     - E-) Eğitim
     <hr />
-1. &Ouml;zlem Er ve Alpay Er&rsquo;in 2003 yılında hazırladıkları yayında tasarımı; makalesinde &lsquo;teknoloji ve bilginin insanların kullanabileceği bir &uuml;r&uuml;ne d&ouml;n&uuml;şt&uuml;r&uuml;ld&uuml;ğ&uuml; s&uuml;re&ccedil;&rsquo; olarak tanımlanmaktadır.<br />
-<strong>Yukarıdaki tanıma g&ouml;re tasarım nasıl bir s&uuml;re&ccedil; olarak tanımlanmaktadır?</strong>
-    - **Cevap A-) Yenilik&ccedil;i**
+1. &#214;zlem Er ve Alpay Er tarafından 2003 yılında yayımlanan makalede tasarım; &quot;teknoloji ve bilginin insanların kullanabileceği bir &#252;r&#252;ne d&#246;n&#252;şt&#252;r&#252;ld&#252;ğ&#252; s&#252;re&#231;&quot; olarak tanımlanmaktadır.<br />
+<strong>Buna g&#246;re tasarım nasıl bir s&#252;re&#231; olarak tanımlanmaktadır?</strong>
+    - **Cevap A-) Yenilik&#231;i**
     - B-) Modern
     - C-) Gelişimsel
     - D-) Gelenekselci
@@ -1391,7 +1497,7 @@ III.&nbsp;Sağlıklı yaşam<br />
     - A-) Tasarım kararlarını doğrulamak ve sorunları belirlemek i&ccedil;in kullanıcı testi yapmak
     - **Cevap B-) &Uuml;r&uuml;n olarak web sitesinin d&uuml;ğme, tasarımları ve bu tasarımlardaki metinleri oluşturmak**
     - C-) Hedef kitleye/m&uuml;şterilere dayalı kullanıcı kişilikleri geliştirmek
-    - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak&nbsp;
+    - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak
     - E-) Bir m&uuml;şterinin bir &uuml;r&uuml;nle nasıl etkileşime girdiğini analiz etmek i&ccedil;in kullanıcı yolculuk haritaları oluşturmak
     <hr />
 1. <strong>Aşağıdaki lerden hangisi Etkileşim Tasarımının 5 Boyutu ile ilgili maddeler arasında <u>yer almaz</u>?</strong>

@@ -2,12 +2,11 @@
 ## Unite 1
 1. A: May I see your passport, please?<br />
 B: Yes,...........................................<br />
-<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) she could
     - B-) I can
     - **Cevap C-) you may**
-    - D-) you might to&nbsp;
+    - D-) you might to
     - E-) I may
     <hr />
 1. He ............ feel sad, but I am not sure.<br />
@@ -44,6 +43,14 @@ Ahmet: I ........................... to &nbsp;send it to Ankara.<br />
     - D-) may
     - E-) could
     <hr />
+1. You .................... miss the examination if you do not take a taxi now.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) has been
+    - B-) can be
+    - C-) could be
+    - **Cevap D-) might**
+    - E-) could have
+    <hr />
 1. I can ............. English fluently.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) speak**
@@ -53,8 +60,7 @@ Ahmet: I ........................... to &nbsp;send it to Ankara.<br />
     - E-) spoken
     <hr />
 1. Bir bebek y&uuml;r&uuml;yebilir ve konuşabilir.<br />
-<strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br />
-
+<strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) A baby will walk and talk.
     - **Cevap B-) A baby can walk and talk.**
     - C-) A baby prefers to walk and talk.
@@ -63,8 +69,7 @@ Ahmet: I ........................... to &nbsp;send it to Ankara.<br />
     <hr />
 1. able / she / speak / is / French / to<br />
 <strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle<br />
-aşağıdakilerden hangisidir?</strong><br />
-
+aşağıdakilerden hangisidir?</strong>
     - A-) Able she is speak French to.
     - B-) She able is speak French to.
     - **Cevap C-) She is able to speak French.**
@@ -134,7 +139,6 @@ Which of thefollowing is Turkish translation of the sentence above?<br />
     <hr />
 1. I like ......................choose my own working hours and office in my current job.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - A-) is able to
     - B-) do not
     - C-) is not
@@ -189,7 +193,7 @@ They look so alike. Which of the following completes the sentence above?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) have to**
     - B-) shouldn&#39;t
-    - C-) mustn&#39;t&nbsp;
+    - C-) mustn&#39;t
     - D-) had to
     - E-) must
     <hr />
@@ -298,8 +302,7 @@ They look so alike. Which of the following completes the sentence above?<br />
     - E-) Have
     <hr />
 1. Bu ilacı almalı mıyım? (tavsiye, nasihat alma)<br />
-<strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong><br />
-
+<strong>Yukarıdaki c&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) Can I take this medicine?
     - B-) May I take this medicine?
     - C-) Must I take this medicine?
@@ -324,7 +327,6 @@ They look so alike. Which of the following completes the sentence above?<br />
     <hr />
 1. Could you .......... the window, please?&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - **Cevap A-) open**
     - B-) opens
     - C-) opening
@@ -354,10 +356,10 @@ They look so alike. Which of the following completes the sentence above?<br />
 <strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br />
 <strong>Sarah:</strong>&nbsp;.................................................... . Where are the changing rooms?<br />
 <strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;&nbsp;</strong>
-    - A-) Oh, no. Thank you.&nbsp;
+    - A-) Oh, no. Thank you.
     - B-) Maybe later.
-    - C-) I don&#39;t need to do that.&nbsp;
-    - D-) Yes, I&#39;ll pay it in cash.&nbsp;
+    - C-) I don&#39;t need to do that.
+    - D-) Yes, I&#39;ll pay it in cash.
     - **Cevap E-) I had better try it on.**
     <hr />
 ## Unite 3
@@ -448,7 +450,6 @@ Which of the following completes the passive sentence above?<br />
     <hr />
 1. The trees ................not ..................... yesterday.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - A-) were - watering
     - B-) was - watered
     - C-) is - watered
@@ -482,6 +483,14 @@ Which of the following is Turkish translation of the sentence above?<br />
     - D-) O, arsa konusunda kimsenin s&ouml;z&uuml;n&uuml; dinlemiyordu.
     - **Cevap E-) O, toprağını satması i&ccedil;in hi&ccedil; kimse tarafından ikna edilemedi.**
     <hr />
+1. She waters the flowers weekly.<br />
+<strong>C&uuml;mlenin olumsuz edilgen bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) The flowers are not watered weekly.**
+    - B-) The flowers could not watered weekly.
+    - C-) The flowers will not watered weekly.
+    - D-) The flower was watered weekly.
+    - E-) The flowers should watered weekly.
+    <hr />
 1. The dishes .......................................... yesterday.<br />
 <strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are washed
@@ -492,7 +501,6 @@ Which of the following is Turkish translation of the sentence above?<br />
     <hr />
 1. The room is .......... everyday by me.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - A-) clean
     - B-) cleanes
     - C-) are cleaning
@@ -500,8 +508,7 @@ Which of the following is Turkish translation of the sentence above?<br />
     - **Cevap E-) cleaned**
     <hr />
 1. The tree .......... watered (by me) yesterday.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) did
     - **Cevap B-) was**
     - C-) were
@@ -558,8 +565,7 @@ Which of the following is Turkish translation of the sentence above?<br />
     - **Cevap E-) by**
     <hr />
 1. Ayşe was given a birthday present by Ahmet<br />
-<strong>Yukarıdaki &nbsp;edilgen c&uuml;mlenin etken c&uuml;mleye d&ouml;n&uuml;şt&uuml;r&uuml;lm&uuml;ş h&acirc;li aşağıdaki se&ccedil;eneklerden hangisidir?</strong><br type="_moz" />
-
+<strong>Yukarıdaki &nbsp;edilgen c&uuml;mlenin etken c&uuml;mleye d&ouml;n&uuml;şt&uuml;r&uuml;lm&uuml;ş h&acirc;li aşağıdaki se&ccedil;eneklerden hangisidir?</strong>
     - A-) Ahmet has given a birthday present to Ayşe.
     - B-) Ahmet gives a birthday present to Ayşe
     - C-) Ahmet will give a birthday present to Ayşe.
@@ -651,6 +657,14 @@ Which of the following completes the passive sentence above?<br />
     - D-) have been
     - **Cevap E-) will be**
     <hr />
+1. ...............all my shirts .................. washed and ironed by tomorrow evening?<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Is - being
+    - **Cevap B-) Will - be**
+    - C-) Was - being
+    - D-) Have - been
+    - E-) Has - have
+    <hr />
 1. Your doctor&rsquo;s appointment is at 09:00 a.m. tomorrow and you ........................................ given detailed feedback about your health.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) will has been
@@ -659,9 +673,16 @@ Which of the following completes the passive sentence above?<br />
     - D-) were being
     - E-) had been
     <hr />
+1. for passing through / penalty / will you be given / the red traffic light<br />
+<strong>Karışık olarak verilmiş kelimelerin c&uuml;mle h&acirc;li aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) Will you be given penalty for passing through the red traffic light?**
+    - B-) Will you be given the red traffic light penalty for passing through?
+    - C-) Penalty will you be given for passing through the red traffic light?
+    - D-) The red traffic light will you be given penalty for passing through?
+    - E-) Will you be given the red traffic light for passing through penalty?
+    <hr />
 1. The old man .......... going to be taken to the hospital soon.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) be
     - B-) were
     - C-) am
@@ -693,7 +714,7 @@ Which of the following completes the passive sentence above?<br />
 <strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) I&#39;ll check and come back to help you.**
     - B-) Do you like everything in black?
-    - C-) I&#39;ll measure your waist.&nbsp;
+    - C-) I&#39;ll measure your waist.
     - D-) Will you pay for tailor&#39;s service?
     - E-) Do you want to shorten it?
     <hr />
@@ -775,8 +796,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     - E-) Senin yerinde olsam aynı hatayı yapar mıyım?
     <hr />
 1. If I were you, I would buy a lovely gift to her.<br />
-<strong>C&uuml;mlenin &ccedil;evirisi aşağıdakilerden hangisidir?</strong><br />
-
+<strong>C&uuml;mlenin &ccedil;evirisi aşağıdakilerden hangisidir?</strong>
     - A-) Senin yerinde olsam, bana ne alırdın?
     - **Cevap B-) Senin yerinde olsam, ona g&uuml;zel bir hediye alırdım.**
     - C-) Benim yerimde olsan, bana g&uuml;zel bir hediye alırsın.
@@ -820,11 +840,10 @@ Which of the following completes the dialogue above?<br />
     - E-) will think
     <hr />
 1. If you .......... regular exercise, you .......... fit.<br />
-<strong>C&uuml;mlede boş bırakılan yere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) does / keep
     - B-) does / keeps
-    - C-) doing / keeping&nbsp;
+    - C-) doing / keeping
     - **Cevap D-) do / keep**
     - E-) do / keeps
     <hr />
@@ -838,11 +857,11 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. If you pay in cash, I will give you 10% discount.<br />
 <strong>Yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e karşılığı aşağıdakilerden hangisidir?</strong>
-    - A-) Eğer taksitli alırsanız, size %10 zam yapacağım.&nbsp;
+    - A-) Eğer taksitli alırsanız, size %10 zam yapacağım.
     - **Cevap B-) Eğer nakit &ouml;derseniz, size %10&#39;luk iskonto yapacağım.&nbsp;**
-    - C-) Eğer hepsini almak isterseniz, size %10&#39;luk indirim yapacağım.&nbsp;
-    - D-) Eğer taksitli almak isterseniz, sizin %10&#39;luk iskontonuz olmaz.&nbsp;
-    - E-) Eğer nakit &ouml;derseniz, size %10&#39;u değerinde hediye vereceğim.&nbsp;
+    - C-) Eğer hepsini almak isterseniz, size %10&#39;luk indirim yapacağım.
+    - D-) Eğer taksitli almak isterseniz, sizin %10&#39;luk iskontonuz olmaz.
+    - E-) Eğer nakit &ouml;derseniz, size %10&#39;u değerinde hediye vereceğim.
     <hr />
 1. If it is sunny tomorrow, we .............................. a family picnic.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
@@ -886,8 +905,7 @@ Which of the following completes the dialogue above?<br />
     - **Cevap E-) could**
     <hr />
 1. I feel really bored. I wish I &hellip;&hellip;&hellip;. a book to read.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) had**
     - B-) have
     - C-) has
@@ -895,7 +913,7 @@ Which of the following completes the dialogue above?<br />
     - E-) had had
     <hr />
 1. It snows a lot here. I wish it&nbsp;........................&nbsp;so much.<br />
-<strong>C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong> 
+<strong style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;; font-size: 13px;">C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong> 
     - A-) isn&rsquo;t snow
     - **Cevap B-) didn&rsquo;t snow**
     - C-) not snow
@@ -911,8 +929,7 @@ Which of the following completes the dialogue above?<br />
     - E-) have
     <hr />
 1. There was a concert yesterday. I wish I &hellip;&hellip;&hellip;&hellip;. known about the concert.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) have
     - C-) has
@@ -951,8 +968,7 @@ Which of the following completes the dialogue above?<br />
     - E-) study
     <hr />
 1. This room is very noisy. I wish I &hellip;&hellip;&hellip;.. my own room.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmedir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmedir?</strong>
     - A-) has
     - B-) have
     - C-) am
@@ -961,16 +977,22 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. Unfortunately, I can&rsquo;t buy her a beautiful gift. I wish I ..................... enough money to buy it.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - **Cevap A-) had**
     - B-) have
     - C-) is
     - D-) are
     - E-) am
     <hr />
+1. I cannot go on holiday. I wish I .......... go.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) can
+    - B-) will
+    - C-) am gong to
+    - **Cevap D-) could**
+    - E-) was
+    <hr />
 1. I can see that your assignment is quite difficult. I wish I .......... help you.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) will
     - B-) am going to
     - **Cevap C-) could**
@@ -1107,6 +1129,14 @@ Which of the following completes the dialogue above?<br />
     - D-) where
     - E-) who
     <hr />
+1. A banana is a fruit ................. is yellow.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) where
+    - B-) whom
+    - **Cevap C-) that**
+    - D-) whose
+    - E-) who
+    <hr />
 1. Historians found different Hoods who lived in different parts of England.<br />
 <strong>C&uuml;mlesinin T&uuml;rk&ccedil;e &ccedil;evirisi aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Tarih&ccedil;iler İngiltere&rsquo;nin bir&ccedil;ok yerinde yaşamış bazı Hoods&rsquo;lara rastladılar.
@@ -1115,9 +1145,17 @@ Which of the following completes the dialogue above?<br />
     - D-) Tarih&ccedil;iler İngiltere&rsquo;nin değişik yerlerine gidip gelen Hoods&rsquo;tan bahsederler.
     - E-) Tarih&ccedil;iler İngiltere&rsquo;nin orta kesimlerinde yaşamış birka&ccedil; Hoods buldular.
     <hr />
+1. A: The school ............... I go to is far.&nbsp;<br />
+B: So how far is it?<br />
+<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+    - A-) when
+    - **Cevap B-) which**
+    - C-) why
+    - D-) while
+    - E-) who
+    <hr />
 1. I need a car .......... is strong and big.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) what
     - B-) why
     - C-) where
@@ -1125,13 +1163,20 @@ Which of the following completes the dialogue above?<br />
     - **Cevap E-) which**
     <hr />
 1. The teacher ............. from Erzurum is very kind.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) who is**
     - B-) what is
     - C-) which is
     - D-) whose are
     - E-) that are
+    <hr />
+1. I will choose a student .......... has done his homework.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) what
+    - **Cevap B-) who**
+    - C-) when
+    - D-) which
+    - E-) why
     <hr />
 1. &quot;Seyit Onbaşı&quot; is a national ...................... . He carried weapons weighing 275 kg in &Ccedil;anakkale in the First World War.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1718,10 +1763,10 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. Students will have to take &hellip;&hellip;&hellip;&hellip; German&hellip;&hellip;&hellip;.. French next year.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) either - or**
-    - B-) but - or
-    - C-) or - yet
-    - D-) and - yet
-    - E-) and - both
+    - B-) but <span>- </span>or
+    - C-) or <span>- </span>yet
+    - D-) and <span>- </span>yet
+    - E-) and <span>- </span>both
     <hr />
 1. He ran, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; he missed the bus.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1757,7 +1802,6 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. Yesterday I went to school and saw my friend, &hellip;&hellip;&hellip;&hellip;.he didn&rsquo;t want to talk to me.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-
     - A-) so
     - B-) and
     - C-) nor
@@ -1827,6 +1871,14 @@ Which of the following is the Turkish translation of the sentence above?<br />
     - C-) for
     - D-) and
     - E-) so
+    <hr />
+1. I&rsquo;ve bought an English dictionary, ................ I need to learn English vocabulary.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) nor
+    - B-) but
+    - C-) or
+    - **Cevap D-) for**
+    - E-) yet
     <hr />
 1. This summer, I .......... my family may go to Bodrum or Marmaris.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1989,6 +2041,15 @@ Which of the following conjunctions completes the statement above?<br />
     - D-) While I like ice cream, I do not eat it in winter.
     - E-) As I like ice cream, I do not eat it in winter.
     <hr />
+1. A: What time is it playing?<br />
+B: .....................................<br />
+<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+    - A-) I will have it free providing that I finish my homework.
+    - B-) I will not tell you its name untill we get to the cinema.
+    - C-) You will know about its name after we arrive there.
+    - D-) I will do my best and finish my homework.
+    - **Cevap E-) It is playing at 3 p.m., 5. p.m., and 7 p.m.**
+    <hr />
 1. ................. it was a risky plan, they wanted to take their chance.&nbsp;&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) Before
@@ -2000,7 +2061,7 @@ Which of the following conjunctions completes the statement above?<br />
 1. People should be ................. and respectful of&nbsp;other cultures.&nbsp;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) organized
-    - B-) patient
+    - B-) reduce
     - **Cevap C-) tolerant**
     - D-) worried
     - E-) stressful
@@ -2039,8 +2100,7 @@ Which of the following conjunctions completes the statement above?<br />
     - E-) for
     <hr />
 1. Our washing machine has broken ..............<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong><br />
-
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) at
     - B-) after
     - **Cevap C-) down**

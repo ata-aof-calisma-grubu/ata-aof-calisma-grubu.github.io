@@ -145,7 +145,7 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - D-) R&ouml;lyef
     - E-) &Ccedil;ini
     <hr />
-1. <strong>Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap b&ouml;l&uuml;m&uuml;n&uuml; teşkil&nbsp;eden, doğu y&ouml;n&uuml;n&uuml; g&ouml;steren genellikle yarım yuvarlak planlı niş i&ccedil;in aşağıdaki ifadelerden hangisi kullanılır?</strong>
+1. <strong>Kiliselerde koronun arkasında bulunan ve camilerdeki mihrap b&ouml;l&uuml;m&uuml;n&uuml; teşkil eden, doğu y&ouml;n&uuml;n&uuml; g&ouml;steren genellikle yarım yuvarlak planlı niş i&ccedil;in aşağıdaki ifadelerden hangisi kullanılır?</strong>
     - A-) Mihrap
     - **Cevap B-) Apsis**
     - C-) Narteks
@@ -287,10 +287,10 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - D-) J. Lubbock
     - **Cevap E-) Friedrich Hrozny**
     <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;zden 12.000 yıl &ouml;ncesine tarihlenen G&ouml;bekli Tepe hangi d&ouml;neme&nbsp; ait bir inan&ccedil; merkezidir?</strong>
+1. <strong>G&uuml;n&uuml;m&uuml;zden 12.000 yıl &ouml;ncesine tarihlenen G&ouml;bekli Tepe hangi d&ouml;neme ait bir inan&ccedil; merkezidir?</strong>
     - **Cevap A-) Paleolitik D&ouml;nem**
-    - B-) Neolitik&nbsp;D&ouml;nem
-    - C-) Kalkolitik&nbsp;D&ouml;nem
+    - B-) Neolitik D&ouml;nem
+    - C-) Kalkolitik D&ouml;nem
     - D-) Bronz Devri
     - E-) Tun&ccedil; Devri
     <hr />
@@ -316,7 +316,7 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - D-) Vandallar
     - E-) Burgondlar
     <hr />
-1. <strong>&nbsp;M&Ouml; 10.000 yani g&uuml;n&uuml;m&uuml;zden 12.000 yıl&nbsp;&ouml;ncesine tarihlenen, Neolitik D&ouml;nem&rsquo;e ait bir inan&ccedil; merkezi olan ve &quot;T&quot; bi&ccedil;imindeki dikilitaşlarıyla &ouml;n plana &ccedil;ıkan b&ouml;lge aşağıdakilerden hangisidir?</strong>
+1. <strong> M&Ouml; 10.000 yani g&uuml;n&uuml;m&uuml;zden 12.000 yıl &ouml;ncesine tarihlenen, Neolitik D&ouml;nem&rsquo;e ait bir inan&ccedil; merkezi olan ve &quot;T&quot; bi&ccedil;imindeki dikilitaşlarıyla &ouml;n plana &ccedil;ıkan b&ouml;lge aşağıdakilerden hangisidir?</strong>
     - A-) Nevali &Ccedil;ori
     - B-) &Ccedil;ay&ouml;n&uuml;
     - **Cevap C-) G&ouml;beklitepe**
@@ -330,10 +330,10 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - **Cevap D-) Asurlular**
     - E-) Likyalılar
     <hr />
-1. I.&nbsp;&Ccedil;avuştepe<br />
+1. I. &Ccedil;avuştepe<br />
 II.Toprakkale<br />
 III. Alişar<br />
-<strong>Yukarıdaki yerleşim yerlerinden hangisi ya da hangileri Urartuların &ouml;nemli kale veya tapınak yerlerinden biri&nbsp;<u>değildir</u>?</strong>
+<strong>Yukarıdaki yerleşim yerlerinden hangisi ya da hangileri Urartuların &ouml;nemli kale veya tapınak yerlerinden biri <u>değildir</u>?</strong>
     - A-) I ve II
     - B-) Yalnız I
     - C-) Yalnız II
@@ -418,7 +418,7 @@ III. Alişar<br />
     - D-) Asur
     - E-) Mısır
     <hr />
-1. <strong>Aşağıdakilerden hangisi &Ccedil;in Seddi&#39;nin yapılış ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &Ccedil;in Seddi&#39;nin yapılış ama&ccedil;larından biri <u>değildir</u>?</strong> 
     - A-) T&uuml;rk boylarının saldırısına karşı savunmak
     - B-) Uzun savaşlar sonunda yıktığı beyliklerin esir d&uuml;şen y&ouml;neticilerini s&uuml;rg&uuml;n ve ağır işe s&uuml;rerek cezalandırmak
     - C-) &Uuml;lkeden ka&ccedil;ışları &ouml;nlemek
@@ -578,7 +578,7 @@ III. Ev Mimarisi<br />
     - D-) Nimfeum
     - E-) Gymnasium
     <hr />
-1. <strong>Duvar &ouml;rg&uuml;s&uuml;nde taş ve tuğlaları pozolona adı verilen,&nbsp; volkanik k&uuml;llerden oluşan, g&uuml;n&uuml;m&uuml;z &ccedil;imentosunu andıran har&ccedil;la birleştirerek kullanarak, b&uuml;y&uuml;k yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>
+1. <strong>Duvar &ouml;rg&uuml;s&uuml;nde taş ve tuğlaları pozolona adı verilen, volkanik k&uuml;llerden oluşan, g&uuml;n&uuml;m&uuml;z &ccedil;imentosunu andıran har&ccedil;la birleştirerek kullanarak, b&uuml;y&uuml;k yapıların gelişmesini sağlayan medeniyet aşağıdakilerden hangisidir?</strong>
     - A-) Yunan
     - **Cevap B-) Roma**
     - C-) Etr&uuml;sk
@@ -599,7 +599,7 @@ III. Ev Mimarisi<br />
     - D-) Piramid
     - **Cevap E-) Pantheon**
     <hr />
-1. <strong>D&uuml;nyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta i&ccedil;erisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş,&nbsp; bir Katolik kilisesi h&acirc;line getirilmiş yapı aşağıdakilerden hangisidir?</strong>
+1. <strong>D&uuml;nyanın en iyi korunmuş Antik Roma Anıtı olarak biliniyor. İlk başta i&ccedil;erisinde pagan tanrı heykelleri varken, kilise tarafından bu heykeller yok edilmiş, bir Katolik kilisesi h&acirc;line getirilmiş yapı aşağıdakilerden hangisidir?</strong>
     - A-) Ayasofya
     - **Cevap B-) Pantheon**
     - C-) San Pier
@@ -673,7 +673,7 @@ III. Klasik D&ouml;nem: Fig&uuml;rlerde idealizm &ouml;n plandadır, yapılan he
     - D-) Franklar
     - **Cevap E-) Roma**
     <hr />
-1. M&Ouml; 7. y&uuml;zyıldan itibaren tanrılar i&ccedil;in inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların bi&ccedil;imi,&nbsp;s&uuml;slemesi, planı belirli kurallara bağlanmıştır. Bu kurallara &ldquo;nizam&rdquo; adı verilmektedir. Tapınakların hangi nizama g&ouml;re yapıldığı cephe d&uuml;zeni ve s&uuml;tun başlıklarından anlaşılmaktadır.<strong><br />
+1. M&Ouml; 7. y&uuml;zyıldan itibaren tanrılar i&ccedil;in inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların bi&ccedil;imi, s&uuml;slemesi, planı belirli kurallara bağlanmıştır. Bu kurallara &ldquo;nizam&rdquo; adı verilmektedir. Tapınakların hangi nizama g&ouml;re yapıldığı cephe d&uuml;zeni ve s&uuml;tun başlıklarından anlaşılmaktadır.<strong>
 Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Dor, İyon ve Korint**
     - B-) Dor, Samerra ve Ampir
@@ -681,17 +681,17 @@ Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</stro
     - D-) İyon, Antik ve Vol&uuml;t
     - E-) Dor, İyon ve C &Uuml;slubu
     <hr />
-1. <strong>Yunanistan&rsquo;da g&uuml;&ccedil;l&uuml; surlarla korunan şehirlere &ldquo;polis&rdquo; adı verilir, bu şehirler surlarla &ccedil;evrilmişlerdir.&nbsp; Bu şehirlerde birbirine paralel ve birbirini dik kesen d&uuml;zenli caddelerin bulunduğu&nbsp;Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>
+1. <strong>Yunanistan&rsquo;da g&uuml;&ccedil;l&uuml; surlarla korunan şehirlere &ldquo;polis&rdquo; adı verilir, bu şehirler surlarla &ccedil;evrilmişlerdir. Bu şehirlerde birbirine paralel ve birbirini dik kesen d&uuml;zenli caddelerin bulunduğu Hippodamos planının diğer ismi aşağıdakilerden hangisidir?</strong>
     - A-) Karışık Plan
     - **Cevap B-) Izgara Plan**
     - C-) Rotond Plan
     - D-) Klasik Plan
     - E-) Eyvanlı Plan
     <hr />
-1. <strong>Roma, efsaneye g&ouml;re M&Ouml; 27 Nisan 753 tarihinde,&nbsp;Truva Prensi Aeneas&#39;ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>
+1. <strong>Roma, efsaneye g&ouml;re M&Ouml; 27 Nisan 753 tarihinde, Truva Prensi Aeneas&#39;ın torunları olarak da bilinen hangi kardeşler tarafından kurulmuştur?</strong>
     - **Cevap A-) Romulus ve Remus**
     - B-) Attila ve Bleda
-    - C-) Herodot ve&nbsp;Pasteur
+    - C-) Herodot ve Pasteur
     - D-) Herk&uuml;l-Apollo
     - E-) Gog-Magog
     <hr />
@@ -836,7 +836,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - E-) Antakya
     <hr />
 1. Bizans D&ouml;nemi&rsquo;nden kalma İstanbul&rsquo;da yedi tane dikilitaş mevcuttur.<br />
-<strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri&nbsp;<u>değildir</u>?</strong>
+<strong>Aşağıdakilerden hangisi bu dikilitaşlardan biri <u>değildir</u>?</strong>
     - A-) Obelisk (Dikilitaş)
     - B-) Yılanlı S&uuml;tun
     - C-) &Ouml;rmeli S&uuml;tun
@@ -850,7 +850,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Mozaik
     - E-) Tempera
     <hr />
-1. <strong>Aşağıdakilerden hangisi Bizans İmparatorluğu&#39;nun tarihi d&ouml;nemlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Bizans İmparatorluğu&#39;nun tarihi d&ouml;nemlerinden biri <u>değildir</u>?</strong>
     - A-) İntikal ve Ge&ccedil;iş D&ouml;nemi
     - B-) İkonoklazma D&ouml;nemi
     - C-) Latin İstilası
@@ -1000,11 +1000,11 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
 1. <strong>S&icirc;d&icirc; Ukbe Camii kim tarafından ne zaman yaptırılmıştır?</strong>
     - **Cevap A-) Ukbe b. Nafi tarafından 670&rsquo;te**
     - B-) Halife Abd&uuml;lmelik b. Mervan tarafından 691&rsquo;te
-    - C-) Halife I. Velid b. Abd&uuml;lmelik&nbsp; tarafından 705-715&rsquo;te
+    - C-) Halife I. Velid b. Abd&uuml;lmelik tarafından 705-715&rsquo;te
     - D-) S&uuml;leyman bin Abd&uuml;lmelik tarafından 715-716&#39;da
-    - E-) Sa&#39;d bin Ebi Vakkas&nbsp; tarafından 635&lsquo;te
+    - E-) Sa&#39;d bin Ebi Vakkas tarafından 635&lsquo;te
     <hr />
-1. <strong>Kur&rsquo;an-ı Kerim&rsquo;deki ayetlere g&ouml;re&nbsp; K&acirc;be ne zaman yapılmıştır?</strong>
+1. <strong>Kur&rsquo;an-ı Kerim&rsquo;deki ayetlere g&ouml;re K&acirc;be ne zaman yapılmıştır?</strong>
     - **Cevap A-) Hz. İbrahim&rsquo;den &ouml;nce**
     - B-) Hz. Muhammed&rsquo;ten &ouml;nce
     - C-) Hz. Musa&rsquo;dan &ouml;nce
@@ -1018,7 +1018,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) &Ccedil;ok kubbeli
     - E-) Taphaneli
     <hr />
-1. <strong>D&ouml;rt Halife D&ouml;nemi&rsquo;nden sonra kurulan ve 661-750 yılları arasında h&uuml;k&uuml;m s&uuml;rm&uuml;ş olan,&nbsp;Mescid-i Aksa ve Kubbet&uuml;&#39;s Sahra gibi yapıları inşa eden M&uuml;sl&uuml;man Arap Devleti aşağıdakilerden hangisidir?</strong>
+1. <strong>D&ouml;rt Halife D&ouml;nemi&rsquo;nden sonra kurulan ve 661-750 yılları arasında h&uuml;k&uuml;m s&uuml;rm&uuml;ş olan, Mescid-i Aksa ve Kubbet&uuml;&#39;s Sahra gibi yapıları inşa eden M&uuml;sl&uuml;man Arap Devleti aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Emeviler**
     - B-) Abbasiler
     - C-) Gazneliler
@@ -1055,7 +1055,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) B&uuml;y&uuml;k Sel&ccedil;uklular
     - E-) Hazarlar
     <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;....... minyat&uuml;r sanatının başlangıcı&nbsp; Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyat&uuml;r, el yazmalarında ve &ccedil;eşitli metinlerde g&ouml;r&uuml;l&uuml;r.<br />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;....... minyat&uuml;r sanatının başlangıcı Maniciliğin kutsal kitabında bulunan resimlere dayanmaktadır. Maniheizm etkileri minyat&uuml;r, el yazmalarında ve &ccedil;eşitli metinlerde g&ouml;r&uuml;l&uuml;r.<br />
 <strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Uygur**
     - B-) G&ouml;kt&uuml;rk
@@ -1255,7 +1255,14 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Keban
     - E-) Harput
     <hr />
-1. Anadolu Sel&ccedil;uklularından g&uuml;n&uuml;m&uuml;ze gelen en erken tarihli cami, yapımına Sultan Mesud ve Kılı&ccedil; Arslan D&ouml;nemi&#39;nde başlanan ve Alaaddin Keykubad tarafından 1220 yılında tamamlanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &#39;dir.<strong>&nbsp;<br />
+1. <strong>Anadolu Sel&#231;uklu'nun ilk başkenti aşağıdakilerden hangisidir?</strong>
+    - A-) Konya
+    - B-) Bursa
+    - C-) Edirne
+    - D-) Ahlat
+    - **Cevap E-) İznik**
+    <hr />
+1. Anadolu Sel&ccedil;uklularından g&uuml;n&uuml;m&uuml;ze gelen en erken tarihli cami, yapımına Sultan Mesud ve Kılı&ccedil; Arslan D&ouml;nemi&#39;nde başlanan ve Alaaddin Keykubad tarafından 1220 yılında tamamlanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &#39;dir.<strong> <br />
 C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Erzurum Ulu Camii
     - B-) Divriği Ulu Camii
@@ -1320,7 +1327,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Niksar Yağıbasan Medresesi
     - E-) Niksar Kırkkızlar K&uuml;mbeti
     <hr />
-1. Artuklular; cami, medrese, t&uuml;rbe, hamam, k&ouml;pr&uuml; ve saray başta olmak &uuml;zere mimarinin pek &ccedil;ok kolunda yapılar inşa etmişlerdir.<strong><br />
+1. Artuklular; cami, medrese, t&uuml;rbe, hamam, k&ouml;pr&uuml; ve saray başta olmak &uuml;zere mimarinin pek &ccedil;ok kolunda yapılar inşa etmişlerdir.<strong>
 Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</u>?</strong>
     - **Cevap A-) Divriği K&uuml;lliyesi**
     - B-) Silvan Ulu Camii
@@ -1386,7 +1393,14 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - D-) İbrahim Bey İmareti
     - **Cevap E-) İsmail Bey K&uuml;lliyesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi</strong><strong>&nbsp;İlhanlı D&ouml;nemi eserleri arasında yer alır?</strong>
+1. <strong>Sel&ccedil;uklu D&ouml;nemi plan &ouml;zelliğini s&uuml;rd&uuml;ren Aydınoğlu Mehmed Bey tarafından 1312&rsquo;de yaptırılan cami aşağıdakilerden hangisidir?</strong>
+    - A-) Firuz Bey Camii
+    - B-) Manisa Ulu Camii
+    - C-) Sel&ccedil;uk İsa Bey Camii
+    - **Cevap D-) Birgi Ulu Camii**
+    - E-) Milas Ulu Camii
+    <hr />
+1. <strong>Aşağıdakilerden hangisi</strong><strong> İlhanlı D&ouml;nemi eserleri arasında yer alır?</strong>
     - A-) Vacidiye Medresesi
     - **Cevap B-) Yakutiye Medresesi**
     - C-) Birgi Ulu Camii
@@ -1471,7 +1485,7 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - D-) Manisa Ulu Camii
     - E-) Aksaray Ulu Camii
     <hr />
-1. <strong>İlhanlı Valisi Sungur Ağa zamanında, Niğde&#39;de Sel&ccedil;uklu Prensesi&nbsp;i&ccedil;in sekizgen planda yaptırılmış olan, g&ouml;vdesi &uuml;zerinde&nbsp;&ccedil;ift başlı kartal, aslan, insan başı, bitkisel ve geometrik motiflerin yer aldığı t&uuml;rbe aşağıdakilerden hangisidir?</strong>
+1. <strong>İlhanlı Valisi Sungur Ağa zamanında, Niğde&#39;de Sel&ccedil;uklu Prensesi i&ccedil;in sekizgen planda yaptırılmış olan, g&ouml;vdesi &uuml;zerinde &ccedil;ift başlı kartal, aslan, insan başı, bitkisel ve geometrik motiflerin yer aldığı t&uuml;rbe aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) H&uuml;davent Hatun T&uuml;rbesi**
     - B-) Gevher Nesibe Hatun T&uuml;rbesi
     - C-) Kırkkızlar T&uuml;rbesi
@@ -1542,7 +1556,7 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - D-) Nevşehir Damat İbrahim Paşa K&uuml;lliyesi
     - E-) Antalya Elmalı &Ouml;mer Paşa K&uuml;lliyesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Erken Osmanlı D&ouml;nemi medreseleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Erken Osmanlı D&ouml;nemi medreseleri arasında <u>yer almaz</u>?</strong>
     - A-) Bursa Muradiye K&uuml;lliyesi
     - B-) İznik S&uuml;leyman Paşa Medresesi
     - C-) Bursa Yıldırım K&uuml;lliyesi
@@ -1605,7 +1619,7 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - D-) R&uuml;stem Paşa Camii
     - E-) Valide Sultan Camii
     <hr />
-1. 19. y&uuml;zyılda Batılılaşma Hareketi&#39;ne bağlı olarak eğitim sisteminde yağlı boya resim sanatının yer aldığı g&ouml;r&uuml;l&uuml;r. Bu bağlamda Batılı anlamda eğitim verecek resim dersini m&uuml;fredatına d&acirc;hil eden asker&icirc; okullar kurulur ve ilk T&uuml;rk ressamları da bu asker&icirc; okullardan yetişir.<strong><br />
+1. 19. y&uuml;zyılda Batılılaşma Hareketi&#39;ne bağlı olarak eğitim sisteminde yağlı boya resim sanatının yer aldığı g&ouml;r&uuml;l&uuml;r. Bu bağlamda Batılı anlamda eğitim verecek resim dersini m&uuml;fredatına d&acirc;hil eden asker&icirc; okullar kurulur ve ilk T&uuml;rk ressamları da bu asker&icirc; okullardan yetişir.<strong>
 Aşağıdakilerden hangisi bu okullardan biridir?</strong>
     - A-) Osmanlı Ressamlar Cemiyet
     - B-) Sanayi-i Nefise Mektebi
@@ -1616,14 +1630,14 @@ Aşağıdakilerden hangisi bu okullardan biridir?</strong>
 1. I. Erken Osmanlı D&ouml;nemi-Şehzade Camii<br />
 II. Barok D&ouml;nemi-Nuruosmaniye Camii<br />
 III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
-<strong>Yukarıda Osmanlı mimarisinde farklı &uuml;sluplarda yapılmış olan eserler ve d&ouml;nemleri birlikte verilmiştir. Bu eşleştirmelerden hangisi ya da hangileri&nbsp;<u>yanlıştır</u>? </strong>
+<strong>Yukarıda Osmanlı mimarisinde farklı &uuml;sluplarda yapılmış olan eserler ve d&ouml;nemleri birlikte verilmiştir. Bu eşleştirmelerden hangisi ya da hangileri <u>yanlıştır</u>? </strong>
     - **Cevap A-) Yalnız I**
     - B-) Yalnız III
     - C-) I ve II
     - D-) II ve III
     - E-) I, II ve III
     <hr />
-1. <strong>Aşağıdakilerden hangisi Osmanlı sanatının d&ouml;nemleri i&ccedil;erisinde&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Osmanlı sanatının d&ouml;nemleri i&ccedil;erisinde <u>yer almaz</u>?</strong>
     - **Cevap A-) İntikal ve Ge&ccedil;iş D&ouml;nemi**
     - B-) Klasik D&ouml;nem
     - C-) Eklektik &Uuml;slup
@@ -1636,6 +1650,17 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - C-) Lale Devri-Hekimoğlu Ali Paşa Cami
     - D-) Ampir D&ouml;nem-Ortak&ouml;y Cami
     - **Cevap E-) Eklektik D&ouml;nem- Nuru Osmaniye**
+    <hr />
+1. I. Edirne Selimiye Camii<br />
+II. Sultanahmet Camii<br />
+III. Bursa Ulu Camii<br />
+IV. Nuriosmaniye Camii<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Osmanlı'nın erken d&#246;nem mimari &#246;zelliklerini taşır?</strong>
+    - A-) I ve II
+    - B-) Yalnız IV
+    - C-) II ve III
+    - **Cevap D-) Yalnız III**
+    - E-) &#160;Yalnız II
     <hr />
 ## Unite 11
 1. <strong>R&ouml;nesans D&ouml;nemi&rsquo;ne ait &ldquo;K&ouml;y D&uuml;ğ&uuml;n&uuml;&rdquo; adlı tablo aşağıdakilerden hangisidir?</strong>
@@ -1674,12 +1699,19 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - E-) Michelangelo
     <hr />
 1. D&uuml;nyada en &ccedil;ok bilinen yapı Giovanni Lorenzo Bernini (1598-1680) tarafından yapılan &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&rdquo;, Vatikan&#39;daki en g&ouml;ze &ccedil;arpan bina olup kubbesi ile Roma&#39;nın siluetindeki en &ouml;nemli par&ccedil;alardan biridir.<br />
-<strong>C&uuml;mlede boş</strong>&nbsp;<strong>bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş</strong> <strong>bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) Chartres Katedrali
     - **Cevap B-) San Pietro Bazilikası**
     - C-) Strasbourg Katedrali
     - D-) Salisbury Katedrali
     - E-) Notre Dame Katedrali
+    <hr />
+1. <strong>17. ve 18. y&uuml;zyıllarda, Roma&rsquo;da gelişmiş ve oradan b&uuml;t&uuml;n Avrupa&rsquo;ya yayılmış olan sanat akımı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Barok**
+    - B-) Rokoko
+    - C-) R&ouml;nesans
+    - D-) Romanik
+    - E-) Gotik
     <hr />
 1. <strong>1452-1519 yılları arasında yaşayan; ressam, heykeltıraş, mimar, m&uuml;hendis ve araştırmacı olarak R&ouml;nesans D&ouml;nemi&rsquo;nin kendine &ouml;zg&uuml; filozof-sanat&ccedil;ı tipleri arasında en &ouml;nemli isim olan &ccedil;ok y&ouml;nl&uuml; sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Bernini
@@ -1815,14 +1847,21 @@ III. Klasik d&ouml;nem &ndash;S&uuml;leymaniye Camii<br />
     - **Cevap D-) Soyut resim**
     - E-) Eklektizm
     <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi&nbsp;</strong><strong>Empresyonizm (İzlenimcilik) D&ouml;nem sanat&ccedil;ıları arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Ekspresyonist mimari &#252;zerinde etkisi olan Bauhaus Okulu&#39;nun kurucusu aşağıdakilerden hangisidir?</strong>
+    - A-) Salvador Dali
+    - B-) Michelangelo
+    - C-) Raphael
+    - D-) Vedat Tek
+    - **Cevap E-) Walter Gropius**
+    <hr />
+1. <strong> Aşağıdakilerden hangisi </strong><strong>Empresyonizm (İzlenimcilik) D&ouml;nem sanat&ccedil;ıları arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Michelangelo**
     - B-) Paul Cezanne
     - C-) Vincent Van Gogh
     - D-) Claude Monet
     - E-) Alfred Sisley
     <hr />
-1. <strong>Aşağıdakilerden hangisi s</strong><strong>anatsal akımlar arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi s</strong><strong>anatsal akımlar arasında <u>yer almaz</u>?</strong>
     - A-) Neoklasik
     - B-) Romantizm
     - C-) Realizm
@@ -1924,8 +1963,8 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - D-) D&ouml;k&uuml;m
     - E-) Maden
     <hr />
-1. <strong>&Ccedil;ininin kullanıldığı en erken tarihli cami aşağıdakilerden hangisidir?&nbsp;</strong>
-    - A-) Kuseyr Amra
+1. <strong>&Ccedil;ininin kullanıldığı en erken tarihli cami aşağıdakilerden hangisidir? </strong>
+    - A-) Kuseyr Amra 
     - **Cevap B-) Kayravan Seydi Ukba Camii**
     - C-) Damgan Mescid-i Cuma
     - D-) Kazvin Mescid-i Haydariye
@@ -1952,7 +1991,7 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - D-) İzmir
     - **Cevap E-) İznik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi k</strong><strong>ırmızı hamurlu İznik seramiklerinde g&ouml;r&uuml;len teknikler arasında&nbsp;&nbsp;<u>yer&nbsp; almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi k</strong><strong>ırmızı hamurlu İznik seramiklerinde g&ouml;r&uuml;len teknikler arasında  <u>yer almaz</u>?</strong>
     - A-) Astar boyama (slip)
     - B-) Milet İşi
     - C-) Tek renk sırlı
@@ -1986,6 +2025,13 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - C-) Urartu ve Hitit
     - D-) Roma ve Yunan
     - **Cevap E-) Sasani ve Bizans**
+    <hr />
+1. <strong>Maden sanatında hangi yapım teknikleri g&ouml;r&uuml;l&uuml;r?</strong>
+    - A-) Savatlama ve kabartma
+    - B-) Sır altı ve sır &uuml;st&uuml;
+    - C-) &Ccedil;eşmib&uuml;lb&uuml;l ve mavi beyaz
+    - **Cevap D-) D&ouml;k&uuml;m ve d&ouml;vme**
+    - E-) Tombak ve billur
     <hr />
 1. T&uuml;rk dokuma sanatında &hellip;...............&hellip;. olduk&ccedil;a yaygın bir şekilde kullanılmıştır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
@@ -2062,6 +2108,13 @@ III. Uşak<br />
     - D-) Mozaik
     - E-) Halk&acirc;r
     <hr />
+1. <strong>Minyat&uuml;r sanatı kapsamında Varka ve G&uuml;lş&acirc;h ile Kelile ve Dimne hangi d&ouml;nem eserleridir?</strong> 
+    - A-) Abbasi
+    - **Cevap B-) Sel&ccedil;uklu**
+    - C-) Emevi
+    - D-) Beylikler
+    - E-) Osmanlı
+    <hr />
 1. <strong>20. y&uuml;zyılda minyat&uuml;r sanatına en &ccedil;ok emeği ge&ccedil;en ve eserlerin resimleri ile kaydedilmesi fikrini hayata ge&ccedil;iren kişi aşağıdakilerden hangisidir?</strong>
     - A-) Abdullah Buhari
     - B-) Levn&icirc;
@@ -2132,14 +2185,14 @@ III. Uşak<br />
     - D-) &Ccedil;ark&ouml;şe
     - E-) Yekş&acirc;h
     <hr />
-1. Hat sanatı tarih&icirc; s&uuml;re&ccedil;te farklı yazı t&uuml;rleriyle karşımıza &ccedil;ıkar.<strong> Aşağıdakilerden hangisi hat sanatındaki yazı &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?<u> </u></strong>
+1. Hat sanatı tarih&icirc; s&uuml;re&ccedil;te farklı yazı t&uuml;rleriyle karşımıza &ccedil;ıkar.<strong> Aşağıdakilerden hangisi hat sanatındaki yazı &ccedil;eşitlerinden biri <u>değildir</u>?<u> </u></strong>
     - A-) K&ucirc;f&icirc;
     - B-) S&uuml;l&uuml;s
     - C-) Rik&acirc;
     - D-) Akl&acirc;m-ı sitte
     - **Cevap E-) Halk&acirc;r&icirc;**
     <hr />
-1. <strong>Aşağıdakilerden hangisi cildin b&ouml;l&uuml;mlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi cildin b&ouml;l&uuml;mlerinden biri <u>değildir</u>?</strong>
     - A-) Miklep
     - B-) Sert&acirc;p
     - **Cevap C-) Serlevha**

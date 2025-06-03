@@ -1,13 +1,13 @@
 # Reklam Grafiği
 ## Unite 1
-1. <strong>Aşağıdakilerden hangisi reklamın ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamın ama&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) Kişilerin topluma tanıtılması
     - B-) Kurumların topluma tanıtılması
     - C-) Fikirlerin topluma tanıtılması
     - D-) Mal ve hizmetlerin topluma tanıtılması
     - **Cevap E-) Mal ve hizmetlerin satılması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiği kapsamına giren unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam grafiği kapsamına giren unsurlardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Radyo reklamları**
     - B-) Gazete ilanları
     - C-) Logolar
@@ -63,7 +63,7 @@
     - D-) Firma imajı yaratmak ya da s&uuml;rd&uuml;rmek
     - E-) Mal ve hizmetlerin uygunluğunu anlatmak
     <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi bir reklam ortamıdır?</strong>
+1. <strong> Aşağıdakilerden hangisi bir reklam ortamıdır?</strong>
     - A-) Logo
     - B-) İll&uuml;strasyon
     - **Cevap C-) Billboard**
@@ -98,7 +98,7 @@
     - D-) &Ccedil;er&ccedil;eve reklamlar
     - E-) Sanal reklamlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi gazete reklamlarının nitelik ve maliyetini belirleyen unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi gazete reklamlarının nitelik ve maliyetini belirleyen unsurlardan biri <u>değildir</u>?</strong>
     - A-) Kullanılan alan
     - B-) K&acirc;ğıt t&uuml;r&uuml;
     - C-) Yayın sayfası
@@ -141,7 +141,7 @@
     - **Cevap D-) Reklamın zorlayıcı olması**
     - E-) Reklamın eksik bilgi i&ccedil;ermesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar &uuml;zerindeki etkilerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar &uuml;zerindeki etkilerinden biri <u>değildir</u>?</strong>
     - A-) Reklamın estetik ve g&ouml;rsel boyutu
     - **Cevap B-) Reklamın maliyeti ve fiyatı**
     - C-) Reklamın ikna etme g&uuml;c&uuml;
@@ -233,14 +233,14 @@
     - **Cevap D-) Japonya**
     - E-) Almanya
     <hr />
-1. <strong>Aşağıdakilerden hangisi bilin&ccedil;altı reklamların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bilin&ccedil;altı reklamların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) &Ouml;zel hazırlanmış enstr&uuml;manlarla t&uuml;keticinin bilin&ccedil;altına hitap eder.
     - B-) Mesaj, reklamdaki herhangi bir unsurun i&ccedil;ine gizlenmiştir.
     - C-) Mesajın doğrudan algılanması zordur.
     - **Cevap D-) Mesaja t&uuml;ketici tarafından bilin&ccedil;li bir şekilde tepki verilir.**
     - E-) Mesaj, ilk anda fark edilmemek &uuml;zere tasarlanmıştır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın t&uuml;ketici &uuml;zerindeki sosyolojik etkilerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamın t&uuml;ketici &uuml;zerindeki sosyolojik etkilerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) &Uuml;r&uuml;nle ilgili tatmin duygusu yaratmak**
     - B-) Kişiler arasında sınıfsal bir ayrım ve rekabet ortamı oluşturmak
     - C-) Yaşam bi&ccedil;imlerini değiştirebilme g&uuml;c&uuml;
@@ -374,14 +374,14 @@
     - D-) Reklam metin t&uuml;r&uuml;
     - **Cevap E-) Reklam sloganı**
     <hr />
-1. <strong>&ldquo;Hep daha iyiyi iste!&rdquo;,&nbsp;&ldquo;Hemen al, pişman olma&rdquo;&nbsp;şeklindeki reklam metni başlıkları hangi t&uuml;r başlıklara &ouml;rnektir?</strong>
+1. <strong>&ldquo;Hep daha iyiyi iste!&rdquo;, &ldquo;Hemen al, pişman olma&rdquo; şeklindeki reklam metni başlıkları hangi t&uuml;r başlıklara &ouml;rnektir?</strong>
     - **Cevap A-) Zorlayıcı başlık**
     - B-) Tavsiye/davet başlığı
     - C-) Se&ccedil;ici başlık
     - D-) Fayda başlığı
     - E-) Meraklandırıcı başlık
     <hr />
-1. <strong>&nbsp;Bir markayı, firmayı, kurumu, kuruluşu, topluluğu veya fikri temsil eden, adını ve amacını tanımlayan, i&ccedil;eriğinde grafiksel unsurların yer aldığı semboller aşağıdakilerden hangisidir?</strong>
+1. <strong> Bir markayı, firmayı, kurumu, kuruluşu, topluluğu veya fikri temsil eden, adını ve amacını tanımlayan, i&ccedil;eriğinde grafiksel unsurların yer aldığı semboller aşağıdakilerden hangisidir?</strong>
     - A-) Billboard
     - B-) İll&uuml;strasyon
     - **Cevap C-) Logo**
@@ -523,10 +523,10 @@
     - **Cevap D-) &Uuml;r&uuml;n amblemi**
     - E-) İ&ccedil;erik bilgisi
     <hr />
-1. <strong>I.&nbsp;</strong>Bilgi aktarma<br />
-II.&nbsp;İkna etme<br />
-III.&nbsp;Dikkat &ccedil;ekme<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;reklamlarda tipografinin temel ama&ccedil;ları arasında yer alır?</strong>
+1. <strong>I. </strong>Bilgi aktarma<br />
+II. İkna etme<br />
+III. Dikkat &ccedil;ekme<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel ama&ccedil;ları arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -541,9 +541,9 @@ III.&nbsp;Dikkat &ccedil;ekme<br />
     - E-) Metinsel sıra d&uuml;zen oluşturmak
     <hr />
 1. I. Bilgi aktarmak<br />
-II.&nbsp;İkna etmek<br />
-III.&nbsp;Dikkat &ccedil;ekmek<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;reklamlarda tipografinin ama&ccedil;larındandır?</strong>
+II. İkna etmek<br />
+III. Dikkat &ccedil;ekmek<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin ama&ccedil;larındandır?</strong>
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
@@ -557,7 +557,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Yaratıcı fikre g&ouml;rsel destek sağlamak
     - E-) Alıcıya/bakan kişiye hedeflenen duygu aktarımını sağlamak
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi se&ccedil;imi/uygulamasında dikkat edilmesi gereken hususlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi se&ccedil;imi/uygulamasında dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>
     - A-) &Uuml;r&uuml;n/hizmet &ouml;zelliklerini bilmek
     - B-) Reklam fikri/stratejisini anlamak
     - C-) Yazı tipinin bi&ccedil;imsel &ouml;zelliklerini bilmek
@@ -762,7 +762,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) G&ouml;rsel kimlik
     - E-) Değiştirilmiş kimlik
     <hr />
-1. <strong>Aşağıdakilerden hangisi g</strong><strong>&ouml;rsel kimliğin temel elemanlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi g</strong><strong>&ouml;rsel kimliğin temel elemanlarından biri <u>değildir</u>?</strong>
     - A-) Renk
     - B-) Tipografi
     - C-) Logo
@@ -840,7 +840,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap E-) Stabil/durağan bir kurumdur, inşaat firması logosu olabilir.**
     <hr />
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi yaratıcılığın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yaratıcılığın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Esneklik (flexibility)
     - B-) Zenginleştirme (elaboration)
     - **Cevap C-) Kararlılık (resolvity)**
@@ -889,7 +889,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Taslak araştırmaları
     - **Cevap E-) Problemi tanıma**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Taylor&rsquo;a g&ouml;re insan yaratıcılığının beş aşamasından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Taylor&rsquo;a g&ouml;re insan yaratıcılığının beş aşamasından biri <u>değildir</u>?</strong>
     - A-) &Uuml;retici
     - B-) Buluş&ccedil;u
     - **Cevap C-) Yetenek&ccedil;i**
@@ -903,12 +903,19 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Dışavurumcu**
     - E-) &Uuml;retici
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;taslak t&uuml;rlerinden&rdquo; biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;taslak t&uuml;rlerinden&rdquo; biri <u>değildir</u>?</strong>
     - **Cevap A-) Serbest taslaklar**
     - B-) Sirk taslaklar
     - C-) Harf bi&ccedil;imli taslaklar
     - D-) Rebus taslaklar
     - E-) &Ccedil;er&ccedil;eveli taslaklar
+    <hr />
+1. <strong>Aşağıdakilerden hangisi reklam afişlerinden <u>değildir</u>?</strong>
+    - A-) X isimli ayakkabı afişi
+    - **Cevap B-) G isimli şarkıcı afişi**
+    - C-) K isimli peynir afişi
+    - D-) Ş isimli mağaza afişi
+    - E-) M isimli telefon operat&#246;r afişi
     <hr />
 1. <strong>Belirli ve g&ouml;receli dar kapsamlı bir konuya ilişkin, derlenmiş bilgi par&ccedil;asına ne ad verilir?</strong>
     - A-) Bilim
@@ -917,7 +924,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) İdea
     - E-) İnformel Eğitim
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel anlatımsal aktarım ara&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel anlatımsal aktarım ara&ccedil;larından biri <u>değildir</u>?</strong>
     - **Cevap A-) Ses**
     - B-) Leke
     - C-) &Ccedil;izgi
@@ -975,7 +982,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Stop-Motion Puppet (Kukla)
     - E-) Stop-Motion Clay (Kil)
     <hr />
-1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun reklama katkılarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun reklama katkılarından biri <u>değildir</u>?</strong>
     - A-) İzleyicinin bakışını yakalaması
     - B-) G&ouml;z&uuml; y&ouml;nlendirmesi
     - C-) İ&ccedil;eriğin hızlı ve doğru bi&ccedil;imde algılanabilmesini sağlaması
@@ -1039,6 +1046,14 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) Sponsorlu
     - D-) Bilgilendirici
     - E-) İkna edici
+    <hr />
+1. İnsanlar, dikkat &#231;ekme ve s&#252;rd&#252;rmede rol oynayan &#231;izgi filmlerden hoşlanırlar; animasyon, &#39;deterjan yiyen lekeler' gibi ……… bir fikre bi&#231;im verebilir.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Basit
+    - B-) Detaylı
+    - C-) Karmaşık
+    - D-) Somut
+    - **Cevap E-) Soyut**
     <hr />
 1. <strong>&ldquo;İnsanlar, dikkat &ccedil;ekme ve s&uuml;rd&uuml;rmede rol oynayan &ccedil;izgi filmlerden hoşlanırlar; animasyon, &hellip;&hellip;&hellip;&hellip;.. aracılığıyla benzersiz kimlikler yaratır.&rdquo; İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) M&uuml;şteriler
@@ -1119,6 +1134,14 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - C-) İll&uuml;srasyonlar
     - D-) Renkler
     - E-) Layoutlar
+    <hr />
+1. ………………….; bir mal veya hizmetin s&#252;r&#252;leceği piyasa ve bu mal veya hizmetin alıcısı olanlar tarafından tanınması i&#231;in yapılacak araştırmaların, amacının, giderlerinin ve mesaj t&#252;rlerinin tasarlanması, b&#252;t&#231;esi, ne zaman yapılacağı, hangi iletişim ara&#231;larının kullanılacağı konusundaki kararlar ve reklam grafiklerinin hazırlanması gibi faaliyetlerin b&#252;t&#252;n&#252;d&#252;r.<br />
+<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Tasarım
+    - B-) İletişim
+    - C-) Layout
+    - **Cevap D-) Reklam**
+    - E-) Ajans
     <hr />
 1. G&ouml;stergebilimci Roland Barthes, fotoğrafik mesajla ilgili &ldquo;Image, Music, Text&rdquo; adlı eserinde fotoğrafın &ccedil;eşitli anlam d&uuml;zeylerinde anlaşıldığını belirtmiştir.<br />
 <strong>Roland Barthes&rsquo;ın bu ifadesinde vurgulamak istediği d&uuml;ş&uuml;nce aşağıdakilerden hangisidir?</strong>
@@ -1228,7 +1251,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Tatlı**
     - E-) Lezzet
     <hr />
-1. <strong>Aşağıdakilerden hangisi marka/logonun g&ouml;revlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi marka/logonun g&ouml;revlerinden biri <u>değildir</u>?</strong>
     - A-) Marka bağlılığını artırır.
     - **Cevap B-) Tat duygusu artırır.**
     - C-) Firma adını tanımlar.
@@ -1242,12 +1265,19 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) &Uuml;retimine
     - **Cevap E-) Estetiğine**
     <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj &uuml;zerinde kullanılan sembol ve simgelerin kullanım ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi ambalaj &uuml;zerinde kullanılan sembol ve simgelerin kullanım ama&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) G&uuml;venlik
     - B-) Uygunluk
     - **Cevap C-) Dikkat &ccedil;ekme**
     - D-) Geri d&ouml;n&uuml;ş&uuml;m
     - E-) İletişim
+    <hr />
+1. <strong>Aşağıdakilerden hangisi ambalajın &uuml;retimi aşamasında dikkat edilecek hususlardan <u>değildir</u>?</strong>
+    - A-) Uygun &uuml;retim teknolojisi
+    - B-) &Uuml;retim maliyetleri
+    - C-) &Uuml;retim planlaması
+    - **Cevap D-) Kalite ve değer algısı**
+    - E-) Tasarım ve &uuml;retim kalitesi
     <hr />
 ## Unite 12
 1. <strong>Reklam grafiklerindeki mesajlar nasıl <u>olmamalıdır</u>?</strong>
@@ -1257,7 +1287,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Zor algılanmalı**
     - E-) İlgi uyandırmalı
     <hr />
-1. <strong>Aşağıdakilerden hangisi internet ve sosyal medyada yer alan reklam grafiklerinde kullanılan g&ouml;rsel iletişim unsurlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi internet ve sosyal medyada yer alan reklam grafiklerinde kullanılan g&ouml;rsel iletişim unsurlarından biri <u>değildir</u>?</strong>
     - A-) Uyum
     - B-) Vurgu
     - C-) B&uuml;t&uuml;nl&uuml;k
@@ -1327,6 +1357,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - **Cevap D-) Daha &ccedil;ok insana daha hızlı ulaşabilmesi**
     - E-) &Ouml;l&ccedil;&uuml;mlenmesinin zor olması
     <hr />
+1. <strong>Aşağıdakilerden hangisi reklam grafikleri a&#231;ısından iletişim s&#252;re&#231;lerinden biri&#160;<u>değildir</u>?</strong>
+    - A-) Fotoğraf
+    - B-) İll&#252;strasyon
+    - **Cevap C-) Kurum**
+    - D-) Yazı
+    - E-) Resim
+    <hr />
 1. <strong>Reklam kelimesi dilimize hangi yabancı dilden ge&ccedil;miştir?</strong>
     - A-) İngilizce
     - **Cevap B-) Fransızca**
@@ -1349,7 +1386,7 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - E-) Sadece slogan i&ccedil;erir.
     <hr />
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi a&ccedil;ık hava reklam &uuml;r&uuml;nlerinde kullanılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi a&ccedil;ık hava reklam &uuml;r&uuml;nlerinde kullanılan malzemelerden biri <u>değildir</u>?</strong>
     - A-) &Ccedil;er&ccedil;eve
     - **Cevap B-) Fotomontaj**
     - C-) Posterleri koruyan dış kasa sistemi
@@ -1454,6 +1491,13 @@ III.&nbsp;Dikkat &ccedil;ekmek<br />
     - D-) Raket
     - E-) CLP
     <hr />
+1. <strong>Aşağıdaki a&ccedil;ıkhava reklam &uuml;r&uuml;nlerinden hangisi aynı anda 6 adet posterin g&ouml;sterimine olanak sağlar?</strong>
+    - A-) Kuleboard
+    - **Cevap B-) Silindir**
+    - C-) Mesh
+    - D-) Raket
+    - E-) Parapet
+    <hr />
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi t&uuml;keticiyi etkilemek i&ccedil;in reklamlarda kullanılan uyarıcılar arasında <u>yer almaz</u>?</strong>
     - A-) Duygusal
@@ -1512,7 +1556,7 @@ Buna g&ouml;re aşağıdakilerden hangisi reklamlar tasarlanmadan &ouml;nce hede
     - D-) Vinil branda
     - E-) Plastik yemek seti
     <hr />
-1. <strong>Aşağıdakilerden hangisi kioskların kullanıldığı alanlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kioskların kullanıldığı alanlardan biri <u>değildir</u>?</strong>
     - A-) Hastane
     - B-) Banka
     - C-) Havaalanı
@@ -1539,4 +1583,11 @@ Buna g&ouml;re aşağıdakilerden hangisi reklamlar tasarlanmadan &ouml;nce hede
     - C-) Logo tasarımı
     - **Cevap D-) Bloknot**
     - E-) Dosya
+    <hr />
+1. <strong>Aşağıdaki gerilla reklamcılık &#246;rneklerinden hangisi i&#231; mek&#226;n reklam &#252;r&#252;nlerine d&#226;hildir?</strong>
+    - A-) Marka hakkında yazılan bir kitap
+    - B-) Dizi ya da filmlere entegre edilen marka
+    - C-) Konusal i&#231;erikli haber olarak medyada yer almak
+    - D-) Akıllı tasarlanmış SMS veya E-posta
+    - **Cevap E-) Zemin reklam uygulamaları**
     <hr />

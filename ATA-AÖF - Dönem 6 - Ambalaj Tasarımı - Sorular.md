@@ -7,6 +7,14 @@
     - D-) Ofset Baskı
     - **Cevap E-) Tampon Baskı**
     <hr />
+1. &hellip;&hellip;&hellip;&hellip;, bir &uuml;r&uuml;n&uuml;n dış muhafazasının fiziksel bi&ccedil;imini ve g&ouml;rsel g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kavramsallaştırma ve uygulama s&uuml;recidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) Ambalaj tasarımı**
+    - B-) Reklamcılık
+    - C-) Tipografi
+    - D-) Animasyon
+    - E-) Montaj
+    <hr />
 1. <strong>1823 yılında İngiliz Peter Durand tarafından patenti alınan ilk ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Plastik Ambalaj
     - **Cevap B-) Metal Ambalaj**
@@ -73,7 +81,7 @@ III. Selofan<br />
     - **Cevap D-) Birincil ambalaj**
     - E-) İkincil ambalaj
     <hr />
-1. &nbsp;&nbsp;&nbsp; &ldquo;&hellip;&hellip;.......&hellip;&hellip;&hellip;&rdquo; bir desenin baskı materyali &uuml;zerinde s&uuml;rekli tekrarlanmasıdır.<br />
+1.   &ldquo;&hellip;&hellip;.......&hellip;&hellip;&hellip;&rdquo; bir desenin baskı materyali &uuml;zerinde s&uuml;rekli tekrarlanmasıdır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tasarım
     - B-) Kitap
@@ -102,6 +110,13 @@ III. Selofan<br />
     - **Cevap C-) Ambalajın fiyatlandırma fonksiyonu**
     - D-) Ambalajın bilgi verme fonksiyonu
     - E-) Ambalajın depolama fonksiyonu
+    <hr />
+1. <strong>Mukavemet gerektiren, ağır ambalajlarının depolanması i&ccedil;in taşıma ve nakliye ambalajı se&ccedil;iminde hangi &ldquo;TİP dalga&rdquo; karton kullanılmalıdır?</strong>
+    - A-) B dalga
+    - **Cevap B-) BC dalga**
+    - C-) BE dalga
+    - D-) C dalga
+    - E-) E dalga
     <hr />
 1. <strong>&Uuml;r&uuml;n&uuml;n raf &ouml;mr&uuml;n&uuml; uzatan ambalaj fonksiyonu aşağıdakilerden hangisidir?</strong>
     - A-) Tutundurma fonksiyonu
@@ -197,6 +212,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - E-) İyileştirme
     <hr />
 ## Unite 3
+1. <strong>Aşağıdaki ambalaj tasarımı </strong><strong>ilkelerinden hangisi mesajın en doğru ve gereksiz ayrıntılardan arındırılmış olması gerektiğini ifade eder?</strong>
+    - A-) Markaya ve &uuml;r&uuml;ne uygunluk
+    - **Cevap B-) Sadelik**
+    - C-) Fark edilebilirlik
+    - D-) &Ouml;zg&uuml;nl&uuml;k
+    - E-) Hedef kitleye uygunluk
+    <hr />
 1. <strong>Ambalaj tasarımının benzersiz olmasını isteyen firma i&ccedil;in yapılacak ambalaj tasarımında, aşağıdaki tasarım ilkelerinden hangisine &ouml;zellikle dikkat edilmesi gerekir?</strong>
     - **Cevap A-) &Ouml;zg&uuml;nl&uuml;k**
     - B-) End&uuml;striyellik
@@ -296,6 +318,13 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) KB
     - E-) Byte
     <hr />
+1. <strong>Bir ekrandaki piksel sayısının fazla olması aşağıdakilerden hangisine sebep olur?</strong>
+    - A-) G&ouml;r&uuml;nt&uuml; netliği d&uuml;şer.
+    - B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k d&uuml;şer.
+    - C-) Renk sayısı artar.
+    - **Cevap D-) G&ouml;r&uuml;nt&uuml; netliği artar.**
+    - E-) Ekran boyutu b&uuml;y&uuml;r.
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bilgisayarın t&uuml;m donanımları arasındaki iletişimi koordine ederek verileri işleyen donanımdır?</strong>
     - **Cevap A-) Merkezi işlem birimi**
     - B-) Ekran kartı
@@ -338,7 +367,7 @@ Aşağıdakilerden hangisi bu g&ouml;revler arasında <u>yer almaz</u>?</strong>
     - D-) Zaman ve maliyet a&ccedil;ısından avantajlı olması
     - **Cevap E-) Yazılımı kullanabilecek nitelikli insan g&uuml;c&uuml; ihtiyacı olması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evrim i&ccedil;i kullanılabilen tasarım yazılımlarının avantajlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ccedil;evrim i&ccedil;i kullanılabilen tasarım yazılımlarının avantajlarından biri <u>değildir</u>?</strong>
     - A-) Farklı tasarımcılarla eş zamanlı olarak &ccedil;alışabilme
     - B-) Bir bilgisayara y&uuml;kleme gereksinimi olmaması
     - C-) Yapılan tasarımların bulut ortamında saklanabilmesi
@@ -374,6 +403,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - C-) Konstr&uuml;ktiyon-montaj-perforaj
     - D-) Baskı kalıbı hazırlığı-taşma payı ve kesim &ccedil;izgileri hazırlığı-montaj
     - E-) Maket oluşturma-Lup ile kontrol-basım s&uuml;reci
+    <hr />
+1. <strong>En yaygın kullanım alanı ambalaj tasarımı olan ve &ccedil;oğunlukla flexible adı verilen esnek ambalajların (cips, &ccedil;orba, makarna, gofret) &uuml;retiminde kullanılan baskı tekniği aşağıdakilerden hangisidir?</strong>
+    - A-) Tipo
+    - B-) Serigrafi
+    - **Cevap C-) Flekso**
+    - D-) Ofset
+    - E-) Tifdruk
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ldquo;Tiraj&rdquo; teriminin karşılığıdır?</strong>
     - A-) Taşma payı ve kesim &ccedil;izgileri i&ccedil;in işaret
@@ -462,6 +498,13 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Pektin
     - E-) Polietilen
     <hr />
+1. <strong>Aşağıdakilerden hangisi &ccedil;eliği oluşturmak gerekli karbon miktarı aralığıdır?</strong>
+    - **Cevap A-) %0,02-2,06**
+    - B-) %3,1-5,1
+    - C-) %7,3-8,4
+    - D-) %0,001-0,01
+    - E-) %10-20
+    <hr />
 1. <strong>Aşağıdakilerden hangisi camın kimyasal bileşimi g&ouml;z &ouml;n&uuml;ne alınarak yapılan sınıflandırmanın i&ccedil;erisinde <u>yer almaz</u>?</strong>
     - A-) Soda-kire&ccedil; camı
     - B-) Kristal cam
@@ -548,13 +591,21 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Fotoğraf
     - E-) Tipografi
     <hr />
-1. S&uuml;prematizm Akımı&#39;nın temsilcilerinden Kazimir Malevich&rsquo;in eserlerinde sıklıkla kullandığı bir renktir.&nbsp;Malevich, bu rengin &ldquo;sonsuzluğun ger&ccedil;ek rengi&rdquo; olduğunu savunmuştur.<br />
+1. S&uuml;prematizm Akımı&#39;nın temsilcilerinden Kazimir Malevich&rsquo;in eserlerinde sıklıkla kullandığı bir renktir. Malevich, bu rengin &ldquo;sonsuzluğun ger&ccedil;ek rengi&rdquo; olduğunu savunmuştur.<br />
 <strong>S&ouml;z&uuml; edilen renk aşağıdakilerden hangisidir?</strong>
     - A-) Gri
     - **Cevap B-) Beyaz**
     - C-) Siyah
     - D-) Mavi
     - E-) Mor
+    <hr />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.; dijital tasarımda rengin ton, doygunluk ve parlaklığını ifade eden renk değeridir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) CMYK
+    - B-) RGB
+    - C-) LAB
+    - **Cevap D-) HSB**
+    - E-) HEX
     <hr />
 1. &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; ışığın eşya &uuml;zerine &ccedil;arpması ile yansıyan ışınlardan g&ouml;z&uuml;m&uuml;zde meydana gelen duyumların her biridir.&rdquo;<br />
 <strong>C&uuml;mleden boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -977,7 +1028,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - E-) Ambalajın hammaddesi
     <hr />
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi ambalajda kullanılan artırılmış ger&ccedil;eklik uygulamasının t&uuml;keticiye sağladığı faydalardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi ambalajda kullanılan artırılmış ger&ccedil;eklik uygulamasının t&uuml;keticiye sağladığı faydalardan biri <u>değildir</u>?</strong>
     - A-) Aktivitelerini sosyal medyadan paylaşabilirler.
     - B-) &Uuml;r&uuml;ne dair birtakım bilgilere erişebilirler.
     - C-) Oyun, yarışma gibi tanımlı uygulamaları kullanabilirler.
@@ -1097,7 +1148,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Cam ambalajlar &uuml;r&uuml;n&uuml;n tazeliğini uzun s&uuml;re koruyamazlar.
     - E-) Cam ambalajlar &uuml;r&uuml;ne kimyasal maddeler bulaşmasına sebep olabilirler.
     <hr />
-1. <strong>Aşağıdakilerden hangisi metal malzemeli ambalajların geri d&ouml;n&uuml;ş&uuml;m s&uuml;re&ccedil;lerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi metal malzemeli ambalajların geri d&ouml;n&uuml;ş&uuml;m s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Ayrıştırma işlemi yapılmasına gerek yoktur.**
     - B-) Eritildikten sonra kalıplara d&ouml;k&uuml;lerek metal bloklar oluşturulur.
     - C-) &Ouml;ğ&uuml;tme işleminden sonra y&uuml;ksek ısılı fırınlarda eritilir.
@@ -1211,7 +1262,7 @@ Bunlar sırasıyla aşağıdakilerden hangisinde verilmiştir?</strong>
     - D-) Soyut desenler
     - E-) Ger&ccedil;ek&ccedil;i desenler
     <hr />
-1. &ldquo;&hellip;&hellip;&hellip;&hellip; &nbsp;daha &ccedil;ok kaşkol, mendil, masa &ouml;rt&uuml;s&uuml; gibi aksesuar &uuml;r&uuml;nlerinin desenlemesinde kullanılır&rdquo;<br />
+1. &ldquo;&hellip;&hellip;&hellip;&hellip; daha &ccedil;ok kaşkol, mendil, masa &ouml;rt&uuml;s&uuml; gibi aksesuar &uuml;r&uuml;nlerinin desenlemesinde kullanılır&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tam raport
     - B-) Yarım raport

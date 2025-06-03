@@ -84,6 +84,13 @@
     - D-) Yayın Tasarımı
     - E-) &Ccedil;evresel Grafik Tasarımı
     <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği tasarımıdır?</strong>
+    - A-) Dosya tasarımı
+    - B-) T-shirt
+    - **Cevap C-) Men&uuml;**
+    - D-) Gerilla reklam
+    - E-) A&ccedil;ıkhava reklamı
+    <hr />
 ## Unite 2
 1. G&uuml;n&uuml;m&uuml;z tasarımlarında hangi fakt&ouml;r &ouml;n plana &ccedil;ıkmıştır?
     - A-) Geleneksel unsurlar
@@ -154,6 +161,13 @@
     - C-) Linux
     - D-) Android
     - E-) iOS
+    <hr />
+1. <strong>Grafik tasarımcılar i&ccedil;in gelişen dijital ortamın avantajları aşağıdakilerden hangisidir?</strong>
+    - A-) Dergi sayfası oluşturma
+    - **Cevap B-) Hızlı, verimli ve efektif tasarımlar**
+    - C-) Sadece geleneksel y&ouml;ntemlere bağlı kalma
+    - D-) &Uuml;&ccedil; boyutlu tasarım yetenekleri
+    - E-) Sadece siyah-beyaz tasarımlar
     <hr />
 1. <strong>Aşağıdakilerden hangisi web tasarımcılarının kullanıcı memnuniyetini artırması ile ilgili doğrudur?</strong>
     - A-) Renk se&ccedil;enekleri
@@ -255,9 +269,16 @@
     - D-) Renkler tasarımın i&ccedil;eriğini ve iletilmek istenen mesajı g&uuml;&ccedil;lendirmektedir.
     - E-) Markayla &ouml;zdeşleştirilerek g&ouml;rsel bir dil oluşturmaktadır.
     <hr />
+1. <strong>Aşağıdakilerden hangisi ilişkisel &ouml;gelerin &ouml;zelliklerinden biridir?</strong>
+    - **Cevap A-) Tasarımın b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; ve etkisini belirlemektedir.**
+    - B-) Temsil, anlam ve işlevine y&ouml;nelik &ouml;nemli unsurları i&ccedil;ermektedir.
+    - C-) Nesnelerin boyutlarını temsil etmektedir.
+    - D-) İki ve &uuml;&ccedil; boyutlu &ccedil;alışmalarda &ouml;ğelerin algılanmasını ve d&uuml;zenlenmesini sağlamaktadır.
+    - E-) A&ccedil;ık ve orta tonlu tasarımların oluşturulmasını sağlamaktadır.
+    <hr />
 ## Unite 4
 1. <strong>Fotoğrafın tasarım unsuru olarak reklam end&uuml;strisindeki rol&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Sadece sanatsal bir ifade bi&ccedil;imi olarak&nbsp;vardır.
+    - A-) Sadece sanatsal bir ifade bi&ccedil;imi olarak vardır.
     - B-) Yalnızca belgeleme amacını servis eder.
     - **Cevap C-) &Uuml;r&uuml;n veya hizmetin pazarlanmasına stratejik bir unsur olarak yer alır.**
     - D-) Sadece bilimsel ama&ccedil;lar i&ccedil;in kullanılır.
@@ -339,6 +360,13 @@
     - **Cevap C-) Link Komutu**
     - D-) Embed Feature Komutu
     - E-) Attach Graphic Komutu
+    <hr />
+1. <strong>Fantastik ill&uuml;strasyonlar aşağıdaki alanlardan hangisinde sık&ccedil;a kullanılır?</strong>
+    - A-) Mimari projelerin tanıtımında
+    - B-) Bilgilendirme ill&uuml;strasyonlarında
+    - C-) Moda tasarımında
+    - **Cevap D-) Bilgisayar oyunlarında**
+    - E-) S&uuml;rrealist resimlerde
     <hr />
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi tipografik kompozisyon oluştururken dikkate alınması gereken fakt&ouml;rlerden biri <u>değildir</u>?</strong>
@@ -434,6 +462,13 @@
     - **Cevap D-) Hiyerarşi**
     - E-) Tipografik kompozisyon
     <hr />
+1. <strong>Aşağıdakilerden hangisi konvansiyonel tipografiden farklı olarak kreatif s&uuml;rece ve yaratıcı ifadeye &ouml;ncelik verir?</strong>
+    - A-) Okunurluk
+    - **Cevap B-) Deneysel tipografi**
+    - C-) Okuturluk
+    - D-) Video tasarımı
+    - E-) Web tasarımı
+    <hr />
 ## Unite 6
 1. Aşağıdakilerden hangisi renk ilişkilerini g&ouml;rselleştiren ara&ccedil;ların adıdır?
     - A-) Renk psikolojisi
@@ -512,6 +547,13 @@
     - D-) Keskinlik
     - E-) Renk
     <hr />
+1. <strong>Tasarımcılar baskı aşamasında aşağıdaki renk sistemlerinden hangisini kullanmaktadırlar?</strong>
+    - A-) RGB
+    - B-) RYB
+    - **Cevap C-) CMYK**
+    - D-) JPEG
+    - E-) PDF
+    <hr />
 ## Unite 7
 1. Aşağıdakilerden hangisi y&ouml;nbilgide genellikle bulunan bilgi k&uuml;melerinden biri <u>değildir</u>?
     - A-) Projenin amacı
@@ -583,6 +625,13 @@
     - **Cevap D-) Kulu&ccedil;ka**
     - E-) Beyin fırtınası
     <hr />
+1. G&ouml;r&uuml;şmeler, soruların yapısına g&ouml;re sınıflandırıldığında, aşağıdakilerden hangisi bu sınıflandırmada <u>yer almaz</u>?
+    - A-) Sohbet tarzında g&ouml;r&uuml;şme
+    - **Cevap B-) Yanıtlayıcı g&ouml;r&uuml;şmeleri**
+    - C-) G&ouml;r&uuml;şme Kılavuzu Yaklaşımı
+    - D-) Kapalı, kesin yanıtların olduğu g&ouml;r&uuml;şme
+    - E-) Standartlaştırılmış a&ccedil;ık u&ccedil;lu g&ouml;r&uuml;şme
+    <hr />
 1. <strong>Zihin haritaları aşağıdakilerden hangisi i&ccedil;in <u>kullanılmaz</u>?</strong>
     - A-) Hafıza gelişimi
     - B-) Karar alma s&uuml;reci
@@ -605,7 +654,7 @@
     - **Cevap D-) Yankı**
     - E-) Alıcı
     <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı i&ccedil;in&nbsp;</strong><strong><u>yanlıştır</u></strong><strong>?</strong>
+1. <strong>Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı i&ccedil;in </strong><strong><u>yanlıştır</u></strong><strong>?</strong>
     - A-) A&ccedil;ık İletişim
     - B-) Ayrıntılı Brifing
     - C-) Araştırma ve İlham
@@ -647,7 +696,7 @@
     - D-) Konsept Geliştirme
     - E-) Tasarımda Teknolojik Gelişmeler
     <hr />
-1. Aşağıdakilerden hangisinde m&uuml;şteriye yapılacak sunumlar ve geri d&ouml;n&uuml;ş y&ouml;n bilgisi i&ccedil;in <u>s&ouml;ylenemez</u>?
+1. <strong>Aşağıdakilerden hangisinde m&uuml;şteriye yapılacak sunumlar ve geri d&ouml;n&uuml;ş y&ouml;n bilgisi i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
     - **Cevap A-) Sunum yaparken tek bir fikir ile detaylı ve uzun bir anlatım m&uuml;şteriyi etkileyecektir.**
     - B-) M&uuml;şteriye sunum yaparken, alternatif fikirlerinizi de belirtin, bu m&uuml;şteri i&ccedil;in farklı se&ccedil;eneklerin yolunu da a&ccedil;acaktır.
     - C-) Sunumu ayrıntılardan ziyade basit ve &ouml;zet şeklinde anlatın
@@ -704,7 +753,7 @@
     - D-) Termografik baskı
     - E-) İyonografik baskı
     <hr />
-1. UV lakların avantajlarından bahsedilirken aşağıda hangi başlıkta yanlış ifade edilmiştir?
+1. <strong>UV lakların avantajlarından bahsedilirken aşağıda hangi başlıkta <u>yanlış </u>ifade edilmiştir?</strong>
     - **Cevap A-) Y&uuml;ksek enerji gereksinimi**
     - B-) Oda sıcaklığında uygulanabilmesi
     - C-) &Ccedil;evre ya da sağlığa zararlı organik yapı i&ccedil;ermemesi
@@ -818,7 +867,7 @@
     - E-) Logo
     <hr />
 ## Unite 11
-1. G&ouml;stergebilimin kurucusu kimdir?
+1. <strong>G&ouml;stergebilimin kurucusu kimdir?</strong>
     - A-) Charles Sanders Peirce
     - B-) Roland Barthes
     - C-) Michel Foucault
@@ -867,7 +916,7 @@
     - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;zkonusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi g</strong><strong>rafik tasarımcısının yaptığı işlerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi g</strong><strong>rafik tasarımcısının yaptığı işlerden biri <u>değildir</u>?</strong>
     - A-) Grafik tasarımcı bir g&ouml;sterge &uuml;reticisidir.
     - B-) Grafik tasarımcı bir anlam &uuml;reticisidir.
     - **Cevap C-) Grafik tasarımcı bir teknoloji &uuml;reticisidir.**
@@ -974,7 +1023,7 @@
     - D-) Alışılmış kalıplardan sıyrılmak
     - **Cevap E-) En kısa yoldan &ccedil;&ouml;z&uuml;me ulaşmak**
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları &ccedil;ıkarımlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları &ccedil;ıkarımlardan biri <u>değildir</u>?</strong>
     - A-) Yaratıcılık doğuştan gelen bir &ouml;zelliktir.
     - B-) Yaratıcılık bir sorun &ccedil;&ouml;zme s&uuml;recidir.
     - C-) Yaratıcı kişiler &ouml;nceki deneyimlerini de aşan ve onlara başkaldıran kişilerdir.
@@ -1088,7 +1137,7 @@
     - D-) Işık ve g&ouml;lge efektlerini vurgulamak
     - E-) Hareket algısı vermek
     <hr />
-1. Brian Steely&#39;nin logo tasarımlarındaki &ccedil;izgisel anlatım hangi unsurları i&ccedil;erir?
+1. <strong>Brian Steely&#39;nin logo tasarımlarındaki &ccedil;izgisel anlatım hangi unsurları i&ccedil;erir?</strong>
     - A-) Sadece renkli arka planlar
     - B-) Hareket etkisi
     - C-) Yalnızca detaylı fig&uuml;rler

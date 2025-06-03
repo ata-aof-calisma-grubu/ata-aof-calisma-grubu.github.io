@@ -21,7 +21,7 @@
     - D-) Tıp
     - **Cevap E-) &Ouml;ğretmenlik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Antik Yunan mimari tasarımlarının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi Antik Yunan mimari tasarımlarının &ouml;zelliklerinden biri <u>değildir</u>? </strong>
     - A-) Adeta bir heykel gibi tasarlanmıştır.
     - B-) Stereometrik anlayıştadır.
     - **Cevap C-) Y&uuml;ksek pencereleri vardır.**
@@ -134,7 +134,7 @@
     - D-) Miesvan der Rohe, Gropius, Meyer
     - E-) Gropius, Miesvan der Rohe, Meyer
     <hr />
-1. <strong>Bauhaus&#39;a ilk davet edilen&nbsp;eğitimcilerden olan İsvi&ccedil;reli ressam-ekspresyonist ve eğitimci aşağıdakilerden hangisidir?</strong>
+1. <strong>Bauhaus&#39;a ilk davet edilen eğitimcilerden olan İsvi&ccedil;reli ressam-ekspresyonist ve eğitimci aşağıdakilerden hangisidir?</strong>
     - A-) Kandinsky
     - B-) Klee
     - C-) Meyer
@@ -211,7 +211,7 @@
     - D-) Mat camlı lambalar
     - **Cevap E-) Kuş ve &ccedil;i&ccedil;ek desenli duvar k&acirc;ğıdı**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Bauhaus&#39;un &uuml;nl&uuml; &ouml;ğrencilerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Bauhaus&#39;un &uuml;nl&uuml; &ouml;ğrencilerinden biri <u>değildir</u>?</strong>
     - A-) Gunta St&ouml;lzl
     - B-) Marianne Brandt
     - **Cevap C-) William Morris**
@@ -643,7 +643,7 @@
     - **Cevap E-) &Ccedil;evresel &ndash; Bilişsel - Kişisel**
     <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; amacı kendisinin dışındadır, başkası i&ccedil;in yaşar, maddi ve &ccedil;ıkarcı bir yaklaşımı vardır, araştırmak, bulmak, keşfetmek bu &ccedil;ıkarlara uyup uymamasına bağlıdır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
     - A-) Yaratıcı kişiliğin
     - B-) Tasarım &ccedil;alışanlarının
     - C-) İll&uuml;strat&ouml;rlerin
@@ -685,7 +685,7 @@
     - D-) Bireşim
     - E-) Geliştirme
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım sorununa dair veri toplama s&uuml;recinde yer alan veri kaynaklarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım sorununa dair veri toplama s&uuml;recinde yer alan veri kaynaklarından biri <u>değildir</u>?</strong>
     - A-) Konunun uzmanları
     - B-) Başarısı kabul g&ouml;rm&uuml;ş yapıtlar
     - C-) Tasarımcının bilgi birikimi
@@ -873,7 +873,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Par&ccedil;alama ve Harmanlama
     - E-) Harmanlama ve &Ccedil;arpıtma
     <hr />
-1. <strong>&ldquo;&hellip;&hellip;&hellip;&hellip;&hellip; &hellip;.&hellip;&hellip;&hellip; yanıtı &ouml;nceden belli sorulara odaklıdır.&rdquo; ifadesindeki noktalı yere&nbsp; aşağıdaki d&uuml;ş&uuml;nme y&ouml;ntemi gelmelidir?</strong>
+1. <strong>&ldquo;&hellip;&hellip;&hellip;&hellip;&hellip; &hellip;.&hellip;&hellip;&hellip; yanıtı &ouml;nceden belli sorulara odaklıdır.&rdquo; ifadesindeki noktalı yere aşağıdaki d&uuml;ş&uuml;nme y&ouml;ntemi gelmelidir?</strong>
     - A-) Iraksak d&uuml;ş&uuml;nme
     - B-) Iraksak d&uuml;ş&uuml;nce
     - C-) &Ccedil;ifte d&uuml;ş&uuml;nme
@@ -937,8 +937,15 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) &Ouml;d&uuml;ller + hedef belirlemek
     - **Cevap E-) Beklemek + ertelemek**
     <hr />
-1. &Uuml;st&uuml;noğlu (2006) .......................... becerilerini eleştirel d&uuml;ş&uuml;nme, yaratıcı d&uuml;ş&uuml;nme, analitik d&uuml;ş&uuml;nme, yansıtıcı d&uuml;ş&uuml;nme ve problem &ccedil;&ouml;zme olarak beşe ayırmıştır.&nbsp;<br />
-<strong>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi getirilmelidir.&nbsp;</strong>
+1. <strong>&quot;Zihinsel eylem ve bilgiyi elde etme ve d&#252;ş&#252;nce, deneyim yoluyla anlama s&#252;reci ve duyu&quot; anlamına gelen tanım aşağıdakilerden hangisine aittir?</strong>
+    - A-) Iraksak d&#252;ş&#252;nme
+    - B-) Iraksak d&#252;ş&#252;nce
+    - C-) İ&#231;sel d&#252;rt&#252;
+    - D-) G&#246;r&#252;ş
+    - **Cevap E-) Biliş**
+    <hr />
+1. &Uuml;st&uuml;noğlu (2006) .......................... becerilerini eleştirel d&uuml;ş&uuml;nme, yaratıcı d&uuml;ş&uuml;nme, analitik d&uuml;ş&uuml;nme, yansıtıcı d&uuml;ş&uuml;nme ve problem &ccedil;&ouml;zme olarak beşe ayırmıştır. <br />
+<strong>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi getirilmelidir. </strong>
     - **Cevap A-) &Uuml;st D&uuml;zey D&uuml;ş&uuml;nme**
     - B-) Iraksak D&uuml;ş&uuml;nme
     - C-) B&uuml;t&uuml;nc&uuml;l D&uuml;ş&uuml;nme
@@ -1037,6 +1044,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Y&uuml;zme havuzları
     - E-) Duvar resimleri
     <hr />
+1. <strong>Tasarım estetiğinde g&uuml;zel kavramı nasıl a&ccedil;ıklanır?</strong>
+    - A-) G&uuml;zellik toplumun &ouml;nemli bir değeridir.
+    - **Cevap B-) G&uuml;zellik g&ouml;receli bir kavramdır ve k&uuml;lt&uuml;rlere g&ouml;re değişir.**
+    - C-) İnsanlar g&uuml;zeli ararlar.
+    - D-) Sadece sanat&ccedil;ılar g&uuml;zeli tasarlar.
+    - E-) G&uuml;zel ancak resimde g&ouml;r&uuml;l&uuml;r.
+    <hr />
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi grafik tasarım alanında en &ccedil;ok tercih edilen sekt&ouml;r lideri yazılım firmasıdır?</strong>
     - A-) Corel
@@ -1045,7 +1059,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) Apple**
     - E-) Photomagic
     <hr />
-1. <strong>&nbsp;Aşağıdaki Adobe yazılımlarından hangisinin temel kullanım alanı yanlış yazılmıştır?</strong>
+1. <strong> Aşağıdaki Adobe yazılımlarından hangisinin temel kullanım alanı yanlış yazılmıştır?</strong>
     - A-) Adobe Illustrator / Vekt&ouml;r resim ve ill&uuml;strasyon oluşturma.
     - B-) Adobe InDesign / Dijital ve basılı mecralar i&ccedil;in mizanpaj oluşturma.
     - **Cevap C-) Adobe Premiere Pro / Piksel tabanlı g&ouml;r&uuml;nt&uuml; işleme.**
@@ -1107,6 +1121,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap C-) Sadece yapay zeka ve derin &ouml;ğrenme teknolojilerinin desteklediği bir &ccedil;alışma sahasıdır.**
     - D-) Tasarımlar sadece &uuml;&ccedil; boyutlu değil, aynı zamanda iki boyutlu ortamlar i&ccedil;in de yapılmaktadır.
     - E-) Tasarımcılara farklı ger&ccedil;eklik t&uuml;rleri &uuml;zerinde &ccedil;alışma yapma olanağı sağlar.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;recinde kullanılan Adobe yazılımlarından biri <u>değildir</u>?</strong>
+    - A-) Illustrator
+    - B-) InDesign
+    - **Cevap C-) Publisher**
+    - D-) Photoshop
+    - E-) After Effects
     <hr />
 1. <strong>Aşağıdaki cihazlardan hangisi dijital ill&uuml;strasyon yaparken kullanılan &ouml;ncelikli ara&ccedil;lardan biridir?</strong>
     - A-) Harici bellek
@@ -1209,6 +1230,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Serigrafi Baskı
     - **Cevap E-) 3B Baskı**
     <hr />
+1. <strong>Aşağıdakilerden hangisi dijital baskının bize sağlamış olduğu faydalardan biri <u>değildir</u>?</strong>
+    - **Cevap A-) Y&uuml;ksek maliyetler**
+    - B-) Ger&ccedil;ek zamanlı prova
+    - C-) Esneklik ve daha parlak renkler
+    - D-) Talep edilen miktarda baskı sayısı
+    - E-) Geleneksel baskı ile bağlantılı olması
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bir hareket yakalama teknolojisi <u>değildir</u>?</strong>
     - **Cevap A-) Doğrusal Sistemler**
     - B-) Aktif Optik Sistemler
@@ -1280,7 +1308,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) T&uuml;m &uuml;r&uuml;nler aynı topraktan &uuml;retilir.
     - E-) Kalitesiz &uuml;r&uuml;n ve tasarımları yok eder.
     <hr />
-1. <strong>S&uuml;rd&uuml;r&uuml;lebilir ambalaj&nbsp;&nbsp;tasarımı ne demektir?</strong>
+1. <strong>S&uuml;rd&uuml;r&uuml;lebilir ambalaj tasarımı ne demektir?</strong>
     - A-) T&uuml;ketim k&uuml;lt&uuml;r&uuml;n&uuml; desteklemek
     - B-) Daha fazla &uuml;retimi teşvik etmek
     - C-) Daha &ccedil;ok m&uuml;şteriye ulaşmak
@@ -1312,10 +1340,17 @@ IV. S&uuml;rekli &uuml;retim yapmak<br />
     - D-) Fabrikaların kapatılması
     - E-) Ara&ccedil;ların azaltılması
     <hr />
+1. <strong>4 Eyl&#252;l 2002&#39;de Johannesburg toplantısı sonu&#231;ları aşağıdakilerden hangisidir?</strong>
+    - A-) Tarım aletlerini &#231;oğaltmak
+    - B-) Petrol&#252; daha iyi arıtmak
+    - C-) K&#246;ye d&#246;n&#252;ş&#252; teşvik etmek
+    - **Cevap D-) Biyolojik &#231;eşitlilik kaybının durdurulması**
+    - E-) Denizlerdeki balık avını &#231;oğaltmak
+    <hr />
 1. I. Yoksullukla m&uuml;cadele<br />
-II.&nbsp;Sorumlu &uuml;retim ve t&uuml;ketim<br />
-III.&nbsp;Sağlıklı yaşam<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;s&uuml;rd&uuml;r&uuml;lebilir kalkınma ama&ccedil;ları ve hedefleri arasında yer alır?</strong>
+II. Sorumlu &uuml;retim ve t&uuml;ketim<br />
+III. Sağlıklı yaşam<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri s&uuml;rd&uuml;r&uuml;lebilir kalkınma ama&ccedil;ları ve hedefleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -1415,6 +1450,13 @@ III.&nbsp;Sağlıklı yaşam<br />
     - D-) Disiplinlerarasılık
     - E-) Yaratıcılık
     <hr />
+1. <strong>T&#252;rk&#231;e literat&#252;rde hangi kavramlarla birlikte anılıyor olması inovasyonun daha &#231;ok ekonomi alanına ait bir kavram olmasını desteklemektedir?</strong>
+    - **Cevap A-) Y&#246;netim, &#252;r&#252;n-hizmet, k&#226;r-zarar, satış**
+    - B-) Moda, &#252;r&#252;n, icat
+    - C-) Renk, grafik, eskiz
+    - D-) K&#226;r-zarar, grafik, icat
+    - E-) ArGe, Planlama, Renk
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarımcının tasarımında başarılı olmasında gerekli olan unsurlardan biri <u>değildir</u>?</strong>
     - A-) Basit ama odaklı olması
     - **Cevap B-) Olmayanı tasarlama kaygısına sahip olması**
@@ -1493,12 +1535,19 @@ III.&nbsp;Sağlıklı yaşam<br />
     - D-) Tutarlılık ve Standartlar
     - E-) Hata &Ouml;nleme
     <hr />
-1. <strong>Aşağıdakilerden hangisi kullanıcı deneyimi alanında &ccedil;alışan bir tasarımcının g&ouml;revlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kullanıcı deneyimi alanında &ccedil;alışan bir tasarımcının g&ouml;revlerinden biri <u>değildir</u>?</strong>
     - A-) Tasarım kararlarını doğrulamak ve sorunları belirlemek i&ccedil;in kullanıcı testi yapmak
     - **Cevap B-) &Uuml;r&uuml;n olarak web sitesinin d&uuml;ğme, tasarımları ve bu tasarımlardaki metinleri oluşturmak**
     - C-) Hedef kitleye/m&uuml;şterilere dayalı kullanıcı kişilikleri geliştirmek
-    - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak
+    - D-) Bir &uuml;r&uuml;n etkileşimiyle ilgili t&uuml;m hedefleri, ihtiya&ccedil;ları, davranışları ve sorunlu noktaları belirlemek i&ccedil;in kullanıcı profillerini araştırmak 
     - E-) Bir m&uuml;şterinin bir &uuml;r&uuml;nle nasıl etkileşime girdiğini analiz etmek i&ccedil;in kullanıcı yolculuk haritaları oluşturmak
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ldquo;Kullanıcı Aray&uuml;z&uuml;&rdquo; ifadesinin D&uuml;nya genelinde kullanılan kısaltmasıdır?</strong>
+    - A-) UX
+    - **Cevap B-) UI**
+    - C-) HCI
+    - D-) IHA
+    - E-) KA
     <hr />
 1. <strong>Aşağıdaki lerden hangisi Etkileşim Tasarımının 5 Boyutu ile ilgili maddeler arasında <u>yer almaz</u>?</strong>
     - A-) Kelimeler

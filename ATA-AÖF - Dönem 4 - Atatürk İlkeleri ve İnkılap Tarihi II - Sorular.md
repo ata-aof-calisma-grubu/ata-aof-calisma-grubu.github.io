@@ -1,6 +1,6 @@
 # Atatürk İlkeleri ve İnkılap Tarihi II
 ## Unite 1
-1. <strong>Aşağıdakilerden hangisinde&nbsp;</strong><strong>Mondros M&uuml;tarekesi&#39;nden sonra Fransa tarafından işgal edilen yerler doğru olarak verilmiştir?</strong>
+1. <strong>Aşağıdakilerden hangisinde </strong><strong>Mondros M&uuml;tarekesi&#39;nden sonra Fransa tarafından işgal edilen yerler doğru olarak verilmiştir?</strong>
     - A-) Antalya-Muğla-Denizli
     - **Cevap B-) Antep-Urfa-Maraş**
     - C-) Erzurum-Bitlis-Diyarbakır
@@ -17,14 +17,21 @@ III. TBMM H&uuml;k&ucirc;meti&#39;nin imzaladığı ilk siyasi antlaşmadır.<br
     - D-) Moskova Antlaşması
     - E-) Ankara Antlaşması
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Sadrazam Tevfik Paşa&#39;nın s&ouml;z hakkını TBMM H&uuml;k&ucirc;meti temsilcilerine bıraktığı ve İtilaf Devletleri&#39;nin TBMM H&uuml;k&ucirc;meti&#39;ni resmen tanıdıkları uluslararası konferansdır?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Sadrazam Tevfik Paşa&#39;nın s&ouml;z hakkını TBMM H&uuml;k&ucirc;meti temsilcilerine bıraktığı ve İtilaf Devletleri&#39;nin TBMM H&uuml;k&ucirc;meti&#39;ni resmen tanıdıkları uluslararası konferansdır? </strong>
     - **Cevap A-) Londra Konferansı**
     - B-) B&uuml;kreş Konferansı
     - C-) San Remo Konferansı
     - D-) Spa Konferansı
     - E-) Lozan Konferansı
     <hr />
-1. <strong>Aşağıdaki hangi gelişmeyle&nbsp;</strong><strong>Kuva-yı Milliye sonra ermiştir?</strong>
+1. <strong>I. İn&ouml;n&uuml; Savaşı&#39;nın kazanılmasından sonra TBMM H&uuml;k&ucirc;meti ile Sovyet Rusya arasında imzalanan antlaşma aşağıdakilerden hangisidir?</strong>
+    - A-) G&uuml;mr&uuml; Antlaşması
+    - B-) Kars Antlaşması
+    - C-) Ankara Antlaşması
+    - D-) İstanbul Antlaşması
+    - **Cevap E-) Moskova Antlaşması**
+    <hr />
+1. <strong>Aşağıdaki hangi gelişmeyle </strong><strong>Kuva-yı Milliye sonra ermiştir?</strong>
     - A-) Sakarya Savaşı&rsquo;ndan sonra
     - **Cevap B-) I. İn&ouml;n&uuml; Savaşı&rsquo;ndan sonra**
     - C-) B&uuml;y&uuml;k Taarruz&rsquo;dan sonra
@@ -45,7 +52,7 @@ III. TBMM H&uuml;k&ucirc;meti&#39;nin imzaladığı ilk siyasi antlaşmadır.<br
     - D-) Mudanya M&uuml;tarekesi
     - E-) Lozan Antlaşması
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>TBMM H&uuml;k&ucirc;meti&rsquo;nin ilk imzaladığı ve T&uuml;rkiye adının ge&ccedil;tiği ilk antlaşmadır?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>TBMM H&uuml;k&ucirc;meti&rsquo;nin ilk imzaladığı ve T&uuml;rkiye adının ge&ccedil;tiği ilk antlaşmadır?</strong>
     - A-) Ankara Antlaşması
     - **Cevap B-) G&uuml;mr&uuml; Antlaşması**
     - C-) Kars Antlaşması
@@ -83,40 +90,40 @@ III. Fransa Ankara ile anlaşma yolları aramaya başladı.<br />
     - D-) Urfa Savunması&rsquo;ndan sonra
     - E-) Sakarya Savaşı&rsquo;ndan sonra
     <hr />
-1. <strong>Aşağıdakilerden hangisinde d</strong><strong>oğu sınırlarımızın tespiti ile ilgili olarak yapılan antlaşmaların sıralaması&nbsp;</strong><strong>doğru&nbsp;</strong><strong>verilmiştir?</strong>
+1. <strong>Aşağıdakilerden hangisinde d</strong><strong>oğu sınırlarımızın tespiti ile ilgili olarak yapılan antlaşmaların sıralaması </strong><strong>doğru </strong><strong>verilmiştir?</strong>
     - A-) Lozan-Ankara-G&uuml;mr&uuml; antlaşmaları
     - **Cevap B-) G&uuml;mr&uuml;-Moskova-Kars antlaşmaları**
     - C-) Ankara-Lozan-G&uuml;mr&uuml; antlaşmaları
     - D-) Mudanya-Lozan-Moskova antlaşmaları
     - E-) Moskova-Kars-G&uuml;mr&uuml; antlaşmaları
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Yeni T&uuml;rk Devleti&#39;nin ilk asker&icirc; cephesidir?</strong>
-    - A-) G&uuml;ney Cephesi
-    - B-) Batı Cephesi
-    - C-) &Ccedil;anakkale Cephesi
-    - **Cevap D-) Doğu Cephesi&nbsp;**
-    - E-) Kanal Cephesi
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Yeni T&uuml;rk Devleti&#39;nin ilk asker&icirc; cephesidir?</strong>
+    - A-) G&uuml;ney Cephesi 
+    - B-) Batı Cephesi 
+    - C-) &Ccedil;anakkale Cephesi 
+    - **Cevap D-) Doğu Cephesi**
+    - E-) Kanal Cephesi 
     <hr />
-1. <strong>D&uuml;şman işgallerine karşı halk tarafından oluşturulmuş silahlı milis kuvvetlerinin genel adı aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>D&uuml;şman işgallerine karşı halk tarafından oluşturulmuş silahlı milis kuvvetlerinin genel adı aşağıdakilerden hangisidir? </strong>
     - A-) Kuva-yı Seyyare
     - B-) Kuva-yı İnzibatiye
     - **Cevap C-) Kuva-yı Mill&icirc;ye**
-    - D-) Temsil Heyeti
-    - E-) Hamidiye Alayları
+    - D-) Temsil Heyeti 
+    - E-) Hamidiye Alayları 
     <hr />
-1. <strong>İzmir Yunanlılar tarafından hangi tarihte işgal edilmiştir?&nbsp;</strong>
+1. <strong>İzmir Yunanlılar tarafından hangi tarihte işgal edilmiştir? </strong>
     - **Cevap A-) 15 Mayıs 1919**
     - B-) 15 Haziran 1919
     - C-) 15 Temmuz 1919
     - D-) 15 Ağustos 1919
     - E-) 15 Eyl&uuml;l 1919
     <hr />
-1. <strong>Mondros M&uuml;tarekesi&#39;nden sonra ilk işgal hareketi hangi &uuml;lke tarafından ger&ccedil;ekleştirilmiştir?&nbsp;</strong>
+1. <strong>Mondros M&uuml;tarekesi&#39;nden sonra ilk işgal hareketi hangi &uuml;lke tarafından ger&ccedil;ekleştirilmiştir? </strong>
     - A-) Fransa
     - B-) İtalya
     - C-) Sovyet Rusya
-    - D-) Yunanistan
-    - **Cevap E-) İngiltere&nbsp;**
+    - D-) Yunanistan 
+    - **Cevap E-) İngiltere**
     <hr />
 1. <strong>Mehmet Akif Ersoy, İstiklal Marşı&#39;nı aşağıdakilerden hangisine ithafen yazmıştır?</strong>
     - **Cevap A-) T&uuml;rk Ordusu**
@@ -170,7 +177,7 @@ IV. Azerbaycan, G&uuml;rcistan ve Ermenistan Cumhuriyetleri ile Kars Antlaşmas�
     - **Cevap D-) B&uuml;y&uuml;k Taarruz**
     - E-) Balkan Savaşları
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mustafa Kemal Paşa&rsquo;nın, Başkomutanlık Yasası&rsquo;nın kendisine tanıdığı yetkilerle 7-8 Ağustos 1921&rsquo;de yayımladığı y&uuml;k&uuml;ml&uuml;l&uuml;klerin genel adıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mustafa Kemal Paşa&rsquo;nın, Başkomutanlık Yasası&rsquo;nın kendisine tanıdığı yetkilerle 7-8 Ağustos 1921&rsquo;de yayımladığı y&uuml;k&uuml;ml&uuml;l&uuml;klerin genel adıdır?</strong>
     - A-) Kuva-yı Milliye
     - B-) Kuva-yı İnzibatiye
     - **Cevap C-) Tek&acirc;lif-i Milliye**
@@ -213,14 +220,14 @@ Aşağıdakilerin hangisiyle bu durumun giderilmesine &ccedil;alışılmıştır
     - D-) Hıyanet-i Vataniye Kanunu&#39;nun &ccedil;ıkarılması
     - **Cevap E-) Tek&acirc;lif-i Milliye Emirleri&rsquo;nin &ccedil;ıkarılması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Sakarya ve Başkomutanlık Meydan Savaşları&rsquo;nın sonu&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Sakarya ve Başkomutanlık Meydan Savaşları&rsquo;nın sonu&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) Mudanya M&uuml;tarekesi
     - B-) Lozan Antlaşması
     - **Cevap C-) G&uuml;mr&uuml; Antlaşması**
     - D-) Kars Antlaşması
     - E-) Ankara Antlaşması
     <hr />
-1. <strong>Aşağıdaki antlaşmalardan hangisi&nbsp;</strong><strong>TBMM H&uuml;k&uuml;meti&#39;nin tanınması ve siyas&icirc; y&ouml;nden g&uuml;&ccedil;lenmesi ile ilgili olarak Fransa&#39;nın İngiltere&#39;yle g&ouml;r&uuml;ş ayrılığına d&uuml;şmesine neden olmuştur?</strong>
+1. <strong>Aşağıdaki antlaşmalardan hangisi </strong><strong>TBMM H&uuml;k&uuml;meti&#39;nin tanınması ve siyas&icirc; y&ouml;nden g&uuml;&ccedil;lenmesi ile ilgili olarak Fransa&#39;nın İngiltere&#39;yle g&ouml;r&uuml;ş ayrılığına d&uuml;şmesine neden olmuştur?</strong>
     - A-) G&uuml;mr&uuml; Antlaşması
     - **Cevap B-) Ankara Antlaşması**
     - C-) Moskova Antlaşması
@@ -234,7 +241,7 @@ Aşağıdakilerin hangisiyle bu durumun giderilmesine &ccedil;alışılmıştır
     - D-) TBMM H&uuml;k&ucirc;meti ile anlaşacağını
     - E-) Anlaşma Devletleri&rsquo;ne itiraz edeceğini
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Lozan Antlaşması&rsquo;ndan sonra, T&uuml;rkiye Cumhuriyeti h&uuml;k&ucirc;metleri i&ccedil;in bir sorun&nbsp;<u>oluşturmamıştır</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Lozan Antlaşması&rsquo;ndan sonra, T&uuml;rkiye Cumhuriyeti h&uuml;k&ucirc;metleri i&ccedil;in bir sorun <u>oluşturmamıştır</u>?</strong>
     - A-) T&uuml;rkiye - Irak sınırı
     - B-) Hatay meselesi
     - C-) Boğazlar meselesi
@@ -255,12 +262,19 @@ Aşağıdakilerin hangisiyle bu durumun giderilmesine &ccedil;alışılmıştır
     - D-) Sevr Antlaşması
     - E-) Mondros M&uuml;tarekesi
     <hr />
-1. <strong>TBMM 5 Ağustos 1921 tarihinde &ccedil;ıkarmış olduğu bir kanunla Mustafa Kemal&#39;e hangi g&ouml;revi vermiştir?&nbsp; </strong>
-    - **Cevap A-) Başkomutanlık&nbsp;**
+1. <strong>Aşağıdaki antlaşmalardan hangisiyle S&uuml;leyman Şah&#39;ın mezarının bulunduğu Caber Kalesi&#39;nde T&uuml;rk bayrağının dalgalanması ve Caber Kalesi&#39;nin T&uuml;rk toprağı olarak kalması kabul edilmiştir? </strong>
+    - A-) Moskova Antlaşması 
+    - B-) Kars Antlaşması 
+    - C-) G&uuml;mr&uuml; Antlaşması 
+    - **Cevap D-) Ankara Antlaşması**
+    - E-) Mudanya Ateşkes Antlaşması 
+    <hr />
+1. <strong>TBMM 5 Ağustos 1921 tarihinde &ccedil;ıkarmış olduğu bir kanunla Mustafa Kemal&#39;e hangi g&ouml;revi vermiştir? </strong>
+    - **Cevap A-) Başkomutanlık**
     - B-) TBMM Başkanlığı
-    - C-) Temsil Heyeti reisliği
+    - C-) Temsil Heyeti reisliği 
     - D-) Heyet-i Faale başkanlığı
-    - E-) Cumhurbaşkanlığı
+    - E-) Cumhurbaşkanlığı 
     <hr />
 1. <strong>Lozan Barış Konferansı&#39;nda TBMM H&uuml;k&ucirc;meti&#39;ni Dışişleri Bakanı olarak temsil eden kişi aşağıdakilerden hangisidir?</strong>
     - A-) Hasan Saka
@@ -295,14 +309,21 @@ III. Mill&icirc; egemenlik ilkesi uygulamaya ge&ccedil;ti.<br />
     - D-) Halk Fırkas&#39;ının kuruluşu
     - E-) TBMM&#39;nin a&ccedil;ılması
     <hr />
-1. <strong>Aşağıdakilerden hangisinde&nbsp;</strong><strong>T&uuml;rkiye Cumhuriyeti&#39;nin ilk cumhurbaşkanı ile ilk başbakanı&nbsp;</strong><strong>doğru verilmiştir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Ankara&#39;nın yeni T&uuml;rk Devleti&#39;nin başkenti olarak kabul edilmesinde etkili <u>olmamıştır</u>?</strong>
+    - A-) Mill&icirc; M&uuml;cadele&#39;nin merkezi olması
+    - B-) Coğrafi konumu nedeniyle işgal edilmesinin zor olması
+    - C-) Ulaşım imk&acirc;nlarının iyi olması
+    - **Cevap D-) Yabancı devletlerin Ankara&#39;yı tercih etmeleri**
+    - E-) Jeopolitik konumu nedeniyle İstanbul&#39;un işgallere a&ccedil;ık olması
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde </strong><strong>T&uuml;rkiye Cumhuriyeti&#39;nin ilk cumhurbaşkanı ile ilk başbakanı </strong><strong>doğru verilmiştir?</strong>
     - **Cevap A-) Mustafa Kemal Paşa-İsmet Paşa**
     - B-) Mustafa Kemal Paşa-K&acirc;zım Karabekir Paşa
     - C-) İsmet Paşa-Ali Fuat Paşa
     - D-) Mustafa Kemal Paşa-Rauf Bey
     - E-) Mustafa Kemal Paşa-Ali Fethi Bey
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Cumhuriyet D&ouml;nemi&rsquo;nde ger&ccedil;ekleştirilen inkılap hareketlerinin temel amacıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Cumhuriyet D&ouml;nemi&rsquo;nde ger&ccedil;ekleştirilen inkılap hareketlerinin temel amacıdır?</strong>
     - **Cevap A-) &Ccedil;ağdaş uygarlık d&uuml;zeyine ulaşmak**
     - B-) T&uuml;rk milletinin bağımsızlığını sağlamak
     - C-) Ekonomik alanda kalkınmayı sağlamak
@@ -316,7 +337,7 @@ III. Mill&icirc; egemenlik ilkesi uygulamaya ge&ccedil;ti.<br />
     - D-) Irak M&uuml;sl&uuml;manları
     - E-) İran M&uuml;sl&uuml;manları
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mustafa Kemal Paşa&rsquo;nın II. Meclis&rsquo;ten beklediği g&ouml;revdir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mustafa Kemal Paşa&rsquo;nın II. Meclis&rsquo;ten beklediği g&ouml;revdir?</strong>
     - A-) Vatanı kurtarmak
     - B-) İktisadi kalkınma
     - C-) Dış politikada atılım
@@ -337,28 +358,28 @@ III. Mill&icirc; egemenlik ilkesi uygulamaya ge&ccedil;ti.<br />
     - D-) H&uuml;rriyet ve İtilaf Fırkası
     - **Cevap E-) Halk Fırkası**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Halifeliğin saltanatla birlikte kaldırılamayışının sebebidir ?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Halifeliğin saltanatla birlikte kaldırılamayışının sebebidir ?</strong>
     - **Cevap A-) T&uuml;rk kamuoyunun hazır olmayışı**
     - B-) Terakkiperver Cumhuriyet Fırkası&rsquo;nın karşı &ccedil;ıkması
     - C-) Lozan g&ouml;r&uuml;şmelerinde siyasal bir sorun olabilme ihtimali
     - D-) M&uuml;sl&uuml;man d&uuml;nyanın tepkisi
     - E-) Halifeliğin tek başına siyasal bir g&uuml;&ccedil; olamayacağı d&uuml;ş&uuml;ncesi
     <hr />
-1. <strong>Aşağıdaki yeniliklerden hangisi&nbsp;</strong><strong>&ldquo;Egemenlik kayıtsız şartsız millettir.&rdquo; d&uuml;ş&uuml;ncesi doğrultusunda ger&ccedil;ekleştirilmiştir?</strong>
+1. <strong>Aşağıdaki yeniliklerden hangisi </strong><strong>&ldquo;Egemenlik kayıtsız şartsız millettir.&rdquo; d&uuml;ş&uuml;ncesi doğrultusunda ger&ccedil;ekleştirilmiştir?</strong>
     - A-) Yeni hukuk sistemine ge&ccedil;ilmesi
     - B-) Kabine sistemin hayata ge&ccedil;irilmesi
     - C-) 1921 Anayasası&rsquo;nın hazırlanması
     - D-) Milli Eğitim Teşkilat Kanunu&rsquo;nun kabul&uuml;
     - **Cevap E-) Saltanatın kaldırılması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Halk Fırkası (Partisi)&rsquo;nın ilk siyasi programının adıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Halk Fırkası (Partisi)&rsquo;nın ilk siyasi programının adıdır?</strong>
     - **Cevap A-) Dokuz Umde**
     - B-) Kalkınma Programı
     - C-) Parti T&uuml;z&uuml;ğ&uuml;
     - D-) Mis&acirc;k-ı Mill&icirc; Kararları
     - E-) Tek&acirc;lif-i Milliye Emirleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi s</strong><strong>altanatın kaldırılmasının sonu&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi s</strong><strong>altanatın kaldırılmasının sonu&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) Osmanlı Devleti hukuken sona erdi.
     - **Cevap B-) Padişahlık makamı korundu.**
     - C-) Milli egemenlik ilkesinin &ouml;n&uuml;n&uuml; a&ccedil;tı.
@@ -372,26 +393,26 @@ III. Mill&icirc; egemenlik ilkesi uygulamaya ge&ccedil;ti.<br />
     - D-) H&uuml;k&ucirc;metin kurulması kolaylaşmıştır.
     - E-) Kabine sistemine ge&ccedil;ilmiştir.
     <hr />
-1. <strong>Aşağıdakilerden hangisinde I.</strong><strong>&nbsp;Meclis&#39;in g&ouml;rev s&uuml;resi doğru olarak verilmiştir?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisinde I.</strong><strong> Meclis&#39;in g&ouml;rev s&uuml;resi doğru olarak verilmiştir? </strong>
     - A-) 23 Ocak 1920 - 1 Nisan 1922
-    - B-) 23 Şubat 1920 - 1 Mayıs 1921
+    - B-) 23 Şubat 1920 - 1 Mayıs 1921 
     - C-) 23 Mart 1920 - 1 Haziran 1922
     - **Cevap D-) 23 Nisan 1920 - 1 Nisan 1923**
-    - E-) 1 Ağustos 1920 - 1 Mart 1924
+    - E-) 1 Ağustos 1920 - 1 Mart 1924 
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mill&icirc; egemenlik yolunda atılmış en &ouml;nemli adımdır?&nbsp;</strong>
-    - A-) Tevhid-i Tedrisat Kanunu&#39;nun &ccedil;ıkarılması
-    - B-) Tekke, Zaviye ve T&uuml;rbelerin Kapatılması
-    - C-) Şapka Kanunu&#39;nun &ccedil;ıkarılması
-    - D-) Soyadı Kanunu&#39;nun &ccedil;ıkarılması
-    - **Cevap E-) Saltanatın Kaldırılması&nbsp;**
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mill&icirc; egemenlik yolunda atılmış en &ouml;nemli adımdır? </strong>
+    - A-) Tevhid-i Tedrisat Kanunu&#39;nun &ccedil;ıkarılması 
+    - B-) Tekke, Zaviye ve T&uuml;rbelerin Kapatılması 
+    - C-) Şapka Kanunu&#39;nun &ccedil;ıkarılması 
+    - D-) Soyadı Kanunu&#39;nun &ccedil;ıkarılması 
+    - **Cevap E-) Saltanatın Kaldırılması**
     <hr />
 1. <strong>Aşağıdakilerden hangisi son Osmanlı halifesidir?</strong> 
-    - A-) Tevfik Paşa
-    - B-) Damat Ferit Paşa
-    - C-) Ali Rıza Paşa
-    - **Cevap D-) Abd&uuml;lmecit Efendi&nbsp;**
-    - E-) Salih Paşa
+    - A-) Tevfik Paşa 
+    - B-) Damat Ferit Paşa 
+    - C-) Ali Rıza Paşa 
+    - **Cevap D-) Abd&uuml;lmecit Efendi**
+    - E-) Salih Paşa 
     <hr />
 1. <strong>T&uuml;rk siyasi tarihinde 29 Ekim 1923&#39;te ger&ccedil;ekleşen &ouml;nemli olay aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Cumhuriyet&#39;in İlanı**
@@ -420,7 +441,7 @@ IV. Osmanlı Devleti<br />
     <hr />
 ## Unite 4
 1. I. D&ouml;nem TBMM&#39;de siyasi partiler kurulmamış, bunun yerine anlayış ve d&uuml;ş&uuml;nce farklılıklarına dayanan bazı gruplar ortaya &ccedil;ıkmıştı.<br />
-<strong>Aşağıdakilerden hangisi TBMM&#39;de ortaya &ccedil;ıkan bu gruplardan biri&nbsp;<u>değildir</u>?</strong>
+<strong>Aşağıdakilerden hangisi TBMM&#39;de ortaya &ccedil;ıkan bu gruplardan biri <u>değildir</u>?</strong>
     - A-) Tesan&uuml;d Grubu
     - B-) İstiklal Grubu
     - C-) Islahat Grubu
@@ -448,12 +469,20 @@ IV. Osmanlı Devleti<br />
     - D-) Hilafetin kaldırılması
     - E-) Laiklik ilkesinin kabul&uuml;
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mustafa Kemal Paşa&#39;nın isteği ile 1930&#39;da kurulan Serbest Cumhuriyet Fırkası&#39;nın lideridir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mustafa Kemal Paşa&#39;nın isteği ile 1930&#39;da kurulan Serbest Cumhuriyet Fırkası&#39;nın lideridir?</strong>
     - A-) Rauf Orbay
     - B-) K&acirc;zım Karabekir
     - C-) Ali Fuat Cebesoy
     - D-) Refet Bele
     - **Cevap E-) Ali Fethi Okyar**
+    <hr />
+1. Şeyh Sait İsyanı s&uuml;recinde Cumhuriyet Halk Fırkası Grubu toplantısında, isyanın bastırılması ile ilgili olarak Başbakan Ali Fethi Bey&rsquo;in almış olduğu tedbirler ve olaya bakış a&ccedil;ısı b&uuml;y&uuml;k tenkit g&ouml;rd&uuml;. Bunun &uuml;zerine Fethi Bey H&uuml;k&uuml;meti istifa etmek zorunda kaldı.<br />
+<strong>İsyanla daha etkin m&uuml;cadele edebilmek i&ccedil;in yeni h&uuml;k&ucirc;meti kuran kişi aşağıdakilerden hangisidir?</strong>
+    - A-) Ali Fuat Paşa
+    - **Cevap B-) İsmet Paşa**
+    - C-) Fevzi Paşa
+    - D-) Celal Bayar
+    - E-) Adnan Menderes
     <hr />
 1. <strong>Terakkiperver Cumhuriyet Fırkası&rsquo;nın savunduğu fikirler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Egemenliğin halka ait olduğu
@@ -476,7 +505,7 @@ IV. Osmanlı Devleti<br />
     - **Cevap D-) &Ccedil;ok partili siyasi hayata ge&ccedil;ilmesine**
     - E-) Kadınlara siyasal haklar tanınmasına
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>T&uuml;rkiye Cumhuriyeti Devleti&rsquo;nin ilk &ouml;rg&uuml;tl&uuml; muhalefet partisidir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>T&uuml;rkiye Cumhuriyeti Devleti&rsquo;nin ilk &ouml;rg&uuml;tl&uuml; muhalefet partisidir?</strong>
     - **Cevap A-) Terakkiperver Cumhuriyet Fırkası**
     - B-) Cumhuriyet Halk Fırkası
     - C-) H&uuml;rriyet ve İtilaf Fırkası
@@ -490,7 +519,7 @@ IV. Osmanlı Devleti<br />
     - D-) Hatay sorunu
     - E-) Doğu Trakya sorunu
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mustafa Kemal Paşa&rsquo;nın telkinleriyle kurulan; ancak Cumhuriyet&rsquo;e karşı olanların faaliyetleri nedeniyle kurucuları tarafından kapatılan siyasi partidir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mustafa Kemal Paşa&rsquo;nın telkinleriyle kurulan; ancak Cumhuriyet&rsquo;e karşı olanların faaliyetleri nedeniyle kurucuları tarafından kapatılan siyasi partidir?</strong>
     - A-) Cumhuriyet Halk Fırkası
     - B-) Terakkiperver Cumhuriyet Fırkası
     - **Cevap C-) Serbest Cumhuriyet Fırkası**
@@ -511,7 +540,7 @@ IV. Osmanlı Devleti<br />
     - D-) Terakkiperver Cumhuriyet Fırkası-Takrir-i S&uuml;k&ucirc;n Kanunu ile kapatılmıştır.
     - **Cevap E-) Serbest Cumhuriyet Fırkası-Ekonomide Devlet&ccedil;ilik politikasını savunmuştur.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>23 Aralık 1930&rsquo;da meydana gelen Menemen Olayı&rsquo;nda katledilen ve bu olayla &ouml;zdeşleşen kişidir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>23 Aralık 1930&rsquo;da meydana gelen Menemen Olayı&rsquo;nda katledilen ve bu olayla &ouml;zdeşleşen kişidir?</strong>
     - A-) Şeyh Sait
     - **Cevap B-) Kubilay**
     - C-) Demirci Mehmet Efe
@@ -525,7 +554,7 @@ IV. Osmanlı Devleti<br />
     - D-) T&uuml;rkiye Kom&uuml;nist Partisi
     - E-) Demokrat Parti
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Serbest Cumhuriyet Fırkası&rsquo;nın &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Serbest Cumhuriyet Fırkası&rsquo;nın &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Yayılmacı**
     - B-) Liberal
     - C-) &Ouml;zg&uuml;rl&uuml;k&ccedil;&uuml;
@@ -539,33 +568,33 @@ IV. Osmanlı Devleti<br />
     - **Cevap D-) İzmir Suikastı**
     - E-) S&uuml;ryani Ayaklanması
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Cumhuriyet tarihinin ilk &ouml;rg&uuml;tl&uuml; muhalefet partisidir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Cumhuriyet tarihinin ilk &ouml;rg&uuml;tl&uuml; muhalefet partisidir?</strong>
     - A-) Serbest Cumhuriyet Fırkası
-    - **Cevap B-) Terakkiperver Cumhuriyet Halk Fırkası&nbsp;**
-    - C-) Halk Fırkası
-    - D-) T&uuml;rkiye Kom&uuml;nist Fırkası
+    - **Cevap B-) Terakkiperver Cumhuriyet Halk Fırkası**
+    - C-) Halk Fırkası 
+    - D-) T&uuml;rkiye Kom&uuml;nist Fırkası 
     - E-) Demokrat Fırka
     <hr />
-1. <strong>Serbest Cumhuriyet Fırkası&#39;nın kurucusu aşağıdakilerden hangisidir?&nbsp;</strong>
-    - **Cevap A-) Fethi Okyar&nbsp;**
-    - B-) İsmet İn&ouml;n&uuml;
-    - C-) Nuri Conker
-    - D-) Kazım Karabekir
-    - E-) Rauf Orbay
+1. <strong>Serbest Cumhuriyet Fırkası&#39;nın kurucusu aşağıdakilerden hangisidir? </strong>
+    - **Cevap A-) Fethi Okyar**
+    - B-) İsmet İn&ouml;n&uuml; 
+    - C-) Nuri Conker 
+    - D-) Kazım Karabekir 
+    - E-) Rauf Orbay 
     <hr />
-1. <strong>Aşağıdaki olaylardan hangisinin sonucunda&nbsp;</strong><strong>Takrir-i S&uuml;k&ucirc;n Yasası&nbsp;</strong><strong>&ccedil;ıkarılmıştır?&nbsp;</strong>
-    - A-) Şeyh Eşref Ayaklanması
-    - B-) Delibaş Mehmet Ayaklanması
-    - **Cevap C-) Şeyh Sait İsyanı&nbsp;**
-    - D-) &Ccedil;apanoğulları İsyanı
-    - E-) I. Bozkır Ayaklanması
+1. <strong>Aşağıdaki olaylardan hangisinin sonucunda </strong><strong>Takrir-i S&uuml;k&ucirc;n Yasası </strong><strong>&ccedil;ıkarılmıştır? </strong>
+    - A-) Şeyh Eşref Ayaklanması 
+    - B-) Delibaş Mehmet Ayaklanması 
+    - **Cevap C-) Şeyh Sait İsyanı**
+    - D-) &Ccedil;apanoğulları İsyanı 
+    - E-) I. Bozkır Ayaklanması 
     <hr />
-1. &nbsp;A<strong>şağıdakilerden hangisi&nbsp;</strong><strong>Takrir-i S&uuml;k&ucirc;n Yasası kapsamında kapatılmayan basın-yayın organıdır?&nbsp;</strong>
-    - **Cevap A-) Cumhuriyet&nbsp;**
-    - B-) Aydınlık
+1. A<strong>şağıdakilerden hangisi </strong><strong>Takrir-i S&uuml;k&ucirc;n Yasası kapsamında kapatılmayan basın-yayın organıdır? </strong>
+    - **Cevap A-) Cumhuriyet**
+    - B-) Aydınlık 
     - C-) Orak-&Ccedil;eki&ccedil;
-    - D-) Sebil&uuml;rreşat
-    - E-) Tanin
+    - D-) Sebil&uuml;rreşat 
+    - E-) Tanin 
     <hr />
 1. <strong>K&acirc;zım Karabekir Paşa&#39;nın genel başkanlığını yaptığı siyasi parti aşağıdakilerden hangisidir?</strong>
     - A-) Halk Fırkası
@@ -584,7 +613,7 @@ IV. Osmanlı Devleti<br />
 1. ..........&#39;na g&ouml;re devlet memuru olan bir kişi aynı zamanda milletvekili olamaz.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) 1921 Anayasası
-    - **Cevap B-) 1924 Anayasası&nbsp;**
+    - **Cevap B-) 1924 Anayasası**
     - C-) 1961 Anayasası
     - D-) 1982 Anayasası
     - E-) 1987 Anayasa Referandumu
@@ -601,7 +630,7 @@ IV. Osmanlı Devleti<br />
 1. I. &quot;Egemenlik kayıtsız şartsız milletindir.&quot; ilkesinin hukuksal zemindeki karşılığıdır.<br />
 II. Meclis H&uuml;k&ucirc;meti Sistemi s&ouml;z konusudur.<br />
 III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
-<strong>Yukarıda &ouml;zellikleri verilen Anayasa aşağıdakilerden hangisidir?&nbsp;</strong> 
+<strong>Yukarıda &ouml;zellikleri verilen Anayasa aşağıdakilerden hangisidir? </strong> 
     - **Cevap A-) 1921 Teşkilat-ı Esasiye Kanunu**
     - B-) 1924 Anayasası
     - C-) 1961 Anayasası
@@ -615,6 +644,13 @@ III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
     - D-) Norm
     - E-) Meşrutiyet
     <hr />
+1. <strong>Tanzimat ile Cumhuriyet arası d&ouml;nemde hukuk&icirc; gelişmelerin sebepleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) Avrupa&rsquo;da b&uuml;rokraside ve bilgi d&uuml;zeyindeki gelişmeler
+    - B-) Sosyok&uuml;lt&uuml;rel hayatta ortaya &ccedil;ıkan gelişmeler
+    - C-) Ticari ve iktisadi usullerdeki değişiklikler
+    - D-) Batılı devletlerin Osmanlı Devleti nezdindeki baskıları
+    - **Cevap E-) Osmanlı&rsquo;nın bor&ccedil;larını &ouml;deyememesi**
+    <hr />
 1. <strong>Medeni Kanun&rsquo;la hangi t&uuml;r toplumsal ilişki veya y&ouml;ntem d&uuml;zenlenir?</strong>
     - A-) Hırsızlık yapanla malı &ccedil;alınan arasındaki ilişki
     - B-) Vergi y&uuml;k&uuml;ml&uuml;s&uuml; ile Maliye Bakanlığı arasındaki ilişki
@@ -622,9 +658,9 @@ III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
     - D-) Alacaklı birinin yargıca başvurmasındaki y&ouml;ntem
     - **Cevap E-) Karı-koca arasındaki ilişkiler**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Kamu Hukuku&rsquo;nun dalları arasında&nbsp;</strong><strong><u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Kamu Hukuku&rsquo;nun dalları arasında </strong><strong><u>yer almaz</u>?</strong>
     - A-) Anayasa Hukuku
-    - B-) &nbsp;İdare Hukuku
+    - B-) İdare Hukuku
     - C-) Vergi Hukuku
     - **Cevap D-) Aile Hukuku**
     - E-) Ceza Hukuku
@@ -650,7 +686,7 @@ III. Kuvvetler Birliği İlkesi esas alınmıştır.<br />
     - **Cevap D-) Şer&rsquo;i kanunların yeniden etkinleştirilmek istenmesi**
     - E-) Kadın hakları konusunda var olan eşitsizlikler
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>T&uuml;rk demokrasi tarihinde yapılmış anayasalar arasında bulunmaktadır?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>T&uuml;rk demokrasi tarihinde yapılmış anayasalar arasında bulunmaktadır?</strong>
     - A-) 1855 Kan&ucirc;n-ı Es&acirc;s&icirc;
     - B-) 1944 Anayasası
     - C-) 1931 Anayasası
@@ -665,7 +701,7 @@ Aşağıdakilerden hangisi bu kanunun kabul edilmesinin sebeplerinden birisi <u>
     - D-) Uygulamada kolaylık sağlaması
     - E-) H&acirc;kime geniş takdir yetkisi vermesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>T&uuml;rk hukuk tarihinin ilk medeni kanunudur?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>T&uuml;rk hukuk tarihinin ilk medeni kanunudur?</strong>
     - **Cevap A-) Mecelle**
     - B-) Meşrutiyet
     - C-) Tanzimat
@@ -679,12 +715,12 @@ Aşağıdakilerden hangisi bu kanunun kabul edilmesinin sebeplerinden birisi <u>
     - D-) Almanya
     - E-) İtalya
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Osmanlı Devleti&#39;nde padişahın egemenlik haklarının sınırlandırıldığı ilk anayasal metindir?&nbsp;</strong>
-    - A-) Tanzimat Fermanı
-    - B-) Islahat Fermanı
-    - C-) Kanun-i Esasi
-    - **Cevap D-) Sened-i İttifak&nbsp;**
-    - E-) Mecelle
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Osmanlı Devleti&#39;nde padişahın egemenlik haklarının sınırlandırıldığı ilk anayasal metindir? </strong>
+    - A-) Tanzimat Fermanı 
+    - B-) Islahat Fermanı 
+    - C-) Kanun-i Esasi 
+    - **Cevap D-) Sened-i İttifak**
+    - E-) Mecelle 
     <hr />
 1. <strong>Sened-i İttifak (1808) hangi padişah d&ouml;neminde imzalanmıştır?</strong>
     - A-) I. Mahmut
@@ -715,7 +751,7 @@ Aşağıdakilerden hangisi bu kanunun kabul edilmesinin sebeplerinden birisi <u>
     - **Cevap D-) Tevhid-i Tedrisat Kanunu**
     - E-) Harf İnkılabı
     <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi&nbsp;</strong><strong>T&uuml;rk Tarihi&#39;nin bilimsel metod ve y&ouml;ntemlerle yeniden araştırılması i&ccedil;in a&ccedil;ılan kurumdur?</strong>
+1. <strong> Aşağıdakilerden hangisi </strong><strong>T&uuml;rk Tarihi&#39;nin bilimsel metod ve y&ouml;ntemlerle yeniden araştırılması i&ccedil;in a&ccedil;ılan kurumdur?</strong>
     - A-) Halkevleri
     - B-) K&ouml;y Enstit&uuml;leri
     - C-) Dil ve Tarih Coğrafya Fak&uuml;ltesi
@@ -766,7 +802,7 @@ V. Harf İnkılabı<br />
     - D-) 1 Haziran 1929
     - E-) 26 Aralık 1929
     <hr />
-1. <strong>Aşağıdaki alfabelerden hangisi&nbsp;</strong><strong>T&uuml;rkler tarafından <u>kullanılmamıştır</u>?</strong>
+1. <strong>Aşağıdaki alfabelerden hangisi </strong><strong>T&uuml;rkler tarafından <u>kullanılmamıştır</u>?</strong>
     - A-) Latin alfabesi
     - B-) Arap alfabesi
     - C-) Sogd alfabesi
@@ -776,7 +812,7 @@ V. Harf İnkılabı<br />
 1. I.Tevhid-i Tedrisat Kanunu&#39;nun &ccedil;ıkarılması<br />
 II.Toprak reformunun yapılması<br />
 III.Şer&rsquo;iyye ve Evkaf Vek&acirc;letine bağlı medreselerin kapatılması<br />
-<strong>Yukarıdaki&nbsp;Cumhuriyetin ilk yıllarında yapılan&nbsp;inkılaplardan hangisi ya da hangileri laik devlet d&uuml;zenine ge&ccedil;mek amacıyla ilgili <u>değildir</u>?</strong>
+<strong>Yukarıdaki Cumhuriyetin ilk yıllarında yapılan inkılaplardan hangisi ya da hangileri laik devlet d&uuml;zenine ge&ccedil;mek amacıyla ilgili <u>değildir</u>?</strong>
     - A-) Yalnız I
     - **Cevap B-) Yalnız II**
     - C-) I ve II
@@ -790,7 +826,7 @@ III.Şer&rsquo;iyye ve Evkaf Vek&acirc;letine bağlı medreselerin kapatılması
     - D-) Laiklik
     - E-) İnkılap&ccedil;ılık
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Tevhid-i Tedrisat Kanunu&rsquo;nun sağladığı gelişmeler arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Tevhid-i Tedrisat Kanunu&rsquo;nun sağladığı gelişmeler arasında <u>yer almaz</u>?</strong>
     - A-) &Uuml;lkede var olan b&uuml;t&uuml;n eğitim kurumlarının tek &ccedil;atı altında toplanması
     - B-) &Ouml;ğretim ilkelerinde birlik sağlanması
     - C-) Eğitim programlarının &ccedil;ağdaşlaştırılması
@@ -811,7 +847,7 @@ III.Şer&rsquo;iyye ve Evkaf Vek&acirc;letine bağlı medreselerin kapatılması
     - D-) Laiklik
     - E-) İnkılap&ccedil;ılık
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Sakarya Savaşı&rsquo;nın en şiddetli g&uuml;nlerinde eğitim problemlerinin tespiti i&ccedil;in Ankara&rsquo;da toplanan kongredir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Sakarya Savaşı&rsquo;nın en şiddetli g&uuml;nlerinde eğitim problemlerinin tespiti i&ccedil;in Ankara&rsquo;da toplanan kongredir?</strong>
     - A-) Tarih Kongresi
     - B-) Dil Kongresi
     - C-) İktisat Kongresi
@@ -828,14 +864,14 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) III-I-II
     - E-) II-I-III
     <hr />
-1. <strong>Aşağıdaki hangi padişah d&ouml;neminde ilk&ouml;ğretim zorunlu h&acirc;le getirilmiştir?&nbsp;</strong>
-    - **Cevap A-) II. Mahmut&nbsp;**
+1. <strong>Aşağıdaki hangi padişah d&ouml;neminde ilk&ouml;ğretim zorunlu h&acirc;le getirilmiştir? </strong>
+    - **Cevap A-) II. Mahmut**
     - B-) I. Abd&uuml;lhamit
-    - C-) Abd&uuml;lmecid
-    - D-) II. Abd&uuml;lhamit
-    - E-) Vahdettin
+    - C-) Abd&uuml;lmecid 
+    - D-) II. Abd&uuml;lhamit 
+    - E-) Vahdettin 
     <hr />
-1. <strong>Aşağıdakilerden hangisi T&uuml;rk Mill&icirc; Eğitim Sistemi&#39;nin temel ilkelerinden biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi T&uuml;rk Mill&icirc; Eğitim Sistemi&#39;nin temel ilkelerinden biri <u>değildir</u>? </strong>
     - A-) Mill&icirc;dir
     - B-) Laiktir
     - C-) Bilimseldir
@@ -849,6 +885,13 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - C-) Abd&uuml;laziz
     - D-) Abd&uuml;lmecit
     - **Cevap E-) II. Mahmut**
+    <hr />
+1. <strong>1924 yılında alfabe konusunda Arap harflerinin yetersizliğini TBMM&rsquo;de ilk defa g&uuml;ndeme getiren milletvekili aşağıdakilerden hangisidir?</strong>
+    - A-) Halide Edip Adıvar
+    - B-) Kazım Karabekir
+    - **Cevap C-) Ş&uuml;kr&uuml; Sara&ccedil;oğlu**
+    - D-) Celal Bayar
+    - E-) Ziya G&ouml;kalp
     <hr />
 ## Unite 7
 1. <strong>Kadınlara milletvekili se&ccedil;me ve se&ccedil;ilme hakkını veren Anayasa değişikliği hangi tarihte ger&ccedil;ekleşmiştir?</strong>
@@ -872,7 +915,7 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) 12 Hayvanlı T&uuml;rk Takvimi
     - E-) &Ccedil;in Takvimi
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Mustafa Kemal Paşa&#39;nın, şapka giymek suretiyle Şapka İnkılabı&#39;nı başlattığı şehirdir?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Mustafa Kemal Paşa&#39;nın, şapka giymek suretiyle Şapka İnkılabı&#39;nı başlattığı şehirdir?</strong>
     - A-) İzmir
     - B-) K&uuml;tahya
     - C-) Edirne
@@ -886,7 +929,7 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) Tekke ve Zaviyelerin Kapatılması
     - E-) Firariler Kanunu
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Sosyal alanda yapılan inkılaplar arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Sosyal alanda yapılan inkılaplar arasında <u>yer almaz</u>?</strong>
     - A-) Tekke ve zaviyelerin kapatılması
     - B-) Kılık Kıyafet Kanunu&rsquo;nun &ccedil;ıkarılması
     - C-) Soyadı Kanunu&rsquo;nun kabul&uuml;
@@ -914,16 +957,16 @@ III. &Uuml;niversite reformunun hazırlanması<br />
     - D-) Takvimde değişiklik
     - E-) T&uuml;rbelerin kapatılması
     <hr />
-1. <strong>&nbsp;Aşağıdaki Atat&uuml;rk İlkeleri&#39;nden hangisi&nbsp;</strong><strong>Soyadı Kanunu</strong><strong>&nbsp;ile daha yakından ilgilidir?</strong>
+1. <strong> Aşağıdaki Atat&uuml;rk İlkeleri&#39;nden hangisi </strong><strong>Soyadı Kanunu</strong><strong> ile daha yakından ilgilidir?</strong>
     - A-) Devlet&ccedil;ilik
     - **Cevap B-) Halk&ccedil;ılık**
     - C-) Milliyet&ccedil;ilik
     - D-) Laiklik
     - E-) Cumhuriyet&ccedil;ilik
     <hr />
-1. I. Soyadı Kanunu&rsquo;nun kabul&uuml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+1. I. Soyadı Kanunu&rsquo;nun kabul&uuml;      <br />
 II. Şapka Kanunu&rsquo;nun &ccedil;ıkarılması<br />
-III. Meden&icirc; Kanunu&rsquo;nun kabul&uuml;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+III. Meden&icirc; Kanunu&rsquo;nun kabul&uuml;    <br />
 IV. Ağırlık ve &ouml;l&ccedil;&uuml; birimlerinin değiştirilmesi<br />
 V. Miladi takvimin kabul edilmesi<br />
 <strong>Yukarıdaki gelişmelerinden hangileri T&uuml;rkiye&#39;de uluslararası ticar&icirc; ilişkilerde kolaylık sağlamıştır?</strong>
@@ -940,7 +983,7 @@ V. Miladi takvimin kabul edilmesi<br />
     - D-) Devlet&ccedil;ilik
     - E-) Laiklik
     <hr />
-1. <strong>Aşağıdaki alanlardan hangisiyle&nbsp;</strong><strong>T&uuml;rkiye Cumhuriyeti&rsquo;nde uluslararası &ouml;l&ccedil;&uuml; birimlerine ge&ccedil;ilmesi ilişkilerde kolaylık sağlamıştır?</strong>
+1. <strong>Aşağıdaki alanlardan hangisiyle </strong><strong>T&uuml;rkiye Cumhuriyeti&rsquo;nde uluslararası &ouml;l&ccedil;&uuml; birimlerine ge&ccedil;ilmesi ilişkilerde kolaylık sağlamıştır?</strong>
     - A-) Kamu Y&ouml;netimi
     - B-) Ziraat
     - C-) Sağlık
@@ -949,18 +992,25 @@ V. Miladi takvimin kabul edilmesi<br />
     <hr />
 1. ....................... tarihinde Anayasa&#39;da yapılan değişiklikle kadınlara milletvekili se&ccedil;me ve se&ccedil;ilme hakkı verilmiştir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) 5 Aralık 1934&nbsp;**
-    - B-) 5 Aralık 1935
-    - C-) 5 Aralık 1936
-    - D-) 5 Aralık 1937
-    - E-) 5 Aralık 1938
+    - **Cevap A-) 5 Aralık 1934**
+    - B-) 5 Aralık 1935 
+    - C-) 5 Aralık 1936 
+    - D-) 5 Aralık 1937 
+    - E-) 5 Aralık 1938 
     <hr />
-1. <strong>Şapka Kanunu hangi tarihte &ccedil;ıkarılmıştır?&nbsp;</strong>
+1. <strong>Şapka Kanunu hangi tarihte &ccedil;ıkarılmıştır? </strong>
     - A-) 25 Kasım 1922
     - B-) 25 Kasım 1923
-    - C-) 25 Kasım 1924
-    - **Cevap D-) 25 Kasım 1925&nbsp;**
-    - E-) 25 Kasım 1926
+    - C-) 25 Kasım 1924 
+    - **Cevap D-) 25 Kasım 1925**
+    - E-) 25 Kasım 1926 
+    <hr />
+1. <strong>Şapka Kanunu ile &ouml;zdeşleşen ilimiz aşağıdakilerden hangisidir? </strong>
+    - A-) Bolu
+    - **Cevap B-) Kastamonu**
+    - C-) &Ccedil;orum 
+    - D-) &Ccedil;ankırı 
+    - E-) Niğde
     <hr />
 1. <strong>Mustafa Kemal Paşa&#39;ya &quot;Atat&uuml;rk&quot; soyadının verilmesini teklif eden milletvekili aşağıdakilerden hangisidir?</strong>
     - A-) Ş&uuml;kr&uuml; Sara&ccedil;oğlu
@@ -1019,7 +1069,7 @@ V. Miladi takvimin kabul edilmesi<br />
     - D-) 1935
     - E-) 1937
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Atat&uuml;rk D&ouml;nemi&rsquo;nde ekonomik alanda yapılan &ccedil;alışmaların ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Atat&uuml;rk D&ouml;nemi&rsquo;nde ekonomik alanda yapılan &ccedil;alışmaların ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) Ekonomide mill&icirc; ve millileştirme &ccedil;abalarını s&uuml;rd&uuml;rmek
     - **Cevap B-) IMF&rsquo;ye &uuml;ye olmak**
     - C-) B&uuml;y&uuml;k yatırımları devlet eliyle yapmak
@@ -1062,19 +1112,19 @@ V. Miladi takvimin kabul edilmesi<br />
     - D-) Gelir Vergisi
     - E-) Tediye Vergisi
     <hr />
-1. <strong>Aşağıdaki gelişmelerden hangisiyle birlikte T&uuml;rk denizlerinde (T&uuml;rk karasularında) ticaretin kontrol&uuml; T&uuml;rk t&uuml;ccarlarının eline ge&ccedil;miştir?&nbsp;</strong>
+1. <strong>Aşağıdaki gelişmelerden hangisiyle birlikte T&uuml;rk denizlerinde (T&uuml;rk karasularında) ticaretin kontrol&uuml; T&uuml;rk t&uuml;ccarlarının eline ge&ccedil;miştir? </strong>
     - A-) Teşvik-i Sanayi Kanunu
     - B-) Aşar Vergisi&#39;nin Kaldırılması
-    - C-) İzmir İktisat Kongresi
-    - D-) Takrir-i S&uuml;k&ucirc;n Kanunu
+    - C-) İzmir İktisat Kongresi 
+    - D-) Takrir-i S&uuml;k&ucirc;n Kanunu 
     - **Cevap E-) Kabotaj Kanunu**
     <hr />
-1. <strong>Osmanlı Devleti&nbsp; hangi savaş sırasında İngiltere ve Fransa&#39;dan para alarak ilk dış bor&ccedil;lanmayı ger&ccedil;ekleştirmiştir?</strong>
+1. <strong>Osmanlı Devleti hangi savaş sırasında İngiltere ve Fransa&#39;dan para alarak ilk dış bor&ccedil;lanmayı ger&ccedil;ekleştirmiştir?</strong>
     - A-) I. Balkan Savaşı
     - **Cevap B-) Kırım Savaşı**
     - C-) Edirne Savaşı
-    - D-) Sakarya Savaşı
-    - E-) Trablusgarp&nbsp;Savaşı
+    - D-) Sakarya Savaşı 
+    - E-) Trablusgarp Savaşı
     <hr />
 ## Unite 9
 1. <strong>Lozan Antlaşması gereğince &ouml;denmesi gereken Osmanlı bor&ccedil;ları konusunda Cumhuriyet D&ouml;nemi&#39;nde en fazla sıkıntı yaşanan &uuml;lke aşağıdakilerden hangisidir?</strong>
@@ -1134,7 +1184,7 @@ III.Yabancı devletlere ait ticaret gemilerinin her iki y&ouml;nde Boğazlar&#39
     - D-) B&ouml;lge &uuml;lkeleriyle ekonomik işbirliği &ccedil;abaları
     - E-) T&uuml;rkiye Cumhuriyeti&rsquo;nin b&ouml;lgesel liderlik politikaları
     <hr />
-1. <strong>İngiltere,&nbsp; Musul ve Kerk&uuml;k&rsquo;&uuml; elinden &ccedil;ıkarmamak i&ccedil;in aşağıdaki olaylardan hangilerini desteklemiştir?</strong>
+1. <strong>İngiltere, Musul ve Kerk&uuml;k&rsquo;&uuml; elinden &ccedil;ıkarmamak i&ccedil;in aşağıdaki olaylardan hangilerini desteklemiştir?</strong>
     - **Cevap A-) Şeyh Said Ayaklanması&rsquo;nı-Nasturi Ayaklanması&rsquo;nı**
     - B-) &Ccedil;erkez Ethem Ayaklanması&rsquo;nı-Şeyh Bedrettin Ayaklanması&rsquo;nı
     - C-) Menemen Olayı&rsquo;nı-Ermeni Ayaklanması&rsquo;nı
@@ -1181,10 +1231,10 @@ V. Hatay&rsquo;ın Anavatana katılması<br />
     - **Cevap D-) Musul**
     - E-) Yabancı okullar
     <hr />
-1. <strong>Yaklaşık bir yıl varlığını s&uuml;rd&uuml;ren Hatay Cumhuriyeti&#39;nin ilk ve tek cumhurbaşkanı aşağıdakilerden hangisidir?&nbsp;</strong>
-    - A-) İsmet İn&ouml;n&uuml;
-    - **Cevap B-) Tayfur S&ouml;kmen&nbsp;**
-    - C-) Fevzi &Ccedil;akmak
+1. <strong>Yaklaşık bir yıl varlığını s&uuml;rd&uuml;ren Hatay Cumhuriyeti&#39;nin ilk ve tek cumhurbaşkanı aşağıdakilerden hangisidir? </strong>
+    - A-) İsmet İn&ouml;n&uuml; 
+    - **Cevap B-) Tayfur S&ouml;kmen**
+    - C-) Fevzi &Ccedil;akmak 
     - D-) Rauf Orbay
     - E-) Ali Fuat Cebesoy
     <hr />
@@ -1210,7 +1260,7 @@ V. Hatay&rsquo;ın Anavatana katılması<br />
     - D-) Varşova Paktı
     - **Cevap E-) Birleşmiş Milletler**
     <hr />
-1. <strong>Aşağıdakilerden hangisi k&ouml;ylerde doğup b&uuml;y&uuml;m&uuml;ş &ccedil;ocukları&nbsp; ileride k&ouml;y okullarında hizmet verecek &ouml;ğretmenler olarak yetiştirmek &uuml;zere 17 Nisan 1940&#39;ta yapılandırılan eğitim kurumlarıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi k&ouml;ylerde doğup b&uuml;y&uuml;m&uuml;ş &ccedil;ocukları ileride k&ouml;y okullarında hizmet verecek &ouml;ğretmenler olarak yetiştirmek &uuml;zere 17 Nisan 1940&#39;ta yapılandırılan eğitim kurumlarıdır?</strong>
     - A-) Halk Mektepleri
     - **Cevap B-) K&ouml;y Enstit&uuml;leri**
     - C-) K&ouml;y Muallim Mektepleri
@@ -1290,7 +1340,7 @@ Buna g&ouml;re, aşağıdakilerden hangisi ekonomik sıkıntılara &ouml;nlem ni
     - D-) Cemal G&uuml;rsel
     - **Cevap E-) İsmet İn&ouml;n&uuml;**
     <hr />
-1. &ldquo;&Uuml;retimin denetimi, &ccedil;alışma şartlarını d&uuml;zenleme, ihtiya&ccedil; hasıl olunca bazı malların stoklanması, t&uuml;ketimi engelleyici tedbirler alma gibi &ccedil;ok &ouml;nemli yetkileri kapsayan kanun, 19 Şubat 1940&rsquo;tan itibaren de uygulamaya konulmuştur.&rdquo;&nbsp;<br />
+1. &ldquo;&Uuml;retimin denetimi, &ccedil;alışma şartlarını d&uuml;zenleme, ihtiya&ccedil; hasıl olunca bazı malların stoklanması, t&uuml;ketimi engelleyici tedbirler alma gibi &ccedil;ok &ouml;nemli yetkileri kapsayan kanun, 19 Şubat 1940&rsquo;tan itibaren de uygulamaya konulmuştur.&rdquo; <br />
 <strong>Bu kanun veya karar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Milli Korunma Kanunu**
     - B-) Milli İktisat Kanunu
@@ -1306,14 +1356,14 @@ Buna g&ouml;re, aşağıdakilerden hangisi ekonomik sıkıntılara &ouml;nlem ni
     - D-) Servet-i F&uuml;nun
     - E-) Belleten
     <hr />
-1. <strong>&ldquo;D&ouml;neminde&nbsp; T&uuml;rk Ocakları, T&uuml;rk Kadınlar Birliği, Mason Dernekleri lağvedildi. Halkevleri, halkodaları kurularak b&uuml;t&uuml;n &uuml;lkede &ouml;rg&uuml;tlenmesi sağlandı.&rdquo; ifadesinde yaptığı işlerden bahsedilen devlet adamı aşağıdakilerden hangisidir?</strong>
+1. <strong>&ldquo;D&ouml;neminde T&uuml;rk Ocakları, T&uuml;rk Kadınlar Birliği, Mason Dernekleri lağvedildi. Halkevleri, halkodaları kurularak b&uuml;t&uuml;n &uuml;lkede &ouml;rg&uuml;tlenmesi sağlandı.&rdquo; ifadesinde yaptığı işlerden bahsedilen devlet adamı aşağıdakilerden hangisidir?</strong>
     - A-) Reşit Galip
     - B-) Ziya G&ouml;kalp
     - C-) Ş&uuml;kr&uuml; Kaya
     - D-) Hasan Ali Y&uuml;cel
     - **Cevap E-) Recep Peker**
     <hr />
-1. <strong>Aşağıdakilerden hangisi 18 Ocak 1940 tarihinde kabul edilen Milli Koruma Kanunu&#39;nun kapsamı dışındadır?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi 18 Ocak 1940 tarihinde kabul edilen Milli Koruma Kanunu&#39;nun kapsamı dışındadır? </strong>
     - A-) &Uuml;retimin denetlenmesi
     - B-) &Ccedil;alışma şartlarının d&uuml;zenlenmesi
     - C-) İhtiya&ccedil; durumunda bazı malların stoklanması
@@ -1342,7 +1392,7 @@ Buna g&ouml;re, aşağıdakilerden hangisi ekonomik sıkıntılara &ouml;nlem ni
     - D-) İtalya&#39;da iktidara gelen faşistlerin saldırgan politikaları
     - **Cevap E-) Orta Doğu&#39;da İsrail Devleti&#39;nin kurulması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı&#39;nın sonu&ccedil;larından biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı&#39;nın sonu&ccedil;larından biri <u>değildir</u>? </strong>
     - A-) ABD yeni d&uuml;nya d&uuml;zeninin en b&uuml;y&uuml;k akt&ouml;r&uuml; oldu.
     - B-) Almanya, Doğu ve Batı Almanya olarak ikiye ayrıldı.
     - **Cevap C-) Almanya&#39;da Hitler ve Nazi Partisi iktidara geldi.**
@@ -1394,7 +1444,7 @@ V. Postdam Konferansı<br />
     - D-) I ve IV
     - **Cevap E-) II ve V**
     <hr />
-1. &ldquo;Kom&uuml;nist Enternasyonal; &Uuml;&ccedil;&uuml;nc&uuml; Enternasyonal olarak da bilinir. Vladimir Lenin ve Sovyetler Birliği Kom&uuml;nist Partisi tarafından kurulan, silahlı kuvvetler de d&acirc;hil t&uuml;m m&uuml;mk&uuml;n ara&ccedil;larla uluslararası burjuvaziyi yıkmak ve devletin tamamen yok oluşu i&ccedil;in bir ge&ccedil;iş aşaması demek olan uluslararası bir kom&uuml;nist &ouml;rg&uuml;tt&uuml;r.&rdquo;&nbsp;<br />
+1. &ldquo;Kom&uuml;nist Enternasyonal; &Uuml;&ccedil;&uuml;nc&uuml; Enternasyonal olarak da bilinir. Vladimir Lenin ve Sovyetler Birliği Kom&uuml;nist Partisi tarafından kurulan, silahlı kuvvetler de d&acirc;hil t&uuml;m m&uuml;mk&uuml;n ara&ccedil;larla uluslararası burjuvaziyi yıkmak ve devletin tamamen yok oluşu i&ccedil;in bir ge&ccedil;iş aşaması demek olan uluslararası bir kom&uuml;nist &ouml;rg&uuml;tt&uuml;r.&rdquo; <br />
 <strong>Yukarıda tanımı verilen kavram aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Komintern**
     - B-) Revizyonist
@@ -1444,14 +1494,14 @@ V. Postdam Konferansı<br />
     - **Cevap D-) Varşova Paktı**
     - E-) Moskova Paktı
     <hr />
-1. <strong>Aşağıdaki devletlerden hangisi II. D&uuml;nya Savaşı &ouml;ncesi İtalya&#39;nın saldırgan politikaları sonucu kurulan Akdeniz Paktına &uuml;ye <u>değildir</u>?&nbsp;</strong>
-    - A-) T&uuml;rkiye
-    - B-) Yunanistan
+1. <strong>Aşağıdaki devletlerden hangisi II. D&uuml;nya Savaşı &ouml;ncesi İtalya&#39;nın saldırgan politikaları sonucu kurulan Akdeniz Paktına &uuml;ye <u>değildir</u>? </strong>
+    - A-) T&uuml;rkiye 
+    - B-) Yunanistan 
     - C-) Yugoslavya
-    - D-) İngiltere
-    - **Cevap E-) Afganistan&nbsp;**
+    - D-) İngiltere 
+    - **Cevap E-) Afganistan**
     <hr />
-1. <strong>Aşağıdaki devletlerden hangisi&nbsp;Akdeniz Paktı&#39;nı <u>imzalamamıştır</u>?</strong>
+1. <strong>Aşağıdaki devletlerden hangisi Akdeniz Paktı&#39;nı <u>imzalamamıştır</u>?</strong>
     - A-) T&uuml;rkiye
     - B-) Yunanistan
     - **Cevap C-) İtalya**
@@ -1467,7 +1517,7 @@ V. Postdam Konferansı<br />
     - E-) Balkan Antantı
     <hr />
 1. II. D&uuml;nya Savaşı demokratik rejimlerin otoriter ve totaliter rejimlere karşı zaferle sonu&ccedil;lanınca d&uuml;nyada demokratik değerler y&uuml;kselmeye başladı. Buna bağlı olarak T&uuml;rkiye&#39;de tek partili siyasi rejim yumuşadı ve &ccedil;ok partili siyasi hayata ge&ccedil;iş s&uuml;reci hızlandı.<br />
-<strong>İfade edilen ilgili&nbsp;s&uuml;re&ccedil;te iktidardaki Cumhuriyet Halk Partisi&#39;ne karşı 5 Eyl&uuml;l 1945&#39;te kurulan ilk muhalefet partisi aşağıdakilerden hangisidir?&nbsp;</strong>
+<strong>İfade edilen ilgili s&uuml;re&ccedil;te iktidardaki Cumhuriyet Halk Partisi&#39;ne karşı 5 Eyl&uuml;l 1945&#39;te kurulan ilk muhalefet partisi aşağıdakilerden hangisidir? </strong>
     - A-) Adalet Partisi
     - **Cevap B-) Mill&icirc; Kalkınma Partisi**
     - C-) Liberal Parti
@@ -1476,10 +1526,10 @@ V. Postdam Konferansı<br />
     <hr />
 1. <strong>27 Mayıs Asker&icirc; M&uuml;dahalesi&rsquo;ni yapan grubun adı ve lideri aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - A-) Mill&icirc; Birlik Komitesi-Alparslan T&uuml;rkeş
-    - **Cevap B-) Mill&icirc;&nbsp;Birlik Komitesi-Cemal G&uuml;rsel**
-    - C-) Mill&icirc;&nbsp;Birlik Komitesi-Celal Bayar
+    - **Cevap B-) Mill&icirc; Birlik Komitesi-Cemal G&uuml;rsel**
+    - C-) Mill&icirc; Birlik Komitesi-Celal Bayar
     - D-) Tahkikat Komisyonu-Alparslan T&uuml;rkeş
-    - E-) Mill&icirc;&nbsp;G&uuml;venlik Konseyi -Kenan Evren
+    - E-) Mill&icirc; G&uuml;venlik Konseyi -Kenan Evren
     <hr />
 1. <strong>1946 se&ccedil;imlerinden sonra kurulan CHP H&uuml;k&ucirc;meti&#39;nin başbakanı aşağıdaki siyaset&ccedil;ilerden hangisidir?</strong>
     - **Cevap A-) Recep Peker**
@@ -1551,7 +1601,7 @@ V. Postdam Konferansı<br />
     - D-) İttihat ve Terakki Fırkası
     - E-) Adalet Partisi
     <hr />
-1. <strong>25 Haziran 1950 tarihinde başlayan Kore Savaşı&#39;na ABD&#39;den sonra asker g&ouml;nderen ilk &uuml;lke aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>25 Haziran 1950 tarihinde başlayan Kore Savaşı&#39;na ABD&#39;den sonra asker g&ouml;nderen ilk &uuml;lke aşağıdakilerden hangisidir? </strong>
     - A-) İngiltere
     - B-) Fransa
     - **Cevap C-) T&uuml;rkiye**
@@ -1559,11 +1609,11 @@ V. Postdam Konferansı<br />
     - E-) Rusya
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;ok partili hayata ge&ccedil;iş s&uuml;recinde Celal Bayar ve arkadaşlarını destekleyen Tan Gazetesi&#39;nin sahibi veya sahipleridir?</strong>
-    - A-) H&uuml;seyin Hilmi
-    - B-) Velid Eb&uuml;ziyya
-    - C-) Hakkı Tarık Us
-    - **Cevap D-) Zekeriya-Sabiha Sertel&nbsp;**
-    - E-) Refik Halit Karay
+    - A-) H&uuml;seyin Hilmi 
+    - B-) Velid Eb&uuml;ziyya 
+    - C-) Hakkı Tarık Us 
+    - **Cevap D-) Zekeriya-Sabiha Sertel**
+    - E-) Refik Halit Karay 
     <hr />
 1. <strong>Demokrat Parti&#39;nin ilk genel başkanlığına se&ccedil;ilen siyaset&ccedil;i aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Celal Bayar**
@@ -1579,7 +1629,7 @@ V. Postdam Konferansı<br />
     - **Cevap D-) Celal Bayar**
     - E-) Alparslan T&uuml;rkeş
     <hr />
-1. <strong>Aşağıdakilerden hangisi Demokrat Parti&rsquo;nin kurucularından&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Demokrat Parti&rsquo;nin kurucularından <u>değildir</u>?</strong>
     - A-) Celal Bayar
     - **Cevap B-) Recep Peker**
     - C-) Adnan Menderes
@@ -1594,7 +1644,7 @@ V. Postdam Konferansı<br />
     - D-) Cumhuriyet&ccedil;ilik
     - E-) Laiklik
     <hr />
-1. <strong>Aşağıda&nbsp; verilen ifadelerden hangisi doğru <u>değildir</u>?</strong>
+1. <strong>Y&ouml;netim ile ilgili olarak aşağıdaki ifadelerden hangisi <u>yanlıştır?</u></strong>
     - **Cevap A-) Monarşik y&ouml;netimler veraset şartını reddeder.**
     - B-) Her Cumhuriyet demokratik değildir.
     - C-) Cumhuriyet rejiminde mutlaka se&ccedil;im vardır.
@@ -1710,7 +1760,7 @@ V. Postdam Konferansı<br />
     - D-) Halk&ccedil;ılık
     - E-) Laiklik
     <hr />
-1. <strong>Atat&uuml;rk&#39;&uuml;n, &quot;D&uuml;nyada her şey i&ccedil;in, medeniyet i&ccedil;in, hayat i&ccedil;in, muvaffakiyet i&ccedil;in en hakiki m&uuml;rşit ilimdir, fendir. İlim ve fennin haricinde m&uuml;rşit aramak gaflettir, cehalettir, dalalettir.&quot; s&ouml;z&uuml;yle ifade ettiği d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml;n temelindeki b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Atat&uuml;rk&#39;&uuml;n, &quot;D&uuml;nyada her şey i&ccedil;in, medeniyet i&ccedil;in, hayat i&ccedil;in, muvaffakiyet i&ccedil;in en hakiki m&uuml;rşit ilimdir, fendir. İlim ve fennin haricinde m&uuml;rşit aramak gaflettir, cehalettir, dalalettir.&quot; s&ouml;z&uuml;yle ifade ettiği d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml;n temelindeki b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir? </strong>
     - A-) Mill&icirc; birlik ve beraberlik
     - **Cevap B-) Bilimsellik ve akılcılık**
     - C-) Tam bağımsızlık
@@ -1822,7 +1872,7 @@ V. Postdam Konferansı<br />
     - D-) &Ccedil;ağdaşlaşma
     - **Cevap E-) Bilimsellik ve akılcılık**
     <hr />
-1. <strong>T&uuml;rkiye Cumhuriyeti&rsquo;nin kurulmasından sonra da dış politika prensibi olarak kabul edilen ve her zaman barıştan yana olan&nbsp; b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir?</strong>
+1. <strong>T&uuml;rkiye Cumhuriyeti&rsquo;nin kurulmasından sonra da dış politika prensibi olarak kabul edilen ve her zaman barıştan yana olan b&uuml;t&uuml;nleyici ilke aşağıdakilerden hangisidir?</strong>
     - A-) &Ccedil;ağdaşlaşma ve Batılılaşma
     - **Cevap B-) Yurtta Sulh, Cihanda Sulh**
     - C-) Mill&icirc; Birlik, Beraberlik ve &Uuml;lke B&uuml;t&uuml;nl&uuml;ğ&uuml;

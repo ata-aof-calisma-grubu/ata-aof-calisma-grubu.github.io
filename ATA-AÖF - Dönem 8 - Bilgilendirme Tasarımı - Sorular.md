@@ -78,6 +78,14 @@
     - D-) Felsefi d&uuml;ş&uuml;nce yansıtıcı bir d&uuml;ş&uuml;nme faaliyetinin sonucudur.
     - **Cevap E-) Felsefi bilgi bir olgunun doğru olup olmadığının araştırılması etkinliğidir.**
     <hr />
+1. Bilgi toplumu farklı d&uuml;ş&uuml;n&uuml;r ve yazarlar tarafından farklı isimlerle adlandırılmıştır.<br />
+<strong>Aşağıdakilerden hangisi bu isimler arasında <u>yer almaz</u>?</strong>
+    - A-) Sanayi sonrası toplum
+    - **Cevap B-) Kapitalist toplum**
+    - C-) Enformasyon toplumu
+    - D-) &Uuml;&ccedil;&uuml;nc&uuml; dalga
+    - E-) Teknokratik &ccedil;ağ
+    <hr />
 ## Unite 2
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının hedeflerinden biri <u>değildir</u>?</strong>
     - A-) Anlaşılabilirlik
@@ -170,6 +178,13 @@
     - D-) Standart renkler kullanılmalıdır.
     - E-) Uluslararası olarak anlaşılır olmalıdır.
     <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiğidir?</strong>
+    - A-) S&uuml;reli Yayınlar
+    - B-) Dergi Reklamları
+    - C-) Gazete Reklamları
+    - **Cevap D-) Haritalar**
+    - E-) Logo Tasarımları
+    <hr />
 ## Unite 3
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Dok&uuml;man Tasarımı
@@ -213,7 +228,7 @@
     - D-) &Ccedil;ubuk grafikler
     - E-) Yığınlı s&uuml;tun grafikler
     <hr />
-1. <strong>Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en &ouml;nemli &ouml;rnek&nbsp;aşağıdakilerden hangisidir?</strong>
+1. <strong>Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en &ouml;nemli &ouml;rnek aşağıdakilerden hangisidir?</strong>
     - A-) Demografik &ouml;zellik tablosu
     - B-) Yayılım tablosu
     - **Cevap C-) Periyodik tablo**
@@ -240,6 +255,13 @@
     - C-) Ge&ccedil;ici sergiler
     - D-) S&uuml;rekli sergiler
     - **Cevap E-) Kılavuz Sergiler**
+    <hr />
+1. <strong>Bilgiye duyulan, giderek artan bağımlılık ve bilginin anlaşılır olmasına duyulan ihtiya&ccedil; ile hangi tasarım alanı ortaya &ccedil;ıkmıştır?</strong>
+    - A-) Harita Tasarımı
+    - **Cevap B-) Bilgilendirme Tasarımı**
+    - C-) İnfografik Tasarımı
+    - D-) Belge Tasarımı
+    - E-) Kılavuz Tasarımı
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ldquo;belge&rdquo; kavramını doğru olarak tanımlamaktadır?</strong>
     - A-) Akıl ile &uuml;retilen ve insan aklının algılayabileceği olgu, ger&ccedil;ek ve ilkeler b&uuml;t&uuml;n&uuml;d&uuml;r.
@@ -319,6 +341,13 @@
     - D-) Kullanılacak tasarım t&uuml;rlerinin belirlenmesi
     - E-) Verilerin hedeflere ulaşmaya yardımcı olacak şekilde d&uuml;zenlenmesi
     <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının eğitim ve &ouml;ğretim alanında kullanılmasının kazanımları arasında <u>yer almaz</u>?</strong>
+    - A-) Bilişsel y&uuml;k&uuml;n asgari d&uuml;zeye indirgenmesi
+    - B-) Dikkat ve odağın arttırılması
+    - **Cevap C-) Davranıştaki değişimin ge&ccedil;ici s&uuml;reli olması**
+    - D-) Bilinenler &ouml;ğrenilenler arasındaki ilişkinin somutlaşması
+    - E-) &Ouml;ğrenilenin hızlı ve anlaşılır bi&ccedil;imde kavranması
+    <hr />
 1. <strong>Aşağıdakilerden hangisi eğitim materyali olarak kullanılabilecek bilgilendirme tasarımlarının sahip olması gereken nitelikler arasında <u>yer almaz</u>?</strong>
     - A-) Dolaysız, net ve anlaşılır olmalıdır.
     - **Cevap B-) Yalnızca g&ouml;rsellerden oluşmalıdır.**
@@ -341,7 +370,7 @@
     - E-) Kalıcı &ouml;ğrenmenin sağlanmasına aracılık eder.
     <hr />
 ## Unite 5
-1. <strong>Veriye ilişkin aşağıdaki tanımlamalardan hangisi&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Veriye ilişkin aşağıdaki tanımlamalardan hangisi <u>yanlıştır</u>?</strong>
     - A-) Veri işlenmemiş ham bilgidir.
     - B-) Veri bilginin yapı taşıdır.
     - C-) Veri dış d&uuml;nyayı anlamlandırmanın bir aracıdır.
@@ -411,6 +440,13 @@
     - D-) Verileri sadece uzmanlara y&ouml;nlendirmek
     - E-) İstatistik bilimini eleştirel olarak g&ouml;rmemek
     <hr />
+1. <strong>Verinin bir anlam ifade edebilmesi i&ccedil;in aşağıdakilerden hangisi yapılmalıdır?</strong>
+    - **Cevap A-) Ayıklanması ve gruplandırılması**
+    - B-) Performans değerlendirmesi
+    - C-) Tahmin edilmesi
+    - D-) Optimize edilmesi
+    - E-) Veriye ilişkin karar alınması
+    <hr />
 1. <strong>&ldquo;Sayısal ger&ccedil;eklerin bir toplamı veya koleksiyonu&rdquo; olarak tanımlanan &ouml;ge aşağıdakilerden hangisidir?</strong>
     - A-) Veri
     - B-) Grafik
@@ -454,7 +490,7 @@
     - D-) Ethos, retorik&ccedil;inin inandırma g&uuml;c&uuml;d&uuml;r.
     - E-) Ethos, retorik&ccedil;inin estetize etme g&uuml;c&uuml;d&uuml;r.
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;Logos&#39;un tanımıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi Logos&#39;un tanımıdır?</strong>
     - A-) Ethos, retorik&ccedil;inin konuya hakimiyetidir.
     - B-) Ethos, retorik&ccedil;inin manevi paylaşım yaratmasıdır.
     - **Cevap C-) Ethos, retorik&ccedil;inin kanıtlama g&uuml;c&uuml;d&uuml;r.**
@@ -489,6 +525,13 @@
     - **Cevap D-) Mies van der Rohe**
     - E-) L&aacute;szl&oacute; Moholy-Nagy
     <hr />
+1. <strong>İzotiplerin geliştirilmesi hangi bilim dalı kapsamında ger&ccedil;ekleşmiştir?</strong>
+    - A-) Felsefe
+    - B-) Sosyoloji
+    - C-) G&ouml;stergebilim
+    - D-) Eğitim Bilimleri
+    - **Cevap E-) Birleşik Bilim**
+    <hr />
 1. <strong>Sanatsal &ccedil;alışmalarını, haritalar ve haritalandırma y&ouml;ntemi &uuml;zerine kuran akım aşağıdakilerden hangisidir?</strong>
     - A-) Dadaizm
     - B-) S&uuml;rrealizm
@@ -496,7 +539,7 @@
     - **Cevap D-) Sit&uuml;asyonizm**
     - E-) Cobra
     <hr />
-1. <strong>Aşağıdakilerden hangisi fikirlerin g&ouml;rselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fikirlerin g&ouml;rselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri <u>değildir</u>?</strong>
     - A-) Hazırlık ve analiz aşaması
     - B-) Konsept ve i&ccedil;erik haritalandırılması
     - C-) Hedef kitlenin gereksinim ve beklentilerinin araştırılması
@@ -551,7 +594,7 @@
     - **Cevap B-) Kullanıcıların %95&rsquo;i beş dakika i&ccedil;erisinde yeni bir uygulamayı başlatabilmeli**
     - C-) Ziyaret edilen sitelerin %50sinde bilgilendirme grafiği kullanılmalı
     - D-) Kullanıcıların %100&rsquo;&uuml;n&uuml;n bilgilendirme grafiğini rahat algılayabilmeli
-    - E-) Kullanıcıların&nbsp; %40&rsquo;ı sadece dijital ortamda uygulama kullanmaktadır
+    - E-) Kullanıcıların %40&rsquo;ı sadece dijital ortamda uygulama kullanmaktadır
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği kapsamında <u>yer almaz</u>?</strong>
     - A-) &Ccedil;evresel grafik tasarım
@@ -580,6 +623,13 @@
     - C-) Kolay ulaşım sağlamada
     - D-) Aray&uuml;zlere basit erişim sağlamakta
     - **Cevap E-) Verilerin basit bir anlatımla sunulmasında**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı kapsamında kullanılan y&ouml;nlendirme grafiklerinin ama&ccedil;larından biridir?</strong>
+    - **Cevap A-) Kişinin gideceği yeri basit bilgilendirme grafikleri ile rahatlıkla bulabilmek**
+    - B-) Basit etkileşimler sağlamak
+    - C-) Arama motorlarında &ouml;ne &ccedil;ıkmak
+    - D-) Konuya olan ilgi ve talebin artması
+    - E-) Farklı pazarlama stratejileri kullanmak
     <hr />
 1. <strong>Editoryal infografikler nerede kullanılmaktadır?</strong>
     - A-) Eğitimde
@@ -664,7 +714,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Estetik
     - E-) Yazı Karakteri
     <hr />
-1. <strong>&quot;Bir fikri ger&ccedil;ek ve kullanışlı kılmak i&ccedil;in tasarlanmış dosyadır.&quot;&nbsp;ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
+1. <strong>&quot;Bir fikri ger&ccedil;ek ve kullanışlı kılmak i&ccedil;in tasarlanmış dosyadır.&quot; ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
     - A-) Garamond
     - B-) Yazı Karakteri
     - C-) Times New Roman
@@ -722,13 +772,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
 1. <strong>İndeks, nasıl bir g&ouml;stergedir?</strong>
-    - **Cevap A-) İşaret ettiği şey ile nedensel ya da uzamsal bağı olan bir&nbsp;g&ouml;stergedir.**
+    - **Cevap A-) İşaret ettiği şey ile nedensel ya da uzamsal bağı olan bir g&ouml;stergedir.**
     - B-) Bir metnin temsil ettiği g&ouml;stergedir.
     - C-) Herhangi bir şeyi simgeleyen ve temsil eden bir g&ouml;stergedir.
     - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;z konusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımcının bir proje geliştirirken yapması gereken işlerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarımcının bir proje geliştirirken yapması gereken işlerden biri <u>değildir</u>?</strong>
     - A-) G&ouml;sterge &uuml;retmek
     - B-) Anlam &uuml;retmek
     - **Cevap C-) Yazılım &uuml;retmek**
@@ -780,7 +830,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının &ouml;ncelikli hedeflerinden <u>değildir</u>?</strong>
     - **Cevap A-) G&uuml;nl&uuml;k hayatımızdaki şehir i&ccedil;i ulaşımı ekonomik hale getirmek**
-    - B-) &nbsp;&nbsp;Anlaşılabilir, hızlı, doğru şekilde d&uuml;zeltilebilir
+    - B-)  Anlaşılabilir, hızlı, doğru şekilde d&uuml;zeltilebilir
     - C-) Kolay ve etkin eyleme d&ouml;n&uuml;şt&uuml;r&uuml;lebilecek belgeler geliştirmek
     - D-) Kullanılacak ara&ccedil;-gere&ccedil;lerle olabildiğince kolay, doğal ve tatmin edici etkileşimler sağlamak
     - E-) İnsanların kentsel alanlarda rahatlıkla y&ouml;n bulmalarını sağlamaktır
@@ -878,7 +928,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) İnsanın doğuştan getirdiği sezme ve bilme yeteneğinin
     - E-) Metafizik ger&ccedil;ekliğin
     <hr />
-1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı&#39;nın kurucularından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı&#39;nın kurucularından biri <u>değildir</u>?</strong>
     - **Cevap A-) Kurt Cobain**
     - B-) Wolfgang K&ouml;hler
     - C-) Max Wertheimer
@@ -892,7 +942,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) &Ouml;rg&uuml;tleme**
     - E-) Alanda y&uuml;kseklik
     <hr />
-1. <strong>Aşağıdakilerden hangisi hareket algısının oluşturan hareket &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hareket algısının oluşturan hareket &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
     - A-) Stroboskopik hareket
     - B-) Yapay hareket
     - C-) Ger&ccedil;ek hareket
@@ -1041,7 +1091,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Canlandırma
     - E-) Yakınlaştırılabilen
     <hr />
-1. <strong>Arttırılmış ger&ccedil;eklik nedir?</strong>
+1. <strong>Arttırılmış ger&ccedil;ekliğin tanımı aşağıdakilerden hangisidir?</strong>
     - A-) Bir kişiye ger&ccedil;eklik hissi veren sentetik veya sanal bir ortam yaratılmasıdır.
     - B-) Kullanıcıların, kurgusal bir ortamda karakterlerin rollerini &uuml;stlendiği ve ona g&ouml;re hareket ettiği anlatım tarzıdır.
     - **Cevap C-) Kullanıcının ger&ccedil;ek d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml;n bilgisayar grafikleri, metin, ses ve diğer y&ouml;ntemler gibi bir bilgisayar tarafından &uuml;retilen ek bilgilerle zenginleştirildiği veya arttırıldığı bir teknolojidir.**

@@ -70,7 +70,7 @@
     - D-) &Ccedil;ok y&ouml;nl&uuml; d&uuml;ş&uuml;nme
     - E-) &Ouml;zg&uuml;n sentezlere varma
     <hr />
-1. <strong>Aşağıdakilerinden hangisi yaratıcı bir kişiyi tanımlayan kişilik &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerinden hangisi yaratıcı bir kişiyi tanımlayan kişilik &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Hayal g&uuml;&ccedil;leri y&uuml;ksektir.
     - **Cevap B-) Risk almayı sevmezler.**
     - C-) Meraklıdırlar.
@@ -127,6 +127,13 @@
     - D-) &Ouml;d&uuml;l
     - E-) G&ouml;zetim
     <hr />
+1. <strong>Aşağıdakilerden hangisi sağ beyne &ouml;zg&uuml; &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Sayılar**
+    - B-) Boyut
+    - C-) Uzaysal farkındalık
+    - D-) Holistik bilin&ccedil;
+    - E-) Renk
+    <hr />
 1. <strong>Aşağıdakilerden hangisi analitik d&uuml;ş&uuml;nme bi&ccedil;imine &ouml;zg&uuml; &ouml;zelliklerden biridir?</strong>
     - A-) Bir&ccedil;ok farklı &ccedil;&ouml;z&uuml;m &ouml;nerisinin olduğu bir s&uuml;re&ccedil; yaşanmaktadır.
     - B-) Ayrışan d&uuml;ş&uuml;nce yapısı vardır.
@@ -160,6 +167,13 @@ IV. Yapay zek&acirc;<br />
     - D-) İş stratejilerinin bir par&ccedil;ası olarak değerlendirilmektedir.
     - **Cevap E-) Tek bir kişinin bilgisi ile sınırlandırılabilir.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi iş yaşamında yaratıcılığın &ouml;n plana &ccedil;ıkmasının nedenlerinden biri <u>değildir</u>?</strong>
+    - A-) Hızla değişen i&ccedil; ve dış &ccedil;evre fakt&ouml;rlerinin &ouml;rg&uuml;tlere baskı yapması
+    - B-) Y&ouml;netimlerin s&uuml;rekli değişen koşullara uyum g&ouml;sterme &ccedil;abası
+    - **Cevap C-) Bireysel yaratıcı g&uuml;c&uuml; kurum i&ccedil;erisinde geliştirme &ccedil;abası**
+    - D-) &Ccedil;evrenin sunduğu fırsatları rakiplerden &ouml;nce değerlendirme isteği
+    - E-) &Ccedil;evreden kaynaklanan kısıtları fırsata &ccedil;evirme isteği
+    <hr />
 1. <strong>Aşağıdakilerden hangisi kurumsal yaratıcılığı besleyen bileşenlerden biri <u>değildir</u>?</strong>
     - A-) İşletme i&ccedil;indeki bireylerin doğru y&ouml;nlendirilmesi
     - B-) &Ccedil;alışan motivasyonu
@@ -171,7 +185,7 @@ IV. Yapay zek&acirc;<br />
 II. Yaratıcı g&uuml;c&uuml; i&ccedil;selleştirme<br />
 III. İş s&uuml;re&ccedil;lerini geliştirme<br />
 IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri bir işletme y&ouml;neticisinin veya kurum liderinin sahip olması gereken &ouml;zellikler arasında&nbsp;<u>yer almaz</u>?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri bir işletme y&ouml;neticisinin veya kurum liderinin sahip olması gereken &ouml;zellikler arasında <u>yer almaz</u>?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) Yalnız III
@@ -271,6 +285,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - **Cevap C-) Sekt&ouml;rdeki yaratıcı insan kaynağının yetersizliği**
     - D-) Reklamın hedef kitlesinin cinsiyeti
     - E-) Reklam ajansının y&ouml;netim yapısının farklılıklara a&ccedil;ık olması
+    <hr />
+1. Temel Satış Vaadi Stratejisi&rsquo;nde &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;...... satın almaya değer olması reklamın başarısını g&ouml;steren bir yaratıcılık g&ouml;stergesidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) duygusal fayda
+    - B-) marka imajı
+    - **Cevap C-) &uuml;r&uuml;n&uuml;n kendine has &ouml;zelliği**
+    - D-) hedef kitlenin kim olduğu vurgusu
+    - E-) hedonik fayda
     <hr />
 1. &Uuml;r&uuml;n&uuml;n kendisinden kaynaklanan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..... bir &ccedil;arpıcılık reklamlardaki yaratıcılığı tanımlar.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -382,7 +404,7 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Hopkins
     - E-) Leo Burnett
     <hr />
-1. <strong>&Uuml;nl&uuml; reklam yazarı Luke Sullivan tarafından&nbsp;etkili bir reklam yapmak i&ccedil;in oluşturulan&nbsp;kontrol listesinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+1. <strong>&Uuml;nl&uuml; reklam yazarı Luke Sullivan tarafından etkili bir reklam yapmak i&ccedil;in oluşturulan kontrol listesinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - **Cevap A-) &Ouml;ze değil, modaya odaklanın.**
     - B-) Rakibin &uuml;r&uuml;n&uuml;n&uuml; deneyin.
     - C-) Faydayı vurgulayın.
@@ -403,6 +425,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - C-) Aynı problem i&ccedil;in farklı takımlar oluşturularak ger&ccedil;ekleştirilir.
     - **Cevap D-) &Ccedil;ok sayıda fikir &uuml;retilmesine sorular sorularak rehberlik edilir.**
     - E-) Potansiyel kombinasyonları sağlamak hedeflenir.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi başarılı olan yaratıcı fikirlerin ortak &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Basitlik
+    - **Cevap B-) Esneklik**
+    - C-) Beklenmediklik
+    - D-) Somutluk
+    - E-) G&uuml;venilirlik
     <hr />
 1. <strong>Aşağıdaki &ouml;zelliklerden hangisi kulu&ccedil;ka aşamasına ait <u>değildir</u>?</strong>
     - A-) G&ouml;n&uuml;ll&uuml; bir s&uuml;re&ccedil;tir.
@@ -546,7 +575,14 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Jenerik Strateji
     - E-) Marka İmajı Stratejisi
     <hr />
-1. <strong>Aşağıdakilerden hangisi yaratıcılığı y&uuml;ksek reklam i&ccedil;eriklerinin &uuml;retilmesinde etkili olan unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Rosser Reeves&#39;in reklamcılık alanına kazandırdığı temel yaratıcı strateji aşağıdakilerden hangisidir?</strong>
+    - A-) Marka İmajı Stratejisi
+    - B-) Jenerik Strateji
+    - C-) Yankılama Yaklaşımı
+    - **Cevap D-) Temel Satış Vaadi Stratejisi**
+    - E-) Konumlandırma Stratejisi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yaratıcılığı y&uuml;ksek reklam i&ccedil;eriklerinin &uuml;retilmesinde etkili olan unsurlardan biri <u>değildir</u>?</strong>
     - A-) Hedef kitle
     - B-) Ton
     - **Cevap C-) Reklam etkinliğinin değerlendirilmesi**
@@ -696,6 +732,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) S&uuml;heyl G&uuml;rbaşkan ve Eli Acıman
     - **Cevap E-) Ege Ernart ve Ferit Edg&uuml;**
     <hr />
+1. <strong>Yurt dışından gelerek Anavatan Partisi se&ccedil;im kampanyasını y&uuml;r&uuml;ten &uuml;nl&uuml; reklamcı aşağıdakilerden hangisidir?</strong>
+    - A-) Rosser Reeves
+    - B-) David Ogilvy
+    - C-) Oliviero Toscani
+    - D-) John Hegarty
+    - **Cevap E-) Jacques S&eacute;gu&eacute;la**
+    <hr />
 1. <strong>Aşağıdaki reklamcı ve marka eşleşmelerinden hangisi doğru olarak verilmiştir?</strong>
     - A-) David Ogilvy - Levi&rsquo;s
     - **Cevap B-) Claude C. Hopkins - Pepsodent**
@@ -773,21 +816,21 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Uygulama Vurgusu
     - **Cevap E-) Star Stratejisi**
     <hr />
-1. <strong>Aşağıdakiler ifadelerden hangisi&nbsp;Hopkins&rsquo;in geliştirdiği Bilimsel Reklamcılık Yaklaşımı&#39;na ait&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakiler ifadelerden hangisi Hopkins&rsquo;in geliştirdiği Bilimsel Reklamcılık Yaklaşımı&#39;na ait <u>değildir</u>?</strong>
     - A-) &ldquo;Bilimsel reklamcılık&rdquo; anlayışına y&ouml;n veren en temel nokta ise satıştır.
     - B-) Bir reklam, hedef kitlenin yani alıcının &ccedil;ıkarını d&uuml;ş&uuml;nmeli, bireye vaadini net olarak sunmalıdır.
     - **Cevap C-) Reklamda mizah &ouml;nemlidir.**
     - D-) Reklam, genel bir etki i&ccedil;in, adınızı g&uuml;ndemde tutmak i&ccedil;in değildir.
     - E-) Neden ve sonuca dayalı rasyonel temellere dayanan reklamcılık anlayışı h&acirc;kimdir.
     <hr />
-1. <strong>52 &uuml;lkede satılan ve 17 dilde reklamları yayınlanan, d&uuml;nyada en iyi bilinen markalardan biri h&acirc;line gelen Pepsodent reklamları&nbsp;aşağıdaki reklamcılardan hangisine aittir?</strong>
+1. <strong>52 &uuml;lkede satılan ve 17 dilde reklamları yayınlanan, d&uuml;nyada en iyi bilinen markalardan biri h&acirc;line gelen Pepsodent reklamları aşağıdaki reklamcılardan hangisine aittir?</strong>
     - A-) William (Bill) Bernbach
     - B-) Leo Burnett
     - C-) John Hegarty
     - D-) David Ogilvy
     - **Cevap E-) Claude C. Hopkins**
     <hr />
-1. <strong>Advertising Age Dergisi&rsquo;nin &ldquo;En İyi 100 Reklam Kampanyası&rdquo; listesinde 39. sırada yer alan &ldquo;M&amp;M&rsquo;s Şekerlemeleri&rdquo; ile 19. sırada yer alan &ldquo;Anacin Ağrı Kesicileri&rdquo; kampanyaları&nbsp;aşağıdaki reklamcılardan hangisine aittir?</strong>
+1. <strong>Advertising Age Dergisi&rsquo;nin &ldquo;En İyi 100 Reklam Kampanyası&rdquo; listesinde 39. sırada yer alan &ldquo;M&amp;M&rsquo;s Şekerlemeleri&rdquo; ile 19. sırada yer alan &ldquo;Anacin Ağrı Kesicileri&rdquo; kampanyaları aşağıdaki reklamcılardan hangisine aittir?</strong>
     - **Cevap A-) Rosser Reeves**
     - B-) David Ogilvy
     - C-) Leo Burnett
@@ -935,6 +978,13 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) Korku &ccedil;ekiciliği
     - E-) Yaratıcı &ccedil;ekicilik
     <hr />
+1. <strong>Bir şeker markasının din&icirc; bayramlarda yaşlı insanların sevdiklerinin yolunu beklediğini anlattığı reklam aşağıdaki reklam &ccedil;ekicilik t&uuml;rlerinden hangisine &ouml;rnek verilebilir?</strong>
+    - A-) Rasyonel &ccedil;ekicilik
+    - **Cevap B-) Duygusal &ccedil;ekicilik**
+    - C-) Mizah &ccedil;ekiciliği
+    - D-) Korku &ccedil;ekiciliği
+    - E-) Yaratıcı &ccedil;ekicilik
+    <hr />
 1. <strong>Bir diş macunu reklamında eğer d&uuml;zenli diş fır&ccedil;alanmazsa diş kaybı olabileceği aktarılmaktadır. Bu reklamda t&uuml;keticileri etkilemek i&ccedil;in aşağıdaki reklam &ccedil;ekicilik t&uuml;rlerinden hangisi kullanılmaktadır?</strong>
     - A-) Rasyonel &ccedil;ekicilik
     - B-) Duygusal &ccedil;ekicilik
@@ -1013,7 +1063,7 @@ IV. İşlerin koordinasyonunda zaman sınırını daraltma<br />
     - D-) &Uuml;r&uuml;n yerleştirme
     - E-) A&ccedil;ık hava g&ouml;r&uuml;n&uuml;rl&uuml;ğ&uuml;
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir reklamın yaratıcı olup olmadığını anlama noktasında yol g&ouml;steren niteliklerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bir reklamın yaratıcı olup olmadığını anlama noktasında yol g&ouml;steren niteliklerden biri <u>değildir</u>?</strong>
     - A-) Reklamın dikkat &ccedil;ekici olması
     - B-) Reklamın orijinal olması
     - **Cevap C-) Reklamın sıradan olması**
@@ -1342,7 +1392,7 @@ III. İkna testleri, sorgu testleri<br />
     - **Cevap E-) mesleki &ouml;rg&uuml;tler**
     <hr />
 1. I. Reklam &Ouml;zdenetim Kurulu<br />
-II.&nbsp; Reklam Uygulama Esasları<br />
+II. Reklam Uygulama Esasları<br />
 III. Reklamcılar Derneği<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri reklam faaliyetlerinin işleyişini d&uuml;zenleyen Reklam Mevzuatı &ouml;gelerindendir?</strong>
     - A-) Yalnız I
@@ -1515,9 +1565,9 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - E-) P&uuml;f noktaları
     <hr />
 1. <strong>Aşağıdakilerden hangisi t&uuml;rdeş alanlı portfolyoların &ouml;zelliğidir?</strong>
-    - A-) İş portfolyosudur.
-    - B-) İll&uuml;strasyon portfolyosudur.
-    - C-) Grafik tasarım portfolyosudur.
+    - A-) İş portfolyosudur. 
+    - B-) İll&uuml;strasyon portfolyosudur. 
+    - C-) Grafik tasarım portfolyosudur. 
     - D-) Ajans portfolyosudur.
     - **Cevap E-) Birden fazla yaratıcı alan portfolyosudur.**
     <hr />
@@ -1528,7 +1578,7 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - D-) N&uuml;fus fotokopisi
     - E-) Başvuru belgesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi m&uuml;lakat y&ouml;nteminin kullanımında yer alan unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi m&uuml;lakat y&ouml;nteminin kullanımında yer alan unsurlardan biri <u>değildir</u>?</strong>
     - A-) Planlanmış ilişki
     - B-) Y&uuml;z y&uuml;ze ilişki
     - C-) Nesnel ve &ouml;znel bilgi
@@ -1544,8 +1594,8 @@ IV. Reklamların tasarımı ve ill&uuml;strasyonlarından sorumludurlar.<br />
     - E-) Dolaylı g&ouml;r&uuml;şmeler
     <hr />
 1. I. &Ouml;ğrenci portfolyosu<br />
-II. Grafik tasarım&nbsp;portfolyosu<br />
-III. Reklam&nbsp;portfolyosu<br />
+II. Grafik tasarım portfolyosu<br />
+III. Reklam portfolyosu<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri portfolyo t&uuml;rlerindendir?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
@@ -1659,7 +1709,7 @@ III. Reklam&nbsp;portfolyosu<br />
     - D-) İ&ccedil;inde duygusal &ouml;geler taşıyan reklamlar
     - E-) D&uuml;r&uuml;stl&uuml;k ilkesiyle hazırlanan reklamlar
     <hr />
-1. <strong>Oluşturulan reklam &uuml;r&uuml;nlerinin toplumun genel ahlak kurallarına, kişilik haklarına, haksız rekabetin &ouml;nlenmesine ve t&uuml;ketici haklarının korunması ilkelerine uygun olacak şekilde &uuml;retilmesine y&ouml;nelik, reklam sekt&ouml;r&uuml;n&uuml;n akt&ouml;rleri ile genel toplum bazında yapılan değerlendirmeler ve sorgulamalar&nbsp;aşağıdakilerden hangisidir?</strong>
+1. <strong>Oluşturulan reklam &uuml;r&uuml;nlerinin toplumun genel ahlak kurallarına, kişilik haklarına, haksız rekabetin &ouml;nlenmesine ve t&uuml;ketici haklarının korunması ilkelerine uygun olacak şekilde &uuml;retilmesine y&ouml;nelik, reklam sekt&ouml;r&uuml;n&uuml;n akt&ouml;rleri ile genel toplum bazında yapılan değerlendirmeler ve sorgulamalar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Reklam etiği**
     - B-) Pazarlama sunumu
     - C-) &Uuml;retim faaliyetleri
@@ -1713,7 +1763,7 @@ III. Reklam&nbsp;portfolyosu<br />
     - **Cevap A-) Coca Cola - Mutluluk Fabrikası**
     - B-) Always - Like A Girl
     - C-) Turkcell - Hayat Paylaşınca G&uuml;zel
-    - D-) Vodafone -&nbsp; Kırmızı Işık
+    - D-) Vodafone - Kırmızı Işık
     - E-) Snickers - You&rsquo;re Not You When You&rsquo;re Hungry
     <hr />
 1. <strong>Aşağıdakilerden hangisi Coca Cola&rsquo;nın Happiness reklam kampanyasının &ouml;zelliklerinden biridir?</strong>
@@ -1748,7 +1798,7 @@ III. Reklam&nbsp;portfolyosu<br />
     - **Cevap A-) Coca Cola - Happiness**
     - B-) Snickers - You&rsquo;re Not You When You&rsquo;re Hungry
     - C-) Turkcell - Hayat Paylaşınca G&uuml;zel
-    - D-) Vodafone -&nbsp; Kırmızı Işık
+    - D-) Vodafone - Kırmızı Işık
     - E-) Always - Like A Girl
     <hr />
 1. <strong>Aşağıdakilerden hangisi Snickers - You&rsquo;re Not You When You&rsquo;re Hungry reklam kampanyası yayınının Super Bowl esnasında ger&ccedil;ekleştirilmesinin nedenlerinden biri <u>değildir</u>?</strong>
@@ -1783,7 +1833,7 @@ III. Reklam&nbsp;portfolyosu<br />
 1. I. T&uuml;m pazarlara -&ouml;zelliklede k&uuml;&ccedil;&uuml;k pazarlara ilham verecek b&uuml;y&uuml;k yaratıcı bir fikir oluşturmak<br />
 II. Markanın t&uuml;m d&uuml;nyadaki pazarlama ekiplerinin oluşturulan tek fikir etrafında birleşmesini ve bağlılığını sağlamak<br />
 III. Bunu k&uuml;resel bir &ouml;l&ccedil;ekte ger&ccedil;ekleştirmek<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;ABD menşeli, atıştırmalık şekerleme &uuml;r&uuml;n kategorisinde yer alan bir &ccedil;ikolata markası olan Snickers&#39;ın pazarlama ve iletişim etkinliğini artırmak i&ccedil;in &ouml;ncelikle belirlediği ama&ccedil;lardandır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri ABD menşeli, atıştırmalık şekerleme &uuml;r&uuml;n kategorisinde yer alan bir &ccedil;ikolata markası olan Snickers&#39;ın pazarlama ve iletişim etkinliğini artırmak i&ccedil;in &ouml;ncelikle belirlediği ama&ccedil;lardandır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III

@@ -4,7 +4,7 @@
     - A-) Bir metnin a&ccedil;ıklanarak g&ouml;rsel olarak betimlenmesi
     - B-) S&uuml;sleme amacıyla kullanılması
     - C-) Kavramların g&ouml;rselleştirilmesi
-    - **Cevap D-) Kurumsal bir kimlik taşıması&nbsp;**
+    - **Cevap D-) Kurumsal bir kimlik taşıması**
     - E-) G&ouml;rsel &ouml;yk&uuml;leme oluşturması
     <hr />
 1. &Ccedil;ocuk konuşmaya başlamadan &ouml;nce bakıp tanımayı &ouml;ğrenir.<br />
@@ -40,7 +40,7 @@
     - A-) Petrogliflerin kazıma y&ouml;ntemi ile yapılmış olması
     - B-) Doğal boyalar kullanılmış olması
     - C-) İlk &ouml;rneklerin &ccedil;izgi ve nokta gibi geometrik formlar i&ccedil;ermeleri
-    - D-) Avcı-toplayıcı insanlar tarafından yapılmaları
+    - D-) Avcı-toplayıcı insanlar tarafından yapılmaları 
     - **Cevap E-) Hepsi**
     <hr />
 1. <strong>Mağara resimleri ni&ccedil;in yapılmış olabilir?</strong>
@@ -51,7 +51,7 @@
     - **Cevap E-) Bilgilendirme i&ccedil;in**
     <hr />
 1. <strong>Bilinen en eski mağara resimleri hangi mağaradadır?</strong>
-    - A-) Eller Mağarası / Arjantin
+    - A-) Eller Mağarası / Arjantin 
     - **Cevap B-) Blombos Mağarası / G&uuml;ney Afrika**
     - C-) Altamira Mağarası / İspanya
     - D-) Bhimbetka Mağarası / Hindistan
@@ -66,7 +66,7 @@
     <hr />
 1. <strong>1940&rsquo;ta Fransa&rsquo;da keşfedilip 1979&rsquo;da UNESCO tarafından D&uuml;nya Mirası Listesine alınan mağara hangisidir?</strong>
     - A-) Serra de Capivara Mağarası
-    - B-) Altamira Mağarası
+    - B-) Altamira Mağarası 
     - **Cevap C-) Lascaux Mağarası**
     - D-) Chauvet Mağarası
     - E-) Laas Gaal Mağarası
@@ -171,7 +171,7 @@
     - D-) Sun
     - E-) Tan
     <hr />
-1. <strong>&Ccedil;in&rsquo;de propaganda posterlerin kullanılmasına sebep olan&nbsp;</strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
+1. <strong>&Ccedil;in&rsquo;de propaganda posterlerin kullanılmasına sebep olan </strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
     - A-) &Ccedil;in Halk Medeniyeti
     - B-) &Ccedil;in Hanedan sistemi
     - C-) &Ccedil;in Ticaret Sistemi
@@ -214,7 +214,7 @@
     - **Cevap B-) Edo D&ouml;nemi (Tokugawa d&ouml;nemi)**
     - C-) Meiji D&ouml;nemi
     - D-) Nara D&ouml;nemi
-    - E-) Kamakura D&ouml;nemi
+    - E-) Kamakura D&ouml;nemi 
     <hr />
 1. &ldquo;Japonya, tarihinin en &ouml;nemli d&ouml;nemlerinden biri olan Meiji D&ouml;nemi ile kapılarını dış d&uuml;nyaya a&ccedil;arak uluslararası ticarete başlamış ve modernleşme s&uuml;recini hızlandırılmıştır.&rdquo;<strong><br />
 Aşağıdakilerden hangisi bu d&ouml;nemde yapılan reformlardan biri <u>değildir</u>?</strong>
@@ -308,21 +308,21 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - E-) 11. y&uuml;zyılın sonu
     <hr />
 1. <strong>İslam sanatında M&uuml;sl&uuml;man sanat&ccedil;ıyı aşağıdakilerden hangisi <u>tanımlamaz</u>?</strong>
-    - A-) Yaratıcı değil, g&uuml;zellikleri keşfedendir.
-    - B-) D&uuml;nyadaki yanılsamaları değil, &ouml;z&uuml; bulmaya &ccedil;alışır.
-    - **Cevap C-) Perspektif, ışık-g&ouml;lge ve &uuml;&ccedil; boyutluluğu &ouml;nemser.&nbsp;**
-    - D-) Sanatını bir ibadet gibi g&ouml;r&uuml;r.
+    - A-) Yaratıcı değil, g&uuml;zellikleri keşfedendir. 
+    - B-) D&uuml;nyadaki yanılsamaları değil, &ouml;z&uuml; bulmaya &ccedil;alışır. 
+    - **Cevap C-) Perspektif, ışık-g&ouml;lge ve &uuml;&ccedil; boyutluluğu &ouml;nemser.**
+    - D-) Sanatını bir ibadet gibi g&ouml;r&uuml;r. 
     - E-) Eserinde Allah&rsquo;ı hissettirir.
     <hr />
 1. <strong>İslam sanatında minyat&uuml;r ne zaman &uuml;&ccedil; boyutluluktan uzaklaşarak iki boyutlu, soyut bir anlatıma d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
-    - A-) 10. y&uuml;zyılda
-    - **Cevap B-) 13. y&uuml;zyılın sonu&nbsp;**
+    - A-) 10. y&uuml;zyılda 
+    - **Cevap B-) 13. y&uuml;zyılın sonu**
     - C-) 15. y&uuml;zyılın başı
     - D-) 16. y&uuml;zyılın ortası
-    - E-) 17. y&uuml;zyılda
+    - E-) 17. y&uuml;zyılda 
     <hr />
 1. <strong>Aşağıdakilerden hangisi minyat&uuml;r sanatında sıklıkla işlenen konulardan biri <u>değildir</u>?</strong>
-    - **Cevap A-) Kanuni Sultan S&uuml;leyman&#39;ın Muhibbi Divanı&#39;ı&nbsp;**
+    - **Cevap A-) Kanuni Sultan S&uuml;leyman&#39;ın Muhibbi Divanı&#39;ı**
     - B-) Firdevsi&rsquo;nin Şehname&rsquo;si
     - C-) Hariri&rsquo;nin Makamat&rsquo;ı
     - D-) Nizami&rsquo;nin Hamse&rsquo;si
@@ -331,8 +331,8 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. <strong>18. y&uuml;zyılda Osmanlı minyat&uuml;r sanatında &ouml;ne &ccedil;ıkan nakkaş kimdir?</strong>
     - A-) Nakkaş Osman
     - B-) Kemalettin Bihzad
-    - C-) Nigari
-    - D-) Matrak&ccedil;ı Nasuh
+    - C-) Nigari 
+    - D-) Matrak&ccedil;ı Nasuh 
     - **Cevap E-) Levni**
     <hr />
 1. <strong>Mushaflarda tezhip yapılan, Fatiha suresi ve Bakara suresinin ilk beş ayetinin yer aldığı ilk iki sayfaya ne ad verilir?</strong>
@@ -388,7 +388,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. &ldquo;İnsan, tarih boyunca hayatta kalabilmek, yaşadıklarını aktarabilmek ve diğer kişi ve kişilerle etkileşim kurabilmek i&ccedil;in &ccedil;eşitli iletişim yolları denemiştir. M.&Ouml;. 17,000- 15, 000 tarihlerine dayanan &hellip;&hellip;&hellip;&hellip; resimlemeler bunun en iyi kanıtıdır&rdquo;.<br />
 <strong>Boş bırakılan yerlere aşağıdakilerden hangileri gelmelidir?</strong>
     - A-) Central Park&rsquo;ındaki
-    - **Cevap B-) Lascaux Mağarası&rsquo;ndaki&nbsp;**
+    - **Cevap B-) Lascaux Mağarası&rsquo;ndaki**
     - C-) İngiliz Bah&ccedil;esi&rsquo;ndeki
     - D-) G&uuml;lhane Parkı&rsquo;ndaki
     - E-) Uneo Pakı&rsquo;ndaki
@@ -593,7 +593,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. <strong>Bilimsel ill&uuml;strasyon ilkeleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) G&ouml;zleme dayalı olması
     - B-) A&ccedil;ık se&ccedil;ik bir belirginlik taşıması
-    - C-) Sanatsal değerinin olması
+    - C-) Sanatsal değerinin olması 
     - **Cevap D-) &Ouml;zg&uuml;n sanatsal yorum taşıması**
     - E-) Bilimsel bilgi ve bulgularla uyumlu olması
     <hr />
@@ -604,10 +604,10 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
     - D-) Micrographia
     - E-) Cerrahiyet&uuml;l Haniyye
     <hr />
-1. I.&nbsp;Cerrahi &uuml;zerine ilk resimli kitap olması<br />
-II.&nbsp;Şerafeddin Sabuncuoğlu tarafından yazılması<br />
+1. I. Cerrahi &uuml;zerine ilk resimli kitap olması<br />
+II. Şerafeddin Sabuncuoğlu tarafından yazılması<br />
 III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&uuml;rler ve hastalıkları betimlemesi<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Cerrahiyet&uuml;l Haniyye kitabı hakkındadır?&nbsp;</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri Cerrahiyet&uuml;l Haniyye kitabı hakkındadır? </strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
@@ -631,7 +631,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
 1. <strong>Aşağıdakilerden hangisi biyolojik temelli bilimler altında <u>listelenmez</u>?</strong>
     - A-) Botanik ill&uuml;strasyon
     - B-) Entomolojik İll&uuml;strasyon
-    - **Cevap C-) Arkeolojik İll&uuml;strasyon&nbsp;**
+    - **Cevap C-) Arkeolojik İll&uuml;strasyon**
     - D-) Zoolojik İll&uuml;strasyon
     - E-) Tıbbi İll&uuml;strasyon
     <hr />
@@ -657,13 +657,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) &Ccedil;izim malzemeleri
     <hr />
 1. <strong>Bir diyagramı başka ill&uuml;strasyonlardan ayıran nedir?</strong>
-    - A-) Etkileşimli dijital g&ouml;rselleştirmeler olması
+    - A-) Etkileşimli dijital g&ouml;rselleştirmeler olması 
     - **Cevap B-) Diyagramın bilgiyi iletmede en &ouml;nemli ara&ccedil; olması**
     - C-) Sadece siyah beyaz teknik &ccedil;izim kullanılması
     - D-) Herkes tarafından yapılabilmesi
     - E-) S&uuml;sleme işlevinin olması
     <hr />
-1. <strong>Bilimsel infografiklerde kullanılan ill&uuml;strasyonlu diyagramlar arasında aşağıdakilerden hangisi&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Bilimsel infografiklerde kullanılan ill&uuml;strasyonlu diyagramlar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Yaşam d&ouml;ng&uuml;s&uuml; ve ilerleme diyagramları
     - B-) İll&uuml;stratif habitat diyagramları
     - C-) İll&uuml;stratif haritalar
@@ -697,12 +697,12 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - B-) 15-16. yy
     - C-) 16-17. yy
     - D-) 17-18. yy
-    - **Cevap E-) 18-19. yy&nbsp;**
+    - **Cevap E-) 18-19. yy**
     <hr />
 1. <strong>İngiltere&rsquo;deki Romantizmin temsilcileri hangisinde doğru verilmiştir?</strong>
     - A-) Fuseli, Goya, Constable
     - B-) Friedrich, Blake, Olivier
-    - C-) Fuseli, Blake, Cole
+    - C-) Fuseli, Blake, Cole 
     - **Cevap D-) Fuseli, Blake, Constable**
     - E-) Turner, Blake, Catlin
     <hr />
@@ -714,7 +714,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Turner
     <hr />
 1. <strong>Romantik eserlerde insanın hangi &ouml;zelliği <u>yansıtılmamaktadır</u>?</strong>
-    - A-) Bireysellik
+    - A-) Bireysellik 
     - **Cevap B-) Aşk**
     - C-) &Ouml;znellik
     - D-) Ruhanilik
@@ -762,6 +762,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Gotik &Ccedil;ağ
     - E-) R&ouml;nesans &Ccedil;ağı
     <hr />
+1. <strong>Romantizmin vurguladığı &ouml;zelliklerden hangisi <u>yanlıştır</u>?</strong>
+    - **Cevap A-) Mantık**
+    - B-) Duygu
+    - C-) İ&ccedil;g&uuml;d&uuml; 
+    - D-) Bireysel tecr&uuml;be
+    - E-) Hayal g&uuml;c&uuml;
+    <hr />
 1. <strong>Doğayı k&ouml;r&uuml; k&ouml;r&uuml;ne taklit etmek yerine, onun verdiği ilhamı uyandırmak ve izleyicinin hayal g&uuml;c&uuml;ne izin vermek d&uuml;ş&uuml;ncesindeki sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Catlin
     - **Cevap B-) Cole**
@@ -782,7 +789,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - **Cevap B-) Jules Ch&eacute;ret ve Henri de Toulouse-Lautrec**
     - C-) Egon Schiele ve Pablo Picasso
     - D-) Alfons Mucha ve Paul Cezanne
-    - E-) Edvard Munch ve&nbsp;Wassily Kandinsky
+    - E-) Edvard Munch ve Wassily Kandinsky
     <hr />
 1. <strong>Aşağıdaki &uuml;lkelerden hangisinde ilk mağara ill&uuml;strasyonları keşfedildiği bilinmektedir?</strong>
     - A-) İsve&ccedil;
@@ -848,6 +855,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Birbiri ile ilişkisiz renkler
     - E-) Rastgele se&ccedil;ilmiş renkler
     <hr />
+1. <strong>&quot;Piet&agrave;&quot; hangi ekspresyonist sanat&ccedil;ının &uuml;rettiği afiş &ccedil;alışmasıdır?</strong>
+    - A-) Henri Toulouse Lautrec
+    - B-) Jules Cheret
+    - C-) Gustav Klimt
+    - D-) Egon Schiele
+    - **Cevap E-) Oskar Kokoschka**
+    <hr />
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi edit&ouml;ryal/yayın ill&uuml;strasyonları arasında <u>bulunmamaktadır</u>?</strong>
     - A-) Gazete
@@ -857,16 +871,16 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Ansiklopedi
     <hr />
 1. <strong>Aşağıdakilerden hangisi gazete ve dergilerdeki g&ouml;rsel ill&uuml;strasyonların &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) G&ouml;rsel iletişim
-    - B-) Bilgi aktarma
-    - C-) Okuyucuların dikkatini &ccedil;ekme
+    - A-) G&ouml;rsel iletişim 
+    - B-) Bilgi aktarma 
+    - C-) Okuyucuların dikkatini &ccedil;ekme 
     - D-) Mesajları etkin bir şekilde iletme
     - **Cevap E-) Okuyucuları sanata y&ouml;nlendirme**
     <hr />
 1. <strong>Yayın ill&uuml;strasyonları ile ilgili olarak aşağıdaki ifadelerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Beraberindeki metni tanıtan ve konu hakkında bilgi verme amacı ile tasarlanan ill&uuml;strasyonlar olarak tanımlanabilir.
     - **Cevap B-) Yayın ill&uuml;strasyonlarında belirli şablonlara uyulma zorunluluğu vardır.**
-    - C-) &Ccedil;eşitli dergilerde ve gazetelerde kullanılabilmektedir.
+    - C-) &Ccedil;eşitli dergilerde ve gazetelerde kullanılabilmektedir. 
     - D-) Yayın ill&uuml;strasyonları, basılı materyallerde metne uygun g&ouml;rsellerden oluşmaktadır.
     - E-) İll&uuml;strasyondan en fazla yararlanılan basılı i&ccedil;erik t&uuml;r&uuml; &ccedil;ocuk kitaplarıdır.
     <hr />
@@ -893,14 +907,14 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Soyutluk
     <hr />
 1. <strong>Gazete ve dergi ill&uuml;strasyonlarında dijital entegrasyon ne anlama gelmektedir?</strong>
-    - A-) Dijital medyadaki pop&uuml;lerlik
+    - A-) Dijital medyadaki pop&uuml;lerlik 
     - B-) Dijital ara&ccedil;lara egemen olma
     - C-) Dijital mecraları etkin kullanma
     - **Cevap D-) Dijital platformlarda uyarlanabilme**
     - E-) Dijital mecralarda yeni bir perspektif oluşturma
     <hr />
 1. <strong>Basılı ill&uuml;strasyon kullanımına ilk olarak hangi teknik sayesinde başlanmıştır?</strong>
-    - **Cevap A-) Ahşap oymacılığı/grav&uuml;r&nbsp;**
+    - **Cevap A-) Ahşap oymacılığı/grav&uuml;r**
     - B-) Serigrafi
     - C-) Litografi
     - D-) Linolyum
@@ -920,6 +934,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Yalnızca gazete ve dergilerde
     - **Cevap E-) Basılı ve dijital ortamlarda**
     <hr />
+1. <strong>Yayın ill&uuml;strasyonları aşağıdaki ifadelerden hangisi ile tanımlanabilir?</strong>
+    - **Cevap A-) Beraberindeki metni tanıtan ve konu hakkında bilgi verme amacı ile tasarlanan ill&uuml;strasyonlardır.**
+    - B-) Beraberindeki metni etkili kılan ill&uuml;strasyonlardır.
+    - C-) Beraberindeki metni a&ccedil;ıklayan ill&uuml;strasyonlardır.
+    - D-) Beraberindeki metni temsil eden ill&uuml;strasyonlardır.
+    - E-) Beraberindeki metinle ilişki kuran ill&uuml;strasyonlardır.
+    <hr />
 1. <strong>Gazetelerdeki ill&uuml;strasyonlar aşağıdakilerden hangisine g&ouml;re değişim g&ouml;stermektedir?</strong>
     - A-) Gazetenin ismine
     - B-) Gazetenin sayfalarına
@@ -936,7 +957,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     <hr />
 ## Unite 11
 1. <strong>Aşağıdakilerden hangisi moda ill&uuml;strat&ouml;r&uuml;n&uuml;n g&ouml;revini tanımlar?</strong>
-    - A-) Giysi modellerini tasarlayarak, tasarımın konseptine ve amacına uygun olan kumaş, d&uuml;ğme, iplik gibi dikiş &ouml;gelerini se&ccedil;er ve malzemeleri bir araya getirir.
+    - A-) Giysi modellerini tasarlayarak, tasarımın konseptine ve amacına uygun olan kumaş, d&uuml;ğme, iplik gibi dikiş &ouml;gelerini se&ccedil;er ve malzemeleri bir araya getirir. 
     - B-) Moda tasarımcısının tasarımlarını, detaylarıyla modele aktaran kişidir. Modelist modelin kalıbını &ccedil;ıkarmadan &ouml;nce moda tasarımcısı giysinin fermuar, d&uuml;ğme, plise, cep, astar vb. t&uuml;m detaylarını planlar
     - **Cevap C-) Moda tasarımcısının verdiği y&ouml;n bilgi ve &ccedil;izdiği &ccedil;er&ccedil;eve i&ccedil;erisinde modellerle ilgili sanatsal ve serbest &ccedil;izimleri ger&ccedil;ekleştirir.**
     - D-) &Uuml;retilecek giysinin, t&uuml;m kontrolleri yapılmış olan baz kalıba g&ouml;re diğer bedenleri oluşturur.
@@ -957,7 +978,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - **Cevap E-) Akıl &Ccedil;ağı**
     <hr />
 1. <strong>&Ouml;zellikle Fransa&#39;da etkin olan Belle Epoque D&ouml;nemi&#39;nin &ouml;zellikleri ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Bu d&ouml;nemde moda ill&uuml;strasyonları zarif ve zengin detaylara sahip modelleri betimlemiştir.
+    - A-) Bu d&ouml;nemde moda ill&uuml;strasyonları zarif ve zengin detaylara sahip modelleri betimlemiştir. 
     - B-) S-Kıvrımlı Siluet i&ccedil;in kadın korseleri tasarlanmıştır.
     - C-) Erkeklerde de dar kesim ceket ve pantolonlar moda oldup, siluetlerde beden yapısı belirginleşmiştir.
     - **Cevap D-) Canlı ve kontrast renkler tercih edilmiştir.**
@@ -1004,7 +1025,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - B-) Siyah beyaz basılması
     - C-) M&uuml;sahipz&acirc;de Cel&acirc;l&rsquo;in moda ill&uuml;strasyonları
     - D-) Cumhuriyet kadını imgesini teşvik etmesi
-    - **Cevap E-) T&uuml;rk kadınının boş vakitlerini doldurması&nbsp;**
+    - **Cevap E-) T&uuml;rk kadınının boş vakitlerini doldurması**
     <hr />
 1. <strong>Joean Honor&eacute; Fragonard&rsquo;a ait &ldquo;Salıncak&rdquo; tablosundaki renk kullanımı, kompozisyon &ouml;zellikleri, giysi ve aksesuarlar a&ccedil;ısından moda tarihinin hangi d&ouml;nemini temsil ettiği s&ouml;ylenebilir?</strong>
     - A-) Romantik D&ouml;nem
@@ -1013,8 +1034,15 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - **Cevap D-) Rokoko D&ouml;nemi**
     - E-) İzlenimci D&ouml;nem
     <hr />
+1. <strong>19. y&uuml;zyılda k&uuml;&ccedil;&uuml;k şapka ve t&uuml;ylerin mutlaka kullanıldığı ill&uuml;strasyonlar hangi d&ouml;nemi tanımlıyor olabilir?</strong>
+    - A-) Edward D&ouml;nemi
+    - B-) Romantik D&ouml;nem
+    - C-) Art Nouveau
+    - **Cevap D-) Belle Epoque**
+    - E-) Akıl &Ccedil;ağı
+    <hr />
 1. <strong>Aşağıdakilerden hangisi II. D&uuml;nya Savaşı zamanında İngiliz H&uuml;k&ucirc;meti tarafından halka aşılanmıştır?</strong>
-    - A-) Savaş Modası
+    - A-) Savaş Modası 
     - B-) Feminen Giyim
     - **Cevap C-) Giyim Kotası**
     - D-) D&uuml;ğme Savaşı
@@ -1033,7 +1061,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - B-) Hayatın kollektifliği
     - **Cevap C-) &Ccedil;ocukların oyun oynaması**
     - D-) Yedi yaşından itibaren &ccedil;ocukların yetişkin işlerinde &ccedil;alışması
-    - E-) Eğitim ve okur yazarlığın gelişmemiş olması
+    - E-) Eğitim ve okur yazarlığın gelişmemiş olması 
     <hr />
 1. <strong>&Ccedil;ocukluk ilk olarak hangi d&ouml;nemden itibaren tanımlanmaya başlamıştır?</strong>
     - A-) 15. yy
@@ -1051,7 +1079,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     <hr />
 1. <strong>&Ccedil;ocukluğa ait bir alanı aşağıdakilerden hangisi <u>sağlamaz</u>?</strong>
     - A-) Yaşına uygun giysiler
-    - **Cevap B-) Yetişkinlerle aynı işlerde &ccedil;alışması&nbsp;**
+    - **Cevap B-) Yetişkinlerle aynı işlerde &ccedil;alışması**
     - C-) Gelişimi i&ccedil;in doğru besinler
     - D-) Resimli &ccedil;ocuk kitapları
     - E-) &Ouml;ğrenme materyalleri
@@ -1072,10 +1100,10 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Resimli kitaplar
     <hr />
 1. <strong>Avrupa&rsquo;da resimlenen ilk &ccedil;ocuk kitabı aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Kunst und Lehrb&uuml;chlein&nbsp;**
+    - **Cevap A-) Kunst und Lehrb&uuml;chlein**
     - B-) The Famous History of John Gilpin
     - C-) Orbis Sensualium Pictus
-    - D-) The House That Jack Built
+    - D-) The House That Jack Built 
     - E-) Kinder und Hausm&auml;rchen
     <hr />
 1. <strong>Modern resimli kitabın babası olarak anılan sanat&ccedil;ı kimdir?</strong>
@@ -1087,7 +1115,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     <hr />
 1. <strong>Rus masallarından esinlenen Altın &Ccedil;ağ ill&uuml;strat&ouml;r&uuml; kimdir?</strong>
     - **Cevap A-) Ivan Bilibin**
-    - B-) Fran&ccedil;ois Boucher
+    - B-) Fran&ccedil;ois Boucher 
     - C-) Edmund Dulac
     - D-) John Tenniel
     - E-) Beatrix Potter
@@ -1106,6 +1134,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Randolph Caldecott
     - E-) Chris Riddell
     <hr />
+1. <strong>Aşağıdakilerden hangisi 21. y&uuml;zyılda T&uuml;rkiye&rsquo;de &ouml;nde gelen &ccedil;ocuk kitabı ill&uuml;strat&ouml;rlerinden biri <u>değildir</u>?</strong>
+    - A-) Deniz &Uuml;&ccedil;başaran
+    - B-) Necdet Yılmaz
+    - C-) Sedat Girgin
+    - D-) Kıymet Erg&ouml;&ccedil;en
+    - **Cevap E-) İhap Hulusi**
+    <hr />
 ## Unite 13
 1. <strong>Animasyon ifadesi ile ilgili aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Mağara duvarlarına yaşadıkları olayları aktarmak i&ccedil;in resimler &ccedil;izen insan, aklı ve fikri geliştik&ccedil;e hayatlarında yaşadıkları pek &ccedil;ok &ouml;nemli olayı da gelecek nesillere aktarmak i&ccedil;in &ccedil;eşitli bi&ccedil;imlerde arayışlar sergilemiştir.
@@ -1120,6 +1155,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - C-) Zoopraxiscope
     - D-) Adventure of Prince Achmed
     - E-) Mickey Mouse
+    <hr />
+1. <strong>Her sahnenin ve sahnelerdeki her karenin el ile tek tek &ccedil;izilerek &uuml;retildiği ilk animasyon &ouml;rneklerini kapsayan t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Temel Animasyon**
+    - B-) Duraklı Animasyon
+    - C-) 3D animasyon
+    - D-) Clay Animasyon
+    - E-) VR Animasyon
     <hr />
 1. <strong>&Ccedil;izgi roman olarak tanımlanan mecranın ilk d&ouml;neminde sırasıyla hangi &uuml;lkelerde b&uuml;y&uuml;k kitleler tarafından ilgi g&ouml;rd&uuml;ğ&uuml; kabul edilmektedir?</strong>
     - **Cevap A-) Amerika, Fransa, Bel&ccedil;ika, Japonya**
@@ -1138,9 +1180,9 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
 1. <strong>Animasyon sanatını tanımlayan a&ccedil;ıklama aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - A-) Lumiere Kardeşler&rsquo; in buluşu olan kinetograf isimli cihazla birlikte ortaya &ccedil;ıkan bu terim sinema ve benzeri sanat dallarını şekillendiren ifadelerin ortak ismidir.
     - B-) &Ccedil;oğunlukla otellerde hareketli g&ouml;steri ve şovlarla insanları eğlendirme eylemlerinin genel adıdır.
-    - **Cevap C-) Bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme ve izlenebilir h&acirc;le getirme y&ouml;ntemidir.&nbsp;**
+    - **Cevap C-) Bir dizi hareket yanılsaması yaratmak i&ccedil;in &uuml;retilen ardışık &ccedil;izimleri, modelleri ya da kukla gibi farklı objeleri fotoğraflama ve g&ouml;r&uuml;nt&uuml;leme ve izlenebilir h&acirc;le getirme y&ouml;ntemidir.**
     - D-) &Ccedil;izgi film &uuml;retimi ve ilişkili sekt&ouml;rlerde &ccedil;alışan tasarımcı ve ill&uuml;strat&ouml;rlere verilen unvandır.
-    - E-) Can, nefes ve ruh anlamında kullanılan &uuml;&ccedil; boyutlu &ccedil;izim tekniğidir.
+    - E-) Can, nefes ve ruh anlamında kullanılan &uuml;&ccedil; boyutlu &ccedil;izim tekniğidir. 
     <hr />
 1. <strong>Araştırmacı ve tarih&ccedil;iler tam anlamıyla animasyon kavramının &ouml;zelliklerini taşıyan ilk renkli animasyon olarak aşağıdakilerden hangisini kabul eder?</strong>
     - **Cevap A-) Pauvre Pierrot**
@@ -1201,6 +1243,13 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - E-) Amerikan yapımı &ldquo;Simpsons&rdquo; &ccedil;izgi filmi, hareketli grafik kullanımlarının en &ouml;nemli ve ilk &ouml;rneklerindendir.
     <hr />
 ## Unite 14
+1. <strong>Aşağıdaki malzemelerden hangisi bir ill&uuml;strat&ouml;r&uuml;n mutlaka bulundurması gereken materyallerdendir?</strong>
+    - A-) Sulu boya
+    - **Cevap B-) Kurşun kalem**
+    - C-) Guaj boya
+    - D-) Pastel boya
+    - E-) Marker
+    <hr />
 1. <strong>Kuru boya &ccedil;alışması yapılırken dikkat edilmesi gereken nokta aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) A&ccedil;ık tonlardan boyanmaya başlanması**
     - B-) K&acirc;ğıt se&ccedil;imi
@@ -1215,7 +1264,7 @@ III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&u
     - D-) Tarama ucu
     - E-) Kurşun Kalem
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Cinema 4D Programı ile entegre &ccedil;alışan mod&uuml;llerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Cinema 4D Programı ile entegre &ccedil;alışan mod&uuml;llerinden biri <u>değildir</u>?</strong>
     - A-) MoGraph
     - B-) MOCCA
     - C-) 3 HAIR

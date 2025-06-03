@@ -70,8 +70,15 @@
     - **Cevap A-) Tasarımda fotoğrafın amacı**
     - B-) Fotoğrafın ortaya &ccedil;ıkışı
     - C-) Sanat ve fotoğrafta &ouml;nc&uuml;ler
-    - D-) &nbsp;Sanat ve tasarım ilişkisi
+    - D-) Sanat ve tasarım ilişkisi
     - E-) Tasarım alanında yenilikler
+    <hr />
+1. <strong>G&uuml;ncel araştırmalar ışığında bilinen en eski duvar resmi g&uuml;n&uuml;m&uuml;zden ka&ccedil; yıl &ouml;nce yapılmıştır?</strong>
+    - A-) 2.050
+    - B-) 1.200
+    - C-) 200.000
+    - **Cevap D-) 45.000**
+    - E-) 35.000
     <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
     - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
@@ -165,6 +172,13 @@
     - D-) Silindir
     - E-) K&uuml;re
     <hr />
+1. <strong>Aşağıdakilerin hangisinde ana (birincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
+    - A-) Sarı, kırmızı, mor
+    - **Cevap B-) Sarı, kırmızı, mavi**
+    - C-) Sarı, kırmızı, yeşil
+    - D-) Mavi, kırmızı, yeşil
+    - E-) Mavi, mor, kırmızı
+    <hr />
 1. <strong>Aşağıdaki renk &ccedil;iftlerinden hangisinin her ikisi de sıcak renklerdendir?</strong>
     - A-) Mavi ve yeşil
     - B-) Mavi ve mor
@@ -243,6 +257,13 @@
     - D-) &Ccedil;izgilerle, g&ouml;r&uuml;nt&uuml;ye hareket hissi katabiliriz.
     - E-) Yatay &ccedil;izgilerle izleyicide dingin bir his uyandırabiliriz.
     <hr />
+1. <strong>Aşağıdakilerin hangisinde doğal ışık kaynağı doğru olarak verilmiştir?</strong>
+    - A-) Odun ateşi, gaz ocağı
+    - B-) Tungsten lamba, mum
+    - C-) Ay, yakamaz
+    - D-) Florasan, led amp&uuml;l
+    - **Cevap E-) Şimşek, kuzey ışıkları, ateş b&ouml;ceği**
+    <hr />
 1. <strong>F1.4 i&ccedil;in aşşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
     - A-) Diyafram a&ccedil;ıklığı değişmez.
     - B-) Geniş bir perspektifte farklı nesnelerin keskin bir şekilde kaydedilmesi istenildiğinde kullanılabilir.
@@ -294,9 +315,9 @@
     - E-) Nesneler ilişkilendirilir.
     <hr />
 1. I. Eyfel Kulesi<br />
-II.&nbsp;&Ccedil;in Setti<br />
+II. &Ccedil;in Setti<br />
 III. Mısır Piramitleri<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;nesnel ve evrensel simgeler arasında yer alır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri nesnel ve evrensel simgeler arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
@@ -337,6 +358,13 @@ III. Mısır Piramitleri<br />
     - C-) Reklam
     - D-) Fotoğraf
     - **Cevap E-) Tiyatro**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi simgesel g&ouml;stergeye &ouml;rnek <u>teşkil etmez</u>?</strong>
+    - A-) G&uuml;n doğumu
+    - B-) Merdiven
+    - C-) Kırık testi
+    - D-) Ufuk
+    - **Cevap E-) Karanlık**
     <hr />
 ## Unite 5
 1. <strong>Aşağıdakilerden hangisi iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
@@ -415,6 +443,13 @@ III. Mısır Piramitleri<br />
     - **Cevap C-) Ekipten ayrı tek başına &ccedil;alışmamalıdır.**
     - D-) Ticaretle ilgilenmemelidir.
     - E-) Meraklı olmamalıdır.
+    <hr />
+1. <strong>Reklam ile ilgili olarak a</strong><strong>şağıdakilerden </strong><strong>hangisi <u>yanlıştır</u>?</strong>
+    - A-) Belirli bir bedel karşılığında ger&ccedil;ekleşir.
+    - **Cevap B-) Plansız şekilde, doğa&ccedil;lama ger&ccedil;ekleşir.**
+    - C-) &Uuml;r&uuml;n veya hizmet ya da d&uuml;ş&uuml;nceyi satmak amacıyla tasarlanır.
+    - D-) Mesajların belirlenen iletişim kanalları aracılığıyla t&uuml;keticiye iletilmesidir.
+    - E-) Yer ve zaman satın alınır.
     <hr />
 1. <strong>Başarılı reklam fotoğrafları oluşturmak ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - **Cevap A-) Fotoğrafın reklam alanının tamamının en az &uuml;&ccedil;te birini kaplaması gerekir.**
@@ -501,6 +536,13 @@ III. Mısır Piramitleri<br />
     - D-) Aliye Berger
     - **Cevap E-) Osman Hamdi**
     <hr />
+1. <strong>17. y&uuml;zyılda hangi Hollandalı bir ressam, soyu t&uuml;kenmiş didus ineptus kuşunu resmetmiştir?</strong>
+    - A-) Picasso
+    - **Cevap B-) Roelant Savery**
+    - C-) Salvador Dali
+    - D-) Frida Kahlo
+    - E-) Osman Hamdi
+    <hr />
 1. <strong>Aşağıdakilerden hangisi son yıllarda yapılan deneysel ekslibris tasarımları arasında <u>yer almaz</u>?</strong>
     - **Cevap A-) Ağa&ccedil; Baskı Ekslibris**
     - B-) Artırılmış Ger&ccedil;eklik Ekslibris
@@ -544,7 +586,7 @@ III. Mısır Piramitleri<br />
     - D-) Fotoğrafın grafik tasarımda kullanımının artması
     - E-) T&uuml;ketim ekonomisinin hızla gelişmesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarım i&ccedil;erisinde yer alma sebeplerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarım i&ccedil;erisinde yer alma sebeplerinden biri <u>değildir</u>?</strong>
     - A-) Mesajın hedef kitleye hızlı aktarılmasını sağlaması
     - B-) Fotoğrafın ger&ccedil;ek olanı yansıtabilmesi
     - C-) Fotoğrafın ikna g&uuml;c&uuml;ne sahip olması
@@ -586,12 +628,19 @@ III. Mısır Piramitleri<br />
     - D-) G&ouml;r&uuml;nt&uuml; işleme programlarının ortaya &ccedil;ıkması
     - **Cevap E-) Fotoğraf&ccedil;ı sayılarının artması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımda hedef kitleye mesaj aktarımında kullanılan g&ouml;r&uuml;nt&uuml;l&uuml; bilgilerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarımda hedef kitleye mesaj aktarımında kullanılan g&ouml;r&uuml;nt&uuml;l&uuml; bilgilerden biri <u>değildir</u>?</strong>
     - A-) Sembol
     - B-) İll&uuml;strasyon
     - C-) Tipografi
     - **Cevap D-) Fonograf**
     - E-) Fotoğraf
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ldquo;graphishe kunst&rdquo; kavramını a&ccedil;ıklar?</strong>
+    - A-) Grafik tasarımda &ccedil;arpıcı imgelerin &uuml;retimi &ldquo;grafik ger&ccedil;ek&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - B-) Grafik tasarımda fotoğrafın kullanılmaya başlandığı ilk d&ouml;nem &ldquo;fotografik d&ouml;nem&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - C-) &Ouml;zg&uuml;n baskı sanatlarında fotoğrafın kullanılmaya başlandığı d&ouml;nem &ldquo;grafik baskı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
+    - **Cevap D-) &Ouml;zg&uuml;n baskı sanatlarında g&ouml;rsellerin bir y&uuml;zey &uuml;zerine kazınarak &ccedil;izilmeleri nedeniyle bu sanat dalı &ldquo;grafik sanatı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.**
+    - E-) Grafik tasarımda fotoğrafın kullanımıyla elde edilen grafik &ccedil;alışmalar &ldquo;grafik-foto&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
     <hr />
 1. <strong>Fotoğrafta ilk kez negatif-pozitif tekniğin uygulanabildiği g&ouml;r&uuml;nt&uuml;leme tekniğinin adı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kalotip**
@@ -607,7 +656,7 @@ III. Mısır Piramitleri<br />
     - D-) Moda tasarımı
     - E-) End&uuml;stri tasarımı
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarımla olan ilişkisinin ama&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarımla olan ilişkisinin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) Fotoğrafın, hedef kitlenin dikkatini tasarımın konusuna &ccedil;ekmede etkili olması
     - B-) Fotoğrafın; kullanıldığı iletişim aracına estetik boyut katması
     - C-) Tasarımlarda kullanılan fotoğrafların hedef kitlede ilgi ve merak uyandırıcı g&ouml;rsel g&uuml;ce sahip olması
@@ -630,7 +679,7 @@ III. Mısır Piramitleri<br />
     - **Cevap E-) Essen Faust**
     <hr />
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi afiş tasarımının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi afiş tasarımının ama&ccedil;larından biri <u>değildir</u>?</strong>
     - **Cevap A-) Afiş tasarımının amacı asıldığı yerleri s&uuml;slemektir.**
     - B-) Afiş tasarımının amacı g&ouml;ze hitap etmesidir.
     - C-) Afiş tasarımının amacı mesajı hedef kitleye iletmektir.
@@ -686,7 +735,7 @@ III. Mısır Piramitleri<br />
     - D-) Fotoğrafların bazı yazılımlar aracılığı ile renkleri &uuml;zerinde oynanması
     - E-) Yazının renginin belirlenmesi
     <hr />
-1. <strong>Bulunduğu d&ouml;nemi anlatması bakımında diğer &ouml;gelere g&ouml;re daha belirleyici bir etkiye sahip olan afişin temel bileşeni hangisidir?</strong>
+1. <strong>Bulunduğu d&ouml;nemi anlatması bakımından diğer &ouml;gelere g&ouml;re daha belirleyici bir etkiye sahip olan afişin temel bileşeni aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Renk**
     - B-) İmge
     - C-) Tipografi
@@ -698,7 +747,7 @@ III. Mısır Piramitleri<br />
     - **Cevap B-) Kitap ve gazetelerde**
     - C-) Cep telefonu ve tabletlerde
     - D-) &Ccedil;ocuk kitaplarında
-    - E-) Broş&uuml;rlerde ve el ilanlarında
+    - E-) Broş&uuml;rlerde ve el ilanlarında 
     <hr />
 1. <strong>Konferans, seminer, sinema, tiyatro, konser ve sergi gibi k&uuml;lt&uuml;rel aktiviteler hakkında duyurulması gerekenlerin; fotoğraf, ill&uuml;strasyon ve tipografi kullanılarak tasarlandığı afişlere ne ad verilir?</strong>
     - A-) Sergi Afişi
@@ -785,7 +834,7 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) Yapay zek&acirc; d&uuml;zenlemesi**
     - E-) Işık efektleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme i&ccedil;in <u>s&ouml;ylenemez</u>?&nbsp; &nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme i&ccedil;in <u>s&ouml;ylenemez</u>? </strong>
     - A-) G&ouml;r&uuml;nt&uuml; işleme, g&ouml;rsel veri &uuml;zerinde oynanılmasıdır.
     - B-) G&ouml;r&uuml;nt&uuml; işleme, veri &uuml;zerinde anlamlı ve istendik değişiklik yapmaktır.
     - C-) G&ouml;r&uuml;nt&uuml;n&uuml;n renk dengesinin d&uuml;zenlenmesi g&ouml;r&uuml;nt&uuml; işleme işlemidir.
@@ -833,14 +882,14 @@ III. Mısır Piramitleri<br />
     - B-) Fotoğraflar ihtiya&ccedil; analizinde kullanılır.
     - C-) Maketler tasarım ekibiyle fotoğraflanarak paylaşılabilir.
     - D-) Mood boardlarda fotoğraflar yer alır.
-    - **Cevap E-) &nbsp;Fotoğrafın en &ccedil;ok kullanıldığı adım detay tasarımı adımıdır.**
+    - **Cevap E-) Fotoğrafın en &ccedil;ok kullanıldığı adım detay tasarımı adımıdır.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n tanıtımında etkili olan fotoğrafların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Doğru ışıklandırma
     - B-) Doğru a&ccedil;ılar
     - C-) Fonksiyona dair d&uuml;zenlemeler
     - **Cevap D-) Fotoğraftaki tipografik &ouml;ğeler**
-    - E-) &nbsp;Kullanıma dair sahne ve pozlar
+    - E-) Kullanıma dair sahne ve pozlar
     <hr />
 1. <strong>Fotoğrafın basılarak kullanıldığı &ouml;zelleşmiş &uuml;r&uuml;nlerde fotoğrafın ana işlevi aşağıdakilerden hangisidir?</strong>
     - A-) Fotoğraf &uuml;r&uuml;ne renk katar.
@@ -903,8 +952,8 @@ III. Mısır Piramitleri<br />
     - A-) Moda fotoğrafı i&ccedil;in teknik bilgi gereksinimi yoktur.
     - **Cevap B-) Moda fotoğrafı; fotoğraf&ccedil;ılar tarafından i&ccedil; ve dış &ccedil;ekimlerle dergilere, moda evlerine ve reklam ajanslarına yapılan &ccedil;alışmaların tamamına verilen isimdir.**
     - C-) Bir moda fotoğrafı, her zaman st&uuml;dyoda olmak zorundadır.
-    - D-) Moda fotoğrafları hi&ccedil;bir zaman bulundukları zamana tanıklık etmemişler ve değişimin&nbsp; bir par&ccedil;ası olamamışlardır.
-    - E-) Moda fotoğrafı g&uuml;ncel modayı&nbsp; takip etmek durumunda değildir.
+    - D-) Moda fotoğrafları hi&ccedil;bir zaman bulundukları zamana tanıklık etmemişler ve değişimin bir par&ccedil;ası olamamışlardır.
+    - E-) Moda fotoğrafı g&uuml;ncel modayı takip etmek durumunda değildir.
     <hr />
 1. <strong>Moda fotoğrafı d&uuml;nyada ilk olarak g&uuml;n&uuml;m&uuml;zde de modanın başkenti olarak bilinen hangi şehirde ortaya &ccedil;ıkmıştır?</strong>
     - A-) Roma
@@ -918,7 +967,7 @@ III. Mısır Piramitleri<br />
     - B-) Edward Steichen
     - C-) Martin Muncaski
     - D-) Man Ray
-    - E-) Lee&nbsp; Miller
+    - E-) Lee Miller
     <hr />
 1. <strong>Fotoğrafta kullanılan dikey &ccedil;izgiler hangi kavram-kavramların etkisini arttırmaktadır?</strong>
     - A-) Sakinlik ve Dinginlik
@@ -927,7 +976,7 @@ III. Mısır Piramitleri<br />
     - **Cevap D-) G&uuml;&ccedil; ve Mutlaklık**
     - E-) Belirsizlik ve Kararsızlık
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir fotoğraf &ccedil;ekiminde komposizyona etki eden ışığın y&ouml;nlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bir fotoğraf &ccedil;ekiminde komposizyona etki eden ışığın y&ouml;nlerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) &Ccedil;izgisel ışık**
     - B-) Tepe Işığı
     - C-) Arkadan gelen - Ters Işık
@@ -948,7 +997,7 @@ III. Mısır Piramitleri<br />
     - D-) Karışık renkler
     - E-) N&ouml;tr renkler
     <hr />
-1. <strong>Hangisi fotoğraf &ccedil;ekimlerinde st&uuml;dyoda kullanılan teknik ekipmanlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Hangisi fotoğraf &ccedil;ekimlerinde st&uuml;dyoda kullanılan teknik ekipmanlardan biri <u>değildir</u>?</strong>
     - A-) Şemsiyeler
     - B-) Reflekt&ouml;rler ve Petekler
     - C-) Softboxlar
@@ -967,7 +1016,7 @@ III. Mısır Piramitleri<br />
     - **Cevap B-) Edward Steichen**
     - C-) Martin Muncaski
     - D-) Man Ray
-    - E-) Lee&nbsp; Miller
+    - E-) Lee Miller
     <hr />
 1. <strong>Aşağıdakilerden hangileri yapay ışık kaynaklarından biri <u>değildir</u>?</strong>
     - A-) Led amp&uuml;ller
@@ -991,7 +1040,7 @@ III. Mısır Piramitleri<br />
     - D-) Devamlılık
     - E-) Benzerlik
     <hr />
-1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir? </strong>
     - A-) Doku
     - B-) Espas
     - C-) Işık
@@ -1051,17 +1100,17 @@ III. Mısır Piramitleri<br />
     - A-) Belirli grupların hedeflerini destekleyecek doğrultudadır.
     - B-) Bize yeni bakış a&ccedil;ıları vermektedir.
     - C-) Ger&ccedil;eğin yeniden uyarlanmış ve inşa edilmiş h&acirc;lidir.
-    - D-) Temsile dayalı farklı yorumlama &nbsp;bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
+    - D-) Temsile dayalı farklı yorumlama bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
     - **Cevap E-) Temsil, mimarın &ouml;zg&uuml;nl&uuml;ğ&uuml;n&uuml; azaltır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi mek&acirc;nın g&ouml;rsel algısını etkileyen tasarım unsurlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi mek&acirc;nın g&ouml;rsel algısını etkileyen tasarım unsurlarından biri <u>değildir</u>?</strong>
     - A-) Bi&ccedil;im
     - B-) Işık
     - C-) Renk
     - D-) Malzeme
     - **Cevap E-) Koku**
     <hr />
-1. <strong>Kendi tasarımlarını &ccedil;ekmeden &ouml;nce kurgulayan mimar&nbsp;</strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
+1. <strong>Kendi tasarımlarını &ccedil;ekmeden &ouml;nce kurgulayan mimar </strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
     - A-) Pierre Jeanneret
     - B-) Oscar Niemeyer
     - C-) Ludwig Mies van der Rohe

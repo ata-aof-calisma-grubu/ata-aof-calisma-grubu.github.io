@@ -438,7 +438,7 @@
     - D-) Amblem
     - **Cevap E-) Slogan**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;rsel &ouml;gelerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;rsel &ouml;gelerinden biri <u>değildir</u>?</strong>
     - A-) Animasyon
     - **Cevap B-) Slogan**
     - C-) Renk
@@ -460,7 +460,7 @@
     - E-) Temsilde soyut ya da d&uuml;ş&uuml;nsel betimlemeye dayalıdır.
     <hr />
 ## Unite 6
-1. <strong>Still life fotoğraf&ccedil;ılığının tanımı&nbsp;</strong><strong>aşağıdakilerden hangisinde doğru yapılmıştır?</strong>
+1. <strong>Still life fotoğraf&ccedil;ılığının tanımı </strong><strong>aşağıdakilerden hangisinde doğru yapılmıştır?</strong>
     - A-) Reklam fotoğraflarının &ccedil;ekildiği st&uuml;dyo ortamıdır.
     - **Cevap B-) Hareketsiz nesnelerin &ccedil;ekildiği fotoğraf t&uuml;r&uuml;d&uuml;r.**
     - C-) Diğer fotoğraf branşlarının bir alt k&uuml;mesini oluşturan terimdir.
@@ -588,7 +588,7 @@
     - **Cevap E-) Sekt&ouml;r&uuml;n gelişmesini sağlama**
     <hr />
 1. Doğru ve rasyonel bir &hellip;&hellip;&hellip; &uuml;zerine oturtulmuş reklam kararları, belirlenen reklam ama&ccedil;larını ve hedeflerine ulaşmayı kolaylaştırır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
     - **Cevap A-) strateji**
     - B-) ideoloji
     - C-) mesaj
@@ -637,7 +637,7 @@
     - D-) Bilgi iletme
     - E-) Duyguları hareket ge&ccedil;irme
     <hr />
-1. <strong>Reklam mesaj stratejisi belirlenirken hedef kitlenin aşağıdaki hangi &ouml;zelliği dikkate&nbsp;<u>alınmaz</u>?</strong>
+1. <strong>Reklam mesaj stratejisi belirlenirken hedef kitlenin aşağıdaki hangi &ouml;zelliği dikkate <u>alınmaz</u>?</strong>
     - A-) Yaşadıkları b&ouml;lge
     - B-) Ekonomik durumları
     - C-) K&uuml;lt&uuml;rel &ouml;zellikleri
@@ -735,6 +735,13 @@
     - C-) Metin olarak kullanılma
     - D-) Şekilleri temsil etme
     - E-) Rengi vurgulama
+    <hr />
+1. <strong>Aşağıdakilerden hangisi aynı zamanda birbirlerinin vurgu g&#252;c&#252;n&#252; arttıran zıt renklere verilen diğer isimdir?</strong>
+    - **Cevap A-) Tamamlayıcı renkler**
+    - B-) Doygun renkler
+    - C-) A&#231;ık renkler
+    - D-) Koyu renkler
+    - E-) Tonlama
     <hr />
 1. <strong>Aşağıdakilerden hangisi kompozisyon tasarımı bakımından, mavi bir zeminde turuncu bir nesnenin kullanılması ile sağlanır?</strong>
     - A-) Asimetrik kullanım
@@ -835,6 +842,13 @@
     - D-) Süzülmüş ışık
     - E-) Reflekt&ouml;r
     <hr />
+1. <strong>Aşağıdakilerden hangisi &#252;r&#252;n, yiyecek, takı ve diğer &#231;eşitli nesnelerin profesyonel kalitede fotoğraflarını &#231;ekmek i&#231;in kullanılan, ışığı daha iyi kontrol etmeyi sağlayan, hafif ve &#231;oğunlukla formu değiştirilebilir ekipmanlardır?</strong>
+    - **Cevap A-) &#199;ekim &#231;adırları**
+    - B-) Tripod
+    - C-) Flaşlar
+    - D-) Led paneller
+    - E-) Tetikleyiciler
+    <hr />
 ## Unite 10
 1. <strong>Aşağıdakilerden hangisi başarılı &uuml;r&uuml;n fotoğrafının en &ouml;nemli y&ouml;nlerinden biridir?</strong>
     - A-) &Uuml;r&uuml;n&uuml;n transferini kolaylaştırması
@@ -919,6 +933,13 @@
     - C-) İzleyicilerde psikolojik bir tepkiye neden olmak
     - D-) Dinamik gerilim yaratmak
     - E-) Uyum sağlamak
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tanıtım fotoğraf&#231;ısının sorumluluğunda olan ve aydınlatma yoluyla iletmesi gereken &#252;r&#252;n&#252;n &#246;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) &#220;r&#252;n&#252;n rengi
+    - B-) &#220;r&#252;n&#252;n boyutu
+    - C-) &#220;r&#252;n&#252;n şekli
+    - D-) &#220;r&#252;n&#252;n dokusu
+    - **Cevap E-) &#220;r&#252;n&#252;n fiyatı**
     <hr />
 1. <strong>Aşağıdakilerden hangisi saydam bir &uuml;r&uuml;n&uuml;n &ouml;zellikleri nedeniyle ışıklandırmada sıklıkla kullanılan bir y&ouml;ntemdir?</strong>
     - **Cevap A-) Arkadan aydınlatma**
@@ -1019,6 +1040,13 @@
     - **Cevap D-) Panoramik**
     - E-) Orta format
     <hr />
+1. <strong>Sanatsal ifade i&#231;eren mimari &#231;ekimlerde ve emlak fotoğraf&#231;ılığında, i&#231; mek&#226;n detaylarının korunarak manzaraların daha canlı bir şekilde g&#246;r&#252;nmesini sağlamak i&#231;in aşağıdakilerden hangi y&#246;ntemi kullanmak gerekir?</strong>
+    - A-) SLR
+    - **Cevap B-) HDR**
+    - C-) RAW
+    - D-) Panorama
+    - E-) Işıkla boyama
+    <hr />
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi ticari firmaların reklam kampanyalarında hedefledikleri ama&ccedil; ve hedefler doğrultusunda hedef kitleye y&ouml;nelik mesajların iletilmesi amacıyla &uuml;retilen ticari bir fotoğraf t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Stok Fotoğraf&ccedil;ılığı
@@ -1104,6 +1132,13 @@
     - D-) Retoucher
     - **Cevap E-) Birinci Asistan**
     <hr />
+1. <strong>Aşağıdakilerden hangisi reklam ajanslarının yaratıcı grup i&#231;erisinde g&#246;rev alan profesyoneller arasında <u>yer almaz</u>?</strong>
+    - A-) Kreatif direkt&#246;r
+    - B-) Metin yazarı
+    - **Cevap C-) M&#252;şteri ilişkileri temsilcisi**
+    - D-) Grafiker
+    - E-) Sanat y&#246;netmeni
+    <hr />
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisinde Renk modellerine g&ouml;re renklerin &uuml;&ccedil; ana &ouml;zelliği yer almaktadır?</strong>
     - A-) Renk tonu / Doygunluk / Siyah-Beyaz
@@ -1157,7 +1192,8 @@
 1. <strong>Monit&ouml;r kalibrasyonunda en iyi y&ouml;ntem olarak tavsiye edilen ve renkleri monit&ouml;r &uuml;zerinden doğru bir şekilde g&ouml;rmek i&ccedil;in kullanılan renk kalibrasron cihazı aşağıdakilerden hangisidir?</strong>
     - A-) Yazıcı
     - B-) Monit&ouml;r
-    - **Cevap C-) Colormetre**
+    - **Cevap C-) Colormetre
+**
     - D-) Fotoğraf makinesi
     - E-) Tarayıcı
     <hr />
@@ -1174,6 +1210,13 @@
     - C-) Otomatik
     - D-) G&uuml;n ışığı
     - **Cevap E-) Spor modu**
+    <hr />
+1. <strong>RGB renk sisteminde bulunan ve &quot;B&quot; harfi ile temsil edilen renk aşağıdakilerden hangisidir?</strong>
+    - A-) Siyah
+    - B-) Kırmızı
+    - **Cevap C-) Mavi**
+    - D-) Sarı
+    - E-) Beyaz
     <hr />
 1. <strong>CMYK renk modelinin bir rengi tanımlamak i&ccedil;in kullandığı d&ouml;rt ana renk aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - A-) Cyan – Magenta – Yeşil – Siyah
@@ -1259,6 +1302,13 @@
     - C-) G&uuml;venlik
     - D-) Evrensellik
     - **Cevap E-) G&uuml;ndelik**
+    <hr />
+1. <strong>Hangi mafya lideri yakalanmasına sebep olan şey aşağıdakilerden hangisidir?</strong>
+    - A-) Google sokak g&#246;r&#252;nt&#252;leri
+    - B-) Youtube videoları
+    - **Cevap C-) Paylaştığı &#246;z &#231;ekimleri**
+    - D-) WhatsApp durum mesajları
+    - E-) Instagram yorumları
     <hr />
 1. <strong>İlk kez 8 Ağustos 2019&rsquo;da Anadolu Parsı&rsquo;nı belgeleyen kamera aşağıdakilerden hangisidir?</strong>
     - A-) Drone

@@ -7,7 +7,7 @@
     - D-) Ruhdilbilim
     - E-) Edimbilim
     <hr />
-1. <strong>Bir g&ouml;stergenin başka bir anlama ge&ccedil;mek&nbsp;</strong><strong>amacıyla</strong><strong>&nbsp;kullanılmasına ne ad verilir?</strong>
+1. <strong>Bir g&ouml;stergenin başka bir anlama ge&ccedil;mek </strong><strong>amacıyla</strong><strong> kullanılmasına ne ad verilir?</strong>
     - A-) D&uuml;zanlam
     - **Cevap B-) Yananlam**
     - C-) Dizge
@@ -128,6 +128,13 @@ III. &Ccedil;eviribilim<br />
     - **Cevap D-) Yalnız III**
     - E-) I, II ve III
     <hr />
+1. <strong>Bir g&ouml;stergenin başka bir anlam amacıyla başka bir anlama ge&ccedil;mek i&ccedil;in kullanılmasına ne ad verilir?</strong>
+    - **Cevap A-) Yan anlam**
+    - B-) D&uuml;z anlam
+    - C-) &Ccedil;oklu anlam
+    - D-) İkili anlam
+    - E-) Metafor
+    <hr />
 1. <strong>G&ouml;sterge Kuramının Temelleri (Foundation of the Theory of Signs) adlı yapıt aşağıdakilerden hangisine aittir?</strong>
     - A-) Charles Sanders Peirce
     - B-) Thomas Albert Sebeok
@@ -135,7 +142,7 @@ III. &Ccedil;eviribilim<br />
     - **Cevap D-) Charles Williams Morris**
     - E-) Paul de Man
     <hr />
-1. <strong>Dilbilim &ccedil;alışmalarının &ouml;nemli araştırmacılarından olan Ferdinand de Saussure&#39;nin g&ouml;stergebilim alanında&nbsp; dil yetisinin bireysel ve toplumsal y&ouml;n&uuml;n&uuml; vurguladığı karşıtlık aşağıdakilerden hangisidir?</strong>
+1. <strong>Dilbilim &ccedil;alışmalarının &ouml;nemli araştırmacılarından olan Ferdinand de Saussure&#39;nin g&ouml;stergebilim alanında dil yetisinin bireysel ve toplumsal y&ouml;n&uuml;n&uuml; vurguladığı karşıtlık aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Dil/s&ouml;z**
     - B-) Arts&uuml;rem/eşs&uuml;rem
     - C-) Belirti/belirtke
@@ -176,7 +183,7 @@ III. Pragmatik<br />
     - E-) Sentaks
     <hr />
 1. I. Telaffuz<br />
-II. S&ouml;zc&uuml;k yapısı&nbsp;<br />
+II. S&ouml;zc&uuml;k yapısı <br />
 III. C&uuml;mle yapısı<br />
 IV. Anlam<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri sosyodilbilimin inceleme alanına girmektedir?</strong>
@@ -294,6 +301,13 @@ III. Yorum<br />
     - **Cevap D-) Chomsky**
     - E-) Grimm
     <hr />
+1. <strong>Evrensel Dil Bilgisi g&ouml;r&uuml;ş&uuml;ne karşı &ccedil;ıkan, dilin bilişsel s&uuml;re&ccedil;lerin &uuml;r&uuml;n&uuml; olduğunu, dolayısıyla t&uuml;m insanlar i&ccedil;in ge&ccedil;erli bir dil bilgisel sistemin var olamayacağını savunan teori aşağıdakilerden hangisidir?</strong>
+    - A-) D&ouml;n&uuml;ş&uuml;msellik
+    - B-) &Uuml;retimsellik
+    - C-) Yapısalcılık
+    - D-) İşlevselcilik
+    - **Cevap E-) Bilişselcilik**
+    <hr />
 1. <strong>Dilde anlam problemini ciddi bir bi&ccedil;imde inceleyen ve Antik Yunan&rsquo;da dil alanındaki ilk eser olan Kratylos&#39;u yazan filozof aşağıdakilerden hangisidir?</strong>
     - A-) Homeros
     - B-) Marcus Terentius Varro
@@ -327,7 +341,7 @@ III. Yorum<br />
 1. I. Derinlik y&uuml;zeyi a&ccedil;ıklar.<br />
 II. Yorumcu nesneldir.<br />
 III. K&uuml;lt&uuml;r dile benzer.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;Smith ve Riley&#39;e g&ouml;re yapısalcı yaklaşımların ortak &ouml;zellikleri arasında yer alır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri Smith ve Riley&#39;e g&ouml;re yapısalcı yaklaşımların ortak &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -410,6 +424,13 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - C-) Claude L&eacute;vi-Strauss
     - D-) Karl Marx
     - E-) Max Weber
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yapısalcılığın, Ferdinand de Saussure tarafından ortaya koyulan dil bilimsel kurallara bağlılık g&ouml;steren şeklinin temel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    - A-) Dil ile ilgilenme
+    - B-) &Ouml;znelciliğe saldırı
+    - C-) H&uuml;manizme saldırı
+    - **Cevap D-) Tarihselcilikten yararlanma**
+    - E-) İkili karşıtlıklarla ilgilenme
     <hr />
 1. <strong>&quot;Genel Dilbilim Dersleri&quot; adlı eseriyle dilbilimin kurucularından biri olarak tanınan &uuml;nl&uuml; İsvi&ccedil;reli dilbilimci kimdir?</strong>
     - A-) Megill
@@ -575,6 +596,13 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Kristeva
     - E-) Foucault
     <hr />
+1. <strong>Lacan&rsquo;ın babanın dili olarak kabul ettiği evre aşağıdakilerden hangisidir?</strong>
+    - A-) G&ouml;stergesel dil
+    - **Cevap B-) Sembolik dil**
+    - C-) Ego evresi
+    - D-) İd evresi
+    - E-) Oedipus evresi
+    <hr />
 1. <strong>&Ouml;zne kavramı ilk olarak aşağıdakilerden hangisi tarafından tartışmaya a&ccedil;ılmıştır?</strong>
     - **Cevap A-) Michel Foucault**
     - B-) Paul De Man
@@ -604,7 +632,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Trubetzkoy
     - E-) Pierce
     <hr />
-1. <strong>Avrupa dilbilimine b&uuml;y&uuml;k katkı sunan&nbsp;Kopenhag Okulu&#39;nun en b&uuml;y&uuml;k temsilcisi aşağıdakilerden hangisidir?</strong>
+1. <strong>Avrupa dilbilimine b&uuml;y&uuml;k katkı sunan Kopenhag Okulu&#39;nun en b&uuml;y&uuml;k temsilcisi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Hjelmslev**
     - B-) Barthes
     - C-) Metz
@@ -689,6 +717,13 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Belli sesler belli kavramları ifade eder.
     - E-) Her toplumun farklı uzlaşımları bulunabilir.
     <hr />
+1. <strong>&ldquo;Dilin se&ccedil;tiği g&ouml;steren yerine bir başkası kullanılamaz.&rdquo; diyen Saussure, g&ouml;stergenin hangi &ouml;zelliğini vurgulamaktadır?</strong>
+    - A-) G&ouml;stergenin g&ouml;sterenlerini
+    - B-) G&ouml;stergenin nedensizliğini
+    - **Cevap C-) G&ouml;stergenin değişmezliğini**
+    - D-) G&ouml;stergenin simgeselliğini
+    - E-) G&ouml;stergenin &ccedil;izgiselliğini
+    <hr />
 1. <strong>G&ouml;stergebilimle ilgili olarak aşağıdaki kavramlardan hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Kavramlar işitim imgesi dışında g&ouml;sterilemez.**
     - B-) Bir g&ouml;steren farklı farklı g&ouml;sterenler ile bağlantı kurabilir.
@@ -728,7 +763,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - E-) Değişebilirlik
     <hr />
 ## Unite 6
-1. <strong>Morris&#39;e g&ouml;re&nbsp;g&ouml;sterge ile belirttiği şey arasındaki ilişkiyi inceleyen g&ouml;stergebilim bileşeni aşağıdakilerden hangisidir?</strong>
+1. <strong>Morris&#39;e g&ouml;re g&ouml;sterge ile belirttiği şey arasındaki ilişkiyi inceleyen g&ouml;stergebilim bileşeni aşağıdakilerden hangisidir?</strong>
     - A-) S&ouml;zdizim
     - B-) Retorik
     - **Cevap C-) Anlambilim**
@@ -836,12 +871,22 @@ III. Simge<br />
     - D-) Endis
     - **Cevap E-) Sav**
     <hr />
-1. <strong>Foundation of The Theory of Signs (G&ouml;stergeler Kuramının Temelleri)&nbsp; isimli eser aşağıdakilerden hangisine aittir?</strong>
+1. <strong>Foundation of The Theory of Signs (G&ouml;stergeler Kuramının Temelleri) isimli eser aşağıdakilerden hangisine aittir?</strong>
     - A-) Charles Sanders Peirce
     - **Cevap B-) Charles William Morris**
     - C-) Paul de Man
     - D-) Ferdinand de Saussure
     - E-) Michael Riffaterre
+    <hr />
+1. I. &Ouml;nerme<br />
+II. Belirtisel G&ouml;sterge/İndeks<br />
+III. Kavramsal/Kural G&ouml;sterge<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri Peirce&rsquo;in belirlediği &uuml;&ccedil;&uuml;nc&uuml; &ouml;bek i&ccedil;erisinde yer alır?</strong>
+    - A-) Yalnız II
+    - B-) Yalnız III
+    - C-) I, II ve III
+    - **Cevap D-) Yalnız I**
+    - E-) I ve II
     <hr />
 1. <strong>G&ouml;stergebilimi semeotic olarak adlandıran d&uuml;ş&uuml;n&uuml;r kimdir?</strong>
     - A-) Paul de Man
@@ -886,12 +931,20 @@ III. Simge<br />
     - D-) Şiir
     - E-) Ağıt
     <hr />
-1. <strong>S&ouml;zl&uuml; k&uuml;lt&uuml;r&uuml;n &uuml;retimleri olan masallar, romanlar, hik&acirc;yeler ve&nbsp; destanlar gibi i&ccedil;eriklere karşılık gelen metinler aşağıdakilerden hangisidir?</strong>
+1. <strong>S&ouml;zl&uuml; k&uuml;lt&uuml;r&uuml;n &uuml;retimleri olan masallar, romanlar, hik&acirc;yeler ve destanlar gibi i&ccedil;eriklere karşılık gelen metinler aşağıdakilerden hangisidir?</strong>
     - A-) Yazarsıl metinler
     - **Cevap B-) Okurcul metinler**
     - C-) Derin metinler
     - D-) Meteforlar
     - E-) Metonimler
+    <hr />
+1. <b>Aşağıdakilerden hangisi Barthes&#39;in etkilendiği isimlerden biri <u>değildir</u>?</b><br />
+
+    - **Cevap A-) Grunig**
+    - B-) Marx
+    - C-) Freud
+    - D-) Nietzsche
+    - E-) Saussure
     <hr />
 1. <strong>S&ouml;zl&uuml; k&uuml;lt&uuml;r&uuml;n &uuml;retimi olan masallar, romanlar, hik&acirc;yeler ve destanlar gibi i&ccedil;erikler aşağıdakilerden hangisine aittir?</strong>
     - **Cevap A-) Okurcul metin**
@@ -1062,14 +1115,14 @@ III. Simge<br />
     - D-) Vladimir Propp
     - E-) Yuri Tinyanov
     <hr />
-1. <strong>Roman Jakobson ve Pjotr Bogatyrev&rsquo;in &ouml;nc&uuml;l&uuml;ğ&uuml;nde 1915 yılında kurulan ve&nbsp;yapısalcı dilbilim &uuml;zerinde ve yazınbiliminin temellerinin oluşmasında olduk&ccedil;a etkili olan okul aşağıdakilerden hangisidir?</strong> 
+1. <strong>Roman Jakobson ve Pjotr Bogatyrev&rsquo;in &ouml;nc&uuml;l&uuml;ğ&uuml;nde 1915 yılında kurulan ve yapısalcı dilbilim &uuml;zerinde ve yazınbiliminin temellerinin oluşmasında olduk&ccedil;a etkili olan okul aşağıdakilerden hangisidir?</strong> 
     - A-) Paris Okulu
     - B-) Londra Okulu
     - **Cevap C-) Moskova Okulu**
     - D-) Yugoslavya Okulu
     - E-) Prag Okulu
     <hr />
-1. ............................................&nbsp; &ldquo;dışarıdan eleştiri&rdquo; y&ouml;ntemiyle araştırmayı ama&ccedil;layan bakış a&ccedil;ılarına karşılık metnin i&ccedil;indeki &ouml;geleri inceleyerek &ldquo;i&ccedil;eriden eleştiri&rdquo; anlayışını &ccedil;alışmalarına uygulayan ilk kuramcılardır.<br />
+1. ............................................ &ldquo;dışarıdan eleştiri&rdquo; y&ouml;ntemiyle araştırmayı ama&ccedil;layan bakış a&ccedil;ılarına karşılık metnin i&ccedil;indeki &ouml;geleri inceleyerek &ldquo;i&ccedil;eriden eleştiri&rdquo; anlayışını &ccedil;alışmalarına uygulayan ilk kuramcılardır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Rus bi&ccedil;imciler**
     - B-) Alman bi&ccedil;imciler
@@ -1077,7 +1130,7 @@ III. Simge<br />
     - D-) İngiliz bi&ccedil;imciler
     - E-) Fransız bi&ccedil;imciler
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;Rus Bi&ccedil;imciler&#39;in edebiyat ile ilgili belirlediği temel &ouml;zelliklerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Rus Bi&ccedil;imciler&#39;in edebiyat ile ilgili belirlediği temel &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Her t&uuml;rl&uuml; dogma kabul edilmelidir.**
     - B-) Şiirsel olan ya da olmayandan s&ouml;z edilmesi doğru değildir.
     - C-) Uyağı yalnızca bir ses &ouml;gesi olarak ele almayıp bir anlam olgusu, dil bilgisi olarak ele almalıdır.
@@ -1203,7 +1256,7 @@ III. Bir projeye g&ouml;re tasarlanmış &ccedil;ok katı metinlerdir.<br />
 1. <strong>Bir &ouml;yk&uuml;n&uuml;n tek bi&ccedil;imli okunmasına imk&acirc;n sağlayan &ccedil;ok katlı anlambilimsel kategoriler b&uuml;t&uuml;n&uuml;ne ne ad verilir?</strong>
     - **Cevap A-) İzotopi**
     - B-) Hermetizm
-    - C-) Rasyonalizm
+    - C-) Rasyonalizm 
     - D-) İrrasyonalizm
     - E-) Sembolizm
     <hr />
@@ -1217,7 +1270,7 @@ III. Bir projeye g&ouml;re tasarlanmış &ccedil;ok katı metinlerdir.<br />
 1. I. Kodlamanın &ouml;zelliklerini bi&ccedil;imselleştirme yolu ile &uuml;stlenir.<br />
 II. D&ouml;rd&uuml;nc&uuml; aşama olarak kabul edilir.<br />
 III. Bu aşamanın &ouml;rnekleri amblemler, m&uuml;zik harfleri ve matematiksel g&ouml;stergelerdir.<br />
-<strong>Yukarıdaki &ouml;zellikler Eco&#39;nun&nbsp;g&ouml;stergelerin &uuml;retim tarzı tipolojisine ait aşamalarından hangisi ile ilgilidir?</strong>
+<strong>Yukarıdaki &ouml;zellikler Eco&#39;nun g&ouml;stergelerin &uuml;retim tarzı tipolojisine ait aşamalarından hangisi ile ilgilidir?</strong>
     - A-) Fiziksel emek
     - B-) Tanıma
     - C-) Doğrudan g&ouml;sterge (ostensiyon)
@@ -1281,7 +1334,7 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     - D-) Gregory Crewdson
     - **Cevap E-) Paul Strand**
     <hr />
-1. Sahnelenmiş fotoğraf yaklaşımının &ouml;nc&uuml;lerinden biri olan Amerikalı sanat&ccedil;ı .............................&nbsp;&nbsp; &ccedil;eşitli kadın rollerine b&uuml;r&uuml;nerek hem kameranın &ouml;n&uuml;nde performansını ger&ccedil;ekleştirmekte hem de tıpkı bir y&ouml;netmen gibi g&ouml;r&uuml;nt&uuml;leri d&uuml;zenlemekte ve sahnelemektedir.<br />
+1. Sahnelenmiş fotoğraf yaklaşımının &ouml;nc&uuml;lerinden biri olan Amerikalı sanat&ccedil;ı .............................  &ccedil;eşitli kadın rollerine b&uuml;r&uuml;nerek hem kameranın &ouml;n&uuml;nde performansını ger&ccedil;ekleştirmekte hem de tıpkı bir y&ouml;netmen gibi g&ouml;r&uuml;nt&uuml;leri d&uuml;zenlemekte ve sahnelemektedir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Sherrie Levine
     - **Cevap B-) Cindy Sherman**
@@ -1336,7 +1389,7 @@ III. Doğrudanlık<br />
     - **Cevap D-) II ve III**
     - E-) I, II ve III
     <hr />
-1. Charles Sanders Pierce, nesnesiyle olan fiziksel bağından dolayı fotoğrafı&nbsp;&nbsp;&nbsp; .................................&nbsp; olarak kabul etmiştir.<br />
+1. Charles Sanders Pierce, nesnesiyle olan fiziksel bağından dolayı fotoğraf$1 ................................. olarak kabul etmiştir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ikon
     - B-) g&ouml;r&uuml;nt&uuml;sel g&ouml;sterge
@@ -1416,7 +1469,7 @@ III. Doğrudanlık<br />
     - D-) Umberto Eco
     - E-) Wollen
     <hr />
-1. <strong>Metz&rsquo;e g&ouml;re aşağıdakilerden hangisi anlamın &uuml;zerine kurulduğu ve filmi seyrederken dikkat edilen bilgi kanallarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Metz&rsquo;e g&ouml;re aşağıdakilerden hangisi anlamın &uuml;zerine kurulduğu ve filmi seyrederken dikkat edilen bilgi kanallarından biri <u>değildir</u>?</strong>
     - A-) Ekranda okuduğumuz t&uuml;m yazılı maddeyi i&ccedil;eren grafik &ccedil;izimler
     - B-) Kaydedilmiş m&uuml;zikler
     - C-) Kaydedilmiş g&uuml;r&uuml;lt&uuml;ler
@@ -1443,7 +1496,7 @@ III. Y&ouml;nlendirme<br />
 1. I. Belirtisel g&ouml;sterge<br />
 II. G&ouml;r&uuml;nt&uuml;sel g&ouml;sterge<br />
 III. Simgesel g&ouml;sterge<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;Pierce&#39;ın g&ouml;stergebilim alanında ortaya koymuş olduğu g&ouml;sterge tiplerindendir?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri Pierce&#39;ın g&ouml;stergebilim alanında ortaya koymuş olduğu g&ouml;sterge tiplerindendir?</strong> 
     - A-) Yalnız II
     - B-) I ve II
     - C-) I ve III
@@ -1581,8 +1634,8 @@ III. Ses efektleri<br />
     - D-) Kamu yararı g&ouml;zetilmeli
     - E-) Kısa ve a&ccedil;ık c&uuml;mleler kurulmalı
     <hr />
-1. Medya egemen ideolojinin sembolik inşasını oluştururken eylem ya da olguyu kendi g&uuml;ncel ve somut b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n dışında değerlendirir.&nbsp;<br />
-<strong>Bu tanımlama i&ccedil;in aşağıdaki kavramlardan hangisi&nbsp; kullanılır?</strong>
+1. Medya egemen ideolojinin sembolik inşasını oluştururken eylem ya da olguyu kendi g&uuml;ncel ve somut b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n dışında değerlendirir. <br />
+<strong>Bu tanımlama i&ccedil;in aşağıdaki kavramlardan hangisi kullanılır?</strong>
     - A-) Meşrulaştırma
     - **Cevap B-) Kaydırma**
     - C-) Birleştirme
@@ -1614,7 +1667,7 @@ III. Olağandışılık<br />
     - D-) Mavi
     - E-) Yeşil
     <hr />
-1. <strong>Hayat-&ouml;l&uuml;m, zengin-fakir, efendi-k&ouml;le ve kahraman-k&ouml;t&uuml; adam şeklinde birbirleri ile zıt olan fikir veya nesnelerin birlikte verilmesine ne ad verilir?&nbsp;</strong> 
+1. <strong>Hayat-&ouml;l&uuml;m, zengin-fakir, efendi-k&ouml;le ve kahraman-k&ouml;t&uuml; adam şeklinde birbirleri ile zıt olan fikir veya nesnelerin birlikte verilmesine ne ad verilir? </strong> 
     - **Cevap A-) Sembolik kod**
     - B-) Yananlamsal kod
     - C-) Enigmatik kod
@@ -1689,7 +1742,7 @@ III. Ekonomi<br />
     - **Cevap D-) İntak kodu**
     - E-) Eylemsel kod
     <hr />
-1. <strong>&nbsp;L&uuml;ks &uuml;r&uuml;nleri tanıtmak i&ccedil;in yapılan reklamlarda siyah renk aşağıdakilerden hangisini temsil etmektedir?</strong>
+1. <strong> L&uuml;ks &uuml;r&uuml;nleri tanıtmak i&ccedil;in yapılan reklamlarda siyah renk aşağıdakilerden hangisini temsil etmektedir?</strong>
     - **Cevap A-) Asalet**
     - B-) Aşk
     - C-) Enerji
@@ -1827,7 +1880,7 @@ III. Kullanım engeli<br />
     - D-) Enformasyon &uuml;zerinde her zaman g&uuml;ncelleme yapma olanaklı olmuştur.
     - **Cevap E-) Enformasyonun &uuml;retimi ve dağıtımı y&uuml;ksek maliyet gerektirmiştir.**
     <hr />
-1. <strong>&quot;Dolapta eksik olan gıda maddelerini alışveriş listesi h&acirc;linde cep telefonumuza g&ouml;nderen buzdolapları veya hangi otob&uuml;s&uuml;n durağa yaklaşmak &uuml;zere olduğunu bildiren akıllı duraklar&hellip;&quot;&nbsp;ifadesinde ge&ccedil;en &ouml;rnekleri m&uuml;mk&uuml;n kılan teknoloji aşağıdakilerden hangisidir?</strong>
+1. <strong>&quot;Dolapta eksik olan gıda maddelerini alışveriş listesi h&acirc;linde cep telefonumuza g&ouml;nderen buzdolapları veya hangi otob&uuml;s&uuml;n durağa yaklaşmak &uuml;zere olduğunu bildiren akıllı duraklar&hellip;&quot; ifadesinde ge&ccedil;en &ouml;rnekleri m&uuml;mk&uuml;n kılan teknoloji aşağıdakilerden hangisidir?</strong>
     - A-) Artırılmış ger&ccedil;eklik
     - B-) Giyilebilir teknoloji
     - C-) Etkileşimli internet
@@ -1841,7 +1894,7 @@ III. Kullanım engeli<br />
     - D-) Dijital gecikenler
     - E-) Dijital milenyumlar
     <hr />
-1. <strong>Dijital b&ouml;l&uuml;nmenin teknolojik, sosyolojik ve ekonomik dezavantajları nedeniyle bilgi ve iletişim teknolojilerine erişimden yoksun olanlar ile olmayanlar arasındaki farklılığı işaret eden seviyesi anlamına gelen ifade aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Dijital b&ouml;l&uuml;nmenin teknolojik, sosyolojik ve ekonomik dezavantajları nedeniyle bilgi ve iletişim teknolojilerine erişimden yoksun olanlar ile olmayanlar arasındaki farklılığı işaret eden seviyesi anlamına gelen ifade aşağıdakilerden hangisidir? </strong>
     - A-) Kurumsal seviye
     - **Cevap B-) Bireysel seviye**
     - C-) K&uuml;resel seviye

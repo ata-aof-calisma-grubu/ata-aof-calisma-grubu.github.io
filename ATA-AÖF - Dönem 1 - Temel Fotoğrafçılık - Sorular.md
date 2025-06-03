@@ -35,7 +35,7 @@ III. Ekonomik olması<br />
 II. Fotoğrafın ilk yıllarında kendini g&ouml;steren resimsel fotoğraf eğilimi<br />
 III. Bir stat&uuml; aracı olarak kullanılması<br />
 IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatın acımasız y&ouml;n&uuml;n&uuml; g&uuml;ndeme getirme &ccedil;abaları<br />
-<strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya &ccedil;ıkmasında&nbsp;</strong><strong>&nbsp;etkili olmuştur?</strong>
+<strong>Yukarıdakilerden hangileri b</strong><strong>elgesel fotoğrafın ortaya &ccedil;ıkmasında </strong><strong> etkili olmuştur?</strong>
     - A-) I ve II
     - B-) I ve III
     - C-) I, II ve III
@@ -92,7 +92,7 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) Kitle İletişimi
     - **Cevap E-) K&uuml;resel İletişim**
     <hr />
-1. <strong>Yunanca pictus (resim) ve graphos (&ccedil;izmek) s&ouml;zc&uuml;klerinin</strong><strong>&nbsp;bir araya gelerek oluşturduğu, resim yazı anlamına gelen ve en eski iletişim bi&ccedil;imi olarak kabul edilen kavram aşağıdakilerden hangisidir?</strong>
+1. <strong>Yunanca pictus (resim) ve graphos (&ccedil;izmek) s&ouml;zc&uuml;klerinin</strong><strong> bir araya gelerek oluşturduğu, resim yazı anlamına gelen ve en eski iletişim bi&ccedil;imi olarak kabul edilen kavram aşağıdakilerden hangisidir?</strong>
     - A-) Fotoğraf
     - **Cevap B-) Piktogram**
     - C-) Fonogram
@@ -151,7 +151,7 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) Reklam fotoğraf
     - E-) Soyut fotoğraf
     <hr />
-1. Papir&uuml;s ve duvar &uuml;zerine yapılan ilk &ccedil;izimler hik&acirc;yeleri iletme amacı taşırken; Mısır&rsquo;da ka&ccedil;an esirleri bulup getirene &ouml;d&uuml;l verileceğini duyuran papir&uuml;sler, esirlerin fiyat ve &ouml;zelliklerinin kazındığı duvarlar ..................&nbsp; olarak kabul edilirler.<br />
+1. Papir&uuml;s ve duvar &uuml;zerine yapılan ilk &ccedil;izimler hik&acirc;yeleri iletme amacı taşırken; Mısır&rsquo;da ka&ccedil;an esirleri bulup getirene &ouml;d&uuml;l verileceğini duyuran papir&uuml;sler, esirlerin fiyat ve &ouml;zelliklerinin kazındığı duvarlar .................. olarak kabul edilirler.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ilk &ccedil;izim &ouml;rnekleri
     - B-) ilk resim &ouml;rnekleri
@@ -174,14 +174,14 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) 1903
     - E-) 1920
     <hr />
-1. <strong>M&Ouml; 5. y&uuml;zyılda&nbsp; ışık ya da objelerin hareket etmesiyle g&ouml;lgenin de hareket edeceği ilkesini tespit eden d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+1. <strong>M&Ouml; 5. y&uuml;zyılda ışık ya da objelerin hareket etmesiyle g&ouml;lgenin de hareket edeceği ilkesini tespit eden d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Aristoteles
     - B-) Levi Ben Gerson
     - C-) İbni Heysem
     - D-) Leonordo Da Vinci
     - **Cevap E-) Mo Ti**
     <hr />
-1. <strong>Fotoğrafın gelişimine &ouml;nemli katkıları olan isimlerden 13. y&uuml;zyılda yaşamış İngiliz Profes&ouml;r Roger Bacon ile ilgili aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Fotoğrafın gelişimine &ouml;nemli katkıları olan isimlerden 13. y&uuml;zyılda yaşamış İngiliz Profes&ouml;r Roger Bacon ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İbni Heysem&rsquo;in optik &ccedil;alışmaları &uuml;zerine okumalar yaparak astronomi alanında yoğunlaşmıştır.
     - **Cevap B-) Nesneleri olduğu gibi bir y&uuml;zeye &ccedil;izme yolu olarak tanımlanabilecek perspektifi bulan ilk kişidir.**
     - C-) Bacon&rsquo;un &ccedil;alışmaları doğrudan karanlık kutu &uuml;zerine değildir.
@@ -209,14 +209,14 @@ IV. Birinci D&uuml;nya Savaşı sonrası yaşanan sorunlarda insanların hayatı
     - D-) Perspektif
     - E-) G&ouml;r&uuml;nt&uuml; &ccedil;oğaltma
     <hr />
-1. <strong>Tarihte&nbsp;y&uuml;zey &uuml;zerine&nbsp;g&ouml;r&uuml;nt&uuml;y&uuml; kaydeden ilk kişi aşağıdakilerden hangisidir?</strong>
+1. <strong>Tarihte y&uuml;zey &uuml;zerine g&ouml;r&uuml;nt&uuml;y&uuml; kaydeden ilk kişi aşağıdakilerden hangisidir?</strong>
     - A-) İbn&uuml;&rsquo;l-Heysem
     - B-) Aritoteles
     - C-) W. H. Talbot
     - **Cevap D-) J. N.Niepce**
     - E-) L. M. Daguerre
     <hr />
-1. <strong>Tarihte ilk fotoğraf olarak kabul edilen ve&nbsp;Niepce&#39;nin&nbsp;evinin penceresinden aldığı ilk g&ouml;r&uuml;nt&uuml;leri maden ve taş &uuml;zerine kaydettiği y&ouml;nteme ne ad verilir?</strong>
+1. <strong>Tarihte ilk fotoğraf olarak kabul edilen ve Niepce&#39;nin evinin penceresinden aldığı ilk g&ouml;r&uuml;nt&uuml;leri maden ve taş &uuml;zerine kaydettiği y&ouml;nteme ne ad verilir?</strong>
     - **Cevap A-) Helyografi**
     - B-) Kalotip
     - C-) Daguerretip
@@ -303,7 +303,7 @@ III. Adını koyan bilim adamı Johannes Kepler olmuştur.<br />
 1. I. Leonardo Da Vinci &ccedil;alışmalarıyla camera obscura ile saydam olan maddeler yardımıyla ışık ışınlarını toplayıp onları bir y&uuml;zeye ileterek g&ouml;r&uuml;nt&uuml; elde edilmiştir.<br />
 II. Karanlık kutunun &ouml;n&uuml;ne dış b&uuml;key iki mercek koyarak daha iyi g&ouml;r&uuml;nt&uuml; elde etme fikrini geliştiren Daniello Barbaro mercek kullanmanın g&ouml;r&uuml;nt&uuml; kalitesini artırdığını &ouml;ne s&uuml;rm&uuml;şt&uuml;r.<br />
 III. Giovanni Battista Della Porta, Doğa B&uuml;y&uuml;s&uuml; adlı eserinde karanlık kutunun &ccedil;alışma prensibini ayrıntılı bir bi&ccedil;imde vererek g&ouml;r&uuml;nt&uuml;y&uuml; daha net elde etmenin &ccedil;eşitli y&ouml;ntemlerini ortaya koymuştur.<br />
-IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan&nbsp;aynadaki yansıma kuralı ile g&ouml;r&uuml;nt&uuml;n&uuml;n baş aşağı g&ouml;r&uuml;lme durumunu gidermiştir.<br />
+IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan aynadaki yansıma kuralı ile g&ouml;r&uuml;nt&uuml;n&uuml;n baş aşağı g&ouml;r&uuml;lme durumunu gidermiştir.<br />
 <strong>Fotoğrafın gelişim s&uuml;recine sunulan katkılarla ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) I ve II
@@ -487,14 +487,14 @@ IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan&nbs
     - D-) Daguerre &ldquo;Daguerreotype&rdquo; y&ouml;ntemini bulmuş, g&ouml;r&uuml;nt&uuml;y&uuml; sabitleştirmiştir.
     - E-) Kodak firması k&uuml;&ccedil;&uuml;k ebatdaki fotoğraf makineleri ile fotoğraf&ccedil;ılığın gelişmesine katkıda bulunmuştur.
     <hr />
-1. <strong>Genellikle&nbsp;</strong><strong>amat&ouml;r kullanıcılar i&ccedil;in &uuml;retilmiş, o</strong><strong>bjektifi makinenin g&ouml;vdesiyle birleşik olan zoom &ouml;zellikli fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Genellikle </strong><strong>amat&ouml;r kullanıcılar i&ccedil;in &uuml;retilmiş, o</strong><strong>bjektifi makinenin g&ouml;vdesiyle birleşik olan zoom &ouml;zellikli fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Leica makineler
     - B-) Stereoskopik makineler
     - C-) Paralaks makineler
     - **Cevap D-) Kompakt makineler**
     - E-) Dijital SLR makineler
     <hr />
-1. <strong>William Henry Fox Talbot&nbsp;aşağıdaki yeniliklerden hangisini geliştirmiştir?</strong>
+1. <strong>William Henry Fox Talbot aşağıdaki yeniliklerden hangisini geliştirmiştir?</strong>
     - **Cevap A-) İlk negatif/pozitif tekniği**
     - B-) İlk ışık/renk tekniği
     - C-) İlk g&ouml;r&uuml;nt&uuml; tekniği
@@ -503,10 +503,10 @@ IV. Johannes Kepler, daha sonraki fotoğraf makinelerinde kullanılacak olan&nbs
     <hr />
 1. <strong>Aşağıdaki fotoğraf makinalarından hangisi 1970&rsquo;li yıllarda geliştirilmiştir?</strong>
     - A-) Katlanabilir Fotoğraf Makinesi
-    - **Cevap B-) &nbsp;SLR Şipşak Fotoğraf Makinesi**
+    - **Cevap B-) SLR Şipşak Fotoğraf Makinesi**
     - C-) Stereoskopik Fotoğraf Makinesi
-    - D-) &nbsp;Kutu T&uuml;r&uuml; Fotoğraf Makinesi
-    - E-) &nbsp;Leica Fotoğraf Makinesi
+    - D-) Kutu T&uuml;r&uuml; Fotoğraf Makinesi
+    - E-) Leica Fotoğraf Makinesi
     <hr />
 1. <strong>Aşağıdakilerden hangisi 1813&#39;te ışığa duyarlı bir levha &uuml;zerinde, kalıcı g&ouml;r&uuml;nt&uuml;leri elde etmek i&ccedil;in 8 saat boyunca ışıklandırarak g&ouml;r&uuml;nt&uuml;leri sabitlemeyi başarmıştır?</strong>
     - A-) İbn-i Heysem (Alhazen)
@@ -582,14 +582,14 @@ III. Anlamın sınırsız okunmasına imk&acirc;n sağlamaktadır.<br />
     - D-) Yıldız Kamuran
     - E-) Sevil Sert
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Cumhuriyet&rsquo;in ilk yıllarında fotoğraf&ccedil;ılıkta egemen olan Romantik Akım&rsquo;ın &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi </strong><strong>Cumhuriyet&rsquo;in ilk yıllarında fotoğraf&ccedil;ılıkta egemen olan Romantik Akım&rsquo;ın &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
     - A-) T&uuml;rkiye&rsquo;nin tanıtımı hedeflenmiştir.
     - B-) İnkılapların yerleşmesine &ccedil;alışılmıştır.
     - C-) &Uuml;lkenin g&uuml;zellikleri fotoğraflanmıştır.
     - D-) Manzara fotoğraf&ccedil;ılığı gelişmiştir.
     - **Cevap E-) Sosyal ger&ccedil;ek&ccedil;i fotoğraflar &ccedil;ekilmiştir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>1980 Sonrası Fotoğraf&ccedil;ılık Akımı&#39;nın &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi </strong><strong>1980 Sonrası Fotoğraf&ccedil;ılık Akımı&#39;nın &ouml;zellikleri arasında <u>yer almaz</u>?</strong> 
     - A-) Kurgusaldır.
     - **Cevap B-) Ger&ccedil;ek&ccedil;idir.**
     - C-) Bireyseldir.
@@ -737,8 +737,8 @@ III. Ferit İbrahim<br />
     - D-) Veri aktarımı yapmak i&ccedil;in kullanılan tuşa denir.
     - E-) Fotoğraf makinelerinde &ccedil;ekim modlarının bulunduğu d&uuml;ğmedir.
     <hr />
-1. I.&nbsp; &nbsp;Zoom halkası b&uuml;t&uuml;n lenslerde bulunmaktadır.<br />
-II.&nbsp; Lensin &uuml;zerinde &ouml;rneğin 18-55 mm gibi iki değer varsa bu lens değişken odaklı bir objektiftir ve zoom halkası&nbsp; vardır.<br />
+1. I. Zoom halkası b&uuml;t&uuml;n lenslerde bulunmaktadır.<br />
+II. Lensin &uuml;zerinde &ouml;rneğin 18-55 mm gibi iki değer varsa bu lens değişken odaklı bir objektiftir ve zoom halkası vardır.<br />
 III. Lenste tek bir a&ccedil;ı değeri varsa bu lens sabit odaklı bir objektiftir ve zoom halkası bulunmamaktadır.<br />
 <strong>Zoom halkası ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
     - **Cevap A-) Yalnız I**
@@ -747,7 +747,7 @@ III. Lenste tek bir a&ccedil;ı değeri varsa bu lens sabit odaklı bir objektif
     - D-) II ve III
     - E-) I, II ve III
     <hr />
-1. <strong>Aşağıdakilerden hangisi bataryayı daha verimli kullanmak i&ccedil;in alınması gereken &ouml;nlemlerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bataryayı daha verimli kullanmak i&ccedil;in alınması gereken &ouml;nlemlerden biri <u>değildir</u>?</strong>
     - A-) Gereksiz yere flaş kullanmaktan sakınmak
     - B-) Makineyi gereğinden fazla şarj etmekten ka&ccedil;ınmak
     - **Cevap C-) &Ccedil;ekilen video ve fotoğrafları makineden tekrar tekrar izlemek**
@@ -860,11 +860,11 @@ III. Lenste tek bir a&ccedil;ı değeri varsa bu lens sabit odaklı bir objektif
     - E-) Lens &ccedil;ıkarma d&uuml;ğmesi
     <hr />
 1. <strong>Yeni nesil fotoğraf makinelerinde video &ccedil;ekerken daha kaliteli ses almak i&ccedil;in kullanılan giriş aşağıdakilerden hangisidir?</strong>
-    - A-) HDMI
-    - B-) USB
-    - **Cevap C-) Haric&icirc; mikrofon&nbsp;**
-    - D-) Haric&icirc; flaş yuvası
-    - E-) Hafıza kartı
+    - A-) HDMI 
+    - B-) USB 
+    - **Cevap C-) Haric&icirc; mikrofon**
+    - D-) Haric&icirc; flaş yuvası 
+    - E-) Hafıza kartı 
     <hr />
 1. <strong>&Ccedil;ekim esnasında oluşabilecek k&uuml;&ccedil;&uuml;k titreşimleri engellemek i&ccedil;in aşağıdakilerden hangisi kullanılır?</strong>
     - A-) Netlik kilitleme d&uuml;ğmesi
@@ -903,13 +903,13 @@ III. Lenste tek bir a&ccedil;ı değeri varsa bu lens sabit odaklı bir objektif
     <hr />
 1. <strong>Fotoğraf makinesinin ana yapısını oluşturan iki mekanizma aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Objektif ve g&ouml;vde**
-    - B-) Batarya ve&nbsp;mod kadranı
+    - B-) Batarya ve mod kadranı
     - C-) Viz&ouml;r ve flaş kızağı
     - D-) Deklanş&ouml;r ve hafıza kartı
     - E-) LCD ekran ve zoom halkası
     <hr />
-1. I.&nbsp; &nbsp;Netlik kilitleme d&uuml;ğmesi<br />
-II.&nbsp; Hafıza kartı<br />
+1. I. Netlik kilitleme d&uuml;ğmesi<br />
+II. Hafıza kartı<br />
 III. Objektif (lens) değerleri<br />
 IV. Vibrasyon d&uuml;ğmesi<br />
 <strong>Yukarıdakilerden hangileri objektif &uuml;zerinde bulunan mekanizmalar arasında yer alır?</strong>
@@ -1036,7 +1036,7 @@ III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince met
     - D-) F/durak
     - E-) Enstantane
     <hr />
-1. <strong>Bir fotoğrafta net olarak g&ouml;r&uuml;len&nbsp;alanı ifade eden kavram aşağıdakilerden hangisidir?</strong>
+1. <strong>Bir fotoğrafta net olarak g&ouml;r&uuml;len alanı ifade eden kavram aşağıdakilerden hangisidir?</strong>
     - A-) ISO
     - B-) Enstantane
     - C-) Diyafram boyutu
@@ -1074,7 +1074,7 @@ III. Objektif dışındaki kontrol halkasının hareket ettirilmesiyle, ince met
 1. <strong>Diyafram ve enstantanenin yetersiz kaldığı durumlarda ışığın şiddetini arttırmak ya da azaltmak i&ccedil;in kullanılan ayar aşağıdakilerden hangisidir?</strong>
     - A-) Enstantane
     - B-) Alan derinliği
-    - **Cevap C-) ISO&nbsp;**
+    - **Cevap C-) ISO**
     - D-) Odak noktası
     - E-) Diyafram boyutu
     <hr />
@@ -1139,7 +1139,7 @@ III. Enstantane değeri (ışığın giriş s&uuml;resi)<br />
     - D-) Işığın kararması/Yarı alan derinliği
     - E-) Işığın kontrol&uuml;/Yarı alan derinliği
     <hr />
-1. Bir nesnenin g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml;n istenilen bi&ccedil;imde &ccedil;ekilmesi i&ccedil;in cisimlerin &uuml;zerine d&uuml;şen ya da etrafındaki ışık miktarını ayarlamak i&ccedil;in enstantane ayarına uygun bir ............ ayarı yapılmalıdır.&nbsp;<br />
+1. Bir nesnenin g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml;n istenilen bi&ccedil;imde &ccedil;ekilmesi i&ccedil;in cisimlerin &uuml;zerine d&uuml;şen ya da etrafındaki ışık miktarını ayarlamak i&ccedil;in enstantane ayarına uygun bir ............ ayarı yapılmalıdır. <br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) flaş
     - B-) vibrasyon d&uuml;ğmesi
@@ -1147,7 +1147,7 @@ III. Enstantane değeri (ışığın giriş s&uuml;resi)<br />
     - D-) mod kadranı
     - E-) USB girişi
     <hr />
-1. <strong>Aşağıdakilerden hangisi b&uuml;t&uuml;n dijital fotoğraf makinelerinde kullanılan bir &ouml;zelliğe sahiptir?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi b&uuml;t&uuml;n dijital fotoğraf makinelerinde kullanılan bir &ouml;zelliğe sahiptir? </strong>
     - A-) Gelişmiş diyafram
     - B-) Otomatik kontroll&uuml; diyafram
     - C-) Uzun diyafram
@@ -1169,7 +1169,7 @@ III. Enstantane değeri (ışığın giriş s&uuml;resi)<br />
     - D-) Fotoğraf tamamen flu olacaktır.
     - E-) B&ouml;yle durumlarda &ouml;zellikle elde d&uuml;ş&uuml;k enstantane değerlerinde fotoğraf &ccedil;ekerken tripot (&uuml;&ccedil; ayak) kullanmak gerekir.
     <hr />
-1. <strong>Fotoğraf makinelerinde 30 saniyelik pozlama s&uuml;resinden daha uzun bir pozlamaya ihtiya&ccedil; duyulan durumlarda&nbsp; yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinelerinde 30 saniyelik pozlama s&uuml;resinden daha uzun bir pozlamaya ihtiya&ccedil; duyulan durumlarda yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) BULB modu (B)**
     - B-) Manuel mod (M)
     - C-) Otomatik pozlama modu (A/AV)
@@ -1310,7 +1310,7 @@ III. Daha &ccedil;ok compact olarak adlandırılır.<br />
     - D-) Odak noktası
     - E-) Pozlama
     <hr />
-1. ........ değeri ne kadar azsa, &ccedil;ekilen fotoğraflar da o kadar keskin ve detaylı olur. Başka bir ifadeyle mecbur kalmadık&ccedil;a fotoğraf &ccedil;ekimlerinde ........ ..... kullanımından ka&ccedil;ınılmalıdır.&nbsp;<br />
+1. ........ değeri ne kadar azsa, &ccedil;ekilen fotoğraflar da o kadar keskin ve detaylı olur. Başka bir ifadeyle mecbur kalmadık&ccedil;a fotoğraf &ccedil;ekimlerinde ........ ..... kullanımından ka&ccedil;ınılmalıdır. <br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) ISO-Diyafram
     - B-) İris-Bulp
@@ -1338,7 +1338,7 @@ III. Daha &ccedil;ok compact olarak adlandırılır.<br />
 II. Sıkıştırmadan kaynaklı &ccedil;eşitli sorunları i&ccedil;ermediğinden dolayı tercih edilen bir format bi&ccedil;imidir.<br />
 III. G&ouml;rsel &uuml;r&uuml;nlerin kullanıldığı alanlarda standart ge&ccedil;erlilikte bir yapı olup hem PC hem de Macintosh gibi farklı platformlarda &ccedil;alışabilir.<br />
 IV. Kaydedilen fotoğrafın depolama boyutunu on katına kadar &ccedil;ıkarması dezavantajı olarak g&ouml;r&uuml;l&uuml;r.<br />
-<strong>TIFF kayıt formatı ile ilgili olarak yukarıdakilerden hangisi&nbsp; ya da hangileri doğrudur?</strong>
+<strong>TIFF kayıt formatı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) I ve III
     - C-) I, II ve III
@@ -1356,7 +1356,7 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - D-) Merkez Ağırlıklı &Ouml;l&ccedil;&uuml;m Y&ouml;ntemi
     - E-) &Ccedil;ok B&ouml;lgeli &Ouml;l&ccedil;&uuml;m Y&ouml;ntemi
     <hr />
-1. .......................&nbsp; ayarları ile g&ouml;lgeler azaltılarak fotoğraftaki karanlık b&ouml;lgeler arındırılmış olur.<br />
+1. ....................... ayarları ile g&ouml;lgeler azaltılarak fotoğraftaki karanlık b&ouml;lgeler arındırılmış olur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Whites - blacks
     - B-) Highlights
@@ -1364,7 +1364,7 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - D-) White balance
     - **Cevap E-) Shadows**
     <hr />
-1. <strong>Fotoğrafta genelde turuncu/sarı tonların h&acirc;kim olduğu ve&nbsp;3200 Kelvin&rsquo;e g&ouml;re ayarlanmış sıcaklık değeri aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğrafta genelde turuncu/sarı tonların h&acirc;kim olduğu ve 3200 Kelvin&rsquo;e g&ouml;re ayarlanmış sıcaklık değeri aşağıdakilerden hangisidir?</strong>
     - A-) G&uuml;n ışığı (Daylight)
     - B-) G&ouml;lge (Shade)
     - C-) Bulutlu (Cloudy)
@@ -1377,6 +1377,13 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - C-) &Ccedil;ekim pozlama telafisi ayarları
     - D-) ND filtre ayarları
     - **Cevap E-) Basamaklı pozlama (Auto Bracketing) ayarları**
+    <hr />
+1. <strong>Fotoğrafta oluşacak beyaz veya parlak ışıkları ortadan kaldırarak orantılı bir aydınlığa sahip kareler yakalamak i&ccedil;in makinede yapılması gereken ayar aşağıdakilerden hangisidir?</strong>
+    - A-) Color space
+    - **Cevap B-) Highlights**
+    - C-) Shadows
+    - D-) HDR mode
+    - E-) Picture style
     <hr />
 1. <strong>Işığın viz&ouml;r&uuml;n orta kısmından y&uuml;zde 70&rsquo;ini, kalan y&uuml;zde 30&rsquo;u ise g&ouml;r&uuml;nt&uuml;n&uuml;n diğer kısmı olan kenarlardan aldığı, portre veya ters ışık &ccedil;ekimleri i&ccedil;in &ouml;nerilen &ouml;l&ccedil;&uuml;m modu aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Merkez ağırlıklı ortalama**
@@ -1490,7 +1497,7 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - D-) &Ccedil;ok B&ouml;lgeli &Ouml;l&ccedil;&uuml;m Y&ouml;ntemi
     - E-) Basit &Ouml;l&ccedil;&uuml;m Y&ouml;ntemi
     <hr />
-1. <strong>Genelde soğuk mavi bir tona sahip olan ve&nbsp;4000-5000 Kelvin&rsquo;e g&ouml;re ayarlanan beyaz ayarı aşağıdakilerden hangisidir?</strong>
+1. <strong>Genelde soğuk mavi bir tona sahip olan ve 4000-5000 Kelvin&rsquo;e g&ouml;re ayarlanan beyaz ayarı aşağıdakilerden hangisidir?</strong>
     - A-) Ampul (Tungsten) WB
     - B-) Otomatik (Auto) WB
     - **Cevap C-) Floresan (Fluorescent) WB**
@@ -1498,9 +1505,9 @@ IV. Daha &ccedil;ok makro &ccedil;ekimler ve dramatik bir vurgu yapılmak istene
     - E-) Bulutlu (Cloudy) WB
     <hr />
 1. I. Bir&ccedil;ok makinede poz telafisi i&ccedil;in perde hızını değiştiren bir &ccedil;ekim modudur.<br />
-II.&nbsp;Bazı makinelerde farklılıklar g&ouml;sterebilmektedir.<br />
+II. Bazı makinelerde farklılıklar g&ouml;sterebilmektedir.<br />
 III. Her makinenin kendi kullanım kılavuzunda bu &ouml;zelliğin nasıl kullanılacağına dair bilgilere bakmak faydalı olacaktır .<br />
-IV.&nbsp;Genellikle fotoğrafa yeni başlayanların tercih edeceği bir &ccedil;ekim modudur.<br />
+IV. Genellikle fotoğrafa yeni başlayanların tercih edeceği bir &ccedil;ekim modudur.<br />
 <strong>Yukarıda &ouml;zellikleri sıralanan &ccedil;ekim modu hangisidir?</strong>
     - A-) Enstantane &ouml;ncelikli mod
     - B-) Diyafram &ouml;ncelikli mod
@@ -1509,7 +1516,7 @@ IV.&nbsp;Genellikle fotoğrafa yeni başlayanların tercih edeceği bir &ccedil;
     - E-) Speed modu
     <hr />
 ## Unite 9
-1. <strong>Fotoğraf &ccedil;ekerken g&ouml;r&uuml;nt&uuml;de optik bozulma yaşanmasının nedeni aşağıdakilerden&nbsp; hangisidir?</strong>
+1. <strong>Fotoğraf &ccedil;ekerken g&ouml;r&uuml;nt&uuml;de optik bozulma yaşanmasının nedeni aşağıdakilerden hangisidir?</strong>
     - A-) Diyafram a&ccedil;ıklığını ayarlanamaması
     - B-) Objektif kalitesi
     - C-) Konunun hareketli olması
@@ -1527,7 +1534,7 @@ IV. DX formatının oluşturduğu g&ouml;r&uuml;nt&uuml;ye full frame (tam &cced
     - D-) I, II ve IV
     - E-) I, III ve IV
     <hr />
-1. <strong>Işığın bir u&ccedil;tan diğer uca ge&ccedil;erek son olarak duyarlı y&uuml;zeye ge&ccedil;mesini sağlamak amacıyla belli bir sırayla d&uuml;zenlenmiş, ince veya kalın kenarlı merceklerden oluşan&nbsp; par&ccedil;aya ne ad verilir?</strong>
+1. <strong>Işığın bir u&ccedil;tan diğer uca ge&ccedil;erek son olarak duyarlı y&uuml;zeye ge&ccedil;mesini sağlamak amacıyla belli bir sırayla d&uuml;zenlenmiş, ince veya kalın kenarlı merceklerden oluşan par&ccedil;aya ne ad verilir?</strong>
     - A-) Flaş
     - **Cevap B-) Objektif (Lens)**
     - C-) Diyafram
@@ -1560,7 +1567,7 @@ V. G&ouml;r&uuml;nt&uuml;deki renklerin tonlarını değiştirmeden renk doygunl
     - **Cevap D-) Makro objektif**
     - E-) Geniş a&ccedil;ılı objektif
     <hr />
-1. <strong>Aşağıdaki tanımlamalardan hangisi <u>yanlıştır</u>?&nbsp;</strong>
+1. <strong>Aşağıdaki tanımlamalardan hangisi <u>yanlıştır</u>? </strong>
     - A-) Odak noktası, mercekten ge&ccedil;en ışınların birleştiği noktadır.
     - B-) Odak uzaklığı, odak noktası ile duyarkat arasındaki mesafedir.
     - C-) G&ouml;r&uuml;ş alanı, viz&ouml;rden bakıldığında g&ouml;r&uuml;lebilen alandır.
@@ -1594,6 +1601,13 @@ V. G&ouml;r&uuml;nt&uuml;deki renklerin tonlarını değiştirmeden renk doygunl
     - **Cevap C-) Alan derinlikleri fazladır.**
     - D-) Odak uzaklığı normal objektiften fazladır.
     - E-) 100 mm&rsquo;nin &uuml;zerindeki objektifler dar a&ccedil;ılı objektif olarak kabul edilir.
+    <hr />
+1. <strong>Siyah-beyaz fotoğraf&ccedil;ılıkta kontrast azaltmak i&ccedil;in aşağıdaki filtrelerden hangisi kullanılır?</strong>
+    - **Cevap A-) Mavi filtre**
+    - B-) Kırmızı filtre
+    - C-) Turuncu filtre
+    - D-) Mor filtre
+    - E-) Sarı filtre
     <hr />
 1. <strong>Objektifin işlevleri ve &ouml;zellikleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Konudan yansıyan ışığın kamera i&ccedil;indeki y&uuml;zeye d&uuml;şmesini sağlar.
@@ -1658,7 +1672,7 @@ V. G&ouml;r&uuml;nt&uuml;deki renklerin tonlarını değiştirmeden renk doygunl
     - D-) Mercek
     - E-) Odak uzaklığı
     <hr />
-1. <strong>Aşağıdakilerden hangisi g</strong><strong>eniş a&ccedil;ılı objektiflerin &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g</strong><strong>eniş a&ccedil;ılı objektiflerin &ouml;zellikleri arasında <u>yer almaz</u>?</strong> 
     - **Cevap A-) Uzun odak uzaklıklı objektiflerdir.**
     - B-) Alan derinlikleri fazladır.
     - C-) Odak uzaklıkları 45 mm&rsquo;den azdır.
@@ -1680,9 +1694,9 @@ V. G&ouml;r&uuml;nt&uuml;deki renklerin tonlarını değiştirmeden renk doygunl
     - D-) Renk sapması
     - **Cevap E-) Objektif hızı**
     <hr />
-1. <strong>Aşağıdakilerden hangisi makro objektiflerin &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi makro objektiflerin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) Makro objektifler, daha yakında bulunan veya daha k&uuml;&ccedil;&uuml;k nesnelerin g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml; yakalamaya imk&acirc;n tanır.
-    - B-) Makro objektifler, kısa mesafede alan derinliği oluşturarak&nbsp;nesneye odaklanmayı sağlar.
+    - B-) Makro objektifler, kısa mesafede alan derinliği oluşturarak nesneye odaklanmayı sağlar.
     - C-) Makro objektiflerin en &ouml;nemli &ouml;zelliği, konuyu birebir (1:1) oranla veya b&uuml;y&uuml;terek (1:2, 1:3, 1:4) kaydetmesidir.
     - **Cevap D-) Odak uzaklığı 50 ila 100 mm değerine sahip olan makro objektifler konuya en azla 20 mm&rsquo;ye kadar yakınlaşma imk&acirc;nı verir.**
     - E-) Makro objektiflerin yakındaki nesneye netlik yapabilme kapasitesi diğer objektiflere g&ouml;re daha fazladır.
@@ -1727,7 +1741,7 @@ III. Fotoğraf&ccedil;ı ile konu arasındaki mesafe minimum d&uuml;zeyde olduğ
     - D-) Birden fazla g&ouml;r&uuml;nt&uuml; bir araya getirilemez.
     - E-) Orijinal g&ouml;r&uuml;nt&uuml;n&uuml;n i&ccedil;eriğini değiştirilmemesi koşuluyla kontrast ve tonlama ayarı yapılabilir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>portre fotoğraf&ccedil;ılığında dar a&ccedil;ılı objektif kullanılmasının nedenleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi </strong><strong>portre fotoğraf&ccedil;ılığında dar a&ccedil;ılı objektif kullanılmasının nedenleri arasında <u>yer almaz</u>?</strong>
     - A-) Kadrajı kişinin başıyla doldurulmak istenmesi
     - B-) Fotoğraf&ccedil;ı ile konunun arasındaki mesafenin az olması
     - C-) Konunun arka plandan ayrılması
@@ -1768,6 +1782,13 @@ III. Fotoğraf&ccedil;ı ile konu arasındaki mesafe minimum d&uuml;zeyde olduğ
     - C-) Daha kısa odak uzaklığına sahip objektif kullanılmalıdır.
     - D-) Odak d&uuml;zlemi ile konu d&uuml;zlemi arasında paralellik sağlanmalıdır.
     - **Cevap E-) Pozlama s&uuml;resi arttırılmalıdır.**
+    <hr />
+1. <strong>Vahşi yaşam fotoğraf&ccedil;ılığında genellikle hangi objektifler tercih edilir?</strong>
+    - A-) Balıkg&ouml;z&uuml; objektifler
+    - B-) Kısa odak uzaklıklı objektifler
+    - C-) Makro objektifler
+    - **Cevap D-) Teleobjektifler**
+    - E-) Geniş a&ccedil;ılı objektifler
     <hr />
 1. <strong>Konuya g&ouml;re objektif se&ccedil;iminde etkili olan temel nedenler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong> 
     - A-) Konunun genişliği
@@ -1857,10 +1878,17 @@ III. Soyut<br />
     - E-) Odak noktası her zaman i&ccedil;in konunun g&ouml;zleri olmalıdır. B&ouml;ylece diğer alanlar bulanık &ccedil;ıksa da konunun net g&ouml;r&uuml;nt&uuml;s&uuml; elde edilebilir.
     <hr />
 ## Unite 11
+1. <strong>Aşağıdakilerden hangisi her pozlamadan sonra kameranın konumunun ve yakınlaştırma seviyesinin değiştiği zaman aralıklı bir fotoğraf&ccedil;ılık tekniğidir?</strong>
+    - A-) Portfolyo tekniği
+    - B-) Timelapse tekniği
+    - C-) Panaromik &ccedil;ekim tekniği
+    - **Cevap D-) Hyperlapse tekniği**
+    - E-) High Dynamic Range tekniği
+    <hr />
 1. I. Roma İmparatorluğu devrinde, kendi işlerini idare edemeyecek kişilere, hastalara, reşit olmayanlar gibi kişilere vekil olarak atanan devlet memurlarına verilen addır.<br />
 II. M&uuml;zecilik kavramı ile birlikte ortaya &ccedil;ıkmış ve zamanla kendine &ouml;zg&uuml; bir meslek h&acirc;line d&ouml;n&uuml;şm&uuml;şt&uuml;r.<br />
 III. Fotoğraf sanatı ya da fotoğraf&ccedil;ılar i&ccedil;in ise, bireysel etkinliklerin sergilenmesi, kişinin fotoğraflarını tanıtması olarak tanımlanabilir.<br />
-IV. G&uuml;n&uuml;m&uuml;zde sanat sergisi d&uuml;zenleyen insanlara&nbsp; denilmektedir.<br />
+IV. G&uuml;n&uuml;m&uuml;zde sanat sergisi d&uuml;zenleyen insanlara denilmektedir.<br />
 <strong>K&uuml;rat&ouml;rl&uuml;k kavramı ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) I ve III
@@ -2061,7 +2089,7 @@ III. Sitenizi sizin gibi hissettirmek i&ccedil;in kişiselleştirme se&ccedil;en
     - D-) Form etkisi
     - E-) Işık etkisi
     <hr />
-1. Soğuk renklerin g&uuml;n i&ccedil;erisinde&nbsp; kendini g&ouml;sterdiği zaman dilimi olan ............ saatler sabah g&uuml;n doğmadan hemen &ouml;nce ve akşam g&uuml;neş battıktan sonra ortalama 1 saat i&ccedil;erisinde oluşur.<br />
+1. Soğuk renklerin g&uuml;n i&ccedil;erisinde kendini g&ouml;sterdiği zaman dilimi olan ............ saatler sabah g&uuml;n doğmadan hemen &ouml;nce ve akşam g&uuml;neş battıktan sonra ortalama 1 saat i&ccedil;erisinde oluşur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) altın
     - B-) parlak
@@ -2069,7 +2097,7 @@ III. Sitenizi sizin gibi hissettirmek i&ccedil;in kişiselleştirme se&ccedil;en
     - D-) g&uuml;m&uuml;ş
     - **Cevap E-) mavi**
     <hr />
-1. <strong>Koyu g&ouml;lgeler ve parlak aydınlık alanlar oluşturan,&nbsp; parlak ve h&uuml;zme h&acirc;linde de g&ouml;r&uuml;len ışık t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Koyu g&ouml;lgeler ve parlak aydınlık alanlar oluşturan, parlak ve h&uuml;zme h&acirc;linde de g&ouml;r&uuml;len ışık t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Sıcak ışık
     - B-) Serin ışık
     - **Cevap C-) Sert ışık**
@@ -2106,6 +2134,13 @@ III. &Uuml;nl&uuml; Hollandalı ressam Rembrandt resimlerinde bu tekniği kullan
     - C-) Uyumlu renkler
     - D-) Tonlama
     - E-) B&uuml;t&uuml;nleşik renkler
+    <hr />
+1. <strong>Işığın parlak ve h&uuml;zme halinde olduğu, koyu g&ouml;lgeler ve parlak aydınlık alanlar oluşturduğu aydınlatma bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
+    - A-) Soğuk ışık
+    - B-) Serin ışık
+    - **Cevap C-) Sert ışık**
+    - D-) Sıcak ışık
+    - E-) Yumuşak ışık
     <hr />
 1. <strong>Bir fotoğrafta, normalde d&uuml;z duran yatay veya dikey &ccedil;izgilerin &ouml;ne-arkaya veya sağa-sola yatıkmış gibi durması aşağıdakilerden hangisidir?</strong>
     - A-) Diyafram hatası
@@ -2204,7 +2239,7 @@ III. Diyafram değerleri<br />
     - D-) Işık
     - E-) Şekil
     <hr />
-1. <strong>Aşağıdaki fotoğraf t&uuml;rlerinin hangisinde nesnenin bi&ccedil;iminin etkisi tamamen ortadan kalkar?&nbsp;</strong>
+1. <strong>Aşağıdaki fotoğraf t&uuml;rlerinin hangisinde nesnenin bi&ccedil;iminin etkisi tamamen ortadan kalkar? </strong>
     - A-) Portre fotoğraflar
     - **Cevap B-) Sil&uuml;et fotoğraflar**
     - C-) Doğa fotoğrafları
@@ -2219,7 +2254,7 @@ III. Diyafram değerleri<br />
     - E-) Mat ışık
     <hr />
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi kadraj i&ccedil;erisindeki ilgi merkezine dikkat &ccedil;ekmenin y&ouml;ntemleri arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kadraj i&ccedil;erisindeki ilgi merkezine dikkat &ccedil;ekmenin y&ouml;ntemleri arasında <u>yer almaz</u>?</strong>
     - A-) Sığ net alan derinliği
     - B-) Işık kaynağı
     - C-) Arka plan
@@ -2239,6 +2274,16 @@ III. Diyafram değerleri<br />
     - C-) Altın kesim kuralı uygulanarak simetrinin etkisi artırılmalıdır.
     - D-) Ger&ccedil;eğinin ya da yansımasının bir kısmı kadrajın dışında bırakılmalıdır.
     - E-) Arka planda fon flulaştırılmalıdır.
+    <hr />
+1. I. &Ccedil;apraz (diyagonal) olarak kullanılarak fotoğrafta bir hareket ve dinamizm oluşturulur.<br />
+II. İlgi merkezlerini oluşturan nesnelerin, birbiri &uuml;zerine gelmesi-&ccedil;akışması engellenerek bi&ccedil;imlerinin daha belirgin olması sağlanmış olur.<br />
+III. İki adet ilgi merkezi bulunuyorsa &ccedil;apraz (diyagonal) olan altın noktalar yerine yan yana veya &uuml;st &uuml;ste olan &ccedil;izgiler kullanılır.<br />
+<strong>&Ccedil;apraz (diyagonal) olan altın noktalar ile ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve II
+    - D-) I, II ve III
+    - **Cevap E-) Yalnız III**
     <hr />
 1. I. Kompozisyonu oluşturan &ouml;geler kadrajın i&ccedil;erisinde başlamakta ve kenarlara doğru giderek kadrajın dışına &ccedil;ıkmaktadır.<br />
 II. Egemen &ouml;genin sadece bir par&ccedil;ası kadraja alınarak ger&ccedil;ekliğin fotoğrafın dışında devam etmesi sağlanır.<br />
@@ -2372,7 +2417,7 @@ III. Arka plan, ana konuyu destekler ve fotoğrafın anlattığı hik&acirc;yeyi
     - D-) II ve III
     - E-) I, II ve III
     <hr />
-1. <strong>Aşağıdakilerden hangisi kadraj i&ccedil;erisindeki ilgi merkezine dikkat &ccedil;ekmenin yollarından biri <u>değildir</u>?&nbsp;</strong> 
+1. <strong>Aşağıdakilerden hangisi kadraj i&ccedil;erisindeki ilgi merkezine dikkat &ccedil;ekmenin yollarından biri <u>değildir</u>? </strong> 
     - A-) Işık kaynağı
     - B-) Arka plan
     - **Cevap C-) Tripot kullanımı**
@@ -2404,7 +2449,7 @@ III. Arka plan, ana konuyu destekler ve fotoğrafın anlattığı hik&acirc;yeyi
 1. I. Kullanılan doğal &ccedil;er&ccedil;eve hi&ccedil;bir zaman ana konunun &ouml;n&uuml;ne ge&ccedil;memelidir.<br />
 II. Doğal &ccedil;er&ccedil;eve fotoğrafta diyafram hatasına d&uuml;ş&uuml;lmesine neden olacaksa bu uygulamadan vazge&ccedil;ilmelidir.<br />
 III. Fotoğraf makinesine yakın olan doğal &ccedil;er&ccedil;evenin ışık değeriyle uzaktaki konunun ışık değeri birbirinden farklı olmalıdır.<br />
-<strong>Doğal &ccedil;er&ccedil;eve kullanımında dikkat edilmesi gereken konular&nbsp; arasında aşağıdakilerden hangisi&nbsp;ya da hangileri bulunmaktadır?</strong>
+<strong>Doğal &ccedil;er&ccedil;eve kullanımında dikkat edilmesi gereken konular arasında aşağıdakilerden hangisi ya da hangileri bulunmaktadır?</strong>
     - A-) Yalnız III
     - B-) Yalnız II
     - C-) I ve II
@@ -2438,6 +2483,13 @@ III. Fotoğraf makinesine yakın olan doğal &ccedil;er&ccedil;evenin ışık de
     - C-) Negatif alan, izleyiciyi pozitif alana y&ouml;nlendirir.
     - D-) Negatif alan, kadraj i&ccedil;erisinde daha fazla alan kaplar.
     - **Cevap E-) Negatif alanda grafiksel &ouml;geler bulunmalıdır.**
+    <hr />
+1. <strong>Fotoğrafta anlatım dili oluştururken kullanılacak boşluk alanı hangi oranda olmalıdır?</strong>
+    - A-) 5/4
+    - **Cevap B-) 2/3**
+    - C-) 16/9
+    - D-) 16/10
+    - E-) 1/5
     <hr />
 1. <strong>Fotoğrafta kompozisyonu etkili hale getiren anlatım bi&ccedil;imleri arasında aşağıdakilerden hangisi <u>bulunmaz</u>?</strong> 
     - A-) Boşluk
@@ -2495,7 +2547,7 @@ III. Fotoğraf makinesine yakın olan doğal &ccedil;er&ccedil;evenin ışık de
     - D-) Pencereler
     - E-) Ağa&ccedil;ların g&ouml;vde kısımları
     <hr />
-1. <strong>Fotoğrafta sanal olarak iki yatay ve iki dikey &ccedil;izginin kesişmesi ile ortaya &ccedil;ıkan noktalar hangi isimle anılır?&nbsp;</strong>
+1. <strong>Fotoğrafta sanal olarak iki yatay ve iki dikey &ccedil;izginin kesişmesi ile ortaya &ccedil;ıkan noktalar hangi isimle anılır? </strong>
     - A-) Gri noktalar
     - B-) Merkez noktalar
     - **Cevap C-) Altın noktalar**

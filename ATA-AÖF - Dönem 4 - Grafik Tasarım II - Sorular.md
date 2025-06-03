@@ -91,6 +91,13 @@
     - D-) Bhimbetka Mağarası
     - E-) Eller Mağarası
     <hr />
+1. <strong>Toplumcu Yaklaşım hangi d&ouml;nemde &ouml;nem kazanmaya başlamıştır?</strong> 
+    - A-) Orta &Ccedil;ağ
+    - **Cevap B-) R&ouml;nesans**
+    - C-) Aydınlanma
+    - D-) Postmodernizm
+    - E-) Modernizm
+    <hr />
 1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong> 
     - A-) Yoğun &ccedil;izgiler
     - B-) Karışık renkler
@@ -106,7 +113,7 @@
     - D-) Neolitik &Ccedil;ağ
     - E-) Kalkolitik &Ccedil;ağ
     <hr />
-1. <strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı ara&ccedil;lardan biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı ara&ccedil;lardan biri <u>değildir</u>?</strong> 
     - A-) Letraset
     - B-) Kretuar
     - C-) Yapıştırıcı
@@ -176,12 +183,19 @@
     - D-) İbrahim &Ccedil;allı
     - E-) Matrak&ccedil;ı Nasuh
     <hr />
-1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri <u>değildir</u>?</strong> 
     - A-) Y&uuml;ksek &ccedil;ıkış hızı
     - B-) Kaliteli renkli baskı imk&acirc;nı
     - C-) Kaliteli siyah-beyaz baskı imk&acirc;nı
     - **Cevap D-) &Ccedil;ok b&uuml;y&uuml;k ebatlı baskı imk&acirc;nı**
     - E-) D&uuml;ş&uuml;k &ccedil;ıkış maliyeti
+    <hr />
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık amacıyla kullanılan bilgisayarın monit&ouml;r&uuml;nden beklenen &ouml;zelliklerden biri <u>değildir</u>?</strong> 
+    - A-) B&uuml;y&uuml;k olması
+    - B-) Hızlı tepki s&uuml;resine sahip olması
+    - C-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahip olması
+    - **Cevap D-) &Ccedil;ok y&uuml;ksek kontrastlı olması**
+    - E-) Renk tutarlılığına sahip olması
     <hr />
 1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong> 
     - A-) Agrandiz&ouml;r
@@ -191,7 +205,7 @@
     - E-) Desinat&ouml;r
     <hr />
 ## Unite 3
-1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir? </strong>
     - A-) Romalılar
     - **Cevap B-) Fenikeliler**
     - C-) Yunanlılar
@@ -275,6 +289,13 @@
     - D-) Beta ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
     - E-) Tetra ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
     <hr />
+1. <strong>Gutenberg aşağıdakilerden hangisini icat etmiştir?</strong>
+    - A-) K&acirc;ğıt
+    - B-) Yapışkan
+    - **Cevap C-) M&uuml;rekkep**
+    - D-) Bı&ccedil;ak
+    - E-) Kalem
+    <hr />
 ## Unite 4
 1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği alanlarından biri <u>değildir</u>?</strong> 
     - A-) Y&ouml;n grafiği
@@ -349,11 +370,11 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) Web Tasarımı
     - E-) Font Tasarımı
     <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi grafik tasarımcının g&ouml;revlerinden biri <u>değildir</u>?</strong>
+1. <strong> Aşağıdakilerden hangisi grafik tasarımcının g&ouml;revlerinden biri <u>değildir</u>?</strong>
     - A-) D&uuml;zenli ya da d&uuml;zensiz yerleşke yapısı i&ccedil;erisinde insanların akışını kolaylaştırmak
     - B-) D&uuml;zenli ya da d&uuml;zensiz yerleşke yapısı i&ccedil;erisinde insanların y&ouml;nelişini ve aradığını bulmasını kolaylaştırmak
     - C-) &Ccedil;evreye bir kimlik vermek, dokusuna uygun tasarımlar &uuml;retmek
-    - D-) Grafik tasarımcısı &ccedil;evre tasarımı yaparken&nbsp;en &ouml;nemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek
+    - D-) Grafik tasarımcısı &ccedil;evre tasarımı yaparken en &ouml;nemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek
     - **Cevap E-) &Ccedil;evre tasarım &ccedil;alışmalarında yer almamak**
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
@@ -363,7 +384,7 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) A&ccedil;ıklayıcı grafikler
     - E-) D&uuml;zenleyici (kural) grafikler
     <hr />
-1. <strong>D&uuml;zenleyici grafikler&nbsp;&ccedil;evreye ait kuralları g&ouml;steren tasarım elemanlarını i&ccedil;erir. Bu ifadeye g&ouml;re yola &ccedil;ıkılarak&nbsp; aşağıdakilerden hangisi &quot;Kural (D&uuml;zenleyici) Grafikler / İşaretler&quot; arasında <u>yer almaz</u>?</strong>
+1. <strong>D&uuml;zenleyici grafikler &ccedil;evreye ait kuralları g&ouml;steren tasarım elemanlarını i&ccedil;erir. Bu ifadeye g&ouml;re yola &ccedil;ıkılarak aşağıdakilerden hangisi &quot;Kural (D&uuml;zenleyici) Grafikler / İşaretler&quot; arasında <u>yer almaz</u>?</strong>
     - A-) Uyarıcı
     - B-) Bilgi verici
     - **Cevap C-) Herhangi bir kuraldan bağımsız**
@@ -378,7 +399,7 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - E-) Ge&ccedil;mişini iletişim yoluyla kullanıcıya aktarmayı ama&ccedil;lar.
     <hr />
 ## Unite 5
-1. <strong>Aşağıdakilerden hangisi &Ccedil;ukur Baskı Teknikleri&#39;nden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &Ccedil;ukur Baskı Teknikleri&#39;nden biri <u>değildir</u>?</strong>
     - A-) Asite yedirme (Etching)
     - **Cevap B-) Linol baskı**
     - C-) Leke baskı (Aquatint )
@@ -455,12 +476,19 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) Mezopotamya topraklarında
     - E-) Fransa Lascaux Mağarası&#39;nda
     <hr />
-1. <strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri <u>değildir</u>?</strong>
     - A-) Basımı yapılacak tasarımın k&acirc;ğıda &ccedil;izilmesi
     - B-) Tasarımın linol blok &uuml;zerine aktarılması
     - **Cevap C-) Baskı sonrası k&acirc;ğıt kalıptan dikkatlice ayrılarak kurutulmak &uuml;zere kuruma rafına yerleştirilmesi**
-    - D-) Linol blok &uuml;zerindeki negatif alanların oyulması
+    - D-) Linol blok &uuml;zerindeki negatif alanların oyulması 
     - E-) Baskı m&uuml;rekkebinin d&uuml;z bir y&uuml;zey &uuml;zerine spatula ile s&uuml;r&uuml;lmesi
+    <hr />
+1. <strong>Aşağıdaki baskı tekniklerinden hangisinde sadece bir eser basılabilir?</strong>
+    - **Cevap A-) Mono baskı**
+    - B-) Linol baskı
+    - C-) Serigrafi baskı
+    - D-) Ofset baskı
+    - E-) Litografi (taş) baskı
     <hr />
 1. <strong>Aşağıdaki tekniklerin hangisinde oluşturulan g&ouml;r&uuml;nt&uuml; baskıda pozitif olarak &ccedil;ıkar?</strong>
     - A-) Leke baskı
@@ -477,7 +505,7 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - **Cevap E-) Litografi (taş) baskı**
     <hr />
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri <u>değildir</u>?</strong>
     - A-) Logo
     - B-) Yazı tipi
     - C-) Stil y&ouml;nergesi
@@ -499,9 +527,9 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - E-) &Uuml;r&uuml;nlerini tasarlarken m&uuml;hendislere yardımcı olmak
     <hr />
 1. I. Bir kuruma ait &uuml;r&uuml;nler, &uuml;r&uuml;n ambalajları<br />
-II.&nbsp;Hizmet veya markanın ismi<br />
-III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?</strong>
+II. Hizmet veya markanın ismi<br />
+III. Tabelalar, y&ouml;nlendirme elemanları<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -536,7 +564,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Renkler
     - **Cevap E-) Fiyat listesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;Kurumsal Kimlik Tasarımı Bileşenleri&quot; arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &quot;Kurumsal Kimlik Tasarımı Bileşenleri&quot; arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri <u>değildir</u>?</strong>
     - A-) Kurum davranışı
     - B-) Kurum iletişimi
     - C-) G&ouml;rsel kimlik / tasarım
@@ -550,7 +578,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Stil Y&ouml;nergeleri (Style guides)
     - E-) G&ouml;rseller
     <hr />
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri <u>değildir</u>?</strong>
     - **Cevap A-) Resim &ccedil;izme**
     - B-) &Ouml;n &ccedil;alışma
     - C-) Tasarım aşaması
@@ -565,6 +593,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Diğer yazı elemanları
     - E-) Renk
     <hr />
+1. <strong>Aşağıdakilerden hangisi logo tasarımı yapılırken g&ouml;z &ouml;n&uuml;ne <u>alınmaz</u>?</strong>
+    - **Cevap A-) Kurumun &uuml;rettiği &uuml;r&uuml;n ve hizmetlerin maliyeti**
+    - B-) Kurumun felsefesi
+    - C-) Kurumun diğer kurumlardan farklı &ouml;zellikleri
+    - D-) Kurumun misyonu
+    - E-) Kurumun vizyonu
+    <hr />
 1. <strong>Stil y&ouml;nergesinde <u>bulunmaması </u>gereken unsur aşağıdakilerden hangisidir?</strong>
     - A-) Logo
     - B-) Renk
@@ -578,6 +613,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Tasarım yapılırken sulu boya kullanılması şarttır.
     - D-) Tasarım yapılırken kurumun b&uuml;t&ccedil;esi yazılmalıdır.
     - E-) Tasarım yapılırken pastel renk kullanılması şarttır.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yazı tipi se&ccedil;iminde &ouml;nemli <u>değildir</u>?</strong>
+    - A-) Kurumsal kimliğin diğer &ouml;geleri ile uyumu
+    - B-) Okunurluk
+    - C-) Kurumun vizyonunu g&ouml;stermesi
+    - D-) Kurumun felsefesini yansıtması
+    - **Cevap E-) Serif i&ccedil;ermeyen bir font olması zorunluluğu**
     <hr />
 ## Unite 7
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı dallarından biridir?</strong>
@@ -608,7 +650,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - D-) Per Mollerup
     - E-) Chris Calori
     <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri <u>değildir</u>?</strong>
     - A-) D&uuml;zen
     - B-) Vurgu
     - C-) Zıtlık
@@ -656,6 +698,13 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - C-) Y&ouml;nlendirme tasarımı
     - **Cevap D-) Harita tasarımı**
     - E-) Kitap tasarımı
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgiyi <u>tanımlamaz</u>?</strong>
+    - A-) İnsan aklının erebileceği olgu
+    - B-) &Ouml;ğrenme, araştırma veya g&ouml;zlem yolu ile elde edilen ger&ccedil;ek
+    - C-) İnsan zek&acirc;sının &ccedil;alışması sonucu ortaya &ccedil;ıkan d&uuml;ş&uuml;nce &uuml;r&uuml;n&uuml;
+    - **Cevap D-) Zihinde canlandırılan bi&ccedil;im**
+    - E-) Kurallardan yararlanarak kişinin veriye y&ouml;nelttiği anlam
     <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım kavramını <u>a&ccedil;ıklamaz</u>?</strong>
     - A-) Zihinde canlandırılan bi&ccedil;im
@@ -762,7 +811,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - B-) Soğuk renkler h&uuml;z&uuml;n ruh h&acirc;li ile bağlantılıdır.
     - C-) Soğuk renkler saygı ve g&uuml;venilirlik hissine hitap ederler.
     - D-) Sıcak renkler harekete ge&ccedil;irici bir etki taşırlar.
-    - **Cevap E-) Soğuk renkler sıcak renklere nazaran daha &ccedil;abuk fark edilirler.&nbsp;**
+    - **Cevap E-) Soğuk renkler sıcak renklere nazaran daha &ccedil;abuk fark edilirler.**
     <hr />
 ## Unite 9
 1. <strong>Bilgisayar ortamında yazım işleminin basım yayın terminolojisindeki karşılığı aşağıdakilerden hangisidir?</strong>
@@ -836,7 +885,7 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - E-) SVG
     <hr />
 1. Temel bilgi birikimi isteyen dizgi işleminde dikkat edilmesi gereken diğer bazı &ouml;nemli hususlar bulunmaktadır.<br />
-<strong>Aşağıdakilerden hangisi bu hususlardan biri&nbsp;<u>değildir</u>?</strong>
+<strong>Aşağıdakilerden hangisi bu hususlardan biri <u>değildir</u>?</strong>
     - A-) Dizgi işlemini kelime işlemci programlar kullanarak yapmak
     - B-) Dizgi işleminde boşluk (space) karakterini, yerlerinde ve doğru bi&ccedil;imde kullanmak
     - C-) Metin hizalamalarını &ldquo;TAB&rdquo; tuşu kullanılarak yapmak
@@ -951,8 +1000,8 @@ III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
     - E-) Grafik oluşturma
     <hr />
 1. I. Tasarım d&uuml;ş&uuml;ncesini etkiler.<br />
-II. Tasarıma y&ouml;n verir.&nbsp;<br />
-III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
+II. Tasarıma y&ouml;n verir. <br />
+III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir. <br />
 <strong>Yukarıdakilerden hangisi ya da hangileri eskiz &ccedil;izimin &ouml;zelliklerindendir?</strong>
     - A-) Yalnız I
     - B-) I ve II
@@ -1085,7 +1134,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - A-) İ&ccedil;eriği hakkında doğrudan bilgi verir.
     - B-) &Uuml;r&uuml;n&uuml; g&ouml;sterir.
     - C-) Ambalajın baskılı alanları dışında ambalajın i&ccedil;i izlenebilir.
-    - D-) Kullanım, koruma, saklama koşulları hakkında bilgi verir.
+    - D-) Kullanım, koruma, saklama koşulları hakkında bilgi verir. 
     - **Cevap E-) M&uuml;şterinin fikir sahibi olması i&ccedil;in ambalajda &uuml;r&uuml;n g&ouml;rseli kullanılır.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında kullanım kolaylığı işlevi <u>değildir</u>?</strong>
@@ -1154,7 +1203,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) Amazon Kindle 2 ve DX modelleri ile uyumlu değildir
     - **Cevap E-) Amazon firması i&ccedil;in tescilli bir formattır**
     <hr />
-1. <strong>Aşağıdakilerden hangisi doğru e-kitap formatını se&ccedil;mekle ilgili temel ipu&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi doğru e-kitap formatını se&ccedil;mekle ilgili temel ipu&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) Taşınabilirlik / Yaygınlık
     - B-) G&uuml;venlik
     - C-) Zengin i&ccedil;erik desteği
@@ -1289,7 +1338,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.&nbsp;<br />
     - D-) Vergi boyutu
     - E-) İ&ccedil;erik boyutu
     <hr />
-1. <strong>Aşağıdakilerden hangisi e-kitapların tasarımında&nbsp; g&ouml;rsel ve yazının dışında kullanılan &ouml;gelerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi e-kitapların tasarımında g&ouml;rsel ve yazının dışında kullanılan &ouml;gelerden biri <u>değildir</u>?</strong>
     - A-) Seslendirmeler
     - B-) Animasyonlar
     - C-) M&uuml;zikler

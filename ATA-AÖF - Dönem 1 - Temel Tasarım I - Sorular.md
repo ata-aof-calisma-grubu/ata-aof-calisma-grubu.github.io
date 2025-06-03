@@ -1,13 +1,13 @@
 # Temel Tasarım I
 ## Unite 1
-1. <strong>Birinci D&uuml;nya Savaşı&#39;nın ardından 1919 yılında Almanya Weimar&rsquo;da, Walter Gropius tarafından kurulan&nbsp; sanat okulu aşağıdakilerden hangisidir?</strong>
+1. <strong>Birinci D&uuml;nya Savaşı&#39;nın ardından 1919 yılında Almanya Weimar&rsquo;da, Walter Gropius tarafından kurulan sanat okulu aşağıdakilerden hangisidir?</strong>
     - A-) Frankfurt Okulu
     - B-) Royal Sanat Okulu
     - **Cevap C-) Bauhaus Sanat Okulu**
     - D-) Glasgow Sanat Okulu
     - E-) Juilliard Sanat Okulu
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;recine temelden etki eden kavramlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;recine temelden etki eden kavramlardan biri <u>değildir</u>?</strong>
     - A-) Metafor
     - B-) G&ouml;sterilen
     - C-) İmge
@@ -301,7 +301,7 @@ III. Bireyin din&icirc; inanışları<br />
     - D-) Yan lob
     - E-) Beyincik lobu
     <hr />
-1. <strong>Renkli g&ouml;rme olayının nasıl ger&ccedil;ekleştiğiyle&nbsp;ilgili&nbsp;ilk teoriyi ortaya koyan İngiliz fizik&ccedil;isi aşağıdakilerden hangisidir?</strong>
+1. <strong>Renkli g&ouml;rme olayının nasıl ger&ccedil;ekleştiğiyle ilgili ilk teoriyi ortaya koyan İngiliz fizik&ccedil;isi aşağıdakilerden hangisidir?</strong>
     - A-) Auguste Bravais
     - B-) Sadi Carnot
     - **Cevap C-) Thomas Young**
@@ -315,7 +315,7 @@ III. Bireyin din&icirc; inanışları<br />
     - D-) Psikolojik G&ouml;rme
     - E-) Soyut G&ouml;rme
     <hr />
-1. <strong>Akıl ve beden arasındaki ilişkiyi ayrıntılı olarak tanımlayan, 17. y&uuml;zyıl filozofu aşağıdakilerden hangisidir?&nbsp;&nbsp;</strong>
+1. <strong>Akıl ve beden arasındaki ilişkiyi ayrıntılı olarak tanımlayan, 17. y&uuml;zyıl filozofu aşağıdakilerden hangisidir?  </strong>
     - A-) Sigmund Freud
     - B-) El-Kind&icirc;
     - C-) Farabi
@@ -437,7 +437,7 @@ III. Bireyin din&icirc; inanışları<br />
     - D-) Toplumsal renkler
     - E-) Zıt renkler
     <hr />
-1. <strong>&ldquo;Renk &ouml;ğesi insanın kişiliği ve enerjisi hakkında bilgi verebilir. Kişisel tercih ile kıyafet ve&nbsp; mek&acirc;nlara yansıyan renkler, insan ruhunu karartıcı ya da aydınlatıcı bir etkiye neden olabilir. Her bir rengin anlamı, insanlık tarihinde benzer ya da &ccedil;eşitli değişikliklere uğrayarak g&uuml;n&uuml;m&uuml;ze yansımıştır.&rdquo;<br />
+1. <strong>&ldquo;Renk &ouml;ğesi insanın kişiliği ve enerjisi hakkında bilgi verebilir. Kişisel tercih ile kıyafet ve mek&acirc;nlara yansıyan renkler, insan ruhunu karartıcı ya da aydınlatıcı bir etkiye neden olabilir. Her bir rengin anlamı, insanlık tarihinde benzer ya da &ccedil;eşitli değişikliklere uğrayarak g&uuml;n&uuml;m&uuml;ze yansımıştır.&rdquo;<br />
 Bu doğrultuda aşağıdakilerden hangisi v&uuml;cutta epinefrin salgılatarak tehlike ve acil durum kavramlarını &ccedil;ağrıştırır?</strong>
     - A-) Siyah
     - B-) Gri
@@ -445,7 +445,7 @@ Bu doğrultuda aşağıdakilerden hangisi v&uuml;cutta epinefrin salgılatarak t
     - D-) Beyaz
     - **Cevap E-) Kırmızı**
     <hr />
-1. <strong>CMYK renk modelinde&nbsp;yeşil ve mavi rengin birleşiminden elde edilen renk aşağıdakilerden hangisidir?</strong>
+1. <strong>CMYK renk modelinde yeşil ve mavi rengin birleşiminden elde edilen renk aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Cyan**
     - B-) Magenta
     - C-) Yellow
@@ -480,8 +480,8 @@ Bu doğrultuda aşağıdakilerden hangisi v&uuml;cutta epinefrin salgılatarak t
     - **Cevap D-) Galileo Galilei**
     - E-) Aristoteles
     <hr />
-1. I.&nbsp; &nbsp;Işığın kaynağı g&uuml;neştir.<br />
-II.&nbsp;&nbsp;Renkler ışık ile algılanır.<br />
+1. I. Işığın kaynağı g&uuml;neştir.<br />
+II.  Renkler ışık ile algılanır.<br />
 III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri ışık ile ilgili doğrudur?</strong>
     - A-) Yalnız II
@@ -616,7 +616,7 @@ Yukarıda verilen se&ccedil;eneklerden hangileri tasarım y&uuml;zeyini oluştur
     - D-) Algı
     - **Cevap E-) Boşluk**
     <hr />
-1. <strong>Aynı y&ouml;ndeki&nbsp;uyarıların b&uuml;t&uuml;n olarak algılandığını işaret eden Gestalt Algılanma İlkesi aşağıdakilerden hangisidir?</strong>
+1. <strong>Aynı y&ouml;ndeki uyarıların b&uuml;t&uuml;n olarak algılandığını işaret eden Gestalt Algılanma İlkesi aşağıdakilerden hangisidir?</strong>
     - A-) Şekil ve Zemin İlkesi
     - B-) Yakınlık İlkesi
     - C-) Benzerlik İlkesi
@@ -625,7 +625,7 @@ Yukarıda verilen se&ccedil;eneklerden hangileri tasarım y&uuml;zeyini oluştur
     <hr />
 1. I. Serap g&ouml;rmek<br />
 II. İşittiğimiz sesi başka sese benzetmek<br />
-III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş ilerlediği yanılgısına kapılmak<br />
+III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen bir u&ccedil;ağın yavaş ilerlediği yanılgısına kapılmak<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri algıya getirdiğimiz yorumdur?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
@@ -640,42 +640,42 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - D-) B&uuml;t&uuml;n, par&ccedil;aların toplamına eşittir.
     - E-) B&uuml;t&uuml;n, par&ccedil;aların toplamıdır.
     <hr />
-1. <strong>G&ouml;rsel&nbsp;uyaranların&nbsp;birbirleriyle&nbsp;olan&nbsp;konumlarının&nbsp;bu&nbsp; &ouml;geleri&nbsp;b&uuml;t&uuml;nsel&nbsp;bir&nbsp;yapıda&nbsp;algılatabileceğini g&ouml;steren&nbsp;Gestalt&nbsp;algılama&nbsp;ilkesi aşağıdakilerden hangisidir?</strong>
+1. <strong>G&ouml;rsel uyaranların birbirleriyle olan konumlarının bu &ouml;geleri b&uuml;t&uuml;nsel bir yapıda algılatabileceğini g&ouml;steren Gestalt algılama ilkesi aşağıdakilerden hangisidir?</strong>
     - A-) Şekil
     - B-) Yanılsama
     - **Cevap C-) Yakınlık**
     - D-) Benzerlik
     - E-) Tamamlama
     <hr />
-1. <strong>G&ouml;rsel&nbsp;iletişim&nbsp;tasarımında&nbsp;g&ouml;rsel&nbsp;hiyerarşi&nbsp;ve vurguyu&nbsp;belirleyen en &ouml;nemli yapı&nbsp;elemanı aşağıdakilerden hangisidir?</strong>
-    - A-) Yakınlık&nbsp;İlkesi
-    - **Cevap B-) Şekil&nbsp;ve Zemin İlkesi**
-    - C-) Benzerlik&nbsp;İlkesi
-    - D-) Tamamlama&nbsp;İlkesi
-    - E-) S&uuml;reklilik&nbsp;İlkesi
+1. <strong>G&ouml;rsel iletişim tasarımında g&ouml;rsel hiyerarşi ve vurguyu belirleyen en &ouml;nemli yapı elemanı aşağıdakilerden hangisidir?</strong>
+    - A-) Yakınlık İlkesi
+    - **Cevap B-) Şekil ve Zemin İlkesi**
+    - C-) Benzerlik İlkesi
+    - D-) Tamamlama İlkesi
+    - E-) S&uuml;reklilik İlkesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;Gestalt Algılama İlkeleri&#39;nin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Tasarım&nbsp;s&uuml;recini&nbsp;ilgilendiren&nbsp;pek&nbsp;&ccedil;ok&nbsp;grafik&nbsp;&ouml;ğe&nbsp;arasında&nbsp;bağlantılar kurmayı&nbsp;sağlayabilir.
-    - B-) Tasarımın&nbsp;g&ouml;rsel&nbsp;hiyerarşisini&nbsp;b&uuml;t&uuml;nsel&nbsp;bir&nbsp;sistemle&nbsp;değerlendirmeye&nbsp;katkı sunabilir.
-    - C-) Tasarımın&nbsp;vurgusunu&nbsp;etkileyebilir.
-    - D-) Tasarımın&nbsp;i&ccedil;eriği&nbsp;ve&nbsp;bi&ccedil;im&nbsp;dili&nbsp;arasındaki&nbsp;etkileşimi&nbsp;g&uuml;&ccedil;lendirebilir.
+1. <strong>Aşağıdakilerden hangisi Gestalt Algılama İlkeleri&#39;nin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Tasarım s&uuml;recini ilgilendiren pek &ccedil;ok grafik &ouml;ğe arasında bağlantılar kurmayı sağlayabilir.
+    - B-) Tasarımın g&ouml;rsel hiyerarşisini b&uuml;t&uuml;nsel bir sistemle değerlendirmeye katkı sunabilir.
+    - C-) Tasarımın vurgusunu etkileyebilir.
+    - D-) Tasarımın i&ccedil;eriği ve bi&ccedil;im dili arasındaki etkileşimi g&uuml;&ccedil;lendirebilir.
     - **Cevap E-) Tasarımın rengi, kompozisyon algısını etkileyebilir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;Gestalt algılama ilkelerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Gestalt algılama ilkelerinden biri <u>değildir</u>?</strong>
     - A-) Tasarım s&uuml;recini ilgilendiren pek &ccedil;ok grafik &ouml;ge arasında bağlantılar kurmayı sağlayabilir.
     - B-) Tasarımın g&ouml;rsel hiyerarşisini b&uuml;t&uuml;nsel bir sistemle değerlendirmeye katkı sunabilir.
     - C-) Tasarımın vurgusunu etkileyebilir.
     - **Cevap D-) Tasarım y&uuml;zeyi; &ccedil;izgi, renk, doku, tekst&uuml;r, bi&ccedil;im, hareket, imge, fotoğraf ve ill&uuml;strasyon gibi yapısında bir&ccedil;ok farklı unsur barındırabilir.**
     - E-) Tasarımın i&ccedil;eriği ve bi&ccedil;im dili arasındaki etkileşimi g&uuml;&ccedil;lendirebilir.
     <hr />
-1. <strong>&nbsp;İnsan algısındaki her yapıyı bir kavramla ilişkilendirip bir b&uuml;t&uuml;n olarak değerlendirme s&uuml;reci aşağıdakilerden hangisidir?</strong>
+1. <strong> İnsan algısındaki her yapıyı bir kavramla ilişkilendirip bir b&uuml;t&uuml;n olarak değerlendirme s&uuml;reci aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Simgesel S&uuml;re&ccedil;**
     - B-) Alıcı S&uuml;re&ccedil;
     - C-) Uygulayıcı S&uuml;re&ccedil;
     - D-) Duygusal S&uuml;re&ccedil;
     - E-) Psikolojik S&uuml;re&ccedil;
     <hr />
-1. <strong>1995 yılında tasarlanan,&nbsp;şekil ve zemin algısının değişken yapısının izlenebildiği afiş aşağıdaki hangi sanat&ccedil;ıya aittir?</strong>
+1. <strong>1995 yılında tasarlanan, şekil ve zemin algısının değişken yapısının izlenebildiği afiş aşağıdaki hangi sanat&ccedil;ıya aittir?</strong>
     - A-) Shigeo Fukuda
     - **Cevap B-) Yossi Lemel**
     - C-) Gleitman
@@ -741,7 +741,7 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp; bir u&ccedil;ağın yavaş
     - **Cevap E-) M&uuml;şteri memnuniyetini artırabilir.**
     <hr />
 1. &hellip;&hellip;&hellip;......; bir d&uuml;ş&uuml;nceyi, s&ouml;z&uuml; ya da sesleri, &ccedil;eşitli sembollerle ifade eden yazılardır.<br />
-<strong>C&uuml;mlede boş&nbsp;bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Piktogram
     - B-) Simge
     - **Cevap C-) İdeogram**
@@ -831,7 +831,7 @@ Aşağıdaki se&ccedil;eneklerden hangisi yukarıda bahsedilen durumu ifade eder
     - D-) Daire
     - E-) Harf
     <hr />
-1. <strong>Tasarımda&nbsp;soyutlamaya dayanan ve en &ouml;nemli temsilcisi&nbsp;Kazimir&nbsp;Malevich olan sanat akımı aşağıdakilerden hangisidir?</strong>
+1. <strong>Tasarımda soyutlamaya dayanan ve en &ouml;nemli temsilcisi Kazimir Malevich olan sanat akımı aşağıdakilerden hangisidir?</strong>
     - A-) Konstr&uuml;ktivizm
     - **Cevap B-) S&uuml;prematizm**
     - C-) Dada
@@ -988,14 +988,14 @@ Yukarıda bahsedilen &ouml;rnekte beynimizin hangi &ouml;zelliğinden bahsedilme
     - D-) Kavis
     - E-) &Ccedil;apraz &ccedil;izgiler
     <hr />
-1. <strong>Kadrajın tasarımcı, tasarım s&uuml;reci, tasarım a&ccedil;ısından &ouml;nemine y&ouml;nelik aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Kadrajın tasarımcı, tasarım s&uuml;reci, tasarım a&ccedil;ısından &ouml;nemine y&ouml;nelik aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Kadraj, tasarımın sınırlarını belirler.
     - **Cevap B-) Kadraj, tasarımın sınırlarını belirlemez.**
     - C-) Kadraj, tasarım s&uuml;recini y&ouml;netir, gerektiğinde uyarır.
     - D-) Kadraj, d&uuml;ş&uuml;nmeye sevk eder.
     - E-) Kadraj, aynı zamanda bir g&ouml;rsel alandır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi optik yanılsamanın insan algısındaki tanınırlığını &ouml;nemli &ouml;l&ccedil;&uuml;de etkilemiş Op Art sanat&ccedil;ılarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi optik yanılsamanın insan algısındaki tanınırlığını &ouml;nemli &ouml;l&ccedil;&uuml;de etkilemiş Op Art sanat&ccedil;ılarından biri <u>değildir</u>?</strong>
     - A-) Jeffrey Steele
     - B-) Victor Vasarely
     - **Cevap C-) Pablo Picasso**
@@ -1023,9 +1023,9 @@ Yukarıda bahsedilen &ouml;rnekte beynimizin hangi &ouml;zelliğinden bahsedilme
     - D-) Renk
     - E-) Tasarım
     <hr />
-1. I.&nbsp; &nbsp;Şekil, &ccedil;izgi ve renklerle sınırları belirlenen bir yapıdır.<br />
-II.&nbsp; Genel olarak şekil, bir alanı belirleyen &ccedil;izgiyle tanımlanan sınırlardır.&nbsp;<br />
-III. Şekil ve formlara, tasarımın i&ccedil;eriğine y&ouml;nelik bilgi y&uuml;klenir.&nbsp;<br />
+1. I. Şekil, &ccedil;izgi ve renklerle sınırları belirlenen bir yapıdır.<br />
+II. Genel olarak şekil, bir alanı belirleyen &ccedil;izgiyle tanımlanan sınırlardır. <br />
+III. Şekil ve formlara, tasarımın i&ccedil;eriğine y&ouml;nelik bilgi y&uuml;klenir. <br />
 IV. Her formun bir şekli vardır fakat her şeklin bir formu olamaz.<br />
 <strong>Yukarıda şekil ile ilgili olarak verilen bilgilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
@@ -1144,7 +1144,7 @@ III. Kimyasal tepkime<br />
     - D-) P&uuml;r&uuml;zs&uuml;z
     - E-) Kaygan
     <hr />
-1. <strong>Aşağıdakilerden hangisi zamanla değişkenlik g&ouml;steren&nbsp;doğal dokuya sahip g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml;&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi zamanla değişkenlik g&ouml;steren doğal dokuya sahip g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml; <u>değildir</u>?</strong>
     - A-) Meyve ve sebzeler
     - B-) Deniz dalgası
     - C-) Denizdeki canlı ve cansız varlıklar
@@ -1165,7 +1165,7 @@ III. Kimyasal tepkime<br />
     - **Cevap D-) Vincent Van Gogh**
     - E-) Paul Cezanne
     <hr />
-1. Doku, .................. &nbsp;olmak &uuml;zere ikiye ayrılır.<br />
+1. Doku, .................. olmak &uuml;zere ikiye ayrılır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) mat ve parlak
     - B-) yumuşak ve sert
@@ -1253,6 +1253,13 @@ III. Kimyasal tepkime<br />
     - D-) Richard Langton
     - E-) Susan Hirth
     <hr />
+1. <strong>&Ccedil;ok y&ouml;nl&uuml; bir d&uuml;ş&uuml;nme ile yaşamda karşılaşabildiğimiz tekrar niteliğindeki g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;lerinden biri aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) G&ouml;ky&uuml;z&uuml;ndeki yıldızların algılanması ve bulutların ardı sıra kayıp giden g&ouml;r&uuml;nt&uuml;leri**
+    - B-) Bazı hayvan sesleri
+    - C-) Yağmur ya da dolu sesi
+    - D-) Kalp ritmi
+    - E-) Bir şarkıda tekrar eden s&ouml;zc&uuml;kler
+    <hr />
 1. <strong>Yaşamda tekrar, ritim ve hareketin etkinliğiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tekrara bağlı olarak hız ve hareket, g&ouml;rd&uuml;ğ&uuml;m&uuml;z g&ouml;rsel d&uuml;nya g&ouml;r&uuml;nt&uuml;s&uuml;nde yanılsamaya da neden olabilmektedir.
     - B-) G&ouml;rme duyumuz tekrar, ritim ve harekete duyarlıdır.
@@ -1260,7 +1267,7 @@ III. Kimyasal tepkime<br />
     - **Cevap D-) Tekrar, ritim ve hareket arasında d&uuml;zenli bir birliktelik yoktur.**
     - E-) Tekrarı g&ouml;rd&uuml;ğ&uuml;m&uuml;z bir y&uuml;zeyde ritim ve hareketi de fark ederiz.
     <hr />
-1. <strong>1858 yılında farklı iki noktadan yayılan &ccedil;izgilerin birleşiminden hareketle bir g&ouml;rsel yanılsama keşfeden&nbsp;Alman fizyolog, aşağıdakilerden hangisidir?</strong>
+1. <strong>1858 yılında farklı iki noktadan yayılan &ccedil;izgilerin birleşiminden hareketle bir g&ouml;rsel yanılsama keşfeden Alman fizyolog, aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Wilhelm Wundt**
     - B-) Ewald Hering
     - C-) Louis Albert Necker
@@ -1312,6 +1319,13 @@ III. Kimyasal tepkime<br />
     - D-) Grafik tasarım bir y&uuml;zeyle sınırlıdır.
     - **Cevap E-) Tasarımın sınırlandırılması boşluğu yaratır.**
     <hr />
+1. <strong>Alan ve mek&acirc;nın tasarımdaki &ouml;nemi a&ccedil;ısından aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Her tasarım fikri &ouml;z&uuml;nde &ouml;n-arka plan ilişkisi barındırır.
+    - B-) Her tasarım zeminle var olur.
+    - C-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmalıdır.
+    - **Cevap D-) Bir tasarım d&uuml;ş&uuml;ncesi alan ve mek&acirc;nla uyumlu bir birlikteliğe sahip olmak zorunda değildir.**
+    - E-) Alan ve mek&acirc;n, tasarımın temelini oluşturur.
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarımın ilk aşamasını oluşturur?</strong>
     - **Cevap A-) Boşluk**
     - B-) &Ouml;n plan
@@ -1333,7 +1347,7 @@ III. Kimyasal tepkime<br />
     - D-) Form
     - E-) Perspektif
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım ve boşluk ilişkisi &uuml;zerine&nbsp;<u>s&ouml;ylenemez</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım ve boşluk ilişkisi &uuml;zerine <u>s&ouml;ylenemez</u>?</strong>
     - A-) Her tasarımın ilk aşaması boşlukla başlar.
     - B-) Boşluk, tasarımcının &uuml;zerinde y&uuml;kseldiği zemindir.
     - C-) Boşluk, tasarlanan bir alandır.
@@ -1372,7 +1386,7 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
     - D-) Oran
     - **Cevap E-) Perspektif**
     <hr />
-1. Sınır, boşluk ve ............................. her t&uuml;rl&uuml; tasarım i&ccedil;in ge&ccedil;erli olan bir etkide, tasarımcının hedefine hizmet eden kavramlardır.&nbsp;<br />
+1. Sınır, boşluk ve ............................. her t&uuml;rl&uuml; tasarım i&ccedil;in ge&ccedil;erli olan bir etkide, tasarımcının hedefine hizmet eden kavramlardır. <br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) renk
     - B-) geometrik bi&ccedil;im
@@ -1384,7 +1398,7 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
 <strong>Aşağıdakilerden hangisi bu izlenimlerden biri <u>değildir</u>?</strong>
     - A-) Tasarımcının anlam &uuml;retme kapasitesine katkıda bulunur.
     - B-) Temel bir tasarım elemanı olarak tasarım y&uuml;zeyinin organize edilmesini sağlar.
-    - **Cevap C-) Tasarım y&uuml;zeyindeki &ouml;geler arasında hiyerarşik d&uuml;zen olmadığı i&ccedil;in ayrı ayrı değerlendirilir.&nbsp;**
+    - **Cevap C-) Tasarım y&uuml;zeyindeki &ouml;geler arasında hiyerarşik d&uuml;zen olmadığı i&ccedil;in ayrı ayrı değerlendirilir.**
     - D-) &Ouml;n-arka plan ilişkisine bağlı olarak tasarım s&uuml;recindeki her &ouml;genin bir diğeriyle olan ilişkisi sorgulanmakta ve olasılıklar değerlendirilmektedir.
     - E-) Tasarım s&uuml;recinde ge&ccedil;irilen deneysel tavır ile tasarımın doğasını etkiler.
     <hr />
@@ -1431,6 +1445,13 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri alan ve mek&acirc;n yar
     - C-) Tipografi
     - D-) &Ccedil;izgi
     - **Cevap E-) Anlam**
+    <hr />
+1. <strong>Hollandalı tasarımcı Hans van Halem'in tasarladığı “Bisiklet T&#252;neli”, hangi grup tasarımdan uygulanmıştır?</strong>
+    - A-) Fluxus grubu
+    - **Cevap B-) De Strakke Hand**
+    - C-) The Beach Boys
+    - D-) D grubu
+    - E-) Milton Glaser ve grubu
     <hr />
 1. <strong>Kurgunun yaşamdaki etkinliğiyle ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Kurgu, pozitif bir etkide insanı geliştiren ve başarıya g&ouml;t&uuml;ren bir kavramdır.
@@ -1623,15 +1644,23 @@ Yukarıda verilen se&ccedil;eneklerden hangisi/hangileri tasarımda dengeyi olu�
     - **Cevap D-) Simetri, tasarım d&uuml;zleminin birbirine eşit olmayan bir etkide d&uuml;zenlenmesidir.**
     - E-) Simetrik bir tasarımdaki t&uuml;m g&ouml;rsel unsurlar aynı oranda, birbirine eşit bir ilişki i&ccedil;indedir.
     <hr />
-1. I.&nbsp;Renk &ouml;ğesi bir tasarımdaki dengeyi etkilemez.<br />
+1. I. Renk &ouml;ğesi bir tasarımdaki dengeyi etkilemez.<br />
 II. Tasarımın izlenme y&ouml;n&uuml;n&uuml; etkiler.<br />
-III.&nbsp;Asimetri, tasarım y&uuml;zeyinin birbirine eşit olmayan bir etkide d&uuml;zenlenmesidir.<br />
+III. Asimetri, tasarım y&uuml;zeyinin birbirine eşit olmayan bir etkide d&uuml;zenlenmesidir.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri asimetrinin temel tasarımdaki &ouml;nemine y&ouml;neliktir?</strong>
     - **Cevap A-) II ve III**
     - B-) Yalnız II
     - C-) I ve II
     - D-) Yalnız I
     - E-) I, II, ve III
+    <hr />
+1. Tasarımda.......... denge yaratmak kolaydır. Zor olan........... dengenin var olduğu bir d&uuml;zlemi tasarlamaktır.<br />
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Fiziksel-Sanatsal
+    - **Cevap B-) Simetri-Asimetri**
+    - C-) Bi&ccedil;imsel-Şekilsel
+    - D-) Kurgusal-Asimetri
+    - E-) Simetri-Fiziksel
     <hr />
 1. <strong>Asimetrik tasarımın temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Denge algısının oluşumu sağlamak
@@ -1672,6 +1701,13 @@ III. Tasarımda denge, i&ccedil;eriğe aykırı bir etkide olmamalıdır.<br />
     - C-) Organik bi&ccedil;imler, doğada kendiliğinden var olan bi&ccedil;imlerdir.
     - D-) İmgelere kimlik kazandırabilen organik bi&ccedil;im, i&ccedil;erikle tutarlı bir ilişki kurmalıdır.
     - E-) Organik tasarımlarda tasarımcının &ouml;ne &ccedil;ıkaracağı hedef, bi&ccedil;imin doğallık i&ccedil;ermesidir.
+    <hr />
+1. <strong>Organik pigmentlerle ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+    - A-) K&uuml;&ccedil;&uuml;k par&ccedil;acıklarıdır.
+    - B-) Suyla olan etkileşime diren&ccedil; g&ouml;sterirler.
+    - **Cevap C-) Suyla olan etkileşime diren&ccedil; g&ouml;stermezler.**
+    - D-) Ton değerini belirgin kılarlar.
+    - E-) Dolgun bir yapıya sahiptirler.
     <hr />
 1. &ldquo;Tasarımda doğası gereği imgelere kimlik kazandıran organik ve inorganik bi&ccedil;im, &hellip;&hellip;&hellip;&hellip;. tutarlı bir ilişki kurmalıdır.&rdquo;<br />
 <strong>Yukarıda boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?</strong>
@@ -1772,14 +1808,14 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     - D-) B&uuml;y&uuml;k par&ccedil;acıklardır.
     - **Cevap E-) Suyla olan etkileşime diren&ccedil; g&ouml;sterir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi temel dokulara verilen &ouml;rneklerden biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi temel dokulara verilen &ouml;rneklerden biri <u>değildir</u>? </strong>
     - A-) Ger&ccedil;ek
     - B-) Doğal
     - C-) Yapay
     - D-) Soyut
     - **Cevap E-) Somut**
     <hr />
-1. G&uuml;nl&uuml;k yaşamda sıklıkla karşılaştığımız pek &ccedil;ok tasarım &uuml;r&uuml;n&uuml;, i&ccedil;inde organik izlenimi uyandıran bi&ccedil;imler barındırır ancak bunlar inorganik tasarımlardır.&nbsp;<br />
+1. G&uuml;nl&uuml;k yaşamda sıklıkla karşılaştığımız pek &ccedil;ok tasarım &uuml;r&uuml;n&uuml;, i&ccedil;inde organik izlenimi uyandıran bi&ccedil;imler barındırır ancak bunlar inorganik tasarımlardır. <br />
 <strong>C&uuml;mlede belirtilen tasarım &uuml;r&uuml;nlerine aşağıdakilerden hangisi &ouml;rnek <u>verilemez</u>?</strong>
     - A-) Duvar k&acirc;ğıtları
     - B-) Tekstil &uuml;r&uuml;nleri
@@ -1796,11 +1832,11 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     <hr />
 ## Unite 13
 1. <strong>Tasarımda g&ouml;rsel hiyerarşiyle ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Tasarım y&uuml;zeyindeki &ouml;ğeleri &ouml;nem sırasına g&ouml;re birbiriyle ilişkilendirerek yapılandırmaktır.
+    - A-) Tasarım y&uuml;zeyindeki &ouml;geleri &ouml;nem sırasına g&ouml;re birbiriyle ilişkilendirerek yapılandırmaktır.
     - B-) Tasarım &ouml;gelerinin g&ouml;rsel hiyerarşisinde sıra d&uuml;zen ilkesi g&uuml;d&uuml;lmelidir.
     - **Cevap C-) G&ouml;rsel hiyerarşi, orantısal bir d&uuml;zen i&ccedil;erisinde vurguyu &ouml;ne &ccedil;ıkarmamanın bir y&ouml;ntemidir.**
     - D-) Tasarımda g&ouml;rsel hiyerarşi, &ouml;l&ccedil;&uuml;lendirmeyle esastır.
-    - E-) Bir tasarımda kullanılan tasarım &ouml;ğelerinin &ouml;nem derecelerine bağlı olarak sıralanmasıdır.
+    - E-) Bir tasarımda kullanılan tasarım &ouml;gelerinin &ouml;nem derecelerine bağlı olarak sıralanmasıdır.
     <hr />
 1. G&ouml;rsel hiyerarşi, tasarım i&ccedil;indeki g&ouml;rsel unsurları vurgulamak istenen mesaja g&ouml;re &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. anlamına gelir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1926,6 +1962,13 @@ III. Tasarım s&uuml;recine yansıtılmayan kavramlardır.<br />
     - D-) Bir tasarımda belirgin olarak algılanan boş y&uuml;zeyler, vurgu aracılığıyla dikkat &ccedil;ekmenin bir başka y&ouml;ntemi olabilmektedir.
     - **Cevap E-) Tasarımcı, g&ouml;rsel hiyerarşi ve vurgu aracılığıyla izleyenin g&ouml;z&uuml;n&uuml;n tasarıma y&ouml;nlendirmeyi ama&ccedil;lamaz.**
     <hr />
+1. <strong>Yaşamda g&#246;rsel hiyerarşi ve vurgu i&#231;in aşağıdakilerden hangisi <u>s&#246;ylenemez</u>?</strong>
+    - A-) Hiyerarşik bir yapıya sahip olan canlı ve cansız varlıklar, kendine &#246;zg&#252; vurgu alanına sahiptir.
+    - **Cevap B-) Doğal yaşamın ekolojik dengesi, ekolojik bir hiyerarşi i&#231;ermemektedir.**
+    - C-) G&#246;rsel hiyerarşi, bir bakıma toplumsal yaşamdaki d&#252;zenin omurgasını oluşturur.
+    - D-) Evrendeki hiyerarşik d&#252;zen, ekolojik dengenin sağlayıcısı ve b&#246;ylece s&#252;rd&#252;r&#252;lebilir yaşamı elde eden dengenin kendisidir.
+    - E-) Doğal yaşama insan eklentisi olarak d&#226;hil edilen tasarım anlayışı da kendi i&#231;inde hiyerarşik d&#252;zene sahiptir
+    <hr />
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi tasarım kurgusunun &uuml;st&uuml;nde yapılandırılacağı temeli ifade etmektedir?</strong>
     - A-) Doku
@@ -1982,7 +2025,7 @@ III. Hareket<br />
     - D-) Gestalt&rsquo;ın benzerlik ilkesiyle bağlantılıdır.
     - E-) Hareket izlenimi uyandırır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi bakmakla başlayan ancak algımızla tamamlanan bir s&uuml;re&ccedil;&nbsp; olarak tanımlanabilir?</strong>
+1. <strong>Aşağıdakilerden hangisi bakmakla başlayan ancak algımızla tamamlanan bir s&uuml;re&ccedil; olarak tanımlanabilir?</strong>
     - **Cevap A-) G&ouml;rme**
     - B-) Bakma
     - C-) Tasarlama
@@ -2002,6 +2045,13 @@ III. Hareket<br />
     - C-) Form
     - D-) Zemin
     - E-) &Ccedil;izgi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tasarımda kullanılan &#231;izgi &#231;eşitlerinden <u>değildir</u>?</strong>
+    - A-) Yatay &#231;izgiler
+    - B-) Dikey &#231;izgiler
+    - **Cevap C-) Kalın &#231;izgiler**
+    - D-) Kavis &#231;izgiler
+    - E-) Kesişen &#231;izgiler
     <hr />
 1. <strong>Gestalt Kuramı&#39;yla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) B&uuml;t&uuml;n&uuml;n par&ccedil;aların toplamından daha k&uuml;&ccedil;&uuml;k olduğunu iddia eder.

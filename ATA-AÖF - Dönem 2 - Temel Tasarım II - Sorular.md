@@ -1,5 +1,12 @@
 # Temel Tasarım II
 ## Unite 1
+1. <strong>Yaşamdaki boşluk algısına y&ouml;nelik olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Karar verme yetimizi etkiler.
+    - B-) Eylemde bulunma yetimizi etkiler.
+    - **Cevap C-) D&uuml;ş&uuml;nme bi&ccedil;imimizi etkilemez.**
+    - D-) Hareketlerimizin temel dayanaklarından biridir.
+    - E-) İnsan, boşluk i&ccedil;erisinde varlık kazanır.
+    <hr />
 1. Boş alan, &hellip;&hellip;&hellip;&hellip;. değildir. Boş olan bir alandır, bir mek&acirc;ndır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) g&ouml;rsel &ouml;ge
@@ -169,6 +176,13 @@ III. Katman<br />
     - **Cevap D-) Katmanlar, temel bir d&uuml;ş&uuml;nme y&ouml;ntemi olarak tasarımcının yaratıcı fikrine ışık tutmaz.**
     - E-) Tasarımcının g&ouml;rsel dilini zenginleştiren katmanlar, tasarıma &ouml;znel bir kimlik kazandırabilir.
     <hr />
+1. <strong>&Ccedil;ok katmanlı y&uuml;zeyi aşağıdakilerden hangisi a&ccedil;ıklar?</strong>
+    - A-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, bir veya birden fazla grafik &ouml;genin aynı d&uuml;zlemde algılandığı bir tasarımdır.
+    - B-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, &uuml;&ccedil; grafik &ouml;genin aynı d&uuml;zlemde algılandığı bir tasarımdır.
+    - C-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, &ouml;n plandaki katmanın yer aldığı bir tasarımdır.
+    - D-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, iki veya &ccedil;ok sayıdaki grafik &ouml;ge arasındaki ilişkilere bağlı olarak iki katmanın yer aldığı bir tasarımdır.
+    - **Cevap E-) Arka plan olarak tanımlanan bir zemin &uuml;zerinde, birden fazla grafik &ouml;ge arasındaki ilişkiye bağlı olarak &ccedil;ok sayıda katmanın yer aldığı bir tasarımdır.**
+    <hr />
 1. <strong>Tek, iki ve &ccedil;ok katmanlı y&uuml;zeye y&ouml;nelik yapılacak g&ouml;rsel araştırmaların tasarımdaki &ouml;nemiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İ&ccedil;erik ve bi&ccedil;im arasında doğru saptamalarda bulunmayı etkileyecek
     - B-) Yaratıcılığın gelişmesine neden olacak
@@ -266,6 +280,14 @@ III. Yardımcı &ouml;ge<br />
     - **Cevap D-) Arnheim**
     - E-) Bone
     <hr />
+1. Kompozisyon, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. arasındaki etkileşimin &uuml;r&uuml;n&uuml;d&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) form ve doku
+    - B-) şekil ve doku
+    - C-) g&ouml;rsel &ouml;ge ve renk
+    - D-) &ouml;n-arka plan
+    - **Cevap E-) bi&ccedil;im ve i&ccedil;erik**
+    <hr />
 1. I. Yerleştirme<br />
 II. D&uuml;zenleme<br />
 III. Kurgulama<br />
@@ -350,12 +372,12 @@ III. Hedef kitle<br />
     - D-) Kapalı kompozisyonun iki boyutlu y&uuml;zeydeki etkinliği, tasarımcıdan tasarımcıya değişkenlik g&ouml;steren bir anlayışta sonsuz bi&ccedil;im dilini &ouml;rnekleyebilir.
     - E-) Kapalı kompozisyon, i&ccedil;inde sınırlarla tanımlanmış olan ve a&ccedil;ık kompozisyon değeri taşıyan g&ouml;rsel &ouml;geler barındırabilir.
     <hr />
-1. I.&nbsp;İ&ccedil;eriğin belirlediği kapsam, tasarımcıyı bazen a&ccedil;ık bazen de kapalı kompozisyona y&ouml;nlendirebilir.<br />
-II.&nbsp;Bi&ccedil;imsel organizasyonun a&ccedil;ık veya kapalı şekli, hedeflenen mesajın başarı kriteri &uuml;zerine herhangi bir etkisi yoktur.<br />
-III.&nbsp;A&ccedil;ık bir kompozisyonda olduğu gibi, kapalı kompozisyonu oluşturan bileşenler de, farklı miktarlarda anlamı destekleme hedefindedir.<br />
+1. I. İ&ccedil;eriğin belirlediği kapsam, tasarımcıyı bazen a&ccedil;ık bazen de kapalı kompozisyona y&ouml;nlendirebilir.<br />
+II. Bi&ccedil;imsel organizasyonun a&ccedil;ık veya kapalı şekli, hedeflenen mesajın başarı kriteri &uuml;zerine herhangi bir etkisi yoktur.<br />
+III. A&ccedil;ık bir kompozisyonda olduğu gibi, kapalı kompozisyonu oluşturan bileşenler de, farklı miktarlarda anlamı destekleme hedefindedir.<br />
 IV. Bir kapalı kompozisyonun anlamla olan doğru ilişkisi, mesajın etkisini g&uuml;&ccedil;lendirecektir.<br />
-V.&nbsp;Bir grafik kompozisyonun tasarım s&uuml;recinde, d&ouml;rt temel kavramın etkinliği vardır. Bunlar; i&ccedil;erik, bi&ccedil;im, mesaj ve hedef kitledir.<br />
-<strong>Tasarımda kapalı kompozisyon ve anlam ilişkisiyle ilgili olarak yukarıdakilerden hangisi ya da hangileri&nbsp;<u>yanlıştır</u>?</strong>
+V. Bir grafik kompozisyonun tasarım s&uuml;recinde, d&ouml;rt temel kavramın etkinliği vardır. Bunlar; i&ccedil;erik, bi&ccedil;im, mesaj ve hedef kitledir.<br />
+<strong>Tasarımda kapalı kompozisyon ve anlam ilişkisiyle ilgili olarak yukarıdakilerden hangisi ya da hangileri <u>yanlıştır</u>?</strong>
     - A-) Yalnız I
     - **Cevap B-) Yanız II**
     - C-) Yalnız III
@@ -402,6 +424,13 @@ III. Perspektif barok d&ouml;nemiyle kullanıma başladığı kabul edilir.<br /
     - C-) Tepe noktası
     - D-) Ka&ccedil;ış &ccedil;izgileri
     - E-) G&ouml;lgelerin ka&ccedil;ış noktası
+    <hr />
+1. <strong>Tasarımda perspektif y&ouml;ntemlerinden yararlanarak mesajı &ouml;ne &ccedil;ıkarmak i&ccedil;in aşağıdakilerden hangisi kullanılır?</strong>
+    - A-) Metafor
+    - B-) Deformasyon
+    - C-) Tipografi
+    - D-) Işık kaynağı
+    - **Cevap E-) Hiyerarşi**
     <hr />
 1. Demir yolunun ortasında durarak ileriye doğru bakılırsa bu paralel doğruların ufka doğru daraldıkları ve nihayet ta uzaklarda bir noktada birleşmiş duruma geldikleri g&ouml;r&uuml;l&uuml;r.<br />
 <strong>Yukarıda hangi perspektif y&ouml;ntemine ait bir &ouml;rnek verilmiştir?</strong>
@@ -512,6 +541,14 @@ III. G&uuml;neş ışınları yapay aydınlatmaların tersine radyal bi&ccedil;i
     - **Cevap D-) ger&ccedil;ek&uuml;st&uuml;c&uuml;ler / fotomontajlar**
     - E-) konstr&uuml;ktivistler / asamblajlar
     <hr />
+1. Postmodernist akımın temsilcilerinden April Greiman kolaj &ouml;gelerini ........................ kurgulanmış, bu durum kompozisyonlarda kargaşadan &ccedil;ok yeni bir d&uuml;zen anlayışını oluşturacak g&ouml;r&uuml;nt&uuml;y&uuml; ortaya koymuştur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) sezgisel bi&ccedil;imde**
+    - B-) sistematik bi&ccedil;imde
+    - C-) simetrik bi&ccedil;imde
+    - D-) &ccedil;ok renkli olarak
+    - E-) dokusal olarak
+    <hr />
 1. I. Fotomontaj y&ouml;ntemi K&uuml;bizm ile birlikte uygulanmaya başlamıştır.<br />
 II. Kolaj, analitik ve sentetik K&uuml;bizme kolay uyum sağlayacak yapıdaydı.<br />
 III. Kolaj K&uuml;bizm ile etkin bir şekilde tekrar g&uuml;ndeme gelmiştir.<br />
@@ -613,7 +650,7 @@ III. El Lissitzky kolajlarında tipografiye yer vermez.<br />
     - D-) Dekupaj
     - E-) Fotomontaj
     <hr />
-1. <strong>Montaj, fotomontaj, asamblaj terimleri konusunda aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Montaj, fotomontaj, asamblaj terimleri konusunda aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Kolaj mantığı ilk olarak Rum ikonalarında olduğu gibi dini ama&ccedil;lı uygulandığı g&ouml;r&uuml;lmektedir.**
     - B-) Asamblaj &ccedil;evremizde yer alan nesnelerden oluşturulan &uuml;&ccedil; boyutlu kompozisyonları ifade etmek i&ccedil;in kullanılan bir terimdir.
     - C-) Montaj, Sanayi Devrimi ile birlikte hayatımıza giren ve farklı par&ccedil;aların bir işlev i&ccedil;in bir araya getirilmesi ile &ouml;zetlenebilecek yaygın bir terimdir.
@@ -652,6 +689,13 @@ III. Marksist Estetik, sanatı yaşamın bir yansıması olarak ele alır.<br />
     - C-) Sezgi-Algılama-Duyum-Bi&ccedil;imlendirme
     - D-) Bi&ccedil;imlendirme-Sezgi-Duyum-Algılama
     - E-) Algılama-Bi&ccedil;imlendirme-Duyum-Sezgi
+    <hr />
+1. <strong>Sanatsal imgenin &ouml;zelliklerinden biri olarak aşağıdakilerden hangisi <u>d&uuml;ş&uuml;n&uuml;lemez</u>?</strong>
+    - A-) Depolanmış imgeler &ouml;znel yaklaşımlarla birleştirilerek kullanılır.
+    - **Cevap B-) Duyumlardan &ccedil;ok tasvirlere dayanır.**
+    - C-) Yaratma eyleminin devreye girmesiyle ortaya &ccedil;ıkar.
+    - D-) Ger&ccedil;ekliğin imgelem yoluyla anlatılması durumudur.
+    - E-) Soyutlama yetisinin sonucudur.
     <hr />
 1. <strong>&ldquo;İmajinasyon&rdquo; i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - **Cevap A-) İmgelerin zihinde depolanmasıdır.**
@@ -737,17 +781,17 @@ III. Aynalar<br />
     - **Cevap D-) Sanat&ccedil;ının yaratma eylemininin hi&ccedil;bir &ouml;nemi yoktur.**
     - E-) Ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze sanatk&acirc;rlar duygu ve d&uuml;ş&uuml;ncelerini anlatırken &ccedil;eşitli işaretler kullanmışlardır.
     <hr />
-1. I.&nbsp;Grafik imge bağlamında resim, heykel ve tasarım sanatları<br />
+1. I. Grafik imge bağlamında resim, heykel ve tasarım sanatları<br />
 II. Optik imgeler bağlamında aynalar ve her t&uuml;rl&uuml; projeksiyon g&ouml;r&uuml;nt&uuml;leri<br />
-III.&nbsp;Duyu bilgileri ile tasarımları imgeler<br />
-<strong>İmge soyağacı grafik imge, optik imge, algısal imge, zihinsel imge ve s&ouml;zl&uuml; imge olmak &uuml;zere beş ana grup i&ccedil;inde ele alınmaktadır. Buna g&ouml;re aşağıdakilerden hangisi ya da hangileri&nbsp;<u>s&ouml;ylenemez</u>?</strong>
+III. Duyu bilgileri ile tasarımları imgeler<br />
+<strong>İmge soyağacı grafik imge, optik imge, algısal imge, zihinsel imge ve s&ouml;zl&uuml; imge olmak &uuml;zere beş ana grup i&ccedil;inde ele alınmaktadır. Buna g&ouml;re aşağıdakilerden hangisi ya da hangileri <u>s&ouml;ylenemez</u>?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) Yalnız III**
     - D-) I ve II
     - E-) I, II ve III
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;imge kullanımında başarı kriterleri arasında &ouml;nde gelen &ouml;zelliklerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi imge kullanımında başarı kriterleri arasında &ouml;nde gelen &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - **Cevap A-) İkonoloji**
     - B-) &Ccedil;arpıcılık
     - C-) Akılda kalıcılık
@@ -757,7 +801,7 @@ III.&nbsp;Duyu bilgileri ile tasarımları imgeler<br />
 1. <strong>Sanatsal imgelerin gelişimiyle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) İmgeye dair ilk &ouml;rnekler ilkel insanın mağara duvarlarına ya da kayalara resmettikleri betimlemelerde g&ouml;r&uuml;l&uuml;r.
     - B-) Arkaik toplumlarda temsil ettiği nesneyi ve durumu &ccedil;ağrıştıran, soyutlayan piktogram ve ideogram oluşumları dikkat &ccedil;ekmektedir.
-    - C-) Mısır medeniyetinde ruhun imgede ve imge sayesinde yasayacağına inanılır.
+    - C-) Mısır medeniyetinde ruhun imgede ve imge sayesinde yasayacağına inanılır. 
     - D-) Orta &Ccedil;ağ Sanatı&rsquo;nda imgeler &ccedil;oğunlukla kutsal &ouml;ğretileri ileten unsurlar olarak karşımıza &ccedil;ıkmıştır.
     - **Cevap E-) R&ouml;nesans ile birlikte imge yeniden insan ve onun &ccedil;evresinin dini anlayışına odaklanmıştır.**
     <hr />
@@ -887,6 +931,13 @@ III. Terapotik<br />
     - D-) Agustinus
     - E-) Thomas Hobbes
     <hr />
+1. <strong>Metaforun temelleri ve gelişmesiyle ilgili olarak aaşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Kavramın temelleri Platon&rsquo;a kadar dayanan, kendi d&uuml;ş&uuml;nce sistemlerini geliştirmiş filozoflarca atılmış ve geliştirilmiştir.
+    - B-) &quot;Geleneksel Metafor Yaklaşımları&rdquo; kavramın ş&uuml;pheci, negatif bi&ccedil;imde ikincil planda ele alındığı d&ouml;nemleri ifade eder.
+    - C-) Orta &Ccedil;ağ d&uuml;ş&uuml;n&uuml;rleri ise teolojiye (tanrıbilim) dair bilgileri metaforlarla anlaşılır kılmaya &ccedil;alışmışlardır.
+    - **Cevap D-) Modern d&ouml;nemlerde de metafora karşı eleştirel yaklaşılmamıştır.**
+    - E-) Metafor kavramının geleneksel tanımlamalarına karşı yeni fikirler geliştirilen d&uuml;ş&uuml;n&uuml;rler arasında ilk Nietzsche gelir.
+    <hr />
 1. Sanat&ccedil;ı, deneyimlerini ve i&ccedil;sel kaygılarını ele alırken &ccedil;eşitli g&ouml;rsel meteforlardan faydalanmaktadır.<strong><br />
 Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanılan alt başlıklardan biri <u>değildir</u>?</strong>
     - A-) Benzetme kaygısı
@@ -1006,7 +1057,7 @@ III. Sentaks<br />
     - D-) İdeogram
     - E-) Hiyeroglif
     <hr />
-1. <strong>Aşağıdakilerden hangisi sembolik işaretlerden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi sembolik işaretlerden biri <u>değildir</u>?</strong>
     - A-) Matematiksel işaretler
     - B-) M&uuml;zik işaretleri
     - C-) Bayrak işaret sembolleri
@@ -1129,7 +1180,7 @@ III. Sentaks<br />
     - E-) İ&ccedil;erikle ilişkilendirilen kavram ve anahtar kelimeler, grafik &uuml;r&uuml;n&uuml;n bi&ccedil;imsel yaklaşımı etkileyecektir.
     <hr />
 1. <strong>&ldquo;Geri d&ouml;n&uuml;ş&uuml;m&rdquo; temalı bir afiş tasarımı i&ccedil;in yapılacak araştırma i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili olarak bilimsel veri niteliği taşıyan kongre veya sempozyumların d&uuml;zenlenip d&uuml;zenlenmediği araştırılabilir.
+    - A-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili olarak bilimsel veri niteliği taşıyan kongre veya sempozyumların d&uuml;zenlenip d&uuml;zenlenmediği araştırılabilir. 
     - **Cevap B-) Belirlenen bir zaman dilimine ve incelemeye gerek yoktur.**
     - C-) Geri d&ouml;n&uuml;ş&uuml;mle ilgili istatiksel verilerin yer aldığı tablo ve grafikler incelenebilir.
     - D-) İ&ccedil;inde geri d&ouml;n&uuml;ş&uuml;me y&ouml;nelik kuramsal bilgilerin yer aldığı kitaplar taranabilir.

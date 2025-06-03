@@ -113,7 +113,7 @@
     - D-) Hibrid bilgisayarlar
     - E-) Sayısal bilgisayarlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp; kullanıcıların mobil cihazları, bilgisayarları ve diğer elektronik cihazları arasında birka&ccedil; metrelik mesafede iletişim kurabilmelerini sağlayan ağ sistemi t&uuml;r&uuml;d&uuml;r?</strong>
+1. <strong>Aşağıdakilerden hangisi kullanıcıların mobil cihazları, bilgisayarları ve diğer elektronik cihazları arasında birka&ccedil; metrelik mesafede iletişim kurabilmelerini sağlayan ağ sistemi t&uuml;r&uuml;d&uuml;r?</strong>
     - A-) Geniş alan ağı
     - B-) Yerel alan ağı
     - C-) Orta &ouml;l&ccedil;ekli ağ
@@ -405,7 +405,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     <hr />
 1. <strong>Windows işletim sistemi kullanan bir bilgisayarda vir&uuml;s olduğundan ş&uuml;phelenilirse aşağıdakilerden hangisi yapılmamalıdır?</strong>
     - A-) Bilgisayar g&uuml;venli modda &ccedil;alıştırılarak antivir&uuml;s taramasından ge&ccedil;irilmelidir.
-    - B-) &nbsp;Bilgisayardaki kritik bilgilerin (kredi kartı, kişisel bilgiler vb.) girişi yapılmamalıdır.
+    - B-) Bilgisayardaki kritik bilgilerin (kredi kartı, kişisel bilgiler vb.) girişi yapılmamalıdır.
     - C-) Bilgisayara usb, telefon gibi taşınabilir cihazlar takılmamalıdır.
     - **Cevap D-) Başka bir bilgisayar ile bağlantı kurularak Windows sistem dosyaları değiştirilmelidir.**
     - E-) Windows g&uuml;ncelleştirilmeli ve g&uuml;venlik duvarı pasif ise aktif hale getirilmelidir.
@@ -531,7 +531,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Belge blog yayını h&acirc;line getirilebilir.
     - **Cevap E-) Belgeye erişim kısıtlanabilir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi kelime işlemci yazılımlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kelime işlemci yazılımlarından biri <u>değildir</u>?</strong>
     - **Cevap A-) Google Sheets**
     - B-) LibreOffice Writer
     - C-) Calligra
@@ -580,7 +580,7 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) Dropbox Paper
     - E-) Apache OpenOffice Writer
     <hr />
-1. <strong>Aşağıdakilerden hangisi kelime işlemci programlarından biri olan&nbsp;LibreOffice Writer&#39;ın temel &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kelime işlemci programlarından biri olan LibreOffice Writer&#39;ın temel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Varsayılan &ldquo;odt&rdquo; dosya bi&ccedil;iminin yanı sıra &ldquo;docx&rdquo;, &ldquo;rtf&rdquo; gibi bi&ccedil;imleri destekler.
     - B-) İki belgeyi karşılaştırabilir ve değişiklikleri izleyebilir.
     - C-) HTML ve XHTML belgelerini d&uuml;zenleyebilir.
@@ -837,7 +837,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Metin kolaylıkla tabloya d&ouml;n&uuml;şt&uuml;r&uuml;lebilir.
     - E-) Tablolar, satır ve s&uuml;tunlardan oluşur.
     <hr />
-1. <strong>Word programında&nbsp;yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle g&ouml;sterilmesi,&nbsp;kayıt altına alınması ve g&ouml;sterilmesi i&ccedil;in aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?</strong>
+1. <strong>Word programında yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle g&ouml;sterilmesi, kayıt altına alınması ve g&ouml;sterilmesi i&ccedil;in aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?</strong>
     - A-) G&ouml;zden Ge&ccedil;ir sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.
     - B-) Giriş sekmesinin İzleme grubunda bulunan Değişiklikleri İzle d&uuml;ğmesi ile izleme başlatılır.
     - C-) Giriş sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.
@@ -852,7 +852,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - **Cevap D-) Excel g&uuml;ncel s&uuml;r&uuml;mleri exceloffice.com sitesinden indirilmektedir.**
     - E-) Excel 2021 men&uuml;leri diğer Excel s&uuml;r&uuml;mleriyle benzerlik g&ouml;stermektedir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Excel programının bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Excel programının bileşenlerinden biri <u>değildir</u>?</strong>
     - A-) Başlık &ccedil;ubuğu
     - B-) Dosya men&uuml;s&uuml;
     - C-) Men&uuml; Şerit Bloğu
@@ -916,7 +916,14 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Form&uuml;ller yazılarak &ccedil;eşitli hesaplamalar yapılmaktadır.
     - **Cevap E-) Herkes tarafından kullanılabilen &uuml;cretsiz yazılımdır.**
     <hr />
-1. <strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi&nbsp;i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>
+1. <strong>Kullanıcının yaptığı rutin işleri daha hızlı ve otomatik yapabilmesi i&#231;in aşağıdaki hangi gruptaki komutları kullanılması gerekmektedir?</strong>
+    - A-) Pencere
+    - B-) Yazım
+    - C-) Değişiklikler
+    - **Cevap D-) Makrolar**
+    - E-) Sırala ve Filtre Uygula
+    <hr />
+1. <strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>
     - **Cevap A-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Sayı&rdquo; sekmesinde yer alan &ldquo;Metin&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.**
     - B-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Hizalama&rdquo; sekmesinde yer alan &ldquo;Dikey&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.
     - C-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Kenarlık&rdquo; sekmesinden gerekli ayarlamalar yapılmalıdır.
@@ -959,7 +966,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) =(A2/3)+(A3/3)+(A4/3)
     - E-) =(TOPLA(A2:A4))/3
     <hr />
-1. <strong>Aşağıdakilerden hangisi Excel programında kullanılan fonksiyonlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Excel programında kullanılan fonksiyonlardan biri <u>değildir</u>?</strong>
     - A-) TOPLA
     - B-) ORTALAMA
     - C-) EĞER
@@ -1001,6 +1008,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - C-) =EĞER(A8&gt;=65;&rdquo;Aşı Zorunluluğu Yok&rdquo;;&rdquo;Aşı Zorunluluğu Var&rdquo;)
     - **Cevap D-) =EĞER(A8&gt;=65;&rdquo;Aşı Zorunluluğu Var&rdquo;;&rdquo;Aşı Zorunluluğu Yok&rdquo;)**
     - E-) =EĞER(A8&gt;65;&rdquo;Aşı Zorunluluğu Var&rdquo;;&rdquo;Aşı Zorunluluğu Yok&rdquo;)
+    <hr />
+1. <strong>Excel programını yeni &ouml;ğrenen Ahmet A4 h&uuml;cresine &ldquo;=(A1+ A2+ A3)/3&rdquo; form&uuml;l&uuml;n&uuml; yazmıştır. Ahmet aşağıdaki fonksiyonlardan hangisini kullanarak bu işlemi daha kısa bir şekilde yapabilir?</strong>
+    - **Cevap A-) ORTALAMA**
+    - B-) TOPLAMA
+    - C-) EGER
+    - D-) EGERSAY
+    - E-) BAG_DEG_SAY
     <hr />
 1. <strong>Excel programında &quot;=D1+D2+D3+D4+D5+D6&quot; form&uuml;l&uuml; aşağıdakilerden hangisi ile aynıdır?</strong>
     - A-) =TOPLA(D1,D6)
@@ -1073,7 +1087,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Ders kapak g&ouml;rsellerinin belirlenmesine
     - **Cevap E-) Katılımcıların sınırlandırılması**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ouml;ğrenme y&ouml;netim sistemlerinde yer alan kullanıcı rollerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenme y&ouml;netim sistemlerinde yer alan kullanıcı rollerinden biri <u>değildir</u>?</strong>
     - A-) Eğitimci
     - **Cevap B-) D&uuml;zenleyen &ouml;ğrenci**
     - C-) &Ouml;ğrenci
@@ -1086,6 +1100,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - C-) Tartışma forumları mod&uuml;l&uuml;
     - D-) Blog Mod&uuml;l&uuml;
     - E-) Dahili mesajlaşma mod&uuml;l&uuml;
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &Ouml;ğrenme Y&ouml;netim Sistemlerinin</strong> (<strong>&Ouml;YS) sistem d&uuml;zeyindeki rollerdendir?</strong>
+    - **Cevap A-) Tema/Aray&uuml;z sorumlusu**
+    - B-) Eğitimci
+    - C-) &Ouml;ğrenci
+    - D-) D&uuml;zenleme yapamayan eğitimci
+    - E-) Misafir
     <hr />
 1. <strong>&Ouml;ğretim Y&ouml;netim Sistemi&#39;nde (&Ouml;YS) &ouml;ğrenen ve eğitimcinin aynı anda bağlanıp ders işleyebileceği mod&uuml;l aşağıdakilerden hangisidir?</strong>
     - A-) Duyuru mod&uuml;l&uuml;
@@ -1130,8 +1151,8 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Saklama
     - **Cevap E-) Lisanslama**
     <hr />
-1. I.&nbsp;&nbsp; Eğitimde fırsat eşitliği sağlama<br />
-II.&nbsp; Yaşam boyu &ouml;ğrenmenin niteliğini artırma<br />
+1. I.  Eğitimde fırsat eşitliği sağlama<br />
+II. Yaşam boyu &ouml;ğrenmenin niteliğini artırma<br />
 III. Yerel ve k&uuml;resel bağlamda eğitime erişim imk&acirc;nı sunma<br />
 IV. Geleneksel eğitimi ortadan kaldırma<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri MOOC&rsquo;ların kullanıcılara sağladığı faydalardandır?</strong>
@@ -1190,6 +1211,13 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Focus To-Do
     - E-) XMind
     <hr />
+1. <strong>Farklı mek&acirc;nlarda bulunan &ouml;ğretici ve &ouml;ğrenenlerin aynı anda web destekli cihazlarla katılım sağladıkları &ouml;ğrenme ortamı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Eş zamanlı**
+    - B-) Y&uuml;z y&uuml;ze
+    - C-) Karma
+    - D-) Eş zamanlı olmayan
+    - E-) Geleneksel
+    <hr />
 1. <strong>George Siemens ve Stephen Downes&rsquo;ın MOOC uygulaması aşağıdaki kuramlardan hangisi &uuml;zerine kurulmuştur?</strong> 
     - A-) Bilişsel
     - **Cevap B-) Bağlantıcı**
@@ -1197,17 +1225,17 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Yapıcı
     - E-) Davranış&ccedil;ı
     <hr />
-1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan &ouml;ğrenme ortamlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan &ouml;ğrenme ortamlarından biri <u>değildir</u>?</strong>
     - A-) E-posta
     - B-) Web g&uuml;nceleri (Blog)
     - C-) Podcast
     - D-) Forum
     - **Cevap E-) Videokonferans**
     <hr />
-1. I.&nbsp;Eğitimde fırsat eşitliği sağlaması<br />
-II.&nbsp;Yaşam boyu &ouml;ğrenmenin niteliğini artırması<br />
-III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;MOOC&rsquo;ların (Kitlesel A&ccedil;ık &Ccedil;evrimi&ccedil;i Kurslar)&nbsp;kullanıcılarına sağladığı faydalar arasında yer alır?</strong>
+1. I. Eğitimde fırsat eşitliği sağlaması<br />
+II. Yaşam boyu &ouml;ğrenmenin niteliğini artırması<br />
+III. Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri MOOC&rsquo;ların (Kitlesel A&ccedil;ık &Ccedil;evrimi&ccedil;i Kurslar) kullanıcılarına sağladığı faydalar arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve III
@@ -1221,9 +1249,9 @@ III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<
     - D-) Telekonferans
     - E-) Canlı Dersler
     <hr />
-1. <strong>Aşağıdakilerden hangisi kendi &ouml;ğrenme s&uuml;recini yapılandırmak isteyen bireylerin kolayca erişebileceği, ders i&ccedil;eriği oluşturabileceği, &ccedil;eşitli &ouml;ğrenme aktiviteleri yoluyla iş birlikleri veya tartışmalara katılabileceği, iletişim kurabileceği, sosyal medya ara&ccedil;larını eğitim s&uuml;re&ccedil;lerine d&acirc;hil eden&nbsp;yapının adıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi kendi &ouml;ğrenme s&uuml;recini yapılandırmak isteyen bireylerin kolayca erişebileceği, ders i&ccedil;eriği oluşturabileceği, &ccedil;eşitli &ouml;ğrenme aktiviteleri yoluyla iş birlikleri veya tartışmalara katılabileceği, iletişim kurabileceği, sosyal medya ara&ccedil;larını eğitim s&uuml;re&ccedil;lerine d&acirc;hil eden yapının adıdır?</strong>
     - A-) &Ccedil;evrimi&ccedil;i Ders &Ccedil;alışma Ara&ccedil;ları
-    - B-) &Ccedil;evrimi&ccedil;i&nbsp;Dersler
+    - B-) &Ccedil;evrimi&ccedil;i Dersler
     - C-) Videolar
     - **Cevap D-) Kitlesel A&ccedil;ık &Ccedil;evrimi&ccedil;i Kurslar (MOOC)**
     - E-) A&ccedil;ık Eğitim Kaynakları
@@ -1236,8 +1264,8 @@ III.&nbsp;Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<
     - D-) Kaynak
     - E-) Geri bildirim
     <hr />
-1. I.&nbsp;&nbsp; Karşılıklı etkileşim<br />
-II.&nbsp; Eş zamanlı olmayan iletişim<br />
+1. I.  Karşılıklı etkileşim<br />
+II. Eş zamanlı olmayan iletişim<br />
 III. Yeniden karıştırma<br />
 IV. Kitlesizleştirme<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri iletişim teknolojilerinin sunduğu &ouml;zelliklerdendir?</strong>
@@ -1261,8 +1289,8 @@ IV. Kitlesizleştirme<br />
     - D-) Anlık mesajlaşma
     - E-) Sanal sınıf
     <hr />
-1. I.&nbsp;&nbsp; Bağlantı hızının yavaş olması<br />
-II.&nbsp; V&uuml;cut dilini anlayabilme olanağı<br />
+1. I.  Bağlantı hızının yavaş olması<br />
+II. V&uuml;cut dilini anlayabilme olanağı<br />
 III. Konuşma ve g&ouml;rme olanağı<br />
 IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri web konferans sistemlerinin sunduğu avantajlardandır?</strong>
@@ -1293,7 +1321,7 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Blog
     - E-) Bulut teknolojiler
     <hr />
-1. <strong>Aşağıdakilerden hangisi blog ortamlarının kullanıcılarına sunduğu imk&acirc;nlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi blog ortamlarının kullanıcılarına sunduğu imk&acirc;nlardan biri <u>değildir</u>?</strong>
     - A-) G&uuml;ncellemelerin pratik bir şekilde ve kısa s&uuml;rede yapılabilmesi
     - B-) İzleyici ve kullanıcıların kolayca yorum yapabilmesi
     - C-) İ&ccedil;eriklerin anlık olarak binlerce kişiyle eş zamanlı olarak paylaşılabilmesi
@@ -1307,7 +1335,18 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Sanal sınıflar
     - E-) Web konferans sistemleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi blog uygulamalarından biri&nbsp;<u>değildir</u>?</strong>
+1. I. Dosya transfer etme<br />
+II. Hiperlinkler g&ouml;nderme<br />
+III. Video chat yapma<br />
+IV. Sesli/g&ouml;r&uuml;nt&uuml;l&uuml; dosya g&ouml;nderme<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?</strong>
+    - A-) Yalnız I
+    - B-) Yalnız II
+    - C-) I ve III
+    - D-) I, III ve IV
+    - **Cevap E-) I, II, III ve IV**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi blog uygulamalarından biri <u>değildir</u>?</strong>
     - A-) Medium
     - B-) Tumblr
     - **Cevap C-) Whatsapp**
@@ -1336,8 +1375,8 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - E-) Konuşma ve g&ouml;rmede sıkıntılar yaşanması
     <hr />
 ## Unite 13
-1. I.&nbsp;&nbsp; Mek&acirc;ndan bağımsızlık<br />
-II.&nbsp; Zamandan bağımsızlık<br />
+1. I.  Mek&acirc;ndan bağımsızlık<br />
+II. Zamandan bağımsızlık<br />
 III. Yapıcı i&ccedil;erik<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri mobil &ouml;ğrenmenin &ccedil;evrimi&ccedil;i &ouml;ğrenmeyle birlikte sahip oldukları temel &ouml;zelliklerdendir?</strong>
     - A-) Yalnız I
@@ -1367,8 +1406,8 @@ III. Yapıcı i&ccedil;erik<br />
     - D-) SMS
     - E-) GPRS
     <hr />
-1. I.&nbsp;&nbsp; Bağımsız ve işbirlik&ccedil;i &ouml;ğrenme deneyimi<br />
-II.&nbsp; &Ouml;zg&uuml;ven ve benlik saygısını artırma<br />
+1. I.  Bağımsız ve işbirlik&ccedil;i &ouml;ğrenme deneyimi<br />
+II. &Ouml;zg&uuml;ven ve benlik saygısını artırma<br />
 III. Okuryazarlık ve aritmetik becerileri geliştirme<br />
 IV. Sınırlı fiziksel &ouml;zellikler sunma<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri mobil &ouml;ğrenme eğitim-&ouml;ğretim s&uuml;recinde &ouml;ğrenenlere sunduğu avantajlardandır?</strong>
@@ -1392,8 +1431,8 @@ IV. Sınırlı fiziksel &ouml;zellikler sunma<br />
     - D-) GPRS
     - E-) MP3
     <hr />
-1. I.&nbsp;&nbsp; &Ouml;ğrenme performansı<br />
-II.&nbsp; &Ouml;ğrenme s&uuml;reci<br />
+1. I.  &Ouml;ğrenme performansı<br />
+II. &Ouml;ğrenme s&uuml;reci<br />
 III. &Ouml;ğrenme deneyimi<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri mobil &ouml;ğrenmenin &ouml;ğrenenlere sunduğu faydalardandır?</strong>
     - A-) Yalnız I
@@ -1402,7 +1441,7 @@ III. &Ouml;ğrenme deneyimi<br />
     - D-) I ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Aşağıdakilerden hangisi bireyler tarafından sıklıkla kullanılan mobil &ouml;ğrenme teknolojilerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi bireyler tarafından sıklıkla kullanılan mobil &ouml;ğrenme teknolojilerinden biri <u>değildir</u>?</strong>
     - A-) G&ouml;r&uuml;nt&uuml;/ses kaydediciler
     - **Cevap B-) Sanal ger&ccedil;eklik**
     - C-) Dijital s&ouml;zl&uuml;kler
@@ -1416,23 +1455,23 @@ III. &Ouml;ğrenme deneyimi<br />
     - D-) Otantik &ouml;ğrenme
     - E-) Bağlama duyarlı &ouml;ğrenme
     <hr />
-1. <strong>Aşağıdakilerden hangisi mobil cihazların &ouml;ğrenmedeki &ouml;nemli rollerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi mobil cihazların &ouml;ğrenmedeki &ouml;nemli rollerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Yazılımların hızla g&uuml;ncellenmesi**
     - B-) Aktif bir şekilde &ouml;ğrenmeye katılabilme
     - C-) Sınıf i&ccedil;i veya dışı her yerde ve her zaman iletişim sağlama
     - D-) &Ouml;dev, belge, video, ses vb. &ccedil;oklu ortam destekli materyaller paylaşma
     - E-) Akran veya eğitmenlerle etkileşime girebilme
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ouml;ğrenen perspektifinden mobil &ouml;ğrenmenin faydalarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenen perspektifinden mobil &ouml;ğrenmenin faydalarından biri <u>değildir</u>?</strong>
     - A-) &Ouml;ğrenme performansını iyileştirme
     - B-) Yerleşik &ouml;ğrenme sağlama
     - C-) Otantik &ouml;ğrenme sağlama
     - D-) &Ouml;ğrenme deneyimini iyileştirme
     - **Cevap E-) İş y&uuml;klerini artırma**
     <hr />
-1. I.&nbsp;Belirli bir lokasyona bağlı kalmadan eğitim i&ccedil;eriğine erişim sunar.<br />
-II.&nbsp;Dinamik olarak oluşturulan hizmetlerden yararlanmaya olanak sağlar.<br />
-III.&nbsp;Zamana ve mek&acirc;na bağımlıdır.<br />
+1. I. Belirli bir lokasyona bağlı kalmadan eğitim i&ccedil;eriğine erişim sunar.<br />
+II. Dinamik olarak oluşturulan hizmetlerden yararlanmaya olanak sağlar.<br />
+III. Zamana ve mek&acirc;na bağımlıdır.<br />
 IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
 <strong>Mobil &ouml;ğrenme ile ilgili yukarıdakilerden hangileri doğrudur?</strong>
     - A-) III ve IV
@@ -1503,7 +1542,7 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - B-) İdari personeller
     - C-) Destek hizmetleri
     - D-) Y&ouml;neticiler
-    - **Cevap E-) &nbsp;Veliler**
+    - **Cevap E-) Veliler**
     <hr />
 1. <strong>A&ccedil;ık&ouml;ğretim ve uzaktan eğitim programlarındaki en &ouml;nemli fark aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Ouml;ğreticilerin rol alması**
@@ -1519,4 +1558,12 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - C-) Uzaktan &ouml;ğretimin her ders i&ccedil;in uygun olmaması
     - **Cevap D-) Bireysel y&ouml;netim**
     - E-) Teknik beceri ve deneyim ihtiyacı
+    <hr />
+1. A&ccedil;ık ve uzaktan &ouml;ğretimde kullanılan materyaller arasında olan e-kitaplar, animasyonlar, videolar, sesli okumaların hazırlanmasında &ouml;ğretim tasarımcısı, grafikerler, ses ve video uzmanları, kameramanlar, senaryo geliştiriciler gibi alanında uzman kişiler g&ouml;rev alır.<br />
+<strong>A&ccedil;ıklamada bahsedilen a&ccedil;ık ve uzaktan &ouml;ğretim paydaşı aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) İ&ccedil;erik Geliştiriciler**
+    - B-) Bilgi İşlem Uzmanları
+    - C-) Destek Sağlayıcılar
+    - D-) &Ouml;l&ccedil;me Değerlendirme Uzmanları
+    - E-) &Ouml;ğretici
     <hr />

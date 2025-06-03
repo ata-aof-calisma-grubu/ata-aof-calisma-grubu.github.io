@@ -14,7 +14,7 @@
     - **Cevap D-) B&uuml;y&uuml;k harf**
     - E-) Baseline (taban &ccedil;izgisi)
     <hr />
-1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır?&nbsp;</strong>
+1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır? </strong>
     - **Cevap A-) Yazı karakteri (harf bi&ccedil;imi)**
     - B-) X-height (x y&uuml;ksekliği)
     - C-) K&uuml;&ccedil;&uuml;k harf
@@ -83,6 +83,13 @@
     - C-) 17
     - D-) 20
     - E-) 24
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bir yazı karakterindeki harflerin &uuml;zerinde duruyormuş gibi g&ouml;r&uuml;nd&uuml;ğ&uuml; hayal&icirc; &ccedil;izginin tanımıdır?</strong>
+    - A-) Ligature (bitişik karakter)
+    - B-) Arm (kol)
+    - C-) x- height (x- y&uuml;ksekliği)
+    - **Cevap D-) Baseline (taban &ccedil;izgisi)**
+    - E-) Mean Line (orta &ccedil;izgi)
     <hr />
 1. <strong>Aşağıdaki terimlerden hangisi s&ouml;zc&uuml;kleri dil bilgisi kurallarına uygun b&ouml;l&uuml;p kelimenin bir kısmını satırın sonunda bırakarak kalan kısmını sonraki satırda verilmesini ve kelimeyi b&ouml;lmek i&ccedil;in kısa &ccedil;izgi kullanılmasını ifade etmede kullanılır?</strong>
     - A-) Leading (satır arası boşluk)
@@ -155,14 +162,14 @@
     - D-) David Carson
     - **Cevap E-) Alan Fletcher**
     <hr />
-1. <strong>1967 tarihinde yazdığı &#39;&#39;Tipografi &Uuml;zerine</strong><strong>&#39;&#39;</strong><strong>&nbsp;adlı makalesinde, &ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+1. <strong>1967 tarihinde yazdığı &#39;&#39;Tipografi &Uuml;zerine</strong><strong>&#39;&#39;</strong><strong> adlı makalesinde, &ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Herbert Bayer**
     - B-) Peter Bilak
     - C-) Helen Armstrong
     - D-) Alan Fletcher
-    - E-) &nbsp;David Carson
+    - E-) David Carson
     <hr />
-1. <strong>Bel&ccedil;ika&rsquo;nın n&uuml;fus yoğunluğunu hesaba katan ve haritacılık &uuml;zerine temellenen &#39;&#39;Sprawl</strong><strong>&#39;&#39;</strong><strong>&nbsp;adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>
+1. <strong>Bel&ccedil;ika&rsquo;nın n&uuml;fus yoğunluğunu hesaba katan ve haritacılık &uuml;zerine temellenen &#39;&#39;Sprawl</strong><strong>&#39;&#39;</strong><strong> adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>
     - A-) Helen Armstrong
     - B-) Herbert Bayer
     - C-) David Carson
@@ -182,6 +189,13 @@
     - **Cevap C-) Michael Worthington**
     - D-) Peter Bilak
     - E-) Gavin Ambrose
+    <hr />
+1. <strong>Odun par&ccedil;aları kullanılarak oluşturulmuş &ldquo;ART&rdquo; kelimesinin tasarımcısı aşağıdakilerden hangisidir?</strong>
+    - A-) Peter Bilak
+    - B-) Thomas Huot-Marchand
+    - C-) Clotilde Olyff
+    - **Cevap D-) Gy&ouml;nky Laky**
+    - E-) Brecht Cuppens
     <hr />
 ## Unite 3
 1. <strong>Duygu, d&uuml;ş&uuml;nce ve olayların; şekil, bi&ccedil;im, sembol gibi &ccedil;eşitli g&ouml;rsellerle y&uuml;zey &uuml;zerinde organize edilmesi eylemi nedir?</strong>
@@ -234,7 +248,7 @@
     - E-) Tipografi
     <hr />
 1. <strong>Aşağıdaki ifadelerden hangisi Yeni Tipografi Hareketi&#39;ne ait &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır.
+    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır. 
     - B-) Tasarımlarda beyaz boşluk kullanılır.
     - C-) Serifsiz yazı karakteri kullanılır.
     - **Cevap D-) Simetrik d&uuml;zenleme yapılır.**
@@ -271,7 +285,14 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Bodoni
     - **Cevap E-) Baskerville**
     <hr />
-1. Bauhaus Akımı &ouml;zellikle De Stijl ve Konstr&uuml;ktivizm etkisinde kalmakla beraber, Almanya&rsquo;nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve k&uuml;lt&uuml;rel alanlarda yeni bir d&uuml;zen arayışından ortaya &ccedil;ıkmıştır.&nbsp;<br />
+1. <strong>Harflerin, genellikle &uuml;stten belli bir a&ccedil;ıyla sağa doğru yatık olacak şekilde, alttan, ortadan ya da &uuml;stten birbirleriyle bağlı olarak yazıldığı yazı &ccedil;eşidi nedir?</strong>
+    - A-) Serifsiz yazı
+    - B-) Serifli yazı
+    - C-) Modern yazı
+    - D-) Dekoratif yazı
+    - **Cevap E-) El yazısı**
+    <hr />
+1. Bauhaus Akımı &ouml;zellikle De Stijl ve Konstr&uuml;ktivizm etkisinde kalmakla beraber, Almanya&rsquo;nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve k&uuml;lt&uuml;rel alanlarda yeni bir d&uuml;zen arayışından ortaya &ccedil;ıkmıştır. <br />
 <strong>Buna g&ouml;re Bauhaus Akımı kimin &ouml;nderliğinde ortaya &ccedil;ıkmıştır?</strong>
     - **Cevap A-) Walter Gropius**
     - B-) Moholy-Nagy
@@ -350,7 +371,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Hiyerarşik d&uuml;zende kurgulanması gereken t&uuml;m unsurların &ouml;ncelik sırasının uygun ve etkin belirlenebilmesi
     - **Cevap E-) Arka planda kullanılacak unsurların boyut olarak, birinci derece &ouml;nem arz eden unsurlardan daha k&uuml;&ccedil;&uuml;k şekilde kullanılması**
     <hr />
-1. <strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa &uuml;zerinde farklı koyulukta lekeler olarak algılanan&nbsp;tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>
+1. <strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa &uuml;zerinde farklı koyulukta lekeler olarak algılanan tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>
     - A-) Farklı yazı tipi kullanımı
     - B-) Kalın (Bold) yazı kullanımı
     - C-) İtalik yazı kullanımı
@@ -370,6 +391,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - C-) B&uuml;y&uuml;k harf (uppercase) kullanımı
     - D-) Kalın (bold) yazı kullanımı
     - **Cevap E-) &Uuml;&ccedil; ve daha fazla yazı tipi kullanımı**
+    <hr />
+1. <strong>Karmaşık bir tipografik hiyerarşi d&uuml;zeninde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - A-) İki farklı font kullanımı
+    - B-) Kalın (bold) ve italik yazı kullanımı
+    - C-) Renk ve tonlama ge&ccedil;işleri
+    - D-) Farklı yazı tipi boyutlarının kullanımı
+    - **Cevap E-) İmajların arkada fon oluşturacak şekilde doku işleviyle kullanımı**
     <hr />
 ## Unite 5
 1. <strong>Markalama s&uuml;recinin ilk &ouml;rnekleri aşağıdakilerden hangisidir?</strong>
@@ -456,6 +484,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Hedef kitleye y&ouml;nelik mesajlar iletme
     - E-) Markaya değer katma
     <hr />
+1. <strong>Aşağıdakilerden hangisi t&uuml;keticiler a&ccedil;ısından markanın g&ouml;revlerinden biri <u>değildir</u>?</strong>
+    - A-) Sosyal stat&uuml; sembol&uuml;d&uuml;r.
+    - **Cevap B-) Taşıma ve dağıtımda &uuml;r&uuml;n kimliğini tanımlar.**
+    - C-) &Uuml;reticinin sorumluluklarını anlatır.
+    - D-) Kalitenin g&ouml;stergesidir.
+    - E-) &Uuml;r&uuml;n arama maliyetlerini d&uuml;ş&uuml;r&uuml;r.
+    <hr />
 ## Unite 6
 1. <strong>Aşağıdakilerden hangisi tarih boyunca yazının bi&ccedil;imini etkileyen / bi&ccedil;imlendiren &ouml;nemli etkenlerden biridir?</strong>
     - A-) Coğrafi &ouml;zellikler
@@ -527,7 +562,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Kağan Kaya
     - E-) Sarp S&ouml;zdinler
     <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;reklamlar i&ccedil;in kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamlar i&ccedil;in kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Stop jenerik**
     - B-) Kare kare &ccedil;izim y&ouml;ntemi
     - C-) Stop motion
@@ -540,6 +575,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - C-) Alfred Hitchcock
     - **Cevap D-) Lumiere Kardeşler**
     - E-) Harold Lloyd
+    <hr />
+1. <strong>1950&rsquo;lerde Otto Preminger, Alfred Hitchcock gibi y&ouml;netmenlerin jenerik tasarımına &ouml;zel bir &ouml;nem vermeye başlamasının temel nedeni aşağıdakilerden hangisidir?</strong>
+    - A-) İzleyiciyi bilgilendirmek istemeleri
+    - **Cevap B-) Ayırt edici jenerikler kullanarak filmlerini markalaştırmak istemeleri**
+    - C-) Hareketli tipografiye ilginin arttığını fark etmeleri
+    - D-) G&ouml;rsel k&uuml;lt&uuml;re katkı sağlamak istemeleri
+    - E-) Saul Bass ile yakın arkadaşlık kurmaları
     <hr />
 1. <strong>&Ouml;zellikle 1990&rsquo;lı yıllar sonrasında jenerik tasarımlarında g&ouml;r&uuml;len gelişmeler hangi yeniliklerin sonucunda olmuştur?</strong>
     - A-) İnternet teknolojilerindeki yenilikler
@@ -640,8 +682,8 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Minisk&uuml;l
     - E-) Majisk&uuml;l
     <hr />
-1. I.&nbsp; Tipografinin hareketli h&acirc;li, durağan yapısına g&ouml;re izleyicide daha fazla dikkat &ccedil;ekmekte ve insanların bu &uuml;r&uuml;ne daha fazla zaman ayırmasına yol a&ccedil;maktadır.<br />
-II.&nbsp; Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği s&ouml;ylenebilir.<br />
+1. I. Tipografinin hareketli h&acirc;li, durağan yapısına g&ouml;re izleyicide daha fazla dikkat &ccedil;ekmekte ve insanların bu &uuml;r&uuml;ne daha fazla zaman ayırmasına yol a&ccedil;maktadır.<br />
+II. Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği s&ouml;ylenebilir.<br />
 III. Hareketli nesneler veya g&ouml;r&uuml;nt&uuml;ler durağana nazaran daha &ccedil;ok dikkat &ccedil;ekicidir.<br />
 IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;zelliği de kazanmıştır.<br />
 <strong>Hareketli tipografi ile ilgili y</strong><strong>ukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
@@ -657,6 +699,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - C-) Solow binası
     - **Cevap D-) BBC kamu sanatı projesi**
     - E-) Komedi halısı
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde t</strong><strong>ipografinin b&uuml;y&uuml;k &ouml;l&ccedil;ekte kullanıldığını g&ouml;rmek daha olasıdır?</strong>
+    - **Cevap A-) Mimari tipografi**
+    - B-) Yer imi
+    - C-) Y&ouml;nlendirme grafikleri
+    - D-) Bilgilendirme grafikleri
+    - E-) Afiş tasarımları
     <hr />
 1. <strong>İşaret tasarımında tipografi se&ccedil;ilirken aşağıdakilerden hangisinin g&ouml;z &ouml;n&uuml;nde bulundurulmasına <u>gerek yoktur</u>?</strong>
     - A-) Yazı karakteri se&ccedil;imi
@@ -765,7 +814,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Toplum ve k&uuml;lt&uuml;r yapıların değişmesi
     - E-) Basım tekniklerinin geliştirilmesi
     <hr />
-1. <strong>&ldquo;Bodoni&rdquo;</strong>&nbsp;<strong>yazı tipi aşağıdaki hangi sınıflandırma kategorisinde bulunabilir?</strong>
+1. <strong>&ldquo;Bodoni&rdquo;</strong> <strong>yazı tipi aşağıdaki hangi sınıflandırma kategorisinde bulunabilir?</strong>
     - A-) Klasik
     - **Cevap B-) Modern**
     - C-) Kaligrafik
@@ -804,7 +853,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - A-) Tipogramlar, tipografik &ouml;ğelerin bi&ccedil;imsel &ouml;zelliklerine g&ouml;re kurgulanmaktadır.
     - B-) Tipogramlar, g&uuml;n&uuml;m&uuml;zde tasarımlarında da kullanılmaktadır.
     - C-) Tipogramlar, daha uzun metinler ile oluşturulmaktadır.
-    - **Cevap D-) Tipogramlar, daha kısa metinler ile oluşturulmaktadır.&nbsp;**
+    - **Cevap D-) Tipogramlar, daha kısa metinler ile oluşturulmaktadır.**
     - E-) Tipogramlar, tipografik elemanların g&ouml;rsel varlıklarıyla hedef kitleye &ccedil;ağrışımlar yaptırmaktadır.
     <hr />
 1. <strong>Aşağıdakiler hangisi tipografik rezonans kavramını a&ccedil;ıklamak i&ccedil;in yapılan tanımdır?</strong>
@@ -964,7 +1013,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Sinyal
     - **Cevap E-) Refresh**
     <hr />
-1. <strong>&nbsp;Apple Macintosh&rsquo;un ekrandaki menu ve dosya isimleri i&ccedil;in tasarlattığı fontlara genellikle şehir isimleri verilmiştir. Aşağıdakilerden hangisi bu fontlardan birisi <u>değildir</u>?</strong>
+1. <strong> Apple Macintosh&rsquo;un ekrandaki menu ve dosya isimleri i&ccedil;in tasarlattığı fontlara genellikle şehir isimleri verilmiştir. Aşağıdakilerden hangisi bu fontlardan birisi <u>değildir</u>?</strong>
     - **Cevap A-) Paris**
     - B-) Chicago
     - C-) Geneva
@@ -1054,7 +1103,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
 1. <strong>Aşağıdakilerden hangisi reklam filmlerinin dezavantajları arasında <u>yer almaz</u>?</strong>
     - A-) Reklamın yayın ve yapım masrafları reklam filmi maliyetlerini y&uuml;kseltmektedir.
     - B-) Yayının s&uuml;rekli akması sebebiyle kalıcı olmamaktadır.
-    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir.
+    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir. 
     - D-) Geniş kitlelere hitap ettiği i&ccedil;in belli bir kitleyi hedefleyen reklam verenler i&ccedil;in zayıf bir se&ccedil;imdir.
     - **Cevap E-) Diğer reklam ara&ccedil;larına kıyasla daha fazla kişiye ulaştığı i&ccedil;in toplam maliyet daha d&uuml;ş&uuml;k olarak hesaplanmaktadır.**
     <hr />
@@ -1115,10 +1164,10 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - A-) İlgi &ccedil;ekicidir.
     - B-) &Uuml;r&uuml;n &ouml;zelliklerini yansıtır.
     - C-) Satış stratejisine odaklıdır.
-    - D-) &Uuml;r&uuml;n&uuml; g&ouml;rsel kimliğidir.
+    - D-) &Uuml;r&uuml;n&uuml;n g&ouml;rsel kimliğidir.
     - **Cevap E-) Ambalaj doğru y&ouml;nlendirmeden uzak durmalıdır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi a</strong><strong>mbalaj tasarımını etkileyen unsurlar arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi a</strong><strong>mbalaj tasarımını etkileyen unsurlar arasında <u>yer almaz</u>?</strong>
     - A-) Teknoloji
     - **Cevap B-) &Uuml;retici kişi &ouml;zellikleri**
     - C-) Dağıtım kanalları
@@ -1131,7 +1180,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - B-) Rengi
     - **Cevap C-) Tipografiyi**
     - D-) Arka planı
-    - E-) G&ouml;rsel hiyerarşiyi
+    - E-) G&ouml;rsel hiyerarşiyi 
     <hr />
 1. I. IBM<br />
 II. Coca-Cola<br />
@@ -1191,7 +1240,7 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - B-) Renk tercihi
     - C-) Baskı tekniği
     - D-) K&uuml;lt&uuml;rel g&ouml;sterge
-    - E-) Tipografik vurgu
+    - E-) Tipografik vurgu 
     <hr />
 ## Unite 14
 1. <strong>&quot;İll&uuml;strasyon&quot; kelimesinin anlamı a</strong><strong>şağıdakilerden hangisidir?</strong>
@@ -1264,11 +1313,11 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tipografide afiliasyon
     - B-) Tipografide deviasyon
-    - **Cevap C-) Tipografide manipülasyon**
+    - **Cevap C-) Tipografide manip&uuml;lasyon**
     - D-) Tipografide destinasyon
     - E-) Tipografide lokasyon
     <hr />
-1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir?&nbsp;</strong>
+1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir? </strong>
     - A-) Manip&uuml;lasyon
     - **Cevap B-) İll&uuml;strasyon**
     - C-) Destinasyon

@@ -70,6 +70,13 @@
     - D-) Haber ve bilgi paylaşım hedeflidir
     - E-) Basılı ve elektronik olarak &uuml;retilir
     <hr />
+1. <strong>Aşağıdakilerden hangisi Sanayi Devrimi ile gelişen matbaa makineleri arasında <u>yer almaz</u>?</strong>
+    - A-) D&ouml;kme demir matbaa makineleri
+    - B-) Buharlı matbaa makineleri
+    - C-) Linotype matbaa makineleri
+    - D-) Litografik rotatif matbaa
+    - **Cevap E-) Gutenberg matbaa makineleri**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi elektronik yayıncılığın kazanımları arasında <u>yer almaz</u>?</strong>
     - A-) K&acirc;ğıt israfını azaltmıştır.
     - B-) Bilgiye erişim hızlanmıştır.
@@ -106,7 +113,7 @@
     - D-) &Ccedil;alışma ortamını toparlamak.
     - E-) &Uuml;retim malzemelerinin kontrol&uuml;n&uuml; yapmak.
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarım s&uuml;re&ccedil;lerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarım s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - A-) Talebin anlaşılması
     - **Cevap B-) Fiziksel etkinlik aşaması**
     - C-) &Ouml;n araştırma
@@ -168,6 +175,13 @@
     - C-) Araştırma yapmak
     - D-) Gider kalemi oluşturmak
     - E-) &Ccedil;alışmayı daha g&uuml;zel g&ouml;stermek
+    <hr />
+1. <strong>Aşağıdakilerden hangisi tasarımın sanattan farklı bir hedefidir?</strong>
+    - A-) G&uuml;zel g&ouml;r&uuml;nmek
+    - B-) Yenilik&ccedil;i olmak
+    - C-) İlgi &ccedil;ekici olmak
+    - D-) Farklı olmak
+    - **Cevap E-) Bir sorunu &ccedil;&ouml;zmek**
     <hr />
 1. <strong>Beyin fırtınası tekniği ger&ccedil;ekleştirilirken ilk aşamada hangi nitelikte fikirler ortaya sunulmalıdır?</strong>
     - A-) K&ouml;t&uuml; fikirler sunulmalıdır.
@@ -254,6 +268,13 @@
     - **Cevap D-) Bir nesnenin boşlukta kapladığı alandır.**
     - E-) Tasarımdaki nesnelerin &ouml;nem sırasıdır.
     <hr />
+1. <strong>Aşağıdakilerin hangisinde sıcak ve soğuk renkler sıralanmıştır?</strong>
+    - **Cevap A-) Sarı, kırmızı, turuncu - mavi, mor, yeşil**
+    - B-) Mavi, kırmızı, turuncu - sarı, magenta, yeşil
+    - C-) Sarı, kırmızı, cyan - mavi, mor, yeşil
+    - D-) Sarı, kırmızı, turuncu - siyah, mor, yeşil
+    - E-) Sarı, beyaz, turuncu - mavi, mor, kırmızı
+    <hr />
 1. <strong>Aşağıdakilerden hangisi yayın grafiklerinde tasarımcının duyarlılık geliştirmesi a&ccedil;ısından &ouml;nemli olup, belli standartları gerektiren bir arg&uuml;mandır?</strong>
     - A-) Oran Orantı
     - **Cevap B-) &Ouml;l&ccedil;ek**
@@ -339,6 +360,13 @@
     - D-) G&ouml;rsel
     - E-) RGB
     <hr />
+1. <strong>Damlalık aracı aşağıdakilerden hangisini yapmamızı sağlamaktadır?</strong>
+    - **Cevap A-) Fotoğrafları kopyalamak**
+    - B-) Metinleri convertlemek
+    - C-) Renk kopyalamak ve kodlarını g&ouml;rmek
+    - D-) Sayfa boyutunu d&uuml;zenlemek
+    - E-) Alanları se&ccedil;mek
+    <hr />
 1. <strong>Masa&uuml;st&uuml; yayıncılık i&ccedil;in daha &ccedil;ok ara&ccedil; bulunduran yazılım hangisidir?</strong>
     - A-) Adobe Premiere Pro
     - B-) Adobe Lightroom
@@ -397,11 +425,11 @@
     - E-) Uygulama Aşaması
     <hr />
 1. <strong>Aşağıdakilerden hangisinde gazetenin sayfa tasarımını oluşturan elemanlar doğru bir şekilde verilmiştir?</strong>
-    - **Cevap A-) Başlıklar &ndash;&nbsp;Haber Metinleri &ndash;&nbsp;Spotlar &ndash; Fotoğraflar**
-    - B-) Resim &ndash; K&uuml;lt&uuml;r &ndash; Spor &ndash; Takvim &ndash;&nbsp;Logo
-    - C-) Kontrastlık &ndash; Renk &ndash; Bi&ccedil;im &ndash;&nbsp;İnavasyon
-    - D-) Magazin &ndash; B&uuml;lten &ndash; İlan &ndash;&nbsp;Spoiler
-    - E-) Birlik &ndash; D&uuml;zen &ndash; Renk &ndash;&nbsp;Marj &ndash; Hiyerarşi
+    - **Cevap A-) Başlıklar &ndash; Haber Metinleri &ndash; Spotlar &ndash; Fotoğraflar**
+    - B-) Resim &ndash; K&uuml;lt&uuml;r &ndash; Spor &ndash; Takvim &ndash; Logo
+    - C-) Kontrastlık &ndash; Renk &ndash; Bi&ccedil;im &ndash; İnavasyon
+    - D-) Magazin &ndash; B&uuml;lten &ndash; İlan &ndash; Spoiler
+    - E-) Birlik &ndash; D&uuml;zen &ndash; Renk &ndash; Marj &ndash; Hiyerarşi
     <hr />
 1. <strong>Aşağıdakilerden hangisi sayfa tasarımında fotoğrafın kullanımı ile ilgili bir bilgi <u>değildir</u>?</strong>
     - A-) Fotoğraf, net ve alaşılır olmalı
@@ -423,6 +451,13 @@
     - C-) Resim, Grafik, S&uuml;tun, Denge, Ritim, Renk
     - D-) Form, Bi&ccedil;im, Baskı, Birim, Vurgu, Başlık
     - E-) Fotoğraf, Metin, Kağıt, S&uuml;tun, Marj
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde s&uuml;reli yayın grafiği s&uuml;re&ccedil;leri doğru bir şekilde verilmiştir?</strong>
+    - A-) Bilgi toplama- araştırma / eskiz -taslak-yerleşim (layout) / problem durumu / &ccedil;&ouml;z&uuml;mleme / baskı s&uuml;re&ccedil;leri / uygulama
+    - **Cevap B-) Problem durumu / bilgi toplama-araştırma / eskiz- taslak-yerleşim (layout) / &ccedil;&ouml;z&uuml;mleme /uygulama / baskı s&uuml;re&ccedil;leri**
+    - C-) Problem durumu / &ccedil;&ouml;z&uuml;mleme / bilgi toplama-araştırma / eskiz- taslak-yerleşim (layout) / baskı s&uuml;re&ccedil;leri / uygulama
+    - D-) Problem durumu / eskiz- taslak-yerleşim (layout) / bilgi toplama-araştırma / &ccedil;&ouml;z&uuml;mleme /uygulama / baskı s&uuml;re&ccedil;leri
+    - E-) Bilgi toplama-araştırma / Problem durumu / eskiz- taslak-yerleşim (layout) / uygulama / baskı s&uuml;re&ccedil;leri / &ccedil;&ouml;z&uuml;mleme
     <hr />
 1. <strong>Aşağıdakilerden hangisi s&uuml;reli yayın grafiği baskı ve &ccedil;oğaltım aşamasındaki s&uuml;re&ccedil;lerden biri <u>değildir</u>?</strong>
     - A-) Forma d&uuml;zeni
@@ -523,6 +558,13 @@
     - D-) Kırıntı
     - **Cevap E-) Nehir**
     <hr />
+1. <strong>Aşağıdakilerken hangisi yazı sınıflarından biri <u>değildir</u>?</strong>
+    - A-) Modern
+    - **Cevap B-) Post-modern**
+    - C-) Tırnaklı
+    - D-) Tırnaksız
+    - E-) Dekoratif
+    <hr />
 ## Unite 7
 1. <strong>Fotoğraf makinalarındaki fotoğraflanması hedeflenen alanı tanımlayan &ccedil;er&ccedil;eve aşağıdakilerden hagisidir?</strong>
     - A-) Diyafram
@@ -603,6 +645,13 @@ III. Şekil<br />
     - C-) Giyim etiketi
     - D-) Sarı renk
     - E-) Film
+    <hr />
+1. <strong>Aşağıdakilerden hangisi fotoğrafın işlevleri arasında <u>yer almaz</u>?</strong>
+    - A-) Duygulandırmak
+    - B-) Belgelemek
+    - C-) Bilgilendirmek
+    - **Cevap D-) Sayı bildirmek**
+    - E-) D&uuml;ş&uuml;nd&uuml;rmek
     <hr />
 1. <strong>Bir kompozisyonda aşağıdaki &ouml;zelliklerden hangisi <u>aranmaz</u>?</strong>
     - A-) Oran-orantı
@@ -712,7 +761,7 @@ III. Şekil<br />
     - D-) G&ouml;rsel &ouml;ğeler
     - E-) Edisyon sayısı
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ok sayfalı yayını oluşturan fiziksel kısımlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ccedil;ok sayfalı yayını oluşturan fiziksel kısımlardan biri <u>değildir</u>?</strong>
     - A-) Sırt
     - B-) Yan kağıtlar
     - C-) Sayfalar
@@ -856,7 +905,7 @@ III. Şekil<br />
 1. <strong>Kuzey Amerika Paund veya Bond sistemi olarak anılan sistemin sembol&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &amp;
     - B-) $
-    - C-) <span>\(\square \)</span>
+    - C-) <span class="math-tex">\(\square \)</span>
     - D-) &frac12;
     - **Cevap E-) #**
     <hr />
@@ -896,7 +945,7 @@ III. Şekil<br />
     - D-) Flekso Baskı
     - E-) Gofre Baskı
     <hr />
-1. <strong>Web ofset matbaacılık ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Web ofset matbaacılık ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Gazete, dergi, kitap gibi y&uuml;ksek tirajlı işler basılır.
     - B-) Bir web ofset makinasında yazdırma, katlama ve tabakalama aynı sırada işlenir.
     - C-) Hızlı ve etkili işlevselliğe sahiptir.
@@ -917,7 +966,7 @@ III. Şekil<br />
     - D-) Ofset Baskı
     - E-) Tipo Baskı
     <hr />
-1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi dikkat edilmesi gereken g&ouml;revler biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi baskı &ouml;ncesi dikkat edilmesi gereken g&ouml;revlerden biri <u>değildir</u>?</strong>
     - A-) Yayın grafiğinde metin ve fontların doğruluğundan ve bozulmadığından emin olmak i&ccedil;in en az iki kez kontrol etmek.
     - B-) Ofset matbaa CMYK sistemine g&ouml;re &ccedil;alışır bu sebeple RGB dosyalar veya g&ouml;r&uuml;nt&uuml;ler varsa bu formatları uygun şekilde d&ouml;n&uuml;şt&uuml;r&uuml;n&uuml;z.
     - C-) Dosyanın yerleştirilmesini, yani forma d&uuml;zenini ayarlayın, sayfaları yazdırmak i&ccedil;in doğru sırada yerleştirin.
@@ -938,7 +987,7 @@ III. Şekil<br />
     - D-) Tram
     - E-) Trigromi
     <hr />
-1. <strong>Aşağıdakilerden hangisi CMYK renk modellerinden biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi CMYK renk modellerinden biri <u>değildir</u>?</strong>
     - A-) Magenta
     - B-) Cyan
     - **Cevap C-) Green**
@@ -954,7 +1003,7 @@ III. Şekil<br />
     - E-) Genellikle &uuml;cretsiz haberlere erişilebilmesi
     <hr />
 1. Dijital ortamda sergilenen dergi, kitap benzeri tasarımların sayfa kaydırma efektli (Flip) y&uuml;klenmesi, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;bakımından, tasarımcı ve kullanıcı i&ccedil;in cazip h&acirc;le gelmektedir.<br />
-<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">
+<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><br />
 	<b>C&uuml;mle boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b></p>
     - **Cevap A-) kullanıcıya fiziksel deneyime yakın bir olanak sunması**
     - B-) tasarımcının kolay tasarlanabilmesi
@@ -983,7 +1032,7 @@ III. Şekil<br />
     - D-) doc.
     - E-) mov.
     <hr />
-1. <strong>Aşağıdakilerden hangisi dijital yayın grafiği tasarımlarından biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi dijital yayın grafiği tasarımlarından biri <u>değildir</u>?</strong>
     - A-) e-gazete
     - B-) e-kitap
     - **Cevap C-) e-mail**
@@ -1054,7 +1103,7 @@ III. Şekil<br />
     - D-) Dikey dizilimi sağlar
     - E-) Diyagonal &ccedil;izgilerle bağ kurar
     <hr />
-1. <strong>Mek&acirc;nsal b&ouml;lgelerin i&ccedil;erisinde bulunan g&ouml;rsel elamanlar arasında aşağıdakilerden hangisi aktif olarak&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Mek&acirc;nsal b&ouml;lgelerin i&ccedil;erisinde bulunan g&ouml;rsel elamanlar arasında aşağıdakilerden hangisi aktif olarak <u>yer almaz</u>?</strong>
     - **Cevap A-) Sayfa numaraları**
     - B-) Fotoğraf
     - C-) Tipografi
@@ -1089,7 +1138,7 @@ III. Şekil<br />
     - D-) Van de Graaf kanonu
     - E-) Da Vinci Kanonu
     <hr />
-1. <strong>Aşağıdakilerden hangisi mizanpajda uluslararası &ouml;l&ccedil;&uuml;lendirme standartları arasında&nbsp;<u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi mizanpajda uluslararası &ouml;l&ccedil;&uuml;lendirme standartları arasında <u>yer almaz</u>?</strong>
     - A-) ISO 216
     - B-) DIN 476
     - C-) ANSU
@@ -1111,7 +1160,7 @@ III. Şekil<br />
     - E-) Diyagonal
     <hr />
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımında storyboard&rsquo;un kullanılabileceği alanlardan biri&nbsp;<u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımında storyboard&rsquo;un kullanılabileceği alanlardan biri <u>değildir</u>?</strong>
     - A-) Televizyon reklamları
     - B-) Hareketli online bannerlar
     - **Cevap C-) &Ccedil;eviri ama&ccedil;lı alt yazılar**
@@ -1188,7 +1237,7 @@ III. Şekil<br />
     - D-) Salıncakta sallanan &ccedil;ocuk.
     - E-) Mutlu bir k&ouml;peğin kuyruk hareketi.
     <hr />
-1. <strong>Aşağıdakilerden hangisi canlandırmada zamanlama ile ilgili olarak&nbsp;<u>yanlıştır</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi canlandırmada zamanlama ile ilgili olarak <u>yanlıştır</u>?</strong>
     - A-) Zamanlama, bir eylemin veya hareketin meydana gelme hızını ifade eder.
     - B-) Zamanlama, bir karakterin duygularını veya kişiliğini iletmek i&ccedil;in kullanılabilir.
     - **Cevap C-) Zamanlama canlandırma sanatına ilişkin &ouml;nemli bir husus değildir.**

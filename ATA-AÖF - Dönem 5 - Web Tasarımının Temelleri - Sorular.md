@@ -321,15 +321,15 @@ IV. Sistem performansını etkilemez.<br />
     <hr />
 1. <strong>Aşağıdaki HTML kod bloklarından hangisi doğru yazılmıştır?</strong>
     - **Cevap A-) &lt;html&gt;&lt;head&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;
-<title></title>**
+&lt;title>&lt;/title&gt;**
     - B-) &lt;html&gt;&lt;head&gt;&lt;/body&gt;&lt;/html&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
-<title></title>
+&lt;title&gt;&lt;/title&gt;
     - C-) &lt;title&gt;&lt;head&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;&lt;html&gt;
-<title></title>
+&lt;title&gt;&lt;/title&gt;
     - D-) &lt;html&gt;&lt;head&gt;&lt;title&gt;&lt;/head&gt;&lt;body&gt;&lt;/html&gt;&lt;/title&gt;&lt;/body&gt;
-<title></title>
+&lt;title&gt;&lt;/title&gt;
     - E-) &lt;html&gt;&lt;head&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/html&gt;&lt;/body&gt;
-<title></title>
+&lt;title&gt;&lt;/title&gt;
     <hr />
 1. <strong>Aşağıdaki HTML etiketi ve kullanım amacı eşleştirmelerinden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) &lt; a &gt; - Sayfa i&ccedil;inde bir tablo oluşturmak i&ccedil;in kullanılır.**

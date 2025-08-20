@@ -12,7 +12,7 @@
     <style>
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #f1f5f9; /* slate-100 */
+            background-color: #f8fafc; /* slate-50 */
         }
         /* Genel Stil Ayarları */
         .view { display: none; }
@@ -32,20 +32,6 @@
         }
 
         /* Sınav Ekranı Stilleri */
-        .control-panel {
-            background-color: rgba(255, 255, 255, 0.85);
-            backdrop-filter: blur(10px);
-            transition: padding 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-        }
-        .control-panel.is-sticky {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
-        }
-        .control-panel.is-sticky #score-container {
-            padding: 0.25rem 0.75rem;
-            font-size: 0.875rem;
-        }
         .question-item {
             break-inside: avoid;
             page-break-inside: avoid;
@@ -83,33 +69,50 @@
         input:checked + .slider:before { transform: translateX(22px); }
         .toggle-wrapper.disabled { opacity: 0.5; pointer-events: none; }
 
-        /* Sticky Header için Gizleme Animasyonu */
-        #quiz-title { transition: font-size 0.3s ease-in-out; }
-        .is-sticky #quiz-title { font-size: 1.125rem; } /* text-lg */
-
-        #app-description, #collapsible-controls {
-            transition: max-height 0.4s ease-in-out, opacity 0.2s ease-in-out, margin 0.3s ease-in-out, padding 0.3s ease-in-out, width 0.3s ease-in-out;
-            max-height: 200px; /* Genişletilmiş durum için yeterli yükseklik */
-            overflow: hidden;
+        /* Yeni Header ve Kontrol Paneli Stilleri */
+        #quiz-header {
+            background-color: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            transition: box-shadow 0.3s ease-in-out;
         }
-        .is-sticky #app-description, .is-sticky #collapsible-controls {
-            max-height: 0; opacity: 0; margin: 0; padding: 0; width: 0; pointer-events: none;
+        #control-panel {
+            transition: max-height 0.4s ease-in-out, opacity 0.3s ease-in-out, padding 0.3s ease-in-out, margin 0.3s ease-in-out, border-width 0.3s ease-in-out;
+            max-height: 0px;
+            overflow: hidden;
+            opacity: 0;
+            padding: 0 1.5rem;
+            margin-bottom: 0;
+            border-top-width: 0px;
+        }
+        #control-panel.open {
+            max-height: 500px; /* Yeterince büyük bir değer */
+            opacity: 1;
+            padding-top: 1.5rem;
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+            border-top-width: 1px;
         }
 
         /* YAZDIRMA STİLLERİ */
         @media print {
             body {
-                font-family: 'Times New Roman', Times, serif;
-                font-size: 10pt;
-                background-color: #ffffff !important;
-                -webkit-print-color-adjust: exact;
-                print-color-adjust: exact;
+                font-family: 'Times New Roman', Times, serif; font-size: 10pt; background-color: #ffffff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact;
             }
             .no-print { display: none !important; }
             .print-only { display: block !important; }
-            #main-content { padding: 1cm !important; margin: 0 !important; }
+            #selection-view { display: none !important; }
+            #quiz-view { display: block !important; }
+            
+            /* Kapsayıcı stillerini sıfırla */
+            #main-content, .container {
+                padding: 1cm !important;
+                margin: 0 !important;
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+
             #question-container-wrapper, #answer-key-container {
-                box-shadow: none !important; padding: 0 !important; border: none !important; margin-bottom: 2rem !important;
+                box-shadow: none !important; padding: 0 !important; border: none !important; margin-bottom: 2rem !important; margin-top: 0 !important;
             }
             .page-title {
                 display: block !important; text-align: center; font-size: 16pt; font-weight: bold; margin-bottom: 1.5rem;
@@ -123,19 +126,16 @@
             .question-item:last-child { border-bottom: none; }
             .question-item .text-md { font-size: 10pt; margin-bottom: 0.5rem; }
             .interactive-option-label {
-                border: none !important; padding: 0.25rem 0; font-weight: normal !important;
+                border: none !important; padding: 0.25rem 0; font-weight: normal !important; background-color: transparent !important;
             }
             .interactive-option-label[data-correct="true"] {
-                background-color: #e0e0e0 !important;
-                border-radius: 3px;
-                padding-left: 0.5rem !important;
+                background-color: #e0e0e0 !important; border-radius: 3px; padding-left: 0.5rem !important;
             }
             .explanation-item {
                 border: 1px solid #eee !important; background-color: #f9f9f9 !important; padding: 0.5rem !important; margin-top: 0.5rem !important; font-size: 9pt; page-break-inside: avoid;
             }
             #answer-key-container, .answer-sheet {
-                break-before: page;
-                column-count: 1;
+                break-before: page; column-count: 1;
             }
             #answer-key-container .grid {
                 grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
@@ -166,40 +166,51 @@
 
     <!-- Sınav Ekranı -->
     <div id="quiz-view" class="view">
-        <div id="main-content" class="container mx-auto p-4 sm:p-8">
-            <div class="print-only hidden p-4 mb-4 border rounded-md bg-slate-50 text-sm no-print">
+        <header id="quiz-header" class="sticky top-0 z-10 border-b no-print">
+            <div class="container mx-auto px-4 sm:px-8">
+                <div class="flex items-center justify-between gap-4 py-3">
+                    <div class="flex items-center gap-3 min-w-0">
+                        <button id="back-to-selection" class="flex-shrink-0 bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+                        </button>
+                        <div class="min-w-0">
+                            <h1 id="quiz-title" class="text-xl font-bold text-slate-800 truncate">Sınav Yükleniyor...</h1>
+                            <p id="quiz-subtitle" class="text-sm text-slate-500"></p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <button id="print-button" class="flex-shrink-0 bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+                        </button>
+                        <button id="toggle-controls-button" class="flex-shrink-0 bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold w-9 h-9 flex items-center justify-center rounded-full transition-colors">
+                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="4" y1="21" y2="14"></line><line x1="4" x2="4" y1="10" y2="3"></line><line x1="12" x2="12" y1="21" y2="12"></line><line x1="12" x2="12" y1="8" y2="3"></line><line x1="20" x2="20" y1="21" y2="16"></line><line x1="20" x2="20" y1="12" y2="3"></line><line x1="1" x2="7" y1="14" y2="14"></line><line x1="9" x2="15" y1="8" y2="8"></line><line x1="17" x2="23" y1="16" y2="16"></line></svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main id="main-content" class="container mx-auto px-4 sm:px-8">
+             <div id="control-panel" class="bg-white rounded-b-lg border-x border-b border-slate-200 no-print">
+                <div id="collapsible-controls" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-4"></div>
+            </div>
+
+            <div class="print-only hidden p-4 mb-4 border rounded-md bg-slate-50 text-sm">
                 <h3 class="font-bold text-lg mb-2">Yazdırma Ayarları</h3>
                 <p><strong>Cevaplar Gösteriliyor mu?</strong> <span id="print-show-answers-status"></span></p>
                 <p><strong>Açıklamalar Gösteriliyor mu?</strong> <span id="print-show-explanations-status"></span></p>
                 <p><strong>Kaynaklar Gösteriliyor mu?</strong> <span id="print-show-sources-status"></span></p>
             </div>
-            <div id="header-sentinel" class="h-1 -mt-1"></div>
-            <div class="control-panel sticky top-0 z-10 p-6 rounded-lg mb-8 no-print border border-slate-200">
-                <div id="control-panel-content" class="flex flex-wrap items-center justify-between gap-6">
-                    <div class="flex items-center gap-4">
-                        <button id="back-to-selection" class="bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold p-2 rounded-full transition-colors">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-                        </button>
-                        <div>
-                            <h1 id="quiz-title" class="text-2xl font-bold text-slate-800">İnteraktif Sınav</h1>
-                            <p id="app-description" class="text-slate-600 mt-1">Soruları inceleyin veya interaktif çözümü etkinleştirin.</p>
-                        </div>
-                        <div id="score-container" class="hidden font-semibold text-lg bg-indigo-100 text-indigo-800 px-4 py-2 rounded-lg transition-all duration-300">
-                            <span id="score-display">Skor: 0/0 (%0)</span>
-                        </div>
-                    </div>
-                    <div id="collapsible-controls" class="flex items-center gap-x-6 gap-y-4 flex-wrap"></div>
-                </div>
-            </div>
-            <div id="question-container-wrapper" class="bg-white rounded-lg shadow-md mb-8">
+
+            <div id="question-container-wrapper" class="bg-white rounded-lg shadow-md mb-8 mt-8">
                 <h1 class="page-title hidden">Sınav</h1>
                 <div id="question-container" class="p-4 sm:p-8">
                     <div id="loading-message" class="text-center p-12 text-slate-500"></div>
                 </div>
             </div>
-            <div id="answer-key-container" class="bg-white rounded-lg shadow-md p-4 sm:p-8 mb-8 hidden"></div>
+            <div id="answer-key-container" class="bg-white rounded-lg shadow-md p-4 sm:p-8 mb-8"></div>
             <div class="answer-sheet hidden print-only"></div>
-        </div>
+        </main>
     </div>
 
     <script>
@@ -217,12 +228,13 @@
             const questionContainer = document.getElementById('question-container');
             const answerKeyContainer = document.getElementById('answer-key-container');
             const answerSheetContainer = document.querySelector('.answer-sheet');
-            const scoreContainer = document.getElementById('score-container');
-            const scoreDisplay = document.getElementById('score-display');
             const quizTitleEl = document.getElementById('quiz-title');
+            const quizSubtitleEl = document.getElementById('quiz-subtitle');
             const loadingMessageEl = document.getElementById('loading-message');
             const backToSelectionBtn = document.getElementById('back-to-selection');
             const collapsibleControls = document.getElementById('collapsible-controls');
+            const toggleControlsBtn = document.getElementById('toggle-controls-button');
+            const controlPanel = document.getElementById('control-panel');
 
             let allCoursesData = [];
             let questionsData = [];
@@ -238,9 +250,7 @@
                     loadingCoursesEl.style.display = 'none';
                     courseSelectionContentEl.style.display = 'block';
                     renderSemesters();
-                    if (allCoursesData.length > 0) {
-                        renderCourses(allCoursesData[0].donem);
-                    }
+                    if (allCoursesData.length > 0) renderCourses(allCoursesData[0].donem);
                 } catch (error) {
                     loadingCoursesEl.innerHTML = `<p class="text-red-600">${error.message}</p>`;
                 }
@@ -292,6 +302,7 @@
                 if (dataLoaded) {
                     await loadAndMergeExplanations(fileName);
                     renderQuizUI();
+                    controlPanel.classList.add('open');
                 }
             };
 
@@ -440,8 +451,9 @@
             
             const updateScore = () => {
                 const percentage = answeredCount > 0 ? ((correctCount / answeredCount) * 100) : 0;
-                const isSticky = document.querySelector('.control-panel').classList.contains('is-sticky');
-                scoreDisplay.textContent = isSticky ? `${correctCount}/${answeredCount} (%${percentage.toFixed(0)})` : `Doğru: ${correctCount}/${answeredCount} | Başarı: %${percentage.toFixed(0)}`;
+                const wrongCount = answeredCount - correctCount;
+                const unansweredCount = questionsData.length - answeredCount;
+                quizSubtitleEl.innerHTML = `<span class="text-green-600">Doğru: ${correctCount}</span> | <span class="text-red-600">Yanlış: ${wrongCount}</span> | <span class="text-slate-500">Boş: ${unansweredCount}</span> (%${percentage.toFixed(0)})`;
             };
 
             const resetAllStyles = () => {
@@ -463,6 +475,7 @@
                 });
 
                 if (!isActive) {
+                    quizSubtitleEl.textContent = `Toplam Soru: ${questionsData.length}`;
                     const showAnswers = document.getElementById('show-answers');
                     const showExplanations = document.getElementById('show-explanations');
                     const showSources = document.getElementById('show-sources');
@@ -477,14 +490,11 @@
                 document.querySelectorAll('.options-list').forEach(list => list.classList.toggle('disabled', !isActive));
                 
                 if(isActive) {
-                    scoreContainer.classList.remove('hidden');
                     correctCount = 0;
                     answeredCount = 0;
                     updateScore();
-                } else {
-                    scoreContainer.classList.add('hidden');
-                    applyViewModeSettings();
                 }
+                applyViewModeSettings();
             };
 
             const applyViewModeSettings = () => {
@@ -533,34 +543,31 @@
                 if (printExplanationsStatus) printExplanationsStatus.textContent = showExplanations && showExplanations.checked ? 'Evet' : 'Hayır';
                 if (printSourcesStatus) printSourcesStatus.textContent = showSources && showSources.checked ? 'Evet' : 'Hayır';
                 
-                document.querySelector('.print-only').classList.remove('no-print');
                 window.print();
-                document.querySelector('.print-only').classList.add('no-print');
             };
 
             const renderControls = () => {
                 collapsibleControls.innerHTML = `
-                    <div class="flex items-center gap-3 toggle-wrapper" id="interactive-solve-wrapper">
+                    <div class="flex items-center justify-between toggle-wrapper" id="interactive-solve-wrapper">
                         <label for="interactive-solve" class="font-medium text-indigo-700">İnteraktif Çözüm</label>
                         <label class="switch"><input type="checkbox" id="interactive-solve"><span class="slider"></span></label>
                     </div>
-                    <div class="flex items-center gap-3 toggle-wrapper">
+                    <div class="flex items-center justify-between toggle-wrapper">
                         <label for="show-answers" class="font-medium text-slate-700">Cevapları Göster</label>
                         <label class="switch"><input type="checkbox" id="show-answers" checked><span class="slider"></span></label>
                     </div>
-                    <div class="flex items-center gap-3 toggle-wrapper">
+                    <div class="flex items-center justify-between toggle-wrapper">
                         <label for="show-explanations" class="font-medium text-slate-700">Açıklamaları Göster</label>
                         <label class="switch"><input type="checkbox" id="show-explanations" checked><span class="slider"></span></label>
                     </div>
-                    <div class="flex items-center gap-3 toggle-wrapper">
+                    <div class="flex items-center justify-between toggle-wrapper">
                         <label for="show-sources" class="font-medium text-slate-700">Kaynakları Göster</label>
                         <label class="switch"><input type="checkbox" id="show-sources"><span class="slider"></span></label>
                     </div>
-                    <div class="flex items-center gap-3 toggle-wrapper">
+                    <div class="flex items-center justify-between toggle-wrapper">
                         <label for="hide-incorrect" class="font-medium text-slate-700">Sadece Doğruyu Göster</label>
                         <label class="switch"><input type="checkbox" id="hide-incorrect"><span class="slider"></span></label>
                     </div>
-                    <button id="print-button" class="bg-teal-600 text-white font-bold py-2 px-6 rounded-lg hover:bg-teal-700 transition duration-300">Yazdır</button>
                 `;
                 document.getElementById('interactive-solve').addEventListener('change', (e) => setupInteractiveMode(e.target.checked));
                 document.getElementById('show-answers').addEventListener('change', applyViewModeSettings);
@@ -573,19 +580,12 @@
             backToSelectionBtn.addEventListener('click', () => {
                 quizView.classList.remove('active');
                 selectionView.classList.add('active');
+                controlPanel.classList.remove('open');
             });
             
-            const sentinel = document.getElementById('header-sentinel');
-            const controlPanel = document.querySelector('.control-panel');
-            const observer = new IntersectionObserver(
-                ([entry]) => {
-                    controlPanel.classList.toggle('is-sticky', !entry.isIntersecting);
-                    const interactiveSolve = document.getElementById('interactive-solve');
-                    if(interactiveSolve && interactiveSolve.checked) updateScore();
-                },
-                { rootMargin: '0px 0px 0px 0px', threshold: 1.0 }
-            );
-            if (sentinel) observer.observe(sentinel);
+            toggleControlsBtn.addEventListener('click', () => {
+                controlPanel.classList.toggle('open');
+            });
 
             loadAllCourses();
         });

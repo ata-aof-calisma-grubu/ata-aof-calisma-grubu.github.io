@@ -1,5 +1,11 @@
 # ATA-AÖF Grafik Sanatlar Soruları<br />
 > Soruların telif içerebilir. İçerik ders çalışma amaçlı hazırlanmış olup. İçeriğin ticari amaçlı kopyalanması, çoğaltılması hak sahibi tarafından yükümlülükler getirebilir. Telif hakkı bildirimleri için "[Issues](https://github.com/ata-aof-calisma-grubu/ata-aof-calisma-grubu.github.io/issues)" bölümünü kullanabilirsiniz. Telif bildirimi üzerinden 7 iş günü içerisinde içerik kaldırılacaktır<br />
+
+Yeni geliştirdiğimiz interaktif sınav aracıyla soruları çözerek öğrenebilirsiniz:
+[Interaktif sınav aracı için tıklayın](interaktif.html)
+
+Derslere ait sorulara aşağıdaki linklerden erişebilirsiniz:
+
 - [Dönem 1 - İletişime Giriş](<ATA-AÖF - Dönem 1 - İletişime Giriş - Sorular>)<br />
 - [Dönem 1 - Genel Sanat Tarihi](<ATA-AÖF - Dönem 1 - Genel Sanat Tarihi - Sorular>)<br />
 - [Dönem 1 - Temel Bilgi Teknolojileri I](<ATA-AÖF - Dönem 1 - Temel Bilgi Teknolojileri I - Sorular>)<br />

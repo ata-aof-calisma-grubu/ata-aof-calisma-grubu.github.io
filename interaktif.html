@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İnteraktif Sınav Platformu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f1f5f9; /* slate-100 */
+        }
+        /* Genel Stil Ayarları */
+        .view { display: none; }
+        .view.active { display: block; }
+        
+        /* Ders Seçim Ekranı Stilleri */
+        .semester-button {
+            transition: all 0.2s ease-in-out;
+        }
+        .semester-button.active {
+            background-color: #4f46e5; /* indigo-600 */
+            color: white;
+            font-weight: 600;
+        }
+        .course-button {
+            transition: all 0.2s ease-in-out;
+        }
+
+        /* Sınav Ekranı Stilleri */
+        .control-panel {
+            background-color: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            transition: padding 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .control-panel.is-sticky {
+            padding-top: 0.75rem;
+            padding-bottom: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .control-panel.is-sticky #score-container {
+            padding: 0.25rem 0.75rem;
+            font-size: 0.875rem;
+        }
+        .question-item {
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .interactive-option-label {
+            display: block; padding: 0.75rem 1rem; border: 2px solid #e2e8f0; border-radius: 0.5rem; cursor: pointer; transition: all 0.2s ease-in-out;
+        }
+        .interactive-option-label:hover {
+            background-color: #f8fafc; border-color: #94a3b8;
+        }
+        input[type="radio"]:checked + .interactive-option-label {
+            border-color: #2563eb; background-color: #eff6ff; font-weight: 600;
+        }
+        .correct-answer {
+            background-color: #dcfce7 !important; border-color: #22c55e !important;
+        }
+        .incorrect-answer {
+            background-color: #fee2e2 !important; border-color: #ef4444 !important;
+        }
+        input[type="radio"] { display: none; }
+        .options-list.disabled .interactive-option-label {
+            cursor: not-allowed; background-color: #f8fafc; opacity: 0.7;
+        }
+        .switch {
+          position: relative; display: inline-block; width: 50px; height: 28px;
+        }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider {
+          position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 28px;
+        }
+        .slider:before {
+          position: absolute; content: ""; height: 20px; width: 20px; left: 4px; bottom: 4px; background-color: white; transition: .4s; border-radius: 50%;
+        }
+        input:checked + .slider { background-color: #14b8a6; }
+        input:checked + .slider:before { transform: translateX(22px); }
+        .toggle-wrapper.disabled { opacity: 0.5; pointer-events: none; }
+
+        /* Sticky Header için Gizleme Animasyonu */
+        #quiz-title { transition: font-size 0.3s ease-in-out; }
+        .is-sticky #quiz-title { font-size: 1.125rem; } /* text-lg */
+
+        #app-description, #collapsible-controls {
+            transition: max-height 0.4s ease-in-out, opacity 0.2s ease-in-out, margin 0.3s ease-in-out, padding 0.3s ease-in-out, width 0.3s ease-in-out;
+            max-height: 200px; /* Genişletilmiş durum için yeterli yükseklik */
+            overflow: hidden;
+        }
+        .is-sticky #app-description, .is-sticky #collapsible-controls {
+            max-height: 0; opacity: 0; margin: 0; padding: 0; width: 0; pointer-events: none;
+        }
+
+        /* YAZDIRMA STİLLERİ */
+        @media print {
+            body {
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 10pt;
+                background-color: #ffffff !important;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            .no-print { display: none !important; }
+            .print-only { display: block !important; }
+            #main-content { padding: 1cm !important; margin: 0 !important; }
+            #question-container-wrapper, #answer-key-container {
+                box-shadow: none !important; padding: 0 !important; border: none !important; margin-bottom: 2rem !important;
+            }
+            .page-title {
+                display: block !important; text-align: center; font-size: 16pt; font-weight: bold; margin-bottom: 1.5rem;
+            }
+            #question-container {
+                column-count: 2; column-gap: 1.5cm;
+            }
+            .question-item {
+                margin-top: 0; padding: 0.5rem 0; border-bottom: 1px solid #ccc; page-break-inside: avoid;
+            }
+            .question-item:last-child { border-bottom: none; }
+            .question-item .text-md { font-size: 10pt; margin-bottom: 0.5rem; }
+            .interactive-option-label {
+                border: none !important; padding: 0.25rem 0; font-weight: normal !important;
+            }
+            .interactive-option-label[data-correct="true"] {
+                background-color: #e0e0e0 !important;
+                border-radius: 3px;
+                padding-left: 0.5rem !important;
+            }
+            .explanation-item {
+                border: 1px solid #eee !important; background-color: #f9f9f9 !important; padding: 0.5rem !important; margin-top: 0.5rem !important; font-size: 9pt; page-break-inside: avoid;
+            }
+            #answer-key-container, .answer-sheet {
+                break-before: page;
+                column-count: 1;
+            }
+            #answer-key-container .grid {
+                grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+            }
+            #answer-key-container .p-2 { padding: 0.25rem; }
+            .question-source {
+                display: block !important; color: #555 !important;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Ders Seçim Ekranı -->
+    <div id="selection-view" class="view active container mx-auto p-4 sm:p-8">
+        <div class="bg-white rounded-lg shadow-md p-8">
+            <h1 class="text-3xl font-bold text-slate-800 mb-2">Ders Seçimi</h1>
+            <p class="text-slate-600 mb-8">Lütfen çalışmak istediğiniz dönemi ve dersi seçin.</p>
+            <div id="loading-courses" class="text-center p-8 text-slate-500"><p>Ders listesi yükleniyor...</p></div>
+            <div id="course-selection-content" class="hidden">
+                <h2 class="text-xl font-semibold text-slate-700 mb-4">Dönemler</h2>
+                <div id="semester-list" class="flex flex-wrap gap-3 mb-8"></div>
+                <h2 class="text-xl font-semibold text-slate-700 mb-4">Dersler</h2>
+                <div id="course-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sınav Ekranı -->
+    <div id="quiz-view" class="view">
+        <div id="main-content" class="container mx-auto p-4 sm:p-8">
+            <div class="print-only hidden p-4 mb-4 border rounded-md bg-slate-50 text-sm no-print">
+                <h3 class="font-bold text-lg mb-2">Yazdırma Ayarları</h3>
+                <p><strong>Cevaplar Gösteriliyor mu?</strong> <span id="print-show-answers-status"></span></p>
+                <p><strong>Açıklamalar Gösteriliyor mu?</strong> <span id="print-show-explanations-status"></span></p>
+                <p><strong>Kaynaklar Gösteriliyor mu?</strong> <span id="print-show-sources-status"></span></p>
+            </div>
+            <div id="header-sentinel" class="h-1 -mt-1"></div>
+            <div class="control-panel sticky top-0 z-10 p-6 rounded-lg mb-8 no-print border border-slate-200">
+                <div id="control-panel-content" class="flex flex-wrap items-center justify-between gap-6">
+                    <div class="flex items-center gap-4">
+                        <button id="back-to-selection" class="bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold p-2 rounded-full transition-colors">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+                        </button>
+                        <div>
+                            <h1 id="quiz-title" class="text-2xl font-bold text-slate-800">İnteraktif Sınav</h1>
+                            <p id="app-description" class="text-slate-600 mt-1">Soruları inceleyin veya interaktif çözümü etkinleştirin.</p>
+                        </div>
+                        <div id="score-container" class="hidden font-semibold text-lg bg-indigo-100 text-indigo-800 px-4 py-2 rounded-lg transition-all duration-300">
+                            <span id="score-display">Skor: 0/0 (%0)</span>
+                        </div>
+                    </div>
+                    <div id="collapsible-controls" class="flex items-center gap-x-6 gap-y-4 flex-wrap"></div>
+                </div>
+            </div>
+            <div id="question-container-wrapper" class="bg-white rounded-lg shadow-md mb-8">
+                <h1 class="page-title hidden">Sınav</h1>
+                <div id="question-container" class="p-4 sm:p-8">
+                    <div id="loading-message" class="text-center p-12 text-slate-500"></div>
+                </div>
+            </div>
+            <div id="answer-key-container" class="bg-white rounded-lg shadow-md p-4 sm:p-8 mb-8 hidden"></div>
+            <div class="answer-sheet hidden print-only"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const baseDataUrl = 'https://ata-aof-calisma-grubu.github.io/sorular/';
+            const coursesListUrl = baseDataUrl + 'dersler.json';
+            const explanationsSubfolder = 'aciklamalar/';
+
+            const selectionView = document.getElementById('selection-view');
+            const quizView = document.getElementById('quiz-view');
+            const loadingCoursesEl = document.getElementById('loading-courses');
+            const courseSelectionContentEl = document.getElementById('course-selection-content');
+            const semesterListEl = document.getElementById('semester-list');
+            const courseListEl = document.getElementById('course-list');
+            const questionContainer = document.getElementById('question-container');
+            const answerKeyContainer = document.getElementById('answer-key-container');
+            const answerSheetContainer = document.querySelector('.answer-sheet');
+            const scoreContainer = document.getElementById('score-container');
+            const scoreDisplay = document.getElementById('score-display');
+            const quizTitleEl = document.getElementById('quiz-title');
+            const loadingMessageEl = document.getElementById('loading-message');
+            const backToSelectionBtn = document.getElementById('back-to-selection');
+            const collapsibleControls = document.getElementById('collapsible-controls');
+
+            let allCoursesData = [];
+            let questionsData = [];
+            let quizTitle = "İnteraktif Sınav";
+            let correctCount = 0;
+            let answeredCount = 0;
+
+            const loadAllCourses = async () => {
+                try {
+                    const response = await fetch(coursesListUrl);
+                    if (!response.ok) throw new Error('Ders listesi yüklenemedi.');
+                    allCoursesData = await response.json();
+                    loadingCoursesEl.style.display = 'none';
+                    courseSelectionContentEl.style.display = 'block';
+                    renderSemesters();
+                    if (allCoursesData.length > 0) {
+                        renderCourses(allCoursesData[0].donem);
+                    }
+                } catch (error) {
+                    loadingCoursesEl.innerHTML = `<p class="text-red-600">${error.message}</p>`;
+                }
+            };
+
+            const renderSemesters = () => {
+                semesterListEl.innerHTML = '';
+                allCoursesData.forEach((semester, index) => {
+                    const button = document.createElement('button');
+                    button.textContent = `${semester.donem}. Dönem`;
+                    button.className = `semester-button px-4 py-2 rounded-md border-2 border-slate-300 hover:bg-slate-100 hover:border-slate-400`;
+                    if (index === 0) button.classList.add('active');
+                    button.addEventListener('click', () => {
+                        document.querySelectorAll('.semester-button').forEach(btn => btn.classList.remove('active'));
+                        button.classList.add('active');
+                        renderCourses(semester.donem);
+                    });
+                    semesterListEl.appendChild(button);
+                });
+            };
+
+            const renderCourses = (semesterNumber) => {
+                courseListEl.innerHTML = '';
+                const semesterData = allCoursesData.find(s => s.donem === semesterNumber);
+                if (semesterData) {
+                    semesterData.dersler.forEach(course => {
+                        const button = document.createElement('button');
+                        button.textContent = course.dersAdi;
+                        button.className = 'course-button text-left w-full p-4 bg-slate-50 rounded-lg border hover:bg-indigo-50 hover:border-indigo-400 hover:shadow-sm';
+                        button.addEventListener('click', () => startQuiz(course.dosyaAdi));
+                        courseListEl.appendChild(button);
+                    });
+                }
+            };
+            
+            const startQuiz = async (fileName) => {
+                selectionView.classList.remove('active');
+                quizView.classList.add('active');
+                
+                questionContainer.innerHTML = '';
+                answerKeyContainer.innerHTML = '';
+                answerSheetContainer.innerHTML = '';
+                answerKeyContainer.classList.add('hidden');
+                loadingMessageEl.innerHTML = `<p class="text-lg font-semibold">Sorular yükleniyor...</p><p>Lütfen bekleyin.</p>`;
+
+                const quizDataUrl = baseDataUrl + encodeURIComponent(fileName);
+                const dataLoaded = await loadQuizData(quizDataUrl);
+
+                if (dataLoaded) {
+                    await loadAndMergeExplanations(fileName);
+                    renderQuizUI();
+                }
+            };
+
+            const loadQuizData = async (url) => {
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error(`HTTP hatası! Durum: ${response.status}`);
+                    const rawData = await response.json();
+                    questionsData = rawData.map(mapQuestionData).sort((a, b) => a.id - b.id);
+                    if (questionsData.length > 0) {
+                        quizTitle = questionsData[0].source.split('|')[0].replace('Ders: ', '').trim() || "İnteraktif Sınav";
+                        quizTitleEl.textContent = quizTitle;
+                        document.querySelector('.page-title').textContent = quizTitle;
+                        return true;
+                    }
+                    throw new Error("Sınavda hiç soru bulunamadı.");
+                } catch (error) {
+                    console.error("Sınav verileri yüklenirken hata oluştu:", error);
+                    loadingMessageEl.innerHTML = `<p class="text-lg font-semibold text-red-600">Hata!</p><p>Sınav soruları yüklenemedi.</p>`;
+                    return false;
+                }
+            };
+
+            const loadAndMergeExplanations = async (fileName) => {
+                const explanationsUrl = baseDataUrl + explanationsSubfolder + encodeURIComponent(fileName);
+                try {
+                    const response = await fetch(explanationsUrl);
+                    if (!response.ok) {
+                        console.warn(`Açıklama dosyası bulunamadı: ${fileName}`);
+                        return;
+                    }
+                    const explanations = await response.json();
+                    const explanationMap = new Map(explanations.map(exp => [exp.SoruID, exp.Aciklama]));
+                    questionsData.forEach(q => {
+                        if (explanationMap.has(q.id)) q.explanation = explanationMap.get(q.id);
+                    });
+                } catch (error) {
+                    console.error('Açıklamalar yüklenirken bir hata oluştu:', error);
+                }
+            };
+            
+            const renderQuizUI = () => {
+                renderQuestions();
+                renderAnswerKey();
+                renderAnswerSheet();
+                renderControls();
+                setupInteractiveMode(false);
+            };
+            
+            const mapQuestionData = (q) => {
+                const options = [q.A, q.B, q.C, q.D, q.E].filter(opt => opt != null && opt.trim() !== '');
+                const correctLetter = q.DogruCevap.toUpperCase();
+                const correctIndex = "ABCDE".indexOf(correctLetter);
+                return { id: q.SoruID, question: q.SoruMetni, options, correctIndex, explanation: "Bu soru için henüz bir açıklama eklenmemiştir.", source: `Ders: ${q.DersAd} | Ünite: ${q.Unite}` };
+            };
+
+            const renderQuestions = () => {
+                questionContainer.innerHTML = ''; 
+                questionsData.forEach((q, index) => {
+                    const questionItem = document.createElement('div');
+                    questionItem.className = 'question-item p-4 mb-4 border-b border-slate-200 last:border-b-0';
+                    questionItem.id = `question-${q.id}`;
+                    
+                    const sourceText = document.createElement('div');
+                    sourceText.className = 'question-source text-xs text-slate-500 mb-2 font-mono hidden';
+                    sourceText.textContent = q.source || '';
+                    questionItem.appendChild(sourceText);
+
+                    const questionText = document.createElement('div');
+                    questionText.className = 'text-md font-semibold text-slate-800 mb-4';
+                    questionText.innerHTML = `<b>${index + 1}.</b> ${q.question}`;
+                    questionItem.appendChild(questionText);
+                    
+                    const optionsList = document.createElement('div');
+                    optionsList.className = 'options-list space-y-3';
+                    q.options.forEach((option, i) => {
+                        const optionId = `q${q.id}_option${i}`;
+                        const wrapper = document.createElement('div');
+                        const radioInput = document.createElement('input');
+                        radioInput.type = 'radio'; radioInput.name = `question_${q.id}`; radioInput.id = optionId; radioInput.value = i; radioInput.className = 'interactive-option-radio'; radioInput.disabled = true;
+                        const radioLabel = document.createElement('label');
+                        radioLabel.htmlFor = optionId; radioLabel.className = 'interactive-option-label'; radioLabel.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${option}`;
+                        if (i === q.correctIndex) radioLabel.dataset.correct = "true";
+                        wrapper.appendChild(radioInput); wrapper.appendChild(radioLabel); optionsList.appendChild(wrapper);
+                    });
+                    questionItem.appendChild(optionsList);
+
+                    const explanationEl = document.createElement('div');
+                    explanationEl.className = 'explanation-item hidden mt-4 p-4 bg-teal-50 border-l-4 border-teal-500 rounded-r-md text-sm';
+                    explanationEl.innerHTML = `<h4 class='font-bold text-teal-800 mb-2'>Detaylı Açıklama</h4><div class='text-teal-700 leading-relaxed'>${q.explanation}</div>`;
+                    questionItem.appendChild(explanationEl);
+                    
+                    questionContainer.appendChild(questionItem);
+                });
+                
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => {
+                    radio.addEventListener('change', handleAnswerSelection);
+                });
+            };
+            
+            const renderAnswerKey = () => {
+                answerKeyContainer.classList.remove('hidden');
+                let keyHTML = `<h2 class="text-2xl font-bold mb-6 text-center">Cevap Anahtarı</h2><div class="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 border-t border-l rounded-lg overflow-hidden">`;
+                questionsData.forEach((q, index) => {
+                    const correctLetter = String.fromCharCode(65 + q.correctIndex);
+                    keyHTML += `<div class="p-2 flex items-center justify-center gap-2 border-r border-b"><span class="text-sm font-semibold text-slate-600">${index + 1}.</span><span class="font-bold text-teal-600">${correctLetter}</span></div>`;
+                });
+                keyHTML += `</div>`;
+                answerKeyContainer.innerHTML = keyHTML;
+            };
+            
+            const renderAnswerSheet = () => {
+                let sheetHTML = `<div class="text-center mb-4"><h2 class="text-xl font-bold">${quizTitle}</h2><h3 class="text-lg font-semibold">Cevap Kağıdı</h3></div><div class="mb-4 space-y-2 border p-2 rounded-md"><div class="flex items-center gap-2"><div class="font-semibold text-sm w-24 text-right">Ad Soyad</div><div class="flex-1 border-b border-black"></div></div><div class="flex items-center gap-2"><div class="font-semibold text-sm w-24 text-right">Numara</div><div class="flex-1 border-b border-black"></div></div></div>`;
+                sheetHTML += `<div class="border rounded-md p-2" style="column-count: 4; column-gap: 1rem;">`;
+                questionsData.forEach((q, index) => {
+                    sheetHTML += `<div class="flex items-center gap-2 mb-2 break-inside-avoid"><strong class="w-8 text-right">${index + 1}.</strong>`;
+                    q.options.forEach((opt, i) => {
+                        sheetHTML += `<span class="flex items-center gap-1">(<span class="font-mono">${String.fromCharCode(65 + i)}</span>)</span>`;
+                    });
+                    sheetHTML += `</div>`;
+                });
+                sheetHTML += `</div>`;
+                answerSheetContainer.innerHTML = sheetHTML;
+            };
+
+            const handleAnswerSelection = (event) => {
+                const selectedRadio = event.target;
+                const questionId = parseInt(selectedRadio.name.split('_')[1]);
+                const userAnswerIndex = parseInt(selectedRadio.value);
+                answeredCount++;
+                const questionData = questionsData.find(q => q.id === questionId);
+                const questionItem = document.getElementById(`question-${questionId}`);
+                const allLabels = questionItem.querySelectorAll('.interactive-option-label');
+                const correctLabel = allLabels[questionData.correctIndex];
+                correctLabel.classList.add('correct-answer');
+                if (userAnswerIndex === questionData.correctIndex) {
+                    correctCount++;
+                } else {
+                    allLabels[userAnswerIndex].classList.add('incorrect-answer');
+                }
+                updateScore();
+                questionItem.querySelectorAll('.interactive-option-radio').forEach(radio => radio.disabled = true);
+                const explanationEl = questionItem.querySelector('.explanation-item');
+                if (explanationEl) explanationEl.classList.remove('hidden');
+            };
+            
+            const updateScore = () => {
+                const percentage = answeredCount > 0 ? ((correctCount / answeredCount) * 100) : 0;
+                const isSticky = document.querySelector('.control-panel').classList.contains('is-sticky');
+                scoreDisplay.textContent = isSticky ? `${correctCount}/${answeredCount} (%${percentage.toFixed(0)})` : `Doğru: ${correctCount}/${answeredCount} | Başarı: %${percentage.toFixed(0)}`;
+            };
+
+            const resetAllStyles = () => {
+                document.querySelectorAll('.interactive-option-label').forEach(label => label.classList.remove('correct-answer', 'incorrect-answer', 'font-extrabold', 'text-green-700', 'bg-green-100'));
+                document.querySelectorAll('.options-list div').forEach(wrapper => wrapper.classList.remove('hidden'));
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => radio.checked = false);
+                document.querySelectorAll('.explanation-item, .question-source').forEach(item => item.classList.add('hidden'));
+            };
+
+            const setupInteractiveMode = (isActive) => {
+                resetAllStyles();
+                document.querySelectorAll('#collapsible-controls .toggle-wrapper').forEach(wrapper => {
+                    const toggleInput = wrapper.querySelector('input');
+                    if (toggleInput) {
+                        wrapper.classList.toggle('disabled', isActive);
+                        toggleInput.disabled = isActive;
+                        if (isActive) toggleInput.checked = false;
+                    }
+                });
+
+                if (!isActive) {
+                    const showAnswers = document.getElementById('show-answers');
+                    const showExplanations = document.getElementById('show-explanations');
+                    const showSources = document.getElementById('show-sources');
+                    const hideIncorrect = document.getElementById('hide-incorrect');
+                    if(showAnswers) showAnswers.checked = true;
+                    if(showExplanations) showExplanations.checked = true;
+                    if(showSources) showSources.checked = false;
+                    if(hideIncorrect) hideIncorrect.checked = false;
+                }
+
+                document.querySelectorAll('.interactive-option-radio').forEach(radio => radio.disabled = !isActive);
+                document.querySelectorAll('.options-list').forEach(list => list.classList.toggle('disabled', !isActive));
+                
+                if(isActive) {
+                    scoreContainer.classList.remove('hidden');
+                    correctCount = 0;
+                    answeredCount = 0;
+                    updateScore();
+                } else {
+                    scoreContainer.classList.add('hidden');
+                    applyViewModeSettings();
+                }
+            };
+
+            const applyViewModeSettings = () => {
+                const interactiveSolve = document.getElementById('interactive-solve');
+                if (interactiveSolve && interactiveSolve.checked) return;
+                
+                const showAnswers = document.getElementById('show-answers');
+                if (showAnswers) {
+                    document.querySelectorAll('.interactive-option-label[data-correct="true"]').forEach(label => {
+                        label.classList.toggle('font-extrabold', showAnswers.checked);
+                        label.classList.toggle('text-green-700', showAnswers.checked);
+                        label.classList.toggle('bg-green-100', showAnswers.checked);
+                    });
+                }
+
+                const showExplanations = document.getElementById('show-explanations');
+                if(showExplanations) {
+                    document.querySelectorAll('.explanation-item').forEach(item => item.classList.toggle('hidden', !showExplanations.checked));
+                }
+
+                const showSources = document.getElementById('show-sources');
+                if(showSources){
+                    document.querySelectorAll('.question-source').forEach(item => item.classList.toggle('hidden', !showSources.checked));
+                }
+
+                const hideIncorrect = document.getElementById('hide-incorrect');
+                if(hideIncorrect){
+                    document.querySelectorAll('.interactive-option-label').forEach(label => {
+                        if (label.dataset.correct !== "true") {
+                            label.parentElement.classList.toggle('hidden', hideIncorrect.checked);
+                        }
+                    });
+                }
+            };
+            
+            const prepareForPrint = () => {
+                const showAnswers = document.getElementById('show-answers');
+                const showExplanations = document.getElementById('show-explanations');
+                const showSources = document.getElementById('show-sources');
+
+                const printAnswersStatus = document.getElementById('print-show-answers-status');
+                const printExplanationsStatus = document.getElementById('print-show-explanations-status');
+                const printSourcesStatus = document.getElementById('print-show-sources-status');
+
+                if (printAnswersStatus) printAnswersStatus.textContent = showAnswers && showAnswers.checked ? 'Evet' : 'Hayır';
+                if (printExplanationsStatus) printExplanationsStatus.textContent = showExplanations && showExplanations.checked ? 'Evet' : 'Hayır';
+                if (printSourcesStatus) printSourcesStatus.textContent = showSources && showSources.checked ? 'Evet' : 'Hayır';
+                
+                document.querySelector('.print-only').classList.remove('no-print');
+                window.print();
+                document.querySelector('.print-only').classList.add('no-print');
+            };
+
+            const renderControls = () => {
+                collapsibleControls.innerHTML = `
+                    <div class="flex items-center gap-3 toggle-wrapper" id="interactive-solve-wrapper">
+                        <label for="interactive-solve" class="font-medium text-indigo-700">İnteraktif Çözüm</label>
+                        <label class="switch"><input type="checkbox" id="interactive-solve"><span class="slider"></span></label>
+                    </div>
+                    <div class="flex items-center gap-3 toggle-wrapper">
+                        <label for="show-answers" class="font-medium text-slate-700">Cevapları Göster</label>
+                        <label class="switch"><input type="checkbox" id="show-answers" checked><span class="slider"></span></label>
+                    </div>
+                    <div class="flex items-center gap-3 toggle-wrapper">
+                        <label for="show-explanations" class="font-medium text-slate-700">Açıklamaları Göster</label>
+                        <label class="switch"><input type="checkbox" id="show-explanations" checked><span class="slider"></span></label>
+                    </div>
+                    <div class="flex items-center gap-3 toggle-wrapper">
+                        <label for="show-sources" class="font-medium text-slate-700">Kaynakları Göster</label>
+                        <label class="switch"><input type="checkbox" id="show-sources"><span class="slider"></span></label>
+                    </div>
+                    <div class="flex items-center gap-3 toggle-wrapper">
+                        <label for="hide-incorrect" class="font-medium text-slate-700">Sadece Doğruyu Göster</label>
+                        <label class="switch"><input type="checkbox" id="hide-incorrect"><span class="slider"></span></label>
+                    </div>
+                    <button id="print-button" class="bg-teal-600 text-white font-bold py-2 px-6 rounded-lg hover:bg-teal-700 transition duration-300">Yazdır</button>
+                `;
+                document.getElementById('interactive-solve').addEventListener('change', (e) => setupInteractiveMode(e.target.checked));
+                document.getElementById('show-answers').addEventListener('change', applyViewModeSettings);
+                document.getElementById('show-explanations').addEventListener('change', applyViewModeSettings);
+                document.getElementById('show-sources').addEventListener('change', applyViewModeSettings);
+                document.getElementById('hide-incorrect').addEventListener('change', applyViewModeSettings);
+                document.getElementById('print-button').addEventListener('click', prepareForPrint);
+            };
+
+            backToSelectionBtn.addEventListener('click', () => {
+                quizView.classList.remove('active');
+                selectionView.classList.add('active');
+            });
+            
+            const sentinel = document.getElementById('header-sentinel');
+            const controlPanel = document.querySelector('.control-panel');
+            const observer = new IntersectionObserver(
+                ([entry]) => {
+                    controlPanel.classList.toggle('is-sticky', !entry.isIntersecting);
+                    const interactiveSolve = document.getElementById('interactive-solve');
+                    if(interactiveSolve && interactiveSolve.checked) updateScore();
+                },
+                { rootMargin: '0px 0px 0px 0px', threshold: 1.0 }
+            );
+            if (sentinel) observer.observe(sentinel);
+
+            loadAllCourses();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+[
+  {
+    "donem": 1,
+    "dersler": [
+      { "dersAdi": "Genel Sanat Tarihi", "dosyaAdi": "ATA-AÖF - Dönem 1 - Genel Sanat Tarihi - Tüm Sorular.json" },
+      { "dersAdi": "Temel Bilgi Teknolojileri I", "dosyaAdi": "ATA-AÖF - Dönem 1 - Temel Bilgi Teknolojileri I - Tüm Sorular.json" },
+      { "dersAdi": "Temel Fotoğrafçılık", "dosyaAdi": "ATA-AÖF - Dönem 1 - Temel Fotoğrafçılık - Tüm Sorular.json" },
+      { "dersAdi": "Temel Tasarım I", "dosyaAdi": "ATA-AÖF - Dönem 1 - Temel Tasarım I - Tüm Sorular.json" },
+      { "dersAdi": "Yabancı Dil I", "dosyaAdi": "ATA-AÖF - Dönem 1 - Yabancı Dil I - Tüm Sorular.json" },
+      { "dersAdi": "İletişime Giriş", "dosyaAdi": "ATA-AÖF - Dönem 1 - İletişime Giriş - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 2,
+    "dersler": [
+      { "dersAdi": "Grafik Tasarım Tarihi", "dosyaAdi": "ATA-AÖF - Dönem 2 - Grafik Tasarım Tarihi - Tüm Sorular.json" },
+      { "dersAdi": "Görme Biçimleri", "dosyaAdi": "ATA-AÖF - Dönem 2 - Görme Biçimleri - Tüm Sorular.json" },
+      { "dersAdi": "Reklam Fotoğrafçılığı", "dosyaAdi": "ATA-AÖF - Dönem 2 - Reklam Fotoğrafçılığı - Tüm Sorular.json" },
+      { "dersAdi": "Sanat Sosyolojisi", "dosyaAdi": "ATA-AÖF - Dönem 2 - Sanat Sosyolojisi - Tüm Sorular.json" },
+      { "dersAdi": "Temel Tasarım II", "dosyaAdi": "ATA-AÖF - Dönem 2 - Temel Tasarım II - Tüm Sorular.json" },
+      { "dersAdi": "Yabancı Dil II", "dosyaAdi": "ATA-AÖF - Dönem 2 - Yabancı Dil II - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 3,
+    "dersler": [
+      { "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi I", "dosyaAdi": "ATA-AÖF - Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I - Tüm Sorular.json" },
+      { "dersAdi": "Grafik Tasarım I", "dosyaAdi": "ATA-AÖF - Dönem 3 - Grafik Tasarım I - Tüm Sorular.json" },
+      { "dersAdi": "Reklam Analizleri", "dosyaAdi": "ATA-AÖF - Dönem 3 - Reklam Analizleri - Tüm Sorular.json" },
+      { "dersAdi": "Sayısal Fotoğraf", "dosyaAdi": "ATA-AÖF - Dönem 3 - Sayısal Fotoğraf - Tüm Sorular.json" },
+      { "dersAdi": "Tipografi", "dosyaAdi": "ATA-AÖF - Dönem 3 - Tipografi - Tüm Sorular.json" },
+      { "dersAdi": "Türk Dili I", "dosyaAdi": "ATA-AÖF - Dönem 3 - Türk Dili I - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 4,
+    "dersler": [
+      { "dersAdi": "Atatürk İlkeleri ve İnkılap Tarihi II", "dosyaAdi": "ATA-AÖF - Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II - Tüm Sorular.json" },
+      { "dersAdi": "Grafik Tasarım II", "dosyaAdi": "ATA-AÖF - Dönem 4 - Grafik Tasarım II - Tüm Sorular.json" },
+      { "dersAdi": "Görsel İletişim Tasarımı", "dosyaAdi": "ATA-AÖF - Dönem 4 - Görsel İletişim Tasarımı - Tüm Sorular.json" },
+      { "dersAdi": "Masaüstü Yayıncılık", "dosyaAdi": "ATA-AÖF - Dönem 4 - Masaüstü Yayıncılık - Tüm Sorular.json" },
+      { "dersAdi": "Tasarımda Tipografi", "dosyaAdi": "ATA-AÖF - Dönem 4 - Tasarımda Tipografi - Tüm Sorular.json" },
+      { "dersAdi": "Türk Dili II", "dosyaAdi": "ATA-AÖF - Dönem 4 - Türk Dili II - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 5,
+    "dersler": [
+      { "dersAdi": "Grafik Üretim Teknikleri", "dosyaAdi": "ATA-AÖF - Dönem 5 - Grafik Üretim Teknikleri - Tüm Sorular.json" },
+      { "dersAdi": "Reklam Grafiği", "dosyaAdi": "ATA-AÖF - Dönem 5 - Reklam Grafiği - Tüm Sorular.json" },
+      { "dersAdi": "Tasarım Okumaları", "dosyaAdi": "ATA-AÖF - Dönem 5 - Tasarım Okumaları - Tüm Sorular.json" },
+      { "dersAdi": "Web Tasarımının Temelleri", "dosyaAdi": "ATA-AÖF - Dönem 5 - Web Tasarımının Temelleri - Tüm Sorular.json" },
+      { "dersAdi": "Özgün Baskı Teknikleri", "dosyaAdi": "ATA-AÖF - Dönem 5 - Özgün Baskı Teknikleri - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 6,
+    "dersler": [
+      { "dersAdi": "Ambalaj Tasarımı", "dosyaAdi": "ATA-AÖF - Dönem 6 - Ambalaj Tasarımı - Tüm Sorular.json" },
+      { "dersAdi": "Göstergebilim", "dosyaAdi": "ATA-AÖF - Dönem 6 - Göstergebilim - Tüm Sorular.json" },
+      { "dersAdi": "Reklamda Yaratıcılık", "dosyaAdi": "ATA-AÖF - Dönem 6 - Reklamda Yaratıcılık - Tüm Sorular.json" },
+      { "dersAdi": "Tasarımda Fotoğraf Kullanımı", "dosyaAdi": "ATA-AÖF - Dönem 6 - Tasarımda Fotoğraf Kullanımı - Tüm Sorular.json" },
+      { "dersAdi": "Yayın Grafiği", "dosyaAdi": "ATA-AÖF - Dönem 6 - Yayın Grafiği - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 7,
+    "dersler": [
+      { "dersAdi": "Görsel Kimlik ve Marka Tasarımı", "dosyaAdi": "ATA-AÖF - Dönem 7 - Görsel Kimlik ve Marka Tasarımı - Tüm Sorular.json" },
+      { "dersAdi": "Tanıtım Fotoğrafı", "dosyaAdi": "ATA-AÖF - Dönem 7 - Tanıtım Fotoğrafı - Tüm Sorular.json" },
+      { "dersAdi": "İllüstrasyon", "dosyaAdi": "ATA-AÖF - Dönem 7 - İllüstrasyon - Tüm Sorular.json" }
+    ]
+  },
+  {
+    "donem": 8,
+    "dersler": [
+      { "dersAdi": "Bilgilendirme Tasarımı", "dosyaAdi": "ATA-AÖF - Dönem 8 - Bilgilendirme Tasarımı - Tüm Sorular.json" },
+      { "dersAdi": "Dijital Kültür ve Sosyal Medya", "dosyaAdi": "ATA-AÖF - Dönem 8 - Dijital Kültür ve Sosyal Medya - Tüm Sorular.json" },
+      { "dersAdi": "Tasarımda Kurgu ve Analiz", "dosyaAdi": "ATA-AÖF - Dönem 8 - Tasarımda Kurgu ve Analiz - Tüm Sorular.json" }
+    ]
+  }
+]

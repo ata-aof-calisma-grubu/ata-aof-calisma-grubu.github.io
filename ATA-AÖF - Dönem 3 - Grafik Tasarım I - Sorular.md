@@ -14,7 +14,7 @@
     - D-) Görmek ve duymak - Yazmak - Konuşmak - Görsel imgeler oluşturmak
     - E-) Yazmak - Görmek ve duymak - Görsel imgeler oluşturmak - Konuşmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi mağara resimleriyle bilinen, başlıca yerlerden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Lascaux Mağarası, Fransa
     - B-) Coliboaia Mağarası, Romanya
     - **Cevap C-) Damlataş Mağarası, T&uuml;rkiye**
@@ -198,7 +198,7 @@ Aşağıdakilerden hangisi k&uuml;&ccedil;&uuml;k harflerin ortaya &ccedil;ıkma
     - D-) İdeogram
     - E-) Rezolasyon
     <hr />
-1. <strong>Kitap kapaklarının dış etkenlerden zarar g&ouml;rmemesi i&ccedil;in &uuml;zerine giydirilen k&acirc;ğıt kap aşağıdaki hangi isimle adlandırılır? </strong> 
+1. <strong>Kitap kapaklarının dış etkenlerden zarar g&ouml;rmemesi i&ccedil;in &uuml;zerine giydirilen k&acirc;ğıt kap aşağıdaki hangi isimle adlandırılır?&nbsp;</strong> 
     - **Cevap A-) Ş&ouml;miz**
     - B-) Perforaj
     - C-) Punto
@@ -315,15 +315,15 @@ III. M&uuml;şteriyi d&uuml;ş&uuml;nmeye y&ouml;nlendirir.<br />
     - D-) Pratiklik
     - E-) Yetenek
     <hr />
-1. &ldquo;.............................. ortaya atılan fikirleri topluca g&ouml;rmemizi sağlayan bir ara&ccedil; olup, i&ccedil;eriği, metinler, g&ouml;rsel unsurlar ve bu unsurlar arasındaki y&ouml;nlendirmelerden oluşur.<br />
-<strong>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong> 
+1. .............................. ortaya atılan fikirleri topluca g&ouml;rmemizi sağlayan bir ara&ccedil; olup i&ccedil;eriği; metinler, g&ouml;rsel unsurlar ve bu unsurlar arasındaki y&ouml;nlendirmelerden oluşur.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) Moodboard**
     - B-) Brief
     - C-) Taslak
     - D-) Tasarım
     - E-) Beyin Fırtınası
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen fakt&ouml;rlerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi tasarım alanlarında yaratıcılığı etkileyen fakt&ouml;rlerden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) İşlevsellik
     - B-) Sezgisel Yaklaşım
     - C-) Hedef Kitle Beklentileri
@@ -354,7 +354,7 @@ III. &Uuml;r&uuml;n veya hizmetin analizi<br />
     - D-) B&uuml;t&ccedil;e
     - E-) Teslim Tarihi
     <hr />
-1. <strong>Aşağıdakilerden hangisi yaratıcı bir tasarımın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yaratıcı bir tasarımın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) İşlevsel olmak
     - B-) Estetik olmak
     - C-) Dikkat &ccedil;ekici olmak
@@ -369,7 +369,7 @@ III. &Uuml;r&uuml;n veya hizmetin analizi<br />
     - E-) Dikey ve Kapsamlı D&uuml;ş&uuml;nme Y&ouml;ntemi
     <hr />
 1. I. Projenin Ana Hedefi<br />
-II. Hedef kitle<br />
+II.&nbsp;Hedef kitle<br />
 III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
 <strong>Başarılı olarak değerlendirilebilecek bir brief&rsquo;in i&ccedil;eriğinde yukarıdakilerden hangisi ya da hangileri olmalıdır?</strong>
     - A-) Yalnız I
@@ -416,12 +416,12 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
     - D-) Sıralı akışıyla akıl karışıklıklarını giderir.
     - E-) Sorunları hemen &ccedil;&ouml;zmeye yardımcı olur.
     <hr />
-1. <strong>&Ouml;z&uuml;nde, tasarım fikri aşağıdakilerden hangisi <u>değildir</u>?</strong> 
-    - A-) Ürün ve hizmetler tasarladığımız insanları anlamaya yönelik derin bir ilgi etrafında döner.
-    - B-) Hedef kullanıcılarla empati kurmamıza ve gözlemlememize yardımcı olur.
+1. <strong>Tasarım fikri i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+    - A-) &Uuml;r&uuml;n ve hizmetler tasarladığımız insanları anlamaya y&ouml;nelik derin bir ilgi etrafında d&ouml;ner.
+    - B-) Hedef kullanıcılarla empati kurmamıza ve g&ouml;zlemlememize yardımcı olur.
     - **Cevap C-) Yaratıcılığımızı ve yeteneğimizi geliştirir.**
     - D-) Yetersiz tanımlanmış veya bilinmeyen sorunlarla uğraşırken son derece yararlı olduğunu kanıtlar.
-    - E-) Eskizler, prototipler, testler ve yeni kavram ve fikirlerin denemeleri yoluyla devam eden deneyleri içerir.
+    - E-) Eskizler, prototipler, testler ve yeni kavram ve fikirlerin denemeleri yoluyla devam eden deneyleri i&ccedil;erir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi tasarım fikrinin aşamalarından biri <u>değildir</u>?</strong> 
     - A-) Empati
@@ -516,6 +516,13 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
     - D-) Tanımlama
     - **Cevap E-) Empati**
     <hr />
+1. <strong>Aşağıdakilerden hangisi &ccedil;ift elmas diyagramının aşamalarından biri <u>değildir</u>?</strong>
+    - A-) Keşfetme
+    - B-) Tanımla
+    - C-) Geliştirme
+    - D-) Uygulama
+    - **Cevap E-) &Ccedil;&ouml;z&uuml;mleme**
+    <hr />
 1. &hellip;&hellip;&hellip;&hellip;. aşaması, ekipteki tasarımcıların eldeki sorunu &ccedil;&ouml;zmek i&ccedil;in &ouml;zellikler, işlevler ve diğer &ouml;geleri oluşturmak i&ccedil;in harika fikirler toplamasına yardımcı olmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Test etme
@@ -542,7 +549,7 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
 1. <strong>Aşağıdakilerden hangisi piktogram <u>değildir</u>?</strong> 
     - A-) Hastane tabelası
     - B-) Afet toplanma alanı tabelası
-    - **Cevap C-) Otoyol km bilgi tabelası**
+    - **Cevap C-) Otoyol kilometre bilgi tabelası**
     - D-) Alt ge&ccedil;it tabelası
     - E-) Tuvalet tabelası
     <hr />
@@ -560,7 +567,7 @@ III. Kullanılması d&uuml;ş&uuml;n&uuml;len mecralar<br />
     - D-) Sol alt
     - E-) Sağ alt
     <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;. sadece harf veya s&ouml;zc&uuml;klerden oluşur.<br />
+1.&nbsp;&hellip;&hellip;&hellip;&hellip;&hellip;. sadece harf veya s&ouml;zc&uuml;klerden oluşur.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Logo
     - B-) Amblem
@@ -758,7 +765,7 @@ III. Kitabın tasarımında sayfalar bir b&uuml;t&uuml;n olarak tasarlanmalıdı
     - D-) Basım yılı
     - E-) Edit&ouml;r&uuml;n adı
     <hr />
-1. <strong>Kitap kapağı tasarım s&uuml;recinde soldan sağa doğru </strong><strong>&ouml;ğelerin sıralanış bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
+1. <strong>Kitap kapağı tasarım s&uuml;recinde soldan sağa doğru&nbsp;</strong><strong>&ouml;ğelerin sıralanış bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - A-) &Ouml;n kapak-Arka kapak-Sırt
     - B-) Sırt-&Ouml;n kapak-Arka kapak
     - C-) Arka kapak-&Ouml;n kapak-Sırt
@@ -803,7 +810,7 @@ III. Kitabın tasarımında sayfalar bir b&uuml;t&uuml;n olarak tasarlanmalıdı
 1. I. Denge<br />
 II. Boşluk<br />
 III. Hiyerarşi<br />
-<strong>Yukarıdaki &ouml;gelerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri kitap tasarımında dikkate alınmalıdır?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
@@ -890,7 +897,7 @@ III. Hiyerarşi<br />
     - **Cevap D-) Bülten**
     - E-) Magazin
     <hr />
-1. <strong>Yayın hayatına 2017&#39;de başlayan ve her ay bir yayın yapan derginin Nisan 2020 tarihli yayını i&ccedil;in verilmesi gereken &quot;Cilt&quot; ve &quot;Sayı&quot; numaraları aşağıdakilerden hangisidir? </strong>
+1. <strong>Yayın hayatına 2017&#39;de başlayan ve her ay bir yayın yapan derginin Nisan 2020 tarihli yayını i&ccedil;in verilmesi gereken &quot;Cilt&quot; ve &quot;Sayı&quot; numaraları aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Cilt 3, Sayı 1
     - B-) Cilt 3, Sayı 2
     - C-) Cilt 3, Sayı 3
@@ -959,6 +966,13 @@ III. Hiyerarşi<br />
     - **Cevap C-) Baskı tarihi ve sayısı i&ccedil;erir.**
     - D-) &Ouml;zel sekt&ouml;r tarafından yayımlanır.
     - E-) Cilt h&acirc;line getirilerek arşivlenir.
+    <hr />
+1. <strong>Gazetelerin yılının, sayısının, sahibinin, genel yayın y&ouml;netmeninin, iletişim bilgilerinin, basım ve yayım gibi bilgilerinin yazıldığı kısma verilen isim aşağıdakilerden hangisidir?</strong> 
+    - A-) Spot
+    - B-) Lejant
+    - C-) Marj
+    - **Cevap D-) K&uuml;nye**
+    - E-) S&uuml;rmanşet
     <hr />
 1. Bu t&uuml;r dergilerdeki makaleler, yazarın meslektaşları (aynı konuda uzman olan kişiler) tarafından incelenerek ve onaylanarak resm&icirc; bir d&uuml;zeltme işleminden ge&ccedil;irilerek yayımlanır.<br />
 <strong>Bahsedilen dergi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
@@ -1043,7 +1057,7 @@ III. Hiyerarşi<br />
     - D-) Yoruma a&ccedil;ık olması
     - E-) Ger&ccedil;ek&ccedil;i g&ouml;r&uuml;nmesi
     <hr />
-1. <strong>Afiş tasarımı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Afiş tasarımı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Afiş tasarımının amacı mesajları m&uuml;mk&uuml;n olan en kısa s&uuml;rede ve hatırlanabilir bir şekilde hedef kitleye iletmektir.
     - B-) Afişler g&ouml;rsel buluşlarla veya tipografik oyunlarla izleyicilerin dikkatini &ccedil;eken ve basılarak &ccedil;oğaltılan g&ouml;rsel iletişim ara&ccedil;larıdır.
     - C-) Afiş tasarımı, g&ouml;rsel iletişim tekniklerine dayanan ve yaratıcılık gerektiren bir alandır.
@@ -1061,7 +1075,7 @@ III. Hiyerarşi<br />
     - A-) Tipografik afişler &ccedil;oğu zaman g&ouml;rsel buluşlar i&ccedil;erir.
     - **Cevap B-) Tipografik afişlerle resim sanatı arasında yakın bir ilişki vardır.**
     - C-) Afişlerde kullanılan tipografinin konuyla uyumlu olması &ouml;nem taşımaktadır.
-    - D-) Tipografinin konusu harfleri, rakamları ve noktalama işaretlerini kullanarak konuşma diline &ouml;zg&uuml; sesleri ve duyguları g&ouml;rsel ifadelere d&ouml;n&uuml;şt&uuml;rmektir. 
+    - D-) Tipografinin konusu harfleri, rakamları ve noktalama işaretlerini kullanarak konuşma diline &ouml;zg&uuml; sesleri ve duyguları g&ouml;rsel ifadelere d&ouml;n&uuml;şt&uuml;rmektir.
     - E-) Tipografinin amacı iletilecek mesajı g&ouml;rsel bir anlatım ile destekleyecek yazı bi&ccedil;imleri yaratmaktır.
     <hr />
 1. <strong>Afiş tasarımıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong> 
@@ -1147,7 +1161,7 @@ III. Tipografik afişler<br />
     - **Cevap D-) Cihaz donanımına düşen yükü azaltmak**
     - E-) Zihinsel yükü düşürmek
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&uuml;n&uuml;m&uuml;z yaygın arabirimlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&uuml;n&uuml;m&uuml;z yaygın arabirimlerinden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Masa&uuml;st&uuml; arabirimleri
     - B-) Giyilebilir teknoloji arabirimleri
     - **Cevap C-) Akıllı trafik sistemi arabirimleri**
@@ -1161,7 +1175,7 @@ III. Tipografik afişler<br />
     - D-) Kullanıcının hayatı üzerinde içgörü edinmek,
     - E-) Rakip pazarı tanımak
     <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; prototiplerin temel hedeflerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; prototiplerin temel hedeflerinden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Doğru renk kullanımlarını bulmak
     - B-) Tipografi ve okunaklılık konusunda kararlar geliştirmek
     - C-) Tasarımın duygusal &ccedil;ıktıları &uuml;zerine veri elde etmek
@@ -1177,21 +1191,21 @@ III. Tipografik afişler<br />
     <hr />
 1. <strong>Aray&uuml;z tasarımının teknolojik evrimi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Grafik aray&uuml;zlerin evrimi, işlemciler, mikro&ccedil;ipler, ekran teknolojileri, sens&ouml;rler gibi donanım teknolojileri ile paralellik g&ouml;stermektedir.
-    - B-) Flat tasarımlar aray&uuml;zlerde &uuml;&ccedil; boyutu ortadan kaldırmış, daha net ve kontrastlı renkler, beyaz boşluk ve tipografinin daha etkin kullanımı ile arabirim &ouml;geleri arasındaki hiyerarşiyi kurmayı hedeflemiştir.  
+    - B-) Flat tasarımlar aray&uuml;zlerde &uuml;&ccedil; boyutu ortadan kaldırmış, daha net ve kontrastlı renkler, beyaz boşluk ve tipografinin daha etkin kullanımı ile arabirim &ouml;geleri arasındaki hiyerarşiyi kurmayı hedeflemiştir.
     - C-) Grafik aray&uuml;zleri materyal olarak dış d&uuml;nyayı taklit eden uzantılar olmak yerine kendi d&uuml;nyalarını yaratan ekosistemlere d&ouml;n&uuml;şm&uuml;şlerdir.
     - **Cevap D-) Aray&uuml;zlerde yer alan Arama, Ayarlar, Men&uuml;ler gibi ikonlar grafik &ouml;geleri i&ccedil;erisinde yer almaz.**
     - E-) Material Design aray&uuml;zlere &uuml;&ccedil;&uuml;nc&uuml; boyutu geri getirmiş fakat ger&ccedil;ek d&uuml;nyanın taklidinden ka&ccedil;ınmıştır.
     <hr />
 1. <strong>Masa&uuml;st&uuml; arabirimlerle ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Masa&uuml;st&uuml; arabirimleri daha uzun vakit ge&ccedil;irilen etkileşim ortamlarıdır. 
-    - B-) Kontroll&uuml; ortamlarda kullanılırlar ve sıklıkla yer değiştirmezler. 
-    - C-) Karmaşık işlemler ger&ccedil;ekleştirmeye m&uuml;saitlerdir. 
+    - A-) Masa&uuml;st&uuml; arabirimleri daha uzun vakit ge&ccedil;irilen etkileşim ortamlarıdır.
+    - B-) Kontroll&uuml; ortamlarda kullanılırlar ve sıklıkla yer değiştirmezler.
+    - C-) Karmaşık işlemler ger&ccedil;ekleştirmeye m&uuml;saitlerdir.
     - D-) Dikkat gerektiren işlemlerde daha sık tercih edilirler.
     - **Cevap E-) Yeni nesil g&ouml;sterge tasarımları aynı zamanda etkileşimli ve &uuml;retim hatları ile konuşabilen arabirimlerdir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi </strong><strong>g&uuml;n&uuml;m&uuml;zde kullanım sıklıklarına g&ouml;re arabirim medium t&uuml;rleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>g&uuml;n&uuml;m&uuml;zde kullanım sıklıklarına g&ouml;re arabirim medium t&uuml;rleri arasında&nbsp;<u>yer almaz</u>?</strong>
     - A-) Masa&uuml;st&uuml; arabirimler
-    - B-) Mobil arabirimler 
+    - B-) Mobil arabirimler
     - **Cevap C-) A&ccedil;ık sistem arabirimler**
     - D-) Ekransız arabirimler
     - E-) Giyilebilir teknoloji arabirimleri
@@ -1202,6 +1216,23 @@ III. Tipografik afişler<br />
     - **Cevap C-) Grafik Tasarımın sınırları her ge&ccedil;en g&uuml;n bulanıklaşmaktadır.**
     - D-) Baskı teknolojilerindeki gelişim grafik tasarımın y&ouml;n&uuml;n&uuml; tayin eder.
     - E-) Grafik tasarımcılar iletişim problemlerini i&ccedil;g&uuml;d&uuml;sel yetenekleri ile &ccedil;&ouml;zerler.
+    <hr />
+1. I. Flat Tasarım<br />
+II. Skemorfik Tasarım<br />
+III. Material Tasarım<br />
+<strong>Verilen anlayış bi&ccedil;imlerinin geliştirilme sırasına g&ouml;re doğru sıralanışı&nbsp;</strong><strong>a</strong><strong>şağıdakilerden hangisi</strong><strong>dir?</strong> 
+    - A-) I, II, III
+    - B-) III, II, I
+    - C-) I, III, II
+    - D-) III, I, II
+    - **Cevap E-) II, I, III**
+    <hr />
+1. <strong>Hangisi Wireframe (Izgara) Test Y&ouml;ntemi&#39;nin temel ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong> 
+    - A-) Tasarımı en erken aşamada değerlendirmek
+    - **Cevap B-) &Uuml;r&uuml;n&uuml;n pazar payını &ouml;l&ccedil;mek**
+    - C-) Maliyetten tasarruf etmek
+    - D-) İ&ccedil;erik tasarım ilişkisini &ouml;l&ccedil;mek
+    - E-) Zamandan tasarruf etmek
     <hr />
 1. <strong>Minimum fiziksel etkileşimle maksimum verim almayı hedefleyen arabirim medyumu aşağıdakilerden hangisidir?</strong>
     - A-) Ekransız arabirimler
@@ -1225,11 +1256,11 @@ III. Tipografik afişler<br />
     - D-) Sergileme tasarımı ise g&uuml;n&uuml;m&uuml;zde sunma eyleminin g&ouml;rsel iletişim tasarımıyla b&uuml;t&uuml;nleşmiş h&acirc;lidir.
     - E-) Mek&acirc;nın, medyanın, i&ccedil;eriğin ve anlatının b&uuml;t&uuml;nleşmiş bir par&ccedil;asıdır.
     <hr />
-1. <strong>Nesnelerin, Paleolitik d&ouml;nem mezarlarında kazandıkları anlam nedir?</strong> 
+1. <strong>Nesnelerin, Paleolitik D&ouml;nem mezarlarında kazandıkları anlam&nbsp;</strong><strong>a</strong><strong>şağıdakilerden hangisidir</strong><strong>?</strong> 
     - A-) Bilgi
     - B-) Elverişlilik
-    - C-) Gösteriş
-    - **Cevap D-) Statü**
+    - C-) G&ouml;steriş
+    - **Cevap D-) Stat&uuml;**
     - E-) Seyirci
     <hr />
 1. <strong>Bir tasarımda anlam yaratmak i&ccedil;in aşağıdakilerden hangisi gereklidir?</strong> 
@@ -1290,7 +1321,7 @@ III. Tipografik afişler<br />
     - D-) Yeni &uuml;r&uuml;nler piyasaya s&uuml;rmek
     - E-) Marka profilini y&uuml;kseltmek
     <hr />
-1. Sanal sergicilik ve m&uuml;zecilikte ilk adımlardan biri 1990&rsquo;larda &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. M&uuml;zesi&#39;nde atılmıştır.<br />
+1. Sanal sergicilik ve m&uuml;zecilikte ilk adımlardan biri 1990&rsquo;larda &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&nbsp;M&uuml;zesi&#39;nde atılmıştır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Paris Bilim ve Teknoloji
     - B-) Berlin Kent
@@ -1304,6 +1335,13 @@ III. Tipografik afişler<br />
     - **Cevap C-) Toplumsal olaylardan**
     - D-) Markalardan
     - E-) &Ouml;ren yerlerinden
+    <hr />
+1. <strong>M&uuml;ze ve sergilerde sınıflandırma sistemi aşağıdakilerden hangisiyle başlamıştır?</strong> 
+    - A-) Louvre M&uuml;zesi
+    - **Cevap B-) Nadireler Kabinesi**
+    - C-) Britanya M&uuml;zesi
+    - D-) Tutankhamun&rsquo;un Mezarı
+    - E-) İskenderiye K&uuml;t&uuml;phanesi
     <hr />
 1. <strong>Anıtsal sergilemelerin tarih sergilemelerinden farkı aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) Mek&#226;nın kendisinin aracı olarak kullanılması**
@@ -1319,7 +1357,7 @@ III. Tipografik afişler<br />
     - **Cevap D-) Nadireler kabinesi**
     - E-) Evrensel sergiler
     <hr />
-1. <strong>Aşağıdakilerden hangisi etkileşimli sergi uygulaması &ouml;rneklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi etkileşimli sergi uygulaması &ouml;rneklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Sim&uuml;lat&ouml;rler
     - B-) Dokunmatik sistemler
     - **Cevap C-) Hologramlar**
@@ -1410,14 +1448,14 @@ III. Katlama y&ouml;ntemi<br />
     - A-) ganatsal
     - **Cevap B-) g&ouml;rsel**
     - C-) i&ccedil;eriksel
-    - D-) metinsel 
+    - D-) metinsel
     - E-) tipografik
     <hr />
 1. <strong>Kitap formatındaki portfolyoların avantajı aşağıdakilerden hangisidir?</strong> 
-    - **Cevap A-) İ&#231;eriği &#252;reten olmadan kendisini anlatabilir.**
+    - **Cevap A-) İ&ccedil;eriği &uuml;reten olmadan kendisini anlatabilir.**
     - B-) Diyaloğu artırır.
-    - C-) G&#252;ncellenebilmesi kolaydır.
-    - D-) &#220;retim maliyeti azdır.
+    - C-) G&uuml;ncellenebilmesi kolaydır.
+    - D-) &Uuml;retim maliyeti azdır.
     - E-) Daha fazla kitleye ulaşır.
     <hr />
 1. <strong>Portfoyo i&ccedil;eriğinde yer alacak g&ouml;rsel unsurların kısmi iyileştirilmesinde aşağıdakilerden hangisine dokunmak <u>gerekmez</u>?</strong> 
@@ -1522,10 +1560,10 @@ III. Katlama y&ouml;ntemi<br />
     <hr />
 1. ............ genel olarak ayırt etme, belirleme, vurgulama, uyarma, tanımlama gibi farklı bir&ccedil;ok işleve sahiptir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) Tipografi 
+    - A-) Tipografi
     - **Cevap B-) Renk**
-    - C-) Doku 
-    - D-) İll&uuml;strasyon 
+    - C-) Doku
+    - D-) İll&uuml;strasyon
     - E-) Animasyon
     <hr />
 1. <strong>Jenerik tasarım s&uuml;recinde aşağıdaki unsurlardan hangisi <u>kullanılamaz</u>?</strong> 
@@ -1534,6 +1572,13 @@ III. Katlama y&ouml;ntemi<br />
     - C-) İll&uuml;strasyon
     - D-) Kamera g&ouml;r&uuml;nt&uuml;s&uuml;
     - **Cevap E-) Dekor**
+    <hr />
+1. <strong>Jenerik tasarımında kullanılacak renkleri se&ccedil;erken aşağıdakilerden hangisi dikkate alınmayabilir?</strong> 
+    - A-) K&uuml;lt&uuml;rel &ccedil;ağrışım bakımından ortaya &ccedil;ıkaracakları anlamlar
+    - B-) Hedef kitlenin &ouml;zellikleri
+    - C-) Hedef kitle &uuml;zerinde yaratacakları etkiler
+    - **Cevap D-) Tasarımda kolaylık sağlayacak niteliklere sahip olmaları**
+    - E-) Filmin i&ccedil;eriğiyle bağlantıları
     <hr />
 1. <strong>Bir fotoğraf karesi, peş peşe değişen durağan imajlar ya da akan g&ouml;r&uuml;nt&uuml;n&uuml;n &uuml;zerine yerleştirilmiş metinsel bilgilerle oluşturulan jenerik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) Ger&ccedil;ek G&ouml;r&uuml;nt&uuml; &Uuml;zerine S&uuml;perimpoze**
@@ -1631,7 +1676,7 @@ III. Katlama y&ouml;ntemi<br />
     - **Cevap D-) Bir tasarımcı kendiliğinden ya da müşterisinin isteğiyle kopyacılık yapmalıdır.**
     - E-) Bir tasarımcı, müşterisi tarafından, isteği dışında değiştirilerek tanınmaz hale getirilmiş tasarımında adının kullanılmasına izin vermeyebilir.
     <hr />
-1. <strong>Sosyal tasarıma ilişkini g&ouml;r&uuml;şlerden &ldquo;Ben daha &ccedil;ok sosyal eşitlik ve adaletten yanayım. Eleştiriyorum &ccedil;&uuml;nk&uuml; &uuml;lkemi ve halkımı seviyorum.&quot; ifadesinin tasarımcısı aşağıdakilerden hangisidir?</strong>
+1. <strong>Sosyal tasarıma ilişkini g&ouml;r&uuml;şlerden &ldquo;Ben daha &ccedil;ok sosyal eşitlik ve adaletten yanayım. Eleştiriyorum &ccedil;&uuml;nk&uuml; &uuml;lkemi ve halkımı seviyorum.&quot;&nbsp;ifadesinin tasarımcısı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Alexander Faldin (Rusya)**
     - B-) Luba Lukova (ABD)
     - C-) Lex Drewinski (Almanya)
@@ -1642,16 +1687,16 @@ III. Katlama y&ouml;ntemi<br />
 II. Tasarımcı, ekolojik dengenin ve doğal &ccedil;evrenin yararı i&ccedil;in sorumlulukla hareket etmelidir.<br />
 III. Tasarımcı, mesleğinin onuruna uygun davranmalıdır.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri tasarımcının topluma karşı sorumlulukları arasında yer alır?</strong>
-    - A-) Yalnız I 
-    - B-) I ve II 
-    - C-) I ve III 
-    - D-) II ve III 
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
 1. <strong>Tasarımcılar i&ccedil;in Uluslararası Tasarım Konseyi&rsquo;nin (Co-D) belirlediği profesyonel ilkeler arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Tasarımın fiyatlandırılması
     - B-) Tasarımcının topluma karşı sorumlulukları
-    - **Cevap C-) Tasarımcı yaşının kullanımı**
+    - **Cevap C-) Tasarımcı&nbsp;yaşının kullanımı**
     - D-) Tasarımcının m&uuml;şterisine karşı sorumlulukları
     - E-) Tasarımcının diğer tasarımcılara karşı sorumlulukları
     <hr />
@@ -1733,14 +1778,14 @@ IV. Yargısız uygulamalardan ka&ccedil;ınılması<br />
     - D-) I, II ve III
     - **Cevap E-) I, II, III ve IV**
     <hr />
-1. <strong>Aşağıdakilerden hangisi eşitlik ilkesine dayanır?</strong> 
+1. <strong>Aşağıdakilerden hangisi Eşitlik İlkesi&#39;ne dayanır?</strong> 
     - **Cevap A-) Demokrasi**
     - B-) Teokrasi
     - C-) Monarşi
     - D-) Oligarşi
     - E-) Tarafsızlık
     <hr />
-1. <strong>Ahlak kavramı ile ilgili olarak </strong><strong>a</strong><strong>şağıdakilerden hangisi </strong><strong><u>yanlıştır</u>?</strong> 
+1. <strong>Ahlak kavramı ile ilgili olarak&nbsp;</strong><strong>a</strong><strong>şağıdakilerden hangisi&nbsp;</strong><strong><u>yanlıştır</u>?</strong> 
     - A-) Ahlak, nasıl davranılacağına dair yazılı olmayan pratik kuralları i&ccedil;erir.
     - B-) Ahlak, yapılması gerekeni s&ouml;yleyen ve &ouml;l&ccedil;&uuml;tler koyan bir etkinliktir.
     - C-) Ahlak, toplumsal yaşam i&ccedil;inde doğru davranış &ouml;l&ccedil;&uuml;s&uuml;d&uuml;r.
@@ -1761,19 +1806,27 @@ IV. Yargısız uygulamalardan ka&ccedil;ınılması<br />
     - D-) Toplumsal kaynakları kısa s&uuml;rede t&uuml;ketme
     - E-) İhtiya&ccedil;ların yanında istekleri de karşılama
     <hr />
-1. <strong>Aşağıdakilerden hangisi </strong><strong>g&uuml;n&uuml;m&uuml;zde tasarım alanında etik dışı bir davranış olarak sık&ccedil;a karşımıza &ccedil;ıkan bazı intihal y&ouml;ntemleri arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>g&uuml;n&uuml;m&uuml;zde tasarım alanında etik dışı bir davranış olarak sık&ccedil;a karşımıza &ccedil;ıkan bazı intihal y&ouml;ntemleri arasında <u>yer almaz</u>?</strong>
     - A-) Başkasına ait fikir, tasarım ya da &ccedil;alışmayı bire bir alıp kendininmiş gibi g&ouml;stermek
     - B-) Basılı veya sayısal bir kaynaktan &ccedil;alışmanın b&uuml;y&uuml;k bir b&ouml;l&uuml;m&uuml;n&uuml; değişiklik yapmadan kopyalamak
     - C-) Birden fazla kaynaktan kopyalanan &ccedil;alışmaları orijinal bi&ccedil;imini kullanacak şekilde birbiriyle uyumlu h&acirc;le getirmek
     - **Cevap D-) &Ouml;zg&uuml;n bir &ccedil;alışma yapmak yerine &ouml;nceden yapılmış grup &ccedil;alışmasını yeniden kullanmak**
     - E-) &Ccedil;alışmanın &ccedil;oğunu başka kaynaklardan alarak yorumlamak ve bunları birbirine uydurmaya &ccedil;alışmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi temel etik değerlerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi temel etik değerlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Tutumluluk
     - B-) Sadakat
     - C-) Saygı
     - **Cevap D-) Eşitsizlik**
     - E-) Sorumluluk
+    <hr />
+1. Etik kavramı, Yunanca &ldquo;ethos&rdquo; yani &ldquo;&hellip;&hellip;&hellip;&hellip;..&hellip;&hellip;..&rdquo; s&ouml;zc&uuml;ğ&uuml;nden t&uuml;remiştir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+    - **Cevap A-) T&ouml;re**
+    - B-) Kural
+    - C-) Yasa
+    - D-) Kanun
+    - E-) Kaide
     <hr />
 1. <strong>Etik dışı bir yaklaşım sergileyen kurum i&ccedil;in aşağıdakilerden hangisi ge&ccedil;erli <u>olmaz</u>?</strong> 
     - A-) M&uuml;şteriyi kaybetme
@@ -1796,7 +1849,7 @@ IV. Yargısız uygulamalardan ka&ccedil;ınılması<br />
     - D-) Yozlaşmanın kurumsallaştırılması
     - **Cevap E-) Meslek mensubunun g&uuml;venirliğini kaybetmesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamcılık sekt&ouml;r&uuml;n&uuml;n &ouml;nem kazanmasıyla birlikte ortaya &ccedil;ıkan etik sorunlardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklamcılık sekt&ouml;r&uuml;n&uuml;n &ouml;nem kazanmasıyla birlikte ortaya &ccedil;ıkan etik sorunlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Lisanssız program kullanmak
     - B-) Telif hakkı alınmamış başkalarına ait fikir, tasarım veya g&ouml;rsel unsurları kullanmak
     - C-) &Ouml;zg&uuml;n olmayan, &ouml;zensiz, &ccedil;ok sayıda tasarım yapmak

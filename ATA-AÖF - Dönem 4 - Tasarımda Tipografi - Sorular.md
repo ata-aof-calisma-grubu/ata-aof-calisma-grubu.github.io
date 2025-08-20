@@ -14,7 +14,7 @@
     - **Cevap D-) B&uuml;y&uuml;k harf**
     - E-) Baseline (taban &ccedil;izgisi)
     <hr />
-1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır? </strong>
+1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır?&nbsp;</strong>
     - **Cevap A-) Yazı karakteri (harf bi&ccedil;imi)**
     - B-) X-height (x y&uuml;ksekliği)
     - C-) K&uuml;&ccedil;&uuml;k harf
@@ -84,6 +84,13 @@
     - D-) 20
     - E-) 24
     <hr />
+1. <strong>Aşağıdakilerden hangisi calibri yazı karakterinin bold bi&ccedil;emine &ouml;rnek olarak verilmiştir?</strong> 
+    - **Cevap A-) <strong>Calibri</strong>**
+    - B-) Calibri
+    - C-) <em>Calibri</em>
+    - D-) calibri
+    - E-) CALİBRİ
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bir yazı karakterindeki harflerin &uuml;zerinde duruyormuş gibi g&ouml;r&uuml;nd&uuml;ğ&uuml; hayal&icirc; &ccedil;izginin tanımıdır?</strong>
     - A-) Ligature (bitişik karakter)
     - B-) Arm (kol)
@@ -99,7 +106,7 @@
     - **Cevap E-) Hyphenation (tireleme)**
     <hr />
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi bir yazı karakterinin ağırlığı arasında <u>değildir?</u></strong>
+1. <strong>Aşağıdakilerden hangisi bir yazı karakterinin ağırlığı arasında <u>değildir</u>?</strong>
     - A-) Hafif
     - B-) Kalın
     - C-) Sıkıştırılmış
@@ -127,7 +134,7 @@
     - D-) Genişlik
     - E-) Espas
     <hr />
-1. <strong>&ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır&rdquo; diyen tasarımcı aşağıdakilerden hangisidir?</strong>
+1. <strong>&ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır.&rdquo; diyen tasarımcı aşağıdakilerden hangisidir?</strong>
     - A-) Helen Armstrong
     - **Cevap B-) Herbert Bayer**
     - C-) David Carson
@@ -155,28 +162,28 @@
     - D-) Thomas Huot-Marchand
     - E-) Brecht Cuppens
     <hr />
-1. <strong>&ldquo;Yazı karakteri deli g&ouml;mleği giydirilmiş bir alfabedir&rdquo; diyen tasarımcı aşağıdakilerden hangisidir?</strong>
+1. <strong>&ldquo;Yazı karakteri deli g&ouml;mleği giydirilmiş bir alfabedir.&rdquo; diyen tasarımcı aşağıdakilerden hangisidir?</strong>
     - A-) Peter Bilak
     - B-) Herbert Bayer
     - C-) Helen Armstrong
     - D-) David Carson
     - **Cevap E-) Alan Fletcher**
     <hr />
-1. <strong>1967 tarihinde yazdığı &#39;&#39;Tipografi &Uuml;zerine</strong><strong>&#39;&#39;</strong><strong> adlı makalesinde, &ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+1. <strong>1967 tarihinde yazdığı &#39;&#39;Tipografi &Uuml;zerine</strong><strong>&#39;&#39;</strong><strong>&nbsp;adlı makalesinde, &ldquo;Tipografi her ne kadar saf ve esaslı olsa da bir g&uuml;zel sanat değil bir hizmet sanatıdır.&rdquo; diyen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Herbert Bayer**
     - B-) Peter Bilak
     - C-) Helen Armstrong
     - D-) Alan Fletcher
     - E-) David Carson
     <hr />
-1. <strong>Bel&ccedil;ika&rsquo;nın n&uuml;fus yoğunluğunu hesaba katan ve haritacılık &uuml;zerine temellenen &#39;&#39;Sprawl</strong><strong>&#39;&#39;</strong><strong> adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>
+1. <strong>Bel&ccedil;ika&rsquo;nın n&uuml;fus yoğunluğunu hesaba katan ve haritacılık &uuml;zerine temellenen &#39;&#39;Sprawl</strong><strong>&#39;&#39;</strong><strong>&nbsp;adlı deneysel bir yazı karakteri yaratan tasarımcı aşağıdakilerden hangisidir?</strong>
     - A-) Helen Armstrong
     - B-) Herbert Bayer
     - C-) David Carson
     - **Cevap D-) Brecht Cuppens**
     - E-) Alan Fletcher
     <hr />
-1. <strong>İ&ccedil;i boş ve g&ouml;lgeli yazılar aşağıdaki hangi izlenimi uyandırır?</strong>
+1. <strong>İ&ccedil;i boş ve g&ouml;lgeli yazılar aşağıdaki izlenimlerden hangisini uyandırır?</strong>
     - A-) Gen&ccedil;
     - B-) &Uuml;zg&uuml;n
     - **Cevap C-) Yaşlı**
@@ -240,15 +247,15 @@
     - D-) El yazısı karakterleri
     - E-) Serifli karakterler
     <hr />
-1. <strong>&Ccedil;eşitli fiziksel farklılıkları ile beraber (incelik, kalınlık, sıkışıklık, eğiklik vb.) bir grup oluşturan ve genellikle tasarımcısının adıyla ya da onun belirlediği konuyla ilgili aynı adla anılan karakter grubuna ne ad verilir?</strong>
+1. <strong>&Ccedil;eşitli fiziksel farklılıkları ile beraber (incelik, kalınlık, sıkışıklık, eğiklik vb.) bir grup oluşturan ve genellikle tasarımcısının adıyla ya da onun belirlediği konuyla ilgili aynı adla anılan karakter grubu aşağıdakilerden hangisidir?</strong>
     - A-) İtalik
     - B-) Hurufat
     - C-) Yazı tipi
     - **Cevap D-) Yazı ailesi**
     - E-) Tipografi
     <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi Yeni Tipografi Hareketi&#39;ne ait &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır. 
+1. <strong>Aşağıdakilerden hangisi Yeni Tipografi Hareketi&#39;ne ait &ouml;zelliklerden biri <u>değildir</u>?</strong>
+    - A-) Harfler her t&uuml;rl&uuml; s&uuml;slemeden arındırılmıştır.
     - B-) Tasarımlarda beyaz boşluk kullanılır.
     - C-) Serifsiz yazı karakteri kullanılır.
     - **Cevap D-) Simetrik d&uuml;zenleme yapılır.**
@@ -292,7 +299,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Dekoratif yazı
     - **Cevap E-) El yazısı**
     <hr />
-1. Bauhaus Akımı &ouml;zellikle De Stijl ve Konstr&uuml;ktivizm etkisinde kalmakla beraber, Almanya&rsquo;nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve k&uuml;lt&uuml;rel alanlarda yeni bir d&uuml;zen arayışından ortaya &ccedil;ıkmıştır. <br />
+1. Bauhaus Akımı &ouml;zellikle De Stijl ve Konstr&uuml;ktivizm etkisinde kalmakla beraber, Almanya&rsquo;nın savaşta aldığı yenilgiyle birlikte sosyal, ekonomik ve k&uuml;lt&uuml;rel alanlarda yeni bir d&uuml;zen arayışından ortaya &ccedil;ıkmıştır.<br />
 <strong>Buna g&ouml;re Bauhaus Akımı kimin &ouml;nderliğinde ortaya &ccedil;ıkmıştır?</strong>
     - **Cevap A-) Walter Gropius**
     - B-) Moholy-Nagy
@@ -300,7 +307,14 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) El Lissitzky
     - E-) Pierre Simon
     <hr />
-1. <strong>&ldquo;Anma g&uuml;nleri, festivaller, kutlamalar, tematik uygulamalar, t&uuml;r&uuml;ne g&ouml;re kitap başlıkları, tiyatro ve sinema g&ouml;steri tanıtımları, vb. bir&ccedil;ok uygulamada ayırt edici &ouml;zellik olarak kullanılan yazı karakterleri hangisidir?</strong>
+1. <strong>Anamorfik ne demektir?</strong>
+    - A-) Ters &ccedil;evirmek
+    - B-) Asimetrik yerleştirmek
+    - **Cevap C-) Yeniden bi&ccedil;im vermek**
+    - D-) Eskisini kullanmak
+    - E-) Olduğu gibi kullanmak
+    <hr />
+1. <strong>Anma g&uuml;nleri, festivaller, kutlamalar, tematik uygulamalar, t&uuml;r&uuml;ne g&ouml;re kitap başlıkları, tiyatro ve sinema g&ouml;steri tanıtımları vb. bir&ccedil;ok uygulamada ayırt edici &ouml;zellik olarak kullanılan yazı karakterleri aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Serbest stil yazı karakterleri**
     - B-) Dekoratif yazı karakterleri
     - C-) Ge&ccedil;iş d&ouml;nemi yazı karakterleri
@@ -322,7 +336,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - **Cevap D-) Sayfa yer alan t&uuml;m bilgilerin okuyucu tarafından algılanmasını sağlamak**
     - E-) İ&ccedil;erik ve ama&ccedil; doğrultusunda sayfada tipografik bir d&uuml;zen oluşturmak
     <hr />
-1. <strong>Tipografik hiyerarşi tekniklerinden hangisi yaygın olarak <u>kullanılmaz</u>?</strong>
+1. <strong>Aşağıdaki tipografik hiyerarşi tekniklerinden hangisi yaygın olarak <u>kullanılmaz</u>?</strong>
     - A-) İtalik yazı kullanımı
     - **Cevap B-) &Uuml;&ccedil; ve daha fazla farklı yazı tipi kullanımı**
     - C-) Kalın (bold) yazı kullanımı
@@ -350,12 +364,12 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Başlıklarda b&uuml;y&uuml;k harf yazımını tercih etmek
     - **Cevap E-) Tasarımda yer alan bilgi t&uuml;rlerini &ouml;ncelik sırasına g&ouml;re belirlemek**
     <hr />
-1. <strong>Tipografik hiyerarşi d&uuml;zenlemesi yapılmamış bir metin i&ccedil;in aşağıdaki belirlemelerden hangisi doğru <u>değildir</u>?</strong>
-    - A-) Hiyerarşiden yoksun bir metin pasif durumdadır
-    - B-) Okuyucuya etkin bir y&ouml;nlendirme sağlayamaz
-    - C-) Tasarımcı amaca ve i&ccedil;eriğe uygun olarak gereksiz g&ouml;rm&uuml;ş olabilir
-    - D-) Okuyucunun algısını y&ouml;nlendirmede başarısızdır
-    - **Cevap E-) İ&ccedil;eriği anlama konusunda herhangi bir sıkıntı yaratmaz**
+1. <strong>Tipografik hiyerarşi d&uuml;zenlemesi yapılmamış bir metin i&ccedil;in aşağıdaki belirlemelerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Hiyerarşiden yoksun bir metin pasif durumdadır.
+    - B-) Okuyucuya etkin bir y&ouml;nlendirme sağlayamaz.
+    - C-) Tasarımcı amaca ve i&ccedil;eriğe uygun olarak gereksiz g&ouml;rm&uuml;ş olabilir.
+    - D-) Okuyucunun algısını y&ouml;nlendirmede başarısızdır.
+    - **Cevap E-) İ&ccedil;eriği anlama konusunda herhangi bir sıkıntı yaratmaz.**
     <hr />
 1. <strong>Yukarıda verilen boşluğu aşağıdaki se&ccedil;eneklerden uygun olanı yerleştiriniz?</strong>
     - A-) Geometrik
@@ -371,7 +385,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Hiyerarşik d&uuml;zende kurgulanması gereken t&uuml;m unsurların &ouml;ncelik sırasının uygun ve etkin belirlenebilmesi
     - **Cevap E-) Arka planda kullanılacak unsurların boyut olarak, birinci derece &ouml;nem arz eden unsurlardan daha k&uuml;&ccedil;&uuml;k şekilde kullanılması**
     <hr />
-1. <strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa &uuml;zerinde farklı koyulukta lekeler olarak algılanan tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>
+1. <strong>Farklı formda yazı tipleri, hatta aynı yazı ailesinde farklı stillerdeki yazılar, beyaz sayfa &uuml;zerinde farklı koyulukta lekeler olarak algılanan&nbsp;tipografik hiyerarşi oluşturma tekniği aşağıdakilerden hangisidir?</strong>
     - A-) Farklı yazı tipi kullanımı
     - B-) Kalın (Bold) yazı kullanımı
     - C-) İtalik yazı kullanımı
@@ -401,11 +415,11 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     <hr />
 ## Unite 5
 1. <strong>Markalama s&uuml;recinin ilk &ouml;rnekleri aşağıdakilerden hangisidir?</strong>
-    - A-) &Ccedil;anak ve &ccedil;&ouml;mleklere yapılan işaretlemeler.
-    - **Cevap B-) Mağara duvarlarında bulunan semboller ve el izleri.**
-    - C-) Hayvancılıkta kullanılan damgalamalar.
-    - D-) Fırıncıların kullandığı etiketlemeler.
-    - E-) Orta &ccedil;ağda d&uuml;kkanlarda kullanılan tabelalar.
+    - A-) &Ccedil;anak ve &ccedil;&ouml;mleklere yapılan işaretlemeler
+    - **Cevap B-) Mağara duvarlarında bulunan semboller ve el izleri**
+    - C-) Hayvancılıkta kullanılan damgalamalar
+    - D-) Fırıncıların kullandığı etiketlemeler
+    - E-) Orta &Ccedil;ağ&#39;da d&uuml;kkanlarda kullanılan tabelalar
     <hr />
 1. <strong>Aşağıdakilerden hangisi t&uuml;keticinin satın alma &ouml;ncesinde hızlıca karar verme zorunluluğunu ortadan kaldıran gelişmeler arasında <u>yer almaz</u>?</strong>
     - A-) Haberleşmenin kolaylaşması
@@ -484,6 +498,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Hedef kitleye y&ouml;nelik mesajlar iletme
     - E-) Markaya değer katma
     <hr />
+1. <strong>Aşağıdakilerden hangisi markanın işletmeler a&ccedil;ısından &uuml;stlendiği g&ouml;revler arasında <u>yer almaz</u>?</strong>
+    - A-) Rekabet &uuml;st&uuml;nl&uuml;ğ&uuml;ne kaynak olur.
+    - B-) Finansal geri d&ouml;n&uuml;şleri sağlar.
+    - C-) M&uuml;şteri tatmini i&ccedil;in gereken kalite d&uuml;zeyini belirler.
+    - D-) &Uuml;r&uuml;n&uuml;n eşsiz &ouml;zelliğine yasal koruma sağlar.
+    - **Cevap E-) &Uuml;r&uuml;n arama maliyetlerini d&uuml;ş&uuml;r&uuml;r.**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi t&uuml;keticiler a&ccedil;ısından markanın g&ouml;revlerinden biri <u>değildir</u>?</strong>
     - A-) Sosyal stat&uuml; sembol&uuml;d&uuml;r.
     - **Cevap B-) Taşıma ve dağıtımda &uuml;r&uuml;n kimliğini tanımlar.**
@@ -535,7 +556,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - **Cevap E-) Altın Kollu Adam**
     <hr />
 1. <strong>Hareketli ve etkileşimli tipografinin gelişimi a&ccedil;ısından aşağıdakilerden hangisinin etkisi olduğu <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Film Jenerikleri
+    - A-) Film jenerikleri
     - B-) Animasyon ve film montaj yazılımları
     - C-) İnternetin genel kullanıma a&ccedil;ılması
     - **Cevap D-) Hareketli metal harflerin icadı**
@@ -562,7 +583,7 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Kağan Kaya
     - E-) Sarp S&ouml;zdinler
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamlar i&ccedil;in kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;reklamlar i&ccedil;in kullanılan belli başlı animasyon tekniklerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Stop jenerik**
     - B-) Kare kare &ccedil;izim y&ouml;ntemi
     - C-) Stop motion
@@ -589,6 +610,13 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - C-) Film kayıt ve kamera teknolojilerindeki yenilikler
     - D-) Tipografi ve grafik tasarım alanındaki yenilikler
     - E-) Sosyal medya uygulamalarındaki gelişmeler
+    <hr />
+1. <strong>Reklamlarda yalnız hareketli tipografi ve animasyon teknikleri kullanmanın en &ouml;nemli avantajı aşağıdakilerden hangisidir?</strong>
+    - A-) Daha hızlı yayınlanabilmesi
+    - B-) Dijital mecralara daha uygun olması
+    - C-) İnsanlara sempatik gelmesi
+    - **Cevap D-) Maliyeti azaltması**
+    - E-) Televizyon y&ouml;neticilerinin talepleri
     <hr />
 ## Unite 7
 1. <strong>Algı psikologlarına g&ouml;re, iki boyutlu bilgi ile &uuml;&ccedil; boyutlu bilgi arasındaki en temel fark aşağıdakilerden hangisidir?</strong>
@@ -633,9 +661,9 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) G&uuml;&ccedil;lendirilmiş bir karkas sistemi oluşmasına yardımcı olur
     - E-) Sade bir mek&acirc;n kimliği oluşmasına yardımcı olur
     <hr />
-1. <strong>Hareketli Tipografinin diğerlerine g&ouml;re en &ouml;nemli &ouml;zelliği aşağıdakilerden hangisinde verilmiştir?</strong>
+1. <strong>Hareketli tipografinin diğerlerine g&ouml;re en &ouml;nemli &ouml;zelliği aşağıdakilerin hangisinde verilmiştir?</strong>
     - A-) B&uuml;y&uuml;k harf kullanılması
-    - B-) Mimaride, Trafikte ve Tabelalarda kullanılması
+    - B-) Mimaride, trafikte ve tabelalarda kullanılması
     - C-) Serifsiz yazı kullanılması
     - **Cevap D-) Duyguya daha fazla hitap edebilmesi**
     - E-) Serifli yazı kullanılması
@@ -650,8 +678,8 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
 1. <strong>Yer imi ama&ccedil;lı tasarlanan &uuml;&ccedil; boyutlu tipografik d&uuml;zenlemeler insanlar &uuml;zerinde g&uuml;&ccedil;l&uuml; g&ouml;rsel etki yaratarak aşağıdakilerden hangisini <u>sağlamaz</u>?</strong>
     - A-) Hatırlanabilirliği
     - B-) Tanımlanabilirliği
-    - C-) Farkedilebilirliği
-    - D-) Ayırtediciliği
+    - C-) Fark edilebilirliği
+    - D-) Ayırt ediciliği
     - **Cevap E-) G&ouml;rselliği**
     <hr />
 1. <strong>İkinci D&uuml;nya Savaşı sonrasında gelişen ulaşım ağıyla birlikte işaretlerde b&uuml;y&uuml;k &ccedil;oğunlukla yazılarda tercih edilen unsur aşağıdakilerden hangisidir?</strong>
@@ -682,16 +710,23 @@ III. Kavisli seriflerin yerine d&uuml;z ve ince serifler bulunur.<br />
     - D-) Minisk&uuml;l
     - E-) Majisk&uuml;l
     <hr />
-1. I. Tipografinin hareketli h&acirc;li, durağan yapısına g&ouml;re izleyicide daha fazla dikkat &ccedil;ekmekte ve insanların bu &uuml;r&uuml;ne daha fazla zaman ayırmasına yol a&ccedil;maktadır.<br />
-II. Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği s&ouml;ylenebilir.<br />
+1. I.&nbsp;Tipografinin hareketli h&acirc;li, durağan yapısına g&ouml;re izleyicide daha fazla dikkat &ccedil;ekmekte ve insanların bu &uuml;r&uuml;ne daha fazla zaman ayırmasına yol a&ccedil;maktadır.<br />
+II.&nbsp;Kinetik tipografinin, hareketi uygulayarak duyguyu etkili bir şekilde ilettiği s&ouml;ylenebilir.<br />
 III. Hareketli nesneler veya g&ouml;r&uuml;nt&uuml;ler durağana nazaran daha &ccedil;ok dikkat &ccedil;ekicidir.<br />
 IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;zelliği de kazanmıştır.<br />
-<strong>Hareketli tipografi ile ilgili y</strong><strong>ukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+<strong>Hareketli tipografi ile ilgili y</strong><strong>ukarıdakilerden hangisi doğrudur?</strong>
     - A-) I ve II
     - B-) II ve III
-    - C-) III ve IV
-    - D-) I, II ve III
-    - **Cevap E-) I, II, III ve IV**
+    - C-) I, II ve III
+    - **Cevap D-) I, II, III ve IV**
+    - E-) III ve IV
+    <hr />
+1. <strong>Edo Smitshuijzen&rsquo;e g&ouml;re, işaret tasarımında aşağıdakilerden hangisi tipografide dikkat edilmesi gereken konulardan biri <u>değildir</u>?</strong>
+    - A-) Satır aralığı, x-y&uuml;ksekliğinin 2-2,5 katı kadar olmalıdır.
+    - B-) Kelime arası boşluklar x-y&uuml;ksekliğinin yarısı kadar olmalıdır.
+    - C-) Eğik harfler değil, ger&ccedil;ek italik karakterler kullanılmalıdır.
+    - D-) Sola hizalı d&uuml;zen tercih edilmelidir.
+    - **Cevap E-) Serifli yazı karakterleri tercih edilmelidir.**
     <hr />
 1. <strong>İngiliz şair Andrew Motion iş birliği ile granit kaldırım taşları ile oluşturulmuş &ccedil;evresel tipografi &ouml;rneğinin adı aşağıdakilerden hangisidir?</strong>
     - A-) Bisiklet yolu
@@ -764,7 +799,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Vurgu
     - E-) Tipografik &ccedil;eşitlilik
     <hr />
-1. <strong>Aşağıdakilerden hangi renk tipografik elemanlara uygulandığında hedef kitle &uuml;zerinde &ldquo;şiddet, cinayet, katil&rdquo; gibi &ccedil;ağrışımları uyandırabilir?</strong>
+1. <strong>Aşağıdaki renklerden hangisi tipografik elemanlara uygulandığında hedef kitle &uuml;zerinde &ldquo;şiddet, cinayet, katil&rdquo; gibi &ccedil;ağrışımları uyandırabilir?</strong>
     - A-) Yeşil
     - B-) Sarı
     - **Cevap C-) Kırmızı**
@@ -792,6 +827,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) D&uuml;zen
     - E-) Denge
     <hr />
+1. <strong>İnsanlarda &ldquo;g&uuml;&ccedil;, matem, h&uuml;z&uuml;n, hırs&rdquo; gibi duyguları ortaya &ccedil;ıkaran renk&nbsp;aşağıdakilerden hangisidir?</strong>
+    - A-) Turuncu
+    - B-) Sarı
+    - C-) Beyaz
+    - **Cevap D-) Siyah**
+    - E-) Mor
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tipografik kullanımlarda sert ve kaba bir anlatım &uuml;slubu benimseyerek anlamı daha dikkat &ccedil;ekici h&acirc;le getirmeye ve g&uuml;&ccedil;l&uuml; iletmeye odaklanmıştır?</strong>
     - A-) Bauhaus
     - B-) F&uuml;t&uuml;rizm
@@ -806,6 +848,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - **Cevap D-) Yeni Tipografi**
     - E-) Dadaizm
     <hr />
+1. <strong>Aşağıdakilerden hangisi tipografide anlam yaratma y&ouml;ntemlerinden biri <u>değildir</u>?</strong>
+    - **Cevap A-) Asitmetri**
+    - B-) Yazı tipleri
+    - C-) Yazı aileleri
+    - D-) Vurgu
+    - E-) Renk
+    <hr />
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi tipografik sistemlerin geliştirilmesinin nedenlerinden biridir?</strong>
     - **Cevap A-) Tipografik &ccedil;eşitliliğin artması**
@@ -814,7 +863,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Toplum ve k&uuml;lt&uuml;r yapıların değişmesi
     - E-) Basım tekniklerinin geliştirilmesi
     <hr />
-1. <strong>&ldquo;Bodoni&rdquo;</strong> <strong>yazı tipi aşağıdaki hangi sınıflandırma kategorisinde bulunabilir?</strong>
+1. <strong>&ldquo;Bodoni&rdquo;</strong>&nbsp;<strong>yazı tipi aşağıdaki hangi sınıflandırma kategorisinde bulunabilir?</strong>
     - A-) Klasik
     - **Cevap B-) Modern**
     - C-) Kaligrafik
@@ -878,11 +927,20 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - E-) Ge&ccedil;işken (Transitional) Sistem
     <hr />
 1. <strong>Kaligramlar ilk defa hangi d&ouml;nemde &ldquo;&ouml;zg&uuml;rl&uuml;ğe kavuşan s&ouml;zc&uuml;kler&rdquo; ve &ldquo;serbest tipografi&rdquo; sloganları ile ortaya &ccedil;ıkmış bir tipografi harekettir?</strong>
-    - A-) Dadaist d&ouml;nem
-    - **Cevap B-) F&uuml;t&uuml;rist d&ouml;nem**
-    - C-) Konstr&uuml;ktivist d&ouml;nem
-    - D-) De Stijl d&ouml;nemi
-    - E-) Bauhaus d&ouml;nemi
+    - A-) Dadaist D&ouml;nem
+    - **Cevap B-) F&uuml;t&uuml;rist D&ouml;nem**
+    - C-) Konstr&uuml;ktivist D&ouml;nem
+    - D-) De Stijl D&ouml;nemi
+    - E-) Bauhaus D&ouml;nemi
+    <hr />
+1. <div style="margin-left:40px">
+	<img alt="" src="data:image/png;base64,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" style="height:118px; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; width:350px" /></div>
+<strong>Yukarıdaki tipografik uygulama aşağıdaki hangi t&uuml;r film afişinde <u>kullanılamaz</u>?</strong>
+    - A-) Korku
+    - B-) Cinayet
+    - C-) Gerilim
+    - D-) Bilim kurgu
+    - **Cevap E-) Romantik komedi**
     <hr />
 ## Unite 10
 1. <strong>Kamuya a&ccedil;ık bir şekilde; gazete, dergi, kitap vb. okumaya y&ouml;nelik &uuml;r&uuml;nlerin basılıp &ccedil;oğaltılması işine ne denir?</strong>
@@ -909,8 +967,8 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
 1. <strong>Normal (regular), ince (light), kalın (bold), eğik (italik) kavramları aşağıdakilerden hangisinin i&ccedil;eriğini oluşturur?</strong>
     - A-) Serif
     - B-) Espas
-    - C-) Yazı Karakteri
-    - **Cevap D-) Yazı Sitili**
+    - C-) Yazı karakteri
+    - **Cevap D-) Yazı sitili**
     - E-) Punto
     <hr />
 1. <strong>Bir puntonun metrik sistemdeki karşılığı ne kadardır?</strong>
@@ -956,6 +1014,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Katalog
     - E-) E-b&uuml;lten
     <hr />
+1. <strong>Gazete ve dergilerde sayfa d&uuml;zenleme işlemlerine ne ad verilir?</strong>
+    - A-) Ofset baskı teknolojisi
+    - **Cevap B-) Mizanpaj**
+    - C-) Bulvar tipi sayfa d&uuml;zeni
+    - D-) Kırım
+    - E-) Broş&uuml;r
+    <hr />
 1. <strong>Aşağıdakilerden hangisi yayın tasarımındaki tipografi unsurlarından biri <u>değildir</u>?</strong>
     - A-) Yayının okunabilir olması
     - B-) Yazı karakterinin se&ccedil;imi
@@ -992,7 +1057,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Kelime arası boşluklar
     - E-) Kenar boşlukları
     <hr />
-1. <strong>PC de kullanılan &ldquo;Arial&rdquo; yazı karakteri ile Macintosh bilgisayarlar i&ccedil;in tasarlanan hangi fontunun kapladıkları alan aynı olacaktır?</strong>
+1. <strong>PC&#39;de kullanılan &ldquo;Arial&rdquo; yazı karakteri ile Macintosh bilgisayarlar i&ccedil;in tasarlanan hangi fontunun kapladıkları alan aynı olacaktır?</strong>
     - A-) Trebuchet
     - B-) Verdana
     - C-) Georgia
@@ -1013,7 +1078,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Sinyal
     - **Cevap E-) Refresh**
     <hr />
-1. <strong> Apple Macintosh&rsquo;un ekrandaki menu ve dosya isimleri i&ccedil;in tasarlattığı fontlara genellikle şehir isimleri verilmiştir. Aşağıdakilerden hangisi bu fontlardan birisi <u>değildir</u>?</strong>
+1. <strong>&nbsp;Apple Macintosh&rsquo;un ekrandaki menu ve dosya isimleri i&ccedil;in tasarlattığı fontlara genellikle şehir isimleri verilmiştir. Aşağıdakilerden hangisi bu fontlardan birisi <u>değildir</u>?</strong>
     - **Cevap A-) Paris**
     - B-) Chicago
     - C-) Geneva
@@ -1063,6 +1128,13 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - **Cevap D-) Avant Garde**
     - E-) Helvetica
     <hr />
+1. <strong>Ekran milyonlarca fosfor noktacığından oluşur. Bu noktacıklara verilen isim aşağıdakilerden hangisidir?</strong>
+    - A-) Mizanpaj
+    - B-) Refresh
+    - C-) RGB
+    - D-) CMYK
+    - **Cevap E-) Dot**
+    <hr />
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi insanın tipografik iletişiminde grafik tasarımcısının ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
     - A-) &Ccedil;alışmanın yapılacağı ekran, y&uuml;zey, alan ya da platformu analiz etme
@@ -1103,7 +1175,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
 1. <strong>Aşağıdakilerden hangisi reklam filmlerinin dezavantajları arasında <u>yer almaz</u>?</strong>
     - A-) Reklamın yayın ve yapım masrafları reklam filmi maliyetlerini y&uuml;kseltmektedir.
     - B-) Yayının s&uuml;rekli akması sebebiyle kalıcı olmamaktadır.
-    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir. 
+    - C-) Denetime tabidir ve ne, nasıl s&ouml;yleniyor kontrol edilmektedir.
     - D-) Geniş kitlelere hitap ettiği i&ccedil;in belli bir kitleyi hedefleyen reklam verenler i&ccedil;in zayıf bir se&ccedil;imdir.
     - **Cevap E-) Diğer reklam ara&ccedil;larına kıyasla daha fazla kişiye ulaştığı i&ccedil;in toplam maliyet daha d&uuml;ş&uuml;k olarak hesaplanmaktadır.**
     <hr />
@@ -1122,19 +1194,19 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) Magenta + Cyan + Sarı
     - E-) Magenta + Yeşil + Cyan
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının avantajları arasında g&ouml;sterilebilir?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının avantajları arasında yer alır?</strong>
     - A-) Tasarım s&uuml;recinde bilgisayar ve program bilgisi gerektirmez.
     - B-) Anlatım veya diyalog gibi yazıların akışı esnasında sesli anlatımla eş zamanlı olması beklenmez.
     - C-) Tasarımın tamamı sadece se&ccedil;ilen yazı karakteri sayesinde izleyicinin ilgisi &ccedil;ekmektedir.
     - D-) Tasarım s&uuml;recinde firma/&uuml;r&uuml;n ile yazılı ilgili bilgilerin kullanımını gerektirmemektedir.
     - **Cevap E-) G&ouml;rsel algıya doğrudan g&ouml;r&uuml;nt&uuml; ve ses eşliğinde hitap etmektedir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının dezavantajları arasında <u>g&ouml;sterilemez</u>?</strong>
-    - A-) S&uuml;rekli g&ouml;rsel takip gerektirir
-    - B-) Yayınlandığı ekrana g&ouml;re i&ccedil;erik deformasyonu yaşanabilir
-    - C-) Birden &ccedil;ok ekrana g&ouml;re tasarım planlaması gerektirir
-    - **Cevap D-) Hedef kitlenin zihninde kolay yer edinemez**
-    - E-) G&ouml;r&uuml;nt&uuml; ya da sesteki aksaklık anlam değişikliğine etki edebilir
+1. <strong>Aşağıdakilerden hangisi reklam filmlerinde kullanılan hareketli tipografi uygulamalarının dezavantajları arasında <u>yer almaz</u>?</strong>
+    - A-) S&uuml;rekli g&ouml;rsel takip gerektirir.
+    - B-) Yayınlandığı ekrana g&ouml;re i&ccedil;erik deformasyonu yaşanabilir.
+    - C-) Birden &ccedil;ok ekrana g&ouml;re tasarım planlaması gerektirir.
+    - **Cevap D-) Hedef kitlenin zihninde kolay yer edinemez.**
+    - E-) G&ouml;r&uuml;nt&uuml; ya da sesteki aksaklık anlam değişikliğine etki edebilir.
     <hr />
 1. <strong>Bir eşyayı, bir objeyi, bir yeri, bir işleyişi, bir kavramı resmetme yoluyla temsil eden ve sembollerden oluşan dil yazım t&uuml;r&uuml;ne ne ad verilir?</strong>
     - A-) &Ccedil;er&ccedil;eve
@@ -1151,13 +1223,20 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) teknoloji
     - **Cevap E-) reklam**
     <hr />
+1. <strong>Doğru reklam i&ccedil;in, mesajı alacak olan t&uuml;keticinin, mesajı istenilen şekilde almasını sağlayacak bi&ccedil;imde d&uuml;zenlenmek gerekmektedir. Aşağıdakilerden hangisi reklamın istenilen şekilde algılanması i&ccedil;in sahip olması gereken &ouml;zellikler arasında <u>yer almaz</u>?</strong>
+    - **Cevap A-) Mesajın farklı bir dilde ifade edilmesi**
+    - B-) İlgin&ccedil; olması
+    - C-) Tekrarlanması
+    - D-) Vaat edici olması
+    - E-) İkna edici olması
+    <hr />
 1. Reklam filmlerinde kullanılan tipografi uygulamaları temeli ve gelişim s&uuml;reci g&ouml;z &ouml;n&uuml;nde bulundurulduğunda kendine has teknik &ouml;zellikler &ccedil;er&ccedil;evesi i&ccedil;indedir.<br />
 <strong>Aşağıdakilerden hangisi bunlardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Şekil**
     - B-) Anlam
     - C-) &Ccedil;er&ccedil;eve
     - D-) Renk
-    - E-) Dijital hakimiyet
+    - E-) Dijital h&acirc;kimiyet
     <hr />
 ## Unite 13
 1. <strong>Ambalajın insan ve yaşamla olan etkinliğine y&ouml;nelik aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
@@ -1167,7 +1246,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) &Uuml;r&uuml;n&uuml;n g&ouml;rsel kimliğidir.
     - **Cevap E-) Ambalaj doğru y&ouml;nlendirmeden uzak durmalıdır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi a</strong><strong>mbalaj tasarımını etkileyen unsurlar arasında <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi a</strong><strong>mbalaj tasarımını etkileyen unsurlar arasında&nbsp;<u>yer almaz</u>?</strong>
     - A-) Teknoloji
     - **Cevap B-) &Uuml;retici kişi &ouml;zellikleri**
     - C-) Dağıtım kanalları
@@ -1180,7 +1259,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - B-) Rengi
     - **Cevap C-) Tipografiyi**
     - D-) Arka planı
-    - E-) G&ouml;rsel hiyerarşiyi 
+    - E-) G&ouml;rsel hiyerarşiyi
     <hr />
 1. I. IBM<br />
 II. Coca-Cola<br />
@@ -1240,7 +1319,15 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - B-) Renk tercihi
     - C-) Baskı tekniği
     - D-) K&uuml;lt&uuml;rel g&ouml;sterge
-    - E-) Tipografik vurgu 
+    - E-) Tipografik vurgu
+    <hr />
+1. Ambalaj tasarımında kullanılan &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; ana hedefi bilgi aktarmaktır.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) tipografinin**
+    - B-) rengin
+    - C-) dokunun
+    - D-) &ccedil;izginin
+    - E-) vurgunun
     <hr />
 ## Unite 14
 1. <strong>&quot;İll&uuml;strasyon&quot; kelimesinin anlamı a</strong><strong>şağıdakilerden hangisidir?</strong>
@@ -1309,7 +1396,7 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - D-) Yazılabilir
     - E-) D&uuml;zenlenebilir
     <hr />
-1. &quot;................... , yazıya hareket verme, yer yer eksiltme, ekleme ve değiştirme y&ouml;ntemleriyle, kişi &uuml;zerinde g&ouml;rsel etkiyi kurgulama ve algıyı işlemedir ve bu &ccedil;aba, tasarımcı a&ccedil;ısından deneysel bir s&uuml;re&ccedil;tir&quot;.<br />
+1. ................... , yazıya hareket verme, yer yer eksiltme, ekleme ve değiştirme y&ouml;ntemleriyle, kişi &uuml;zerinde g&ouml;rsel etkiyi kurgulama ve algıyı işlemedir ve bu &ccedil;aba, tasarımcı a&ccedil;ısından deneysel bir s&uuml;re&ccedil;tir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tipografide afiliasyon
     - B-) Tipografide deviasyon
@@ -1317,7 +1404,14 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - D-) Tipografide destinasyon
     - E-) Tipografide lokasyon
     <hr />
-1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir? </strong>
+1. <strong>Anlamı bir yerden başka bir yere aktaran ve mecaz anlamına gelen kelime aşağıdakilerden hangisidir?</strong>
+    - A-) Yapıbozum
+    - B-) Deneysel tipografi
+    - **Cevap C-) Metafor**
+    - D-) Algı
+    - E-) Manip&uuml;lasyon
+    <hr />
+1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir?&nbsp;</strong>
     - A-) Manip&uuml;lasyon
     - **Cevap B-) İll&uuml;strasyon**
     - C-) Destinasyon
@@ -1330,6 +1424,13 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - C-) Karikat&uuml;r
     - **Cevap D-) Ekslibris**
     - E-) Afiliasyon
+    <hr />
+1. <strong>Tipografide i&ccedil;erik ve bağlam ilişkisini yorumlayan, &ouml;zg&uuml;n g&ouml;rsel bir dil yaratma s&uuml;recindeki potansiyele y&ouml;nelik metodolojiye ne ad verilir?</strong>
+    - **Cevap A-) Deneysel Tipografi**
+    - B-) &Ouml;zg&uuml;n Tipografi
+    - C-) Etkisel Tipografi
+    - D-) Negatif Tipografi
+    - E-) G&ouml;rsel Tipografi
     <hr />
 1. ................... algılama &ouml;rg&uuml;tleme ilkelerinden şekil-zemin ilişkisine g&ouml;re; normal şartlar altında, bireyin dikkati şekil &uuml;st&uuml;nde odaklanır; bazı durumlarda şekil ve zeminin birbirleriyle yer değiştirdiği durumlar ortaya &ccedil;ıkabilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

@@ -91,14 +91,14 @@
     - D-) Demotik
     - E-) Brahmi
     <hr />
-1. <strong>Aşağıdakilerden hangisi yazının başlangıcından g&uuml;n&uuml;m&uuml;ze kadar d&uuml;nya &uuml;zerinde ortaya &ccedil;ıkan yazı sistemlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yazının başlangıcından g&uuml;n&uuml;m&uuml;ze kadar d&uuml;nya &uuml;zerinde ortaya &ccedil;ıkan yazı sistemlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Logografik
-    - B-) Syllabic (Heceye dayalı / Hece Sistemi Yazısı) 
+    - B-) Syllabic (Heceye dayalı / Hece Sistemi Yazısı)
     - C-) Consonantal alfabe veya Ebced (Sessiz harflere dayalı yazı sistemi)
     - **Cevap D-) Piktografik**
     - E-) Segmental alfabe (B&ouml;l&uuml;ml&uuml; alfabe)
     <hr />
-1. <strong>Aşağıdakilerden hangisi ailelere g&ouml;re yazı sistemlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi ailelere g&ouml;re yazı sistemlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) &Ccedil;ivi Yazısı
     - B-) Mısır Yazısı
     - **Cevap C-) Avrupa Yazısı**
@@ -133,7 +133,7 @@
     - D-) Reklamlar
     - E-) Uzaktan eğitim
     <hr />
-1. <strong>Hiyeroglifler ile ilgili olarak a</strong><strong>şağıdakilerden hangisi </strong><strong><u>yanlıştır</u>?</strong>
+1. <strong>Hiyeroglifler ile ilgili olarak a</strong><strong>şağıdakilerden hangisi&nbsp;</strong><strong><u>yanlıştır</u>?</strong>
     - A-) &quot;Resimyazı&quot; olarak da adlandırılır.
     - B-) S&uuml;mer &ccedil;iviyazısı ile benzer &ouml;zellikler taşır.
     - **Cevap C-) Yalnızca kutsal metinlerin yazımında kullanılır.**
@@ -239,7 +239,7 @@
     - D-) Lombardik ve Vizigot stili
     - E-) Rustik yazı
     <hr />
-1. <strong>Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Roma El Yazısı harflerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Kare kapital harfler
     - B-) G&uuml;ndelik yazı
     - C-) Uncialler
@@ -250,12 +250,12 @@
     - **Cevap A-) Kare kapital harfler**
     - B-) G&uuml;ndelik yazı
     - C-) Runik alfabe
-    - D-) Vizigot stili 
+    - D-) Vizigot stili
     - E-) Anglo-Sakson stili
     <hr />
 1. I. İrlanda veya Anglo-Sakson stili<br />
-II. Merovenj ve Doğu Frenk stili<br />
-III. Lombardik ve Vizigot stili<br />
+II.&nbsp;Merovenj ve Doğu Frenk stili<br />
+III.&nbsp;Lombardik ve Vizigot stili<br />
 <strong>Yukarıdaki ifadelerden hagisi ya da hangileri ulusal el yazısı stillerindendir?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
@@ -277,7 +277,7 @@ III. Lombardik ve Vizigot stili<br />
     - D-) Asur
     - E-) &Ccedil;in
     <hr />
-1. <strong>Aşağıdakilerden hangisi hızlı ve kolay yazılabilen yuvarlak maj&uuml;sk&uuml;l harflerdir?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;hızlı ve kolay yazılabilen yuvarlak maj&uuml;sk&uuml;l harflerdir?</strong>
     - A-) G&uuml;ndelik yazı
     - **Cevap B-) Uncialler**
     - C-) Rustik yazı
@@ -311,6 +311,13 @@ III. Lombardik ve Vizigot stili<br />
     - **Cevap C-) Gotik stildedir.**
     - D-) İki farklı kalınlığa sahiptir.
     - E-) Sonraki 2000 yıl boyunca Roma yazısının kusursuz kaynağı olarak kabul g&ouml;r&uuml;r.
+    <hr />
+1. <strong>7. y&uuml;zyılın sonlarına doğru Frenklerin ulusal yazı stili olan Merovenj yazı stili hakkındaki ifadelerden hangisi doğrudur?</strong>
+    - A-) Bu alfabe g&uuml;n&uuml;m&uuml;z&uuml;n Latin alfabesinin gelişiminden bağımsız olarak değerlendirilir.
+    - B-) Roma&rsquo;nın &ccedil;&ouml;k&uuml;ş&uuml;n&uuml;n ardından Batı Avrupa&rsquo;nın t&uuml;m&uuml;nde kullanılması hedeflenen ilk ortak yazı stilidir.
+    - C-) Sağa doğru eğimi olan harflerden oluşur.
+    - D-) Dokuma kumaş veya doku anlamına gelen Latince &ldquo;textum&rdquo; s&ouml;zc&uuml;ğ&uuml;nden kaynağını alan &ldquo;textur&rdquo; veya &ldquo;textura&rdquo; s&ouml;zc&uuml;ğ&uuml; bu stilin bi&ccedil;imsel &ouml;zelliklerini yansıtır.
+    - **Cevap E-) &Uuml;st uzantıların (descender) ekstra uzun oluşu satır aralarının a&ccedil;ık olmasına ve bu sayede stilin g&ouml;sterişli bir etki yaratmasına neden olur.**
     <hr />
 1. <strong>Roma kapital harflerin kesik u&ccedil;lu kamış veya kaz t&uuml;y&uuml; kalemin kullanımı ile ortaya &ccedil;ıkan &ccedil;eşitlemelerine ne ad verilir?</strong>
     - A-) H&uuml;manist yazı
@@ -355,7 +362,7 @@ III. Lombardik ve Vizigot stili<br />
     - D-) Matbaanın Avrupa&rsquo;da kullanılmaya başlanmasından &ouml;nce manastırlarda elle &ccedil;oğaltılan kitaplara verilen addır.
     - E-) 9. y&uuml;zyıldan 11. y&uuml;zyıla kadar Avrupa&rsquo;ya egemen olan Karolenj min&uuml;sk&uuml;l harflerin, 11. y&uuml;zyıla gelindiğinde, kuzeyde daha k&uuml;&ccedil;&uuml;k ve darlaştırılmış (condenced) versiyonlarına verilen addır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Gotik stilin belirgin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Gotik stilin belirgin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Kuzey Avrupa&rsquo;dan yaygınlaşmıştır.
     - B-) Dar harfler kullanılır.
     - C-) Harflerin i&ccedil; boşlukları eşittir.
@@ -418,7 +425,7 @@ III. Lombardik ve Vizigot stili<br />
     - D-) Mısır yazısı
     - **Cevap E-) Gotik yazı**
     <hr />
-1. <strong>15. y&uuml;zyılda Avrupa&rsquo;da bilinen ilk tahta baskılara ve hediyelik eşyalara ne ad verilir? </strong>
+1. <strong>15. y&uuml;zyılda Avrupa&rsquo;da bilinen ilk tahta baskılara ve hediyelik eşyalara ne ad verilir?&nbsp;</strong>
     - A-) Ksilografi
     - B-) Punch
     - C-) Hurufat
@@ -546,10 +553,10 @@ III. Lombardik ve Vizigot stili<br />
     - E-) Caslon
     <hr />
 1. <strong>1529 yılında harflerin anatomileri ile insan anatomisi arasında bağ kuran bir dizi diyagram basan ressam ve tipograf aşağıdakilerden hangisidir?</strong>
-    - A-) Philippe Grandjean 
+    - A-) Philippe Grandjean
     - B-) William Caslon
     - **Cevap C-) Geofroy Tory**
-    - D-) Justus Erich Walbaum 
+    - D-) Justus Erich Walbaum
     - E-) Baskerville
     <hr />
 1. <strong>G&uuml;ndelik, sağa yatık bir el yazısı tipi olan italik harfler ilk nerede ortaya &ccedil;ıkmıştır?</strong>
@@ -616,12 +623,12 @@ III. Lombardik ve Vizigot stili<br />
     - D-) Ahşabın doğal ve geri d&ouml;n&uuml;şt&uuml;r&uuml;lebilir bir malzeme oluşu
     - E-) Metal kullanımının insan sağlığına zararlı etkisi
     <hr />
-1. <strong>Aşağıdakilerden hangisi Clarendonların &ouml;zelliklerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Clarendonların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Fat Face yazı karakterlerinin metin i&ccedil;in uyarlanmış versiyonlarıdır.
     - B-) K&uuml;&ccedil;&uuml;k boyutlarda x-y&uuml;kseklikleri artırılmıştır.
-    - C-) Alt ve &uuml;st uzantıların kısadır.
+    - C-) Alt ve &uuml;st uzantıları kısadır.
     - D-) Seriflerin harf g&ouml;vdesine bağlantıları k&uuml;&ccedil;&uuml;k destekler (bracket) ile g&uuml;&ccedil;lendirilir.
-    - **Cevap E-) Geometrik Sans yazı karakterlerine &ouml;rnektirler.**
+    - **Cevap E-) Geometrik Sans yazı karakterlerine &ouml;rnektir.**
     <hr />
 1. <strong>Monotype makinesinin linotype makinesinden temel farkı nedir?</strong>
     - A-) Buhar g&uuml;c&uuml; ile &ccedil;alışır.
@@ -668,7 +675,7 @@ III. Lombardik ve Vizigot stili<br />
 1. <strong>Arts &amp; Crafts Hareketi&rsquo;nin &ouml;nc&uuml;s&uuml; William Morris&#39;in 1890&rsquo;da kaynağı t&uuml;m&uuml;yle kaligrafik olarak tasarladığı yazı karakteri aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Golden Type**
     - B-) Clarendonlar
-    - C-) K&uuml;t Serifliler (Slab Serifs) 
+    - C-) K&uuml;t Serifliler (Slab Serifs)
     - D-) Linotype
     - E-) Monotype
     <hr />
@@ -686,10 +693,10 @@ III. Lombardik ve Vizigot stili<br />
     - D-) İngiltere
     - E-) Almanya
     <hr />
-1. I. K&uuml;t Serifliler<br />
-II. Clarendonlar<br />
-III. Golden Type<br />
-IV. Ofset Litografi<br />
+1. I.&nbsp;K&uuml;t Serifliler<br />
+II.&nbsp;Clarendonlar<br />
+III.&nbsp;Golden Type<br />
+IV.&nbsp;Ofset Litografi<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri Sanayi D&ouml;nemi yazı karakterlerinden biridir?</strong>
     - A-) Yalnız I
     - B-) I ve II
@@ -697,14 +704,14 @@ IV. Ofset Litografi<br />
     - D-) I, II ve IV
     - E-) I, II, III ve IV
     <hr />
-1. <strong>Aşağıdakilerden hangisi k&uuml;t seriflilerin &ouml;zelliklerinden biri </strong><u><strong>değildir</strong></u><strong>?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;k&uuml;t seriflilerin &ouml;zelliklerinden biri&nbsp;</strong><u><strong>değildir</strong></u><strong>?</strong>
     - A-) Yazı karakterleri &ouml;ylesine b&uuml;y&uuml;k puntolarda kullanılır ki hurufat d&ouml;k&uuml;m&uuml;nde kullanılan kurşun hem &ccedil;ok pahalıya mal olur hem de metal kalıpların ağırlığı başka bir dezavantaj oluşturur.
     - B-) Aşırı harf y&uuml;ksekliğine ve genişliğine sahiptir.
     - C-) Modern yazı karakterlerinin ince ve kalın &ccedil;izgileri arasındaki kontrast daha da abartılı h<span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span>le gelir.
     - **Cevap D-) Başlık yazı karakteri olan &ldquo;Fat Face&rdquo;lerin metin yazı karakteri olarak kullanıma uygun h<span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&acirc;</span>le getirilmiştir.**
     - E-) Metal harf kalıplarınından farklı olarak ahşap harf kalıpları &ldquo;satır&rdquo; (line) veya &ldquo;pika&rdquo; (pica) olarak &ouml;l&ccedil;&uuml;lendirilir.
     <hr />
-1. <strong>Arts &amp; Crafts Hareketi&rsquo;nin &ouml;nc&uuml;s&uuml; olan ve Golden Type adını verdiği yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?</strong>
+1. <strong>Arts &amp; Crafts Hareketi&rsquo;nin &ouml;nc&uuml;s&uuml; olan ve&nbsp;Golden Type adını verdiği yazı karakterini tasarlayan kişi aşağıdakilerden hangisidir?</strong>
     - A-) Theo Van Doesburg
     - B-) Photon Corporation
     - **Cevap C-) William Morris**
@@ -839,19 +846,19 @@ IV. Ofset Litografi<br />
     - **Cevap D-) OpenType**
     - E-) Unicode
     <hr />
-1. <strong>Apple ilk kuşak Macintosh bilgisayarları hangi yıl &uuml;retilmiştir?</strong>
+1. <strong>Apple&nbsp;ilk kuşak Macintosh bilgisayarları hangi yıl &uuml;retilmiştir?</strong>
     - A-) 1930
     - **Cevap B-) 1984**
     - C-) 1971
     - D-) 1800
     - E-) 2000
     <hr />
-1. <strong>Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu&#39;nun &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi dijital tanımlama sistemlerinden Postscript Fontu&#39;nun &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Masa&uuml;st&uuml; yayıncılığı m&uuml;mk&uuml;n kılan ve &ldquo;Type 1&rdquo; olarak da bilinen bir fonttur.
     - B-) 1985 yılında Adobe tarafından geliştirilmiştir.
     - C-) İlk olarak Apple&#39;ın lazer yazıcılarında kullanılmıştır.
     - D-) Sabit boyutlu bitmap dosyasını kullanarak ekrandaki karakterlerin &ccedil;izilmesini sağlar.
-    - **Cevap E-) Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.**
+    - **Cevap E-) Latin alfabesini kullanan dillerin gerektirdiği alternatif karakter ve aksanları barındırır ve&nbsp;aynı zamanda Yunan ve Kiril gibi farklı alfabeleri de kapsamaktadır.**
     <hr />
 1. <strong>Vekt&ouml;re ilişkin bilginin, vekt&ouml;r bi&ccedil;iminin piksellerle doldurulan yazıcıya g&ouml;nderilmesi işlemine ne ad verilir?</strong>
     - A-) Hinting
@@ -860,7 +867,7 @@ IV. Ofset Litografi<br />
     - D-) OpenType
     - E-) Futura
     <hr />
-1. <strong>Masa&uuml;st&uuml; yayıncılık hakkında aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Masa&uuml;st&uuml; yayıncılık hakkında aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Masa&uuml;st&uuml; yayıncılık terimi ilk olarak bu sistemi bulan Aldus, Apple ve Adobe tarafından 1984&rsquo;te kullanılır.
     - B-) Masa&uuml;st&uuml; yayıncılık sayesinde asırlardır onlarca kişi tarafından ger&ccedil;ekleştirilen yayıncılık tek bir kişi tarafından yapılabilir h&acirc;le gelir.
     - C-) Masa&uuml;st&uuml; yayıncılık, daktilo ile yazma ve dizgi makinesinde harf kalıpları dizme eylemlerini bir araya getirir.
@@ -950,11 +957,11 @@ IV. Ofset Litografi<br />
     - B-) Zuzana Licko
     - C-) John Baskerville&rsquo;
     - **Cevap D-) Barry Deck**
-    - E-) Joseph A. David 
+    - E-) Joseph A. David
     <hr />
 1. I. Work Sans<br />
-II. Canola <br />
-III. Breite<br />
+II.&nbsp;Canola<br />
+III.&nbsp;Breite<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri Metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
@@ -964,14 +971,14 @@ III. Breite<br />
     <hr />
 1. I. OpenType&rsquo;ın geliştirilmesi<br />
 II. Unicode&rsquo;un geliştirilmesi<br />
-III. İnternet kullanımının yaygınlaşması <br />
+III. İnternet kullanımının yaygınlaşması<br />
 IV. Baskı teknolojilerinin geliştirilmesi<br />
 <strong>Yukarıdaki ifadelerden hangileri 20. y&uuml;zyılın sonunda tipografi alanında g&ouml;r&uuml;len değişimlerdendir?</strong>
     - A-) Yalnız I
     - B-) I ve III
     - **Cevap C-) I, II ve III**
     - D-) II, III ve IV
-    - E-) I, II, III ve IV 
+    - E-) I, II, III ve IV
     <hr />
 1. <strong>19. y&uuml;zyılda, Joseph A. David tarafından &ldquo;Plaque D&eacute;coup&eacute;e Universelle&rdquo; (Evrensel Mod&uuml;ler Şablon) isimli şablon aşağıdaki ifadelerden hangisini <u>i&ccedil;ermez</u>?</strong>
     - A-) Maj&uuml;sk&uuml;l harfler
@@ -979,6 +986,16 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - C-) Aksanlar
     - D-) Sayılar
     - E-) Noktalama işaretleri
+    <hr />
+1. I. Work Sans<br />
+II. Canola<br />
+III. Breite<br />
+<strong>Yukarıdaki ifadelerden hangisi ya da hangileri metapolator ile geliştirilen ilk yazı ailelerindendir?</strong>
+    - A-) Yalnız I
+    - B-) I ve II
+    - C-) I ve III
+    - D-) II ve III
+    - **Cevap E-) I, II ve III**
     <hr />
 1. <strong>Aşağıdakilerden hangisi Barry Deck tarafından, deneysel bir y&ouml;ntemle geliştirilen, bozuk tipografik malzemelerin, kusurlu bi&ccedil;imlerin bir araya geldiği dijital yazı karakteridir?</strong>
     - A-) VAG Rounded
@@ -1079,7 +1096,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap D-) Kişisel tercihler**
     - E-) Taşıyıcı y&uuml;zeyler
     <hr />
-1. <strong> Aşağıdakilerden hangisi Thibaudeau sınıflandırma sisteminin alt kategorilerinden biri <u>değildir</u>?</strong>
+1. <strong>&nbsp;Aşağıdakilerden hangisi Thibaudeau sınıflandırma sisteminin alt kategorilerinden biri <u>değildir</u>?</strong>
     - A-) &ldquo;Elz&eacute;vir&rdquo;ler
     - B-) &ldquo;Didot&rdquo;lar
     - **Cevap C-) Non-Latin karakterler**
@@ -1163,6 +1180,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - C-) Blackletter
     - D-) Tekstura
     - E-) Lombardic
+    <hr />
+1. <strong>İlk &ouml;rnekleri 15. y&uuml;zyılın sonlarında, Venedik&rsquo;teki matbaalarda &uuml;retilen, 9. y&uuml;zyıl Karolenj min&uuml;sk&uuml;llerinden kaynağını alan ve bug&uuml;ne kadar kullanılagelen yazı karakteri sınıflarının ilk &ouml;rneği olarak kabul edilen yazı karakteri sınıfı aşağıdakilerden hangisidir?</strong>
+    - A-) Garalde (Old Face)
+    - B-) Glifik
+    - C-) Gotik (Fraktur)
+    - **Cevap D-) H&uuml;manist (Venetian)**
+    - E-) H&uuml;manist Sans
     <hr />
 1. <strong>Aşağıdaki &ouml;zelliklerden hangisi el yazısından ilk olarak uzaklaşan yazı karakteri sınıfına verilen isimdir?</strong>
     - A-) Glifik
@@ -1298,6 +1322,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Hesaplamalarda tercih edilmezler.
     - E-) Metin i&ccedil;inde maj&uuml;sk&uuml;l harfler gibi hareket ederler.
     <hr />
+1. <strong>Aşağıdakilerden hangisi k&uuml;&ccedil;&uuml;k b&uuml;y&uuml;k harflerin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - A-) Maj&uuml;sk&uuml;l harf bi&ccedil;imindedirler.
+    - B-) Y&uuml;kseklikleri yaklaşık x-y&uuml;ksekliği kadardır.
+    - C-) Metin i&ccedil;inde maj&uuml;sk&uuml;l harflerin yerine kullanılanılır.
+    - D-) Metnin dokusu bozmaksızın vurgulanmak istenen s&ouml;zc&uuml;k veya s&ouml;zc&uuml;kleri &ouml;ne &ccedil;ıkarır.
+    - **Cevap E-) Mali kayıtlarda ve matematiksel hesaplamalarda kullanılır.**
+    <hr />
 1. <strong>Bir fontun &ldquo;Turk&rdquo; veya &ldquo;Tu&rdquo; kısaltması taşıması ne anlama gelir?</strong>
     - A-) Batı Avrupa dillerindeki b&uuml;t&uuml;n karakterleri i&ccedil;erdiğini g&ouml;sterir.
     - B-) Fontun geniş bir yazı ailesine sahip olduğunu g&ouml;sterir.
@@ -1426,6 +1457,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Noktalar harfin &uuml;st orta noktasında birbirlerine değecek şekilde konumlandırılmalıdır.
     - **Cevap E-) Noktalar harfin &uuml;st orta noktasında birbirlerine yaklaşacak şekilde konumlandırılmalıdır.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi perspektif yanılsamasına sebebiyet verir?</strong>
+    - A-) Belirli bağlamlarda iki boyutlu geometrik bi&ccedil;imleri &ccedil;evremizdeki &uuml;&ccedil; boyutlu nesneler gibi algılama eğilimi
+    - **Cevap B-) Bir nesnenin ne kadar uzakta olduğu konusundaki yanılgı**
+    - C-) Eğimli ve yatay &ccedil;izgilerin buluştuğu noktalarda oluşan keskin a&ccedil;ıların olduklarından b&uuml;y&uuml;k algılanması
+    - D-) A&ccedil;ık renk bir zemin &uuml;zerindeki geometrik bi&ccedil;im ile aynı boyutta olan koyu renk zemindeki geometrik bi&ccedil;im farklı boyutlarda algılanması
+    - E-) Birbirine paralel &ccedil;izgilerin, onları &ccedil;evreleyen a&ccedil;ısal &ccedil;izgilerin etkisi nedeniyle eğilmiş gibi g&ouml;r&uuml;nmesi
+    <hr />
 ## Unite 12
 1. <strong>Aşağıdakilerden hangisi harf anatomisine ilişkin terimlerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Pica**
@@ -1483,7 +1521,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) İn&ccedil;
     - E-) Milimetre
     <hr />
-1. <strong>Aşağıdaki terimlerden hangisi bir yazı karakterinin ağırlığına ilişkin bilgi <u>vermez</u>?</strong>
+1. <strong>Aşağıdaki terimlerden&nbsp;hangisi bir yazı karakterinin ağırlığına ilişkin bilgi <u>vermez</u>?</strong>
     - A-) Bold
     - **Cevap B-) İtalik**
     - C-) Semi bold
@@ -1497,7 +1535,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap D-) Her iki yazı karakterinin farklı x-y&uuml;ksekliklerine sahip olmaları**
     - E-) Bir yazı karakterinin dik, diğerinin italik olması
     <hr />
-1. <strong> Aşağıdaki tipografi terimlerinden hangisi harflerin anatomik yapısı ile ilişkili <u>değildir</u>?</strong>
+1. <strong>&nbsp;Aşağıdaki tipografi terimlerinden hangisi harflerin anatomik yapısı ile ilişkili <u>değildir</u>?</strong>
     - A-) &Ccedil;anak
     - B-) Kemer
     - C-) Destek
@@ -1525,6 +1563,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) İtalik
     - **Cevap E-) 12 punto**
     <hr />
+1. <strong>S&uuml;tun genişliğini &ouml;l&ccedil;mekte yaygın olarak kullanılan &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
+    - A-) Milimetre
+    - **Cevap B-) Pika**
+    - C-) İn&ccedil;
+    - D-) Santimetre
+    - E-) Feet
+    <hr />
 1. <strong>Aşağıdaki terimlerden hangisi harflerin genişliğine ilişkin bilgi <u>vermez</u>?</strong>
     - A-) Condenced
     - B-) Extended
@@ -1547,7 +1592,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Taşıyıcı y&uuml;zey
     - E-) Aydınlatma koşulları
     <hr />
-1. <strong>Aynı genişliğe sahip karakterlerin eşit harf arası espas değerine sahip olduğu ve harf kombinasyonlarına g&ouml;re &ccedil;eşitlilik g&ouml;stermediği yazı karakterlerine verilen isim aşağıdakilerden hangisidir?</strong>
+1. <strong>Aynı genişliğe sahip karakterlerin eşit harf arası espas değerine sahip olduğu ve harf kombinasyonlarına g&ouml;re &ccedil;eşitlilik g&ouml;stermediği yazı karakterlerine ne ad verilir?</strong>
     - A-) Serifli yazı karakterleri
     - **Cevap B-) Eş-aralıklı yazı karakterleri**
     - C-) Orantılı-aralıklı yazı karakterleri
@@ -1603,7 +1648,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Birbirine &ccedil;ok yakın dizilmiş s&ouml;zc&uuml;kler okur tarafından kolaylıkla ayırt edilemeyeceği i&ccedil;in okumayı g&uuml;&ccedil;leştirir.
     - **Cevap E-) S&ouml;zc&uuml;k arası espasın gereğinden fazla olması durumunda ortaya &ccedil;ıkacak nehirler okumayı kolaylaştırır.**
     <hr />
-1. <strong> Aşağıdaki tanımlardan hangisi aralıksız metni a&ccedil;ıklar niteliktedir?</strong>
+1. <strong>&nbsp;Aşağıdaki tanımlardan hangisi aralıksız metni a&ccedil;ıklar niteliktedir?</strong>
     - A-) S&ouml;zc&uuml;k arası espasın gereğinden fazla olması durumunda ortaya &ccedil;ıkan nehirler nehirlerdir.
     - B-) Sıklıkla boşluk d&uuml;zenlemelerinin yapılmasına gereksinim duyulan harf/karakter kombinasyonlarıdır.
     - **Cevap C-) &ldquo;Leading&rdquo; ve yazı karakteri b&uuml;y&uuml;kl&uuml;ğ&uuml; aynı değere sahip olan metinlerdir.**
@@ -1617,14 +1662,14 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Satırların arasında yer alan boşluklar
     - E-) Metnin &ccedil;evresinde yer alan boşluk
     <hr />
-1. <strong> Aşağıdakilerden hangisi orantılı-aralıklı yazı karakterlerinin &ouml;zelliği <u>değildir</u>?</strong>
+1. <strong>&nbsp;Aşağıdakilerden hangisi orantılı-aralıklı yazı karakterlerinin &ouml;zelliği <u>değildir</u>?</strong>
     - A-) Eş-aralıklı yazı karakterlerine g&ouml;re satırda daha az yer kaplar.
     - B-) Organik bir doku oluştururlar.
     - C-) Eş-aralıklı yazı karakterlerine g&ouml;re daha kolay okunurlar.
     - D-) Her karakterin kendine &ouml;zg&uuml; dizgi genişliği vardır.
     - **Cevap E-) Bu yazı karakterlerinde harf arası espaslar standarttır.**
     <hr />
-1. <strong> Aşağıdakilerin hangisinde &ldquo;tracking&rdquo; ile ilgili verilen bilgi <u>yanlıştır</u>?</strong>
+1. <strong>&nbsp;Aşağıdakilerin hangisinde &ldquo;tracking&rdquo; ile ilgili verilen bilgi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Harf arası espas değerinde yapılan değişiklikler metnin t&uuml;m&uuml;n&uuml; etkiler.
     - B-) Harf arası espası kapatmak harflerin birbirlerine daha yakın konumlanmasına neden olur.
     - C-) Harf arası espası kapatmak metin alanı daraltılabilir.
@@ -1716,6 +1761,13 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - **Cevap D-) Grid Sistemi**
     - E-) DIN
     <hr />
+1. <strong>Aşağıdakilerden hangisinde 19. y&uuml;zyılın başında daktiloların piyasaya s&uuml;r&uuml;lmesinin ardından paragrafları birbirinden ayırmakta yaygınlaşan y&ouml;ntem yer almaktadır?</strong>
+    - A-) Satır başı girintisi kullanımı
+    - **Cevap B-) &Ccedil;ift satır boşluğu kullanımı**
+    - C-) Satır sonu boşluğu ile paragraf ayrımı
+    - D-) Asılı girinti ile paragraf ayrımı
+    - E-) &ldquo;Pilcrow&rdquo; veya &ouml;zel işaretlerin kullanımı
+    <hr />
 1. <strong>Aşağıdakilerden hangisinde web alanında sık&ccedil;a tercih edilen ve okurun paragrafları kolaylıkla ayırt edebildiği paragraf yapısı yer almaktadır?</strong>
     - **Cevap A-) Satır arası boşluk kullanımı**
     - B-) S&uuml;rekli girintili paragraf kullanımı
@@ -1730,7 +1782,7 @@ IV. Baskı teknolojilerinin geliştirilmesi<br />
     - D-) Yetim
     - **Cevap E-) Dul**
     <hr />
-1. <strong> Aşağıdaki yatay hizalama se&ccedil;eneklerinden hangisinin satırlarda oluşabilecek beyaz boşlukların nehirler meydana getirmesi olasılığı nedeniyle &ccedil;ok iyi uygulanması gerekir?</strong>
+1. <strong>&nbsp;Aşağıdaki yatay hizalama se&ccedil;eneklerinden hangisinin satırlarda oluşabilecek beyaz boşlukların nehirler meydana getirmesi olasılığı nedeniyle &ccedil;ok iyi uygulanması gerekir?</strong>
     - A-) Sağa hizalı
     - B-) Hizasız
     - C-) Sola hizalı

@@ -12,7 +12,7 @@
     - **Cevap B-) Akrabalık bildiren kelimeler lakap ya da unvan olarak kullanılıyorlarsa b&uuml;y&uuml;k harfle başlar.**
     - C-) Şahıs adları yerine kullanılan &quot;o&quot; zamiri c&uuml;mle i&ccedil;inde b&uuml;y&uuml;k harfle yazılır.
     - D-) Dilek&ccedil;eler tamamen b&uuml;y&uuml;k harflerle yazılır.
-    - E-) Belli bir tarih g&ouml;steren ay, g&uuml;n adlarından yalnızca ay adı b&uuml;y&uuml;k harfle başlar.
+    - E-) Belli bir tarih g&ouml;steren g&uuml;n ve ay adlarından yalnızca ay adı b&uuml;y&uuml;k harfle başlar.
     <hr />
 1. &quot;ki&quot; bağlacı bazı kullanımlarda, kalıplaşmış olduğu i&ccedil;in &ouml;n&uuml;ne geldiği kelimeyle bitişik yazılır.<br />
 <strong>Aşağıdakilerden hangisi bu kalıplaşmış kelimelerden biri <u>değildir</u>?</strong>
@@ -41,7 +41,7 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
     - D-) G&uuml;zel mi g&uuml;zel bir arabası vardı.
     - E-) Hızlı mı hızlı bir şekilde ge&ccedil;ti yanımızdan.
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde b&uuml;y&uuml;k harflerin kullanımı ile ilgili bir <u>yanlış</u> yapılmıştır?</strong>
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde b&uuml;y&uuml;k harflerin kullanımı ile ilgili bir <u>yanlış</u>&nbsp;yapılmıştır?</strong>
     - A-) K&uuml;&ccedil;&uuml;k pencereden vuran g&uuml;neş, evi aydınlatıyordu.
     - B-) Ağrı ve Cudi dağları T&uuml;rkiye&rsquo;nin en y&uuml;ksek noktalarıdır.
     - C-) Bu tarih&icirc; eserler &ndash;her ne kadar bakımsız olsalar da&ndash; &ccedil;ok kıymetlidir.
@@ -72,9 +72,9 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
 1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde bir yazım yanlışı <u>yoktur</u>?</strong>
     - A-) Yarın bizimle Ankara&rsquo;ya gelmiyormusun?
     - B-) &Uuml;nl&uuml; şair, Tevfik Fikret lisesini başarıyla bitirmiş.
-    - C-) B&uuml;y&uuml;k Menderes nehri, bu b&ouml;lgeye d&ouml;k&uuml;l&uuml;r.
+    - C-) Menderes nehri, bu b&ouml;lgeye d&ouml;k&uuml;l&uuml;r.
     - D-) Seninde sa&ccedil;ına bir g&uuml;n karlar yağacak.
-    - **Cevap E-) Tarih&icirc; kale, yok olmak &uuml;zere.**
+    - **Cevap E-) Tarih&icirc; kale yok olmak &uuml;zere.**
     <hr />
 1. <strong>Aşağıdakilerin hangisinde bir yazım yanlışı <u>yoktur</u>?</strong>
     - **Cevap A-) Ayşe teyzem de bizimle gelecekmiş.**
@@ -112,7 +112,7 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
     - D-) Kuzey Avrupa&rsquo;nın &ouml;nemli bir kısmı soğuk kuşakta yer alır.
     - E-) Evin kuzey tarafındaki duvarı yosun tutmuştu.
     <hr />
-1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yazım <u>yanlışı</u> yapılmıştır?</strong>
+1. <strong>Aşağıdaki c&uuml;mlelerin hangisinde yazım yanlışı yapılmıştır?</strong>
     - A-) Doğum g&uuml;n&uuml;ndeki s&uuml;slemeleri &ccedil;ok beğendim.
     - **Cevap B-) Ahmet ve Aylin&rsquo;de hasta olmuş.**
     - C-) Annem ve babam 20. evlilik yıl d&ouml;n&uuml;mlerini kutladı.
@@ -165,14 +165,14 @@ V. Yeni &uuml;r&uuml;nler yarın yada &ouml;b&uuml;r g&uuml;n elimizde olacak.<b
 1. I. C&uuml;mlede s&ouml;ylenmek istenmeyen s&ouml;zc&uuml;k yerine kullanılır.<br />
 II. A&ccedil;ıklama c&uuml;mlesi yazılacağı zaman kullanılır.<br />
 III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
-<strong>&Ouml;zellikleri verilen noktalama işaretleri aşağıdakilerden hangisinde doğru olarak sıralanmıştır?</strong>
+<strong>&Ouml;zellikleri verilen&nbsp;noktalama işaretleri aşağıdakilerden hangisinde&nbsp;doğru olarak sıralanmıştır?</strong>
     - A-) Tırnak işareti, Kısa &ccedil;izgi, &Uuml;nlem
     - B-) &Uuml;nlem, İki nokta, Tırnak işareti
     - C-) Soru işareti, Tırnak işareti, Kısa &ccedil;izgi
     - D-) &Uuml;nlem, İki nokta, Kısa &ccedil;izgi
     - **Cevap E-) &Uuml;&ccedil; nokta, İki nokta, Nokta**
     <hr />
-1. Ayağını sıcak tut( ) başını serin( ) g&ouml;nl&uuml;n&uuml; ferah tut( ) d&uuml;ş&uuml;nme derin( )<br />
+1. Ayağını sıcak tut(&nbsp;) başını serin(&nbsp;) g&ouml;nl&uuml;n&uuml; ferah tut(&nbsp;) d&uuml;ş&uuml;nme derin(&nbsp;)<br />
 <strong>C&uuml;mlede ayra&ccedil;larla g&ouml;sterilen yerlere aşağıdaki noktalama işaretlerinden hangisi sırasıyla getirilmelidir?</strong>
     - A-) ( . ) ( : ) ( , ) ( . )
     - **Cevap B-) ( , ) ( ; ) ( , ) ( . )**
@@ -208,6 +208,14 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - **Cevap C-) I ile III**
     - D-) III ile IV
     - E-) IV ile V
+    <hr />
+1. Mill&icirc; Edebiyat Akımının temsilcilerinden bir kısmını sıralayalım ( ) &Ouml;mer Seyfettin, Halide Edip Adıvar, Ziya G&ouml;kalp, Mehmet Emin Yurdakul.<br />
+<strong>Yukarıdaki c&uuml;mlede parantezle g&ouml;sterilen yere hangi noktalama işareti getirilmelidir?</strong>
+    - A-) (.)
+    - **Cevap B-) (:)**
+    - C-) (;)
+    - D-) (&hellip;)
+    - E-) (,)
     <hr />
 1. <strong>Ara s&ouml;zleri ve ara c&uuml;mleleri ayırmak i&ccedil;in aşağıdaki noktalama işaretlerinden hangisi kullanılır?</strong>
     - **Cevap A-) Kısa &ccedil;izgi**
@@ -265,7 +273,7 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - **Cevap D-) Tepenin &uuml;zerinde irili - ufaklı evler vardı.**
     - E-) Hesabı hemen k&acirc;ğıda yazdı: 100-73=27
     <hr />
-1. &quot;Sınıfta &ouml;ğrencileri bulamayınca m&uuml;d&uuml;r odasına gitti.&quot; <br />
+1. &quot;Sınıfta &ouml;ğrencileri bulamayınca m&uuml;d&uuml;r odasına gitti.&quot;<br />
 <strong>Yukarıda verilen c&uuml;mlede bir virg&uuml;l kullanılarak &ouml;nemli bir anlam ve &ouml;ge değişikliği yapılabilir. Aynı &ouml;zellik aşağıdaki c&uuml;mlelerin hangisinde vardır?</strong>
     - A-) Her bug&uuml;n i&ccedil;inde yarını taşır.
     - B-) Sınıfta kimlerin takıma gireceği tartışılırken kavga &ccedil;ıktı.
@@ -303,7 +311,7 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - D-) Doğum tarihi bilinmeyen kişilerin isimlerinin yanında kullanılır.
     - E-) Satıra sığmayan s&ouml;zc&uuml;kler b&ouml;l&uuml;n&uuml;rken satır sonuna konur.
     <hr />
-1. <strong>Noktanın kullanımıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Noktanın kullanımıyla ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Biten c&uuml;mlelerin sonunda kullanılır.
     - **Cevap B-) Eş g&ouml;revli kelimeleri ayırmak i&ccedil;in kullanılır.**
     - C-) Sıra bildiren rakamlardan sonra kullanılır.
@@ -397,8 +405,8 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - D-) İnsan, başkalarını mutlu ettiği &ouml;l&ccedil;&uuml;de mutlu olabilir.
     - E-) Tamir etmektense bakım yapmak kolaydır.
     <hr />
-1. &quot;Batılı &uuml;lkelerdeki teknoloji alanında ilerlemesi Orta &Ccedil;ağ&#39;dan sonra m&uuml;mk&uuml;n olmuştur.&quot;<br />
-<strong>Yukarıda verilen c&uuml;mledeki anlatım bozukluğunun sebebi nedir?</strong>
+1. Batılı &uuml;lkelerdeki teknoloji alanında ilerlemesi Orta &Ccedil;ağ&#39;dan sonra m&uuml;mk&uuml;n olmuştur.<br />
+<strong>C&uuml;mledeki anlatım bozukluğunun sebebi aşağıdakilerden hangisidir?</strong>
     - A-) Noktalama eksikliği
     - B-) Eş anlamlı s&ouml;zc&uuml;klerin kullanılması
     - **Cevap C-) Tamlamanın yanlış kurulması**
@@ -448,7 +456,7 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - D-) Bu sokakta her y&uuml;r&uuml;d&uuml;ğ&uuml;mde &ouml;ğrencilik yıllarımı hatırlarım.
     - E-) Kişinin se&ccedil;tiği kelimeler, d&uuml;ş&uuml;nce tarzını yansıtır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi anlama dayalı anlatım bozukluklarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi anlama dayalı anlatım bozukluklarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) C&uuml;mlede gereksiz s&ouml;zc&uuml;k bulunması
     - B-) &Ccedil;elişkili ifadelerin kullanılması
     - **Cevap C-) &Ouml;ge eksikliğinin bulunması**
@@ -517,11 +525,11 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - E-) Bir konuda ileri s&uuml;r&uuml;len fikirlerin &ccedil;eşitli g&ouml;r&uuml;şlerle desteklenerek kanıtlanmaya &ccedil;alışıldığı anlatım tekniğidir.
     <hr />
 1. <strong>Yazılı anlatımla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Yazılı anlatım bilgilerin daha kalıcı olmasını sağlar.
-    - B-) Duygu ve d&uuml;ş&uuml;nceleri anlatmanın en etkili yollarından biri yazılı anlatımdır.
-    - **Cevap C-) Yazılı anlatım, insanlığın ortaya &ccedil;ıkışından beri kullanılan bir anlatım tarzıdır.**
-    - D-) Yazılı anlatımda başarılı olmak i&ccedil;in birtakım ilkeler vardır.
-    - E-) Yazılı anlatımın en &ouml;nemli aşamalarından biri konu sınırlandırmadır.
+    - A-) Yazılı anlatım bilgilerin daha kalıcı olmasını sağlar
+    - B-) Duygu ve d&uuml;ş&uuml;nceleri anlatmanın en etkili yollarından biri yazılı anlatımdır
+    - **Cevap C-) Yazılı anlatım, insanlığın ortaya &ccedil;ıkışından beri kullanılan bir anlatım tarzıdır**
+    - D-) Yazılı anlatımda başarılı olmak i&ccedil;in birtakım ilkeler vardır
+    - E-) Yazılı anlatımın en &ouml;nemli aşamalarından biri konu sınırlandırmadır
     <hr />
 1. <strong>Duygu, hayal ve heyecan konu olarak ele alınacaksa yapılacak plan t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Olay planı
@@ -575,11 +583,11 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - E-) Karşılaştırmalı
     <hr />
 1. <strong>Makale yazmak isteyen bir kişi aşağıdaki anlatım t&uuml;rlerinden hangisini tercih etmelidir?</strong>
-    - A-) &Ouml;yk&uuml;leyici-betimleyici
-    - B-) Betimleyici-tartışmacı
-    - C-) &Ouml;yk&uuml;leyici-kanıtlayıcı
-    - D-) Kanıtlayıcı-betimleyici
-    - **Cevap E-) A&ccedil;ıklayıcı-kanıtlayıcı**
+    - A-) &Ouml;yk&uuml;leyici&nbsp;-&nbsp;betimleyici
+    - B-) Betimleyici&nbsp;-&nbsp;tartışmacı
+    - C-) &Ouml;yk&uuml;leyici&nbsp;-&nbsp;kanıtlayıcı
+    - D-) Kanıtlayıcı - betimleyici
+    - **Cevap E-) A&ccedil;ıklayıcı&nbsp;-&nbsp;kanıtlayıcı**
     <hr />
 1. <strong>İki y&ouml;ntemin birbirlerine karşı &uuml;st&uuml;n ve zayıf y&ouml;nlerini anlatmak i&ccedil;in aşağıdaki y&ouml;ntemlerden hangisi kullanılır?</strong>
     - A-) Betimleyici
@@ -728,7 +736,7 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - D-) Arz-ı H&acirc;l
     - E-) Tebell&uuml;ğ belgesi
     <hr />
-1. <strong>Form &ouml;z ge&ccedil;mişlerde aşağıdakilerden hangisi <u>bulunmaz</u>?</strong>
+1. <strong>Form &ouml;z ge&ccedil;mişlerde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Eğitim bilgileri
     - B-) Kişisel bilgiler
     - C-) İletişim bilgileri
@@ -749,7 +757,7 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - D-) &Ccedil;izgili k&acirc;ğıda yazılmalıdır.
     - E-) Tutanak yazılırken kurşun kalem kullanılmalıdır.
     <hr />
-1. <strong> Eski dilde &ldquo;arzuhal&rdquo; kavramıyla ifade edilen, resm&icirc; makamlara g&ouml;nderilen yazı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>&nbsp;Eski dilde &ldquo;arzuhal&rdquo; kavramıyla ifade edilen, resm&icirc; makamlara g&ouml;nderilen yazı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Tutanak
     - B-) Biyografi
     - **Cevap C-) Dilek&ccedil;e**
@@ -793,7 +801,7 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - **Cevap D-) Makale**
     - E-) R&ouml;portaj
     <hr />
-1. <strong>Aşağıdakilerden hangisi deneme yazarının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi deneme yazarının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Deneme yazarı, yumuşak bir dille yazısını kaleme alır.
     - **Cevap B-) Deneme yazarı, okur karşısında &ouml;ğretici bir tavır takınır.**
     - C-) Deneme yazarı, okurla sohbet eder bir &uuml;sluba sahiptir.
@@ -853,11 +861,11 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - **Cevap E-) R&ouml;portaj**
     <hr />
 1. <strong>Aşağıdakilerden hangisi eleştiri yazısının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - **Cevap A-) Ele alınan konunun olumsuz y&ouml;nleri vurgulanmalıdır.**
-    - B-) Eleştiren kişi konu hakkında bilgi sahibi olmalıdır.
-    - C-) Eleştiri yapılırken konu kişiselleştirilmemelidir.
-    - D-) Eleştiride seviyeli bir &uuml;slup kullanılmalıdır.
-    - E-) Konu farklı a&ccedil;ılardan değerlendirilmelidir.
+    - **Cevap A-) Ele alınan konunun olumsuz y&ouml;nleri vurgulanmalıdır**
+    - B-) Eleştiren kişi konu hakkında bilgi sahibi olmalıdır
+    - C-) Eleştiri yapılırken konu kişiselleştirilmemelidir
+    - D-) Eleştiride seviyeli bir &uuml;slup kullanılmalıdır
+    - E-) Konu farklı a&ccedil;ılardan değerlendirilmelidir
     <hr />
 1. <strong>Bir kişinin kendi başından ge&ccedil;en olayları, yaşadıklarını ve tecr&uuml;belerini kaleme aldığı yazı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Anı/hatıra**
@@ -908,16 +916,17 @@ IV. Bir ortamın ya da duygunun tasvir edildiği s&ouml;zc&uuml;klere sıklıkla
     - D-) Moli&egrave;re
     - E-) Shakespeare
     <hr />
-1. I. Yazar samimi bir &uuml;slupla yazıyı kaleme alır.<br />
-II. Kişisel deneyimlerden ve g&ouml;zlemlerden faydalanılır.<br />
-III. Anlatılan konuların ispatlanması i&ccedil;in alıntılara sıklıkla yer verilir.<br />
-IV. Herhangi bir konu sınırlaması yoktur, her konuda yazılabilir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri deneme t&uuml;r&uuml;n&uuml;n &ouml;zellikleri arasında yer alır?</strong>
-    - A-) Yalnız I
-    - B-) I ve II
+1. <div>
+	I. Yazar samimi bir &uuml;slupla yazıyı kaleme alır.<br />
+	II. Kişisel deneyimlerden ve g&ouml;zlemlerden faydalanılır.<br />
+	III. Anlatılan konuların ispatlanması i&ccedil;in alıntılara sıklıkla yer verilir.<br />
+	IV.&nbsp;Herhangi bir konu sınırlaması yoktur, her konuda yazılabilir.<br />
+	<strong>Yukarıdakilerden hangisi ya da hangileri deneme t&uuml;r&uuml;n&uuml;n &ouml;zellikleri arasında yer alır?</strong></div>
+    - A-) I, II ve III
+    - B-) Yalnız I
     - C-) I ve III
-    - D-) I, II ve III
-    - **Cevap E-) I, II ve IV**
+    - **Cevap D-) I, II ve IV**
+    - E-) I ve II
     <hr />
 ## Unite 7
 1. <strong>Durum hik&acirc;yesiyle ilgili olarak aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong>
@@ -977,11 +986,11 @@ IV. Herhangi bir konu sınırlaması yoktur, her konuda yazılabilir.<br />
     - E-) Rubai
     <hr />
 1. <strong>D&uuml;nya edebiyatında hik&acirc;ye t&uuml;r&uuml;n&uuml;n ilk &ouml;rneği aşağıdakilerden hangisidir?</strong>
-    - A-) Satran&ccedil;-Stefan Zweig
-    - **Cevap B-) Dekameron-Boccaccio**
-    - C-) Beyaz Diş-Jack London
-    - D-) Sherlock Holmes-Arthur Conan Doyle
-    - E-) Emmaus-Alessandro Baricco
+    - A-) Satran&ccedil; - Stefan Zweig
+    - **Cevap B-) Decameron - Boccacio**
+    - C-) Beyaz Diş - Jack London
+    - D-) Sherlock Holmes - Arthur Conan Doyle
+    - E-) Emmaus - Alessandro Baricco
     <hr />
 1. <strong>Aşağıdakilerden hangisi hik&acirc;ye t&uuml;r&uuml;n&uuml;n &ouml;gelerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Dekor**
@@ -1055,7 +1064,7 @@ III. &Ccedil;&ouml;z&uuml;m<br />
     - B-) Konular g&uuml;nl&uuml;k hayattan se&ccedil;ilir.
     - C-) Hik&acirc;yelerin belirli bir başlangıcı ve sonu yoktur.
     - D-) Karakterler toplumun her kademesinden olabilir.
-    - E-) Genellikle yaşamın kısa bir kesiti ele alınır. 
+    - E-) Genellikle yaşamın kısa bir kesiti ele alınır.
     <hr />
 ## Unite 8
 1. İnsanlara hayatta karşılarına &ccedil;ıkabilecek zorlukları aşmak i&ccedil;in &ouml;ğretici bilgiler vermek, hikmet aşılamak yahut herhangi bir ideolojiyi yaymak i&ccedil;in yazılmış şiirlerdir. Diğer bir ifadeyle, d&uuml;ş&uuml;nce y&uuml;k&uuml; ağır basan şiirlerdir.<br />
@@ -1113,7 +1122,7 @@ Ardında bebesi yalınayak<br />
 Geride Karabaş<br />
 Tozlu yoldan<br />
 S&ouml;ğ&uuml;tlerin oradaki &ccedil;eşmeye<br />
-Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
+Yalağında bulutlar yıkanan &ccedil;eşmeye<br />
 <strong>Yukarıdaki şiir, konusuna g&ouml;re hangi şiir t&uuml;r&uuml; i&ccedil;erisinde yer alır?</strong>
     - A-) Mesnevi
     - **Cevap B-) Pastoral**
@@ -1169,6 +1178,17 @@ Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
     - **Cevap C-) Hisarcılar**
     - D-) Fecr-i &Acirc;ticiler
     - E-) İkinci Yeniciler
+    <hr />
+1. Ok atılır kal&#39;asından<br />
+Hak saklasın belasından<br />
+K&ouml;roğlu&#39;nun narasından<br />
+Dağlar g&uuml;mb&uuml;r g&uuml;mb&uuml;rlenir<br />
+<strong>Yukarıdaki şiir konusuna g&ouml;re hangi şiir t&uuml;r&uuml; i&ccedil;erisinde yer alır?</strong>
+    - A-) Didaktik
+    - **Cevap B-) Epik**
+    - C-) Lirik
+    - D-) Satirik
+    - E-) Pastoral
     <hr />
 1. <strong>Aşağıdakilerden hangisi yapay destana &ouml;rnek olarak g&ouml;sterilebilir?</strong>
     - A-) Manas
@@ -1269,6 +1289,13 @@ Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
     - D-) Dikkatli okuma
     - E-) &Ccedil;alışmak i&ccedil;in yapılan okuma
     <hr />
+1. <strong>Aşağıdakilerden hangisinin &ccedil;abuk unutulması beklenir?</strong>
+    - A-) Neşeliyken &ouml;ğrenilenlerin
+    - B-) &Ccedil;ok tekrarlanan bilgilerin
+    - C-) İsteyerek &ouml;ğrenilenlerin
+    - D-) Uykudan &ouml;nce ve sonra &ouml;ğrenilenlerin
+    - **Cevap E-) Pasif dinleme ile &ouml;ğrenilenlerin**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi not alırken dikkat edilmesi gereken hususlardan biri <u>değildir</u>?</strong>
     - A-) Konuşmacının temas ettiği noktaları not almak
     - B-) Tutulan notun ana tezini iyi tespit etmek
@@ -1280,21 +1307,28 @@ Yalağında bulutlar yıkanan &ccedil;eşmeye.<br />
 II. Konuyla ilgili b&uuml;t&uuml;n detayları i&ccedil;eriğinde bulundurmak<br />
 III. Sade ve a&ccedil;ık bir dil kullanmak<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri iyi bir &ouml;zetin taşıması gereken &ouml;zellikler arasında yer alır?</strong>
-    - A-) Yalnız I
+    - A-) Yalnız&nbsp;I
     - B-) Yalnız II
-    - C-) I ve II
-    - **Cevap D-) I ve III**
-    - E-) I, II ve III
+    - C-) I ve&nbsp;II
+    - **Cevap D-) I ve&nbsp;III**
+    - E-) I,&nbsp;II ve III
     <hr />
 1. I. Konuşmacıların b&uuml;t&uuml;n s&ouml;ylediklerini kayıt altına alır.<br />
 II. Sıklıkla okuma yaparak kelime hazinesini geliştirir.<br />
 III. Etkili soru sorma becerisine sahiptir.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri iyi bir dinleyicinin &ouml;zellikleri arasında yer alır?</strong>
-    - A-) Yalnız I
-    - B-) I ve II
-    - C-) I ve III
-    - **Cevap D-) II ve III**
-    - E-) I, II ve III
+    - A-) Yalnız&nbsp;I
+    - B-) I ve&nbsp;II
+    - C-) I ve&nbsp;III
+    - **Cevap D-) II ve&nbsp;III**
+    - E-) I,&nbsp;II ve&nbsp;III
+    <hr />
+1. <strong>Aktif dinleme becerisine sahip biri, dinleme s&uuml;recinde aşağıdaki davranışlardan hangisini&nbsp;<u>yapmamalıdır</u>?</strong>
+    - **Cevap A-) Konuşmacıyı rahatsız etmemek i&ccedil;in, konuşmacıyla g&ouml;z teması kurmaz.**
+    - B-) Son s&ouml;z&uuml; s&ouml;ylemek i&ccedil;in &ccedil;abalamaz.
+    - C-) Konuşmacıyı su&ccedil;lamadan dinler.
+    - D-) Konuşmacıya sıkıldığını g&ouml;steren davranışlardan ka&ccedil;ınır.
+    - E-) Beden duruşunu konuşan kişiye g&ouml;re ayarlar.
     <hr />
 1. <strong>Aşağıdakilerden hangisi dinleme s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - A-) Se&ccedil;me ve alma
@@ -1403,6 +1437,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - **Cevap D-) Parazit sesler**
     - E-) G&uuml;&ccedil;s&uuml;zl&uuml;k
     <hr />
+1. <strong>Aşağıdakilerden hangisi konuşma &ccedil;eşitleri arasında <u>yer almaz</u>?</strong>
+    - A-) Bilgilendirici konuşma
+    - B-) Tartışma
+    - C-) İnandırıcı konuşma
+    - D-) G&uuml;nl&uuml;k konuşma
+    - **Cevap E-) Eleştirel konuşma**
+    <hr />
 1. Konuşma faaliyetini destekleyen dil &hellip;&hellip;&hellip;........&hellip; olarak adlandırılmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) g&uuml;nl&uuml;k konuşma dili
@@ -1419,6 +1460,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) G&uuml;&ccedil;s&uuml;zl&uuml;k
     - E-) Parazit sesler
     <hr />
+1. <strong>Aşağıdakilerden hangisi konuşmayı meydana getiren unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Ses
+    - B-) Solunum
+    - C-) Boğumlama
+    - **Cevap D-) &Ouml;rg&uuml;tleme**
+    - E-) Kelime hazinesi
+    <hr />
 ## Unite 11
 1. Bakışların karşıdaki insanın g&ouml;zleri ve ağzı arasındaki kısma y&ouml;nelmesi olarak adlandırılmaktadır. Bu daha &ccedil;ok resm&icirc; bir bakıştır.<br />
 <strong>A&ccedil;ıklaması yapılan bakış &ccedil;eşidi aşağıdakilerden hangisidir?</strong>
@@ -1428,8 +1476,7 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) Yan bakış
     - E-) Dik bakış
     <hr />
-1. Beden dili davranışlarında g&ouml;z bebeklerinin hem fiziksel yapısı hem de y&ouml;neldikleri nokta birtakım mesajlar vermektedir.<br />
-<strong>Buna g&ouml;re g&ouml;z bebeklerinin b&uuml;y&uuml;mesi aşağıdakilerden hangisini işaret eder?</strong>
+1. <strong>Beden dili davranışlarında g&ouml;z bebeklerinin b&uuml;y&uuml;mesi aşağıdakilerden hangisini işaret eder?</strong>
     - A-) Kişinin ilgisinin azalmaya başladığını ya da kaygılandığını
     - B-) Kişinin &ouml;fkelendiğini, mutsuz olduğunu
     - C-) Kişinin bir şeyi olumsuz ya da ş&uuml;pheli g&ouml;rd&uuml;ğ&uuml;n&uuml;
@@ -1520,6 +1567,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) G&ouml;z renkleri beden dilini yansıtır.
     - E-) G&ouml;zleri parlak olan insanları g&uuml;&ccedil;l&uuml; karakterler olarak tanımlayabiliriz.
     <hr />
+1. <strong>Beden dili &ouml;gelerinden g&ouml;zlerin ifade ettiği mesajlarla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
+    - A-) G&ouml;z bebekleri ortamın ışık durumuna g&ouml;re değişiklik g&ouml;stermez.
+    - B-) G&ouml;z kapaklarının birbirinden uzaklaşması bir olaya karşı ilgisizliğin g&ouml;stergesidir.
+    - C-) G&ouml;z bebeklerinin k&uuml;&ccedil;&uuml;lmesi kişinin heyecanlandığını anlatır.
+    - D-) Konuşma esnasında g&ouml;z teması kesinlikle kurulmamalıdır.
+    - **Cevap E-) G&ouml;z bebeklerinin sağa ya da sola kayması kişilerin d&uuml;ş&uuml;nceleri hakkında fikir verir.**
+    <hr />
 ## Unite 12
 1. <strong>Başı &ouml;ne eğik, g&ouml;z teması kurmaktan ka&ccedil;ınan bir &ccedil;ocuğun beden duruşu aşağıdakilerden hangisiyle ifade edilir?</strong>
     - **Cevap A-) Utanmış**
@@ -1584,7 +1638,7 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - **Cevap D-) &Ccedil;elişkili**
     - E-) Hareketli
     <hr />
-1. <strong> İnsanların yakın arkadaşlarının girebildikleri alan aşağıdakilerden hangisidir?</strong>
+1. <strong>&nbsp;İnsanların yakın arkadaşlarının girebildikleri alan aşağıdakilerden hangisidir?</strong>
     - A-) Mahrem Alan
     - B-) Sosyal Alan
     - C-) Genel Alan
@@ -1633,6 +1687,20 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - D-) Reddetme
     - **Cevap E-) Korkma**
     <hr />
+1. <strong>Ellerini kenetleyerek oturan kişinin beden dili a&ccedil;ısından yaptığı hata nedir?</strong>
+    - A-) Sinirli bir imaj vermesi
+    - B-) &Uuml;z&uuml;nt&uuml;l&uuml; g&ouml;z&uuml;kmesi
+    - C-) Tehditk&acirc;r olması
+    - **Cevap D-) Gizlenen bir şey olduğu izlenimini vermesi**
+    - E-) Karşı tarafı k&uuml;&ccedil;&uuml;mser g&ouml;z&uuml;kmesi
+    <hr />
+1. <strong>İletişim s&uuml;recinde kişiler arasındaki sosyal mesafenin sınırları temelde neye g&ouml;re belirlenir?</strong>
+    - A-) Yaş
+    - B-) Cinsiyet
+    - C-) Stat&uuml;
+    - D-) G&uuml;ven
+    - **Cevap E-) Yakınlık**
+    <hr />
 1. <strong>İletişim anında, bireyin omuzlarını aşağı d&uuml;ş&uuml;r&uuml;p i&ccedil;eri doğru b&uuml;kmesi ne t&uuml;r bir beden dili anlamı i&ccedil;erir?</strong>
     - A-) M&uuml;tavazı olma
     - **Cevap B-) Kendinden emin olamama**
@@ -1648,6 +1716,13 @@ III. Etkili soru sorma becerisine sahiptir.<br />
     - **Cevap E-) Muhataplar arasında sağlıklı bir iletişimin kurulduğu**
     <hr />
 ## Unite 13
+1. <strong>M&uuml;nazara ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Ağırlıklı olarak g&uuml;ncel, sosyal ve siyasi meseleler tartışılır.
+    - B-) Sunum esnasında daha &ouml;nce alınan notlardan yararlanılabilir.
+    - C-) Karşıt g&ouml;r&uuml;şleri savunan iki takım vardır.
+    - D-) Konuşmalar j&uuml;ri tarafından değerlendirilir.
+    - **Cevap E-) Karşı takım konuşurken benimsenmeyen fikirler derh&acirc;l &ccedil;&uuml;r&uuml;t&uuml;lmelidir.**
+    <hr />
 1. A&ccedil;ık oturumda izleyicilerin sorularını almak ve cevaplamak m&uuml;mk&uuml;nd&uuml;r.<br />
 <strong>Bu durumda a&ccedil;ık oturum aşağıdakilerden hangisine d&ouml;n&uuml;ş&uuml;r?</strong>
     - A-) Panel
@@ -1745,6 +1820,14 @@ III. Dinleyiciler g&ouml;r&uuml;şlerini a&ccedil;ıklayabilir.<br />
     - D-) Konuşmaları y&ouml;neten bir hatip bulunur.
     - **Cevap E-) Konuşmacıların sayısı 5 ya da 6 kişiyi ge&ccedil;memelidir.**
     <hr />
+1. &hellip;&hellip;&hellip;&hellip;.., kişilerin seviyeli bir &uuml;slupla birbirinden farklı olan g&ouml;r&uuml;şlerini bilimsel delil, belge ve kayıtlara dayandırarak savundukları bir konuşma t&uuml;r&uuml;d&uuml;r.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) M&uuml;nazara
+    - **Cevap B-) Tartışma**
+    - C-) Konferans
+    - D-) Nutuk
+    - E-) A&ccedil;ık Oturum
+    <hr />
 1. &ldquo;Eleştirel ve analitik d&uuml;ş&uuml;nme becerisini artırır.&rdquo;<br />
 <strong>Yukarıda verilen &ouml;zellik hangi konuşma t&uuml;r&uuml;ne aittir?</strong>
     - A-) A&ccedil;ık oturum
@@ -1770,8 +1853,8 @@ III. Eleştirel ve analitik d&uuml;ş&uuml;nme becerisi kazandırır.<br />
     - **Cevap D-) Oturum esnasında konuyla ilgili tercih ettiği g&ouml;r&uuml;ş&uuml; ifade eder.**
     - E-) Oturum &ouml;ncesi giriş konuşmasını yapar.
     <hr />
-1. Ey benim, namlı, şerefli, sadık emirlerim! <br />
-İyi bilirsiniz ki &uuml;st&uuml;nde durduğumuz şu memleket ve maliki olduğumuz bu devlet, nice m&uuml;şkil muharebe ve m&uuml;cahedeler sonunda, ecdadımız tarafından kazanılmış ve bize nasip olmuştur. <br />
+1. Ey benim, namlı, şerefli, sadık emirlerim!<br />
+İyi bilirsiniz ki &uuml;st&uuml;nde durduğumuz şu memleket ve maliki olduğumuz bu devlet, nice m&uuml;şkil muharebe ve m&uuml;cahedeler sonunda, ecdadımız tarafından kazanılmış ve bize nasip olmuştur.<br />
 Diyarı Rum&#39;a az zamanda sahip olan ecdadımız, Allah&#39;ın azamet ve kudretine, peygamberimiz Hazreti Muhammed&#39;in imdad-ı ruhaniyesine sığınarak, b&uuml;t&uuml;n Asya ve Avrupa&#39;da diledikleri her cengi kazanmışlardır.<br />
 Bug&uuml;n sizlere derim ki (...)<br />
 <strong>Bu metin aşağıdaki s&ouml;zl&uuml; anlatım t&uuml;rlerinden hangisine aittir?</strong>
@@ -1795,6 +1878,13 @@ Bug&uuml;n sizlere derim ki (...)<br />
     - C-) Sunuma y&ouml;nelik araştırma yapılır.
     - D-) Sunumu yapacak d&uuml;zeye, bilgi birikimine ve isteğe sahip kişiler belirlenir.
     - E-) Seminer konuları gerektiğinde basıma da uygun hazırlanmalıdır.
+    <hr />
+1. <strong>Forumu y&ouml;neten başkan aşağıdakilerden hangisini <u>yapmamalıdır</u>?</strong>
+    - A-) Forumun nasıl d&uuml;zenleneceği hakkında bilgi vermeli
+    - B-) Tartışmaların konu dışına &ccedil;ıkmasını &ouml;nlemeli
+    - C-) Dinleyicilerin tartışmalara katılmalarını sağlamalı
+    - **Cevap D-) Forum sonunda konuşmacıları tanıtmalı**
+    - E-) Anlaşılmayan konularla ilgili a&ccedil;ıklamalar yapmalı
     <hr />
 1. Yerli veya yabancı alan uzmanlarının katıldığı, bir defaya mahsus veya belli zaman aralıklarıyla tekrarlanan toplantılardır.<br />
 <strong>A&ccedil;ıklaması yapılan s&ouml;zl&uuml; anlatım t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
@@ -1874,7 +1964,7 @@ IV.Sempozyum<br />
     - D-) A&ccedil;ık Oturum
     - E-) Konferans
     <hr />
-1. I. Panel<br />
+1. I.&nbsp;Panel<br />
 II. A&ccedil;ık Oturum<br />
 III. Kongre<br />
 IV. Sempozyum<br />
@@ -1901,11 +1991,21 @@ IV. Sempozyum<br />
     - E-) Kongre
     <hr />
 1. <strong>Mek&acirc;ndan bağımsız olarak uzaktan eğitim yoluyla yapılan canlı dersler hangi konuşma t&uuml;r&uuml; kapsamında ele alınır?</strong>
-    - A-) Tartışma 
+    - A-) Tartışma
     - B-) S&ouml;ylev
     - **Cevap C-) Telekonferans**
     - D-) M&uuml;nazara
     - E-) A&ccedil;ılış konuşması
+    <hr />
+1. I. Konuşmacı ve dinleyicilerin aynı mek&acirc;nda olması zorunluluğu ortadan kalkar.<br />
+II. Konuşmacılar birden fazla mek&acirc;nda bulunan dinleyicilere hitap etme imk&acirc;nı bulurlar.<br />
+III. Katılımcı ve d&uuml;zenleyicilere zaman ve maliyet a&ccedil;ısından tasarruf imk&acirc;nı sunar.<br />
+<strong>Yukarıda &ouml;zellikleri verilen s&ouml;zl&uuml; anlatım t&uuml;r&uuml;ne ne ad verilir?</strong>
+    - A-) M&uuml;nazara
+    - B-) S&ouml;yleşi
+    - C-) Konferans
+    - **Cevap D-) Telekonferans**
+    - E-) Kongre
     <hr />
 1. Toplumu yakından ilgilendiren herhangi bir konu hakkında, dinleyiciler karşısında farklı uzman kişilerin konu ya da olayla ilgili yaptığı seri konuşmalara ............ adı verilir. Bu t&uuml;r konuşmalarda belirlenen bir konu &uuml;zerinde &ccedil;alışma yapan alanın uzmanları bir araya getirilir ve sunulacak konular tasnif edilerek oturumlar d&uuml;zenlenir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>

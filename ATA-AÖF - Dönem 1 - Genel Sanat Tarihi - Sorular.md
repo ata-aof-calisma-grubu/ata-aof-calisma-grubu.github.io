@@ -210,7 +210,8 @@ Boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmelidir?
     - **Cevap D-) Hititlerin**
     - E-) Friglerin
     <hr />
-1. <strong>M&Ouml; 725-675 yıllarında Anadolu&rsquo;ya g&ouml;&ccedil; eden Balkan k&ouml;kenli boylardan olup siyasi bir topluluk olarak ilk defa M&Ouml; 750&rsquo;den sonra Hitit İmparatorluğu&rsquo;nun yıkılmasının ardından Anadolu&#39;da kurulan uygarlık aşağıdakilerden hangisidir?</strong>
+1. <div style="text-align: justify;">
+	<strong>M&Ouml; 725-675 yıllarında Anadolu&rsquo;ya g&ouml;&ccedil; eden Balkan k&ouml;kenli boylardan olup siyasi bir topluluk olarak ilk defa M&Ouml; 750&rsquo;den sonra Hitit İmparatorluğu&rsquo;nun yıkılmasının ardından Anadolu&#39;da kurulan uygarlık aşağıdakilerden hangisidir?</strong></div>
     - A-) Likya
     - B-) Lidya
     - C-) Urartu
@@ -369,7 +370,7 @@ III. Alişar<br />
     - D-) Tapınak
     - E-) Sfenks
     <hr />
-1. <strong>Antik &Ccedil;ağ&#39;da yaşamış Sami dillerine mensup bir dil konuşan Akdenizli kavimdir. Kenan toprakları olarak adlandırılan g&uuml;n&uuml;m&uuml;zde L&uuml;bnan, İsrail, Suriye, &Uuml;rd&uuml;n, Gazze ve T&uuml;rkiye&#39;nin g&uuml;ney kıyılarını i&ccedil;ine alan b&ouml;lgede yaşayan medeniyet aşağıdakilerden hangisidir?</strong>
+1. <strong>Antik &Ccedil;ağ&#39;da yaşamış, Sami dillerine mensup bir dil konuşan Akdenizli kavimdir. Kenan toprakları olarak adlandırılan, g&uuml;n&uuml;m&uuml;zde L&uuml;bnan, İsrail, Suriye, &Uuml;rd&uuml;n, Gazze ve T&uuml;rkiye&#39;nin g&uuml;ney kıyılarını i&ccedil;ine alan b&ouml;lgede yaşayan medeniyet aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Fenike**
     - B-) Lidya
     - C-) Urartu
@@ -530,7 +531,7 @@ III. Ev Mimarisi<br />
     <hr />
 1. <strong>Eski Roma&#39;da zafer kazanan komutan ve imparatorlar adına inşa edilen, &uuml;zeri tonoz kemerle &ouml;rt&uuml;l&uuml; bir ya da &uuml;&ccedil; g&ouml;zl&uuml; ge&ccedil;itlere sahip olan yapılara ne ad verilir?</strong> 
     - A-) Mausoleum
-    - **Cevap B-) Tak**
+    - **Cevap B-) Taklar**
     - C-) Su kemeri
     - D-) Castrum
     - E-) Nimfeum
@@ -556,6 +557,13 @@ III. Ev Mimarisi<br />
     - **Cevap C-) Nimfeum**
     - D-) Selsebil
     - E-) Forum
+    <hr />
+1. <strong>Aşağıdakilerden hangisi Vez&uuml;v Dağı&#39;nın MS 79 yılındaki patlamasıyla k&uuml;l ve pomza altına g&ouml;m&uuml;len şehirdir?</strong>
+    - **Cevap A-) Pompei**
+    - B-) Ravenna
+    - C-) Roma
+    - D-) Atina
+    - E-) Napoli
     <hr />
 1. <strong>Aşağıdakilerden hangisi Ege uygarlıklarından biri <u>değildir</u>?</strong>
     - A-) Dor
@@ -673,7 +681,7 @@ III. Klasik D&ouml;nem: Fig&uuml;rlerde idealizm &ouml;n plandadır, yapılan he
     - D-) Franklar
     - **Cevap E-) Roma**
     <hr />
-1. M&Ouml; 7. y&uuml;zyıldan itibaren tanrılar i&ccedil;in inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların bi&ccedil;imi, s&uuml;slemesi, planı belirli kurallara bağlanmıştır. Bu kurallara &ldquo;nizam&rdquo; adı verilmektedir. Tapınakların hangi nizama g&ouml;re yapıldığı cephe d&uuml;zeni ve s&uuml;tun başlıklarından anlaşılmaktadır.<strong>
+1. M&Ouml; 7. y&uuml;zyıldan itibaren tanrılar i&ccedil;in inşa edilen, taştan yapılmaya başlanan tapınaklar ve bunların bi&ccedil;imi, s&uuml;slemesi, planı belirli kurallara bağlanmıştır. Bu kurallara &ldquo;nizam&rdquo; adı verilmektedir. Tapınakların hangi nizama g&ouml;re yapıldığı cephe d&uuml;zeni ve s&uuml;tun başlıklarından anlaşılmaktadır.<strong><br />
 Bu nizamların isimleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Dor, İyon ve Korint**
     - B-) Dor, Samerra ve Ampir
@@ -828,6 +836,14 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) İstanbul&rsquo;da
     - E-) Antakya&rsquo;da
     <hr />
+1. Bizans mimarisinde &ccedil;eşitli plan tipleri uygulanmıştır.<br />
+<strong>Aşağıdakilerden hangisi bu plan tiplerinden biri <u>değildir</u>?</strong>
+    - A-) Bazilikal plan
+    - B-) Merkez&icirc; plan
+    - C-) Serbest ve Yunan ha&ccedil;ı plan
+    - D-) Kubbeli bazilika planı
+    - **Cevap E-) T plan**
+    <hr />
 1. <strong>Kariye Camii (Khora Manastırı) nerede bulunmaktadır?</strong>
     - A-) Trabzon
     - **Cevap B-) İstanbul**
@@ -901,6 +917,13 @@ III. &Ccedil;emberlitaş S&uuml;tunu<br />
     - B-) Meşatta
     - **Cevap C-) Kasr&uuml;&rsquo;l-Hayru&rsquo;l-Garb&icirc;**
     - D-) Mescid-i Aksa
+    - E-) Hırbet&uuml;&rsquo;l-Mefcer
+    <hr />
+1. <strong>End&uuml;l&uuml;s Emevilerinin en &ouml;nemli eserlerinden biridir. Daro ve Genil Irmaklarına bakan sarp bir tepenin &uuml;zerinde, ilk olarak 9. y&uuml;zyılda inşa edilen sarayın bug&uuml;n ayakta kalan b&ouml;l&uuml;mlerinin b&uuml;y&uuml;k kısmı I. Yusuf (1333-54) ve Gani Bill&acirc;h V. Muhammed (1354-59, 1362-91) tarafından inşa edilen eser aşağıdakilerden hangisidir?</strong>
+    - A-) Kuseyr Amra
+    - B-) Meşatta
+    - C-) Kasr&uuml;&rsquo;l-Hayru&rsquo;l-Garb&icirc;
+    - **Cevap D-) Elhamra**
     - E-) Hırbet&uuml;&rsquo;l-Mefcer
     <hr />
 1. İspanya&#39;nın Cordoba şehrinde ilk olarak I. Abdurrahman tarafından 785 - 86 yılında 75,00 x 100,00 m ebatlarında yaptırılan, &ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&rdquo;, daha sonraki yapılan eklemelerle genişletilmiş, 178,00 x 125,00 m &ouml;l&ccedil;&uuml;lerinde 22.000 m<sup>2&#39;</sup>lik alana kurulmuştur. End&uuml;l&uuml;s Emevilerinin başkentindeki en anıtsal ve ihtişamlı eserdir.<br />
@@ -1106,7 +1129,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap D-) M&uuml;mine Hatun T&uuml;rbesi**
     - E-) Sultan Sencer T&uuml;rbesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi Karahanlı devri mimarlık &ouml;rneklerindendir?</strong>
+1. <strong>Aşağıdakilerden hangisi Karahanlı Devri mimarlık &ouml;rneklerindendir?</strong>
     - **Cevap A-) Talhatan Baba Camii**
     - B-) Leşkeri Bazar Sarayı
     - C-) Rey Medresesi
@@ -1176,6 +1199,13 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - C-) Hun Devleti
     - D-) Avarlar
     - **Cevap E-) G&ouml;kt&uuml;rkler**
+    <hr />
+1. <strong>Afganistan sınırları i&ccedil;erisinde Alp Tegin tarafından kurulan, 961 - 1187 arasında h&uuml;k&uuml;m s&uuml;ren, Leşker-i Bazar Sarayı, Leşker-i Bazar Ulu Camii ve Ribat-ı Mahi gibi eserleri T&uuml;rk-İslam mimarisine kazandıran devlet aşağıdakilerden hangisidir?</strong>
+    - A-) Karahanlılar
+    - B-) Anadolu Sel&ccedil;uklu Devleti
+    - C-) Samaniler
+    - **Cevap D-) Gazneliler**
+    - E-) M&uuml;vahidler
     <hr />
 1. I. Anav<br />
 II. Karasuk<br />
@@ -1312,7 +1342,8 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Tercan Mama Hatun T&uuml;rbesi
     - **Cevap E-) I.İzzeddin Keykavus T&uuml;rbesi**
     <hr />
-1. <strong>&ldquo;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; kubbe kasnağındaki &uuml;&ccedil;gen kesitli nişlerin i&ccedil;erisine, g&ouml;vdesi d&uuml;ğ&uuml;ml&uuml; &ccedil;ift başlı ejder, yarasa, kartal, tavşan, boğa gibi hayvan fig&uuml;rlerinin yanı sıra grifon, insan başı ve hayat ağacı tasvirleri işlenmiştir. Orta Asya T&uuml;rk sanatı etkilerinin Anadolu&rsquo;da temsilciliğini yapması bakımından &ouml;nemlidir.&rdquo; C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; kubbe kasnağındaki &uuml;&ccedil;gen kesitli nişlerin i&ccedil;erisine, g&ouml;vdesi d&uuml;ğ&uuml;ml&uuml; &ccedil;ift başlı ejder, yarasa, kartal, tavşan, boğa gibi hayvan fig&uuml;rlerinin yanı sıra grifon, insan başı ve hayat ağacı tasvirleri işlenmiştir. Orta Asya T&uuml;rk sanatı etkilerinin Anadolu&rsquo;da temsilciliğini yapması bakımından &ouml;nemlidir.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Ahlat Ulu K&uuml;mbet
     - **Cevap B-) Erzurum Emir Saltuk K&uuml;mbeti**
     - C-) Konya II. Kılı&ccedil;arslan T&uuml;rbesi
@@ -1327,7 +1358,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Niksar Yağıbasan Medresesi
     - E-) Niksar Kırkkızlar K&uuml;mbeti
     <hr />
-1. Artuklular; cami, medrese, t&uuml;rbe, hamam, k&ouml;pr&uuml; ve saray başta olmak &uuml;zere mimarinin pek &ccedil;ok kolunda yapılar inşa etmişlerdir.<strong>
+1. Artuklular; cami, medrese, t&uuml;rbe, hamam, k&ouml;pr&uuml; ve saray başta olmak &uuml;zere mimarinin pek &ccedil;ok kolunda yapılar inşa etmişlerdir.<strong><br />
 Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</u>?</strong>
     - **Cevap A-) Divriği K&uuml;lliyesi**
     - B-) Silvan Ulu Camii
@@ -1542,6 +1573,13 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - **Cevap D-) &Ccedil;oban Mustafa Paşa K&ouml;pr&uuml;s&uuml;**
     - E-) Mağlova K&ouml;pr&uuml;s&uuml;
     <hr />
+1. <strong>Mimar Sinan&rsquo;ın 1568 tarihinde yaptığı, ortasında g&ouml;rkemli bir tarih k&ouml;şk&uuml; bulunan, denizle g&ouml;l&uuml; birleştiren boğazın &uuml;zerine yapılan, toplam 28 sivri kemer g&ouml;zl&uuml; d&ouml;rt k&ouml;pr&uuml;den oluşan 636 metre uzunluğa sahip k&ouml;pr&uuml; aşağıdakilerden hangisidir?</strong> 
+    - **Cevap A-) B&uuml;y&uuml;k &Ccedil;ekmece K&ouml;pr&uuml;s&uuml;**
+    - B-) &Ccedil;obandede K&ouml;pr&uuml;s&uuml;
+    - C-) Purut K&ouml;pr&uuml;s&uuml;
+    - D-) &Ccedil;oban Mustafa Paşa K&ouml;pr&uuml;s&uuml;
+    - E-) Mağlova K&ouml;pr&uuml;s&uuml;
+    <hr />
 1. <strong>Cumhuriyet D&ouml;nemi mimari eserleri arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
     - A-) Cumhurbaşkanlığı K&ouml;şk&uuml;
     - B-) Merkez Bankası
@@ -1619,7 +1657,7 @@ Buna g&ouml;re aşağıdakilerden hangisi Artuklu mimari yapısı <u>değildir</
     - D-) R&uuml;stem Paşa Camii
     - E-) Valide Sultan Camii
     <hr />
-1. 19. y&uuml;zyılda Batılılaşma Hareketi&#39;ne bağlı olarak eğitim sisteminde yağlı boya resim sanatının yer aldığı g&ouml;r&uuml;l&uuml;r. Bu bağlamda Batılı anlamda eğitim verecek resim dersini m&uuml;fredatına d&acirc;hil eden asker&icirc; okullar kurulur ve ilk T&uuml;rk ressamları da bu asker&icirc; okullardan yetişir.<strong>
+1. 19. y&uuml;zyılda Batılılaşma Hareketi&#39;ne bağlı olarak eğitim sisteminde yağlı boya resim sanatının yer aldığı g&ouml;r&uuml;l&uuml;r. Bu bağlamda Batılı anlamda eğitim verecek resim dersini m&uuml;fredatına d&acirc;hil eden asker&icirc; okullar kurulur ve ilk T&uuml;rk ressamları da bu asker&icirc; okullardan yetişir.<strong><br />
 Aşağıdakilerden hangisi bu okullardan biridir?</strong>
     - A-) Osmanlı Ressamlar Cemiyet
     - B-) Sanayi-i Nefise Mektebi
@@ -1991,7 +2029,7 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - D-) İzmir
     - **Cevap E-) İznik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi k</strong><strong>ırmızı hamurlu İznik seramiklerinde g&ouml;r&uuml;len teknikler arasında  <u>yer almaz</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi k</strong><strong>ırmızı hamurlu İznik seramiklerinde g&ouml;r&uuml;len teknikler arasında <u>yer almaz</u>?</strong>
     - A-) Astar boyama (slip)
     - B-) Milet İşi
     - C-) Tek renk sırlı
@@ -2032,6 +2070,13 @@ III. Fovizm &ndash;Henri Matisse-Okuyan Kadın<br />
     - C-) &Ccedil;eşmib&uuml;lb&uuml;l ve mavi beyaz
     - **Cevap D-) D&ouml;k&uuml;m ve d&ouml;vme**
     - E-) Tombak ve billur
+    <hr />
+1. <strong>Dokumalarda tezg&acirc;ha dik gerilen iplere verilen isim aşağıdakilerden hangisidir?</strong>
+    - A-) Cicim
+    - B-) Halı
+    - **Cevap C-) &Ccedil;&ouml;zg&uuml;**
+    - D-) Atkı
+    - E-) Mekik
     <hr />
 1. T&uuml;rk dokuma sanatında &hellip;...............&hellip;. olduk&ccedil;a yaygın bir şekilde kullanılmıştır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
@@ -2205,4 +2250,15 @@ III. Uşak<br />
     - C-) Halkari
     - D-) Cilt
     - E-) Tezhip
+    <hr />
+1. I. Ahar<br />
+II. Divit<br />
+III. Hokka<br />
+IV. M&uuml;hre <br />
+<strong>Yukarıdakilerden hangisi ya da hangileri hat sanatında kullanılan ara&ccedil; gere&ccedil;ler arasında yer alır?</strong>
+    - A-) I ve II
+    - B-) Yalnız III
+    - C-) Yalnız IV
+    - D-) II ve IV
+    - **Cevap E-) I, II, III ve IV**
     <hr />

@@ -30,11 +30,11 @@
     - **Cevap E-) Anlamalı bilgi- felsefe, dil, k&uuml;lt&uuml;r**
     <hr />
 1. <strong>Aşağıdakilerden hangisinde niteliği bakımından bilgi t&uuml;rlerinin &ouml;zne-nesne arasındaki bağı <u>yanlış</u> tanımlanmıştır?</strong>
-    - A-) G&uuml;ndelik bilgi- sezgi, deneyim
-    - B-) Dinsel bilgi- inan&ccedil;
-    - C-) Teknik bilgi- beceri, yetenek
-    - **Cevap D-) Sanatsal bilgi- akıl y&uuml;r&uuml;tme**
-    - E-) Bilimsel bilgi- deney, g&ouml;zlem
+    - A-) G&uuml;ndelik bilgi - sezgi, deneyim
+    - B-) Dinsel bilgi - inan&ccedil;
+    - C-) Teknik bilgi - beceri, yetenek
+    - **Cevap D-) Sanatsal bilgi - akıl y&uuml;r&uuml;tme**
+    - E-) Bilimsel bilgi - deney, g&ouml;zlem
     <hr />
 1. <strong>Aşağıdakilerden hangisi sosyolojik a&ccedil;ıdan bilginin nitelikleri arasında <u>yer almaz</u>?</strong>
     - A-) Kişisel yaşantının m&uuml;kemmelleşmesi, varlığın değişmesi ve ger&ccedil;eğin tanınmasını sağlar.
@@ -78,6 +78,13 @@
     - D-) Felsefi d&uuml;ş&uuml;nce yansıtıcı bir d&uuml;ş&uuml;nme faaliyetinin sonucudur.
     - **Cevap E-) Felsefi bilgi bir olgunun doğru olup olmadığının araştırılması etkinliğidir.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi sanayi toplumundan bilgi toplumuna ge&ccedil;iş s&uuml;recinin temelinde yatan etkenler arasında <u>yer almaz</u>?</strong>
+    - A-) Bilgi-iletişim teknolojilerinin gelişmesi
+    - B-) İnternet ağlarının yaygınlaşması
+    - **Cevap C-) Toplumsal sınıfların belirginleşmesi**
+    - D-) Medya ilişkilerinin yeniden d&uuml;zenlenmesi
+    - E-) Dijital teknolojilerin her ge&ccedil;en g&uuml;n ilerlemesi
+    <hr />
 1. Bilgi toplumu farklı d&uuml;ş&uuml;n&uuml;r ve yazarlar tarafından farklı isimlerle adlandırılmıştır.<br />
 <strong>Aşağıdakilerden hangisi bu isimler arasında <u>yer almaz</u>?</strong>
     - A-) Sanayi sonrası toplum
@@ -104,9 +111,9 @@
 1. <strong>Otto Neurath tarafından ortaya &ccedil;ıkarılmış ve s&ouml;zc&uuml;klerin yerine ge&ccedil;en resimsel dil olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) ISOTYPE**
     - B-) Piktogram
-    - C-) Bilgilendirme Tasarımı
+    - C-) Bilgilendirme tasarımı
     - D-) Tipografi
-    - E-) Bilgilendirme Grafiği
+    - E-) Bilgilendirme grafiği
     <hr />
 1. <strong>Aşağıdakilerden hangisi piktogramların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Sade ve anlaşılır olması
@@ -185,6 +192,13 @@
     - **Cevap D-) Haritalar**
     - E-) Logo Tasarımları
     <hr />
+1. <strong>&ldquo;Sade ve anlaşılır, evrensel olarak anlaşılabilir ve standart renklere sahiptir.&rdquo; tanımı aşağıdakilerden hangisine aittir?</strong>
+    - A-) G&ouml;rsel
+    - B-) Renk
+    - C-) Diyagram
+    - **Cevap D-) Piktogram**
+    - E-) Tipografi
+    <hr />
 ## Unite 3
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Dok&uuml;man Tasarımı
@@ -228,7 +242,7 @@
     - D-) &Ccedil;ubuk grafikler
     - E-) Yığınlı s&uuml;tun grafikler
     <hr />
-1. <strong>Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en &ouml;nemli &ouml;rnek aşağıdakilerden hangisidir?</strong>
+1. <strong>Bilgilendirme tasarımında gelişmiş tablo kullanımına ilişkin en &ouml;nemli &ouml;rnek&nbsp;aşağıdakilerden hangisidir?</strong>
     - A-) Demografik &ouml;zellik tablosu
     - B-) Yayılım tablosu
     - **Cevap C-) Periyodik tablo**
@@ -313,7 +327,8 @@
     - D-) Edinilen bilginin farklı şekillerde organize edebilmesini sağlar
     - E-) Bilginin ge&ccedil;miş &ouml;ğrenilenlerle ilişkilendirilebilmesine aracılık eder
     <hr />
-1. <strong>Teknolojinin eğitime entegrasyonu ile &ouml;ğrenme s&uuml;recinde &ouml;nemli kazanımlar elde edilmiştir. Aşağıdakilerden hangisi bu kazanımlar arasında <u>yer almaz</u>?</strong>
+1. Teknolojinin eğitime entegrasyonu ile &ouml;ğrenme s&uuml;recinde &ouml;nemli kazanımlar elde edilmiştir.<strong><br />
+Aşağıdakilerden hangisi bu kazanımlar arasında <u>yer almaz</u>?</strong>
     - A-) &Ouml;ğrenenin bilgiyi yalnız g&ouml;rsel ya da işitsel yolla kazanmasını değil, aynı zamanda aktif katılarak &ouml;ğrenme s&uuml;recini y&ouml;netebilmesini sağlar.
     - B-) &Ouml;ğrenenin kendi bilişsel s&uuml;recine g&ouml;re etkili &ouml;ğrenmenin daha hızlı ve kalıcı ger&ccedil;ekleşmesini sağlar.
     - C-) &Ouml;ğrenenin &ouml;ğrenme s&uuml;reci &uuml;zerinde kontrol sahibi olmasını sağlar.
@@ -321,11 +336,11 @@
     - **Cevap E-) Bilginin edinim s&uuml;recinde &ccedil;evrenin rol&uuml;n&uuml; tanımlar.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;oklu ortam &ouml;ğrenme aracı olarak bilgilendirme tasarımlarının &ouml;ğrenmeye ilişkin kazanımları arasında <u>yer almaz</u>?</strong>
-    - A-) Metin ve g&ouml;rsellerin bir arada sunulduğu i&ccedil;erikler, yalnızca metinden &ouml;ğrenmenin sağlandığı ortamlara g&ouml;re daha etkilidir
-    - **Cevap B-) İkiden fazla y&ouml;ntemin bir arada kullanılması kazanımların artmasını sağlar**
-    - C-) İ&ccedil;erikle ilgili olmayan yazı, g&ouml;r&uuml;nt&uuml; ya da seslerin &ouml;ğrenme ortamına dahil edilmediği durumlarda &ouml;ğrenme daha etkili ger&ccedil;ekleşir
-    - D-) Metin ve g&ouml;rselin aynı anda sunulması yerine s&ouml;zl&uuml; anlatım, seslendirme ve canlandırmanın kullanılması bilginin ediniminde daha etkilidir
-    - E-) İlişkili metin ve g&ouml;rseller bir arada sunulduğunda arka arkaya sunulduğu ortamlar ya da materyallere g&ouml;re kazanımlar daha fazladır
+    - A-) Metin ve g&ouml;rsellerin bir arada sunulduğu i&ccedil;erikler, yalnızca metinden &ouml;ğrenmenin sağlandığı ortamlara g&ouml;re daha etkilidir.
+    - **Cevap B-) İkiden fazla y&ouml;ntemin bir arada kullanılması kazanımların artmasını sağlar.**
+    - C-) İ&ccedil;erikle ilgili olmayan yazı, g&ouml;r&uuml;nt&uuml; ya da seslerin &ouml;ğrenme ortamına d&acirc;hil edilmediği durumlarda &ouml;ğrenme daha etkili ger&ccedil;ekleşir.
+    - D-) Metin ve g&ouml;rselin aynı anda sunulması yerine s&ouml;zl&uuml; anlatım, seslendirme ve canlandırmanın kullanılması bilginin ediniminde daha etkilidir.
+    - E-) İlişkili metin ve g&ouml;rseller bir arada sunulduğunda arka arkaya sunulduğu ortamlar ya da materyallere g&ouml;re kazanımlar daha fazladır.
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının &ouml;ğrenme s&uuml;recindeki rolleri arasında <u>yer</u> <u>almaz</u>?</strong>
     - A-) Bilinen bilgilerle yeni &ouml;ğrenilenler arasındaki ilişkinin somutlaşması
@@ -340,6 +355,13 @@
     - C-) &Ouml;n &ccedil;alışma ger&ccedil;ekleştirilerek tasarımda yer alacak bilgilerin toplanması
     - D-) Kullanılacak tasarım t&uuml;rlerinin belirlenmesi
     - E-) Verilerin hedeflere ulaşmaya yardımcı olacak şekilde d&uuml;zenlenmesi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenmenin tanımları arasında <u>yer almaz</u>?</strong>
+    - A-) &Ouml;ğrenenin kendisi ve &ccedil;evresi arasındaki ilişki sonucunda ortaya &ccedil;ıkan kalıcı davranış değişikliği
+    - B-) Davranışta g&ouml;zlemlenebilir değişmeler
+    - C-) Duyu organları yoluyla beyine iletilen bilginin işlenmesi ve uzun s&uuml;reli belleğe aktarılması
+    - D-) Bilginin bireydeki kalıcı izli değişimi
+    - **Cevap E-) Bilginin edinim s&uuml;recinde &ccedil;evrenin rol&uuml;**
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımlarının eğitim ve &ouml;ğretim alanında kullanılmasının kazanımları arasında <u>yer almaz</u>?</strong>
     - A-) Bilişsel y&uuml;k&uuml;n asgari d&uuml;zeye indirgenmesi
@@ -370,7 +392,7 @@
     - E-) Kalıcı &ouml;ğrenmenin sağlanmasına aracılık eder.
     <hr />
 ## Unite 5
-1. <strong>Veriye ilişkin aşağıdaki tanımlamalardan hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Veriye ilişkin aşağıdaki tanımlamalardan hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Veri işlenmemiş ham bilgidir.
     - B-) Veri bilginin yapı taşıdır.
     - C-) Veri dış d&uuml;nyayı anlamlandırmanın bir aracıdır.
@@ -424,9 +446,9 @@
     - B-) Verinin g&ouml;rsel estetiğini artırarak kullanıcı ilgisini &ccedil;eker.
     - C-) Verinin daha fazla detayını ortaya &ccedil;ıkararak karmaşıklığı azaltır.
     - **Cevap D-) İzleyicilerin veriyi kendi ihtiya&ccedil;ları doğrultusunda keşfetmelerine olanak tanır.**
-    - E-) Veri sunumunu daha karmaşık hale getirerek kullanıcıların ilgisini azaltır.
+    - E-) Veri sunumunu daha karmaşık h&acirc;le getirerek kullanıcıların ilgisini azaltır.
     <hr />
-1. <strong>İstatistik kavramının iki farklı tanımı bulunmaktadır. Meslekten olmayan insanlara y&ouml;nelik olan tanıma g&ouml;re, istatistik aşağıdakilerden hangisidir?</strong>
+1. <strong>İstatistik kavramının iki farklı tanımı bulunmaktadır. Meslekten olmayan insanlara y&ouml;nelik olan tanıma g&ouml;re istatistik, aşağıdakilerden hangisidir?</strong>
     - A-) Organize edilmiş verilerin analizi
     - **Cevap B-) Dış d&uuml;nyanın sayısal verilerle tasviri**
     - C-) Karar vermeye yardımcı olma bilimi
@@ -469,7 +491,7 @@
     - **Cevap D-) Florence Nightingale**
     - E-) Joseph Pulitzer
     <hr />
-1. <strong>Bilgilendirme tasarımının temel işlevi nedir?</strong>
+1. <strong>Bilgilendirme tasarımının temel işlevi aşağıdakilerden hangisidir?</strong>
     - A-) Bilgileri kodlama
     - B-) Bilgileri estetize etme
     - C-) Konsept &uuml;retme
@@ -490,7 +512,7 @@
     - D-) Ethos, retorik&ccedil;inin inandırma g&uuml;c&uuml;d&uuml;r.
     - E-) Ethos, retorik&ccedil;inin estetize etme g&uuml;c&uuml;d&uuml;r.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Logos&#39;un tanımıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;Logos&#39;un tanımıdır?</strong>
     - A-) Ethos, retorik&ccedil;inin konuya hakimiyetidir.
     - B-) Ethos, retorik&ccedil;inin manevi paylaşım yaratmasıdır.
     - **Cevap C-) Ethos, retorik&ccedil;inin kanıtlama g&uuml;c&uuml;d&uuml;r.**
@@ -539,7 +561,7 @@
     - **Cevap D-) Sit&uuml;asyonizm**
     - E-) Cobra
     <hr />
-1. <strong>Aşağıdakilerden hangisi fikirlerin g&ouml;rselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi fikirlerin g&ouml;rselleştirilmesi bakımından bilgilendirme tasarım projesinin hazırlık aşamalarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Hazırlık ve analiz aşaması
     - B-) Konsept ve i&ccedil;erik haritalandırılması
     - C-) Hedef kitlenin gereksinim ve beklentilerinin araştırılması
@@ -589,12 +611,12 @@
     - D-) Web sitesi tasarlamak
     - E-) Aray&uuml;z tasarımları yapmak
     <hr />
-1. <strong>Bir bilgisayar aray&uuml;z&uuml;nde tasarlanan bilgilendirme grafiğinin kullanımında hangi verisel / istatistiksel analiz doğru verilmiştir?</strong>
+1. <strong>Bir bilgisayar aray&uuml;z&uuml;nde tasarlanan bilgilendirme grafiğinin kullanımında hangi verisel istatistiksel analiz doğru verilmiştir?</strong>
     - A-) G&ouml;r&uuml;nt&uuml;lemelerde ziyaret edilen sitelerde %30 verileri okuyabilmeli
     - **Cevap B-) Kullanıcıların %95&rsquo;i beş dakika i&ccedil;erisinde yeni bir uygulamayı başlatabilmeli**
     - C-) Ziyaret edilen sitelerin %50sinde bilgilendirme grafiği kullanılmalı
     - D-) Kullanıcıların %100&rsquo;&uuml;n&uuml;n bilgilendirme grafiğini rahat algılayabilmeli
-    - E-) Kullanıcıların %40&rsquo;ı sadece dijital ortamda uygulama kullanmaktadır
+    - E-) Kullanıcıların&nbsp;%40&rsquo;ı sadece dijital ortamda uygulama kullanabilmeli
     <hr />
 1. <strong>Aşağıdakilerden hangisi bilgilendirme grafiği kapsamında <u>yer almaz</u>?</strong>
     - A-) &Ccedil;evresel grafik tasarım
@@ -690,8 +712,8 @@
     - D-) Kontrast
     - E-) Renk
     <hr />
-1. Genellikle metnin bazı kısımlarını g&ouml;vde metinde &ouml;ne &ccedil;ıkarmak i&ccedil;in metnin geri kalanından farklı bir tarzda harfler kullanılarak stil vurguları yapılır.<strong><br />
-Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</strong>
+1. Genellikle metnin bazı kısımlarını g&ouml;vde metinde &ouml;ne &ccedil;ıkarmak i&ccedil;in metnin geri kalanından farklı bir tarzda harfler kullanılarak stil vurguları yapılır.<br />
+<strong>Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</strong>
     - A-) İll&uuml;strasyon
     - **Cevap B-) Yatık (Oblik)**
     - C-) G&ouml;rsel Hiyerarşi
@@ -714,12 +736,26 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Estetik
     - E-) Yazı Karakteri
     <hr />
-1. <strong>&quot;Bir fikri ger&ccedil;ek ve kullanışlı kılmak i&ccedil;in tasarlanmış dosyadır.&quot; ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
+1. <strong>&quot;Bir fikri ger&ccedil;ek ve kullanışlı kılmak i&ccedil;in tasarlanmış dosyadır.&quot;&nbsp;ifadesi ile aşağıdakilerden hangisi tanımlanmıştır?</strong>
     - A-) Garamond
     - B-) Yazı Karakteri
     - C-) Times New Roman
     - **Cevap D-) Font**
     - E-) Comic Sans
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilginin kullanıcı a&ccedil;ısından &ouml;nemine g&ouml;re ve bir akış h</strong>&acirc;<strong>linde d&uuml;zenlenmesidir?</strong>
+    - A-) İll&uuml;strasyon
+    - B-) Yazı karakteri
+    - **Cevap C-) Bilgi hiyerarşisi**
+    - D-) Layout tasarımı
+    - E-) Stil vurguları
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bir yazı fontudur?</strong>
+    - A-) Garamond
+    - B-) Cheltenham
+    - **Cevap C-) Arial Regular**
+    - D-) Helvetica
+    - E-) Perpetua
     <hr />
 ## Unite 9
 1. <strong>Aşağıdakilerden hangisi, genel olarak grafik tasarım ve bilgilendirme tasarımı &ccedil;alışmalarında kullanılan g&ouml;stergelerin &ouml;zelliğidir?</strong>
@@ -727,7 +763,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap B-) K&uuml;reyerel**
     - C-) K&uuml;resel
     - D-) Ulusal
-    - E-) Mahalli
+    - E-) Mahall&icirc;
     <hr />
 1. <strong>Grafik tasarımı bir meslek alanı olarak tanımlayan kimdir?</strong>
     - A-) Neurath
@@ -772,13 +808,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
 1. <strong>İndeks, nasıl bir g&ouml;stergedir?</strong>
-    - **Cevap A-) İşaret ettiği şey ile nedensel ya da uzamsal bağı olan bir g&ouml;stergedir.**
+    - **Cevap A-) İşaret ettiği şey ile nedensel ya da uzamsal bağı olan bir&nbsp;g&ouml;stergedir.**
     - B-) Bir metnin temsil ettiği g&ouml;stergedir.
     - C-) Herhangi bir şeyi simgeleyen ve temsil eden bir g&ouml;stergedir.
     - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;z konusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımcının bir proje geliştirirken yapması gereken işlerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarımcının bir proje geliştirirken yapması gereken işlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) G&ouml;sterge &uuml;retmek
     - B-) Anlam &uuml;retmek
     - **Cevap C-) Yazılım &uuml;retmek**
@@ -798,6 +834,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) G&ouml;stergebilim, g&ouml;stergelerin, sosyo-k&uuml;lt&uuml;rel &ouml;zelliklerini inceleyen bir bilim dalıdır.
     - D-) G&ouml;stergebilim, k&uuml;lt&uuml;rel değişiklikleri inceleyen bir bilim dalıdır.
     - E-) G&ouml;stergebilim, kitle iletişim sistemlerini inceleyen bir bilim dalıdır.
+    <hr />
+1. <strong>Bir g&ouml;sterge olarak &quot;Sembol&quot; kavramının anlamı aşağıdakilerden hangisidir?</strong>
+    - A-) Bir şeye işaret eden ve uyaran bir g&ouml;stergedir.
+    - B-) Bir metnin temsil ettiği g&ouml;stergedir.
+    - **Cevap C-) Herhangi bir şeyi simgeleyen ve temsil eden bir g&ouml;stergedir.**
+    - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;zkonusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.
+    - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
 1. <strong>Peirce&rsquo;in G&ouml;sterge Modeli&#39;ne g&ouml;re g&ouml;stergenin nesnesi nasıl adlandırılır?</strong>
     - A-) G&ouml;nderge
@@ -828,12 +871,12 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Denge
     - E-) B&uuml;t&uuml;nl&uuml;k
     <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının &ouml;ncelikli hedeflerinden <u>değildir</u>?</strong>
-    - **Cevap A-) G&uuml;nl&uuml;k hayatımızdaki şehir i&ccedil;i ulaşımı ekonomik hale getirmek**
-    - B-)  Anlaşılabilir, hızlı, doğru şekilde d&uuml;zeltilebilir
+1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının &ouml;ncelikli hedeflerinden biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap A-) G&uuml;nl&uuml;k hayatımızdaki şehir i&ccedil;i ulaşımı ekonomik h&acirc;le getirmek**
+    - B-) Anlaşılabilir, hızlı, doğru şekilde d&uuml;zeltenilmek
     - C-) Kolay ve etkin eyleme d&ouml;n&uuml;şt&uuml;r&uuml;lebilecek belgeler geliştirmek
     - D-) Kullanılacak ara&ccedil;-gere&ccedil;lerle olabildiğince kolay, doğal ve tatmin edici etkileşimler sağlamak
-    - E-) İnsanların kentsel alanlarda rahatlıkla y&ouml;n bulmalarını sağlamaktır
+    - E-) İnsanların kentsel alanlarda rahatlıkla y&ouml;n bulmalarını sağlamak
     <hr />
 1. <strong>Aşağıdakilerden hangisi İlk bilgilendirme tasarımı &ouml;rneklerindendir?</strong>
     - A-) &Uuml;nl&uuml; Grafik tasarımcı İhap Hulusi G&ouml;rey&rsquo;in ilk sosyo-k&uuml;lt&uuml;rel afiş &ccedil;alışması
@@ -857,7 +900,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) Harf bi&ccedil;emi
     - **Cevap E-) Renk**
     <hr />
-1. <strong>&ldquo;Ritim olarak da bilinen bu ilke bilgilendirme tasarımlarında bir &ouml;ğenin belli bir d&uuml;zende tekrarlanmasından oluşmaktadır&rdquo; Tanımı yapılan tasarım ilkesi aşağıdakilerden hangisidir?</strong>
+1. <strong>&ldquo;Ritim olarak da bilinen bu ilke bilgilendirme tasarımlarında bir &ouml;genin belli bir d&uuml;zende tekrarlanmasından oluşmaktadır.&rdquo; şeklinde tanımlanan tasarım ilkesi aşağıdakilerden hangisidir?</strong>
     - A-) Karşıtlık
     - **Cevap B-) Tartım**
     - C-) Odak noktası
@@ -884,6 +927,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap C-) Tartım**
     - D-) Yazı
     - E-) Izgara Sistemi
+    <hr />
+1. <strong>Aşağıdakilerden hangisi ilk modern bilgilendirme tasarımı &ouml;rneklerinden olan Harry Beck tarafından hazırlanan ve h&acirc;len benzer &ouml;rnekleri kullanılan bir tasarımdır?</strong>
+    - A-) Su Isıtıcısı Kullanım Klavuzu Sayfası
+    - **Cevap B-) Londra Metro hattı haritası**
+    - C-) Grafik sistemli veri raporu
+    - D-) Izgara sistemli infografik
+    - E-) Topkapı sarayı tanıtım tasarımı
     <hr />
 1. <strong>Bilgilendirme tasarımlarında g&ouml;r&uuml;nt&uuml;ler başlığı adı altında aşağıdakilerden hangisi <u>sayılamaz</u>?</strong>
     - A-) Fotoğraf
@@ -914,10 +964,10 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) G&ouml;z merceğinin netleyememesi
     - E-) Kişinin arkasında kalan alan
     <hr />
-1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong>
+1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong> 
     - A-) Otob&uuml;s şof&ouml;r&uuml; - Otob&uuml;s yolcusu
     - B-) Bilgisayar oyunu - Bilgisayar işlemcisi
-    - C-) Fotoğraf filmi - fotoğraf baskısı
+    - C-) Fotoğraf filmi - Fotoğraf baskısı
     - D-) Sinema filmi - Film izleyicisi
     - **Cevap E-) Fotoğraf makinesi - Fotoğraf izleyicisi**
     <hr />
@@ -928,7 +978,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - D-) İnsanın doğuştan getirdiği sezme ve bilme yeteneğinin
     - E-) Metafizik ger&ccedil;ekliğin
     <hr />
-1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı&#39;nın kurucularından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı&#39;nın kurucularından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Kurt Cobain**
     - B-) Wolfgang K&ouml;hler
     - C-) Max Wertheimer
@@ -942,19 +992,19 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) &Ouml;rg&uuml;tleme**
     - E-) Alanda y&uuml;kseklik
     <hr />
-1. <strong>Aşağıdakilerden hangisi hareket algısının oluşturan hareket &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hareket algısının oluşturan hareket &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Stroboskopik hareket
     - B-) Yapay hareket
     - C-) Ger&ccedil;ek hareket
     - D-) Otokinetik etki
     - **Cevap E-) Otokontrol hareketi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi algısal değişmezlik ilkesinin tanımıdır?</strong>
-    - **Cevap A-) Nesnenin retinal tabakadaki g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml;n değişmesine rağmen bilin&ccedil;teki imgesinin sabit tutulması**
-    - B-) K&uuml;&ccedil;&uuml;k bir nesneyi &ccedil;evreleyen b&uuml;y&uuml;k bir nesne hareket ettiğinde, k&uuml;&ccedil;&uuml;k nesnenin retinada herhangi bir hareket imgesi bırakmadığı halde hareket ediyormuş gibi g&ouml;r&uuml;lmesi
-    - C-) Birbirine yakın olan uyaranların, aynı nesnenin par&ccedil;alarıymış gibi bir &ouml;r&uuml;nt&uuml; i&ccedil;inde gruplandırılması
-    - D-) Birbirine benzeyen birimler bir algısal b&uuml;t&uuml;nl&uuml;k kazanması
-    - E-) Bir nesnenin, başka bir nesnenin &ouml;n&uuml;ne ge&ccedil;erek g&ouml;r&uuml;lmesini tamamen ya da kısmen engellemesi durumunda, genellikle birinci nesnenin daha yakınmış gibi algılanması
+1. <strong>Aşağıdakilerden hangisi Algısal Değişmezlik İlkesi&#39;nin tanımıdır?</strong>
+    - **Cevap A-) Nesnenin retinal tabakadaki g&ouml;r&uuml;nt&uuml;s&uuml;n&uuml;n değişmesine rağmen bilin&ccedil;teki imgesinin sabit tutulmasıdır.**
+    - B-) K&uuml;&ccedil;&uuml;k bir nesneyi &ccedil;evreleyen b&uuml;y&uuml;k bir nesne hareket ettiğinde, k&uuml;&ccedil;&uuml;k nesnenin retinada herhangi bir hareket imgesi bırakmadığı h&acirc;lde hareket ediyormuş gibi g&ouml;r&uuml;lmesidir.
+    - C-) Birbirine yakın olan uyaranların, aynı nesnenin par&ccedil;alarıymış gibi bir &ouml;r&uuml;nt&uuml; i&ccedil;inde gruplandırılmasıdır.
+    - D-) Birbirine benzeyen birimler bir algısal b&uuml;t&uuml;nl&uuml;k kazanmasıdır.
+    - E-) Bir nesnenin, başka bir nesnenin &ouml;n&uuml;ne ge&ccedil;erek g&ouml;r&uuml;lmesini tamamen ya da kısmen engellemesi durumunda, genellikle birinci nesnenin daha yakınmış gibi algılanmasıdır.
     <hr />
 1. <strong>Sinemadaki hareket izlenimi hangi hareket ilkesi uyarınca ger&ccedil;ekleşmektedir?</strong>
     - A-) Yapay hareket
@@ -962,6 +1012,20 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) Ger&ccedil;ek hareket
     - D-) Otokinetik etki
     - E-) Monok&uuml;ler İpu&ccedil;ları
+    <hr />
+1. <strong>Aşağıdakilerden hangisi yanılsamanın tanımıdır?</strong>
+    - A-) Uyarıcı madde alımı sonrasında garip şekiller g&ouml;rmek
+    - **Cevap B-) Beynin duyu organlarından aldığı iletileri ger&ccedil;ekte olduklarından farklı yorumlaması**
+    - C-) G&ouml;rsel bozukluklar nedeniyle yakını g&ouml;rememek
+    - D-) Duyu organından beyne g&ouml;nderilen sinyallerin yolda kaybolması
+    - E-) Beynin duyu organlarından aldığı iletileri olduğu gibi yorumlaması
+    <hr />
+1. <strong>Aşağıdakilerden hangisi optik yanılsamaya &ouml;rnektir?</strong>
+    - A-) Kaybedilen bir kişinin ardından, bu kişinin her zaman oturduğu koltukta hayal edilmesi
+    - B-) Ruh hastalığı bulunan bir kişinin duvara baktığında ger&ccedil;ekte orada olmayan şekiller g&ouml;rmesi
+    - C-) Televizyon ekranına &ccedil;ok yakından bakınca g&ouml;r&uuml;nt&uuml;y&uuml; oluşturan ışık noktacıklarının g&ouml;r&uuml;lmesi
+    - **Cevap D-) K&ouml;r nokta &uuml;zerinde oluşmayan g&ouml;r&uuml;nt&uuml;n&uuml;n, zihinde tamamlanması**
+    - E-) D&uuml;nya&rsquo;dan bakınca Ay&rsquo;ın sadece tek y&uuml;z&uuml;n&uuml;n g&ouml;r&uuml;lmesi
     <hr />
 1. <strong>Aşağıdakilerden hangisi algısal gruplamanın unsurlarından <u>değildir</u>?</strong>
     - **Cevap A-) Alanda y&uuml;kseklik**
@@ -1041,6 +1105,20 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - **Cevap D-) 4**
     - E-) 5
     <hr />
+1. <strong>&ldquo;Karşıt taraflardan merkeze doğru katlanan iki veya daha fazla panel&rdquo; şeklinde tanımlanan katlama &ccedil;eşidi aşağıdakilerden hangisidir?</strong>
+    - A-) Pervazlı
+    - B-) Askılı
+    - C-) Kirişli
+    - **Cevap D-) Kapılı**
+    - E-) Pencereli
+    <hr />
+1. <strong>Aşağıdakilerden hangisi fantezi karton &ccedil;eşitlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap A-) K&ouml;p&uuml;ks&uuml;z maket karton**
+    - B-) Tintoretto gesso
+    - C-) Acquarello
+    - D-) Tuale karton
+    - E-) Flok karton
+    <hr />
 ## Unite 13
 1. <strong>Aşağıdakilerden hangisi geleneksel medyadan dijital medyaya ge&ccedil;iş &ouml;rneği <u>değildir</u>?</strong>
     - A-) Radyo yayınlarının yerini podcastların alması
@@ -1086,7 +1164,7 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     <hr />
 1. <strong>Aşağıdakilerden hangisi Randy Krum&rsquo;un kitabındaki sayısal ortamda bulunan bilgilendirme tasarımlarında kullanılan medya bi&ccedil;imlerinden biri <u>değildir</u>?</strong>
     - A-) Tıklanabilir
-    - **Cevap B-) Yapay zekayla oluşturulmuş**
+    - **Cevap B-) Yapay zek&acirc;yla oluşturulmuş**
     - C-) Durağan
     - D-) Canlandırma
     - E-) Yakınlaştırılabilen
@@ -1111,6 +1189,13 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) Emc2
     - **Cevap D-) Mind the Graph**
     - E-) PicMonkey
+    <hr />
+1. <strong>Aşağıdakilerden hangisinin ne kadar b&uuml;y&uuml;t&uuml;l&uuml;rse b&uuml;y&uuml;t&uuml;ls&uuml;n g&ouml;r&uuml;n kalitesinin bozulmayacağı var sayılabilir?</strong>
+    - A-) Noktasal g&ouml;r&uuml;nt&uuml; dosyaların
+    - B-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; dosyaların
+    - C-) D&uuml;ş&uuml;k &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kl&uuml; dosyaların
+    - D-) HDR g&ouml;r&uuml;nt&uuml;lerin
+    - **Cevap E-) Vekt&ouml;rel g&ouml;r&uuml;nt&uuml; dosyaların**
     <hr />
 ## Unite 14
 1. <strong>Aşağıdakilerden hangisi teknolojik gelişmeler sonucunda ortaya &ccedil;ıkan değişimler arasında <u>yer almaz</u>?</strong>
@@ -1182,6 +1267,20 @@ Buna g&ouml;re aşağıdakilerden hangisi yaygın stil vurgularından biridir?</
     - C-) After Effects
     - D-) Photoshop
     - **Cevap E-) Unity**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi bilgi &ldquo;Border City&quot; sergisi i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
+    - A-) Veriye dayalı dijital bir sergi tasarımı
+    - B-) N&uuml;fus ve g&ouml;&ccedil; temasını işlemesi
+    - **Cevap C-) Durağan grafiklere yer vermesi**
+    - D-) Animasyon uygulamalarına yer vermesi
+    - E-) Dijital ekran kullanımına yer vermesi
+    <hr />
+1. <strong>Aşağıdakilerden hangisinde Illuminating Medulloblastoma animasyon filminin &uuml;retim aşamasındaki işlem basamaklarından biri <u>değildir</u>?</strong>
+    - A-) Karakter geliştirme
+    - B-) 2d animasyon
+    - C-) 3d animasyon
+    - **Cevap D-) Render animasyon**
+    - E-) Senaryo geliştirme
     <hr />
 1. <strong>Clever Franke tasarım st&uuml;dyosunun yaptığı web sitesinde mobil cihazlarda kullanıcı deneyimini sağlamak i&ccedil;in aşağıdakilerden hangisi yapılmıştır?</strong>
     - **Cevap A-) Optimize edilmesi**

@@ -323,7 +323,7 @@ III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da k&#252;&#
 1. I. T&Uuml;BİTAK-ULAKBİM tarafından desteklenmektedir.<br />
 II. Kurulmadan dahi &ccedil;alışmaya başlayabilir.<br />
 III. Bir&ccedil;ok dil desteği vardır.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Pardus işletim sisteminin &ouml;ne &ccedil;ıkan &ouml;zellikleri arasında yer alır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri Pardus İşletim Sistemi&#39;nin &ouml;ne &ccedil;ıkan &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -452,6 +452,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - C-) Tarayıcı ge&ccedil;mişi
     - D-) Yeni sekme
     - E-) Hakkında
+    <hr />
+1. <strong>Vir&uuml;slerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Boot sekt&ouml;r vir&uuml;slerinin bulaşması i&ccedil;in s&uuml;r&uuml;c&uuml;n&uuml;n aktif h&acirc;le gelmesi yeterlidir.
+    - B-) Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan k&ouml;t&uuml; ama&ccedil;lı yazılımlara trojan denir.
+    - C-) Vir&uuml;s bulaştığını tespit ettiğiniz bir bilgisayardaki etkinliklerinizi durdurmanız gerekmektedir.
+    - **Cevap D-) Kullanıcının isteği dışında kendisine gelen elektronik postalara solucan denir.**
+    - E-) Truva atları, zamana veya eyleme bağlı olarak &ccedil;alışan vir&uuml;s t&uuml;rleridir.
     <hr />
 1. <strong>Kullanıcı hareketlerinin takip edilmemesi ve gizli kalmasının istenildiği durumlarda kullanılan tarayıcı &ouml;zelliği hangisidir?</strong> 
     - A-) Yeni sekme
@@ -686,6 +693,13 @@ III. Bir&ccedil;ok dil desteği vardır.<br />
     - D-) ALT+SHIFT+Y
     - E-) CTRL+ALT+P
     <hr />
+1. <strong>Word programında bir metnin sağa hizalı şekilde yazılmasını sağlayan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) CTRL+R**
+    - B-) CTRL+L
+    - C-) CTRL+G
+    - D-) CTRL+D
+    - E-) CTRL+H
+    <hr />
 1. <strong>Word programında kopyalanan bir metnin veya nesnenin yapıştırılması i&ccedil;in kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?</strong>
     - A-) CTRL+K
     - B-) CTRL+P
@@ -887,7 +901,8 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) H&uuml;cre Hizalama
     - E-) H&uuml;cre Dolgusu
     <hr />
-1. Excel tablosunda D s&uuml;tununda &ouml;ğrencilerin ge&ccedil;me ve kalma durumu yer almaktadır. Dersi ge&ccedil;en &ouml;ğrencilerin h&uuml;crelerinin arka planında yeşil, kalanların ise kırmızı renkle boyanması istenmektedir. <strong>Bunun i&ccedil;in aşağıdakilerden hangisi kullanılabilir?</strong>
+1. Excel tablosunda D s&uuml;tununda &ouml;ğrencilerin ge&ccedil;me ve kalma durumu yer almaktadır. Dersi ge&ccedil;en &ouml;ğrencilerin h&uuml;crelerinin arka planında yeşil, kalanların ise kırmızı renkle boyanması istenmektedir.<br />
+<strong>Bunun i&ccedil;in aşağıdakilerden hangisi kullanılabilir?</strong>
     - A-) Hizalama
     - B-) Kenarlık
     - **Cevap C-) Dolgu**
@@ -922,6 +937,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - C-) Değişiklikler
     - **Cevap D-) Makrolar**
     - E-) Sırala ve Filtre Uygula
+    <hr />
+1. <strong>Excel programında se&ccedil;ilmiş h&uuml;cre ve h&uuml;crelerin kilitlenmesi i&ccedil;in hangi işlem yapılması gerekmektedir?</strong>
+    - A-) H&uuml;cre se&ccedil;ildikten sonra &ldquo;Gizli&rdquo; se&ccedil;eneği se&ccedil;ilmelidir.
+    - **Cevap B-) H&uuml;cre Bi&ccedil;imlendirmeden &ldquo;Koruma&rdquo; ayarlamaları yapılmalıdır.**
+    - C-) H&uuml;cre se&ccedil;ildikten sonra kırmızı dolgu ile doldurulmalıdır.
+    - D-) Kilitlenmesi gereken h&uuml;cre ya da h&uuml;crelere kenarlık eklenmelidir.
+    - E-) H&uuml;cre bi&ccedil;imlendirme b&ouml;l&uuml;m&uuml;nden &ldquo;Sayı&rdquo; ayarlamaları yapılmalıdır.
     <hr />
 1. <strong>A3 s&uuml;tununda yer alan sayısal verinin ondalıktan sonra 3 basamak g&ouml;r&uuml;nt&uuml;lenmesi i&ccedil;in hangi ayarlamaların yapılması gerekmektedir?</strong>
     - **Cevap A-) H&uuml;cre bi&ccedil;imlendirmesindeki &ldquo;Sayı&rdquo; sekmesinde yer alan &ldquo;Metin&rdquo; se&ccedil;eneğinden gerekli ayarlamalar yapılmalıdır.**
@@ -1016,6 +1038,13 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) EGERSAY
     - E-) BAG_DEG_SAY
     <hr />
+1. <strong>Ayşe &ccedil;alıştığı kurumda 65 yaş &uuml;zerinde olanların &ldquo;Sokağa &ccedil;ıkma yasağı var.&rdquo;, 65 yaş altında olanların ise &ldquo;Sokağa &ccedil;ıkma yasağı yok.&rdquo; olarak belirtmek istiyor. Ayşe bu işlemi yapabilmek i&ccedil;in aşağıdaki form&uuml;llerden hangisini yazmalıdır? (Personel yaş bilgileri C s&uuml;tununda yer almaktadır)</strong>
+    - A-) =EĞERSAY(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - B-) =EĞER_ORTALA(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - C-) =EĞER_YAS(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - D-) =EĞER(C1&lt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)
+    - **Cevap E-) =EĞER(C1&gt;65; &ldquo;Sokağa &ccedil;ıkma yasağı var&rdquo;; &ldquo;Sokağa &ccedil;ıkma yasağı yok&rdquo;)**
+    <hr />
 1. <strong>Excel programında &quot;=D1+D2+D3+D4+D5+D6&quot; form&uuml;l&uuml; aşağıdakilerden hangisi ile aynıdır?</strong>
     - A-) =TOPLA(D1,D6)
     - B-) =TOPLA(D1.D6)
@@ -1052,7 +1081,8 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Hedef kitle analizi
     - E-) Kurulum amacının belirlenmesi
     <hr />
-1. <strong>Murat &ccedil;alıştığı kuruma yeni bir &Ouml;ğrenme Y&ouml;netim Sistemi kurulmasını istemektedir. Yazılım geliştiriciden bu doğrultuda &ccedil;alışma yapmasını ve bu kurulumun ger&ccedil;ekleştirilmesini istemektedir. Yazılım geliştirici &Ouml;YS se&ccedil;imi yaparken aşağıdakilerden hangisine dikkat etmesine gerek yoktur?</strong>
+1. Murat &ccedil;alıştığı kuruma yeni bir &Ouml;ğrenme Y&ouml;netim Sistemi kurulmasını istemektedir. Yazılım geliştiriciden bu doğrultuda &ccedil;alışma yapmasını ve bu kurulumun ger&ccedil;ekleştirilmesini istemektedir.<br />
+<strong>Yazılım geliştiricinin &Ouml;YS se&ccedil;imi yaparken aşağıdakilerden hangisine dikkat etmesine gerek <u>yoktur</u>?</strong>
     - A-) Erişilebilir olmasına
     - B-) Esnek yapıda olmasına
     - C-) Sade bir tasarım olmasına
@@ -1151,7 +1181,7 @@ III. Her sekme birbiriyle ilişkili &ouml;geleri bir arada barındıran birka&cc
     - D-) Saklama
     - **Cevap E-) Lisanslama**
     <hr />
-1. I.  Eğitimde fırsat eşitliği sağlama<br />
+1. I. Eğitimde fırsat eşitliği sağlama<br />
 II. Yaşam boyu &ouml;ğrenmenin niteliğini artırma<br />
 III. Yerel ve k&uuml;resel bağlamda eğitime erişim imk&acirc;nı sunma<br />
 IV. Geleneksel eğitimi ortadan kaldırma<br />
@@ -1232,6 +1262,13 @@ IV. Geleneksel eğitimi ortadan kaldırma<br />
     - D-) Forum
     - **Cevap E-) Videokonferans**
     <hr />
+1. <strong>Aşağıdakilerden hangisi MOOC uygulamalarında kursların &uuml;cretsiz olma, katılım i&ccedil;in &ouml;n koşul gerektirmeme ve kaynaklara erişim olanağı sunma &ouml;zelliğini ifade eden kavramdır?</strong>
+    - **Cevap A-) A&ccedil;ıklık**
+    - B-) &Ccedil;evrimi&ccedil;i
+    - C-) Kitlesellik
+    - D-) Kurs
+    - E-) Geleneksellik
+    <hr />
 1. I. Eğitimde fırsat eşitliği sağlaması<br />
 II. Yaşam boyu &ouml;ğrenmenin niteliğini artırması<br />
 III. Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
@@ -1241,6 +1278,13 @@ III. Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i ders &ccedil;alışma ara&ccedil;larından biri <u>değildir</u>?</strong>
+    - A-) XMind
+    - B-) StudyBlue
+    - C-) Quizlet
+    - **Cevap D-) Unity**
+    - E-) Evernote
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;evrimi&ccedil;i &ouml;ğrenme ortamlarında, eş zamanlı &ouml;ğrenme ortamlarından biri <u>değildir</u>?</strong>
     - **Cevap A-) Web G&uuml;nceleri**
@@ -1264,7 +1308,7 @@ III. Bireylere bilgi ve becerilerini g&uuml;ncelleme fırsatı sağlaması<br />
     - D-) Kaynak
     - E-) Geri bildirim
     <hr />
-1. I.  Karşılıklı etkileşim<br />
+1. I. Karşılıklı etkileşim<br />
 II. Eş zamanlı olmayan iletişim<br />
 III. Yeniden karıştırma<br />
 IV. Kitlesizleştirme<br />
@@ -1289,7 +1333,7 @@ IV. Kitlesizleştirme<br />
     - D-) Anlık mesajlaşma
     - E-) Sanal sınıf
     <hr />
-1. I.  Bağlantı hızının yavaş olması<br />
+1. I. Bağlantı hızının yavaş olması<br />
 II. V&uuml;cut dilini anlayabilme olanağı<br />
 III. Konuşma ve g&ouml;rme olanağı<br />
 IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
@@ -1307,7 +1351,7 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - D-) Geleneksel
     - E-) Eş zamanlı
     <hr />
-1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan iletişim s&uuml;re&ccedil;lerinin sunduğu avantajlardan <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi eş zamanlı olmayan iletişim s&uuml;re&ccedil;lerinin sunduğu avantajlardan biri <u>değildir</u>?</strong>
     - A-) Materyallere kolay erişim imk&acirc;nı
     - B-) Cevap vermeden &ouml;nce d&uuml;ş&uuml;nme s&uuml;resinin olması
     - C-) Katılımcı sayısında sınırlandırma olmaması
@@ -1334,6 +1378,13 @@ IV. &Ouml;ğrencilerin teknik eksikliklerinin olması (mikrofon, kamera)<br />
     - C-) Tartışma forumları
     - D-) Sanal sınıflar
     - E-) Web konferans sistemleri
+    <hr />
+1. <strong>Aşağıdakilerden hangisi web konferans sistemlerinden biri <u>değildir</u>?</strong>
+    - A-) Adobe Connect
+    - B-) Big Blue Button
+    - C-) Zoom
+    - **Cevap D-) Pinterest**
+    - E-) Google Meet
     <hr />
 1. I. Dosya transfer etme<br />
 II. Hiperlinkler g&ouml;nderme<br />
@@ -1375,7 +1426,7 @@ IV. Sesli/g&ouml;r&uuml;nt&uuml;l&uuml; dosya g&ouml;nderme<br />
     - E-) Konuşma ve g&ouml;rmede sıkıntılar yaşanması
     <hr />
 ## Unite 13
-1. I.  Mek&acirc;ndan bağımsızlık<br />
+1. I. Mek&acirc;ndan bağımsızlık<br />
 II. Zamandan bağımsızlık<br />
 III. Yapıcı i&ccedil;erik<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri mobil &ouml;ğrenmenin &ccedil;evrimi&ccedil;i &ouml;ğrenmeyle birlikte sahip oldukları temel &ouml;zelliklerdendir?</strong>
@@ -1406,7 +1457,7 @@ III. Yapıcı i&ccedil;erik<br />
     - D-) SMS
     - E-) GPRS
     <hr />
-1. I.  Bağımsız ve işbirlik&ccedil;i &ouml;ğrenme deneyimi<br />
+1. I. Bağımsız ve işbirlik&ccedil;i &ouml;ğrenme deneyimi<br />
 II. &Ouml;zg&uuml;ven ve benlik saygısını artırma<br />
 III. Okuryazarlık ve aritmetik becerileri geliştirme<br />
 IV. Sınırlı fiziksel &ouml;zellikler sunma<br />
@@ -1431,7 +1482,7 @@ IV. Sınırlı fiziksel &ouml;zellikler sunma<br />
     - D-) GPRS
     - E-) MP3
     <hr />
-1. I.  &Ouml;ğrenme performansı<br />
+1. I. &Ouml;ğrenme performansı<br />
 II. &Ouml;ğrenme s&uuml;reci<br />
 III. &Ouml;ğrenme deneyimi<br />
 <strong>Yukarıda verilenlerden hangisi ya da hangileri mobil &ouml;ğrenmenin &ouml;ğrenenlere sunduğu faydalardandır?</strong>
@@ -1516,7 +1567,7 @@ IV. Kullanıcı &uuml;retkenliğini ve verimliliğini artırır.<br />
     - **Cevap D-) &Ouml;ğrenme y&ouml;netim sistemleri**
     - E-) Canlı sınıf yazılımları
     <hr />
-1. <strong>Aşağıdakilerden hangisi &Ouml;ğrenim Y&ouml;netim Sistemlerinde bulunması gereken &ouml;zelliklerinden <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ouml;ğrenim y&ouml;netim sistemlerinde bulunması gereken &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Birlikte &ccedil;alışılabilirlik
     - **Cevap B-) Anlık geribildirim**
     - C-) Y&ouml;netilebilirlik

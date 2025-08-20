@@ -63,12 +63,19 @@
     - D-) Tipografide renk kullanımı
     - E-) Taşma payları ve sayfa kenarlarında boşluk (espas) kullanımı
     <hr />
-1. En b&uuml;y&uuml;k markaların renk se&ccedil;imlerinde en fazla tercih edilen renk hangisidir?
+1. <strong>B&uuml;y&uuml;k markaların renk se&ccedil;imlerinde en fazla tercih ettikleri renk aşağıdakilerden hangisidir?</strong>
     - A-) Kırmızı
     - **Cevap B-) Mavi**
     - C-) Siyah
     - D-) Sarı
     - E-) Gri
+    <hr />
+1. <strong>En b&uuml;y&uuml;k markaların tercih ettiği renklerin sıralamasıyla ilgili aşağıdaki &ouml;nermelerden hangisi doğrudur?</strong>
+    - **Cevap A-) Mavi, en &ccedil;ok tercih edilen renktir.**
+    - B-) Kırmızı renge oranla, siyah, gri ve g&uuml;m&uuml;ş daha &ccedil;ok tercih edilmiştir.
+    - C-) Sarı, kırmızıya oranla daha &ccedil;ok tercih edilmiştir.
+    - D-) En &ccedil;ok tercih edilen renk sarıdır.
+    - E-) En az tercih edilen renk kırmızıdır.
     <hr />
 1. <strong>Problemin tanımlama aşamasından basılmış ve &ccedil;oğaltılmış k&acirc;ğıt &uuml;zerindeki &uuml;r&uuml;ne kadarki s&uuml;re&ccedil; aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
     - A-) Araştırma, durum tespiti ve kararların verilmesi - &Ouml;n taslaklar - Orijinal hazırlanması- Baskı ve &ccedil;oğaltım aşamaları - Sunum taslakları
@@ -99,14 +106,14 @@
     - D-) Tipografi
     - E-) Dijital eserler
     <hr />
-1. Grafik tasarımın &ccedil;ağdaş yaklaşımı neye odaklanmıştır?
+1. <strong>Grafik tasarımın &ccedil;ağdaş yaklaşımı neye odaklanmıştır?</strong>
     - A-) Estetik
     - **Cevap B-) İşlevsellik ve kullanılabilirlik**
     - C-) Geleneksel tasarım anlayışları
     - D-) Teknik detaylar
     - E-) Rengin kullanımı
     <hr />
-1. Grafik tasarımın dijital d&uuml;nyada giderek nasıl bir hale geldiği nasıl ifade edilir?
+1. <strong>Grafik tasarımın dijital d&uuml;nyada geldiği nokta aşağıdakilerden hangisiyle ifade edilir?</strong>
     - A-) Siyah-beyaz tasarımlar
     - B-) &Ccedil;ift boyutlu ve statik
     - C-) Geleneksel ve estetik
@@ -148,7 +155,7 @@
     - D-) Video d&uuml;zenleme
     - E-) Web geliştirme
     <hr />
-1. <strong>CorelDRAW programında hangi ara&ccedil;lar kullanılarak &ccedil;eşitli g&ouml;rseller oluşturulabilir?</strong>
+1. <strong>CorelDRAW programında aşağıdaki ara&ccedil;lardan hangisi kullanılarak &ccedil;eşitli g&ouml;rseller oluşturulabilir?</strong>
     - A-) Renk se&ccedil;im ara&ccedil;ları
     - B-) Ses efekti ara&ccedil;ları
     - C-) Fotoğraf d&uuml;zenleme ara&ccedil;ları
@@ -183,6 +190,13 @@
     - D-) Windows ve Ubuntu
     - E-) iOS ve Android
     <hr />
+1. <strong>Affinity Designer&#39;ın renk opsiyonları hangi alanlarda &ccedil;alışmaya olanak tanır?</strong>
+    - **Cevap A-) Hem web hem de basılı medya**
+    - B-) Yalnızca web tasarımı
+    - C-) Yalnızca basılı medya
+    - D-) Yalnızca siyah-beyaz tasarımlar
+    - E-) Sadece &uuml;&ccedil; boyutlu tasarım
+    <hr />
 ## Unite 3
 1. <strong>Grafik tasarımın &ouml;geleri ile ilgili aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Grafik tasarım &ouml;geleri bir araya gelerek kompozisyon oluşturmaktadırlar.
@@ -191,21 +205,21 @@
     - D-) Tasarım &ouml;gelerinin doğru kullanımı, tasarımın anlamını ve etkisini belirlemektedir.
     - E-) Tasarım &ouml;geleri, tasarımın yapı taşlarıdır ve tasarım ilkeleri bu &ouml;gelerin birleştirilmesi ile ilgilidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımda g&ouml;rsel &ouml;geler kategorisine girmektedir?</strong>
+1. <strong>Aşağıdakilerden hangisi grafik tasarımın g&ouml;rsel &ouml;gelerinden biri <u>değildir</u>?</strong>
     - A-) Şekil
     - B-) Boyut
     - **Cevap C-) Konum**
     - D-) Renk
     - E-) Doku
     <hr />
-1. Aşağıdakilerden hangisi grafik tasarım &ouml;ğelerinden biri <u>değildir</u>?
+1. <strong>Aşağıdakilerden hangisi grafik tasarım &ouml;gelerinden biri <u>değildir</u>?</strong>
     - A-) Nokta
     - B-) Hacim
     - C-) Doku
     - **Cevap D-) Hiza**
     - E-) Boşluk
     <hr />
-1. &Ccedil;izgilerin kullanım şekline g&ouml;re grafik tasarımdaki etkisi hakkında aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?
+1. <strong>&Ccedil;izgilerin kullanım şekline g&ouml;re grafik tasarımdaki etkisi hakkında aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Yatay &ccedil;izgiler sakin durağan ve hareketsiz bir etki uyandırmaktadır.
     - B-) Kırık &ccedil;izgiler hareketli ve g&uuml;&ccedil;l&uuml; bir etki uyandırmaktadır.
     - **Cevap C-) Eğik &ccedil;izgiler &ccedil;oğunlukla huzur ve sakinlik hissi uyandırmaktadır.**
@@ -240,8 +254,7 @@
     - D-) Ritmik Denge
     - E-) Aksonometrik Denge
     <hr />
-1. İnsan g&ouml;z&uuml;n&uuml;n algılayabildiği ışığın farklı dalga boylarının her birine verilen addır.<br />
-<strong>Verilen tanım aşağıdakilerden hangisini a&ccedil;ıklamaktadır?</strong>
+1. <strong>&#39;&#39;İnsan g&ouml;z&uuml;n&uuml;n algılayabildiği ışığın farklı dalga boylarının her birine verilen addır.&#39;&#39; şeklinde tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Renk**
     - B-) Işık
     - C-) Koram
@@ -278,7 +291,7 @@
     <hr />
 ## Unite 4
 1. <strong>Fotoğrafın tasarım unsuru olarak reklam end&uuml;strisindeki rol&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Sadece sanatsal bir ifade bi&ccedil;imi olarak vardır.
+    - A-) Sadece sanatsal bir ifade bi&ccedil;imi olarak&nbsp;vardır.
     - B-) Yalnızca belgeleme amacını servis eder.
     - **Cevap C-) &Uuml;r&uuml;n veya hizmetin pazarlanmasına stratejik bir unsur olarak yer alır.**
     - D-) Sadece bilimsel ama&ccedil;lar i&ccedil;in kullanılır.
@@ -298,7 +311,7 @@
     - **Cevap D-) Toplumsal, k&uuml;lt&uuml;rel ve ekonomik alanlarda**
     - E-) Sadece belgeleme ama&ccedil;ları i&ccedil;in
     <hr />
-1. Boşluk kesim payı, fotoğrafın hangi b&ouml;lgesini ifade eder?
+1. <strong>Boşluk kesim payı, fotoğrafın hangi b&ouml;lgesini ifade eder?</strong>
     - A-) Kesilecek alan
     - **Cevap B-) Taşma payı**
     - C-) Orta nokta
@@ -319,7 +332,7 @@
     - D-) Format Details (Format detayları)
     - **Cevap E-) Image Size (İmaj boyutu)**
     <hr />
-1. Fotoğrafların &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;n&uuml; 300 dpi&#39;ye y&uuml;kseltirken, teknik a&ccedil;ıdan boyutlarının bozulmaması i&ccedil;in nelere dikkat edilmelidir?
+1. <strong>Fotoğrafların &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;n&uuml; 300 dpi&#39;ye y&uuml;kseltirken, teknik a&ccedil;ıdan boyutlarının bozulmaması i&ccedil;in aşağıdakilerden hangi ya da hangilerine edilmelidir?</strong>
     - **Cevap A-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k ve boyutlar arasında denge**
     - B-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k ve d&uuml;ş&uuml;k boyutlar
     - C-) D&uuml;ş&uuml;k &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k ve y&uuml;ksek boyutlar
@@ -333,7 +346,7 @@
     - D-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k, perspektif, tonlama
     - E-) Montaj, animasyon, efektler
     <hr />
-1. &Ouml;zel alan ill&uuml;strasyonları hangi ama&ccedil;la kullanılır?
+1. <strong>Aşağıdakilerden hangisi &ouml;zel alan ill&uuml;strasyonlarının kullanım ama&ccedil;ları arasında yer alır?</strong>
     - A-) Moda trendlerini g&ouml;stermek
     - B-) Biyolojik s&uuml;re&ccedil;leri resmetmek
     - C-) Reklam afişleri oluşturmak
@@ -377,7 +390,7 @@
     - E-) Hiyerarşi
     <hr />
 1. Yazı karakteri se&ccedil;imi, boyut, hiyerarşi, renk kullanımı ve metinleri d&uuml;zenleme aşamalarını i&ccedil;eren bir tasarım s&uuml;recidir.<br />
-<strong>Buna g&ouml;re, yukarıda verilen tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
+<strong>Buna g&ouml;re yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
     - A-) Ekspresif tipografi
     - B-) Metin
     - **Cevap C-) Tipografik kompozisyon**
@@ -421,7 +434,7 @@
     <hr />
 1. <strong>Aşağıdakilerden hangisi kinetik tipografinin faydalanıldığı ve kullanıldığı alanlardan biri <u>değildir</u>?</strong>
     - A-) Web tasarımları
-    - B-) Reklam Sekt&ouml;r&uuml;
+    - B-) Reklam sekt&ouml;r&uuml;
     - C-) Bilgilendirme tasarımı
     - D-) Sinema ve televizyon jenerikleri
     - **Cevap E-) Basılı yayınlar**
@@ -440,7 +453,7 @@
     - D-) Kontrast
     - E-) Beyaz alan
     <hr />
-1. <strong>Aşağıdakilerde hangisi yazı karakterinin standart &ouml;l&ccedil;&uuml; birimidir?</strong>
+1. <strong>Aşağıdakilerden hangisi yazı karakterinin standart &ouml;l&ccedil;&uuml; birimidir?</strong>
     - A-) 3D Tipografi
     - **Cevap B-) Punto sistemi**
     - C-) Ağırlık
@@ -461,6 +474,14 @@
     - C-) Grid sistemi
     - **Cevap D-) Hiyerarşi**
     - E-) Tipografik kompozisyon
+    <hr />
+1. Bir i&ccedil;eriği, mesajı ya da bağlamı, enstalasyon pratiği &ccedil;er&ccedil;evesinde metin, harf ve kelimeleri ya da noktalama işaretlerini ve tipografi i&ccedil;erisinde yer alan diğer unsurları kullanarak tasarlamaktır.<br />
+<strong>Buna g&ouml;re, yukarıdaki tanım aşağıdakilerden hangisi ile eşleşmektedir?</strong>
+    - **Cevap A-) Tipografik enstalasyon**
+    - B-) Ekspresif tipografi
+    - C-) Deneysel tipografi
+    - D-) &Ccedil;evresel grafik tasarım
+    - E-) Yeni medya
     <hr />
 1. <strong>Aşağıdakilerden hangisi konvansiyonel tipografiden farklı olarak kreatif s&uuml;rece ve yaratıcı ifadeye &ouml;ncelik verir?</strong>
     - A-) Okunurluk
@@ -484,7 +505,7 @@
     - D-) Renk &ccedil;alışması sanat ve bilimin buluştuğu yerdir.
     - **Cevap E-) Renk teorisinden, grafik tasarım alanında sadece logo ve kurumsal kimlik tasarımı i&ccedil;in faydalanılmaktadır.**
     <hr />
-1. Aşağıdaki renk &ouml;zelliklerinden hangisi bir rengin g&ouml;receli a&ccedil;ıklık veya koyuluk derecesi / yansıtma kalitesi veya parlaklığının tanımıdır?
+1. <strong>Aşağıdaki renk &ouml;zelliklerinden hangisi bir rengin g&ouml;receli a&ccedil;ıklık ya da koyuluk derecesi / yansıtma kalitesi veya parlaklığının tanımıdır?</strong>
     - **Cevap A-) Değer**
     - B-) Doygunluk
     - C-) Ton
@@ -540,6 +561,13 @@
     - D-) Renk sayısını sınırlamak
     - E-) Amacı belirlemek
     <hr />
+1. <strong>Rengin sıcaklığı, mevcut ışığın tonunu g&ouml;steren &ouml;l&ccedil;&uuml;me veya g&uuml;ce karşılık gelen birim nedir?</strong>
+    - A-) Gram
+    - B-) Amper
+    - **Cevap C-) Kelvin**
+    - D-) Watt
+    - E-) Santimetre
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bir rengin g&ouml;r&uuml;n&uuml;r spektrumdaki veya renk tekerleğindeki konumunu belirten ortak addır?</strong>
     - **Cevap A-) Ton**
     - B-) Degrade
@@ -576,7 +604,7 @@
     - D-) D&uuml;zenlenmemiş g&ouml;r&uuml;şme
     - E-) Yanıtlayıcı g&ouml;r&uuml;şmeleri
     <hr />
-1. Aşağıdakilerden hangisi birincil araştırma s&uuml;recindeki veri toplama y&ouml;ntemlerinden birisi <u>değildir</u>?
+1. <strong>Aşağıdakilerden hangisi birincil araştırma s&uuml;recindeki veri toplama y&ouml;ntemlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) G&ouml;zlem
     - B-) G&ouml;r&uuml;şme
     - **Cevap C-) Arşivleri tarama**
@@ -604,7 +632,7 @@
     - **Cevap D-) Y&ouml;nbilgi**
     - E-) Fotağraf
     <hr />
-1. Herhangi bir hiyerarşi ya da sınıflandırma olmaksızın ilişkili kavramların merkez kavramın etrafına yerleştirildiği fikir bulma tekniği hangisidir?
+1. <strong>Herhangi bir hiyerarşi ya da sınıflandırma olmaksızın ilişkili kavramların merkez kavramın etrafına yerleştirildiği fikir bulma tekniği hangisidir?</strong>
     - A-) Semantik ağ
     - **Cevap B-) &Ouml;r&uuml;mcek kavram ağı**
     - C-) Altı şapka
@@ -619,11 +647,11 @@
     - **Cevap E-) Beyaz**
     <hr />
 1. <strong>Tasarımcının bir problemin &ccedil;&ouml;z&uuml;m&uuml;ne belirli bir zaman ayırdıktan sonra, o problemi rafa kaldırdığı ve dikkatini bir s&uuml;re i&ccedil;in bilin&ccedil;li olarak başka bir konuya y&ouml;nelttiği teknik aşağıdakilerden hangisidir?</strong>
-    - A-) 6-3-5 methotu
-    - B-) Galeri tekniği
-    - C-) Zihin haritası
+    - A-) 6-3-5 Metodu
+    - B-) Galeri Tekniği
+    - C-) Zihin Haritası
     - **Cevap D-) Kulu&ccedil;ka**
-    - E-) Beyin fırtınası
+    - E-) Beyin Fırtınası
     <hr />
 1. G&ouml;r&uuml;şmeler, soruların yapısına g&ouml;re sınıflandırıldığında, aşağıdakilerden hangisi bu sınıflandırmada <u>yer almaz</u>?
     - A-) Sohbet tarzında g&ouml;r&uuml;şme
@@ -638,6 +666,13 @@
     - C-) D&uuml;ş&uuml;nceleri d&uuml;zenleme
     - **Cevap D-) Esin kaynakları toplama**
     - E-) Etkili not tutma
+    <hr />
+1. <strong>En fazla ve derinlemesine bilgi edinilmesini sağlayan g&ouml;r&uuml;şme bi&ccedil;imi hangisidir?</strong>
+    - A-) G&ouml;r&uuml;nt&uuml;l&uuml; konuşma programları ile
+    - **Cevap B-) Y&uuml;z y&uuml;ze**
+    - C-) E-posta ile
+    - D-) Telefonla
+    - E-) Mektupla
     <hr />
 ## Unite 8
 1. Aşağıdakilerden hangisi grafik tasarım s&uuml;re&ccedil;leri ile ilgili adımlardan birisi <u>değildir</u>?
@@ -654,7 +689,7 @@
     - **Cevap D-) Yankı**
     - E-) Alıcı
     <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı i&ccedil;in </strong><strong><u>yanlıştır</u></strong><strong>?</strong>
+1. <strong>Aşağıdaki ifadelerden hangisi başarılı bir grafik tasarım iş akışı i&ccedil;in&nbsp;</strong><strong><u>yanlıştır</u></strong><strong>?</strong>
     - A-) A&ccedil;ık İletişim
     - B-) Ayrıntılı Brifing
     - C-) Araştırma ve İlham
@@ -668,7 +703,7 @@
     - D-) Hiyerarşik sistem ve geri y&ouml;n bilgi
     - E-) Bir iletişim kaynağındaki sonu&ccedil; b&ouml;l&uuml;m&uuml;
     <hr />
-1. <strong>Aşağıda grafik tasarım s&uuml;re&ccedil;lerinde araştırma ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Aşağıdaki grafik tasarım s&uuml;re&ccedil;lerinde araştırma ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Konuyu derinlemesine incelemeyi, hedef kitleyi anlamayı ve farklı tarz ve eğilimleri keşfetmeyi i&ccedil;erir.
     - B-) Bir tasarımcı, projenin amacını, hedeflerini ve gereksinimlerini derinlemesine anlamak i&ccedil;in araştırma yapar.
     - C-) Detaylı istatistik rakamlar, hedef kitlenin boyutları ve yapısı gibi konuları i&ccedil;erir.
@@ -696,7 +731,7 @@
     - D-) Konsept Geliştirme
     - E-) Tasarımda Teknolojik Gelişmeler
     <hr />
-1. <strong>Aşağıdakilerden hangisinde m&uuml;şteriye yapılacak sunumlar ve geri d&ouml;n&uuml;ş y&ouml;n bilgisi i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
+1. <strong>M&uuml;şteriye yapılacak sunumlar ve geri d&ouml;n&uuml;ş y&ouml;n bilgisi ile ilgili olarak&nbsp;</strong><strong>aşağıdakilerden hangisi <u>yanlıştır</u></strong><strong>?</strong>
     - **Cevap A-) Sunum yaparken tek bir fikir ile detaylı ve uzun bir anlatım m&uuml;şteriyi etkileyecektir.**
     - B-) M&uuml;şteriye sunum yaparken, alternatif fikirlerinizi de belirtin, bu m&uuml;şteri i&ccedil;in farklı se&ccedil;eneklerin yolunu da a&ccedil;acaktır.
     - C-) Sunumu ayrıntılardan ziyade basit ve &ouml;zet şeklinde anlatın
@@ -709,6 +744,13 @@
     - C-) Markalaşma ve Kimlik
     - **Cevap D-) Flekso Baskı**
     - E-) Ambalaj Tasarımları
+    <hr />
+1. <strong>Aşağıdakilerden hangisi m&uuml;şterinin ihtiya&ccedil;larının tam olarak anlaşılması, tasarımcıların yaratıcı &ccedil;&ouml;z&uuml;mlerini belirli iş hedefleriyle uyumlu hale getirmelerine olanak tanıyan s&uuml;re&ccedil;lerden biridir?</strong>
+    - A-) Yaratıcı Fikir
+    - B-) &Ccedil;&ouml;z&uuml;m Bulma
+    - C-) Mizanpaj
+    - D-) Bilgi Toplama
+    - **Cevap E-) Problemin Tanımı ve &Ouml;zet**
     <hr />
 ## Unite 9
 1. Aşağıdakilerden hangisi tasarımın kontrol&uuml; s&uuml;re&ccedil;lerinden biri <u>değildir</u>?
@@ -746,14 +788,14 @@
     - D-) Gofre Baskı
     - **Cevap E-) Ofset Baskı**
     <hr />
-1. Dijital baskı teknolojileri beş başlıkta toplanmıştır. Aşağıdakilerden hangisi bu başlıkların altında <u>yer almaz</u>?
+1. <strong>Aşağıdakilerden hangisi dijital baskı teknolojilerinin beş başlığından biri <u>değildir</u>?</strong>
     - A-) Elektrofotografik baskı
     - B-) Manyetografik baskıda
     - **Cevap C-) Laserjet baskı**
     - D-) Termografik baskı
     - E-) İyonografik baskı
     <hr />
-1. <strong>UV lakların avantajlarından bahsedilirken aşağıda hangi başlıkta <u>yanlış </u>ifade edilmiştir?</strong>
+1. <strong>UV lakların avantajları ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Y&uuml;ksek enerji gereksinimi**
     - B-) Oda sıcaklığında uygulanabilmesi
     - C-) &Ccedil;evre ya da sağlığa zararlı organik yapı i&ccedil;ermemesi
@@ -781,6 +823,13 @@
     - D-) Perforaj
     - **Cevap E-) Spiral**
     <hr />
+1. <strong>Defter t&uuml;rlerinde g&ouml;rsel &ccedil;ekicilik ve fonksiyonellik avantajları nedeniyle hangi cilt tercih edilir?</strong>
+    - A-) Tel
+    - B-) İplik
+    - C-) Forma
+    - D-) Perforaj
+    - **Cevap E-) Spiral**
+    <hr />
 1. <strong>Aşağıdakilerden hangisi tasarımın kontrol&uuml; s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - **Cevap A-) Baskıyla ilgili sorunu &ccedil;&ouml;zd&uuml; m&uuml;?**
     - B-) Beklentiyi karşılıyor mu?
@@ -788,8 +837,15 @@
     - D-) Se&ccedil;ilen baskı tekniklerinin avantaj ve dezavantajları nelerdir?
     - E-) Baskı s&uuml;reci sorunları neler olabilir?
     <hr />
+1. <strong>Film &ccedil;ıkış̧ makinesi ve bilgisayardan kalıba pozlandırma hangi &uuml;nite vasıtasıyla otomatik olarak yapılır?</strong>
+    - A-) Holajen&uuml;r Plate
+    - B-) Computer To Plate
+    - **Cevap C-) Raster Image Processor**
+    - D-) Elektrofotoğrafik Processor
+    - E-) Krom Processor
+    <hr />
 ## Unite 10
-1. Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n tanımlarından <u>değildir</u>?
+1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;r&uuml;n tanımlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) K&uuml;lt&uuml;r, bir toplumun ya da b&uuml;t&uuml;n toplumların birikimli uygarlığıdır.
     - **Cevap B-) K&uuml;lt&uuml;r, bir dizi kalıtsal s&uuml;re&ccedil;lerin b&uuml;t&uuml;n&uuml;d&uuml;r.**
     - C-) K&uuml;lt&uuml;r belli bir toplumun kendisidir.
@@ -859,6 +915,13 @@
     - D-) Sayfa d&uuml;zeni
     - E-) Tipografi
     <hr />
+1. <strong>&Uuml;r&uuml;n&uuml;n hemen satın alınmasını ya da &uuml;r&uuml;ne ait daha &ccedil;ok bilgi elde edilmesini teşvik eden reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - A-) &Uuml;r&uuml;n yerleştirme
+    - **Cevap B-) Doğrudan reklam**
+    - C-) İll&uuml;strasyon
+    - D-) Dolaylı reklam
+    - E-) Gerilla reklam
+    <hr />
 1. <strong>Aşağıdakilerden hangisi bir d&uuml;ş&uuml;nceyi, olguyu, nesneyi g&ouml;steren semboller b&uuml;t&uuml;n&uuml;d&uuml;r?</strong>
     - A-) Kurumsal kimlik
     - B-) İmaj
@@ -867,7 +930,7 @@
     - E-) Logo
     <hr />
 ## Unite 11
-1. <strong>G&ouml;stergebilimin kurucusu kimdir?</strong>
+1. <strong>G&ouml;stergebilimin kurucusu aşağıdakilerden hangisidir?</strong>
     - A-) Charles Sanders Peirce
     - B-) Roland Barthes
     - C-) Michel Foucault
@@ -902,7 +965,7 @@
     - D-) Jacques Derrida
     - E-) Mehmet Rifat
     <hr />
-1. G&ouml;stergebilimsel olarak d&uuml;zanlam nedir?
+1. <strong>G&ouml;stergebilimsel olarak d&uuml;z anlam nedir?</strong>
     - A-) Bir metnin temsil ettiği ancak ortaya &ccedil;ıkarılması gereken kodlanmış anlamdır.
     - B-) Bir metnin temsil ettiği anlamdır.
     - **Cevap C-) Bir metnin hemen algılanan ve anlaşılan a&ccedil;ık anlamıdır.**
@@ -916,7 +979,7 @@
     - D-) G&ouml;sterdiği şeye aynen benzeyen ve fiziksel olarak s&ouml;zkonusu şey ile &ouml;rt&uuml;şen bir g&ouml;stergedir.
     - E-) Bir metnin g&ouml;stergesel kod sistemidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi g</strong><strong>rafik tasarımcısının yaptığı işlerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi g</strong><strong>rafik tasarımcısının yaptığı işlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Grafik tasarımcı bir g&ouml;sterge &uuml;reticisidir.
     - B-) Grafik tasarımcı bir anlam &uuml;reticisidir.
     - **Cevap C-) Grafik tasarımcı bir teknoloji &uuml;reticisidir.**
@@ -937,8 +1000,15 @@
     - D-) Sosyok&uuml;lt&uuml;rel değişiklikleri inceleyen bir bilim dalıdır.
     - E-) G&ouml;sterge sistemlerini inceleyen bir bilim dalıdır.
     <hr />
+1. <strong>Jean Marie Floch, tasarımda hangi y&ouml;ntemi geliştirmiştir?</strong>
+    - A-) Sembiyosis
+    - **Cevap B-) Brikolaj**
+    - C-) Anlam &uuml;retimi
+    - D-) Sentagmatik sistem
+    - E-) Paradigmatik sistem
+    <hr />
 ## Unite 12
-1. G&ouml;rsel algı aşağıdakilerden hangisini ifade eder?
+1. <strong>G&ouml;rsel algı aşağıdakilerden hangisini ifade eder?</strong>
     - A-) El yazısı becerisi
     - B-) İşitme yeteneği
     - **Cevap C-) &Ccedil;evredeki g&ouml;rsel bilgileri anlama s&uuml;reci**
@@ -952,7 +1022,7 @@
     - D-) Yalnızca renkleri
     - **Cevap E-) Hem şekli hem zemini**
     <hr />
-1. Amerikalı Psikolog James Jerome Gibson&rsquo;ın &ccedil;evreden edinilen bilginin duyular aracılığıyla nasıl algılandığına dikkat &ccedil;eken yaklaşımı aşağıdakilerden hangisidir?
+1. <strong>Amerikalı Psikolog James Jerome Gibson&rsquo;ın &ccedil;evreden edinilen bilginin duyular aracılığıyla nasıl algılandığına dikkat &ccedil;eken yaklaşımı aşağıdakilerden hangisidir?</strong>
     - A-) İnşacı Poziyon
     - B-) G&ouml;rsel Akış
     - C-) Psikolojik Yaklaşım
@@ -1015,6 +1085,13 @@
     - D-) Metin İnceoğlu
     - E-) Dabney Townsend
     <hr />
+1. <strong>G&ouml;rsel algıda kendiliğinden ortaya &ccedil;ıkan bir vurguyu ifade eden Gestalt ilkesi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Odak Noktası**
+    - B-) Pragnanz
+    - C-) Bağlantılılık
+    - D-) Kapanış
+    - E-) Simetri
+    <hr />
 ## Unite 13
 1. Aşağıdakilerden hangisi yaratıcılık s&uuml;recinin &ouml;zelliklerinden biri <u>değildir</u>?
     - A-) Risk almak
@@ -1023,7 +1100,7 @@
     - D-) Alışılmış kalıplardan sıyrılmak
     - **Cevap E-) En kısa yoldan &ccedil;&ouml;z&uuml;me ulaşmak**
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları &ccedil;ıkarımlardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tasarım, psikoloji, sanat ve eğitim alanlarında yaratıcılığı ele alan araştırmacıların bu konu ile ilgili ortaya koydukları &ccedil;ıkarımlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Yaratıcılık doğuştan gelen bir &ouml;zelliktir.
     - B-) Yaratıcılık bir sorun &ccedil;&ouml;zme s&uuml;recidir.
     - C-) Yaratıcı kişiler &ouml;nceki deneyimlerini de aşan ve onlara başkaldıran kişilerdir.
@@ -1101,6 +1178,13 @@
     - D-) Yaratıcılık &ouml;ğretilemez.
     - **Cevap E-) Yaratıcılık bulaşıcıdır.**
     <hr />
+1. <strong>Aşağıdakilerden hangisini Emre Becer&rsquo;in sunduğu yaratıcı y&ouml;ntemlerden biri olan Kulu&ccedil;ka Y&ouml;ntemi i&ccedil;in s&ouml;ylemek uygun olur?</strong>
+    - A-) Kulu&ccedil;ka y&ouml;nteminde araştırma yapmak gerekli değildir, fikir kendiliğinden gelir.
+    - B-) Kulu&ccedil;ka y&ouml;nteminde &ccedil;alışılan konunun dışına &ccedil;ıkılmamalıdır, sadece ana konuya odaklanılmalıdır.
+    - C-) Kulu&ccedil;ka y&ouml;ntemi aniden gelişen bir s&uuml;re&ccedil;tir, hızlı sonu&ccedil; verir.
+    - **Cevap D-) Kulu&ccedil;ka y&ouml;ntemi, araştırılan konu hakkında derin bir araştırma yapılmasını gerektirir, farklı bir konuya odaklanıldığında bilin&ccedil;altı araştırmaları &ouml;z&uuml;mser ve &ccedil;&ouml;z&uuml;mler &uuml;retmeye devam eder.**
+    - E-) Kulu&ccedil;ka s&uuml;resinde bilin&ccedil;altı etkisizdir, bunun yerine aktif olarak daha &ccedil;ok araştırma yapılmalıdır.
+    <hr />
 ## Unite 14
 1. <strong>&Ccedil;izgisel anlatımın grafik tasarımdaki temel amacı aşağıdakilerden hangisidir?</strong>
     - A-) Renk paletini belirlemek
@@ -1137,7 +1221,7 @@
     - D-) Işık ve g&ouml;lge efektlerini vurgulamak
     - E-) Hareket algısı vermek
     <hr />
-1. <strong>Brian Steely&#39;nin logo tasarımlarındaki &ccedil;izgisel anlatım hangi unsurları i&ccedil;erir?</strong>
+1. <strong>Brian Steely&#39;nin logo tasarımlarındaki &ccedil;izgisel anlatım aşağıdaki unsurlardan hangisini i&ccedil;erir?</strong>
     - A-) Sadece renkli arka planlar
     - B-) Hareket etkisi
     - C-) Yalnızca detaylı fig&uuml;rler
@@ -1165,7 +1249,7 @@
     - D-) Renk uyumu
     - **Cevap E-) Derinlemesine inceleme ve ayrıştırma s&uuml;reci**
     <hr />
-1. De Stijl akımı, hangi temel ilkeye odaklanarak nesnel ve evrensel uyumu anlatmıştır?
+1. <strong>De Stijl Akımı, hangi temel ilkeye odaklanarak nesnel ve evrensel uyumu anlatmıştır?</strong>
     - A-) Bi&ccedil;emleme
     - B-) Bireysel duygular
     - C-) Renk paleti
@@ -1178,4 +1262,18 @@
     - C-) Fig&uuml;rleri detaylı bir şekilde tasvir etmek
     - D-) G&ouml;rsel &ouml;geleri karıştırmak
     - E-) Şekilleri g&ouml;stermek
+    <hr />
+1. <strong>Tasarımın lekeselleştirme teknikleriyle ilgili olarak a&ccedil;ık tonlar hangi ama&ccedil;la kullanılır?</strong>
+    - A-) Derinlik ve zenginlik hissi yaratmak
+    - B-) Soyut kavramları temsil etmek
+    - C-) Sadeleştirme tekniklerini g&ouml;rmek
+    - **Cevap D-) Dikkatin &ccedil;ekilmesi gereken noktaları vurgulamak**
+    - E-) G&ouml;rsel dilin inceliklerini kullanmak
+    <hr />
+1. <strong>Lekeselleştirme, tasarımın hangi boyutlarını zenginleştirir?</strong>
+    - A-) Teknik ve somut
+    - **Cevap B-) Soyut ve duygusal**
+    - C-) Matematiksel ve geometrik
+    - D-) Analitik ve eleştirel
+    - E-) Bi&ccedil;im alan ilişkisini
     <hr />

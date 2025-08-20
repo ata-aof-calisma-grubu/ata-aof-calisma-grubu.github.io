@@ -1,7 +1,7 @@
 # Yabancı Dil I
 ## Unite 1
 1. Antalya and Adana ...............&hellip;.. two hot cities in Turkey.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - B-) am
     - C-) isn&#39;t
@@ -10,14 +10,14 @@
     <hr />
 1. A: How old are you?<br />
 B: ..................................... .<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) She is at the school.
     - B-) I am a student
     - C-) They are from İzmir.
     - **Cevap D-) I am thirty years old.**
     - E-) I am American.
     <hr />
-1. We&rsquo;re going to theatre. Do you want to come with &hellip;&hellip;? <br />
+1. We&rsquo;re going to theatre. Do you want to come with &hellip;&hellip;?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) us**
     - B-) our
@@ -25,7 +25,7 @@ B: ..................................... .<br />
     - D-) my
     - E-) we
     <hr />
-1. Our English teachers are from England. <br />
+1. Our English&nbsp;teachers are from England.<br />
 &hellip;&hellip;&hellip;........... new in Turkey.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) He&#39;s
@@ -50,7 +50,7 @@ B: ..................................... .<br />
     - D-) be
     - E-) being
     <hr />
-1. My father and I ....................... abroad for business now.<br />
+1. My father and I&nbsp;.......................&nbsp;abroad for business now.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) is
@@ -58,8 +58,11 @@ B: ..................................... .<br />
     - D-) being
     - E-) are be
     <hr />
-1. My sister and my brother .......... twins.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. My sister and my brother .......... twins<strong>.</strong><br />
+<div>
+	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong></div>
+<div>
+	<strong>getirilmelidir?</strong></div>
     - A-) am
     - B-) is
     - C-) be
@@ -82,7 +85,8 @@ B: ..................................... .<br />
     - D-) &rsquo;m
     - E-) are
     <hr />
-1. <strong>Where __________ you from?</strong>
+1. Where ............................... you from?<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) is
     - **Cevap C-) are**
@@ -114,7 +118,7 @@ B: ..................................... .<br />
     - E-) are be
     <hr />
 1. I ...................... English. I am Turkish.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) is not
     - C-) are
@@ -139,7 +143,7 @@ B: Next Saturday.<br />
     - E-) Where
     <hr />
 1. My sister and my brother ......................... twins. My sister is 21 years old and my brother is 18 years old.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) is not
     - C-) is
@@ -147,14 +151,14 @@ B: Next Saturday.<br />
     - E-) am not
     <hr />
 1. Our car .................... a Japanese car. It is a German car.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - **Cevap B-) is not**
     - C-) is
     - D-) are not
     - E-) am not
     <hr />
-1. When .............your birthday?<br />
+1. When .............your&nbsp;birthday?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
     - B-) is not
@@ -181,7 +185,7 @@ B: ..........................<br />
     <hr />
 1. A: How are you today?<br />
 B: ..................................... .<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) I am eighteen years old.
     - B-) I am at home.
     - C-) I am a teacher.
@@ -198,14 +202,14 @@ B: It is Monday today.<br />
     - E-) we
     <hr />
 1. Nisa and Caner ..................... married. They are very happy.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) are**
     - B-) is
     - C-) am
     - D-) has
     - E-) have
     <hr />
-1. Dilek is my mother. .................. is a nurse. <br />
+1. Dilek is my mother. .................. is a nurse.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) He
     - **Cevap B-) She**
@@ -213,7 +217,7 @@ B: It is Monday today.<br />
     - D-) We
     - E-) It
     <hr />
-1. I ...................... happy with my test scores. My test scores are not good. <br />
+1. I ...................... happy with my test scores. My test scores are not good.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - B-) are
@@ -221,7 +225,7 @@ B: It is Monday today.<br />
     - **Cevap D-) am not**
     - E-) isn&#39;t
     <hr />
-1. A: How old are you? <br />
+1. A: How old are you?<br />
 B: ............................... .<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) I am twenty years old.**
@@ -229,6 +233,15 @@ B: ............................... .<br />
     - C-) I am fine.Thanks.
     - D-) Nice to meet you.
     - E-) My name is Alice.
+    <hr />
+1. Metin: How old are you, Ece?<br />
+Ece: ...................................................... .<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) My name is Ece
+    - B-) Nice to meet you
+    - C-) I&#39;m from England
+    - **Cevap D-) I&#39;m seventeen years old**
+    - E-) I&#39;m a lawyer
     <hr />
 1. A: What color __________ your eyes?<br />
 B: Blue.<br />
@@ -240,7 +253,7 @@ B: Blue.<br />
     - E-) being
     <hr />
 1. My sister and I __________ doctors. We __________ teachers.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) am not / are
     - B-) are / is not
     - **Cevap C-) are not / are**
@@ -248,7 +261,7 @@ B: Blue.<br />
     - E-) are / be not
     <hr />
 ## Unite 2
-1. ................ your sister brush her teeth everyday? <br />
+1. ................ your sister brush her teeth everyday?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Do
     - B-) Don&#39;t
@@ -264,7 +277,7 @@ B: Blue.<br />
     - D-) liking
     - **Cevap E-) like**
     <hr />
-1. Mary &hellip;&hellip;. TV at home every evening. <br />
+1. Mary &hellip;&hellip;. TV at home every evening.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) watching
     - B-) is watch
@@ -272,7 +285,7 @@ B: Blue.<br />
     - D-) watch
     - E-) are watching
     <hr />
-1. My father is a non-smoker. He &hellip;&hellip;....................... smokes. <br />
+1. My father is a non-smoker.&nbsp;He &hellip;&hellip;....................... smokes.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) sometimes
     - B-) often
@@ -281,14 +294,14 @@ B: Blue.<br />
     - E-) rarely
     <hr />
 1. She lives in Antalya with .................. family.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - **Cevap A-) her**
     - B-) she
     - C-) he
     - D-) their
     - E-) our
     <hr />
-1. Susan ............................. to play the piano.<br />
+1. Susan .............................&nbsp;to play the piano.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilirse fiilin geniş zamana g&ouml;re &ccedil;ekimlenmiş h&acirc;li olur?</strong>
     - A-) love
     - B-) loving
@@ -312,7 +325,7 @@ B: Blue.<br />
     - D-) are drinking
     - E-) is drink
     <hr />
-1. It __________ very delicious in the kitchen.<br />
+1. It __________&nbsp;very delicious in the kitchen.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) smell
     - B-) being smell
@@ -368,7 +381,7 @@ B: Blue.<br />
     - E-) Nancy meyveyle birlikte sebze yemeyi sevmez.
     <hr />
 1. Boş zamanlarında ne yaparsın?<br />
-<strong>C&uuml;mlenin en yakın İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
+<strong>C&uuml;mlenin en yakın&nbsp;İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) What do you do in your free time?**
     - B-) Where do you go in your free time?
     - C-) Where do you swim at the weekends?
@@ -376,20 +389,20 @@ B: Blue.<br />
     - E-) What do you do on Saturdays?
     <hr />
 1. Our children ........... in the swimming pool now.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am
-    - B-) is 
+    - B-) is
     - **Cevap C-) are**
     - D-) was
     - E-) do
     <hr />
-1. She ............... to bed before midnight at the weekend.<br />
+1. I ...... football at the weekends.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) gone
-    - B-) went
-    - **Cevap C-) goes**
-    - D-) being called
-    - E-) is going to call
+    - **Cevap A-) play**
+    - B-) plays
+    - C-) played
+    - D-) being played
+    - E-) is going to play
     <hr />
 1. Bug&uuml;nlerde bir&ccedil;ok insan deniz kıyısında yaşamayı tercih ediyor.<br />
 <strong>C&uuml;mlenin İngilizce karşılığı aşağıdakilerden hangisidir?</strong>
@@ -423,6 +436,14 @@ B: Blue.<br />
     - D-) is working
     - E-) not work
     <hr />
+1. Her hair is curly.<br />
+<strong>C&uuml;mlenin T&uuml;rk&ccedil;e karşılığı aşağıdakilerden hangisidir?</strong>
+    - A-) Sizin sa&ccedil;ınız g&uuml;zel.
+    - B-) Onun sa&ccedil;ı uzundur.
+    - C-) Benim sa&ccedil;ım kıvırcıktır.
+    - **Cevap D-) Onun sa&ccedil;ı kıvırcıktır.**
+    - E-) Senin sa&ccedil;ın kıvırcıktır.
+    <hr />
 1. My mom ............................. TV every day.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) plays
@@ -440,7 +461,7 @@ B: ................................................... .<br />
     - D-) At the weekends.
     - E-) Yes, I do.
     <hr />
-1. Ronaldo is a football player. He ................. football. <br />
+1. Ronaldo is a football player. He ................. football.<br />
 <b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b>
     - A-) play
     - B-) played
@@ -448,8 +469,8 @@ B: ................................................... .<br />
     - **Cevap D-) plays**
     - E-) playing
     <hr />
-1. A: What is ................. job? <br />
-B: I am an engineer. <br />
+1. A: What is ................. job?<br />
+B: I am an engineer.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) you
     - B-) yours
@@ -481,7 +502,7 @@ B: I am an engineer. <br />
     - E-) plays
     <hr />
 1. Sarp .................... the piano very well.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) play
     - **Cevap B-) plays**
     - C-) playing
@@ -490,7 +511,7 @@ B: I am an engineer. <br />
     <hr />
 ## Unite 3
 1. There is &hellip;........... swimming pool in the garden.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) a**
     - B-) two
     - C-) an
@@ -513,16 +534,16 @@ B: I am an engineer. <br />
     - D-) Are there
     - **Cevap E-) There isn&rsquo;t**
     <hr />
-1. ______________ ten students in the classroom yesterday.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+1. ............................... a lot of oxygen in the mountains.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) Are there
-    - B-) There is
+    - **Cevap B-) There is**
     - C-) There are
-    - **Cevap D-) There were**
+    - D-) There were
     - E-) Is there
     <hr />
 1. I&rsquo;m not a rich person. I &hellip;.........&hellip;.. a sports car.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) has got
     - B-) have gotten
     - C-) had got
@@ -632,15 +653,15 @@ B: I am an engineer. <br />
     - E-) I problems have some.
     <hr />
 1. My aunt .......................... four children.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) have 
-    - B-) is 
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) have
+    - B-) is
     - C-) have got
     - D-) got
     - **Cevap E-) has got**
     <hr />
 1. Ziona Chana ................................ 39 wives, 94 children and 33 grandchildren.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) haves
     - B-) have got
     - **Cevap C-) has got**
@@ -652,7 +673,7 @@ B: I am an engineer. <br />
     - **Cevap A-) a / The**
     - B-) an/ The
     - C-) a/An
-    - D-) the / The 
+    - D-) the / The
     - E-) the/ An
     <hr />
 1. Robert is very happy because he ............................ a crowded family.<br />
@@ -664,7 +685,7 @@ B: I am an engineer. <br />
     - E-) is got
     <hr />
 1. A Man: What is there around your house? Are there any shops and restaurants?<br />
-A Woman: Yes, ...................... a big shopping center.<br />
+A Woman:&nbsp;Yes, ...................... a big shopping center.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) there are
     - **Cevap B-) there is**
@@ -681,7 +702,7 @@ A Woman: Yes, ...................... a big shopping center.<br />
     - E-) to be
     <hr />
 ## Unite 4
-1. .......................... students are there in the classroom? <br />
+1. .......................... students are there in the classroom?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) How much
     - B-) How long
@@ -705,7 +726,7 @@ A Woman: Yes, ...................... a big shopping center.<br />
     - D-) many
     - E-) an
     <hr />
-1. What time does the bus &hellip;.. the station in the morning? <br />
+1. What time does the bus &hellip;.. the station in the morning?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) see
     - **Cevap B-) leave**
@@ -747,7 +768,7 @@ B: But we have &hellip;..&hellip;. money.<br />
     - E-) many
     <hr />
 1. I have .......... friends.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - **Cevap A-) a lot of**
     - B-) a little
     - C-) little
@@ -763,10 +784,11 @@ B: Single, please<br />
     - **Cevap D-) a**
     - E-) many
     <hr />
-1. much / there / in / İstanbul / traffic / is <br />
-<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle </strong><strong>aşağıdakilerden hangisidir?</strong>
+1. much / there / in / İstanbul / traffic / is<br />
+<div>
+	<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong></div>
     - **Cevap A-) There is much traffic in İstanbul.**
-    - B-) İstanbul is there in much traffic. 
+    - B-) İstanbul is there in much traffic.
     - C-) Much İstanbul is there in traffic.
     - D-) There much is traffic in İstanbul.
     - E-) Much there traffic is in İstanbul.
@@ -848,7 +870,7 @@ B: Single, please<br />
     - D-) few
     - E-) how many
     <hr />
-1. There is ......................... flour in the pack. So it is not enough to make cake.Can you get some? <br />
+1. There is ......................... flour in the pack. So it is not enough to make cake.Can you get some?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) a little**
     - B-) a few
@@ -866,7 +888,7 @@ B: Single, please<br />
     <hr />
 1. ............................. laptops are there in this office?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong>
-    - A-) How much 
+    - A-) How much
     - B-) How often
     - C-) How far
     - **Cevap D-) How many**
@@ -924,7 +946,7 @@ Clerk: ........................................... .<br />
     - D-) ours
     - E-) hers
     <hr />
-1. Melek &hellip;........&hellip; a film right now. <br />
+1. Melek &hellip;........&hellip; a film right now.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) is watching**
     - B-) watch
@@ -950,7 +972,7 @@ Clerk: ........................................... .<br />
     <hr />
 1. A: Excuse me, can I help you?<br />
 B: I &hellip;&hellip; an ice-cream please.<br />
-<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) wants
     - B-) am wanting
     - **Cevap C-) want**
@@ -989,7 +1011,7 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - D-) has
     - E-) doesn&#39;t
     <hr />
-1. ....................... you waiting for us now?<br />
+1.&nbsp;.......................&nbsp;you waiting for us now?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Are**
     - B-) Do
@@ -997,7 +1019,7 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - D-) Does
     - E-) Is
     <hr />
-1. I am at home now and I ....................... breakfast.<br />
+1. I am at home now and I&nbsp;.......................&nbsp;breakfast.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is having
     - B-) are having
@@ -1006,7 +1028,7 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - E-) having
     <hr />
 1. We ................... enjoying our holiday here in Antalya so much.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) are**
     - B-) do
     - C-) don&rsquo;t
@@ -1036,8 +1058,8 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - **Cevap D-) is sleeping**
     - E-) does sleeping
     <hr />
-1. What happened? Why ............... you .................? <br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. What happened? Why ............... you .................?<br />
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are / cry
     - B-) do / crying
     - C-) do / cry
@@ -1045,14 +1067,14 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - E-) doing / cry
     <hr />
 1. Look! They ..................... a hotel.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) are building**
     - B-) do build
     - C-) building not
     - D-) not do building
     - E-) was building
     <hr />
-1. Please, be quiet. Our baby .................... .<br />
+1. Please, be quiet. The baby .................... now.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) do sleep
     - B-) sleep
@@ -1065,16 +1087,16 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - A-) learn
     - B-) learns
     - **Cevap C-) learning**
-    - D-) listen 
+    - D-) listen
     - E-) listening
     <hr />
-1. Listen! Someone ................................... at the door. Who is it? <br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. Listen! Someone ................................... at the door. Who is it?<br />
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are knock
     - **Cevap B-) is knocking**
     - C-) knocks
     - D-) knocked
-    - E-) is knock 
+    - E-) is knock
     <hr />
 1. Andrea Bocelli is ............... a concert in İstanbul at the moment.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdailerden hangisi getirilmelidir?</strong>
@@ -1084,7 +1106,7 @@ B: I &hellip;&hellip; an ice-cream please.<br />
     - D-) crying
     - E-) singing
     <hr />
-1. A: Who does he want to call? <br />
+1. A: Who does he want to call?<br />
 B: .......................................... .<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) My
@@ -1094,15 +1116,15 @@ B: .......................................... .<br />
     - **Cevap E-) Me**
     <hr />
 1. &Ouml;ğrenciler &ouml;ğretmeni dinlemiyordu.<br />
-<strong>Yukarıdaki c</strong><strong>&uuml;mlenin ingilizce karşığı hangisidir? </strong>
-    - A-) The students were listening to the teacher. 
+<strong>Yukarıdaki c</strong><strong>&uuml;mlenin ingilizce karşığı hangisidir?&nbsp;</strong>
+    - A-) The students were listening to the teacher.
     - B-) The students was not listening to the teacher.
     - C-) The teacher was not listening to the students
     - **Cevap D-) The students weren&#39;t listening to the teacher.**
-    - E-) The students aren&#39;t listening to the teacher. 
+    - E-) The students aren&#39;t listening to the teacher.
     <hr />
-1. A: &lsquo;Who is it on the phone?&rsquo; <br />
-B: &lsquo;It&rsquo;s .............., Alp.&rsquo;<br />
+1. A: &lsquo;Who is it on the phone?&rsquo;<br />
+B: &lsquo;It&rsquo;s ..............,&nbsp;Alp.&rsquo;<br />
 <strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) my
     - **Cevap B-) me**
@@ -1134,6 +1156,14 @@ B: &lsquo;It&rsquo;s .............., Alp.&rsquo;<br />
     - **Cevap D-) them**
     - E-) her
     <hr />
+1. Listen! Someone .......................&nbsp;at the door. Is it Mom?<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) have knock
+    - B-) are knock
+    - C-) knocked
+    - D-) knocks
+    - **Cevap E-) is knocking**
+    <hr />
 1. I __________ at the moment. I can help you.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) do work
@@ -1143,8 +1173,8 @@ B: &lsquo;It&rsquo;s .............., Alp.&rsquo;<br />
     - E-) does not work
     <hr />
 ## Unite 6
-1. .................. you play your game last weekend? <br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. .................. you play your game last weekend?<br />
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Do
     - B-) Does
     - **Cevap C-) Did**
@@ -1160,16 +1190,16 @@ B: &lsquo;It&rsquo;s .............., Alp.&rsquo;<br />
     - E-) is
     <hr />
 1. A: Where did Duygu see her friends?<br />
-B: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;...    <br />
+B: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;... <br />
 <strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>
-    - **Cevap A-) She saw them at the cafe.**
-    - B-) Her friends didn&rsquo;t call Duygu.
+    - **Cevap A-) She saw&nbsp;them at the cafe.**
+    - B-) Her friends&nbsp;didn&rsquo;t call Duygu.
     - C-) Duygu see her friends yesterday.
     - D-) Duygu has got two friends.
     - E-) She doesn&rsquo;t see her friends.
     <hr />
 1. A: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..<br />
-B: I went to cinema with my wife. <br />
+B: I went to cinema with my wife.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) What do you do in your free time?
     - **Cevap B-) What did you do yesterday?**
@@ -1177,7 +1207,7 @@ B: I went to cinema with my wife. <br />
     - D-) Where are you from?
     - E-) How did you find the film?
     <hr />
-1. My car is red and &hellip;&hellip;. is black. <br />
+1. My car is red&nbsp;and &hellip;&hellip;. is black.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) hers**
     - B-) them
@@ -1201,8 +1231,9 @@ B: I went to cinema with my wife. <br />
     - D-) starts
     - E-) are starting
     <hr />
-1. nice / a / we / film / yesterday / watched<br />
-<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle </strong><strong>aşağıdakilerden hangisidir?</strong>
+1. <strong>&nbsp;</strong>nice / a / we / film / yesterday / watched<br />
+<div>
+	<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong></div>
     - A-) A nice film watched we yesterday.
     - **Cevap B-) We watched a nice film yesterday.**
     - C-) A film nice watched we yesterday.
@@ -1225,7 +1256,7 @@ B: I went to cinema with my wife. <br />
     - D-) played
     - **Cevap E-) play**
     <hr />
-1. Last night, we ....................... at home.<br />
+1. Last night, we&nbsp;.......................&nbsp;at home.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are
     - **Cevap B-) were**
@@ -1233,7 +1264,7 @@ B: I went to cinema with my wife. <br />
     - D-) was
     - E-) am
     <hr />
-1. In 1998, he ....................... Turkey.<br />
+1. In 1998, he&nbsp;.......................&nbsp;Turkey.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) left**
     - B-) leave
@@ -1257,7 +1288,7 @@ B: I went to cinema with my wife. <br />
     - D-) he&rsquo;s
     - E-) she&rsquo;s
     <hr />
-1. The colour __________the car is red.<br />
+1. &Ccedil;ağdaş bought me a couple ................... shoes.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - **Cevap B-) of**
@@ -1275,7 +1306,7 @@ B: I ............. at the cinema.<br />
     - E-) am
     <hr />
 1. My friend ......................... me with my work yesterday.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) helped**
     - B-) help
     - C-) helps
@@ -1307,7 +1338,7 @@ B: I ............. at the cinema.<br />
     - E-) I&rsquo;m
     <hr />
 1. My wife and I &hellip;.... in Spain last summer.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) am
     - B-) are
     - C-) is
@@ -1315,7 +1346,7 @@ B: I ............. at the cinema.<br />
     - E-) was
     <hr />
 1. Their friends are really hardworking. But ............ are very clever.<br />
-<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
     - A-) she
     - B-) we
     - C-) we are
@@ -1336,7 +1367,7 @@ B: I ............. at the cinema.<br />
     - B-) his
     - **Cevap C-) hers**
     - D-) herself
-    - E-) she 
+    - E-) she
     <hr />
 1. A: What is the name ................ the cat?<br />
 B: It is Smoke.<br />
@@ -1353,7 +1384,7 @@ B: It is Smoke.<br />
     - B-) Hakan is not playing football on Satuday.
     - **Cevap C-) Hakan didn&#39;t play football last Saturday.**
     - D-) Hakan did not played football last Saturday.
-    - E-) Did Hakan play football last Sunday? 
+    - E-) Did Hakan play football last Sunday?
     <hr />
 1. I ........................ my uncle yesterday.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1372,7 +1403,7 @@ B: It is Smoke.<br />
     - E-) cut off
     <hr />
 1. I __________ my uncle yesterday.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) visit
     - B-) visits
     - C-) visiting
@@ -1380,8 +1411,8 @@ B: It is Smoke.<br />
     - **Cevap E-) visited**
     <hr />
 ## Unite 7
-1. Dilek had an &hellip;............&hellip; yesterday and she called an ambulance. <br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. Dilek had an &hellip;............&hellip; yesterday and she called an ambulance.<br />
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) fall
     - B-) look
     - **Cevap C-) accident**
@@ -1396,7 +1427,7 @@ B: It is Smoke.<br />
     - D-) are at the school
     - E-) sometimes smoke
     <hr />
-1. ......&hellip;. are my father&rsquo;s keys. <br />
+1. ............................... are my books.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) This
     - B-) Them
@@ -1404,7 +1435,7 @@ B: It is Smoke.<br />
     - D-) Their
     - **Cevap E-) These**
     <hr />
-1. Serpil ........................ in 1985 in Holland. <br />
+1. Serpil&nbsp;........................ in 1985 in Holland.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) born
     - **Cevap B-) was born**
@@ -1412,10 +1443,10 @@ B: It is Smoke.<br />
     - D-) did borned
     - E-) borned
     <hr />
-1. When you called me, &hellip;&hellip;&hellip;.. .  <br />
+1. When you called me, &hellip;&hellip;&hellip;.. .<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) I was studying for my exam.**
-    - B-) you are studying for your exam.
+    - B-) you are studying&nbsp;for your exam.
     - C-) I study for my exam.
     - D-) you didn&rsquo;t study for your exam.
     - E-) I am studying for my exam.
@@ -1437,7 +1468,7 @@ B: It is Smoke.<br />
     - E-) am
     <hr />
 1. Mustafa / at / got / 7 / up / o&#39;clock<br />
-<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle </strong><strong>aşağıdakilerden hangisidir?</strong> 
+<strong>Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı c&uuml;mle&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong> 
     - **Cevap A-) Mustafa got up at 7 o&#39;clock.**
     - B-) Mustafa at 7 o&#39;clock got up.
     - C-) Mustafa up got at 7 o&#39;clock.
@@ -1445,15 +1476,17 @@ B: It is Smoke.<br />
     - E-) At 7 o&#39;clock, Mustafa up got.
     <hr />
 1. I was .......... bicycle at this time yesterday.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong><br />
-<strong>getirilmelidir?</strong>
+<div>
+	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi</strong></div>
+<div>
+	<strong>getirilmelidir?</strong></div>
     - A-) listening
     - **Cevap B-) riding**
     - C-) liking
     - D-) going
     - E-) sleeping
     <hr />
-1. What ....................... he doing when you arrived at home?<br />
+1. What&nbsp;.......................&nbsp;he doing when you arrived at home?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) did
     - B-) do
@@ -1461,7 +1494,7 @@ B: It is Smoke.<br />
     - **Cevap D-) was**
     - E-) does
     <hr />
-1. When you called me, I ....................... my homework.<br />
+1. When you called me, I&nbsp;.......................&nbsp;my homework.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) am doing
     - B-) are doing
@@ -1502,7 +1535,7 @@ B: It is Smoke.<br />
     - E-) I at time this yesterday was riding bicycle.
     <hr />
 1. Yesterday he ................... washing his car.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) was**
     - B-) were
     - C-) am
@@ -1510,7 +1543,7 @@ B: It is Smoke.<br />
     - E-) are
     <hr />
 1. When I woke up, they ............... having breakfast.<br />
-<strong>C&uuml;mlede </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>C&uuml;mlede&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are
     - **Cevap B-) were**
     - C-) is
@@ -1533,6 +1566,14 @@ B: It is Smoke.<br />
     - D-) Where were
     - E-) Where am
     <hr />
+1. I read &hellip;&hellip;. books last summer.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) that
+    - B-) this
+    - C-) a
+    - D-) this is
+    - **Cevap E-) these**
+    <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;.. building is very old. They built it 2000 years ago.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) This**
@@ -1549,7 +1590,7 @@ B: It is Smoke.<br />
     - D-) studying
     - E-) study
     <hr />
-1. Dad has got some health problems. He needs medical &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. . <br />
+1. Dad has got some health problems. He needs medical &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. .<br />
 <b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b>
     - **Cevap A-) treatment**
     - B-) artist
@@ -1598,7 +1639,7 @@ B: It is Smoke.<br />
     - D-) was seen
     - E-) seeing
     <hr />
-1. A: .............................................................? <br />
+1. A: .............................................................?<br />
 B: She has been there for 5 days.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Have you ever been to the hospital?
@@ -1607,9 +1648,9 @@ B: She has been there for 5 days.<br />
     - D-) How many days was she in the hospital for?
     - E-) How long did she stay in the hospital?
     <hr />
-1. My sister hasn&rsquo;t finished her homework ............... . <br />
+1. My sister hasn&rsquo;t&nbsp;finished her homework ............... .<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) since 
+    - A-) since
     - B-) just
     - C-) already
     - **Cevap D-) yet**
@@ -1675,7 +1716,7 @@ B: She has been there for 5 days.<br />
     - D-) second
     - E-) fifth
     <hr />
-1. Have you .......................your homework? <br />
+1. Have you .......................your homework?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) did
     - B-) does
@@ -1683,8 +1724,8 @@ B: She has been there for 5 days.<br />
     - **Cevap D-) done**
     - E-) do
     <hr />
-1. We have ....................... that film.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+1. We have&nbsp;.......................&nbsp;that film.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) saw
     - **Cevap B-) seen**
     - C-) see
@@ -1746,6 +1787,15 @@ B: She has been there for 5 days.<br />
     - D-) losed
     - E-) loses
     <hr />
+1. A: How long has she been there?<br />
+B: ...................................................... .<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) Last year
+    - B-) In 1990
+    - **Cevap C-) For three days**
+    - D-) Ten years ago
+    - E-) Ten years before
+    <hr />
 1. We need to buy some .......................... for our kitchen: a table and four chairs.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) room
@@ -1763,7 +1813,7 @@ B: She has been there for 5 days.<br />
     - **Cevap E-) have had**
     <hr />
 1. I have ................ finished my homework.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) yet
     - B-) for
     - C-) up to now
@@ -1771,19 +1821,19 @@ B: She has been there for 5 days.<br />
     - **Cevap E-) already**
     <hr />
 ## Unite 9
-1. A: What have you been doing? <br />
+1. A: What have you been doing?<br />
 B: _____________________ .<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - **Cevap A-) I have been studying**
-    - B-) I don&rsquo;t have an exam 
+    - B-) I don&rsquo;t have an exam
     - C-) She has been at home
     - D-) You have been sleep
     - E-) I have watching TV
     <hr />
-1. A: Are you hungry?<br />
-B: No, I have ............. had breakfast. <br />
+1. A: Have you cleaned the shower yet?<br />
+B:&nbsp;I&#39;ve ............................... done it. I did it two hours ago.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) yet
+    - A-) yesterday
     - B-) still
     - C-) until
     - D-) now
@@ -1797,7 +1847,7 @@ B: No, I have ............. had breakfast. <br />
     - D-) one
     - E-) second
     <hr />
-1. I _______ lately.<br />
+1.&nbsp;I _______ lately.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) haven&rsquo;t seen Zeynep**
     - B-) doesn&rsquo;t see Zeynep
@@ -1868,20 +1918,20 @@ B: For two hours.<br />
     - D-) never see
     - E-) never been seeing
     <hr />
-1. I ....................... staying at a hotel for five days.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+1. I&nbsp;.......................&nbsp;staying at a hotel for five days.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) has
     - B-) is having
     - C-) has been
     - **Cevap D-) have been**
     - E-) is being
     <hr />
-1. My sister ....................... sleeping since 8 pm last night.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
-    - A-) have 
+1. My sister&nbsp;.......................&nbsp;sleeping since 8 pm last night.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+    - A-) have
     - B-) was
     - C-) is
-    - D-) have been 
+    - D-) have been
     - **Cevap E-) has been**
     <hr />
 1. How long ______________ working in this bank?<br />
@@ -1891,6 +1941,14 @@ B: For two hours.<br />
     - C-) been you have
     - D-) you been have
     - E-) have been you
+    <hr />
+1. I ................ watched this film twice<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - **Cevap A-) have**
+    - B-) have been
+    - C-) am
+    - D-) having been
+    - E-) been
     <hr />
 1. She .......................... ill for days.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
@@ -1956,9 +2014,9 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
     - E-) are waiting
     <hr />
 1. Jane: When did you graduate from university?<br />
-Alice: I graduated in 2006. <br />
-Jane: ........................................ ?<br />
-Alice: Yes, I have. <br />
+Alice: I graduated in 2006.<br />
+Jane:&nbsp;........................................ ?<br />
+Alice: Yes, I have.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Have you been working here since then**
     - B-) How long have you worked here
@@ -1974,7 +2032,7 @@ Alice: Yes, I have. <br />
     - **Cevap D-) has been living**
     - E-) is living
     <hr />
-1. A: ................. have you been living in London? <br />
+1. A: ................. have you been living in London?<br />
 B: For five years.<br />
 <strong>Yukarıdaki konuşmayı hangisi doğru şekilde tamamlar?</strong>
     - A-) What about
@@ -1983,8 +2041,8 @@ B: For five years.<br />
     - D-) How much
     - E-) How many
     <hr />
-1. They have been working on this project .................... this morning.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+1. They have&nbsp;been working on this project .................... this morning.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) yet
     - B-) already
     - C-) ever
@@ -1994,13 +2052,13 @@ B: For five years.<br />
 ## Unite 10
 1. We arrived at the ........... late, so we missed the plane.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) station 
+    - A-) station
     - B-) theatre
     - C-) garage
     - D-) cinema
     - **Cevap E-) airport**
     <hr />
-1. My father _____ a house after he had sold his car. <br />
+1. My father&nbsp;_____ a house after he had sold his car.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) buy
     - B-) buying
@@ -2008,7 +2066,7 @@ B: For five years.<br />
     - D-) buys
     - **Cevap E-) bought**
     <hr />
-1. The train _______ the station before Ali arrived. <br />
+1. The train _______ the station before&nbsp;Ali arrived.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) did leave
     - B-) was left
@@ -2024,7 +2082,7 @@ B: For five years.<br />
     - **Cevap D-) slept**
     - E-) was slept
     <hr />
-1. They .......... bought a new car before they sold their old car. <br />
+1. They .......... bought a new car before they sold their old car.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) has
     - **Cevap B-) had**
@@ -2093,8 +2151,8 @@ B: For five years.<br />
     - **Cevap D-) had read**
     - E-) had reading
     <hr />
-1. When I arrived at the bus station, the bus ....................... already left.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+1. When I arrived at the bus station, the bus&nbsp;.......................&nbsp;already left.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) has
     - **Cevap B-) had**
     - C-) was
@@ -2165,9 +2223,9 @@ Terry: .............................................. .<br />
     - B-) Because she is happy.
     - C-) Because she passed the exam.
     - D-) Because she is in the exam now.
-    - E-) Because she likes the school. 
+    - E-) Because she likes the school.
     <hr />
-1. It was a hard and .................... exam for her. She had expected an easier exam.<br />
+1. It was a hard and&nbsp;.................... exam for her. She had expected an easier exam.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) previous
     - B-) enough
@@ -2184,7 +2242,7 @@ Terry: .............................................. .<br />
     - E-) has left
     <hr />
 1. She couldn&rsquo;t buy the shoes because she................ her money.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) lose
     - B-) losing
     - C-) was losing
@@ -2201,7 +2259,7 @@ B:_________________________ .<br />
     - D-) He is friendly.
     - E-) He is a kind man.
     <hr />
-1. A: What do you think about the match tomorrow? <br />
+1. A: What do you think about the match tomorrow?<br />
 B: __________________________________ .<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Our team will win the match**
@@ -2210,7 +2268,7 @@ B: __________________________________ .<br />
     - D-) The other team wins the match
     - E-) We are win the match
     <hr />
-1. Ayşe____ us tomorrow. <br />
+1. Ayşe____&nbsp;us tomorrow.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) visits
     - **Cevap B-) is visiting**
@@ -2226,14 +2284,13 @@ B: __________________________________ .<br />
     - D-) friendly
     - **Cevap E-) selfish**
     <hr />
-1. A: Is he tall or short?<br />
+1. A: Is he fat or thin?<br />
 B: He is ....................<br />
-Which of the following completes the dialogue above?<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) hot
-    - B-) fat
+    - B-) tall
     - C-) cool
-    - **Cevap D-) medium height**
+    - **Cevap D-) medium weight**
     - E-) rainy
     <hr />
 1. A: What do you think about Ali?<br />
@@ -2289,16 +2346,17 @@ Which of the following completes the dialogue above?<br />
     - E-) insensitive
     <hr />
 1. A: And, would you like a salad as well?<br />
-B: ....................... <br />
-<strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong>
+B:&nbsp;.......................<br />
+<div>
+	<strong>Aşağıdakilerden hangisi diyaloğu en iyi şekilde tamamlar?</strong></div>
     - A-) Can I get you anything to drink?
     - B-) Of course, here you are.
     - **Cevap C-) Yes please. That will be nice.**
     - D-) I like s&uuml;tla&ccedil;.
     - E-) I will be back in a few minutes.
     <hr />
-1. I think it ....................... rain tonight. <br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+1. I think it&nbsp;.......................&nbsp;rain tonight.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong>
     - A-) is
     - B-) was
     - C-) did
@@ -2307,7 +2365,7 @@ B: ....................... <br />
     <hr />
 1. A: What is ayran?<br />
 B: ____________________.<br />
-<strong>Karşılıklı konuşmada </strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+<strong>Karşılıklı konuşmada&nbsp;</strong><strong>boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) I will have a doner, please.
     - B-) He is medium weight.
     - C-) He is medium height.
@@ -2364,7 +2422,7 @@ Which of the following completes the dialogue above? ,<br />
     - D-) had visited
     - E-) have had visited
     <hr />
-1. We&#39;ve bought the tickets. We ....................... to London next week. <br />
+1. We&#39;ve bought the tickets. We ....................... to London next week.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) are fly
     - **Cevap B-) are going to fly**
@@ -2383,6 +2441,14 @@ The waiter: OK. Would you like something to drink?<br />
     - D-) What do you recommend?
     - E-) What do you have?
     <hr />
+1. Filiz ............... today, because it is too late now.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - A-) will come
+    - B-) be going to come
+    - **Cevap C-) won&rsquo;t come**
+    - D-) not be going to come
+    - E-) didn&rsquo;t come
+    <hr />
 1. He ..................... buy a new laptop because his computer&rsquo;s speed is not good.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) will be
@@ -2393,7 +2459,7 @@ The waiter: OK. Would you like something to drink?<br />
     <hr />
 1. A: What is she like?<br />
 B: She always thinks negatively. She is very ..........................<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) honest
     - B-) easy-going
     - **Cevap C-) pessimistic**
@@ -2401,7 +2467,7 @@ B: She always thinks negatively. She is very ..........................<br />
     - E-) lazy
     <hr />
 ## Unite 12
-1. The library is ______ the bus stop. <br />
+1. The library is ______&nbsp;the bus stop.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) at
     - **Cevap B-) close to**
@@ -2409,7 +2475,7 @@ B: She always thinks negatively. She is very ..........................<br />
     - D-) under
     - E-) to
     <hr />
-1. Cenk lives ____ Bursa. <br />
+1. Cenk lives ____ Bursa.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) on
     - B-) from
@@ -2417,7 +2483,7 @@ B: She always thinks negatively. She is very ..........................<br />
     - D-) through
     - E-) for
     <hr />
-1. A: .................................... ? <br />
+1. A: .................................... ?<br />
 B: It&rsquo;s behind the hospital.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) What is police station?
@@ -2426,7 +2492,7 @@ B: It&rsquo;s behind the hospital.<br />
     - D-) When will you go to the police station?
     - E-) Who will go to police station?
     <hr />
-1. My pencil is .............. my books and her books. <br />
+1. My pencil is .............. my books and her books.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) at
     - B-) into
@@ -2434,7 +2500,7 @@ B: It&rsquo;s behind the hospital.<br />
     - D-) up
     - E-) along
     <hr />
-1. There is a picture___ the wall. <br />
+1. There is a picture___ the wall.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) at
     - B-) into
@@ -2451,9 +2517,8 @@ B: It&rsquo;s behind the hospital.<br />
     - E-) on
     <hr />
 1. A: Where is the secondary school?<br />
-B: __________________________.<br />
-<strong>Which of the following completes the dialogue above?<br />
-Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> 
+B: ............................................................ .<br />
+<strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Yes, go along this street.
     - B-) Yes, there is.
     - C-) No, there is not.
@@ -2521,7 +2586,7 @@ Aşağıdakilerden hangisi yukarıdaki t&uuml;mceyi doğru şekilde tamamlar?</s
     <hr />
 1. A: Where is the post office?<br />
 B: ___________________<br />
-<strong>Karşılıklı konuşmayı uygun şekilde tamamlayan ifade aşağıdakilerden hangisidir?</strong>
+<strong>Karşılıklı konuşmayı uygun şekilde tamamlayan ifade&nbsp;aşağıdakilerden hangisidir?</strong>
     - A-) Yes, go along this street.
     - B-) Yes, there is.
     - C-) No, there is not.
@@ -2553,7 +2618,7 @@ B: ___________________<br />
     - E-) over
     <hr />
 1. Go ................. this street and take the first left into the high street. It&rsquo;s between the cinema and the theatre<br />
-<b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </b>
+<b>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</b>
     - A-) on
     - B-) under
     - C-) over
@@ -2586,7 +2651,7 @@ Which of the following completes the sentence above?<br />
     - D-) next
     - E-) behind
     <hr />
-1. After you get off the bus, go along the High street. You will see a bank on your left. Go ................. the bank and turn right. The first building is my place. You can&#39;t miss it. <br />
+1. After you get off the bus, go along the High street. You will see a bank on your left. Go ................. the bank and turn right. The first building is my place. You can&#39;t miss it.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) into
     - B-) through
@@ -2595,7 +2660,7 @@ Which of the following completes the sentence above?<br />
     - E-) among
     <hr />
 1. The boy is hiding ..................... the wall.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) in
     - B-) at
     - C-) with
@@ -2618,17 +2683,17 @@ B:________________ .<br />
     - B-) I was born at 1985
     - C-) You were from Istanbul
     - **Cevap D-) I was born in 1985**
-    - E-) I was born at Izmir
+    - E-) I&nbsp;was born at Izmir
     <hr />
-1. It snows here every year .......... December, January, and February. <br />
+1. It snows here every year .......... December, January, and February.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) in**
     - B-) over
-    - C-) at 
+    - C-) at
     - D-) for
     - E-) since
     <hr />
-1. Do you go to school _______ Sundays? <br />
+1. Do you go to school _______ Sundays?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) in
     - **Cevap B-) on**
@@ -2646,10 +2711,10 @@ B:________________ .<br />
     <hr />
 1. My advisor has been living in Dubai __________ two years.<br />
 <b>C&uuml;mlede boş bırakılan yere uygun d&uuml;şen ifade aşağıdakilerden hangisidir?</b>
-    - A-) about 
+    - A-) about
     - B-) since
-    - C-) in 
-    - D-) among 
+    - C-) in
+    - D-) among
     - **Cevap E-) for**
     <hr />
 1. A: When did the bus leave?<br />
@@ -2750,7 +2815,7 @@ Which of the following completes the sentence above?<br />
     - D-) into
     - E-) at
     <hr />
-1. She usually gets up ............... 10 o&#39;clock ................ the weekends. <br />
+1. She usually gets up ............... 10 o&#39;clock ................ the weekends.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) at / at**
     - B-) on / at
@@ -2759,9 +2824,9 @@ Which of the following completes the sentence above?<br />
     - E-) at / in
     <hr />
 1. Jack: Why did you get up so early?<br />
-Joe: We went to Trabzon to visit my elder brother<br />
+Joe:&nbsp;We went to Trabzon to visit my elder brother<br />
 Jack: .................................................?<br />
-Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; we went to the coach station in time to catch the bus.<br />
+Joe: Of course by bus. There are no trains to Trabzon.&nbsp;The bus was at 8.30 so; we went to the coach station in time to catch the bus.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Do you like travelling on a train
     - B-) What time does the train leave from Trabzon
@@ -2769,7 +2834,7 @@ Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; w
     - D-) Which one is more expensive? Train or Bus
     - E-) Who will you travel with on the train
     <hr />
-1. Shakespeare is a very <u>famous</u> playwright and poet. <br />
+1. Shakespeare is a very <u>famous</u> playwright and poet.<br />
 <strong>C&uuml;mlede altı &ccedil;izili kelimenin yerine aşağıdakilerden hangisi getirilebilir?</strong>
     - **Cevap A-) well-known**
     - B-) lucky
@@ -2778,7 +2843,7 @@ Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; w
     - E-) handsome
     <hr />
 1. What do you think about having a picnic ................. the weekend?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) beneath
     - B-) under
     - C-) in
@@ -2794,7 +2859,7 @@ Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; w
     - E-) off
     <hr />
 ## Unite 14
-1. Europe has _____ life standards than Africa. <br />
+1. Europe has _____ life standards than Africa.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) good
     - B-) bad
@@ -2811,15 +2876,15 @@ Joe: Of course by bus. There are no trains to Trabzon. The bus was at 8.30 so; w
     - **Cevap E-) older**
     <hr />
 1. A: How was the exam?<br />
-B: It was_________ I expected. <br />
+B: It was_________ I expected.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) more easy than
     - B-) easy as
     - C-) difficult than
-    - D-) most difficult than 
+    - D-) most difficult than
     - **Cevap E-) more difficult than**
     <hr />
-1. Erzurum is______ than Bursa in winter. <br />
+1. Erzurum is______ than Bursa in winter.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) higher
     - B-) younger
@@ -2827,7 +2892,7 @@ B: It was_________ I expected. <br />
     - D-) slimmer
     - E-) stronger
     <hr />
-1. Gold is ................ metal in the world. <br />
+1. Gold is ................ metal in the world.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) most expensive
     - B-) more expensive
@@ -2852,16 +2917,18 @@ B: It was_________ I expected. <br />
     - E-) worst
     <hr />
 1. I am 52 years old and you are 30. So, I am ....................... than you.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>getirilmelidir?</strong>
+<div>
+	<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>getirilmelidir?</strong></div>
+<div>
+	&nbsp;</div>
     - A-) the old
     - B-) the oldest
     - C-) oldest
     - D-) the older
     - **Cevap E-) older**
     <hr />
-1. Mount Ağrı is ______________ Mount Paland&ouml;ken.<br />
-<strong>Which of the following completes the sentence above?<br />
-Aşağıdakilerden hangisi yukarıdaki t&uuml;mceyi doğru şekilde tamamlar?</strong> 
+1. Mount Ağrı is .............................. Mount Paland&ouml;ken.<br />
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) higher than**
     - B-) high than
     - C-) highest
@@ -2926,9 +2993,9 @@ Aşağıdakilerden hangisi yukarıdaki t&uuml;mceyi doğru şekilde tamamlar?</s
     - **Cevap E-) the most intelligent**
     <hr />
 1. Rachael: ......................................... ?<br />
-Duru: Adana. Maybe it&#39;s the hottest city now in August. <br />
+Duru: Adana. Maybe it&#39;s the hottest city now in August.<br />
 Rachael: So, when should I go there?<br />
-Duru: In spring. <br />
+Duru: In spring.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
     - A-) Are you from Adana
     - B-) Does your family live in Adana
@@ -2945,7 +3012,7 @@ Duru: In spring. <br />
     - E-) priority
     <hr />
 1. Among all the students, Ashley is the ................... at math.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi </strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi&nbsp;</strong><strong>ge</strong><strong>ti</strong><strong>rilmelidir?</strong>
     - A-) bad
     - B-) worse
     - **Cevap C-) worst**

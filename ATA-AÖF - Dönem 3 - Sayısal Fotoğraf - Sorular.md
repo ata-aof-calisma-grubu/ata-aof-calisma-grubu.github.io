@@ -50,11 +50,11 @@
     - **Cevap E-) Kameralı olması**
     <hr />
 1. <strong>Bir bilgisayarla birlikte kullanılmak &uuml;zere geliştirilen ilk g&ouml;r&uuml;nt&uuml; tarayıcı a</strong><strong>şağıdakilerden hangisidir?</strong>
-    - A-) Masa&uuml;st&uuml; 
-    - B-) Tablet 
+    - A-) Masa&uuml;st&uuml;
+    - B-) Tablet
     - **Cevap C-) Tambur**
-    - D-) Kambur 
-    - E-) Diz &uuml;st&uuml; 
+    - D-) Kambur
+    - E-) Diz &uuml;st&uuml;
     <hr />
 1. <strong>Cep telefonunda &ldquo;panorama&rdquo; modunu ilk kez aşağıdaki firmalardan hangisi geliştirmiştir?</strong>
     - A-) Sony
@@ -143,7 +143,7 @@ III. Ger&ccedil;ekliğin sunumu abartılmıştır.<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Film kullanmaksızın, g&ouml;r&uuml;nt&uuml;leri manyetik disk &uuml;zerine kayıt yapan ilk fotoğraf makinesini pazara sunan firma aşağıdakilerden hangisidir? </strong>
+1. <strong>Film kullanmaksızın, g&ouml;r&uuml;nt&uuml;leri manyetik disk &uuml;zerine kayıt yapan ilk fotoğraf makinesini pazara sunan firma aşağıdakilerden hangisidir?&nbsp;</strong>
     - **Cevap A-) Sony**
     - B-) Kodak
     - C-) Fuji
@@ -160,7 +160,7 @@ III. Sosyal medya<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>1987&#39;de Thomas ve John Knoll kardeşler tarafından geliştirilen ve g&uuml;n&uuml;m&uuml;zde de yaygın olarak kullanılan g&ouml;r&uuml;nt&uuml; işleme programı aşağıdakilerden hangisidir?</strong>
+1. <strong>1987&#39;de&nbsp;Thomas ve John Knoll kardeşler tarafından geliştirilen ve g&uuml;n&uuml;m&uuml;zde de yaygın olarak kullanılan g&ouml;r&uuml;nt&uuml; işleme programı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Photoshop**
     - B-) Edius
     - C-) Adobe Premiere
@@ -217,7 +217,7 @@ III. Sosyal medya<br />
     - D-) Sarı
     - E-) Kahverengi
     <hr />
-1. <strong>Aşağıdakilerden hangisi soğuk renkler arasından</strong><strong> <u>yer almaz</u></strong><strong>?</strong>
+1. <strong>Aşağıdakilerden hangisi soğuk renkler arasında</strong><strong>&nbsp;<u>yer almaz</u></strong><strong>?</strong>
     - A-) Mor
     - B-) A&ccedil;ık Mor
     - C-) Mavi
@@ -317,7 +317,7 @@ Yukarıda boş bırakılan yere hangi ifadenin yerleştirilmesi uygun olur?</str
     - E-) Doku
     <hr />
 1. Fotoğrafta kompozisyonu oluşturan &ccedil;izgilerin yatay, dik, &ccedil;apraz veya eğri durumda karede bulunmaları, izleyici &uuml;zerinde farklı hisler oluşturmaktadır.<br />
-<strong>Buna g&ouml;re izleyicide </strong><strong>genel olarak kararlılık, istikrar, yumuşaklık ve huzur hissi uyandıran &ccedil;izgiler aşağıdakilerden hangisidir?</strong>
+<strong>Buna g&ouml;re izleyicide&nbsp;</strong><strong>genel olarak kararlılık, istikrar, yumuşaklık ve huzur hissi uyandıran &ccedil;izgiler aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Yatay &ccedil;izgiler**
     - B-) Dikey &ccedil;izgiler
     - C-) &Ccedil;apraz &ccedil;izgiler
@@ -348,7 +348,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
-    - D-) II ve III 
+    - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
 ## Unite 3
@@ -366,7 +366,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) 360 derece kameralar
     - E-) Aksiyon kameraları
     <hr />
-1. <strong>En y&uuml;ksek megapiksel &ouml;zelliğine sahip makine t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>En y&uuml;ksek megapiksel &ouml;zelliğine sahip&nbsp;makine t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Aksiyon
     - B-) DSLR
     - C-) Kompakt
@@ -380,7 +380,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) DSRL kameralar
     - E-) Drone kameralar
     <hr />
-1. <strong>Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi profesyonel, sağlam ve dayanıklı makine modellerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Nikon D850
     - B-) Canon 1DXMII
     - C-) Pentax K-1II
@@ -450,7 +450,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) Stereo Realist
     - E-) Fujifilm FinePix Real 3D
     <hr />
-1. <strong>Drone fotoğraf&ccedil;ılığı, insansız u&ccedil;ak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan y&ouml;netilen veya otonom &hellip;&hellip;&hellip; ile yapılan fotoğraf/video &ccedil;ekimidir.</strong><br />
+1. <strong>Drone fotoğraf&ccedil;ılığı, insansız u&ccedil;ak sistemi (UAS) veya daha yaygın olarak drone olarak bilinen, uzaktan y&ouml;netilen veya otonom &hellip;&hellip;&hellip;&nbsp;ile yapılan fotoğraf/video &ccedil;ekimidir.</strong><br />
 <strong>Metinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Paramotor
     - **Cevap B-) İnsansız hava aracı**
@@ -458,7 +458,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) Rrobot kol
     - E-) İnsanlı hava aracı
     <hr />
-1. <strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının &ouml;zellikleri arasında <u>yer almaz</u>? </strong>
+1. <strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının &ouml;zellikleri arasında <u>yer almaz</u>?&nbsp;</strong>
     - A-) En yaygın kullanılan kameralı cihazlardır.
     - B-) Sabit bir ya da birden fazla lense sahiptirler.
     - C-) K&uuml;&ccedil;&uuml;k algılayıcıları bulunur.
@@ -501,7 +501,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) Obt&uuml;rat&ouml;r
     - E-) Diyafram
     <hr />
-1. <strong>Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle aşırı hızlı, hareketli işlerde ve s&uuml;rekli &ccedil;ekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?</strong>
+1. <strong>Kompakt makinelerden daha sağlam ve dayanıklı olan ve genellikle&nbsp;aşırı hızlı, hareketli işlerde ve s&uuml;rekli &ccedil;ekimlerde kullanmaya elverişli yapıdaki kameralar aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Aksiyon kameraları**
     - B-) SLR kameralar
     - C-) Drone kameralar
@@ -510,9 +510,9 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     <hr />
 1. <strong>İleri amat&ouml;r ve profesyonel bir&ccedil;ok fotoğraf&ccedil;ıya m&uuml;kemmel g&ouml;r&uuml;nt&uuml; kalitesi ve ciddi kullanım olanakları sunan, &uuml;zerinde değiştirilebilir lens olan ve &ccedil;ekim &ouml;ncesi g&ouml;r&uuml;len &ccedil;er&ccedil;evenin &ccedil;ekimde de aynı şekilde sens&ouml;re d&uuml;ş&uuml;r&uuml;lmesi ile g&ouml;r&uuml;nt&uuml; oluşturan fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) SLR makineler
-    - B-) Analog makineler
+    - B-) Analog&nbsp;makineler
     - C-) K&uuml;&ccedil;&uuml;k (Kompakt) makineler
-    - **Cevap D-) DSLR makineler**
+    - **Cevap D-) DSLR&nbsp;makineler**
     - E-) Klasik makineler
     <hr />
 1. I. İki veya daha fazla lenslidir.<br />
@@ -547,7 +547,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) Objektif yuvası
     - E-) Objektif g&ouml;vdesi
     <hr />
-1. <strong>Objektiflerde filtre yuvası (&ouml;n bağlantı noktası) &ccedil;apını ifade eden metrik &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
+1. <strong>Objektiflerde filtre yuvası (&ouml;n bağlantı noktası) &ccedil;apını&nbsp;ifade eden metrik &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
     - A-) cm
     - B-) feet
     - **Cevap C-) mm**
@@ -556,12 +556,12 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     <hr />
 1. <strong>Aşağıdakilerden hangisi ışık ge&ccedil;irgenliğinin &ouml;zellikleri arasında <u>yer almaz?</u></strong>
     - A-) Objektif hızı olarak da adlandırılır.
-    - B-) Sayısal değeri f/&hellip; olarak g&ouml;sterilir.
+    - B-) Sayısal değeri&nbsp;f/&hellip;&nbsp;olarak g&ouml;sterilir.
     - C-) En b&uuml;y&uuml;k a&ccedil;ıklığı, en k&uuml;&ccedil;&uuml;k sayısal değeridir.
     - D-) Objektifte optik &ccedil;ap k&uuml;&ccedil;&uuml;ld&uuml;k&ccedil;e ışık ge&ccedil;irgenliği de azalır.
     - **Cevap E-) En b&uuml;y&uuml;k a&ccedil;ıklığı, en b&uuml;y&uuml;k sayısal değeridir.**
     <hr />
-1. <strong>Bir g&ouml;z kapatılarak etrafa bakıldığında, </strong><strong>tam &ccedil;er&ccedil;eve (full frame) algılayıcılı g&ouml;vdeye takılı, yaklaşık ka&ccedil; mm&rsquo;lik bir objektif ile benzer bir </strong><strong>g&ouml;r&uuml;ş elde edilebilir?</strong>
+1. <strong>Bir g&ouml;z kapatılarak etrafa bakıldığında,&nbsp;</strong><strong>tam &ccedil;er&ccedil;eve (full frame) algılayıcılı g&ouml;vdeye takılı, yaklaşık ka&ccedil; mm&rsquo;lik bir objektif ile benzer bir&nbsp;</strong><strong>g&ouml;r&uuml;ş elde edilebilir?</strong>
     - A-) 146mm
     - **Cevap B-) 50mm**
     - C-) 21mm
@@ -569,11 +569,11 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - E-) 200mm
     <hr />
 1. <strong>Basit optik tasarımları, k&uuml;&ccedil;&uuml;k boyutları ve az malzeme ile d&uuml;ş&uuml;k maliyetlerine rağmen olduk&ccedil;a kaliteli g&ouml;r&uuml;nt&uuml; veren objektifler aşağıdakilerden hangisidir?</strong>
-    - A-) Hareket eksenli 
-    - B-) Makro 
+    - A-) Hareket eksenli
+    - B-) Makro
     - **Cevap C-) Normal**
-    - D-) Balıkg&ouml;z&uuml; 
-    - E-) Aynalı 
+    - D-) Balıkg&ouml;z&uuml;
+    - E-) Aynalı
     <hr />
 1. <strong>Aşağıdakilerden hangisi sabit odaklı (prime) bir objektifdir?</strong>
     - A-) 24-70mm f/2.8
@@ -582,11 +582,11 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - **Cevap D-) 24mm f/1.4**
     - E-) 2x Tele d&ouml;n&uuml;şt&uuml;r&uuml;c&uuml;
     <hr />
-1. <strong>&Ccedil;oğu balık g&ouml;z&uuml; objektifin derece cinsinden sahip olduğu a&ccedil;ısal g&ouml;r&uuml;ş alanı</strong><strong> aşağıdakilerden hangisidir?</strong>
-    - A-) 45<sup>0 </sup>- 55<sup>0</sup>
+1. <strong>&Ccedil;oğu balık g&ouml;z&uuml; objektifin derece cinsinden sahip olduğu a&ccedil;ısal g&ouml;r&uuml;ş alanı</strong><strong>&nbsp;aşağıdakilerden hangisidir?</strong>
+    - A-) 45<sup>0&nbsp;</sup>- 55<sup>0</sup>
     - **Cevap B-) 170<sup>0</sup> - 180<sup>0</sup>**
-    - C-) 270<sup>0 </sup>- 360<sup>0</sup>
-    - D-) 8<sup>0 </sup>- 12<sup>0</sup>
+    - C-) 270<sup>0&nbsp;</sup>- 360<sup>0</sup>
+    - D-) 8<sup>0&nbsp;</sup>- 12<sup>0</sup>
     - E-) 36<sup>0</sup> - 24<sup>0</sup>
     <hr />
 1. Geniş a&ccedil;ılı objektiflerde yakın mesafedeki nesneler b&uuml;y&uuml;k, orta mesafedeki nesneler k&uuml;&ccedil;&uuml;k ve daha uzak g&ouml;r&uuml;n&uuml;r.<br />
@@ -633,14 +633,14 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - E-) Balık g&ouml;z&uuml; lensler
     <hr />
 1. <strong>Normal lenslerden &ccedil;ok daha yakın odaklanma mesafelerine sahip olan ve g&ouml;zle g&ouml;r&uuml;lmeyecek kadar k&uuml;&ccedil;&uuml;k ayrıntıları &ccedil;ekebilmesini sağlayan lens aşağıdakilerden hangisidir?</strong>
-    - A-) Balık g&ouml;z&uuml; 
+    - A-) Balık g&ouml;z&uuml;
     - **Cevap B-) Makro**
     - C-) Konvert&ouml;r
     - D-) Geniş a&ccedil;ı
     - E-) Ultra geniş a&ccedil;ı
     <hr />
 ## Unite 5
-1. <strong>Pozlandırma değeri 54 olan (54 EV&#39;lik) bir flaş </strong><strong>100 ISO&rsquo;da f/1.4 diyafram ve </strong><strong>tam g&uuml;&ccedil; patlama ile</strong><strong> </strong><strong>yaklaşık ka&ccedil; metre uzaktaki bir cismi aydınlatır?</strong>
+1. <strong>Pozlandırma değeri 54 olan (54 EV&#39;lik) bir flaş&nbsp;</strong><strong>100 ISO&rsquo;da f/1.4 diyafram ve&nbsp;</strong><strong>tam g&uuml;&ccedil; patlama ile</strong><strong>&nbsp;</strong><strong>yaklaşık ka&ccedil; metre uzaktaki bir cismi aydınlatır?</strong>
     - A-) 540m
     - B-) 75.6m
     - C-) 120m
@@ -710,7 +710,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) IR (ınfrared)
     - E-) Kademeli ND
     <hr />
-1. <strong>Flaş ışığı yaklaşık ka&ccedil; kelvin (Ko) derecelik renk sıcaklığı verir?</strong>
+1. <strong>Flaş ışığı yaklaşık ka&ccedil; kelvin (K<sup>o</sup>) derecelik renk sıcaklığı verir?</strong>
     - A-) 4000
     - B-) 3200
     - C-) 6500
@@ -731,14 +731,14 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) EVT
     - **Cevap E-) TTL**
     <hr />
-1. <strong>St&uuml;dyoda 800 watt g&uuml;&ccedil;te birinci ışık 1/2 g&uuml;&ccedil;te tas ile soldan, 1500 watt g&uuml;&ccedil;te ikinci ışık 1/1 g&uuml;&ccedil;le softbox ile karşıdan verildiğinde kullanılan yapay ışık kaynağı aşağıdakilerden hangisidir?</strong>
+1. <strong>St&uuml;dyoda 800 watt g&uuml;&ccedil;te birinci ışık 1/2 g&uuml;&ccedil;te tas ile soldan, 1500 watt g&uuml;&ccedil;te ikinci ışık 1/1 g&uuml;&ccedil;le softbox ile karşıdan verildiğinde kullanılan&nbsp;yapay ışık kaynağı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Paraflaş**
     - B-) Pop-up flaş
     - C-) Tepe flaşı
     - D-) Halka (Ring) flaş
     - E-) S&uuml;rekli ışık
     <hr />
-1. <strong>Fotoğraf makinelerinde kullanılan </strong><strong>g&uuml;ncel </strong><strong>4 hafıza kartı sınıfı aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinelerinde kullanılan&nbsp;</strong><strong>g&uuml;ncel&nbsp;</strong><strong>4 hafıza kartı sınıfı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) CF, SD, Mikro SD, XQD**
     - B-) CF, SD, UHD, HD
     - C-) AF-S, QD, SD, ML
@@ -759,7 +759,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) 4
     - E-) 5
     <hr />
-1. <strong>Kamerayı tripota sabitleyerek &ouml;zellikle video ve panorama &ccedil;ekimleri yapmak i&ccedil;in kullanılması gereken kafa t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Kamerayı tripota sabitleyerek&nbsp;&ouml;zellikle video ve panorama &ccedil;ekimleri yapmak i&ccedil;in kullanılması gereken kafa t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Shift yapan Mekanik Kafa
     - B-) Top Kafa (Ball-Head)
     - C-) Monolit Kafa
@@ -799,7 +799,7 @@ III. &Ouml;zel efektler oluşturma<br />
     - D-) SDXC (G&uuml;venli Dijital Ekstra Kapasiteli) Hafıza Kartları
     - E-) SD (G&uuml;venli Dijital) Hafıza Kartları
     <hr />
-1. <strong>Fotoğraf &ccedil;ekerken mor&ouml;tesi ışınım yani g&ouml;r&uuml;n&uuml;r ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının film d&uuml;zlemine veya dijital sens&ouml;re ulaşmasını &ouml;nlemek amacıyla kullanılan filtre t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf &ccedil;ekerken mor&ouml;tesi ışınım yani g&ouml;r&uuml;n&uuml;r ışıktan daha kısa olan 10 nm ila 400 nm dalga boylu arasındaki elektromanyetik radyasyon ışınlarının&nbsp;film d&uuml;zlemine veya dijital sens&ouml;re ulaşmasını &ouml;nlemek amacıyla kullanılan filtre t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Polarize Filtre
     - **Cevap B-) UV (Ultraviyole) Filtre**
     - C-) N&ouml;tr Yoğunluklu (ND) Filtre
@@ -829,7 +829,7 @@ III. &Ouml;zel efektler oluşturma<br />
     - D-) Enstantane &ouml;nceliği
     - E-) Program
     <hr />
-1. Giriş seviyesi kameralar &ouml;nceden ayarlanmış, yaygın olarak kullanılan bazı amat&ouml;r modlara sahiptir.<br />
+1. Giriş seviyesi kameralar &ouml;nceden ayarlanmış,&nbsp;yaygın olarak kullanılan bazı amat&ouml;r modlara sahiptir.<br />
 <strong>Aşağıdakilerden hangisi yaygın amat&ouml;r modlar arasında <u>yer almaz?</u></strong>
     - A-) Spor
     - B-) Gece
@@ -901,7 +901,7 @@ III. &Ouml;zel efektler oluşturma<br />
     - D-) Manuel
     - E-) Bulb
     <hr />
-1. Normal hassasiyet (ISO) sınırları d&acirc;hilinde &quot;pozlama =  &hellip;.....&hellip; x s&uuml;re&quot; form&uuml;l&uuml;, eş değerlilik ilkesini ifade eder.<br />
+1. Normal hassasiyet (ISO) sınırları d&acirc;hilinde &quot;pozlama =&nbsp;&hellip;.....&hellip; x s&uuml;re&quot; form&uuml;l&uuml;, eş değerlilik ilkesini ifade eder.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Renk sıcaklığı
     - B-) ISO
@@ -947,7 +947,7 @@ III. ISO hassasiyeti<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO (Hassasiyet) hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO&nbsp;(Hassasiyet) hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
     - A-) Otomatik Mod
     - **Cevap B-) Program Modu**
     - C-) Diyafram &Ouml;ncelikli Mod
@@ -994,14 +994,14 @@ III. Konuya uzaklık<br />
     - D-) Doğru objektif se&ccedil;imi yapılması
     - **Cevap E-) Pahalı bir fotoğraf makinesinin tercih edilmesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığında kullanılan yardımcı ara&ccedil;-gere&ccedil;lerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığında kullanılan yardımcı ara&ccedil;-gere&ccedil;lerden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Teleskop**
     - B-) Objektif
     - C-) Fon sistemi
     - D-) Flaş
     - E-) &Ccedil;ekim masası
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığında bulunması gereken niteliklerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığında bulunması gereken niteliklerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Reklamı yapılan &uuml;r&uuml;n veya hizmet hedef kitleye net bir şekilde aktarılmalıdır.
     - B-) Anlaşılırlığı kolay olmalıdır.
     - **Cevap C-) Toplumsal olaylara karşı duyarlılık oluşturmalıdır.**
@@ -1029,7 +1029,7 @@ III. Konuya uzaklık<br />
     - D-) Fotoğraftaki renkler soluk &ccedil;ıkar.
     - E-) Fotoğrafın kompozisyonu k&ouml;t&uuml; olur.
     <hr />
-1. <strong>Aşağıdakilerden hangisi mimari fotoğraf&ccedil;ılıkta kullanılan ekipmanlardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi mimari fotoğraf&ccedil;ılıkta kullanılan ekipmanlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Tilt-shift objektif
     - B-) B&uuml;y&uuml;k format k&ouml;r&uuml;kl&uuml; makineler
     - C-) &Uuml;&ccedil;ayak
@@ -1043,21 +1043,21 @@ III. Konuya uzaklık<br />
     - D-) Geniş a&ccedil;ı objektif kullanmak
     - E-) D&uuml;ş&uuml;k ISO kullanmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi makro objektiflerin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi makro objektiflerin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) &Ccedil;ıplak g&ouml;zle g&ouml;remediğimiz detayları g&ouml;sterir.
     - **Cevap B-) Ultra geniş a&ccedil;ıya sahiptir.**
     - C-) Yakın &ccedil;ekimlerde keskin g&ouml;r&uuml;nt&uuml;ler verir.
     - D-) Sınırlı alan derinliğine sahiptir.
     - E-) Diğer objektiflere g&ouml;re daha &ccedil;ok b&uuml;y&uuml;tme oranına sahiptir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi basın fotoğrafının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bildirmek
     - **Cevap B-) Eğlendirmek**
     - C-) Geleceğe belge bırakmak
     - D-) Tarihe tanıklık etmek
     - E-) Etkilemek
     <hr />
-1. <strong>Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi haber fotoğrafının teknik niteliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Fotoğrafın netliği
     - **Cevap B-) Canlı renklere sahip olması**
     - C-) Fotoğrafın doğru pozlanmış olması
@@ -1071,14 +1071,14 @@ III. Konuya uzaklık<br />
     - D-) Hoş vakit ge&ccedil;irtmek
     - E-) Analiz değeri oluşturmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığı t&uuml;rlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi reklam ve tanıtım fotoğraf&ccedil;ılığı t&uuml;rlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) End&uuml;striyel fotoğraf
     - B-) Yiyecek-i&ccedil;ecek fotoğrafı
     - C-) Moda fotoğrafı
     - D-) &Uuml;r&uuml;n fotoğrafı
     - **Cevap E-) Vahşi doğa fotoğrafı**
     <hr />
-1. <strong>Aşağıdakilerden hangisi makro fotoğraf&ccedil;ılıkta kullanılan yardımcı ara&ccedil; gere&ccedil;lerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi makro fotoğraf&ccedil;ılıkta kullanılan yardımcı ara&ccedil; gere&ccedil;lerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Yakınlaştırıcı (close-up) filtreler
     - B-) &Uuml;&ccedil;ayak
     - C-) Makro flaş
@@ -1124,7 +1124,7 @@ III. Konuya uzaklık<br />
     - **Cevap A-) Reklam ve tanıtım fotoğraf&ccedil;ılığı**
     - B-) Haber fotoğraf&ccedil;ılığı
     - C-) Basın fotoğraf&ccedil;ılığı
-    - D-) Sanat fotoğraf&ccedil;ılığı 
+    - D-) Sanat fotoğraf&ccedil;ılığı
     - E-) Bireysel fotoğraf&ccedil;ılık
     <hr />
 1. <strong>Konulara &ccedil;ok yakın mesafelerden &ccedil;ekim yaparak &ccedil;evremizdeki k&uuml;&ccedil;&uuml;k (mikro) d&uuml;nyayı b&uuml;y&uuml;terek fotoğraflamayı hedefleyen fotoğraf t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
@@ -1187,8 +1187,8 @@ III. Konuya uzaklık<br />
 1. <strong>Dijital fotoğraf makinelerinde kullanılan kulaklık &ccedil;ıkışının kullanım amacı aşağıdakilerden hangisidir?</strong>
     - A-) M&uuml;zik dinlemek
     - **Cevap B-) Video &ccedil;ekim esnasında mikrofonun hangi derecede sesi algıladığını kontrol etmek**
-    - C-) Telsiz kullanımı 
-    - D-) Deklanş&ouml;r sesini duyabilmek 
+    - C-) Telsiz kullanımı
+    - D-) Deklanş&ouml;r sesini duyabilmek
     - E-) Video &ccedil;ekim esnasında g&ouml;r&uuml;nt&uuml;y&uuml; g&ouml;rebilmek
     <hr />
 1. <strong>&quot;1/15, 1/30, 1/60, 1/125, 1/500&quot; şeklinde verilen değerler aşağıdakilerden hangisini fade eder?</strong>
@@ -1354,6 +1354,13 @@ III. Konuya uzaklık<br />
     - **Cevap D-) Diğer sistemlere g&ouml;re arşivin &ccedil;ok daha kısa s&uuml;rede oluşturulması**
     - E-) İşlevsel bir arşiv sisteminin oluşturulması
     <hr />
+1. <strong>Fotoğraf makinelerinin kaydettikleri g&ouml;r&uuml;nt&uuml;n&uuml;n &ldquo;megabyte&rdquo; cinsinden b&uuml;y&uuml;kl&uuml;ğ&uuml; arttık&ccedil;a aşağıdaki se&ccedil;eneklerde belirtilen cihaz ve ekipmanlardan hangisine duyulan ihtiya&ccedil; artar?</strong>
+    - A-) Kart okuyucuya
+    - B-) Monit&ouml;rlere
+    - **Cevap C-) Harddisklere**
+    - D-) USB kablolarına
+    - E-) Bataryalara
+    <hr />
 1. <strong>Y&uuml;kl&uuml;/b&uuml;y&uuml;k arşivleri y&ouml;netebilmek, sistemde hızlı aramalar yapabilmek ve fotoğrafların verimli bir şekilde işlenmesini sağlayabilmek i&ccedil;in aşağıdaki ekipmanlardan hangisine ihtiya&ccedil; duyulur?</strong>
     - A-) G&uuml;&ccedil;l&uuml; ve hızlı bir fotoğraf makinesine
     - B-) B&uuml;y&uuml;k ve sabit ışıklı bir &ccedil;alışma ortamına
@@ -1368,7 +1375,7 @@ III. Konuya uzaklık<br />
     - D-) Değiştirmek
     - E-) Yedeklemek
     <hr />
-1. <strong>Aşağıdakilerden hangisi sayısal fotoğrafları arşivlemek i&ccedil;in tercih edilen bulut depolama sisteminin avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi sayısal fotoğrafları arşivlemek i&ccedil;in tercih edilen bulut depolama sisteminin avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Kullanıcının arşiv &uuml;zerinde tam kontrol&uuml; vardır ve sistemin g&uuml;venliği ileri seviyedir.**
     - B-) İhtiya&ccedil; duyulduğu anda belirli bir &uuml;cret &ouml;deyerek kapasitesi artırılabilir.
     - C-) Arşivi yedekleme-depolama imk&acirc;nı sağlar.
@@ -1382,7 +1389,7 @@ III. Konuya uzaklık<br />
     - **Cevap D-) Temel renk ayar d&uuml;zenlemeleri yapmak**
     - E-) Dosyaları yeniden isimlendirmek
     <hr />
-1. <strong>Aşağıdakilerden hangisi sayısal fotoğrafların arşivlenmesi i&ccedil;in kullanılan yazılımlardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi sayısal fotoğrafların arşivlenmesi i&ccedil;in kullanılan yazılımlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) iPhoto
     - **Cevap B-) Adobe Photoshop**
     - C-) ACDSee
@@ -1474,14 +1481,14 @@ III. Konuya uzaklık<br />
     - D-) &Ccedil;ekim aşamasında poz dengesini sağlamak
     - E-) Ekranın ısınmasını &ouml;nlemek
     <hr />
-1. <strong>Kullanıcılara Photoshop&rsquo;taki gibi, katman tabanlı bir &ccedil;alışma sistemi sunan program aşağıdakilerden hangisidir?</strong>
+1. <strong>Kullanıcılara Photoshop&rsquo;taki gibi katman tabanlı bir &ccedil;alışma sistemi sunan program aşağıdakilerden hangisidir?</strong>
     - A-) Photomatix
     - B-) InDesign
     - C-) AutoPano Giga
     - D-) PhotoScope
     - **Cevap E-) Gimp**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Ligtroom programının 5 temel d&uuml;zenleme mod&uuml;l&uuml;nden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Ligtroom programının 5 temel d&uuml;zenleme mod&uuml;l&uuml;nden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Start**
     - B-) Library
     - C-) Devolop
@@ -1518,7 +1525,7 @@ III. Konuya uzaklık<br />
     <hr />
 1. <strong>Aşağıdakilerden hangisi sayısal fotoğraf işleme programı Lightroom&rsquo;un &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Sayısal fotoğraflar &uuml;zerinde ışık d&uuml;zenlemelerinin yapılması
-    - B-) Sayısal fotoğraflar &uuml;zerinde renk d&uuml;zenlemelerinin yapılması
+    - B-) Sayısal fotoğraflar &uuml;zerinde&nbsp;renk d&uuml;zenlemelerinin yapılması
     - C-) Sayısal fotoğraflar &uuml;zerinde istenmeyen p&uuml;r&uuml;zlerin giderilmesi
     - D-) Sayısal fotoğrafları yeniden croplaması
     - **Cevap E-) Sayısal fotoğraflara m&uuml;dahale konusunda olduk&ccedil;a sınırlı olması**
@@ -1742,7 +1749,7 @@ III. Konuya uzaklık<br />
     - D-) Beyaz
     - E-) Kobalt rengi
     <hr />
-1. <strong>CMYK renklerinin her biri i&ccedil;in %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>
+1. <strong>CMYK renklerinin her biri i&ccedil;in&nbsp;%0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>
     - A-) C%10, M%10, Y%10, K%10
     - B-) C%100, M%100, Y%100, K%100
     - **Cevap C-) C%0, M%0, Y%0, K%0**
@@ -1763,7 +1770,7 @@ III. Konuya uzaklık<br />
     - **Cevap D-) Kırmızı**
     - E-) Siyah
     <hr />
-1. <strong>I. </strong>Kırmızı<br />
+1. <strong>I.&nbsp;</strong>Kırmızı<br />
 II. Turuncu<br />
 III. Sarı<br />
 IV. Yeşil<br />
@@ -1809,7 +1816,7 @@ IV. Yeşil<br />
     - D-) Cihaz bağımlı renk modelleri CMYK, RGB gibi renk modellerini i&ccedil;erir.
     - E-) Cihaz bağımlı renk modellerindeki renk alanları, kullanılan cihazlara g&ouml;re değişmez.
     <hr />
-1. <strong>Aşağıdaki &ouml;zelliklerden hangisi toplamsal renk sentezinin &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdaki &ouml;zelliklerden hangisi toplamsal renk sentezinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Toplamsal renk modelinde renkler eklenir ve toplanır.
     - B-) Işıksal renk sentezi olarak da ifade edilir.
     - **Cevap C-) Toplamsal renk sentezinde renkler birbirlerinden &ccedil;ıkarılır.**
@@ -1944,7 +1951,7 @@ IV. Yeşil<br />
     - D-) Beyaz
     - E-) Kobalt rengi
     <hr />
-1. <strong>CMYK renklerinin her biri i&ccedil;in %0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>
+1. <strong>CMYK renklerinin her biri i&ccedil;in&nbsp;%0 ile %100 arasında değişen değerler kullanıldığında, beyazın alacağı değerler aşağıdakilerden hangisidir?</strong>
     - A-) C%10, M%10, Y%10, K%10
     - B-) C%100, M%100, Y%100, K%100
     - **Cevap C-) C%0, M%0, Y%0, K%0**
@@ -1971,6 +1978,13 @@ IV. Yeşil<br />
     - **Cevap C-) 300 DPI**
     - D-) 100 DPI
     - E-) 200 DPI
+    <hr />
+1. <strong>Aşağıdakilerden hangisi m&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcının baskıda kullandığı m&uuml;rekkep renklerinden biri&nbsp;<u>değildir</u>?</strong> 
+    - A-) Cyan
+    - B-) Megenta
+    - **Cevap C-) Yeşil**
+    - D-) Sarı
+    - E-) Siyah
     <hr />
 1. <strong>Aşağıdaki yazıcı t&uuml;rlerinden hangisinde m&uuml;rekkep yerine toner kullanılır?</strong>
     - **Cevap A-) Lazer yazıcı**
@@ -1999,6 +2013,13 @@ IV. Yeşil<br />
     - C-) Ev kullanımı i&ccedil;in uygunluğu
     - D-) Daha az yer kaplaması
     - E-) Yeterli kalitede baskı alınabilmesi
+    <hr />
+1. <strong>M&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcıda, yeterli kalitede bir baskı alınabilmesi i&ccedil;in yazıcının en az ka&ccedil; m&uuml;rekkepli olması &ouml;nerilir?</strong>
+    - A-) 2
+    - B-) 3
+    - C-) 5
+    - D-) 4
+    - **Cevap E-) 6**
     <hr />
 1. <strong>M&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcıdan yeterli kalitede bir baskı almak i&ccedil;in aşağıdaki &ouml;zelliklerden hangisine <u>gerek duyulmaz</u>?</strong>
     - A-) Yazıcı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;

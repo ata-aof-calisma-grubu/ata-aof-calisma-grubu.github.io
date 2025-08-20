@@ -49,7 +49,7 @@
     - **Cevap D-) Ses ve video dosyalarını saklayamaz.**
     - E-) Kullanım amacına g&ouml;re bir&ccedil;ok veri tabanı t&uuml;r&uuml; vardır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi web tarayıcılarla ilgili <u>yanlış</u> bir ifadedir?</strong> 
+1. <strong>Aşağıdakilerden hangisi web tarayıcılarla ilgili olarak&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Web sitelerinin g&ouml;r&uuml;nt&uuml;lenmesi i&ccedil;in kullanılır.
     - B-) Dosya indirme yapılabilir.
     - C-) Kullanıcılar ile web sitesi arasında bağlantı kurar.
@@ -63,7 +63,7 @@
     - D-) Web sitesinin görsel tasarımı için kullanılır.
     - E-) HTML belgesindeki bir etiket tek bir yerden bi&ccedil;imlendirilir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi HTML&#39;nin g&uuml;ncel versiyonu olan HTML5&#39;in sunduğu yeniliklerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi HTML&#39;nin g&uuml;ncel versiyonu olan HTML5&#39;in sunduğu yeniliklerden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Metinsel ifadeleri barındırma**
     - B-) Mobil optimizasyon
     - C-) &Ccedil;apraz tarayıcı uyumluluğu
@@ -102,7 +102,7 @@ III. &Ccedil;eşitli ilişkiler kurularak karmaşa &ouml;nlenebilir.<br />
     - **Cevap E-) I, II ve III**
     <hr />
 1. <strong>Aşağıdaki alan adı uzantıları ve kullanım alanı eşleştirmelerinden hangisi <u>yanlıştır</u>?</strong>
-    - **Cevap A-) .com - Eğitim kurumları tarafından kullanılır.**
+    - **Cevap A-) .com -&nbsp;Eğitim kurumları tarafından kullanılır.**
     - B-) .biz - İş ile ilgili konularda kullanılır.
     - C-) .org - Organizasyonlar i&ccedil;in kullanılır.
     - D-) .gov - H&uuml;k&ucirc;met kurumları tarafından kullanılır.
@@ -115,11 +115,18 @@ III. &Ccedil;eşitli ilişkiler kurularak karmaşa &ouml;nlenebilir.<br />
     - D-) G&ouml;rsel ve metinsel &ouml;geleri g&ouml;r&uuml;nt&uuml;ler.
     - **Cevap E-) Sadece mobil cihazlar &uuml;zerinde kullanılır.**
     <hr />
+1. <strong>Aşağıdakilerden hangisi front-end ve back-end kavramlarıyla ilgili <u>yanlış </u>bir ifadedir?</strong>
+    - A-) Kullanıcıların etkileşime girdiği t&uuml;m bileşenler front-end olarak anılır.
+    - B-) Back-end teknolojileri front-end teknolojilerine alt yapı sağlar.
+    - C-) Front-end teknolojileriyle kullanıcı aray&uuml;z&uuml; oluşturulur.
+    - D-) Back-end b&ouml;l&uuml;m&uuml;nde ASP, PHP gibi yazılım dilleri kullanılır.
+    - **Cevap E-) Front-end b&ouml;l&uuml;m&uuml;nde Oracle, MS SQL Server gibi veri tabanı y&ouml;netim sistemleri kullanılır.**
+    <hr />
 1. <strong>Alan adı uzantısı ve kullanım alanı ile ilgili olarak aşağıdaki eşleştirmelerinden hangisi <u>yanlıştır</u>?</strong>
     - A-) info - Bilgi siteleri i&ccedil;in kullanılır.
     - B-) edu - Eğitim kurumları tarafından kullanılır.
     - C-) gov - H&uuml;k&ucirc;met kurumları tarafından kullanılır.
-    - **Cevap D-) com - Ordu kuruluşları tarafından kullanılır.**
+    - **Cevap D-) com -&nbsp;Ordu kuruluşları tarafından kullanılır.**
     - E-) jobs - İş ve iş&ccedil;i ilanları veren siteler i&ccedil;in hazırlanmıştır.
     <hr />
 1. I. Metinsel ve şekilsel bi&ccedil;imlendirmelere olanak tanıyan bir web teknolojisidir.<br />
@@ -158,8 +165,8 @@ III. HTML &ouml;gelerinin istenilen şekilde g&ouml;r&uuml;nt&uuml;lenmesi i&cce
     - A-) CSS (Cascading Style Sheets)
     - B-) Javascript
     - **Cevap C-) HTML (Hyper Text Markup Language)**
-    - D-) UI (User Interface)
-    - E-) UX (User Experience)
+    - D-) UI&nbsp;(User Interface)
+    - E-) UX&nbsp;(User Experience)
     <hr />
 1. <strong>Aşağıdakilerden hangisi CSS kodları ile <u>yapılamaz</u>?</strong> 
     - **Cevap A-) HTML etiketlerin içine metin eklemek**
@@ -168,12 +175,12 @@ III. HTML &ouml;gelerinin istenilen şekilde g&ouml;r&uuml;nt&uuml;lenmesi i&cce
     - D-) Metinsel ifadelerin yazı tipinin belirlenmesi
     - E-) Renk değişiklikleri
     <hr />
-1. <strong>Front-End i&ccedil;in yapılan kodlamalar aşağıdakilerden hangisi &uuml;zerinde &ccedil;alışır?</strong> 
+1. <strong>Front-end i&ccedil;in yapılan kodlamalar aşağıdakilerden hangisi &uuml;zerinde &ccedil;alışır?</strong> 
     - A-) Sunucular
     - **Cevap B-) Son kullanıcıların kullandığı web tarayıcıları**
     - C-) Veri tabanları
     - D-) Back-End
-    - E-) IDE’ler
+    - E-) IDE&rsquo;ler
     <hr />
 1. <strong>UX aşağıdakilerden hangisi ile ilgilenir?</strong> 
     - A-) G&ouml;rsel elementler kullanılır.
@@ -189,7 +196,7 @@ III. HTML &ouml;gelerinin istenilen şekilde g&ouml;r&uuml;nt&uuml;lenmesi i&cce
     - D-) Materialize
     - E-) UIKit
     <hr />
-1. <strong>Aşağıdakilerden hangisi JAVASCRIPT ile yapılabilecek işlemlerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi JAVASCRIPT ile yapılabilecek işlemlerden biri&nbsp;<u>değildir</u>?</strong> 
     - A-) Verilerin sunuculara aktarılmasını sağlamak
     - **Cevap B-) G&ouml;rsel tasarımı belirlemek**
     - C-) Animasyonları &ccedil;alıştırmak
@@ -212,7 +219,7 @@ III. HTML &ouml;gelerinin istenilen şekilde g&ouml;r&uuml;nt&uuml;lenmesi i&cce
     <hr />
 1. I. CSS, web sayfalarındaki i&ccedil;eriklerin konumlandırılması, yeniden boyutlandırılması, yazı boyutu ve renk gibi g&ouml;rsel tanımlamaların yapılması ile ilgilenir.<br />
 II. Bir web sayfasının HTML kısmı i&ccedil;erik katmanı olarak tanımlanırsa CSS kısmı g&ouml;rselleştirme katmanı olarak tanımlanabilir.<br />
-III. Geliştiricilerin işini kolaylaştıracak bir&ccedil;ok Javascript k&uuml;t&uuml;phanesi bulunmasına rağmen, CSS k&uuml;t&uuml;phanesi bulunmamaktadır.<br />
+III.&nbsp;Geliştiricilerin işini kolaylaştıracak bir&ccedil;ok Javascript k&uuml;t&uuml;phanesi bulunmasına rağmen, CSS k&uuml;t&uuml;phanesi bulunmamaktadır.<br />
 <strong>CSS (Basamaklı Stil Şablonu - Cascading Style Sheets) ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - **Cevap B-) I ve II**
@@ -244,7 +251,7 @@ III. Veri tabanı işlemleri<br />
     - **Cevap D-) Javascript**
     - E-) IDE
     <hr />
-1. <strong>Aşağıdakilerden hangisi Oracle tarafından geliştirilmiş IDE&#39;dir (Integrated Development Environment)?</strong>
+1. <strong>Aşağıdakilerden hangisi Oracle tarafından geliştirilmiş&nbsp;IDE&#39;dir (Integrated Development Environment)?</strong>
     - A-) NotePad++
     - B-) RJ TextEd
     - C-) Komodo Edit
@@ -254,7 +261,7 @@ III. Veri tabanı işlemleri<br />
 1. I. Kullanıcı deneyimini etkiler.<br />
 II. Front-end geliştirmede kullanılacak bileşenlerin se&ccedil;imini etkiler.<br />
 III. Kullanıcı memnuniyet d&uuml;zeyini etkiler.<br />
-IV. Sistem performansını etkilemez.<br />
+IV.&nbsp;Sistem performansını etkilemez.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri tasarım s&uuml;reci ile ilgili <u>yanlıştır</u>?</strong>
     - **Cevap A-) Yalnız IV**
     - B-) I ve II
@@ -339,11 +346,11 @@ IV. Sistem performansını etkilemez.<br />
     - E-) &lt; br &gt; - Alt satıra ge&ccedil;ilmesini sağlar.
     <hr />
 1. <strong>Aşağıdaki HTML 5 etiketleri ve kullanım alanı eşleştirmelerinden hangisi <u>yanlıştır</u>?</strong>
-    - A-) audio - Sayfa i&ccedil;ine ses dosyasının eklenmesini sağlar.
-    - **Cevap B-) video - Sayfalar i&ccedil;inde i&ccedil;erik kısmını ayırmayı sağlar.**
-    - C-) time - Tarih bilgisinin yazılabileceği alanı belirtir.
-    - D-) article - Makale gibi yazıların yazılabileceği alanı belirtir.
-    - E-) header - Sitede t&uuml;m sayfalarda ortak bulunan logo, men&uuml; vb. gibi alanların yer aldığı &uuml;st b&ouml;l&uuml;m&uuml; belirtir.
+    - A-) audio -&nbsp;Sayfa i&ccedil;ine ses dosyasının eklenmesini sağlar.
+    - **Cevap B-) video -&nbsp;Sayfalar i&ccedil;inde i&ccedil;erik kısmını ayırmayı sağlar.**
+    - C-) time -&nbsp;Tarih bilgisinin yazılabileceği alanı belirtir.
+    - D-) article -&nbsp;Makale gibi yazıların yazılabileceği alanı belirtir.
+    - E-) header -&nbsp;Sitede t&uuml;m sayfalarda ortak bulunan logo, men&uuml; vb. gibi alanların yer aldığı &uuml;st b&ouml;l&uuml;m&uuml; belirtir.
     <hr />
 1. <strong>Aşağıdakilerden hangisi sadece a&ccedil;ık h&acirc;li yazılan etiketlerden biri <u>değildir</u>?</strong>
     - A-) &lt; img &gt;
@@ -352,10 +359,10 @@ IV. Sistem performansını etkilemez.<br />
     - **Cevap D-) &lt; table &gt;**
     - E-) &lt; input &gt;
     <hr />
-1. I. Etiketler yan yana yazılabilse de alt alta yazılması tercih edilir.<br />
-II. HTML kodları yazılırken genellikle b&uuml;y&uuml;k harfler tercih edilir.<br />
+1. I.&nbsp;Etiketler yan yana yazılabilse de alt alta yazılması tercih edilir.<br />
+II.&nbsp;HTML kodları yazılırken genellikle b&uuml;y&uuml;k harfler tercih edilir.<br />
 III. En son yazılan etiket en son kapatılır.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri etiketlerin kullanımları arasında yer alır?</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri etiketlerin kullanımları&nbsp;arasında yer alır?</strong>
     - **Cevap A-) Yalnız I**
     - B-) Yalnız II
     - C-) I ve II
@@ -438,7 +445,7 @@ III. En son yazılan etiket en son kapatılır.<br />
     - A-) &lt;canvas&gt;&lt;/canvas&gt;
     - **Cevap B-) &lt;canvas height=&quot;&quot;&rdquo;300&rdquo;&quot;&quot; width=&quot;&quot;&rdquo;300&rdquo;&quot;&quot;&gt;**
     - C-) &lt;img /&gt;
-    - D-) &lt;figure&gt; &lt;/figure&gt;
+    - D-) &lt;figure&gt;&nbsp;&lt;/figure&gt;
     - E-) &lt;svg&gt;&lt;/svg&gt;
     <hr />
 1. <strong>JavaScript kodu kullanmadan a&ccedil;ılıp kapanabilen a&ccedil;ıklama b&ouml;l&uuml;m&uuml; eklemek i&ccedil;in kullanılan HTML5 etiketi aşağıdakilerden hangisidir?</strong>
@@ -456,11 +463,11 @@ III. En son yazılan etiket en son kapatılır.<br />
     - E-) &lt; dialog &gt;
     <hr />
 1. <strong>HTML5&#39;te, *.css ve *.js uzantılı dosyaları HTML dok&uuml;manı i&ccedil;erisinde &ccedil;ağırırken sırasıyla hangi etiketler kullanılır?</strong>
-    - A-) &lt; meter &gt; ve &lt; progress &gt;
-    - B-) &lt; details &gt; ve &lt; summary &gt;
-    - C-) &lt; figure &gt; ve &lt; figcaption &gt;
-    - D-) &lt; article &gt; ve &lt; section &gt;
-    - **Cevap E-) &lt; link &gt; ve &lt; script &gt;**
+    - A-) &lt;&nbsp;meter&nbsp;&gt; ve &lt;&nbsp;progress&nbsp;&gt;
+    - B-) &lt;&nbsp;details&nbsp;&gt; ve &lt;&nbsp;summary&nbsp;&gt;
+    - C-) &lt;&nbsp;figure&nbsp;&gt; ve &lt;&nbsp;figcaption&nbsp;&gt;
+    - D-) &lt;&nbsp;article&nbsp;&gt; ve &lt;&nbsp;section&nbsp;&gt;
+    - **Cevap E-) &lt;&nbsp;link&nbsp;&gt; ve &lt;&nbsp;script&nbsp;&gt;**
     <hr />
 1. <strong>Aşağıdakilerden hangisi HTML5&#39;te yer alan grafik ve medya etiketleri arasında <u>yer almaz</u>?</strong>
     - A-) &lt; canvas &gt;
@@ -484,7 +491,7 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) meta
     - **Cevap E-) doctype**
     <hr />
-1. <strong>Blog sayfası tasarladığınızı d&uuml;ş&uuml;n&uuml;n. Bu sayfada blog yazısının sağ kısmına anahtar kelimeler, yazı kategorisi ve yazar adı eklemek i&ccedil;in kullanılan etiket aşağıdakilerden hangisidir?</strong>
+1. <strong>Blog sayfası tasarladığınızı d&uuml;ş&uuml;n&uuml;n. Bu sayfada blog yazısının sağ kısmına anahtar kelimeler, yazı kategorisi ve yazar adı eklemek i&ccedil;in&nbsp;kullanılan etiket aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &lt; aside &gt;**
     - B-) &lt; article &gt;
     - C-) &lt; header &gt;
@@ -494,7 +501,7 @@ III. En son yazılan etiket en son kapatılır.<br />
 1. <strong>JavaScript aracılığıyla &ccedil;izim yapmamızı sağlayan HTML5 etiketi aşağıdakilerden hangisidir?</strong>
     - A-) &lt;img /&gt;
     - B-) &lt;section&gt;&lt;/section&gt;
-    - C-) &lt;nav&gt; &lt;/nav&gt;
+    - C-) &lt;nav&gt;&nbsp;&lt;/nav&gt;
     - D-) &lt;embed&gt; &lt;/embed&gt;
     - **Cevap E-) &lt;canvas&gt;&lt;/canvas&gt;**
     <hr />
@@ -504,6 +511,13 @@ III. En son yazılan etiket en son kapatılır.<br />
     - C-) ondrop
     - D-) ondragover
     - E-) id
+    <hr />
+1. <strong>Resim ve &ccedil;izim gibi bağımsız yapılar i&ccedil;in aşağıdaki etiketlerden hangisi kullanılır?</strong>
+    - A-) nav
+    - B-) aside
+    - C-) summary
+    - **Cevap D-) figure**
+    - E-) article
     <hr />
 ## Unite 5
 1. <strong>Bir yazılımın, başka bir yazılımla iletişime ge&ccedil;mesini ve işlevlerini kullanmasını sağlayan aray&uuml;z aşağıdakilerden hangisidir?</strong>
@@ -555,7 +569,7 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) Drag and drop
     - **Cevap E-) Rest Assured**
     <hr />
-1. <strong>HTML 5 ile yeni gelen API&rsquo;lerden &ldquo;websocket&rdquo;in g&ouml;revi aşağıdakilerden hangisidir?</strong>
+1. <strong>HTML 5 ile yeni gelen API&nbsp;(Application Programming Interface)&rsquo;lerden &ldquo;websocket&rdquo;in g&ouml;revi aşağıdakilerden hangisidir?</strong>
     - A-) Konum bilgisini tanımlar.
     - B-) Sayfa i&ccedil;indeki nesnelere s&uuml;r&uuml;kle-bırak tanımlar.
     - C-) Yazdırma desteği sağlar.
@@ -569,7 +583,7 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) Enlem bilgisini geri d&ouml;nd&uuml;r&uuml;r.
     - E-) Boylam bilgisini geri d&ouml;nd&uuml;r&uuml;r.
     <hr />
-1. <strong>Aşağıdakilerden hangisi web tasarımında API (Application Programming Interface)</strong> <strong>kullanımının avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi web tasarımında API (Application Programming Interface)</strong>&nbsp;<strong>kullanımının avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) G&ouml;r&uuml;n&uuml;şte zor ve karmaşık g&ouml;r&uuml;nen projelerin, i&ccedil;eriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar.
     - B-) Projede daha fazla fonksiyon i&ccedil;in fırsatlar sağlar.
     - C-) API kullanımı ile kullanıcı ve m&uuml;şteri dostu kolaylıklar sağlanabilir.
@@ -598,9 +612,9 @@ III. En son yazılan etiket en son kapatılır.<br />
     - **Cevap D-) arc()**
     - E-) lineTo()
     <hr />
-1. Canvas API ile dikd&ouml;rtgen &ccedil;izerken .................. dolgu rengi i&ccedil;in kullanılırken .................. &ccedil;izgi rengi i&ccedil;in kullanılır.<br />
+1. Canvas API ile dikd&ouml;rtgen &ccedil;izerken&nbsp;.................. dolgu rengi i&ccedil;in kullanılırken .................. &ccedil;izgi rengi i&ccedil;in kullanılır.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
-    - **Cevap A-) fillStyle - strokeStyle**
+    - **Cevap A-) fillStyle -&nbsp;strokeStyle**
     - B-) background - font
     - C-) font - color
     - D-) fillRect - clearRect
@@ -613,11 +627,11 @@ III. En son yazılan etiket en son kapatılır.<br />
     - D-) Katalon Studio
     - E-) Jmeter
     <hr />
-1. I. rect <br />
-II. strokeRect <br />
-III. fillRect <br />
-IV. measureText <br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Canvas ile d&ouml;rtgen &ccedil;izmek i&ccedil;in kullanılan y&ouml;ntemlerden biri <u>değildir</u>?</strong>
+1. I. rect<br />
+II. strokeRect<br />
+III.&nbsp;fillRect<br />
+IV.&nbsp;measureText<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;Canvas ile d&ouml;rtgen &ccedil;izmek i&ccedil;in kullanılan y&ouml;ntemlerden biri <u>değildir</u>?</strong>
     - A-) Yalnız I
     - **Cevap B-) Yalnız IV**
     - C-) I, III ve IV
@@ -631,7 +645,7 @@ IV. measureText <br />
     - D-) Audio
     - E-) Geolocation
     <hr />
-1. <strong>Aşağıdakilerden hangisi API kullanmanın avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi API kullanmanın avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Yazılımcının işini her zaman kolaylaştırır.
     - B-) Projede daha fazla fonksiyon i&ccedil;in fırsatlar sağlar.
     - **Cevap C-) Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha d&uuml;ş&uuml;kt&uuml;r.**
@@ -717,7 +731,7 @@ IV. measureText <br />
     - D-) Meta Charset
     - E-) Meta Viewport
     <hr />
-1. <strong>Aşağıdakilerden hangisi Meta etiketinin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Meta etiketinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Web sitesinin en başında yer alır.
     - B-) Basit HTML kodlarındandır.
     - C-) Web sitesi hakkında bilgi vermek, i&ccedil;erik ve başlıkları belirtmek gibi &ccedil;eşitli ama&ccedil;larla kullanılabilir.
@@ -754,16 +768,23 @@ IV. measureText <br />
     - D-) &amp; quot;
     - **Cevap E-) &amp;# apos;**
     <hr />
-1. <strong>Web sayfasına &ccedil;ift tırnak eklemek i&ccedil;in kullanılan HTML &ouml;zel karakteri aşağıdakilerden hangisidir?</strong>
+1. <strong>HTML &ouml;zel karakterleri ile &ldquo;&lt; &gt;&rdquo; ifadesini elde etmek i&ccedil;in aşağıdaki kodlardan hangisi kullanılmalıdır?</strong>
+    - **Cevap A-) &amp; lt; &amp; gt;**
+    - B-) &amp; nbsp; &amp; amp;
+    - C-) &amp; gt; &amp; lt;
+    - D-) &amp; lt; &amp; rt;
+    - E-) &amp;# 160;&nbsp;&amp;# 62;
+    <hr />
+1. <strong>Web sayfasına &ccedil;ift tırnak eklemek i&ccedil;in kullanılan&nbsp;HTML &ouml;zel karakteri aşağıdakilerden hangisidir?</strong>
     - A-) &amp; times;
     - **Cevap B-) &amp; quot;**
     - C-) &amp; reg;
-    - D-) &amp; cent;
-    - E-) &amp; gt;
+    - D-) &amp;&nbsp;cent;
+    - E-) &amp;&nbsp;gt;
     <hr />
 1. I. Web sitesinin en sonunda yer alır.<br />
 II. Basit HTML kodlarındandır.<br />
-III. Web sitesi hakkında bilgi vermek, i&ccedil;erik ve başlıkları belirtmek gibi &ccedil;eşitli ama&ccedil;larla kullanılabilir.<br />
+III.&nbsp;Web sitesi hakkında bilgi vermek, i&ccedil;erik ve başlıkları belirtmek gibi &ccedil;eşitli ama&ccedil;larla kullanılabilir.<br />
 IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri meta etiketi ile ilgili doğrudur?</strong>
     - A-) Yalnız I
@@ -801,7 +822,7 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) basit se&ccedil;iciler
     - **Cevap E-) s&ouml;zde sınıflar**
     <hr />
-1. <strong>Aşağıdaki CSS &ouml;zelliklerinden hangisi birden fazla &ouml;zelliğin kısaltılarak kullanımını temsil eder?</strong>
+1. <strong>Aşağıdaki CSS</strong><strong>&nbsp;(Cascading Style Sheets- Basamaklı Stil Sayfaları)</strong><strong>&nbsp;&ouml;zelliklerinden hangisi&nbsp;&ouml;genin d&ouml;rt tarafındaki kenar boşluğunu ayarlamak i&ccedil;in kullanılır?</strong>
     - A-) font-size
     - **Cevap B-) margin**
     - C-) border-color
@@ -864,7 +885,7 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) CSS animasyonları, sayfaya daha fazla y&uuml;k getirmeden dinamik, ilgi &ccedil;ekici i&ccedil;erik eklemek isteyen internet sayfaları i&ccedil;in kullanılır.
     - E-) Animasyonun daha fazla &ouml;zelleştirmek i&ccedil;in hız ve gecikme gibi &ouml;zellikler de eklenebilir.
     <hr />
-1. <strong>HTML&#39;de form tasarlarken girişin zorunlu olduğu durumlarda kullanılan CSS se&ccedil;ici aşağıdakilerden hangisidir?</strong> 
+1. <strong>HTML&#39;de form tasarlarken girişin zorunlu olduğu durumlarda kullanılan&nbsp;CSS se&ccedil;ici aşağıdakilerden hangisidir?</strong> 
     - A-) Valid
     - **Cevap B-) Required**
     - C-) Invalid
@@ -885,7 +906,14 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) padding
     - E-) background
     <hr />
-1. <strong>Aşağıdakilerden hangisi CSS (Cascade Style Sheet) metin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+1. <strong>CSS&nbsp;</strong><strong>&nbsp;(Cascading Style Sheets- Basamaklı Stil Sayfaları) </strong><strong>tablo &ouml;zelliklerinden olan caption-side&rsquo;ın a&ccedil;ıklaması aşağıdakilerden hangisinde verilmiştir?</strong>
+    - A-) Tablo başlığının kalınlığını ayarlar.
+    - **Cevap B-) Tablo başlığının konumunu ayarlar.**
+    - C-) Tablo başlığının rengini ayarlar.
+    - D-) Tablo başlığının yazı fontunu ayarlar.
+    - E-) Tablo başlığının b&uuml;y&uuml;kl&uuml;ğ&uuml;n&uuml; ayarlar.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi CSS (Cascade Style Sheet) metin &ouml;zellikleri arasında&nbsp;<u>yer almaz</u>?</strong>
     - **Cevap A-) font-size**
     - B-) direction
     - C-) tab-size
@@ -986,12 +1014,19 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) flex-grow
     - E-) flex-direction
     <hr />
-1. <strong>Aaşağıdakilerden hangisi </strong><strong>Flexbox Modeli&#39;ne ait olan bir avantajdır?</strong>
+1. <strong>Aaşağıdakilerden hangisi&nbsp;</strong><strong>Flexbox Modeli&#39;ne ait olan bir avantajdır?</strong>
     - A-) Bazı tarayıcılar tarafından desteklenir.
     - B-) &Ouml;gelerde boyutlandırma yoktur.
     - C-) &Ouml;geler hizalanamaz.
     - **Cevap D-) Hemen hemen t&uuml;m tarayıcılar tarafından desteklenir.**
     - E-) Duyarlı ve uyarlanabilir web tasarımı s&uuml;recini zorlaştırır.
+    <hr />
+1. <strong>Aşağıdakilerden hangisi CSS&nbsp;</strong><strong>(Cascading Style Sheets- Basamaklı Stil Sayfaları)</strong><strong>&rsquo;de Flexbox &ouml;zellikleri arasında yer alır?</strong>
+    - A-) baseline
+    - B-) center
+    - C-) stretch
+    - **Cevap D-) flex-basis**
+    - E-) auto
     <hr />
 1. <strong>CSS Flexbox flex-wrap &#246;zelliği hangi işlem i&#231;in kullanılır?</strong>
     - A-) Esnek kutu d&#252;zenin rengini değişmek i&#231;in
@@ -1007,7 +1042,7 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) &Ouml;gelerin y&ouml;n&uuml;n&uuml; belirtir.
     - E-) Esnek bir uzunluğun bileşenlerini belirtir.
     <hr />
-1. <strong>Justify Content değeri ve a&ccedil;ıklaması ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Justify Content değeri ve a&ccedil;ıklaması ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) flex-start: &Ouml;geleri sola dayar ve soldan sağa hizalar.
     - B-) flex-end: &Ouml;geler sağa dayalı (bitiş noktası) olarak hizalanır.
     - **Cevap C-) center: &Ouml;geler sola hizalanır.**
@@ -1018,14 +1053,14 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Align-items
     - B-) Flex-basis
-    - C-) Align-content 
+    - C-) Align-content
     - D-) Flex
     - **Cevap E-) Flex-direction**
     <hr />
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi &ldquo;Navbar&rdquo; yapısı tasarlanırken kullanılabilecek elementlerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;Navbar&rdquo; yapısı tasarlanırken kullanılabilecek elementlerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) &lt;ul&gt; &lt;/ul&gt;
-    - B-) &lt;ul&gt; &lt;li&gt; &lt;/li&gt; &lt;/ul&gt;
+    - B-) &lt;ul&gt; &lt;li&gt;&nbsp;&lt;/li&gt; &lt;/ul&gt;
     - C-) &lt;a&gt; &lt;/a&gt;
     - D-) &lt;ol&gt; &lt;/ol&gt;
     - **Cevap E-) &lt;row&gt; &lt;/row&gt;**
@@ -1075,12 +1110,12 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - D-) SkewX
     - **Cevap E-) Translate**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Transitions&rdquo; metoduna ait &ouml;zelliklerden birisi <u>değildir</u>?</strong>
-    - A-) transition-delay
-    - B-) transition-duration
-    - C-) transition-property
-    - D-) transition-timing-function
-    - **Cevap E-) transition-timed-function**
+1. <strong>Aşağıdakilerden hangisi Transitions Metodu&#39;na ait &ouml;zelliklerden biri&nbsp;<u>değildir</u>?</strong>
+    - A-) Transition-delay
+    - B-) Transition-duration
+    - C-) Transition-property
+    - D-) Transition-timing-function
+    - **Cevap E-) Transition-timed-function**
     <hr />
 1. <strong>&ldquo;transition-delay&rdquo; &ouml;zelliğinin işlevi aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Ge&ccedil;iş işlemi başlatılmadan &ouml;nce saniye cinsinden ne kadar s&uuml;re beklenileceğini belirlemek i&ccedil;in kullanılır**
@@ -1117,7 +1152,7 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
     - **Cevap D-) Skew**
     - E-) Translate
     <hr />
-1. <strong>Aşağıdakilerden hangisi ge&ccedil;iş işleminin hız eğrisini belirlemek i&ccedil;in kullanılır?</strong>
+1. <strong>Aşağıdakilerden hangisi ge&ccedil;iş&nbsp;işleminin hız eğrisini belirlemek i&ccedil;in kullanılır?</strong>
     - A-) transition-delay
     - B-) linear
     - C-) transition-duration
@@ -1127,7 +1162,7 @@ IV. K&uuml;resel alanda Meta Tag olarak isimlendirilir.<br />
 1. ....... web sayfası &uuml;zerindeki men&uuml; ya da gezinme &ccedil;ubuğu olarak adlandırılabilir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Navbar**
-    - B-) Image Gallery
+    - B-) Image&nbsp;Gallery
     - C-) 2D Transform
     - D-) Transitions
     - E-) Scale
@@ -1187,7 +1222,7 @@ IV. Tables (Tablolar)<br />
     - D-) row-striped
     - E-) table-bordered
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir tablonun satır ve s&uuml;tunlarına kenarlık eklemek i&ccedil;in kullanılan tanımdır?</strong>
+1. <strong>Aşağıdakilerden hangisi bir tablonun satır ve s&uuml;tunlarına kenarlık eklemek i&ccedil;in kullanılan &ouml;zelliktir?</strong>
     - A-) bordered
     - **Cevap B-) table-bordered**
     - C-) col-bordered
@@ -1208,12 +1243,12 @@ IV. Tables (Tablolar)<br />
     - **Cevap D-) JQuery**
     - E-) TypeScript
     <hr />
-1. <strong>Boostrap v5 versiyonu, windows masa&uuml;st&uuml; ortamında aşağıdaki internet tarayıcılarından hangisi tarafından <u>desteklenmez</u>?</strong>
+1. <strong>Boostrap v5 versiyonu, windows masa&uuml;st&uuml; ortamında aşağıdaki internet tarayıcılarından hangisi tarafından&nbsp;<u>desteklenmez</u>?</strong>
     - **Cevap A-) Safari**
     - B-) Firefox
     - C-) Opera
     - D-) Microsoft Edge
-    - E-) Chrome 
+    - E-) Chrome
     <hr />
 1. <strong>1400 px &ouml;l&ccedil;&uuml;s&uuml;nden b&uuml;y&uuml;k kesme noktası tipi aşağıdakilerden hangisidir?</strong>
     - A-) Small (K&uuml;&ccedil;&uuml;k)
@@ -1250,7 +1285,7 @@ IV. Tables (Tablolar)<br />
     - **Cevap D-) table-hover**
     - E-) table-striped
     <hr />
-1. <strong>Grid sistemi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+1. <strong>Grid sistemi ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
     - A-) Satır ve s&uuml;tunlardan oluşan flexbox ile geliştirilmiş Layout sisteminin bir par&ccedil;asıdır.
     - B-) Satıları tanımlamak i&ccedil;in row, s&uuml;tunları tanımlamak i&ccedil;in ise col class tanımı kullanılır.
     - **Cevap C-) Her bir satırda toplam 20 adet s&uuml;tun bulunmaktadır.**
@@ -1329,7 +1364,7 @@ IV. Tables (Tablolar)<br />
     - D-) Accordion
     - E-) Bread Bar
     <hr />
-1. <strong>Aşağıdakilerden hangisi Bootstrap bileşenlerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Bootstrap bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Alert
     - B-) Button
     - **Cevap C-) Square**
@@ -1428,6 +1463,13 @@ IV. Tables (Tablolar)<br />
     - D-) Belirli bir hedef kitlesi yoktur.
     - E-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları &ouml;zelleştirilemez.
     <hr />
+1. <strong>Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması h&acirc;linde arka plan rengini sarı yapan koddur?</strong>
+    - A-) @media only screen and (max-with: 250px) {body {background-color:red;}}
+    - **Cevap B-) @media only screen and (max-with: 250px) {body {background-color:yellow;}}**
+    - C-) @media only screen and (min-with: 250px) {body {background-color:yellow;}}
+    - D-) screen and (max-with: 250px) {body {background-color:yellow;}}
+    - E-) @media only screen and (max-with: 250px)
+    <hr />
 1. CSS kodlarının sıfırdan yazılması yerine hazır CSS k&uuml;t&uuml;phaneleri kullanılmaktadır.<br />
 <strong>Aşağıdakilerden hangisi CSS k&uuml;t&uuml;phanesine &ouml;rnek <u>değildir</u>?</strong>
     - **Cevap A-) HTML**
@@ -1436,7 +1478,14 @@ IV. Tables (Tablolar)<br />
     - D-) Foundation
     - E-) Materialize
     <hr />
-1. <strong>Aşağıdakilerden hangisi mobil uyumluluk testi i&ccedil;in kullanılan sitelerden biri <u>değildir</u>?</strong>
+1. <strong>Tasarlanan web sitelerinin mobil uyumlu olduğunu test etmek i&ccedil;in aşağıdaki işlemlerden hangisi yapılır?</strong>
+    - A-) Masa&uuml;st&uuml; tasarımları kontrol edilebilir.
+    - B-) Tasarımlarda H5 gibi k&uuml;&ccedil;&uuml;k başlık stilleri kullanılabilir.
+    - C-) Tasarımlarda 50x50 px&rsquo;i ge&ccedil;meyecek şekilde resimler kullanılabilir.
+    - D-) Tasarımlarda logonun b&uuml;y&uuml;kl&uuml;ğ&uuml; her zaman 70px altında ise site mobil uyumludur.
+    - **Cevap E-) Mobil uyumluluk test siteleri kullanılabilir.**
+    <hr />
+1. <strong>Aşağıdakilerden hangisi mobil uyumluluk testi i&ccedil;in kullanılan sitelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) search.google.com/test/mobile-friendly
     - B-) responsivedesignchecker.com
     - C-) ami.responsivedesign.is/
@@ -1451,10 +1500,10 @@ IV. Tables (Tablolar)<br />
     - **Cevap E-) Bootstrap**
     <hr />
 1. I. Semantic &ndash; UI<br />
-II. Foundation<br />
+II.&nbsp;Foundation<br />
 III. Materialize<br />
-IV. UI Kit<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri CSS Framework k&uuml;t&uuml;phaneleri arasında yer alır?</strong>
+IV.&nbsp;UI Kit<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;CSS Framework k&uuml;t&uuml;phaneleri arasında yer alır?</strong>
     - A-) I, II ve III
     - B-) I, II ve IV
     - C-) I, III ve IV
@@ -1479,7 +1528,7 @@ IV. UI Kit<br />
 1. <strong>&Ccedil;apraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi kod uyumluluğunu ifade eder?</strong>
     - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
     - **Cevap B-) CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eder.**
-    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder. 
+    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder.
     - D-) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.
     - E-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder.
     <hr />
@@ -1499,7 +1548,7 @@ IV. UI Kit<br />
     <hr />
 1. <strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel ama&ccedil;ları arasında yer alır?</strong>
     - A-) Yeni yazılım dili oluşturmak
-    - B-) Teknoloji firmalar arasındaki rekabeti arttırmak
+    - B-) Teknoloji firmaları arasındaki rekabeti artırmak
     - C-) B&uuml;y&uuml;k teknolojik firmaları korumak
     - **Cevap D-) Web alanında standartlar oluşturmak**
     - E-) İnterneti d&uuml;nyaya yaymak
@@ -1547,8 +1596,8 @@ IV. Eski teknolojiler kullanmak<br />
 1. <strong>Aşağıdakilerden hangisinde HTML de kullanılan &ldquo;BR&rdquo; etiketinin W3C standartlarına g&ouml;re kullanımı doğru verilmiştir?</strong>
     - A-) &lt;br&gt; &lt;br /&gt;
     - B-) &lt;br&gt;
-    - **Cevap C-) &lt;br /&gt;**
-    - D-) &lt;/br&gt;
+    - **Cevap C-) **
+    - D-) </br>
     - E-) br
     <hr />
 1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğu testlerinde kullanılabilecek ara&ccedil;lardan biridir?</strong>
@@ -1565,14 +1614,14 @@ IV. Eski teknolojiler kullanmak<br />
     - D-) Mobil uyumluluk
     - E-) Performans uyumluluğu
     <hr />
-1. <strong>Kod uyumluluğu testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
+1. <strong>Kod uyumluluğu&nbsp;testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
     - B-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder.
     - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder.
     - **Cevap D-) CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eder.**
     - E-) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.
     <hr />
-1. <strong>Tarayıcıya dok&uuml;manın tip bilgisini sunmak i&ccedil;in kullanılan etiket </strong><strong>aşağıdakilerden hangisidir? </strong>
+1. <strong>Tarayıcıya dok&uuml;manın tip bilgisini sunmak i&ccedil;in kullanılan etiket&nbsp;</strong><strong>aşağıdakilerden hangisidir?&nbsp;</strong>
     - A-) Browserling
     - **Cevap B-) Doctype**
     - C-) TestComplate
@@ -1580,28 +1629,28 @@ IV. Eski teknolojiler kullanmak<br />
     - E-) Html
     <hr />
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Mockminus**
     - B-) Moqups
     - C-) Mockup Builder
     - D-) Origami Studio
     - E-) MockPlus
     <hr />
-1. <strong>Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan &ccedil;alışmalarda insan g&ouml;z&uuml;n&uuml;n hareket ettiği yolu a&ccedil;ıklamaya &ccedil;alışan tasarım modeli aşağıdakilerden hangisidir?</strong>
+1. <strong>Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan &ccedil;alışmalarda insan g&ouml;z&uuml;n&uuml;n hareket ettiği&nbsp;yolu a&ccedil;ıklamaya &ccedil;alışan tasarım modeli aşağıdakilerden hangisidir?</strong>
     - A-) Z-Deseni
     - **Cevap B-) Gutenberg**
     - C-) F-Deseni
     - D-) N-Deseni
     - E-) V-Deseni
     <hr />
-1. <strong>Aşağıdakilerden hangisi WireFrame hazırlama ortamlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi WireFrame hazırlama ortamlarından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Luxery**
     - B-) Wireframe.cc
     - C-) Balsamiq
     - D-) InDesign
     - E-) Axure
     <hr />
-1. <strong>Aşağıdakilerden hangisi </strong><strong>Wireframe kullanmanın faydaları i&ccedil;in <u>yanlıştır</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Wireframe kullanmanın faydaları i&ccedil;in <u>yanlıştır</u>?</strong>
     - A-) Web siteniz veya &uuml;r&uuml;n&uuml;n&uuml;z hakkında &ouml;n konuşmalarda &ccedil;ok yardımcı olur ve g&ouml;r&uuml;len durumların değiştirilmesini kolaylaştırır.
     - B-) Wireframe &ccedil;alışmasından sonra yazılıma ge&ccedil;mek, daha belirgin kuralları takip etmenizi sağlar.
     - C-) Wireframe aşamasında yapılan değişiklikler, kodlama başladıktan sonra gerekli g&ouml;r&uuml;len değişikliklerden &ccedil;ok daha kolay ve dolayısıyla daha ucuzdur.
@@ -1678,7 +1727,7 @@ IV. Eski teknolojiler kullanmak<br />
     - D-) Kahverengi
     - E-) Kırmızı
     <hr />
-1. <strong>Aşağıdakilerden hangisi prototip &ccedil;alışmalarının ama&ccedil;larından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi prototip &ccedil;alışmalarının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Web sitesi ve kullanıcı arasındaki etkileşim eksikliklerini ve hatalarını keşfetmek
     - B-) Farklı tasarım fikirlerini kolayca karşılaştırabilmek
     - **Cevap C-) Geliştirilen web sitesinde bulunması gereken &ouml;zellikleri belirlemek**
@@ -1692,11 +1741,11 @@ IV. Eski teknolojiler kullanmak<br />
     - D-) Adobe XD
     - E-) Sketch
     <hr />
-1. <strong>Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Hata tespiti yapar.
     - B-) &Ccedil;alışmanın tamamının g&ouml;zden ge&ccedil;irilmesine imk&acirc;n sağlar.
     - C-) Ortak &ccedil;alışma verimliliğini artırır.
-    - D-) Geliştirme s&uuml;reci taleplere uygun şekilde planlar.
+    - D-) Geliştirme s&uuml;recini taleplere uygun şekilde planlar.
     - **Cevap E-) Tasarım maliyetini azaltır.**
     <hr />
 1. <strong>UX tasarımcıları tarafından kullanılan ve bir web sitesi, uygulama veya &uuml;r&uuml;n i&ccedil;in tasarımlarının bilgi hiyerarşisini tanımlamalarına ve planlamalarına olanak tanıyan uygulama aşağıdakilerden hangisidir?</strong>

@@ -21,7 +21,7 @@
     - D-) Tarih-i Hindi Garbi
     - E-) Altun Yaruk Sutra
     <hr />
-1. <strong>Aşağıdakilerden hangisi matbaacılıkta yaşanan &ouml;nemli gelişmelerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi matbaacılıkta yaşanan &ouml;nemli gelişmelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Frederic Koenig, ilk baskı makinesini icad etmesi
     - B-) Gutenberg&rsquo;in tipo baskıyı bulması
     - C-) William Bullock &lsquo;un rotasyon baskıyı bulması
@@ -70,6 +70,13 @@
     - D-) İngiltere
     - E-) Almanya
     <hr />
+1. <strong>Matbaanın icat edilmesi ve kullanılmasıyla aşağıdakilerden hangisi arasında direkt bağlantı <u>yoktur</u>?</strong>
+    - A-) Okuma-yazma bilen vatandaşların artması
+    - B-) Haber ve yayınların daha da hızlı yayılması
+    - **Cevap C-) Monarşiyle y&ouml;netenlerin g&uuml;&ccedil; kazanması**
+    - D-) R&ouml;nesans&rsquo;ın doğması ve gelişmesi
+    - E-) Reform hareketlerinin yaygınlaşması
+    <hr />
 1. <strong>Osmanlı Devleti&#39;nde ilk matbaa hangi yıl kurulmuştur?</strong>
     - A-) 1360
     - **Cevap B-) 1493**
@@ -84,12 +91,19 @@
     - D-) Cihann&uuml;ma
     - E-) Tarih-i Hind-i Garbi
     <hr />
-1. <strong>Aşağıdakilerden hangisi İbrahim M&#252;teferrika Matbaasının ikinci d&#246;neminde basılan kitaplardan biri <u>değildir</u>?</strong>
-    - A-) Izz&#238; Tarihi
+1. <strong>Aşağıdakilerden hangisi İbrahim M&uuml;teferrika Matbaasının ikinci d&ouml;neminde basılan kitaplardan biri <u>değildir</u>?</strong>
+    - A-) Izz&icirc; Tarihi
     - B-) Fenn-i Lağım
     - C-) Fenn-i Harp
-    - D-) Ferheng-i Şu&#251;r&#238;
-    - **Cevap E-) Cihann&#252;ma**
+    - D-) Ferheng-i Şu&ucirc;r&icirc;
+    - **Cevap E-) Cihann&uuml;ma**
+    <hr />
+1. <strong>II. Abd&uuml;lhamit D&ouml;nemi&#39;nde yaşayan ve T&uuml;rk taşbaskı sanatının en &ouml;nemli ismi aşağıdakilerden hangisidir?</strong>
+    - **Cevap A-) Mehmet Hulusi**
+    - B-) Ahmet Efendi
+    - C-) Kazancı İbrahim
+    - D-) Malik Aksel
+    - E-) İbrahim M&uuml;teferrika
     <hr />
 1. <strong>S&uuml;merlerin uygarlık tarihine en &ouml;nemli katkısı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Yazıyı icat etmeleri**
@@ -127,7 +141,7 @@
     - D-) Grav&uuml;r baskı
     - E-) Taş baskı/Litografi
     <hr />
-1. <strong>Aşağıdakilerden hangisi matbaanın kurucusu ve g&uuml;n&uuml;m&uuml;zde modern baskı tekniklerinin &ouml;nc&uuml;s&uuml; olarak kabul edilmektedir? </strong>
+1. <strong>Aşağıdakilerden hangisi matbaanın kurucusu ve g&uuml;n&uuml;m&uuml;zde modern baskı tekniklerinin &ouml;nc&uuml;s&uuml; olarak kabul edilmektedir?&nbsp;</strong>
     - A-) Pablo Picasso
     - **Cevap B-) Johannes Gutenberg**
     - C-) Albrecht D&uuml;rer
@@ -141,7 +155,7 @@
     - **Cevap D-) Y&uuml;ksek baskı**
     - E-) Mono baskı
     <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı teknikleri ile eser veren sanat&ccedil;ılardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı teknikleri ile eser veren sanat&ccedil;ılardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Nevide G&ouml;kaydın
     - B-) Mustafa Aslıer
     - C-) Nevzat Akoral
@@ -176,7 +190,7 @@
     - D-) Strafor
     - E-) Al&ccedil;ı
     <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerinde kullanılan malzemelerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerinde kullanılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Merdaneler
     - B-) Oyma U&ccedil;ları
     - C-) Baskı Presi
@@ -190,10 +204,10 @@
     - D-) 4
     - E-) 5
     <hr />
-1. I. 1890&rsquo;da Waltan Als Baden Belag tarafından İngiltere&rsquo;de uygulanmaya başlanmıştır.<br />
+1. I.&nbsp;1890&rsquo;da Waltan Als Baden Belag tarafından İngiltere&rsquo;de uygulanmaya başlanmıştır.<br />
 II. Sanat kurumlarında en &ccedil;ok tercih edilen y&uuml;ksek baskı tekniğidir.<br />
-III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; sanat&ccedil;ıları tarafından da kullanılmıştır.<br />
-<strong>Yukarıda bazı &ouml;zellikleri verilen baskı resim tekniği hangisidir? </strong>
+III. Bu teknik&nbsp;Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; sanat&ccedil;ıları tarafından da kullanılmıştır.<br />
+<strong>Yukarıda bazı &ouml;zellikleri verilen baskı resim tekniği hangisidir?&nbsp;</strong>
     - A-) Taşbaskı
     - B-) Serigrafi Baskı
     - C-) Grav&uuml;r Baskı
@@ -214,6 +228,13 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Elek baskı kalıbı
     - E-) Grav&uuml;r baskı kalıbı
     <hr />
+1. <strong>Aşağıdakilerden hangisi &ccedil;ukur baskı tekniklerindendir?</strong>
+    - **Cevap A-) Grav&uuml;r**
+    - B-) Linol baskı
+    - C-) Ağa&ccedil; baskı
+    - D-) Elek baskı
+    - E-) Litografi
+    <hr />
 1. <strong>Aşağıdaki baskı tekniklerinden hangisi kullanılacak malzemenin &ccedil;eşitliliği ve kolay uygulanabilirliği nedeni ile sanat kurumlarında en &ccedil;ok tercih edilen y&uuml;ksek baskı tekniğidir?</strong>
     - A-) Litografi
     - B-) Elek baskı
@@ -227,7 +248,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - B-) &Ccedil;ukur baskı, &ccedil;inko, bakır, sa&ccedil; gibi metal ve d&uuml;z y&uuml;zeyli metallerden yararlanılır.
     - C-) Linol, serfloor gibi naylonumsu nesnelerden yararlanılır.
     - D-) &Ccedil;ukur baskıda delici veya oyucu aletler kullanılır.
-    - E-) Grav&uuml;r kağıdından yararlanılır.
+    - E-) Grav&uuml;r k&acirc;ğıdından yararlanılır.
     <hr />
 1. <strong>Silindir m&uuml;h&uuml;rlerle kil &uuml;zerine bilinen ilk baskı hangi d&ouml;neme aittir?</strong>
     - A-) Mısırlılar d&ouml;nemine
@@ -320,7 +341,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Asım İşler
     - E-) Hayati Misman
     <hr />
-1. <strong>Aşağıdakilerden hangisi kuru kazı tekniklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kuru kazı tekniklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Elektrikli motorlu aletlerle oyma
     - B-) Kalburlama, noktalama (crible) ile oyma
     - C-) Mezotint dişli kalem (siyah tarz) ile oyma
@@ -454,6 +475,13 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Hızlandırıcı tiner
     - **Cevap E-) Sel&uuml;lozik tiner**
     <hr />
+1. <strong>Aşağıdaki malzemelerden hangisi gaze / ipek &uuml;retiminde <u>kullanılmaz</u>?</strong>
+    - A-) Polyaster
+    - B-) Organik ipek
+    - **Cevap C-) Pamuk**
+    - D-) Polyamid
+    - E-) Metal
+    <hr />
 ## Unite 5
 1. <strong>Johannes Gutenberg&rsquo;in 1440&rsquo;lı yıllarda geliştirdiği baskı sisteminin adı nedir?</strong>
     - **Cevap A-) Tipo baskı**
@@ -462,7 +490,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Tifdruk baskı
     - E-) Dijital baskı
     <hr />
-1. <strong>Aşağıdakilerden hangisi basmayan malzemelerden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi basmayan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Esbaslar
     - **Cevap B-) Hurufatlar**
     - C-) Garnit&uuml;rler
@@ -490,7 +518,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) El baskı tezg&acirc;hları
     - **Cevap E-) Rotatif tipolar**
     <hr />
-1. <strong>Aşağıdakilerden hangisi tipo baskı sisteminin avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tipo baskı sisteminin avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Kalıpların kurşun ağırlıklı olması**
     - B-) Hurufat ve klişelerle kalıbın hızlı yapılıyor olması
     - C-) Baskı maliyetinin ucuz olması
@@ -518,7 +546,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - **Cevap D-) Pilyaj**
     - E-) Perforaj
     <hr />
-1. <strong>K&acirc;ğıda basılması gereken b&uuml;t&uuml;n g&ouml;rsel unsurları, baskı kalıbında basmayan b&ouml;l&uuml;mlere g&ouml;re daha y&uuml;ksek olan baskı sistemi aşağıdakilerden hangisidir?</strong>
+1. <strong>K&acirc;ğıda basılması gereken b&uuml;t&uuml;n g&ouml;rsel unsurları, baskı kalıbında basmayan b&ouml;l&uuml;mlere g&ouml;re daha y&uuml;ksek olan&nbsp;baskı sistemi aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tipo Baskı**
     - B-) Tabaka Ofset Baskı
     - C-) Web Ofset Baskı
@@ -553,6 +581,13 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Yaldız baskı
     - E-) Soğuk baskı
     <hr />
+1. <strong>Tipoda keski ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - A-) Tipoda kesim işleminden sonra ayıklama elle yapılır.
+    - **Cevap B-) Kesim kalıbının &uuml;zerinde sadece kesim i&ccedil;in bı&ccedil;ak bulunur.**
+    - C-) Karton ambalajlar ofsette basıldıktan sonra, tipoda kesimi yapılır.
+    - D-) Keski baskı kalıpları i&ccedil;in katmanlı suntalar kullanılır.
+    - E-) Keski işlemi kazanlı ve maşalı makinelerde yapılır.
+    <hr />
 1. <strong>Aşağıdakilerden hangisi yaldız &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
     - A-) Pigment yaldızlar
     - B-) Metalik yaldızlar
@@ -561,7 +596,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - E-) Hologram yaldızlar
     <hr />
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisi tabaka ofsetin &uuml;nitelerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi tabaka ofsetin &uuml;nitelerinden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Bobin standı**
     - B-) M&uuml;rekkep &uuml;nitesi
     - C-) Poza tertibatı
@@ -575,7 +610,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Aparat tablası
     - E-) Salınga&ccedil; makası
     <hr />
-1. <strong>Aşağıdakilerden hangisi web ofsetin &uuml;nitelerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi web ofsetin &uuml;nitelerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bobin standı
     - B-) Baskı &uuml;nitesi
     - **Cevap C-) K&acirc;ğıt istif asans&ouml;r&uuml;**
@@ -596,7 +631,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Plakayı alkali banyoda temizleme işlemi
     - **Cevap E-) Anodlama işlemi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi hazne sularına ilave edilen katkı maddelerinin ama&ccedil;larından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hazne sularına ilave edilen katkı maddelerinin ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Az su harcaması yaparak su giderini d&uuml;ş&uuml;rme**
     - B-) Suyun y&uuml;zey gerilimini d&uuml;ş&uuml;rme
     - C-) Hazne suyunun &ccedil;amurlaşmasını &ouml;nleme
@@ -631,14 +666,14 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Kalıba m&uuml;rekkep veren merdaneler
     - **Cevap E-) Kalıp nemlendirme merdanesi**
     <hr />
-1. <strong>Durgun h&acirc;ldeki m&uuml;rekkep katıdır ve kolay akmaz. Biraz karıştırınca akmaya başlar. M&uuml;rekkebin bu &ouml;zelliğine ne ad verilir?</strong>
+1. <strong>Durgun h&acirc;ldeki m&uuml;rekkep katıdır ve kolay akmaz. Biraz karıştırınca akmaya başlar.&nbsp;M&uuml;rekkebin bu &ouml;zelliğine ne ad verilir?</strong>
     - **Cevap A-) Tiksotropi**
     - B-) Tack
     - C-) Viskozite
     - D-) Kalınlık
     - E-) Akıcılık
     <hr />
-1. <strong>M&uuml;rekkebi oluşturan </strong><strong>aşağıdaki </strong><strong>maddelerden hangisi m&uuml;rekkebin ışık haslığını belirler?</strong>
+1. <strong>M&uuml;rekkebi oluşturan&nbsp;</strong><strong>aşağıdaki&nbsp;</strong><strong>maddelerden hangisi m&uuml;rekkebin ışık haslığını belirler?</strong>
     - A-) Bağlayıcılar
     - B-) İncelticiler
     - **Cevap C-) Pigmentler**
@@ -681,7 +716,7 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Sert Tabaka &ndash; İnce Tabaka &ndash; Ağır Bakır Kaplama
     - E-) Ballardskin &ndash; Derin Tabaka &ndash; İnce Bakır Kaplama
     <hr />
-1. <strong>Aşağıdakilerden hangisi grav&uuml;r silindiri hazırlamak i&ccedil;in işlem aşamalarından biri <u>değildir</u>?   </strong>
+1. <strong>Aşağıdakilerden hangisi grav&uuml;r silindiri hazırlamak i&ccedil;in işlem aşamalarından biri <u>değildir</u>?&nbsp;</strong>
     - A-) Krom tabakanın &ccedil;ıkarılması
     - B-) Elektro kaplama
     - C-) Test baskısı
@@ -712,9 +747,9 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
 1. <strong>Aşağıdakilerden hangisi tifdruk baskı makinelerinin normal olarak kullanılan genişlik &ouml;l&ccedil;&uuml;lerinin t&uuml;m&uuml;d&uuml;r?</strong>
     - **Cevap A-) 110 &ndash; 120 &ndash; 140 &ndash; 160 cm**
     - B-) 110 &ndash; 130 &ndash; 150 &ndash; 170 cm
-    - C-) 120 &ndash; 140 &ndash; 160 &ndash; 180 cm
-    - D-) 130 &ndash; 140 &ndash; 150 &ndash;190 cm
-    - E-) 120 &ndash; 150 &ndash; 170 &ndash; 190 cm
+    - C-) 120 &ndash; 140 &ndash; 160&nbsp;&ndash; 180 cm
+    - D-) 130 &ndash; 140 &ndash; 150&nbsp;&ndash;190 cm
+    - E-) 120 &ndash; 150 &ndash; 170&nbsp;&ndash; 190 cm
     <hr />
 1. Temel &ouml;zelliği m&uuml;rekkep tabakasının kalınlığının (miktarının) ayarlanmasına yardımcı olan merdanedir.<br />
 <strong>Yukarıda belirtilen tanıma g&ouml;re flekso baskı tekniğinin de kullanılan merdanenin adı nedir?</strong>
@@ -724,12 +759,12 @@ III. Bu teknik Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; s
     - D-) Plastik Merdane
     - E-) &Ccedil;elik Merdane
     <hr />
-1. <strong>Flekso baskıda kullanılan m&uuml;rekkeplerin aşağıdakilerden hangisi &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi flekso baskıda kullanılan m&uuml;rekkeplerin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Vizkozitesi d&uuml;ş&uuml;k
     - B-) Rotograv&uuml;r m&uuml;rekkepler
     - C-) Solventlerden dolayı u&ccedil;ucu
-    - D-) &Ccedil;abuk Kuruyan
-    - **Cevap E-) Plastik Boya**
+    - D-) &Ccedil;abuk kuruyan
+    - **Cevap E-) Plastik boya**
     <hr />
 1. I. Sırt pozlandırması<br />
 II. Negatif ile temas<br />
@@ -798,7 +833,7 @@ III. &Ouml;n pozlandırma<br />
     - D-) Kullanacağı program bilgisi
     - E-) Renk tonlaması
     <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?  </strong>
+1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?&nbsp;</strong>
     - A-) A/A
     - B-) A/B
     - C-) B/B
@@ -850,12 +885,12 @@ III. Tifdruk<br />
     - D-) 200 dpi ve jpeg format
     - **Cevap E-) 300 dpi ve psd format**
     <hr />
-1. <strong>Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne ama&#231; ile yapılmaktadır?</strong>
-    - A-) Renklerin daha d&#252;zg&#252;n &#231;ıkması i&#231;in
-    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının &#246;n&#252;ne ge&#231;mek i&#231;in**
-    - C-) Renk kombinasyonu yaratmak i&#231;in
-    - D-) G&#246;rsel etkiyi artırmak i&#231;in
-    - E-) Renk tonlaması oluşturmak i&#231;in
+1. <strong>Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne ama&ccedil; ile yapılmaktadır?</strong>
+    - A-) Renklerin daha d&uuml;zg&uuml;n &ccedil;ıkması i&ccedil;in
+    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının &ouml;n&uuml;ne ge&ccedil;mek i&ccedil;in**
+    - C-) Renk kombinasyonu yaratmak i&ccedil;in
+    - D-) G&ouml;rsel etkiyi artırmak i&ccedil;in
+    - E-) Renk tonlaması oluşturmak i&ccedil;in
     <hr />
 1. <strong>Esnek ambalaj &uuml;reticileri renk y&ouml;netim sisteminde aşağıdakilerden hangisini oluştururlar?</strong>
     - **Cevap A-) Baskı CMYK profillerini**
@@ -863,6 +898,13 @@ III. Tifdruk<br />
     - C-) Baskı Set-up s&uuml;relerini
     - D-) Tasarım renklerini
     - E-) Tasarım renk &ouml;l&ccedil;&uuml;mlerini
+    <hr />
+1. <strong>Tasarımlarda &ouml;zel renk uygulaması var ise baskıya g&ouml;nderirken renk ne olarak tanımlanmalıdır?</strong>
+    - A-) Baskı Kodu
+    - B-) Rakam Kodu
+    - C-) Renk Kodu
+    - D-) CMYK Kodu
+    - **Cevap E-) Pantone Kodu**
     <hr />
 1. <strong>Tasarımlarda kullanılan yazı ve logo b&uuml;y&uuml;kl&uuml;kleri aşağıdakilerden hangisine g&ouml;re uyumlu olmalıdır?</strong>
     - A-) Esnek ambalaj &uuml;retici kurallarına
@@ -893,7 +935,7 @@ III. Tifdruk<br />
     - E-) Renk tonlama kontrol&uuml;
     <hr />
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi &ldquo;Dijital Baskı Teknikleri&rdquo;nin &ldquo;Geleneksel Baskı Teknikleri&rdquo; ile kıyaslanması durumunda karşımıza &ccedil;ıkan belirgin avantajlarından biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;Dijital Baskı Teknikleri&rdquo;nin &ldquo;Geleneksel Baskı Teknikleri&rdquo; ile kıyaslanması durumunda karşımıza &ccedil;ıkan belirgin avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Daha az kimyasal kullanımı
     - B-) Daha az fire oranı
     - **Cevap C-) Daha az baskı kalıbı kullanımı**
@@ -921,7 +963,7 @@ III. Tifdruk<br />
     - D-) Bobin beslemeli dijital baskı tekniği donanımları
     - E-) Flekso baskı tekniği donanımları
     <hr />
-1. <strong>Hizmet &uuml;rettiğiniz m&uuml;şterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 &ccedil;eşit, 25 000&rsquo;er adet, 6 renk) kurutulmuş dondurma &uuml;r&uuml;n&uuml; i&ccedil;in ambalaj (koruyucu kilitli esnek ambalaj) &uuml;retim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve adedine g&ouml;re ekonomik &uuml;retim yaptırabilirsiniz? </strong>
+1. <strong>Hizmet &uuml;rettiğiniz m&uuml;şterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 &ccedil;eşit, 25 000&rsquo;er adet, 6 renk) kurutulmuş dondurma &uuml;r&uuml;n&uuml; i&ccedil;in ambalaj (koruyucu kilitli esnek ambalaj) &uuml;retim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve adedine g&ouml;re ekonomik &uuml;retim yaptırabilirsiniz?&nbsp;</strong>
     - A-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları
     - **Cevap B-) Bobin beslemeli dijital baskı tekniği donanımları**
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
@@ -1083,7 +1125,7 @@ III. Tifdruk<br />
     - D-) IBM
     - E-) CERN
     <hr />
-1. <strong>CMYK renk modelindeki “K” harfi aşağıdakilerden hangisini temsil etmektedir?</strong>
+1. <strong>CMYK renk modelindeki &ldquo;K&rdquo; harfi aşağıdakilerden hangisini temsil etmektedir?</strong>
     - A-) Kırmızı
     - **Cevap B-) Siyah**
     - C-) Mavi
@@ -1182,14 +1224,14 @@ III. Tifdruk<br />
     - **Cevap D-) K&acirc;ğıdın su y&ouml;n&uuml;n&uuml;**
     - E-) K&acirc;ğıdın dayanıklılığını
     <hr />
-1. <strong>Aşağıdakilerden hangisi kendinden karbonlu (otokopi) k&acirc;ğıtların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi kendinden karbonlu (otokopi) k&acirc;ğıtların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Otokopi k&acirc;ğıtlar, fotokopi k&acirc;ğıtları olarak da kullanılır.**
     - B-) &Ccedil;ok n&uuml;shalı makbuz, fatura gibi işlerde otokopi k&acirc;ğıtları kullanılır.
     - C-) Birinci n&uuml;sha k&acirc;ğıtların arka y&uuml;z&uuml;, i&ccedil;inde (renksiz olan) renklendirici &ccedil;&ouml;zeltiler bulunan mikro kaps&uuml;llerle sıvalıdır.
     - D-) Alıcı n&uuml;shanın &ouml;n y&uuml;z&uuml; aktifleştirilmiş kil tozuyla kaplıdır.
-    - E-) Ortadaki n&uuml;shaların arka y&uuml;z&uuml; mikro kaps&uuml;llerle kaplıdır.
+    - E-) Ortadaki n&uuml;shaların&nbsp;arka y&uuml;z&uuml; mikro kaps&uuml;llerle kaplıdır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi yırtılmayan k&acirc;ğıtların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi yırtılmayan k&acirc;ğıtların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Her t&uuml;rl&uuml; tipo, ofset, flekso ve serigrafi baskı sistemleriyle basılabilir.
     - **Cevap B-) Bu k&acirc;ğıtların emiciliği y&uuml;ksek olduğundan m&uuml;rekkepler daha hızlı kurur.**
     - C-) Bu k&acirc;ğıtlar perfore edilebilir, dikilip yapıştırılabilir.
@@ -1225,7 +1267,7 @@ III. Tifdruk<br />
     - **Cevap D-) Macenta**
     - E-) Lacivert
     <hr />
-1. <strong>Aşağıdakilerden hangileri &ldquo;Sıcak Renkler&rdquo; dir?</strong>
+1. <strong>Aşağıdakilerden hangileri &ldquo;sıcak renkler&rdquo;dir?</strong>
     - A-) Macenta, kırmızı, mavi
     - B-) Mor, turuncu, yeşil
     - C-) Kımızı, sarı, siyan mavi
@@ -1239,7 +1281,7 @@ III. Tifdruk<br />
     - D-) Siyan mavi, mor
     - E-) Yeşil, mavi
     <hr />
-1. Gamut, belirli bir model, ara&ccedil; veya işlemin &uuml;retebileceği ................. ifade eder.<br />
+1. Gamut, belirli bir model, ara&ccedil; veya işlemin &uuml;retebileceği .................&nbsp;ifade eder.<br />
 <strong>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Renk modelini
     - B-) Renk &ouml;z&uuml;n&uuml;
@@ -1275,6 +1317,13 @@ III. Tifdruk<br />
     - D-) Renk baskı ayarı
     - **Cevap E-) Renk şişirme**
     <hr />
+1. <strong>G&ouml;zde hangi renklere duyarlı alıcılar vardır?</strong>
+    - A-) San, mor, turuncu
+    - **Cevap B-) Kırmızı, yeşil, mavi**
+    - C-) Turuncu, yeşil, mor
+    - D-) Kırmızı, mavi, sarı
+    - E-) B&uuml;t&uuml;n renkler
+    <hr />
 1. <strong>Tayfta (spektrumda) birbirine en g&uuml;&ccedil;l&uuml; zıtlık oluşturan renkler aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Tamamlayıcı renkler**
     - B-) Sıcak renkler
@@ -1304,7 +1353,7 @@ III. Tifdruk<br />
     - E-) Renk &ccedil;ubuğu
     <hr />
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri <u>değildir</u>? </strong>
+1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri&nbsp;<u>değildir</u>?&nbsp;</strong>
     - A-) Billboard
     - B-) Giantboard
     - **Cevap C-) Gazete**
@@ -1318,7 +1367,7 @@ III. Tifdruk<br />
     - **Cevap D-) Dergi ve Gazete**
     - E-) Taşıt &uuml;zeri grafik tasarım ve fuar standı
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı (Flatbed) Baskı Tekniği Donanımları&rdquo; tarafından yapılan baskı işlemi katkısı ile &uuml;retilebilmektedir? </strong> 
+1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı (Flatbed) Baskı Tekniği Donanımları&rdquo; tarafından yapılan baskı işlemi katkısı ile &uuml;retilebilmektedir?&nbsp;</strong>
     - A-) Billboard ve Megalight
     - B-) Bayrak ve Flama
     - C-) X Banner ve Roll Up Banner
@@ -1332,7 +1381,7 @@ III. Tifdruk<br />
     - D-) Tanıtım Hizmetleri
     - E-) Tam Hizmet Reklam Ajansı
     <hr />
-1. <strong>Tasarım hizmeti verilen bir m&uuml;şteri ara&ccedil; filosuna yeni kattığı tırı i&ccedil;in dorse &ccedil;adırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir? </strong>    
+1. <strong>Tasarım hizmeti verilen bir m&uuml;şteri ara&ccedil; filosuna yeni kattığı tırı i&ccedil;in dorse &ccedil;adırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir?&nbsp;</strong>
     - **Cevap A-) Bobin beslemeli B&uuml;y&uuml;k format dijital baskı tekniği donanımları**
     - B-) Bobin beslemeli dijital baskı tekniği donanımları
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
@@ -1346,7 +1395,7 @@ III. Tifdruk<br />
     - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
     - E-) D&uuml;z yataklı dijital baskı tekniği donanımları
     <hr />
-1. <strong>&Ccedil;ok &ccedil;eşitli &ouml;l&ccedil;&uuml;lerde, i&ccedil; ve dış mek&acirc;nlarda diğer m&uuml;rekkep t&uuml;rlerine g&ouml;re daha dayanıklı, solmayan UV ve su bazlı m&uuml;rekkep kullanabilen baskı tekniğinin donanımları aşağıdakilerden hangisidir?</strong>
+1. <strong>&Ccedil;ok &ccedil;eşitli &ouml;l&ccedil;&uuml;lerde, i&ccedil; ve dış mek&acirc;nlarda diğer m&uuml;rekkep t&uuml;rlerine g&ouml;re daha dayanıklı, solmayan UV ve su bazlı m&uuml;rekkep kullanabilen&nbsp;baskı tekniğinin donanımları aşağıdakilerden hangisidir?</strong>
     - A-) Ofset baskı tekniği donanımları
     - B-) Flekso baskı tekniği donanımları
     - C-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
@@ -1361,14 +1410,21 @@ III. Tifdruk<br />
     - E-) Dekota
     <hr />
 1. <strong>Taşıtın &uuml;zerindeki tampon, ayna, kapı, taşıt tavanına ge&ccedil;iş kıvrımının durumu gibi taşıt tasarımının genel hatları g&ouml;z &ouml;n&uuml;ne alınarak değerlendirildiğinde uygulama yapılacak zemindeki kıvrımlar &ccedil;ok ve keskin ise hangi baskı altı malzemesinin kullanılması tercih edilir?</strong>
-    - A-) CLP K&acirc;ğıdı
-    - B-) Blueback K&acirc;ğıt
+    - A-) CLP k&acirc;ğıdı
+    - B-) Blueback k&acirc;ğıt
     - C-) Pleksiglass
     - D-) EPS Strafor
     - **Cevap E-) Cast Folyo**
     <hr />
+1. <strong>48 adet 60 x 80 cm &ouml;l&ccedil;&uuml;s&uuml;nde masanın ahşap &uuml;zeri beyaz akrilik boyalı tablası &uuml;zerine tasarım g&ouml;rseli, aşağıdaki hangi baskı tekniğinin donanımları ile ekonomik ve kısa s&uuml;rede uygulanır?</strong>
+    - A-) Ofset baskı tekniği donanımları
+    - B-) Flekso baskı tekniği donanımları
+    - C-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
+    - D-) Tabaka beslemeli dijital baskı tekniği donanımları
+    - **Cevap E-) D&uuml;z yataklı (tabaka / fladbed) dijital baskı tekniği donanımları**
+    <hr />
 1. I. Bayrak ve flamalarda kullanılan kumaş t&uuml;revi baskı altı malzemelerine baskılar<br />
-II. Billboard ve clp gibi şehir mobilyalarında kullanılan &ccedil;ok farklı &ouml;zellikteki k&acirc;ğıt t&uuml;revi baskı altı malzemelerine baskılar<br />
+II.&nbsp;Billboard ve clp gibi şehir mobilyalarında kullanılan &ccedil;ok farklı &ouml;zellikteki k&acirc;ğıt t&uuml;revi baskı altı malzemelerine baskılar<br />
 III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri bobin beslemeli b&uuml;y&uuml;k format dijital baskı teknikleri ile yapılabilen baskılardır?</strong>
     - A-) Yalnız II
@@ -1377,7 +1433,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) II ve III
     - **Cevap E-) I ve II**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri <u>değildir</u>? </strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri&nbsp;<u>değildir</u>?&nbsp;</strong>
     - **Cevap A-) Cam**
     - B-) Plastik
     - C-) MDF lam
@@ -1391,7 +1447,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) Bobin kumaşı vekt&ouml;rel olarak hazırlanmış &ccedil;izim referansı ile keser.
     - E-) Bobin cast folyo &uuml;zeri basar ve keser.
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Kutu Harf ve &Uuml;&ccedil; Boyutlu Simge &Uuml;retim Teknikleri&rdquo; ile ilgili yaygın olarak kullanılan donanımlar arasında <u>yer almaz</u>? </strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;Kutu Harf ve &Uuml;&ccedil; Boyutlu Simge &Uuml;retim Teknikleri&rdquo; ile ilgili yaygın olarak kullanılan donanımlar arasında <u>yer almaz</u>?&nbsp;</strong>
     - A-) 3D CNC Router Kesim Makinaları
     - B-) Kutu Harf B&uuml;kme Makinaları
     - C-) Metal Lazer Kesim Makinaları
@@ -1403,7 +1459,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - A-) G&ouml;rsel &ouml;gelere hayat veren bir alandır.
     - B-) Animasyon, ill&uuml;strasyon, tipografi, fotoğraf, m&uuml;zik, film ve video yapımı gibi alanların birleşimi nedeniyle &ccedil;oklu disipline dayalıdır.
     - **Cevap C-) Hareketli grafik &uuml;r&uuml;nleri sadece televizyon ve sinemaya hizmet eden bir alandır.**
-    - D-) Hareketli grafik &uuml;r&uuml;nleri televizyondan, sinema, internet gibi etkileşimli medyaya kadar bir&ccedil;ok ortamda g&ouml;sterime girmektedir .
+    - D-) Hareketli grafik &uuml;r&uuml;nleri televizyondan, sinema, internet gibi etkileşimli medyaya kadar bir&ccedil;ok ortamda g&ouml;sterime girmektedir&nbsp;.
     - E-) Hareketli grafik tasarımı bilgilendirmek &uuml;zere bir fikri, mesajı iletmek i&ccedil;in animasyon ve grafik tasarımı birleştiren bir alandır.
     <hr />
 1. <strong>Ekranda durağan g&ouml;r&uuml;nen bir yazının renk veya saydamlığının değişmesi, ne olarak kabul edilmektedir?</strong>
@@ -1441,7 +1497,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) Yeni teknoloji
     - E-) Multimedya
     <hr />
-1. <strong>Aşağıdakilerden hangisi hareketli grafiği oluşturan unsurlardan biri <u>değildir</u>?</strong>
+1. <strong>Aşağıdakilerden hangisi hareketli grafiği oluşturan unsurlardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) G&ouml;r&uuml;nt&uuml;
     - B-) Tipografi
     - **Cevap C-) Duygu**
@@ -1455,14 +1511,14 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - **Cevap D-) Corel Draw**
     - E-) Blender
     <hr />
-1. <strong>&ldquo;............. ............., tasarım &ouml;ğelerinin zaman i&ccedil;inde nasıl değişmesi gerektiğini g&ouml;steren &ouml;nemli &ouml;rnek noktalardır ve bu nedenle hareketli grafiklerin en &ouml;nemli unsurlarından biridir.&rdquo; C&uuml;mlesindeki boş alanı en doğru dolduracak se&ccedil;enek hangisidir?</strong>
+1. <strong>&ldquo;.............&nbsp;............., tasarım &ouml;ğelerinin zaman i&ccedil;inde nasıl değişmesi gerektiğini g&ouml;steren &ouml;nemli &ouml;rnek noktalardır ve bu nedenle hareketli grafiklerin en &ouml;nemli unsurlarından biridir.&rdquo; C&uuml;mlesindeki boş alanı en doğru dolduracak se&ccedil;enek hangisidir?</strong>
     - A-) Zaman
     - **Cevap B-) Anahtar kareler**
     - C-) Değişim
     - D-) Ses
     - E-) Tipografi
     <hr />
-1. İzleyiciye bir sahnenin perspektifinin g&ouml;rsel olarak anlatılması ve şekillendirilmesi amacıyla gerekli olan se&ccedil;enek aşağıdakilerden hangisidir?
+1. <strong>İzleyiciye bir sahnenin perspektifinin g&ouml;rsel olarak anlatılması ve şekillendirilmesi amacıyla gerekli olan se&ccedil;enek aşağıdakilerden hangisidir?</strong>
     - A-) Işık
     - B-) Odaklanma
     - C-) Geniş a&ccedil;ı
@@ -1491,7 +1547,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) Fragmanlar
     - E-) Grafik tasarımlar
     <hr />
-1. Tipografinin planlanmış hareket bi&ccedil;imleri ve boyutları ile oluşturulan duygular, grafik etki olarak iletilir. &Ccedil;oğu durumda yazı artık metin olarak okunmaz, ancak ............. ... ............. yoluyla karmaşık g&ouml;stergebilim deneyimleri oluşturan fiziksel şekil olarak algılanır.<br />
+1. Tipografinin planlanmış hareket bi&ccedil;imleri ve boyutları ile oluşturulan duygular, grafik etki olarak iletilir. &Ccedil;oğu durumda yazı artık metin olarak okunmaz, ancak ............. ... ............. yoluyla karmaşık g&ouml;stergebilim&nbsp;deneyimleri oluşturan fiziksel şekil olarak algılanır.<br />
 <strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangileri getirilmelidir?</strong>
     - **Cevap A-) metafor ve hareket**
     - B-) semiyoloji ve g&ouml;sterge

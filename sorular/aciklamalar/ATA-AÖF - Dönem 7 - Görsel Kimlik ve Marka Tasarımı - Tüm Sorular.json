@@ -496,6 +496,58 @@
     "Aciklama": "Kurumsal kimlik kılavuzunda yer alan davetiye, kartvizit, sertifika ve fatura gibi materyaller hem basılı hem de dijital (e-davetiye, e-fatura vb.) olarak hazırlanabilir. Mail şablonu ise doğası gereği sadece dijital bir unsurdur ve basılı bir karşılığı yoktur."
   },
   {
+    "SoruID": 386659,
+    "Aciklama": "Bu ifade, ders materyalinde yer alan ürün ve marka arasındaki temel farklılıklar tablosundaki bilgilerin tam tersidir. Tabloya göre <strong>ürün</strong>, tüketiciye <i>fiziksel yarar</i> sağlarken; <strong>marka</strong>, kişiliği ve soyut bileşenleriyle beynin <i>duygusal tarafına</i> hitap ederek tatmin sağlar."
+  },
+  {
+    "SoruID": 386660,
+    "Aciklama": "<strong>Markalaşma</strong>, ders materyalinde doğrudan \"tüketicilerin zihninde bir marka yaratarak ve şekillendirerek belirli organizasyon, şirket, ürün veya hizmetlere anlam verme süreci\" olarak tanımlanmaktadır. Bu süreç, markanın rakiplerinden ayrışmasını sağlar."
+  },
+  {
+    "SoruID": 386662,
+    "Aciklama": "Ders materyaline göre, markalaşma stratejilerinin niteliklerinden biri, \"Pazarlama iletişim çalışmalarında yapılacak olan uygulamalar <strong>çeşitlilik göstermelidir.</strong>\" şeklinde ifade edilmiştir. Bu nedenle uygulamaların 'tek düze' olması gerektiği ifadesi yanlıştır."
+  },
+  {
+    "SoruID": 386664,
+    "Aciklama": "Metinde Aaker'dan alıntılanan markalaşma zorlukları arasında; <ul><li>Yeni alt kategoriler yaratılması (I)</li><li>Marka varlığının büyümeyi sağlamak için güçlendirilmesi (IV)</li><li>İşletmenin etkili bir vizyona sahip olması (V)</li></ul> gibi maddeler bulunmaktadır. II ve III numaralı ifadeler ise bu zorlukların tam tersi olan hatalı yaklaşımları tanımlamaktadır."
+  },
+  {
+    "SoruID": 386665,
+    "Aciklama": "Metinde <strong>Marka Kişiliği</strong>, \"Tüketicinin bir markayı hızlıca tanımlayıp ifade edebildiği bir özellik olarak tanımlanmaktadır\" ifadesiyle doğrudan açıklanmıştır. Marka kimliği ise markayı tanımlayan logo, renk gibi göstergelerin bütünüdür."
+  },
+  {
+    "SoruID": 386666,
+    "Aciklama": "<strong>Marka denkliği (Marka Değeri)</strong>, bir markanın sahip olduğu toplam değeri, tüketicilerle olan bağının gücünü ve zihindeki çağrışımlarını ifade eder. Tüketicilerin ürünü rakiplerinden ayrıştırması ise daha çok marka kimliği ve marka farkındalığının bir sonucudur, marka denkliğinin tanımı değildir."
+  },
+  {
+    "SoruID": 386667,
+    "Aciklama": "Amerikan Pazarlama Derneği'nin tanımına göre <strong>küresel markalama</strong>, dünyanın her yerinde aynı stratejik ilkelere göre pazarlanan marka anlamına gelir. Amaç, farklı kültürlerden insanların markayı tanımasına yardımcı olacak tutarlı bir imaj yaratmaktır."
+  },
+  {
+    "SoruID": 386668,
+    "Aciklama": "Metne göre küresel markalar; <ul><li>başarılı bir satış grafiğine ve yüksek müşteri sadakatine sahiptir (II),</li><li>sadece ürün satmakla kalmaz, aynı zamanda küresel birer kültür ikonu yaratır (IV),</li><li>ve girdikleri pazarın kültürel özelliklerine uyum sağlamak için marka isimlerini veya logolarını değiştirebilirler (V).</li></ul>"
+  },
+  {
+    "SoruID": 386669,
+    "Aciklama": "Metinde küresel markalarla ilişki kuran tüketiciler dört bölüme ayrılmıştır: <ul><li>Küresel vatandaşlar</li><li>Küresel hayalperestler</li><li>Küresel karşıtları</li><li>Küresel bilinmezciler</li></ul> 'Küresel yanlısı' bu sınıflandırmada yer almamaktadır."
+  },
+  {
+    "SoruID": 386670,
+    "Aciklama": "Randall'a göre yerel bir markanın küresel olma yolunda uyması gereken temel şartlar şunlardır: <ul><li>Rekabet üstünlüğünü sürdürülebilir kılmak (I)</li><li>Ölçek ekonomileri (III)</li><li>Hedef ülkeye uygun bölümleme ve pazarlama stratejileri oluşturmak.</li></ul> Seçenek IV (Tüketicilerin markayı küresel kabul etmesi) ise bu sürecin bir sonucudur, ön şartı değildir."
+  },
+  {
+    "SoruID": 389244,
+    "Aciklama": "Bu ifade, markalaşmanın temel amacıyla çelişmektedir. <strong>Markalaşma</strong>, tam tersine, benzer ürün ya da hizmetlerin rakiplerinden <strong>ayrışmasını sağlamak</strong> ve tüketicinin zihninde belirgin bir yer edinmek için yapılır."
+  },
+  {
+    "SoruID": 389250,
+    "Aciklama": "<strong>Marka sadakati</strong>, bir müşterinin markaya olan bağlılığıdır ve bu bağlılık, markanın başarılı farklılaşma stratejileri sonucunda ortaya çıkar. Dolayısıyla, farklılaşma marka sadakatini sağlar; marka sadakati farklılaşmayı sağlamaz."
+  },
+  {
+    "SoruID": 389251,
+    "Aciklama": "Bir markanın küresel olarak tanımlanabilmesi için temel hususlar; <ul><li>tüm dünya pazarlarında genel bir bilinirliğe sahip olması (I)</li><li>pazarlama ölçeğinin dünya geneline yayılmış olmasıdır (II).</li></ul> Sadece tek bir coğrafi alanda faaliyet göstermesi (III) ise yerel markanın tanımıdır."
+  },  
+  {
     "SoruID": 386671,
     "Aciklama": "Marka yönetimi süreci; sektör araştırması ile başlar ve yeni bir kategori oluşturma, marka konumlandırma, marka kimliği tasarlama, marka iletişim stratejilerini belirleme ve marka denetimi gibi adımlarla devam eder. 'Marka dizilimi' bu süreçler arasında yer alan bir terim değildir."
   },

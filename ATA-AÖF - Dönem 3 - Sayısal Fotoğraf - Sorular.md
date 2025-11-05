@@ -42,13 +42,6 @@
     - D-) T&uuml;rk Telekom
     - E-) Turkcell
     <hr />
-1. <strong>2004 yılının ilk 9 ayında d&uuml;nya genelinde satılan telefonların yarısından fazlasında bulunan en &ouml;nemli &ouml;zellik aşağıdakilerin hangisinde doğru verilmiştir?</strong>
-    - A-) &Ccedil;ift hatlı olması
-    - B-) Metal olması
-    - C-) Dokunmatik olması
-    - D-) Olduk&ccedil;a k&uuml;&ccedil;&uuml;k olması
-    - **Cevap E-) Kameralı olması**
-    <hr />
 1. <strong>Bir bilgisayarla birlikte kullanılmak &uuml;zere geliştirilen ilk g&ouml;r&uuml;nt&uuml; tarayıcı a</strong><strong>şağıdakilerden hangisidir?</strong>
     - A-) Masa&uuml;st&uuml;
     - B-) Tablet
@@ -143,7 +136,7 @@ III. Ger&ccedil;ekliğin sunumu abartılmıştır.<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Film kullanmaksızın, g&ouml;r&uuml;nt&uuml;leri manyetik disk &uuml;zerine kayıt yapan ilk fotoğraf makinesini pazara sunan firma aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Film kullanmaksızın, g&ouml;r&uuml;nt&uuml;leri manyetik disk &uuml;zerine kayıt yapan ilk fotoğraf makinesini pazara sunan firma aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Sony**
     - B-) Kodak
     - C-) Fuji
@@ -458,7 +451,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
     - D-) Rrobot kol
     - E-) İnsanlı hava aracı
     <hr />
-1. <strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının &ouml;zellikleri arasında <u>yer almaz</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi kameralı akıllı cep telefonlarının &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) En yaygın kullanılan kameralı cihazlardır.
     - B-) Sabit bir ya da birden fazla lense sahiptirler.
     - C-) K&uuml;&ccedil;&uuml;k algılayıcıları bulunur.
@@ -511,7 +504,7 @@ III. Basit ve a&ccedil;ık bir anlatımın tercih edilmesi<br />
 1. <strong>İleri amat&ouml;r ve profesyonel bir&ccedil;ok fotoğraf&ccedil;ıya m&uuml;kemmel g&ouml;r&uuml;nt&uuml; kalitesi ve ciddi kullanım olanakları sunan, &uuml;zerinde değiştirilebilir lens olan ve &ccedil;ekim &ouml;ncesi g&ouml;r&uuml;len &ccedil;er&ccedil;evenin &ccedil;ekimde de aynı şekilde sens&ouml;re d&uuml;ş&uuml;r&uuml;lmesi ile g&ouml;r&uuml;nt&uuml; oluşturan fotoğraf makinesi t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) SLR makineler
     - B-) Analog&nbsp;makineler
-    - C-) K&uuml;&ccedil;&uuml;k (Kompakt) makineler
+    - C-) K&uuml;&ccedil;&uuml;k (Kompakt)&nbsp;makineler
     - **Cevap D-) DSLR&nbsp;makineler**
     - E-) Klasik makineler
     <hr />
@@ -547,7 +540,7 @@ III. İnsanın g&ouml;rme bi&ccedil;imini sim&uuml;le eder.<br />
     - D-) Objektif yuvası
     - E-) Objektif g&ouml;vdesi
     <hr />
-1. <strong>Objektiflerde filtre yuvası (&ouml;n bağlantı noktası) &ccedil;apını&nbsp;ifade eden metrik &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
+1. <strong>Objektiflerde filtre yuvası (&ouml;n bağlantı noktası)&nbsp;&ccedil;apını&nbsp;ifade eden metrik &ouml;l&ccedil;&uuml; birimi aşağıdakilerden hangisidir?</strong>
     - A-) cm
     - B-) feet
     - **Cevap C-) mm**
@@ -947,7 +940,7 @@ III. ISO hassasiyeti<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO&nbsp;(Hassasiyet) hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
+1. <strong>Fotoğraf makinesinin diyafram ve enstantane hızını otomatik olarak belirlediği, kullanıcıya ise ISO&nbsp;(Hassasiyet)&nbsp;hızı ve pozlama telafisi gibi se&ccedil;eneklerin bırakıldığı &ccedil;ekim modu aşağıdakilerden hangisidir?</strong>
     - A-) Otomatik Mod
     - **Cevap B-) Program Modu**
     - C-) Diyafram &Ouml;ncelikli Mod
@@ -1678,7 +1671,7 @@ III. Konuya uzaklık<br />
     - D-) Select men&uuml;s&uuml;
     - **Cevap E-) Filter men&uuml;s&uuml;**
     <hr />
-1. <strong>Photoshop&rsquo;ta &ccedil;alışılan g&ouml;rsel ya da tasarım &uuml;zerindeki katmanların, ayrı ayrı izlenebilmesini ve gerekli g&ouml;r&uuml;len ayarların uygulanabilmesini sağlayan panel aşağıdakilerden hangisidir?</strong> 
+1. <strong>Photoshop&rsquo;ta &ccedil;alışılan g&ouml;rsel ya da tasarım &uuml;zerindeki katmanların, ayrı ayrı izlenebilmesini ve gerekli g&ouml;r&uuml;len ayarların uygulanabilmesini sağlayan panel aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Layers paneli**
     - B-) Karakter paneli
     - C-) Histogram paneli
@@ -1781,7 +1774,7 @@ IV. Yeşil<br />
     - **Cevap D-) I, II, III ve IV**
     - E-) I, III ve IV
     <hr />
-1. <strong>Aşağıdakilerden hangisi rengin oluşabilmesi /g&ouml;r&uuml;lebilmesi i&ccedil;in gerekli olan ana unsurlardan biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi rengin oluşabilmesi /g&ouml;r&uuml;lebilmesi i&ccedil;in gerekli olan ana unsurlardan biridir?</strong>
     - A-) Mercek
     - **Cevap B-) Işık kaynağı**
     - C-) Objektif
@@ -1816,7 +1809,7 @@ IV. Yeşil<br />
     - D-) Cihaz bağımlı renk modelleri CMYK, RGB gibi renk modellerini i&ccedil;erir.
     - E-) Cihaz bağımlı renk modellerindeki renk alanları, kullanılan cihazlara g&ouml;re değişmez.
     <hr />
-1. <strong>Aşağıdaki &ouml;zelliklerden hangisi toplamsal renk sentezinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdaki &ouml;zelliklerden hangisi toplamsal renk sentezinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Toplamsal renk modelinde renkler eklenir ve toplanır.
     - B-) Işıksal renk sentezi olarak da ifade edilir.
     - **Cevap C-) Toplamsal renk sentezinde renkler birbirlerinden &ccedil;ıkarılır.**
@@ -1838,7 +1831,7 @@ IV. Yeşil<br />
     - E-) Cyan/Mavi/Yeşil/Kahverengi
     <hr />
 ## Unite 13
-1. <strong>Renk y&ouml;netiminin uygulanmasındaki en &ouml;nemli neden aşağıdakilerden hangisidir?</strong> 
+1. <strong>Renk y&ouml;netiminin uygulanmasındaki en &ouml;nemli neden aşağıdakilerden hangisidir?</strong>
     - A-) G&ouml;r&uuml;nt&uuml;y&uuml; daha &ccedil;ekici h&acirc;le getirmek
     - B-) Fotoğrafları daha kolay arşivleyebilmek
     - C-) G&ouml;r&uuml;nt&uuml;n&uuml;n bilgisayarda kapladığı alanı-dosya boyutunu artırmak
@@ -1852,14 +1845,14 @@ IV. Yeşil<br />
     - D-) Monit&ouml;r
     - E-) Yazıcı
     <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğraf makinelerinde bulunan beyaz ayarı &ouml;zelliğinin kullanım amacıdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi fotoğraf makinelerinde bulunan beyaz ayarı &ouml;zelliğinin kullanım amacıdır?</strong>
     - **Cevap A-) Beyaz ayarı, renklerin sapmadan, doğru olarak algılanmasını sağlar.**
     - B-) Beyaz ayarı, fotoğraf &ccedil;ekimleri sırasında diyafram kontrol&uuml;n&uuml; sağlar.
     - C-) Beyaz ayarı, yakın &ccedil;ekim modu i&ccedil;in kullanılır.
     - D-) Beyaz ayarı, perspektif d&uuml;zenleme i&ccedil;in kullanılır.
     - E-) Beyaz ayarı, beyaz arka planlı fotoğraflarda kullanılır.
     <hr />
-1. <strong>Aşağıdakilerin hangisinde fotoğraf makinelerinde bulunan beyaz ayarı se&ccedil;eneklerinin kullanımı <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıdakilerin hangisinde fotoğraf makinelerinde bulunan beyaz ayarı se&ccedil;eneklerinin kullanımı <u>yanlıştır</u>?</strong>
     - A-) Beyaz ayarında bulunan bulutlu se&ccedil;eneği kapalı havalarda tercih edilir.
     - B-) Beyaz ayarında bulunan flaş se&ccedil;eneği flaş kullanımında tercih edilir.
     - C-) Beyaz ayarında bulunan g&uuml;n ışığı se&ccedil;eneği a&ccedil;ık havada tercih edilir.
@@ -1901,7 +1894,7 @@ IV. Yeşil<br />
     - D-) Altı ayda bir
     - E-) Sadece bir kez yapılması yeterli
     <hr />
-1. <strong>Aşağıdakilerden hangisi monit&ouml;r kalibrasyonunda &ouml;ncelikli ve ilk olarak yapılması gereken bir işlemdir?</strong> 
+1. <strong>Aşağıdakilerden hangisi monit&ouml;r kalibrasyonunda &ouml;ncelikli ve ilk olarak yapılması gereken bir işlemdir?</strong>
     - A-) Colormetrenin monit&ouml;re yerleştirilmesi
     - B-) Colormetrenin monit&ouml;r&uuml;n renklerini &ouml;l&ccedil;mesi
     - **Cevap C-) Monit&ouml;r&uuml;n kalibrasyon işleminden en az yarım saat &ouml;nce a&ccedil;ılıp ısıtılması**
@@ -1979,7 +1972,7 @@ IV. Yeşil<br />
     - D-) 100 DPI
     - E-) 200 DPI
     <hr />
-1. <strong>Aşağıdakilerden hangisi m&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcının baskıda kullandığı m&uuml;rekkep renklerinden biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi m&uuml;rekkep p&uuml;sk&uuml;rtmeli bir yazıcının baskıda kullandığı m&uuml;rekkep renklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Cyan
     - B-) Megenta
     - **Cevap C-) Yeşil**
@@ -1993,7 +1986,7 @@ IV. Yeşil<br />
     - D-) Katı m&uuml;rekkepli yazıcı
     - E-) Nokta vuruşlu yazıcı
     <hr />
-1. <strong>G&ouml;r&uuml;nt&uuml;ler A4 boyutunda, hızlı bir şekilde ve &ccedil;ok sayıda kopyalar h&acirc;linde alınması gerektiğinde aşağıdaki yazıcılardan hangisi tercih edilmelidir?</strong> 
+1. <strong>G&ouml;r&uuml;nt&uuml;ler A4 boyutunda, hızlı bir şekilde ve &ccedil;ok sayıda kopyalar h&acirc;linde alınması gerektiğinde aşağıdaki yazıcılardan hangisi tercih edilmelidir?</strong>
     - A-) Nokta vuruşlu yazıcı
     - **Cevap B-) Lazer yazıcı**
     - C-) Piezo yazıcı

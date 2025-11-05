@@ -141,7 +141,7 @@
     - D-) Grav&uuml;r baskı
     - E-) Taş baskı/Litografi
     <hr />
-1. <strong>Aşağıdakilerden hangisi matbaanın kurucusu ve g&uuml;n&uuml;m&uuml;zde modern baskı tekniklerinin &ouml;nc&uuml;s&uuml; olarak kabul edilmektedir?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi matbaanın kurucusu ve g&uuml;n&uuml;m&uuml;zde modern baskı tekniklerinin &ouml;nc&uuml;s&uuml; olarak kabul edilmektedir?</strong>
     - A-) Pablo Picasso
     - **Cevap B-) Johannes Gutenberg**
     - C-) Albrecht D&uuml;rer
@@ -207,7 +207,7 @@
 1. I.&nbsp;1890&rsquo;da Waltan Als Baden Belag tarafından İngiltere&rsquo;de uygulanmaya başlanmıştır.<br />
 II. Sanat kurumlarında en &ccedil;ok tercih edilen y&uuml;ksek baskı tekniğidir.<br />
 III. Bu teknik&nbsp;Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; sanat&ccedil;ıları tarafından da kullanılmıştır.<br />
-<strong>Yukarıda bazı &ouml;zellikleri verilen baskı resim tekniği hangisidir?&nbsp;</strong>
+<strong>Yukarıda bazı &ouml;zellikleri verilen baskı resim tekniği hangisidir?</strong>
     - A-) Taşbaskı
     - B-) Serigrafi Baskı
     - C-) Grav&uuml;r Baskı
@@ -716,7 +716,7 @@ III. Bu teknik&nbsp;Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uu
     - D-) Sert Tabaka &ndash; İnce Tabaka &ndash; Ağır Bakır Kaplama
     - E-) Ballardskin &ndash; Derin Tabaka &ndash; İnce Bakır Kaplama
     <hr />
-1. <strong>Aşağıdakilerden hangisi grav&uuml;r silindiri hazırlamak i&ccedil;in işlem aşamalarından biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi grav&uuml;r silindiri hazırlamak i&ccedil;in işlem aşamalarından biri <u>değildir</u>?</strong>
     - A-) Krom tabakanın &ccedil;ıkarılması
     - B-) Elektro kaplama
     - C-) Test baskısı
@@ -833,7 +833,7 @@ III. &Ouml;n pozlandırma<br />
     - D-) Kullanacağı program bilgisi
     - E-) Renk tonlaması
     <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?&nbsp;</strong>
+1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?</strong>
     - A-) A/A
     - B-) A/B
     - C-) B/B
@@ -857,7 +857,7 @@ III. Tifdruk<br />
     - D-) Pouch Ambalaj
     - **Cevap E-) Hazır Poşet &ndash; Kilitli Poşet**
     <hr />
-1. <strong>Aşağıdakilerden hangisi tifdruk ya da flekso baskı ambalaj t&uuml;r&uuml;ne verilen isimdir?</strong> 
+1. <strong>Aşağıdakilerden hangisi tifdruk ya da flekso baskı ambalaj t&uuml;r&uuml;ne verilen isimdir?</strong>
     - A-) Rotograv&uuml;r Ambalaj
     - **Cevap B-) Esnek Ambalaj**
     - C-) Ofset Ambalaj
@@ -963,7 +963,7 @@ III. Tifdruk<br />
     - D-) Bobin beslemeli dijital baskı tekniği donanımları
     - E-) Flekso baskı tekniği donanımları
     <hr />
-1. <strong>Hizmet &uuml;rettiğiniz m&uuml;şterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 &ccedil;eşit, 25 000&rsquo;er adet, 6 renk) kurutulmuş dondurma &uuml;r&uuml;n&uuml; i&ccedil;in ambalaj (koruyucu kilitli esnek ambalaj) &uuml;retim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve adedine g&ouml;re ekonomik &uuml;retim yaptırabilirsiniz?&nbsp;</strong>
+1. <strong>Hizmet &uuml;rettiğiniz m&uuml;şterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 &ccedil;eşit, 25 000&rsquo;er adet, 6 renk) kurutulmuş dondurma &uuml;r&uuml;n&uuml; i&ccedil;in ambalaj (koruyucu kilitli esnek ambalaj) &uuml;retim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve adedine g&ouml;re ekonomik &uuml;retim yaptırabilirsiniz?</strong>
     - A-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları
     - **Cevap B-) Bobin beslemeli dijital baskı tekniği donanımları**
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
@@ -1353,7 +1353,7 @@ III. Tifdruk<br />
     - E-) Renk &ccedil;ubuğu
     <hr />
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri&nbsp;<u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Billboard
     - B-) Giantboard
     - **Cevap C-) Gazete**
@@ -1367,7 +1367,7 @@ III. Tifdruk<br />
     - **Cevap D-) Dergi ve Gazete**
     - E-) Taşıt &uuml;zeri grafik tasarım ve fuar standı
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı (Flatbed) Baskı Tekniği Donanımları&rdquo; tarafından yapılan baskı işlemi katkısı ile &uuml;retilebilmektedir?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı (Flatbed) Baskı Tekniği Donanımları&rdquo; tarafından yapılan baskı işlemi katkısı ile &uuml;retilebilmektedir?</strong>
     - A-) Billboard ve Megalight
     - B-) Bayrak ve Flama
     - C-) X Banner ve Roll Up Banner
@@ -1381,7 +1381,7 @@ III. Tifdruk<br />
     - D-) Tanıtım Hizmetleri
     - E-) Tam Hizmet Reklam Ajansı
     <hr />
-1. <strong>Tasarım hizmeti verilen bir m&uuml;şteri ara&ccedil; filosuna yeni kattığı tırı i&ccedil;in dorse &ccedil;adırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir?&nbsp;</strong>
+1. <strong>Tasarım hizmeti verilen bir m&uuml;şteri ara&ccedil; filosuna yeni kattığı tırı i&ccedil;in dorse &ccedil;adırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir?</strong>
     - **Cevap A-) Bobin beslemeli B&uuml;y&uuml;k format dijital baskı tekniği donanımları**
     - B-) Bobin beslemeli dijital baskı tekniği donanımları
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
@@ -1433,7 +1433,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) II ve III
     - **Cevap E-) I ve II**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri&nbsp;<u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
     - **Cevap A-) Cam**
     - B-) Plastik
     - C-) MDF lam
@@ -1447,7 +1447,7 @@ III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar
     - D-) Bobin kumaşı vekt&ouml;rel olarak hazırlanmış &ccedil;izim referansı ile keser.
     - E-) Bobin cast folyo &uuml;zeri basar ve keser.
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Kutu Harf ve &Uuml;&ccedil; Boyutlu Simge &Uuml;retim Teknikleri&rdquo; ile ilgili yaygın olarak kullanılan donanımlar arasında <u>yer almaz</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;Kutu Harf ve &Uuml;&ccedil; Boyutlu Simge &Uuml;retim Teknikleri&rdquo; ile ilgili yaygın olarak kullanılan donanımlar arasında <u>yer almaz</u>?</strong>
     - A-) 3D CNC Router Kesim Makinaları
     - B-) Kutu Harf B&uuml;kme Makinaları
     - C-) Metal Lazer Kesim Makinaları

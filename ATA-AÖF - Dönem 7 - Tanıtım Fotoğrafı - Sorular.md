@@ -610,7 +610,7 @@
     - E-) Sosyal etkinlikleri tanıtmak
     <hr />
 ## Unite 7
-1. <strong>Reklamveren firmalar kampanya s&uuml;recinde aşağıdakilerden hangilerini g&ouml;z &ouml;n&uuml;nde <u>bulundurmazlar</u>?</strong>
+1. <strong>Reklam veren firmalar kampanya s&uuml;recinde aşağıdakilerden hangilerini g&ouml;z &ouml;n&uuml;nde <u>bulundurmazlar</u>?</strong>
     - A-) Markanın sekt&ouml;rel &ouml;zellikleri
     - B-) Firmanın sekt&ouml;rdeki yeri
     - **Cevap C-) &Uuml;r&uuml;n maliyetleri**
@@ -632,7 +632,7 @@
     - **Cevap E-) Sekt&ouml;r&uuml;n gelişmesini sağlama**
     <hr />
 1. Doğru ve rasyonel bir &hellip;&hellip;&hellip; &uuml;zerine oturtulmuş reklam kararları, belirlenen reklam ama&ccedil;larını ve hedeflerine ulaşmayı kolaylaştırır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) strateji**
     - B-) ideoloji
     - C-) mesaj
@@ -1243,7 +1243,7 @@
 1. <strong>Monit&ouml;r kalibrasyonunda en iyi y&ouml;ntem olarak tavsiye edilen ve renkleri monit&ouml;r &uuml;zerinden doğru bir şekilde g&ouml;rmek i&ccedil;in kullanılan renk kalibrasron cihazı aşağıdakilerden hangisidir?</strong>
     - A-) Yazıcı
     - B-) Monit&ouml;r
-    - **Cevap C-) Colormetre
+    - **Cevap C-) Colormetre**
     - D-) Fotoğraf makinesi
     - E-) Tarayıcı
     <hr />

@@ -17,7 +17,7 @@
 1. I. G&ouml;stergebilim insanlara, yaşadığı ortamda kendisine anlatılmak isteneni &ccedil;&ouml;z&uuml;mleme fırsatı sunar.<br />
 II. G&ouml;stergebilim &ccedil;ok &ouml;nemli bir anlatı &ccedil;&ouml;z&uuml;mleme stratejisidir.<br />
 III. G&ouml;stergebilim, sembollerin, işaretlerin, logoların yorumlama eylemidir.<br />
-<strong>G&ouml;stergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong> 
+<strong>G&ouml;stergebilim ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
@@ -520,7 +520,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - D-) Ampirizm
     - **Cevap E-) Mantık&ccedil;ı-Pozitivizm**
     <hr />
-1. <strong>Aşağıdakilerden hangisi postyapısalcı d&uuml;ş&uuml;n&uuml;rlerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi postyapısalcı d&uuml;ş&uuml;n&uuml;rlerden biri <u>değildir</u>?</strong>
     - A-) Jacques Derrida
     - B-) Jacques Lacan
     - **Cevap C-) Ferdinand De Saussure**
@@ -655,7 +655,7 @@ III. K&uuml;lt&uuml;r dile benzer.<br />
     - E-) Br&ouml;ndal
     <hr />
 1. Se&ccedil;ilmiş terim ya da s&ouml;zc&uuml;klere ..........................., bu terim ve s&ouml;zc&uuml;klerin birleştirilmesine ........................... denilmektedir.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) dizi - dizim**
     - B-) serim - &ccedil;&ouml;z&uuml;m
     - C-) giriş - gelişme
@@ -886,7 +886,7 @@ III. Simge<br />
     - D-) Endis
     - **Cevap E-) Sav**
     <hr />
-1. <strong>Foundation of The Theory of Signs (G&ouml;stergeler Kuramının Temelleri) isimli eser aşağıdakilerden hangisine aittir?</strong>
+1. <strong>Foundation of The Theory of Signs (G&ouml;stergeler Kuramının Temelleri)&nbsp;isimli eser aşağıdakilerden hangisine aittir?</strong>
     - A-) Charles Sanders Peirce
     - **Cevap B-) Charles William Morris**
     - C-) Paul de Man
@@ -1136,7 +1136,7 @@ III. Kavramsal/Kural G&ouml;sterge<br />
     - D-) Vladimir Propp
     - E-) Yuri Tinyanov
     <hr />
-1. <strong>Roman Jakobson ve Pjotr Bogatyrev&rsquo;in &ouml;nc&uuml;l&uuml;ğ&uuml;nde 1915 yılında kurulan ve&nbsp;yapısalcı dilbilim &uuml;zerinde ve yazınbiliminin temellerinin oluşmasında olduk&ccedil;a etkili olan okul aşağıdakilerden hangisidir?</strong> 
+1. <strong>Roman Jakobson ve Pjotr Bogatyrev&rsquo;in &ouml;nc&uuml;l&uuml;ğ&uuml;nde 1915 yılında kurulan ve&nbsp;yapısalcı dilbilim &uuml;zerinde ve yazınbiliminin temellerinin oluşmasında olduk&ccedil;a etkili olan okul aşağıdakilerden hangisidir?</strong>
     - A-) Paris Okulu
     - B-) Londra Okulu
     - **Cevap C-) Moskova Okulu**
@@ -1253,7 +1253,7 @@ III. Alışkanlıkları kırmak<br />
 1. I. Okuma s&uuml;reci boyunca &ouml;nceden rotası &ccedil;izilmiş bir yol &uuml;zerinde ilerler.<br />
 II. Genel olarak aydın kesime ait ve edebi metinlerdir.<br />
 III. Bir projeye g&ouml;re tasarlanmış &ccedil;ok katı metinlerdir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri kapalı metnin &ouml;zellikleri arasında yer alır?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri kapalı metnin &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I ve III**
@@ -1370,7 +1370,7 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     - D-) Sahnelenmiş fotoğraf sanatı yaklaşımında kurgulanmış ger&ccedil;eklik s&ouml;z konusudur.
     - E-) Maddi d&uuml;nyayı referans g&ouml;stermeden, iki metin arasında yorumsal ilişki kurgulanır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi postmodern fotoğraf sanat&ccedil;ılarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi postmodern fotoğraf sanat&ccedil;ılarından biri <u>değildir</u>?</strong>
     - A-) Cindy Sherman
     - B-) Alex Prager
     - C-) Jeff Wall
@@ -1423,7 +1423,7 @@ III. Genel olarak aydın kesime ait ve edebimetinlerin &ouml;zelliğidir.<br />
     - E-) Neo klasik
     <hr />
 1. .............................. ve................................... gibi kavramlar modernizmin fotoğrafa atfettiği temel niteliklerin başında gelmektedir.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Ger&ccedil;ek&ccedil;ilik-nesnellik**
     - B-) A&ccedil;ıklık-gizlilik
     - C-) Doğrusallık- a&ccedil;ıklık
@@ -1534,7 +1534,7 @@ III. Doğrudanlık<br />
     - D-) Kaydedilmiş konuşmalar
     - **Cevap E-) Kurgu teknikleri**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Metz&rsquo;in sinema g&ouml;stergebilimine ilişkin g&ouml;r&uuml;şlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi Metz&rsquo;in sinema g&ouml;stergebilimine ilişkin g&ouml;r&uuml;şlerinden biri <u>değildir</u>?</strong>
     - A-) Sinemada m&uuml;mk&uuml;n olan her anlam bir kodla verilmektedir.
     - **Cevap B-) Sinema toplumun kendisidir.**
     - C-) Sinemada her bir kod &ouml;zg&uuml;ld&uuml;r.
@@ -1554,7 +1554,7 @@ III. Y&ouml;nlendirme<br />
 1. I. Belirtisel g&ouml;sterge<br />
 II. G&ouml;r&uuml;nt&uuml;sel g&ouml;sterge<br />
 III. Simgesel g&ouml;sterge<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;Pierce&#39;ın g&ouml;stergebilim alanında ortaya koymuş olduğu g&ouml;sterge tiplerindendir?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;Pierce&#39;ın g&ouml;stergebilim alanında ortaya koymuş olduğu g&ouml;sterge tiplerindendir?</strong>
     - A-) Yalnız II
     - B-) I ve II
     - C-) I ve III
@@ -1753,7 +1753,7 @@ III. Olağandışılık<br />
     - D-) Mavi
     - E-) Yeşil
     <hr />
-1. <strong>Hayat-&ouml;l&uuml;m, zengin-fakir, efendi-k&ouml;le ve kahraman-k&ouml;t&uuml; adam şeklinde birbirleri ile zıt olan fikir veya nesnelerin birlikte verilmesine ne ad verilir?&nbsp;</strong> 
+1. <strong>Hayat-&ouml;l&uuml;m, zengin-fakir, efendi-k&ouml;le ve kahraman-k&ouml;t&uuml; adam şeklinde birbirleri ile zıt olan fikir veya nesnelerin birlikte verilmesine ne ad verilir?</strong>
     - **Cevap A-) Sembolik kod**
     - B-) Yananlamsal kod
     - C-) Enigmatik kod
@@ -1997,7 +1997,7 @@ III. Kullanım engeli<br />
     - D-) Dijital gecikenler
     - E-) Dijital milenyumlar
     <hr />
-1. <strong>Dijital b&ouml;l&uuml;nmenin teknolojik, sosyolojik ve ekonomik dezavantajları nedeniyle bilgi ve iletişim teknolojilerine erişimden yoksun olanlar ile olmayanlar arasındaki farklılığı işaret eden seviyesi anlamına gelen ifade aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Dijital b&ouml;l&uuml;nmenin teknolojik, sosyolojik ve ekonomik dezavantajları nedeniyle bilgi ve iletişim teknolojilerine erişimden yoksun olanlar ile olmayanlar arasındaki farklılığı işaret eden seviyesi anlamına gelen ifade aşağıdakilerden hangisidir?</strong>
     - A-) Kurumsal seviye
     - **Cevap B-) Bireysel seviye**
     - C-) K&uuml;resel seviye

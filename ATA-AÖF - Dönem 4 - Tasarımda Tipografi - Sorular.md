@@ -14,7 +14,7 @@
     - **Cevap D-) B&uuml;y&uuml;k harf**
     - E-) Baseline (taban &ccedil;izgisi)
     <hr />
-1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır?&nbsp;</strong>
+1. <strong>Aşağıdaki tanımlardan hangisi belirli bir tasarıma sahip karakterlerin harf, rakam, sembol ve noktalama işaretlerinin b&uuml;t&uuml;n&uuml;ne verilen addır?</strong>
     - **Cevap A-) Yazı karakteri (harf bi&ccedil;imi)**
     - B-) X-height (x y&uuml;ksekliği)
     - C-) K&uuml;&ccedil;&uuml;k harf
@@ -35,7 +35,7 @@
     - D-) Espas (boşluk)
     - E-) Alignment (hizalama)
     <hr />
-1. <strong>Bir paragrafın satırının &ccedil;ok kısa olması veya bu satırın tek bir s&ouml;zc&uuml;kten oluşmasından kaynaklı g&ouml;r&uuml;nt&uuml;s&uuml;ne ne ad verilir?</strong> 
+1. <strong>Bir paragrafın satırının &ccedil;ok kısa olması veya bu satırın tek bir s&ouml;zc&uuml;kten oluşmasından kaynaklı g&ouml;r&uuml;nt&uuml;s&uuml;ne ne ad verilir?</strong>
     - A-) Hyphenation (tireleme)
     - **Cevap B-) Widows (dul)**
     - C-) Bowl (kase)
@@ -77,14 +77,14 @@
     - D-) Descender Line
     - **Cevap E-) Cap Height**
     <hr />
-1. <strong>Aşağıdakilerden hangisinde 1 pikanın punto cinsinden değeri verilmiştir?</strong> 
+1. <strong>Aşağıdakilerden hangisinde 1 pikanın punto cinsinden değeri verilmiştir?</strong>
     - A-) 6
     - **Cevap B-) 12**
     - C-) 17
     - D-) 20
     - E-) 24
     <hr />
-1. <strong>Aşağıdakilerden hangisi calibri yazı karakterinin bold bi&ccedil;emine &ouml;rnek olarak verilmiştir?</strong> 
+1. <strong>Aşağıdakilerden hangisi calibri yazı karakterinin bold bi&ccedil;emine &ouml;rnek olarak verilmiştir?</strong>
     - **Cevap A-) <strong>Calibri</strong>**
     - B-) Calibri
     - C-) <em>Calibri</em>
@@ -827,7 +827,7 @@ IV. Yeni medya i&ccedil;erisinde tipografi kinetik ve etkileşimli olma &ouml;ze
     - D-) D&uuml;zen
     - E-) Denge
     <hr />
-1. <strong>İnsanlarda &ldquo;g&uuml;&ccedil;, matem, h&uuml;z&uuml;n, hırs&rdquo; gibi duyguları ortaya &ccedil;ıkaran renk&nbsp;aşağıdakilerden hangisidir?</strong>
+1. <strong>İnsanlarda &ldquo;g&uuml;&ccedil;, matem, h&uuml;z&uuml;n, hırs&rdquo; gibi duyguları ortaya &ccedil;ıkaran renk aşağıdakilerden hangisidir?</strong>
     - A-) Turuncu
     - B-) Sarı
     - C-) Beyaz
@@ -1411,7 +1411,7 @@ III. Taşıyıcı kapların bi&ccedil;im ve boyutları<br />
     - D-) Algı
     - E-) Manip&uuml;lasyon
     <hr />
-1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir?&nbsp;</strong>
+1. <strong>Fransızca k&ouml;kenli gazetenin, derginin, kitabın, web sitesinin vs. i&ccedil;inde yer alan bir metinle ilgili, onu a&ccedil;ıklayan, somutlaştıran resimlere ne ad verilir?</strong>
     - A-) Manip&uuml;lasyon
     - **Cevap B-) İll&uuml;strasyon**
     - C-) Destinasyon

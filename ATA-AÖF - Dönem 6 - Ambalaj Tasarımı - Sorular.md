@@ -89,7 +89,7 @@ Tanımı verilen ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap D-) Birincil ambalaj**
     - E-) İkincil ambalaj
     <hr />
-1.&nbsp;&ldquo;&hellip;&hellip;.......&hellip;&hellip;&hellip;&rdquo; bir desenin baskı materyali &uuml;zerinde s&uuml;rekli tekrarlanmasıdır.<br />
+1. &nbsp;&ldquo;&hellip;&hellip;.......&hellip;&hellip;&hellip;&rdquo; bir desenin baskı materyali &uuml;zerinde s&uuml;rekli tekrarlanmasıdır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tasarım
     - B-) Kitap
@@ -1363,7 +1363,7 @@ Tanımı verilen ambalaj t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - D-) Soyut desenler
     - E-) Ger&ccedil;ek&ccedil;i desenler
     <hr />
-1. &ldquo;&hellip;&hellip;&hellip;&hellip;&nbsp;daha &ccedil;ok kaşkol, mendil, masa &ouml;rt&uuml;s&uuml; gibi aksesuar &uuml;r&uuml;nlerinin desenlemesinde kullanılır&rdquo;<br />
+1. &ldquo;&hellip;&hellip;&hellip;&hellip; daha &ccedil;ok kaşkol, mendil, masa &ouml;rt&uuml;s&uuml; gibi aksesuar &uuml;r&uuml;nlerinin desenlemesinde kullanılır&rdquo;<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Tam raport
     - B-) Yarım raport

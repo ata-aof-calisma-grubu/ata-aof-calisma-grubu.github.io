@@ -425,7 +425,7 @@ III.&nbsp;Lombardik ve Vizigot stili<br />
     - D-) Mısır yazısı
     - **Cevap E-) Gotik yazı**
     <hr />
-1. <strong>15. y&uuml;zyılda Avrupa&rsquo;da bilinen ilk tahta baskılara ve hediyelik eşyalara ne ad verilir?&nbsp;</strong>
+1. <strong>15. y&uuml;zyılda Avrupa&rsquo;da bilinen ilk tahta baskılara ve hediyelik eşyalara ne ad verilir?</strong>
     - A-) Ksilografi
     - B-) Punch
     - C-) Hurufat

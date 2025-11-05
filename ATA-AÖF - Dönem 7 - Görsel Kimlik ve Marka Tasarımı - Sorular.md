@@ -153,7 +153,7 @@
     - A-) Uygunluk
     - B-) Farklılık
     - C-) Sadelik
-    - **Cevap D-) Heyecanlı**
+    - **Cevap D-) Renklilik**
     - E-) Fonksiyonellik
     <hr />
 1. <strong>Aşağıdakilerden hangisinde g&ouml;rsel kimliğin &ouml;gelerinden &ldquo;g&ouml;rseller&rdquo; doğru şekilde sıralanmıştır?</strong>
@@ -356,7 +356,7 @@
     - D-) Tasarımı oluşturan b&uuml;t&uuml;n unsurların, istenilen etkiye ve mesaja&nbsp;g&ouml;re, belirlenen d&uuml;zlem &uuml;zerinde dağılımıdır.
     - E-) G&ouml;z&uuml;n alışkanlık gereği soldan sağa, yukarıdan aşağı, b&uuml;y&uuml;kten k&uuml;&ccedil;&uuml;ğe, koyu renkten a&ccedil;ık renge, renkliden renksize, alışılmamış olandan alışılmış, istenilen algı, beğeni ve dikkati elde edilebilmesidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Bir d&uuml;ş&uuml;ncenin g&ouml;rselleştirilmesinde rol oynayan s&ouml;zc&uuml;klerin, imgelerin, şekillerin d&uuml;zenlenmesinde ve etkili tasarımlar yaratmasında yol g&ouml;stericidir.&rdquo;&nbsp;c&uuml;mlesinin karşılığıdır?</strong>
+1. <strong>Aşağıdakilerden hangisi &ldquo;Bir d&uuml;ş&uuml;ncenin g&ouml;rselleştirilmesinde rol oynayan s&ouml;zc&uuml;klerin, imgelerin, şekillerin d&uuml;zenlenmesinde ve etkili tasarımlar yaratmasında yol g&ouml;stericidir.&rdquo; c&uuml;mlesinin karşılığıdır?</strong>
     - A-) Tasarım &Ouml;geleri-Elemanları
     - **Cevap B-) Tasarım İlkeleri**
     - C-) Tasarım
@@ -558,7 +558,7 @@
 II.&nbsp;Tıklanma oranlarını artırabilir.<br />
 III.&nbsp;Zengin medya teknolojileriyle oluşturulur.<br />
 IV.&nbsp;M&uuml;şteri ile diyalog başlatacak kadar dikkat s&uuml;resini uzatabilir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri animasyonlu ve interaktif bannerların sunmuş olduğu &ouml;zelliklerdendir?&nbsp;</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri animasyonlu ve interaktif bannerların sunmuş olduğu &ouml;zelliklerdendir?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
@@ -808,7 +808,7 @@ IV. Maliyet<br />
     - D-) Marka Kimliği
     - E-) &Uuml;r&uuml;n/Hizmet Kimliği
     <hr />
-1. <strong>Aşağıdakilerden hangisinde kurumsal kimliğin tarihsel s&uuml;reci i&ccedil;erisinde yer alan gelişim d&ouml;nemlerinden biri <u>yanlış </u>olarak verilmiştir?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisinde kurumsal kimliğin tarihsel s&uuml;reci i&ccedil;erisinde yer alan gelişim d&ouml;nemlerinden biri <u>yanlış </u>olarak verilmiştir?</strong>
     - A-) Marka Tekniği D&ouml;nemi
     - B-) Stratejik D&ouml;nem
     - C-) Geleneksel D&ouml;nem

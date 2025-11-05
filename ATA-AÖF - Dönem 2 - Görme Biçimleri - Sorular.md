@@ -30,7 +30,7 @@
     - D-) yeşil
     - **Cevap E-) siyah-beyaz ve gri tonlarda**
     <hr />
-1. <strong>B&uuml;t&uuml;n nesnelerin &ccedil;ok k&uuml;&ccedil;&uuml;k g&ouml;zenekleri olduğunu ve ışığın bu g&ouml;zeneklerden &ccedil;ıkarak g&ouml;z&uuml;m&uuml;ze kadar ulaşması sonucunda g&ouml;rmenin ger&ccedil;ekleştiğini s&ouml;yleyen filozof aşağıdakilerden hangisidir?</strong> 
+1. <strong>B&uuml;t&uuml;n nesnelerin &ccedil;ok k&uuml;&ccedil;&uuml;k g&ouml;zenekleri olduğunu ve ışığın bu g&ouml;zeneklerden &ccedil;ıkarak g&ouml;z&uuml;m&uuml;ze kadar ulaşması sonucunda g&ouml;rmenin ger&ccedil;ekleştiğini s&ouml;yleyen filozof aşağıdakilerden hangisidir?</strong>
     - A-) Eflatun
     - **Cevap B-) Ampedokles**
     - C-) Rene Descartes
@@ -73,7 +73,7 @@
     - D-) 5
     - E-) 6
     <hr />
-1. <strong>İnsan g&ouml;z&uuml;n&uuml;n retina tabakasında bulunan ve renkli g&ouml;rmemizi sağlayan koni h&uuml;creler ne renktir?</strong> 
+1. <strong>İnsan g&ouml;z&uuml;n&uuml;n retina tabakasında bulunan ve renkli g&ouml;rmemizi sağlayan koni h&uuml;creler ne renktir?</strong>
     - A-) Mavi-sarı-kırmızı
     - **Cevap B-) Mavi-yeşil-kırmızı**
     - C-) Sarı-turuncu-mavi
@@ -108,7 +108,7 @@
     - D-) G&ouml;rme
     - E-) Yargı
     <hr />
-1. <strong>G&ouml;rmeyi hem nesnelerden hem de g&ouml;zlerden &ccedil;ıkan ışığın karşılaşması ile oluşan &ldquo;G&ouml;r&uuml;ş Akıntısı&rdquo; olarak tanımlayan filozof aşağıdakilerden hangisidir ?&nbsp;</strong>
+1. <strong>G&ouml;rmeyi hem nesnelerden hem de g&ouml;zlerden &ccedil;ıkan ışığın karşılaşması ile oluşan &ldquo;G&ouml;r&uuml;ş Akıntısı&rdquo; olarak tanımlayan filozof aşağıdakilerden hangisidir ?</strong>
     - **Cevap A-) Eflatun**
     - B-) Sokrates
     - C-) Krotonlu Alkemeon
@@ -122,7 +122,7 @@
     - D-) Sir Isaac Newton
     - E-) Leukippos
     <hr />
-1. <strong>Işık ışınlarının farklı renkte olduğunu ve t&uuml;m bu ışınların karışımının beyaz ışığı verdiğini s&ouml;yleyen kuramcı aşağıdakilerden hangisidir?</strong> 
+1. <strong>Işık ışınlarının farklı renkte olduğunu ve t&uuml;m bu ışınların karışımının beyaz ışığı verdiğini s&ouml;yleyen kuramcı aşağıdakilerden hangisidir?</strong>
     - A-) Rene Descartes
     - B-) İbni Heysem
     - C-) Roger Bacon
@@ -187,7 +187,7 @@
     - D-) Jackson Pollock
     - E-) Kasimir Malevich
     <hr />
-1. <strong>Yaşamı devam ettirmek, bir şeyleri yapabilmek, &ouml;ğrenebilmek i&ccedil;in beynimiz bu g&ouml;rsel d&uuml;nyanın verilerinin bazılarını yok sayar, bazılarını değiştirir, bazılarını indirger ve o an yapılan işe g&ouml;re de bazı objelere odaklanır. Buna algıda ne ad verilir?</strong> 
+1. <strong>Yaşamı devam ettirmek, bir şeyleri yapabilmek, &ouml;ğrenebilmek i&ccedil;in beynimiz bu g&ouml;rsel d&uuml;nyanın verilerinin bazılarını yok sayar, bazılarını değiştirir, bazılarını indirger ve o an yapılan işe g&ouml;re de bazı objelere odaklanır. Buna algıda ne ad verilir?</strong>
     - **Cevap A-) Se&ccedil;icilik**
     - B-) Gruplama
     - C-) Değişim
@@ -208,14 +208,14 @@
     - D-) Jhon Loke
     - E-) Benedetto Croce
     <hr />
-1. <strong>Psikolojinin bilimin ayrı bir bilimsel inceleme alanı olarak ortaya &ccedil;ıkması ka&ccedil;ıncı y&uuml;zyılda olmuştur?</strong> 
+1. <strong>Psikolojinin bilimin ayrı bir bilimsel inceleme alanı olarak ortaya &ccedil;ıkması ka&ccedil;ıncı y&uuml;zyılda olmuştur?</strong>
     - A-) 15. yy
     - B-) 16. yy
     - C-) 17. yy
     - **Cevap D-) 19. yy**
     - E-) 20. yy
     <hr />
-1. <strong>Boşluğu ve boşluk i&ccedil;inde yer alan nesnelerin formlarını, şekillerini nasıl algıladığımız sorusuna cevap arayan teoriler arasında aşağıdakilerden hangisi bulunur?</strong> 
+1. <strong>Boşluğu ve boşluk i&ccedil;inde yer alan nesnelerin formlarını, şekillerini nasıl algıladığımız sorusuna cevap arayan teoriler arasında aşağıdakilerden hangisi bulunur?</strong>
     - A-) Evrim Teorisi
     - B-) &Ouml;zel G&ouml;relilik Teorisi
     - C-) Evren Teorisi
@@ -376,7 +376,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) I, II ve III
     - E-) Yalnız III
     <hr />
-1. <strong>Durağan pozisyondayken g&ouml;z&uuml;m&uuml;z&uuml; hareket ettirdiğimizde g&ouml;r&uuml;ş alanı ile ilgili aşağıdaki hangi durum yaşanır?</strong> 
+1. <strong>Durağan pozisyondayken g&ouml;z&uuml;m&uuml;z&uuml; hareket ettirdiğimizde g&ouml;r&uuml;ş alanı ile ilgili aşağıdaki hangi durum yaşanır?</strong>
     - A-) G&ouml;r&uuml;ş alanımız daralır.
     - **Cevap B-) G&ouml;r&uuml;ş alanımız değişir.**
     - C-) G&ouml;r&uuml;ş alanımız aynı kalır.
@@ -664,7 +664,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) Empresyonizm
     - E-) Dadaizm
     <hr />
-1. <strong>1981&rsquo;de Roma&rsquo;da ger&ccedil;ekleştirdiği &ldquo;Warhol De Chirico&rsquo;ya Karşı&rdquo; adlı sergiyi ger&ccedil;ekleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong> 
+1. <strong>1981&rsquo;de Roma&rsquo;da ger&ccedil;ekleştirdiği &ldquo;Warhol De Chirico&rsquo;ya Karşı&rdquo; adlı sergiyi ger&ccedil;ekleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
     - A-) Kazimir Malevi&ccedil;
     - B-) Joseph Beusy
     - **Cevap C-) Andy Warhol**
@@ -706,7 +706,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - D-) Howard Gadner
     - E-) Daniel Goleman
     <hr />
-1. <strong>&Uuml;nl&uuml; mağara metaforu ile g&ouml;lgeye atfedilen anlamlarıyla da bilinen &uuml;nl&uuml; d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong> 
+1. <strong>&Uuml;nl&uuml; mağara metaforu ile g&ouml;lgeye atfedilen anlamlarıyla da bilinen &uuml;nl&uuml; d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Sokrates
     - B-) Aristoteles
     - C-) Demokritos
@@ -1031,7 +1031,7 @@ IV. G&ouml;z odaklandığı g&ouml;r&uuml;nt&uuml;n&uuml;n merkezinden g&ouml;r&
     - **Cevap D-) Robert Raushenberg**
     - E-) Max Ernst
     <hr />
-1. <strong>Sıfırı cebirsel ifade olarak işlemlere katmasıyla pek &ccedil;ok geometrik problemi &ccedil;&ouml;z&uuml;ms&uuml;zl&uuml;kten kurtaran d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Sıfırı cebirsel ifade olarak işlemlere katmasıyla pek &ccedil;ok geometrik problemi &ccedil;&ouml;z&uuml;ms&uuml;zl&uuml;kten kurtaran d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) &Ouml;mer Hayyam**
     - B-) Aristo
     - C-) Farabi
@@ -1265,7 +1265,7 @@ III. &Ccedil;izgisel uyumluluk<br />
     - **Cevap D-) Mevsimlerin değişimi**
     - E-) Balıkların sudaki hareketi
     <hr />
-1. <strong>Bir insanın uykudayken g&ouml;z kapakları altında g&ouml;zlerinin hareket etmesi uykunun hangi evresidir?</strong> 
+1. <strong>Bir insanın uykudayken g&ouml;z kapakları altında g&ouml;zlerinin hareket etmesi uykunun hangi evresidir?</strong>
     - A-) 1. evre
     - **Cevap B-) REM evresi**
     - C-) 2. evre
@@ -1421,7 +1421,7 @@ III. Dikkatimizi dağıtır.<br />
     - D-) George Braque
     - E-) Paul Cezanne
     <hr />
-1. <strong>&ldquo;Herhangi bir tarih d&ouml;neminin psikolojik ve tinsel mizacını anlamak istiyorsanız, bunu o d&ouml;nemin sanatının derinlerinde aramaktan daha iyisini yapamazsınız.&rdquo; diyen psikolog, yazar aşağıdakilerden hangisidir?</strong> 
+1. <strong>&ldquo;Herhangi bir tarih d&ouml;neminin psikolojik ve tinsel mizacını anlamak istiyorsanız, bunu o d&ouml;nemin sanatının derinlerinde aramaktan daha iyisini yapamazsınız.&rdquo; diyen psikolog, yazar aşağıdakilerden hangisidir?</strong>
     - A-) Paul Tillich
     - **Cevap B-) Rollo May**
     - C-) Umberto Eco
@@ -1429,7 +1429,7 @@ III. Dikkatimizi dağıtır.<br />
     - E-) Leon Chestov
     <hr />
 1. Yapım s&uuml;resi boyunca sanat&ccedil;ının hareketinin g&uuml;c&uuml;, hızı ve y&ouml;n&uuml; yapıta yansır.<br />
-<strong>Bunu hangi sanat hareketlerinde g&ouml;zlemlenebilir?</strong> 
+<strong>Bunu hangi sanat hareketlerinde g&ouml;zlemlenebilir?</strong>
     - A-) Maniyerizm
     - B-) Empresyonizm
     - C-) K&uuml;bizm ve f&uuml;t&uuml;rizm
@@ -1475,7 +1475,7 @@ III. Dikkatimizi dağıtır.<br />
     - E-) Enstalasyon
     <hr />
 ## Unite 11
-1. <strong>Aşağıdakilerden hangisi bir resim y&uuml;zeyinde plastik g&ouml;r&uuml;nt&uuml;n&uuml;n organik, dinamik olabilmesi i&ccedil;in gerekli &ouml;gelerden <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bir resim y&uuml;zeyinde plastik g&ouml;r&uuml;nt&uuml;n&uuml;n organik, dinamik olabilmesi i&ccedil;in gerekli &ouml;gelerden <u>değildir</u>?</strong>
     - A-) Hareket
     - B-) Ritim ve uyum
     - C-) Par&ccedil;aların birlikteliği
@@ -1679,7 +1679,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - D-) Organik bi&ccedil;im
     - E-) Geometrik bi&ccedil;im
     <hr />
-1. <strong>&rdquo;Sanatın gerecini herkes g&ouml;rebilir. İ&ccedil;erik ise ancak kendisiyle ortak bir yanı olanlarca anlaşılabilir.&rdquo; diyen doğa bilimci, teorisyen aşağıdakilerden hangisidir?</strong> 
+1. <strong>&rdquo;Sanatın gerecini herkes g&ouml;rebilir. İ&ccedil;erik ise ancak kendisiyle ortak bir yanı olanlarca anlaşılabilir.&rdquo; diyen doğa bilimci, teorisyen aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) J. W. von Goethe**
     - B-) Abraham Werner
     - C-) William Smith

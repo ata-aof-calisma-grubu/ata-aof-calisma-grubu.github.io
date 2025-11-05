@@ -35,7 +35,7 @@ B: Yes,...........................................<br />
     <hr />
 1. Ahmet: Can I send these two parcels and this letter, please ?<br />
 Efe: Yes, Of course.&nbsp;Where would you like to send the letter ?<br />
-Ahmet: I ........................... to&nbsp;send it to Ankara.<br />
+Ahmet: I ........................... to send it to Ankara.<br />
 <strong>Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir</strong><strong>?</strong>
     - A-) should
     - **Cevap B-) would like**
@@ -103,7 +103,7 @@ B: .............................................................................
     <hr />
 1. ___________ you pass me the salt, please?<br />
 Which of the following completes the request statement above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki rica ifadesini doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki rica ifadesini doğru şekilde tamamlar?</strong>
     - A-) Does
     - **Cevap B-) Could**
     - C-) Are
@@ -112,7 +112,7 @@ Which of the following completes the request statement above?<br />
     <hr />
 1. Excuse me, ___________ I go out to make a phone call?<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) are able to
     - B-) should have
     - **Cevap C-) can**
@@ -122,7 +122,7 @@ Which of the following completes the sentence above?<br />
 1. Ada: Is there anything that Ayşe is bad at doing?<br />
 Burak: There is one. Ayşe ___________ swim very well.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu doğru şekilde tamamlar?</strong>
     - A-) do not
     - B-) has not
     - C-) be not able to
@@ -131,7 +131,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. In the past, most people were able to speak only one foreign language.<br />
 Which of thefollowing is Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Ge&ccedil;mişte bir&ccedil;ok insan sadece bir tane yabancı dil konuşuyordu.
     - B-) Ge&ccedil;mişte bir&ccedil;ok insan sadece bir tane yabancı dil konuşurdu.
     - C-) Ge&ccedil;mişte bir&ccedil;ok insan sadece bir tane yabancı dil konuşmalıydı.
@@ -147,7 +147,7 @@ Which of thefollowing is Turkish translation of the sentence above?<br />
     - E-) O, 3 yaşındayken keman &ccedil;alıyordu.
     <hr />
 1. I like ......................choose my own working hours and office in my current job.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is able to
     - B-) do not
     - C-) is not
@@ -157,7 +157,7 @@ Which of thefollowing is Turkish translation of the sentence above?<br />
 1. Hayrettin: Where is my laptop?<br />
 Mehmet: ..........................................<br />
 Which of the following expressions completes the dialogue above?<br />
-<strong>Aşağıdaki ifadelerden hangisi diyalogu doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdaki ifadelerden hangisi diyalogu doğru şekilde tamamlar?</strong>
     - A-) It was been in your office.
     - B-) It can to be in your office.
     - C-) It is able to in your office.
@@ -174,7 +174,7 @@ Which of the following expressions completes the dialogue above?<br />
     <hr />
 1. Sarp and &Acirc;lp ___________ be brothers.<br />
 They look so alike. Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) will
     - B-) do
     - C-) are
@@ -200,7 +200,7 @@ Alice: To Istanbul.<br />
     - **Cevap E-) Can I send this letter, please?**
     <hr />
 1. Doing sport and mediatation is useful for our mental and physical ....................... .<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) body
     - B-) suggestion
     - C-) habits
@@ -208,7 +208,7 @@ Alice: To Istanbul.<br />
     - E-) hobbies
     <hr />
 ## Unite 2
-1. You ................. show your ID card at&nbsp;the airport security.<br />
+1. You ................. show your ID card at the airport security.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) have to**
     - B-) shouldn&#39;t
@@ -257,7 +257,7 @@ Alice: To Istanbul.<br />
     - E-) has to
     <hr />
 1. You had better go to bed. You &hellip;&hellip;&hellip;.. to get up early.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) must
     - B-) should
     - C-) could
@@ -265,7 +265,7 @@ Alice: To Istanbul.<br />
     - **Cevap E-) have**
     <hr />
 1. Tomorrow is holiday. I &hellip;&hellip;&hellip;&hellip; go to school.<br />
-<strong>Hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) don&rsquo;t have to**
     - B-) haven&rsquo;t to
     - C-) have
@@ -273,7 +273,7 @@ Alice: To Istanbul.<br />
     - E-) do
     <hr />
 1. You should &hellip;&hellip;&hellip;.. the film. It is fantastic.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) see**
     - B-) sees
     - C-) seeing
@@ -281,7 +281,7 @@ Alice: To Istanbul.<br />
     - E-) have to see
     <hr />
 1. &hellip;&hellip;&hellip;.. you open the window? It is really hot in here.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) Should
     - B-) Must
     - **Cevap C-) Could**
@@ -289,7 +289,7 @@ Alice: To Istanbul.<br />
     - E-) Have to
     <hr />
 1. &hellip;&hellip;&hellip;.. I &hellip;&hellip;&hellip;&hellip;.. fill in this form?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) Have/do
     - B-) Have/to
     - C-) Do/to
@@ -297,7 +297,7 @@ Alice: To Istanbul.<br />
     - **Cevap E-) Do/have to**
     <hr />
 1. The boss is furious. You &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. appear.<br />
-<strong>Hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) hadn&rsquo;t better
     - **Cevap B-) had better not**
     - C-) not had better
@@ -305,7 +305,7 @@ Alice: To Istanbul.<br />
     - E-) has better
     <hr />
 1. She has a lot of jobs. She &hellip;&hellip;&hellip;&hellip;. finish them until tomorrow.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) has to**
     - B-) have to
     - C-) has
@@ -313,7 +313,7 @@ Alice: To Istanbul.<br />
     - E-) having to
     <hr />
 1. &hellip;&hellip;&hellip;&hellip; you help me lift this box, please?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) Must
     - B-) Should
     - C-) Had better
@@ -321,7 +321,7 @@ Alice: To Istanbul.<br />
     - E-) Have
     <hr />
 1. I &hellip;&hellip;&hellip;&hellip;.. help my mother. She is really old and tired.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) should
     - B-) could
     - C-) have
@@ -353,7 +353,7 @@ Alice: To Istanbul.<br />
     - E-) I have wake to up early tomorrow.
     <hr />
 1. Oh! It&rsquo;s getting dark. I ................. better go!<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) have
     - **Cevap B-) had**
     - C-) is
@@ -361,7 +361,7 @@ Alice: To Istanbul.<br />
     - E-) can
     <hr />
 1. Could you .......... the window, please?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) open**
     - B-) opens
     - C-) opening
@@ -369,7 +369,7 @@ Alice: To Istanbul.<br />
     - E-) be opened
     <hr />
 1. Shhhh! You .................. make noise in the library.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) don&#39;t have to
     - B-) don&#39;t need to
     - **Cevap C-) mustn&#39;t**
@@ -377,7 +377,7 @@ Alice: To Istanbul.<br />
     - E-) aren&#39;t able to
     <hr />
 1. You .................... be 18 to get a driving licence.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) have to**
     - B-) need
     - C-) may
@@ -390,7 +390,7 @@ Alice: To Istanbul.<br />
 <strong>Sarah:</strong> Medium, please.<br />
 <strong>Shop assistant</strong>: OK, here you are. Would you like to try it on?<br />
 <strong>Sarah:</strong>&nbsp;.................................................... . Where are the changing rooms?<br />
-<strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>Konuşma metninde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Oh, no. Thank you.
     - B-) Maybe later.
     - C-) I don&#39;t need to do that.
@@ -407,14 +407,14 @@ Alice: To Istanbul.<br />
     - E-) have
     <hr />
 1. ................ they invited to the meetings every year?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Was
     - **Cevap B-) Are**
     - C-) Will
     - D-) Were
     - E-) Has been
     <hr />
-1. When ............. the policies&nbsp;be announced by the government tomorrow?<br />
+1. When ............. the policies be announced by the government tomorrow?<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - B-) has been
@@ -432,7 +432,7 @@ Alice: To Istanbul.<br />
     <hr />
 1. We are cleaning our house at the moment.<br />
 Which of the following is the passive form of the sentence above?<br />
-<strong>C&uuml;mlenin edilgen bi&ccedil;imi aşağıdakilerden hangisidir?</strong> 
+<strong>C&uuml;mlenin edilgen bi&ccedil;imi aşağıdakilerden hangisidir?</strong>
     - A-) The house was cleaned.
     - B-) The house is been cleaned.
     - **Cevap C-) Our house is being cleaned at the moment.**
@@ -440,7 +440,7 @@ Which of the following is the passive form of the sentence above?<br />
     - E-) The house is cleaned.
     <hr />
 1. My car .........................&nbsp;washed every month.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) is**
     - B-) did
     - C-) are
@@ -449,7 +449,7 @@ Which of the following is the passive form of the sentence above?<br />
     <hr />
 1. The game __________ by the referee yesterday.<br />
 Which of the following completes the passive sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi tamamlar?</strong>
     - A-) is being postponed
     - B-) are postponed
     - C-) are being postponed
@@ -466,7 +466,7 @@ Which of the following completes the passive sentence above?<br />
     <hr />
 1. ...................... tea always ................. by your mother for breakfast?<br />
 Which of the following completes the passive sentence above?<br />
-<strong>Aşağıdaki se&ccedil;eneklerden hangisi sırasıyla yukarıdaki edilgen c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdaki se&ccedil;eneklerden hangisi sırasıyla yukarıdaki edilgen c&uuml;mleyi tamamlar?</strong>
     - A-) was/making
     - B-) is/making
     - C-) were/being made
@@ -475,7 +475,7 @@ Which of the following completes the passive sentence above?<br />
     <hr />
 1. Why are the flowers not ............................. watered now?<br />
 Which of the following completes the passive sentence above?<br />
-<strong>Aşağıdakilerden hangisi verilen edilgen c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi verilen edilgen c&uuml;mleyi tamamlar?</strong>
     - A-) was
     - B-) is
     - **Cevap C-) being**
@@ -509,7 +509,7 @@ B: They are 5 TL each.<br />
     <hr />
 1. She couldn&rsquo;t be persuaded by anybody to sell her land.<br />
 Which of the following is Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) O, arsasını satmak i&ccedil;in hi&ccedil; kimse tarafından ikna edilemiyordu.
     - B-) Kimse onu arsasını satmaya ikna edemiyordu.
     - C-) Kimse onun arsasının yerini bilmiyordu.
@@ -565,7 +565,7 @@ Which of the following is Turkish translation of the sentence above?<br />
     - E-) Was / being clean
     <hr />
 1. Don&#39;t stop looking for a job. I&#39;m sure you will find a good job ..........................<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) hardly
     - **Cevap B-) eventually**
     - C-) nearly
@@ -606,7 +606,7 @@ Which of the following is Turkish translation of the sentence above?<br />
     - **Cevap E-) by**
     <hr />
 1. Ayşe was given a birthday present by Ahmet<br />
-<strong>Yukarıdaki&nbsp;edilgen c&uuml;mlenin etken c&uuml;mleye d&ouml;n&uuml;şt&uuml;r&uuml;lm&uuml;ş h&acirc;li aşağıdaki se&ccedil;eneklerden hangisidir?</strong>
+<strong>Yukarıdaki edilgen c&uuml;mlenin etken c&uuml;mleye d&ouml;n&uuml;şt&uuml;r&uuml;lm&uuml;ş h&acirc;li aşağıdaki se&ccedil;eneklerden hangisidir?</strong>
     - A-) Ahmet has given a birthday present to Ayşe.
     - B-) Ahmet gives a birthday present to Ayşe
     - C-) Ahmet will give a birthday present to Ayşe.
@@ -614,7 +614,7 @@ Which of the following is Turkish translation of the sentence above?<br />
     - E-) Ahmet is giving a birthday present to Ayşe.
     <hr />
 1. New gadgets .........................&nbsp;invented in the future.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) are going to be**
     - B-) is being
     - C-) have been
@@ -639,7 +639,7 @@ Which of the following completes the passive sentence above?<br />
     - E-) had been
     <hr />
 1. My car .......................washed soon.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - B-) had been
     - C-) were
@@ -648,7 +648,7 @@ Which of the following completes the passive sentence above?<br />
     <hr />
 1. The old man is going to be taken to the hospital soon.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Yaşlı adam d&uuml;n hastaneye kaldırılmıştı.
     - B-) Yaşlı adam kısa s&uuml;re sonra hastaneye kaldırılmış olacak.
     - C-) Yaşlı adam hastaneye kaldırılmış.
@@ -657,7 +657,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. Will the neighbours be invited for the party this Saturday?<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Komşular bizi bu Cumartesi g&uuml;nk&uuml; partiye davet edecek mi?
     - B-) Komşular bu Cumartesi g&uuml;nk&uuml; partiye davet edilir mi?
     - C-) Komşular bu Cumartesi g&uuml;nk&uuml; partiye davet edilmiş mi?
@@ -666,7 +666,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. this oil-painting / is going to / be sold / in the auction / next month<br />
 Which of the following is the sentence form of the mixed words above.<br />
-<strong>Aşağıdakilerden hangisi yukarıda karışık olarak verilmiş kelimelerin c&uuml;mle h&acirc;lidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıda karışık olarak verilmiş kelimelerin c&uuml;mle h&acirc;lidir?</strong>
     - A-) is going to this oil-painting be sold next month in the auction
     - B-) In the auction next month this oil painting be sold
     - C-) Be sold in the auction next month this oil painting is going to be sold.
@@ -691,7 +691,7 @@ Which of the following is the sentence form of the mixed words above.<br />
     <hr />
 1. Your trousers .................&nbsp;shortened tomorrow.<br />
 Which of the following completes the passive sentence above?<br />
-<strong>Hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Hangisi yukarıdaki edilgen c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) get
     - B-) will have
     - C-) are
@@ -715,7 +715,7 @@ Which of the following completes the passive sentence above?<br />
     - E-) had been
     <hr />
 1. for passing through / penalty / will you be given / the red traffic light<br />
-<strong>Karışık olarak verilmiş kelimelerin c&uuml;mle h&acirc;li aşağıdakilerden hangisidir?</strong> 
+<strong>Karışık olarak verilmiş kelimelerin c&uuml;mle h&acirc;li aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Will you be given penalty for passing through the red traffic light?**
     - B-) Will you be given the red traffic light penalty for passing through?
     - C-) Penalty will you be given for passing through the red traffic light?
@@ -801,7 +801,7 @@ Which of the following completes the passive sentence above?<br />
     - **Cevap E-) can be**
     <hr />
 1. If you .........................&nbsp;water over 100 degrees Celcius, it boils.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki koşul c&uuml;mleciğini doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki koşul c&uuml;mleciğini doğru şekilde tamamlar?</strong>
     - **Cevap A-) heat**
     - B-) heating
     - C-) heats
@@ -818,7 +818,7 @@ Which of the following completes the passive sentence above?<br />
     <hr />
 1. If it rains a lot, erosion .................&nbsp;.<br />
 Which of the following completes the main clause above?<br />
-<strong>Hangisi yukarıdaki ana c&uuml;mleciğini doğru şekilde tamamlar?</strong> 
+<strong>Hangisi yukarıdaki ana c&uuml;mleciğini doğru şekilde tamamlar?</strong>
     - A-) will be occurred
     - B-) has occurred
     - **Cevap C-) might occur**
@@ -827,7 +827,7 @@ Which of the following completes the main clause above?<br />
     <hr />
 1. If I arrive at home earlier, I __________ the dinner.<br />
 Which of the following completes the main clause above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki ana c&uuml;mleciğini doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki ana c&uuml;mleciğini doğru şekilde tamamlar?</strong>
     - A-) was preparing
     - B-) have prepared
     - C-) am preparing
@@ -836,7 +836,7 @@ Which of the following completes the main clause above?<br />
     <hr />
 1. If your parents decide to move to London, will you go there with them?<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Eğer ailen Londra&rsquo;ya yerleşme kararı alırsa, sen de onlarla birlikte git l&uuml;tfen.
     - B-) Eğer ailen Londra&rsquo;ya yerleşme kararı alırsa, sen de onlarla birlikte gitmiş olur muydun?
     - C-) Eğer ailen Londra&rsquo;ya yerleşme kararı almış olsaydı, sen de onlarla birlikte gitmiş olur muydun?
@@ -845,7 +845,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. If I were you, I would not do the same mistake.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Senin yerinde olsam aynı hatayı yapmamış olacaktım.
     - B-) Senin yerinde olsam aynı hatayı yapmayacağım.
     - **Cevap C-) Senin yerinde olsam aynı hatayı yapmazdım.**
@@ -871,7 +871,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. Thomas: When are you going to London?<br />
 Shelby: If I __________ my master&rsquo;s degree this semester, I can go to London in summer.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerin hangisi yukarıdaki diyaloğu tamamlar?</strong> 
+<strong>Aşağıdakilerin hangisi yukarıdaki diyaloğu tamamlar?</strong>
     - **Cevap A-) complete**
     - B-) would complete
     - C-) will have completed
@@ -880,7 +880,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. Reporter: Is Ahmet coming to your wedding ceremony?<br />
 Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could invite him to my wedding ceremony but I don&rsquo;t know his number.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) will knowing
     - B-) can know
     - C-) is knowing
@@ -896,7 +896,7 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     - E-) prepare
     <hr />
 1. If robots ............................. like human beings, they would control the whole world.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) can thought
     - B-) have thought
     - C-) had thought
@@ -928,7 +928,7 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     - E-) Eğer nakit &ouml;derseniz, size %10&#39;u değerinde hediye vereceğim.
     <hr />
 1. If it is sunny tomorrow, we .............................. a family picnic.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) have
     - B-) would have
     - **Cevap C-) will have**
@@ -977,7 +977,7 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     - E-) had had
     <hr />
 1. It snows a lot here. I wish it&nbsp;........................&nbsp;so much.<br />
-<strong style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;; font-size: 13px;">C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong> 
+<strong style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;; font-size: 13px;">C&uuml;mlesini aşağıdakilerden hangisi en doğru şekilde tamamlar.</strong>
     - A-) isn&rsquo;t snow
     - **Cevap B-) didn&rsquo;t snow**
     - C-) not snow
@@ -1001,14 +1001,14 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     - E-) did
     <hr />
 1. The film was terrible. I wish we &hellip;&hellip;&hellip;.. to the concert.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) going
     - B-) goes
     - C-) go
     - D-) went
     - **Cevap E-) had gone**
     <hr />
-1. <strong>I wish I &hellip;&hellip;&hellip;&hellip;.. have to go to school tomorrow.</strong> 
+1. <strong>I wish I &hellip;&hellip;&hellip;&hellip;.. have to go to school tomorrow.</strong>
     - **Cevap A-) didn&rsquo;t**
     - B-) hadn&rsquo;t
     - C-) couldn&rsquo;t
@@ -1016,7 +1016,7 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     - E-) haven&rsquo;t
     <hr />
 1. I have to go. I wish I &hellip;&hellip;&hellip;&hellip;.. stay.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmedir? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdaki se&ccedil;eneklerden hangisi getirilmedir?</strong>
     - A-) can
     - **Cevap B-) could**
     - C-) will
@@ -1114,7 +1114,7 @@ Governor: If I ................&nbsp;Ahmet&rsquo;s phone number, I would / could
     <hr />
 1. Ali, ....................is my cousin, lives in London.<br />
 Which of the following completes the sentence above?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) which
     - B-) whom
     - **Cevap C-) who**
@@ -1123,7 +1123,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. He has bought a car _____________ has two doors.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - **Cevap A-) which**
     - B-) whom
     - C-) who
@@ -1140,7 +1140,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. A- What are you looking for? B- I need a car ________ is strong and fast.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong>
     - A-) when
     - **Cevap B-) which**
     - C-) what kind of
@@ -1148,7 +1148,7 @@ Which of the following completes the dialogue above?<br />
     - E-) who
     <hr />
 1. Robin is a hero who steals from the rich and gives them to the poor.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Robin zenginlerden &ccedil;alan bir kahraman olarak bilinir.
     - B-) Robin bir kahraman olmasına karşın yine de &ccedil;alardı.
     - C-) Robin zenginlerden alıp yoksullara dağıtır.
@@ -1173,7 +1173,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. We live in Ankara __________ the capital city of Turkey.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - **Cevap A-) which**
     - B-) whom
     - C-) who
@@ -1182,7 +1182,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. Many people visit the Sherwood Forest where Robin lived.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Bir&ccedil;ok insan Robin&rsquo;in yaşadığı Sherwood Forest&rsquo;a g&ouml;&ccedil; etmiştir.
     - **Cevap B-) Bir&ccedil;ok turist Robin&rsquo;in yaşadığı Sherwood Forest&rsquo;ı ziyaret eder.**
     - C-) Robin&rsquo;in yaşadığı Sherwood Forest&rsquo;ı ziyaret etmek bir&ccedil;ok insanın hayalidir.
@@ -1192,7 +1192,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. A- ................................ do you need a car which has six seats?<br />
 B- Because five of my friends who are from England are coming to visit me.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi dialogu doğru olarak tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi dialogu doğru olarak tamamlar?</strong>
     - A-) when
     - B-) which
     - **Cevap C-) why**
@@ -1208,7 +1208,7 @@ Which of the following completes the dialogue above?<br />
     - E-) who
     <hr />
 1. Historians found different Hoods who lived in different parts of England.<br />
-<strong>C&uuml;mlesinin T&uuml;rk&ccedil;e &ccedil;evirisi aşağıdakilerden hangisidir?&nbsp;</strong>
+<strong>C&uuml;mlesinin T&uuml;rk&ccedil;e &ccedil;evirisi aşağıdakilerden hangisidir?</strong>
     - A-) Tarih&ccedil;iler İngiltere&rsquo;nin bir&ccedil;ok yerinde yaşamış bazı Hoods&rsquo;lara rastladılar.
     - **Cevap B-) Tarih&ccedil;iler İngiltere&rsquo;nin farklı b&ouml;lgelerinde yaşamış farklı Hood&rsquo;lar buldular.**
     - C-) Tarih&ccedil;iler İngiltere&rsquo;nin keşfedilmemiş yerlerinde Hoods&rsquo;a ait izler buldular.
@@ -1266,7 +1266,7 @@ B: So how far is it?<br />
     <hr />
 ## Unite 8
 1. Tomorrow, I will meet a person .........................&nbsp;academic achievement is appreciated.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) where
     - B-) which
     - C-) at which
@@ -1314,7 +1314,7 @@ B: So how far is it?<br />
     - E-) at which
     <hr />
 1. The country &hellip;&hellip;&hellip;&hellip;&hellip;. they come from is very far from here.<br />
-<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) in which
     - B-) on which
     - C-) at which
@@ -1322,7 +1322,7 @@ B: So how far is it?<br />
     - **Cevap E-) from which**
     <hr />
 1. The city &hellip;&hellip;&hellip;&hellip; he lives is very crowded<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) who
     - **Cevap B-) where**
     - C-) which
@@ -1338,7 +1338,7 @@ B: So how far is it?<br />
     - E-) where
     <hr />
 1. The years &hellip;&hellip;&hellip;&hellip;&hellip; I worked were 2017-2018.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) when**
     - B-) where
     - C-) who
@@ -1346,7 +1346,7 @@ B: So how far is it?<br />
     - E-) which
     <hr />
 1. The day &hellip;&hellip;&hellip;&hellip;.&hellip;.. I was born was snowy.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) where
     - **Cevap B-) when**
     - C-) whose
@@ -1354,7 +1354,7 @@ B: So how far is it?<br />
     - E-) who
     <hr />
 1. The city &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.he lives is very crowded.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) which
     - B-) who
     - **Cevap C-) where**
@@ -1378,7 +1378,7 @@ B: So how far is it?<br />
     - **Cevap E-) when**
     <hr />
 1. Yesterday, I met a person &hellip;&hellip;&hellip;.. car is a Ferrari.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) where
     - B-) who
     - C-) that
@@ -1402,7 +1402,7 @@ B: So how far is it?<br />
     - E-) where
     <hr />
 1. Artvin &hellip;&hellip;&hellip;&hellip;.. my father-in-low was born is a natural wonder.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) where**
     - B-) which
     - C-) who
@@ -1477,7 +1477,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. Can you tell me __________ time it is?<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki dialogu tamamlar?</strong>
     - A-) which
     - B-) why
     - C-) who
@@ -1486,7 +1486,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. In the past, people believed in magic, ghosts, fairies.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Ge&ccedil;mişte insanlar b&uuml;y&uuml;yle, hayaletlerle, perilerle yaşardı.
     - **Cevap B-) Ge&ccedil;mişte insanlar b&uuml;y&uuml;ye, hayaletlere, perilere inanırdı.**
     - C-) Ge&ccedil;mişte insan hayatında b&uuml;y&uuml;, hayaletler, periler &ouml;nemli yer tutardı.
@@ -1495,7 +1495,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. Can you tell me ________ is coming to the meeting?<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) which
     - B-) why
     - **Cevap C-) who**
@@ -1504,7 +1504,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. A: Do you know where she is?<br />
 B: ............................................<br />
-<strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>
     - A-) She works for a multinational company.
     - **Cevap B-) She has been in England for two years.**
     - C-) She has graduated from Oxford University.
@@ -1513,7 +1513,7 @@ B: ............................................<br />
     <hr />
 1. Science has developed and people can get access to information easily.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - **Cevap A-) Bilim gelişmekte ve insanlar bilgiye kolayca ulaşabiliyor.**
     - B-) Bilim geliştiği i&ccedil;in insanlar bilgiye ulaşabiliyor.
     - C-) İnsanlar bilgiye kolayca ulaşabildiği i&ccedil;in bilim gelişti.
@@ -1523,7 +1523,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. A- I wonder what Pelin is doing for a living in London.<br />
 B- _________________________________________.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyaloğu tamamlar?</strong>
     - A-) She is staying with a British family.
     - B-) London is her favourite place.
     - C-) She went to London last year.
@@ -1555,7 +1555,7 @@ Which of the following completes the dialogue above?<br />
     - E-) We see it is that raining.
     <hr />
 1. Can you tell me what your name is?<br />
-<strong>İfadesinin T&uuml;rk&ccedil;e karşılığı aşağıdakilerden hangisidir?</strong> 
+<strong>İfadesinin T&uuml;rk&ccedil;e karşılığı aşağıdakilerden hangisidir?</strong>
     - A-) Bana nereli olduğunu s&ouml;yleyebilir misin?
     - **Cevap B-) Bana adının ne olduğunu s&ouml;yleyebilir misin?**
     - C-) Bana nasıl olduğunu s&ouml;yleyebilir misin?
@@ -1572,7 +1572,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. <strong>Oprah:&nbsp;</strong>Do you belive in magic and witchcraft?<br />
 <strong>Ellen:</strong> No! I believe in ................. and technology.<br />
-<strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>Diyalogta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) superstition
     - B-) good luck
     - **Cevap C-) science**
@@ -1633,7 +1633,7 @@ Selin: You say that &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. daughter i
 1. Bilimsel: When will Serkan fly to London?<br />
 &Ccedil;ağdaş: Serkan told me that ____________________ the following week.<br />
 Which of the following completes the blank in the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong>
     - **Cevap A-) he would fly to London**
     - B-) he will fly to London
     - C-) he is going to fly to London
@@ -1652,7 +1652,7 @@ Which of the following completes the reported speech statement above?<br />
 1. Hakan: Why did the police stop you?<br />
 Tuğba: The police __________ to me that I was a suspect.<br />
 Which of the following completes the blank in the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan boşluğu tamamlar?</strong>
     - A-) wanted
     - B-) told
     - C-) asked
@@ -1669,7 +1669,7 @@ Which of the following completes the blank in the dialogue above?<br />
     <hr />
 1. The professor asked me if I had attended the conference.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Profes&ouml;r bana konferansa katılıp katılmadığımı anlatır.
     - B-) Profes&ouml;r bana konferansa katılıp katılmadığımı anlattı.
     - **Cevap C-) Profes&ouml;r bana konferansa katılıp katılmadığımı sordu.**
@@ -1687,7 +1687,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
 1. Filiz: We need to see the doctor next week.<br />
 Kemal: We cannot. The doctor said to me that _______________.<br />
 Which of the following completes the statement in the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan ifadeyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki diyalogda yer alan ifadeyi tamamlar?</strong>
     - A-) he will have gone on a holiday the following week
     - **Cevap B-) he would go on a holiday the following week**
     - C-) he is going to go on a holiday the following week
@@ -1695,7 +1695,7 @@ Which of the following completes the statement in the dialogue above?<br />
     - E-) he has gone on a holiday the following week
     <hr />
 1. Elon Musk told that the new electric car ................ on the way.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) is
     - B-) will be
     - C-) has been
@@ -1703,7 +1703,7 @@ Which of the following completes the statement in the dialogue above?<br />
     - **Cevap E-) was**
     <hr />
 1. The President .........................&nbsp;the public that the war was over.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki dolaylı anlatım ifadesini tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki dolaylı anlatım ifadesini tamamlar?</strong>
     - A-) said
     - B-) asked
     - C-) warn
@@ -1712,7 +1712,7 @@ Which of the following completes the statement in the dialogue above?<br />
     <hr />
 1. The police ................... motorists to slow down around schools.<br />
 Which of the following completes the reported speech imperative statement above?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilirse dolaylı anlatım emir ifadesini tamamlar? </strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilirse dolaylı anlatım emir ifadesini tamamlar?</strong>
     - **Cevap A-) told**
     - B-) will tell
     - C-) would tell
@@ -1720,7 +1720,7 @@ Which of the following completes the reported speech imperative statement above?
     - E-) is going to tell
     <hr />
 1. She asked me .............................. the window.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) to close**
     - B-) closing
     - C-) has closed
@@ -1749,7 +1749,7 @@ Which of the following completes the reported speech imperative statement above?
 <strong>Angelica: </strong>................................................... . She gave me some medicine.<br />
 <strong>Josh: </strong>Anything else?<br />
 <strong>Angelica: </strong>She also said, &quot;I should stay at home and have a rest.&quot;<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) She said I&#39;m OK.
     - B-) She said whether I&#39;m ill or not.
     - **Cevap C-) She said that I had a cold.**
@@ -1793,7 +1793,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. He told me not ____________.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) over shouting
     - B-) from shouting
     - C-) in shouting
@@ -1818,7 +1818,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. Will you give up __________ ?<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) to smoking
     - B-) from smoking
     - C-) in smoking
@@ -1826,7 +1826,7 @@ Which of the following completes the sentence above?<br />
     - E-) to smoke
     <hr />
 1. We walked through the forest to collect some wood for the campfire.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Ateşi yakmak i&ccedil;in odun bulmak amacıyla ormanda dolaştık.
     - **Cevap B-) Kamp ateşi i&ccedil;in biraz odun toplamak amacıyla ormanda y&uuml;r&uuml;d&uuml;k.**
     - C-) Kamp ateşini s&ouml;nd&uuml;rmemek i&ccedil;in ormanda odun aradık.
@@ -1836,7 +1836,7 @@ Which of the following completes the sentence above?<br />
 1. A- Can I ask you to help me with preparations?<br />
 B- _____________________________________.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı tamamlar?</strong>
     - A-) I suggest painting your house
     - **Cevap B-) Of course. I appreciate helping to you.**
     - C-) I&rsquo;m pretty good, thanks and you.
@@ -1845,7 +1845,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. We went back home without spending even one day in nature.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - A-) Doğada bir g&uuml;n ge&ccedil;irdikten sonra eve geri gittik.
     - B-) Eve geri gittiğimizde doğada yalnız birka&ccedil; g&uuml;n kalmıştık.
     - **Cevap C-) Doğada bir g&uuml;n bile ge&ccedil;irmeden eve geri gittik.**
@@ -1878,7 +1878,7 @@ B: .............................................................................
     - E-) lives
     <hr />
 1. Our ................. was so large that we paid extra money for the campsite.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) trekking
     - B-) forest
     - C-) wood
@@ -1911,7 +1911,7 @@ B: .............................................................................
     - E-) yet
     <hr />
 1. Today it is sunny, _______ it was really cold yesterday.<br />
-<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) and
     - B-) for
     - **Cevap C-) but**
@@ -1935,7 +1935,7 @@ B: .............................................................................
     - **Cevap E-) but**
     <hr />
 1. Mrs.Tan has bought some flour, sugar, butter, eggs, &hellip;&hellip;milk to make a cake.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) so
     - B-) nor
     - C-) yet
@@ -1967,7 +1967,7 @@ B: .............................................................................
     - E-) but
     <hr />
 1. He is available neither today &hellip;&hellip;&hellip;&hellip;&hellip;.tomorrow.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - **Cevap A-) nor**
     - B-) or
     - C-) both
@@ -1975,7 +1975,7 @@ B: .............................................................................
     - E-) and
     <hr />
 1. Bilge will either buy a wonderful birthday present for her elder sister &hellip;&hellip;&hellip;..take her somewhere.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi doğru şekilde tamamlar?</strong>
     - A-) also
     - **Cevap B-) or**
     - C-) nor
@@ -2034,7 +2034,7 @@ Secretary:&nbsp;He is fully booked today, I am afraid.<br />
     - E-) Should I wait for the doctor long?
     <hr />
 ## Unite 13
-1.&nbsp;&hellip;&hellip;&hellip;&hellip;..I am walking down the street, I always see her.<br />
+1. &hellip;&hellip;&hellip;&hellip;..I am walking down the street, I always see her.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Although
     - **Cevap B-) While**
@@ -2084,7 +2084,7 @@ Secretary:&nbsp;He is fully booked today, I am afraid.<br />
     <hr />
 1. I called the police _______________ the thief left the building.<br />
 Which of the following conjunctions completes the statement above?<br />
-<strong>Aşağıdaki bağla&ccedil;lardan hangisi yukarıdaki ifadeyi tamamlar?</strong> 
+<strong>Aşağıdaki bağla&ccedil;lardan hangisi yukarıdaki ifadeyi tamamlar?</strong>
     - A-) why
     - B-) so
     - **Cevap C-) before**
@@ -2093,7 +2093,7 @@ Which of the following conjunctions completes the statement above?<br />
     <hr />
 1. I cannot go out tonight because I have lots of things to do.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - **Cevap A-) Yapacak &ccedil;ok işim olduğundan bu gece dışarı &ccedil;ıkamam.**
     - B-) Yapacak &ccedil;ok işim olduğundan bu gece dışarı &ccedil;ıkmayacağım.
     - C-) Yapacak &ccedil;ok işim olduğundan bu gece dışarı &ccedil;ıkmadım.
@@ -2102,7 +2102,7 @@ Which of the following is the Turkish translation of the sentence above?<br />
     <hr />
 1. I studied for the exam very much; thus, I was able to pass the test.<br />
 Which of the following is the Turkish translation of the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - **Cevap A-) Sınav i&ccedil;in &ccedil;ok &ccedil;alıştım; b&ouml;ylelikle, sınavı ge&ccedil;ebildim.**
     - B-) Sınav i&ccedil;in &ccedil;ok &ccedil;alıştım; b&ouml;ylelikle, sınavı ge&ccedil;ebilirim.
     - C-) Sınav i&ccedil;in &ccedil;ok &ccedil;alıştım; b&ouml;ylelikle, sınavı ge&ccedil;eceğim.
@@ -2135,7 +2135,7 @@ Which of the following conjunctions completes the statement above?<br />
     - **Cevap E-) as if**
     <hr />
 1. Many people take this lesson ........................ learn English better.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) as
     - B-) since
     - C-) till
@@ -2144,7 +2144,7 @@ Which of the following conjunctions completes the statement above?<br />
     <hr />
 1. __________ I like Formula 1, my younger brother is a football fan.<br />
 Which of the following conjunctions completes the statement above?<br />
-<strong>Aşağıdaki bağla&ccedil;lardan hangisi yukarıdaki ifadeyi tamamlar?</strong> 
+<strong>Aşağıdaki bağla&ccedil;lardan hangisi yukarıdaki ifadeyi tamamlar?</strong>
     - **Cevap A-) Whereas**
     - B-) Because
     - C-) Since
@@ -2193,7 +2193,7 @@ Which of the following conjunctions completes the statement above?<br />
     <hr />
 1. A: What time is it playing?<br />
 B: .....................................<br />
-<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) I will have it free providing that I finish my homework.
     - B-) I will not tell you its name untill we get to the cinema.
     - C-) You will know about its name after we arrive there.
@@ -2201,7 +2201,7 @@ B: .....................................<br />
     - **Cevap E-) It is playing at 3 p.m., 5. p.m., and 7 p.m.**
     <hr />
 1. ................. it was a risky plan, they wanted to take their chance.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Before
     - B-) After
     - C-) When
@@ -2209,7 +2209,7 @@ B: .....................................<br />
     - **Cevap E-) Although**
     <hr />
 1. People should be ................. and respectful of&nbsp;other cultures.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) organized
     - B-) reduce
     - **Cevap C-) tolerant**
@@ -2260,7 +2260,7 @@ B: .....................................<br />
 1. A- What happened?<br />
 B- ________________________________________.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>
     - A-) I called an electrician.
     - B-) I feel terrible.
     - **Cevap C-) Somebody broke into my car.**
@@ -2269,7 +2269,7 @@ Which of the following completes the dialogue above?<br />
     <hr />
 1. He looks __________ his ill mother.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) at
     - **Cevap B-) after**
     - C-) to
@@ -2278,7 +2278,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. I came __________ my primary school teacher yesterday.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) at
     - B-) after
     - C-) to
@@ -2287,7 +2287,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. You have to hand your homework __________ tomorrow.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - **Cevap A-) in**
     - B-) after
     - C-) down
@@ -2296,7 +2296,7 @@ Which of the following completes the sentence above?<br />
     <hr />
 1. It is very cold. I should put __________ a jacket.<br />
 Which of the following completes the sentence above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mleyi tamamlar?</strong>
     - A-) in
     - B-) after
     - C-) down
@@ -2306,7 +2306,7 @@ Which of the following completes the sentence above?<br />
 1. A- What did you do?<br />
 B- __________________________________________.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>
     - **Cevap A-) I called an electrician.**
     - B-) I feel terrible.
     - C-) Somebody broke into my car.
@@ -2332,7 +2332,7 @@ Which of the following completes the dialogue above?<br />
 1. A- See you then?<br />
 B - _______________________________________.<br />
 Which of the following completes the dialogue above?<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?</strong>
     - A-) I miss you so much.
     - **Cevap B-) See you. Bye for now.**
     - C-) What would you like to have?
@@ -2356,7 +2356,7 @@ Which of the following completes the dialogue above?<br />
     - E-) across
     <hr />
 1. Ali graduated last year and he is now a famous doctor.<br />
-<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong> 
+<strong>Aşağıdakilerden hangisi yukarıdaki c&uuml;mlenin T&uuml;rk&ccedil;e &ccedil;evirisidir?</strong>
     - **Cevap A-) Ali ge&ccedil;en yıl mezun oldu ve şimdi &uuml;nl&uuml; bir doktordur.**
     - B-) Ali ge&ccedil;en yıl &uuml;nl&uuml; bir doktor olarak mezun oldu.
     - C-) Ali ge&ccedil;en yıl &uuml;nl&uuml; bir doktor olmayı başardı.
@@ -2378,7 +2378,7 @@ Which of the following completes the dialogue above?<br />
 <strong>Will: </strong>I&#39;d love to.<strong>&nbsp;</strong>Thank you very much. You&#39;re so nice.<br />
 <strong>Alice: </strong>Great.&nbsp;I&#39;ll tell my mum to cook your favourite dish. See you in the evening then.<br />
 <strong>Will:</strong> Thank you. See you.<br />
-<strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong> 
+<strong>Aşağıdakilerden hangisi diyaloğu doğru bir şekilde tamamlar?</strong>
     - A-) Where are they going to?
     - B-) What time do you want to eat dinner?
     - C-) Let&#39;s buy some food for you.
@@ -2386,7 +2386,7 @@ Which of the following completes the dialogue above?<br />
     - **Cevap E-) Would you like to come over for dinner tonight?**
     <hr />
 1. Can you ................. my cat when I&#39;m away at the weekend?<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) figure out
     - **Cevap B-) look after**
     - C-) come back

@@ -964,7 +964,7 @@ Aşağıdakilerden hangisi bu kazanımlar arasında <u>yer almaz</u>?</strong>
     - D-) G&ouml;z merceğinin netleyememesi
     - E-) Kişinin arkasında kalan alan
     <hr />
-1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong> 
+1. <strong>Algılama s&uuml;recinde duyu organı ile beyin arasındaki ilişki aşağıdakilerden hangisine benzetilebilir?</strong>
     - A-) Otob&uuml;s şof&ouml;r&uuml; - Otob&uuml;s yolcusu
     - B-) Bilgisayar oyunu - Bilgisayar işlemcisi
     - C-) Fotoğraf filmi - Fotoğraf baskısı

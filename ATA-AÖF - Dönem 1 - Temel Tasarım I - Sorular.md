@@ -315,7 +315,7 @@ III. Bireyin din&icirc; inanışları<br />
     - D-) Psikolojik G&ouml;rme
     - E-) Soyut G&ouml;rme
     <hr />
-1. <strong>Akıl ve beden arasındaki ilişkiyi ayrıntılı olarak tanımlayan, 17. y&uuml;zyıl filozofu aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Akıl ve beden arasındaki ilişkiyi ayrıntılı olarak tanımlayan, 17. y&uuml;zyıl filozofu aşağıdakilerden hangisidir?</strong>
     - A-) Sigmund Freud
     - B-) El-Kind&icirc;
     - C-) Farabi
@@ -480,7 +480,7 @@ Bu doğrultuda aşağıdakilerden hangisi v&uuml;cutta epinefrin salgılatarak t
     - **Cevap D-) Galileo Galilei**
     - E-) Aristoteles
     <hr />
-1. I. Işığın kaynağı g&uuml;neştir.<br />
+1. I.&nbsp;Işığın kaynağı g&uuml;neştir.<br />
 II.&nbsp;Renkler ışık ile algılanır.<br />
 III. Işığın olduğu yerde renk, rengin olduğu yerde ışık vardır.<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri ışık ile ilgili doğrudur?</strong>
@@ -758,8 +758,8 @@ III. G&ouml;ky&uuml;z&uuml;nde hızla ilerleyen&nbsp;bir u&ccedil;ağın yavaş 
 1. I. Beşgen<br />
 II. Kare<br />
 III. Daire<br />
-IV. &#220;&#231;gen<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik bi&#231;imleri arasında yer alır?</strong>
+IV. &Uuml;&ccedil;gen<br />
+<strong>Yukarıdakilerden hangisi ya da hangileri tasarımın soyut olan temel geometrik bi&ccedil;imleri arasında yer alır?</strong>
     - A-) Yalnız I
     - **Cevap B-) II, III ve IV**
     - C-) Yalnız II
@@ -1030,7 +1030,7 @@ Yukarıda bahsedilen &ouml;rnekte beynimizin hangi &ouml;zelliğinden bahsedilme
     - D-) &Ouml;l&ccedil;&uuml;
     - E-) Oran-orantı
     <hr />
-1. I. Şekil, &ccedil;izgi ve renklerle sınırları belirlenen bir yapıdır.<br />
+1. I.&nbsp;Şekil, &ccedil;izgi ve renklerle sınırları belirlenen bir yapıdır.<br />
 II.&nbsp;Genel olarak şekil, bir alanı belirleyen &ccedil;izgiyle tanımlanan sınırlardır.<br />
 III. Şekil ve formlara, tasarımın i&ccedil;eriğine y&ouml;nelik bilgi y&uuml;klenir.<br />
 IV. Her formun bir şekli vardır fakat her şeklin bir formu olamaz.<br />
@@ -1179,7 +1179,7 @@ III. Kimyasal tepkime<br />
     - D-) Dokunun tasarımcı duyularındaki etkinliği tasarımın farklı kavramlarla ilişkilendirilmesini etkiler.
     - **Cevap E-) Bir grafik &uuml;r&uuml;n&uuml; dokunma duyusuyla ilişkilendirmek, tasarımcının kavram dışında kurduğu bağlantıda belirir.**
     <hr />
-1. Doku, ..................&nbsp;olmak &uuml;zere ikiye ayrılır.<br />
+1. Doku, .................. olmak &uuml;zere ikiye ayrılır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) mat ve parlak
     - B-) yumuşak ve sert
@@ -1845,7 +1845,7 @@ III. Tasarımda organik olanı &ouml;ne &ccedil;ıkarmak, tasarımın i&ccedil;e
     - D-) B&uuml;y&uuml;k par&ccedil;acıklardır.
     - **Cevap E-) Suyla olan etkileşime diren&ccedil; g&ouml;sterir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi temel dokulara verilen &ouml;rneklerden biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi temel dokulara verilen &ouml;rneklerden biri <u>değildir</u>?</strong>
     - A-) Ger&ccedil;ek
     - B-) Doğal
     - C-) Yapay

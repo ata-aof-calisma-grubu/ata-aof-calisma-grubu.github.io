@@ -1,55 +1,55 @@
 # Grafik Tasarım II
 ## Unite 1
-1. <strong>İll&uuml;strasyonun temel işlevi nedir?</strong> 
+1. <strong>İll&uuml;strasyonun temel işlevi nedir?</strong>
     - A-) Sayfayı doldurmak
     - B-) Reklam
     - C-) Satışı artırmak
     - D-) Dikkat &ccedil;ekmek
     - **Cevap E-) Bir metni açıklamak**
     <hr />
-1. <strong>İnsanın iletişim kaygısı sonucu gelişen yazı aşağıdaki hangi aşamalara sahiptir?</strong> 
+1. <strong>İnsanın iletişim kaygısı sonucu gelişen yazı aşağıdaki hangi aşamalara sahiptir?</strong>
     - **Cevap A-) Resim-s&ouml;z-yazı**
     - B-) Yazı-s&ouml;z-resim
     - C-) S&ouml;z-resim-yazı
     - D-) Resim-yazı-s&ouml;z
     - E-) Yazı-resim-s&ouml;z
     <hr />
-1. <strong>Kitap ve kitap resimlemenin gelişim merkezi aşağıdakilerden hangisidir?</strong> 
+1. <strong>Kitap ve kitap resimlemenin gelişim merkezi aşağıdakilerden hangisidir?</strong>
     - A-) Asya
     - B-) Amerika
     - **Cevap C-) Avrupa**
     - D-) Rusya
     - E-) Mısır
     <hr />
-1. <strong>Orta &Ccedil;ağ, 11. ve 13. y&uuml;zyıllarda el yazmalarında yer alan resimlemelerde meydana gelen değişiklikler aşağıdakilerden hangidir?</strong> 
+1. <strong>Orta &Ccedil;ağ, 11. ve 13. y&uuml;zyıllarda el yazmalarında yer alan resimlemelerde meydana gelen değişiklikler aşağıdakilerden hangidir?</strong>
     - A-) Nesnenin asıl rengi kullanılmıştır.
     - B-) Olayın ge&ccedil;tiği mek&acirc;n &ouml;nem kazanmıştır.
     - **Cevap C-) Kutsal &ouml;yk&uuml;y&uuml; anlatmak ve mesaj vermek &ouml;nem kazanmıştır.**
     - D-) Amaca y&ouml;nelik detay &ouml;nem kazanmıştır.
     - E-) Renk kullanımı azalmıştır.
     <hr />
-1. <strong>Matbaanın bulunuşunun doğurduğu olumlu sonu&ccedil;lar aşağıdakilerden hangisidir?</strong> 
+1. <strong>Matbaanın bulunuşunun doğurduğu olumlu sonu&ccedil;lar aşağıdakilerden hangisidir?</strong>
     - A-) Kitap basımının sınırlı sayıda yapılması
     - B-) Basım işleminin uzun zaman gerektirmesi
     - **Cevap C-) Bilginin toplumun her kesimine daha ucuz ve hızlı bir şekilde ulaşması**
     - D-) Sadece kilise ve manastırlarda basılması
     - E-) Halkın erişimine ulaşmaması
     <hr />
-1. <strong>19. y&uuml;zyılda Avrupa sanatını etkileyen sanat akımı aşağıdakilerden hangisidir?</strong> 
+1. <strong>19. y&uuml;zyılda Avrupa sanatını etkileyen sanat akımı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Art Nouveau**
     - B-) Empresyonizm
     - C-) Soyut sanat
     - D-) Ekspresyonizm
     - E-) K&uuml;bizm
     <hr />
-1. <strong>20. Y&uuml;zyılda afiş tasarımına yeni bir yaklaşım getiren sanat&ccedil;ı kimdir?</strong> 
+1. <strong>20. Y&uuml;zyılda afiş tasarımına yeni bir yaklaşım getiren sanat&ccedil;ı kimdir?</strong>
     - A-) &Eacute;douard Manet
     - B-) Honor&eacute; Daumier
     - **Cevap C-) Saul Bass**
     - D-) Toulouse Lautrec
     - E-) Meng&uuml; Ertel
     <hr />
-1. <strong>Reklam ill&uuml;strasyonu kapsamına giren alanlar hangileridir?</strong> 
+1. <strong>Reklam ill&uuml;strasyonu kapsamına giren alanlar hangileridir?</strong>
     - **Cevap A-) Moda, afiş, ambalaj**
     - B-) Kitap, dergi, gazete
     - C-) Tıp, botanik, mimari
@@ -91,14 +91,14 @@
     - D-) Bhimbetka Mağarası
     - E-) Eller Mağarası
     <hr />
-1. <strong>Toplumcu Yaklaşım hangi d&ouml;nemde &ouml;nem kazanmaya başlamıştır?</strong> 
+1. <strong>Toplumcu Yaklaşım hangi d&ouml;nemde &ouml;nem kazanmaya başlamıştır?</strong>
     - A-) Orta &Ccedil;ağ
     - **Cevap B-) R&ouml;nesans**
     - C-) Aydınlanma
     - D-) Postmodernizm
     - E-) Modernizm
     <hr />
-1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong>
     - A-) Yoğun &ccedil;izgiler
     - B-) Karışık renkler
     - C-) Ayrıntılı &ccedil;izgiler
@@ -106,63 +106,63 @@
     - E-) Karışık desenler
     <hr />
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi bilgisayarın gelişim s&uuml;recine ait d&ouml;nemlerden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi bilgisayarın gelişim s&uuml;recine ait d&ouml;nemlerden biridir?</strong>
     - **Cevap A-) Mekanik &Ccedil;ağ**
     - B-) Paleolitik &Ccedil;ağ
     - C-) Mezolitik &Ccedil;ağ
     - D-) Neolitik &Ccedil;ağ
     - E-) Kalkolitik &Ccedil;ağ
     <hr />
-1. <strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı ara&ccedil;lardan biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı ara&ccedil;lardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) Letraset
     - B-) Kretuar
     - C-) Yapıştırıcı
     - D-) Asetat
     - **Cevap E-) Grafik Tablet**
     <hr />
-1. <strong>1984&rsquo;te lansmanı yapılan Macintosh bilgisayarın masa&uuml;st&uuml; yayıncılık i&ccedil;in uygun bir sistem olmasının başlıca nedeni aşağıdakilerden hangisidir?</strong> 
+1. <strong>1984&rsquo;te lansmanı yapılan Macintosh bilgisayarın masa&uuml;st&uuml; yayıncılık i&ccedil;in uygun bir sistem olmasının başlıca nedeni aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Grafiksel kullanıcı aray&uuml;z&uuml;ne (GUI) sahip olması**
     - B-) Renkli monit&ouml;r&uuml;n&uuml;n olması
     - C-) Disket s&uuml;r&uuml;c&uuml;ye sahip olması
     - D-) Ethernet bağlantısına sahip olması
     - E-) All-in-one sistemine sahip olması
     <hr />
-1. <strong>Paul Brainerd&rsquo;in kurucusu olduğu yazılım firması ismini aşağıdaki yayıncıların hangisinden almıştır?</strong> 
+1. <strong>Paul Brainerd&rsquo;in kurucusu olduğu yazılım firması ismini aşağıdaki yayıncıların hangisinden almıştır?</strong>
     - A-) Aldus Freehand
     - B-) Aldus Corporation
     - C-) Aldus Gutenberg
     - **Cevap D-) Aldus Manutius**
     - E-) Aldus Publisher
     <hr />
-1. <strong>&quot;Masa&uuml;st&uuml; Yayıncılık&quot; kavramı tasarımın aşağıdaki hangi aşamasını kapsar?</strong> 
+1. <strong>&quot;Masa&uuml;st&uuml; Yayıncılık&quot; kavramı tasarımın aşağıdaki hangi aşamasını kapsar?</strong>
     - A-) Tasarım fikri geliştirme
     - B-) İletişim problemini belirleme
     - C-) Tasarım ve iletişim s&uuml;recinden beklenen &ccedil;ıktıları belirleme
     - D-) Hedef kitle analizi
     - **Cevap E-) Karar verilen tasarımın yayına hazır h&acirc;le getirilmesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir masa&uuml;st&uuml; yayıncılık aracı <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bir masa&uuml;st&uuml; yayıncılık aracı <u>değildir</u>?</strong>
     - A-) Bilgisayar
     - B-) Yazılım
     - C-) Tarayıcı
     - **Cevap D-) Ofset baskı makinesi**
     - E-) Veri nakil, depolama sistemleri
     <hr />
-1. <strong>Masa&uuml;st&uuml; yayıncılıkta bilgisayar teknolojisinin birincil işlevi aşağıdakilerden hangisidir?</strong> 
+1. <strong>Masa&uuml;st&uuml; yayıncılıkta bilgisayar teknolojisinin birincil işlevi aşağıdakilerden hangisidir?</strong>
     - A-) Bir iletişim problemini tespit etmek
     - B-) İletişim probleminin &ccedil;&ouml;z&uuml;m&uuml;ne y&ouml;nelik fikir geliştirmek
     - C-) G&ouml;z alıcı ve estetik tasarımı &uuml;retmek
     - D-) Tek başına iletişim probleminin &ccedil;&ouml;z&uuml;m&uuml;n&uuml; ger&ccedil;ekleştirmek
     - **Cevap E-) Tasarımcının fikrini &uuml;r&uuml;ne d&ouml;n&uuml;şt&uuml;rmesinde yardımcı olmak**
     <hr />
-1. <strong>Grafik tasarım uygulaması yapılan bilgisayarda aşağıdaki &ouml;zelliklerden hangisine sahip olması &ouml;ncelikle <u>beklenmez</u>?</strong> 
+1. <strong>Grafik tasarım uygulaması yapılan bilgisayarda aşağıdaki &ouml;zelliklerden hangisine sahip olması &ouml;ncelikle <u>beklenmez</u>?</strong>
     - **Cevap A-) Kayıt &ouml;zellikli &ccedil;ift DVD s&uuml;r&uuml;c&uuml;**
     - B-) Y&uuml;ksek kapasiteli sabit disk
     - C-) B&uuml;y&uuml;k monit&ouml;r
     - D-) Y&uuml;ksek kapasiteli RAM
     - E-) Gelişmiş ekran kartı
     <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık uygulamalarında kullanılabilecek bir &ccedil;ıktı cihazı <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık uygulamalarında kullanılabilecek bir &ccedil;ıktı cihazı <u>değildir</u>?</strong>
     - A-) M&uuml;rekkep p&uuml;sk&uuml;rtmeli yazıcı
     - **Cevap B-) Nokta vuruşlu yazıcı**
     - C-) Lazer yazıcı
@@ -183,21 +183,21 @@
     - D-) İbrahim &Ccedil;allı
     - E-) Matrak&ccedil;ı Nasuh
     <hr />
-1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri&nbsp;<u>değildir</u>?</strong>
     - A-) Y&uuml;ksek &ccedil;ıkış hızı
     - B-) Kaliteli renkli baskı imk&acirc;nı
     - C-) Kaliteli siyah-beyaz baskı imk&acirc;nı
     - **Cevap D-) &Ccedil;ok b&uuml;y&uuml;k ebatlı baskı imk&acirc;nı**
     - E-) D&uuml;ş&uuml;k &ccedil;ıkış maliyeti
     <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık amacıyla kullanılan bilgisayarın monit&ouml;r&uuml;nden beklenen &ouml;zelliklerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık amacıyla kullanılan bilgisayarın monit&ouml;r&uuml;nden beklenen &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - A-) B&uuml;y&uuml;k olması
     - B-) Hızlı tepki s&uuml;resine sahip olması
     - C-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahip olması
     - **Cevap D-) &Ccedil;ok y&uuml;ksek kontrastlı olması**
     - E-) Renk tutarlılığına sahip olması
     <hr />
-1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong>
     - A-) Agrandiz&ouml;r
     - **Cevap B-) Pikaj&ouml;r**
     - C-) Viz&ouml;r
@@ -205,49 +205,49 @@
     - E-) Desinat&ouml;r
     <hr />
 ## Unite 3
-1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?</strong>
     - A-) Romalılar
     - **Cevap B-) Fenikeliler**
     - C-) Yunanlılar
     - D-) T&uuml;rkler
     - E-) Mısırlılar
     <hr />
-1. <strong>İlk alfabenin okuma y&ouml;n&uuml; aşağıdakilerden hangisidir?</strong> 
+1. <strong>İlk alfabenin okuma y&ouml;n&uuml; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Sağdan sola**
     - B-) Soldan Sağa
     - C-) Yukarıdan aşağıya
     - D-) Aşağıdan yukarıya
     - E-) Karışık
     <hr />
-1. <strong>Gutenberg neyi icat etmiştir?</strong> 
+1. <strong>Gutenberg neyi icat etmiştir?</strong>
     - A-) Yazı
     - **Cevap B-) Matbaa**
     - C-) Kalem
     - D-) Kağıt
     - E-) Papir&uuml;s
     <hr />
-1. <strong>&ldquo;Boustrophedon&rdquo; nedir?</strong> 
+1. <strong>&ldquo;Boustrophedon&rdquo; nedir?</strong>
     - A-) Antik geminin adı
     - **Cevap B-) Soldan sağa veya sağdan sola karışık okuma bi&ccedil;imi**
     - C-) Kağıt yapımında bir teknik
     - D-) Matbaa i&ccedil;in gerekli bir alet
     - E-) &Ouml;zel bir m&uuml;rekkebin ismi
     <hr />
-1. <strong>Uluburun batığında yazı tarihi i&ccedil;in &ouml;nemi olan ne bulunmuştur?</strong> 
+1. <strong>Uluburun batığında yazı tarihi i&ccedil;in &ouml;nemi olan ne bulunmuştur?</strong>
     - A-) Antik yazıtlar
     - B-) Antik paralar
     - **Cevap C-) Tarihteki ilk balmumu yazı takımı**
     - D-) Papir&uuml;sler
     - E-) Parş&ouml;men bir kitap
     <hr />
-1. <strong>Papir&uuml;s nerede yetişmektedir?</strong> 
+1. <strong>Papir&uuml;s nerede yetişmektedir?</strong>
     - A-) İtalya, Roma kıyısında
     - B-) T&uuml;rkiye, Uluburun kıyısında
     - C-) T&uuml;rkiye, Bergama kıyısında
     - **Cevap D-) Mısır, Nil kıyısında**
     - E-) Akdeniz ikliminde
     <hr />
-1. <strong>Parş&ouml;men nerede icat edilmiştir?</strong> 
+1. <strong>Parş&ouml;men nerede icat edilmiştir?</strong>
     - A-) Fenike
     - B-) Kapadokya
     - **Cevap C-) Bergama**
@@ -261,14 +261,14 @@
     - D-) Yumuşak fır&ccedil;a kullanılması
     - **Cevap E-) Katlanabilmesi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi parş&ouml;menin icadı i&ccedil;in sebep olmuştur?</strong> 
+1. <strong>Aşağıdakilerden hangisi parş&ouml;menin icadı i&ccedil;in sebep olmuştur?</strong>
     - **Cevap A-) Firavunun Bergama&rsquo;ya papir&uuml;s ithalatını durdurması**
     - B-) Uzun s&uuml;ren savaşlar
     - C-) Ekonominin k&ouml;t&uuml; olması
     - D-) Bambu&rsquo;nun pop&uuml;ler olması
     - E-) Kağıdın icadı
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir tipografi terimi <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bir tipografi terimi <u>değildir</u>?</strong>
     - A-) Ligature
     - B-) Serif
     - **Cevap C-) Papir&uuml;s**
@@ -282,7 +282,7 @@
     - D-) Renk
     - **Cevap E-) Doku**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;alfabe&quot; s&ouml;zc&uuml;ğ&uuml;n&uuml;n anlamını ifade eder?</strong> 
+1. <strong>Aşağıdakilerden hangisi &quot;alfabe&quot; s&ouml;zc&uuml;ğ&uuml;n&uuml;n anlamını ifade eder?</strong>
     - **Cevap A-) Alpha ve Beta s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.**
     - B-) Alpha ve Tetra s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
     - C-) Alpha ve Delta s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
@@ -297,42 +297,42 @@
     - E-) Kalem
     <hr />
 ## Unite 4
-1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği alanlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği alanlarından biri <u>değildir</u>?</strong>
     - A-) Y&ouml;n grafiği
     - **Cevap B-) Ambalaj grafiği**
     - C-) Kimlik grafiği
     - D-) A&ccedil;ıklayıcı grafik
     - E-) D&uuml;zenleyici grafik
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden <u>değildir</u>?</strong>
     - A-) Bilgi vermek
     - B-) Y&ouml;n bulmak
     - C-) Satış yapmak
     - D-) Aidiyet duygusu yaratmak
     - **Cevap E-) Mek&acirc;nı tanımak**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Bilgi vermek
     - B-) Y&ouml;n bulmak
     - **Cevap C-) Satış yapmak**
     - D-) Aidiyet duygusu yaratmak
     - E-) Mek&acirc;nı tanımak
     <hr />
-1. <strong>Hangisi d&uuml;zenleyici &ccedil;evre grafiğine &ouml;rnek olabilir?</strong> 
+1. <strong>Hangisi d&uuml;zenleyici &ccedil;evre grafiğine &ouml;rnek olabilir?</strong>
     - **Cevap A-) Kural piktogramları**
     - B-) Site haritası
     - C-) M&uuml;ze kataloğu
     - D-) Apartman numarası
     - E-) Otel kat bilgilendirmesi
     <hr />
-1. <strong>Hangisi &ccedil;evresel grafik tasarımcının g&ouml;revlerinden <u>değildir</u>?</strong> 
+1. <strong>Hangisi &ccedil;evresel grafik tasarımcının g&ouml;revlerinden <u>değildir</u>?</strong>
     - A-) Oryantasyon
     - B-) Navigasyon
     - C-) Bilgilendirme
     - **Cevap D-) Her yeri renklendirme**
     - E-) Bellek oluşturma
     <hr />
-1. <strong>&Ccedil;evresel grafik tasarımının işlevini aşağıdakilerden hangisi <u>a&ccedil;ıklamaz</u>?</strong> 
+1. <strong>&Ccedil;evresel grafik tasarımının işlevini aşağıdakilerden hangisi <u>a&ccedil;ıklamaz</u>?</strong>
     - A-) Mek&acirc;na kimlik kazandırmak
     - B-) Ben neredeyim sorusuna cevap bulmak
     - C-) Mek&acirc;nı tanımlamak
@@ -349,21 +349,21 @@ III. Mek&acirc;nla uyum sağlayan grafikler<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>&Ccedil;evresel grafik tasarım elemanları kullanıcıya aşağıdakilerden hangisini <u>vermez</u>?</strong> 
+1. <strong>&Ccedil;evresel grafik tasarım elemanları kullanıcıya aşağıdakilerden hangisini <u>vermez</u>?</strong>
     - A-) A&ccedil;ıklayıcı bilgisi
     - B-) Y&ouml;n bilgisi
     - C-) Kural bilgisi
     - **Cevap D-) Zaman bilgisi**
     - E-) Kimlik bilgisi
     <hr />
-1. <strong>Hangisi bir &ccedil;evre grafiği &ouml;rneği <u>değildir</u>?</strong> 
+1. <strong>Hangisi bir &ccedil;evre grafiği &ouml;rneği <u>değildir</u>?</strong>
     - A-) Antik &ccedil;ağlardaki duvar resimleri
     - B-) Kent haritaları
     - **Cevap C-) Sinema afişleri**
     - D-) M&uuml;ze bilgilendirme panoları
     - E-) Otoban tabelaları
     <hr />
-1. <strong>&Ccedil;evresel grafik tasarım aşağıdaki hangi tasarım alanı kapsamına girer?</strong> 
+1. <strong>&Ccedil;evresel grafik tasarım aşağıdaki hangi tasarım alanı kapsamına girer?</strong>
     - **Cevap A-) Bilgilendirme Tasarımı**
     - B-) Ambalaj Tasarımı
     - C-) Reklam Fotoğraf&ccedil;ılığı
@@ -1223,7 +1223,7 @@ III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.<br />
     - **Cevap E-) Simon Junghans**
     <hr />
 1. 17. y&uuml;zyılda tuz, şeker, un gibi gıda maddeleri &ccedil;uvallarla d&uuml;kkanlara ulaşmakta, &hellip;&hellip;&hellip;&hellip;&hellip;. gibi ambalajlar i&ccedil;inde m&uuml;şterilere sunulmaktaydı.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) metal kutular
     - B-) polystren torbalar
     - **Cevap C-) kese k&acirc;ğıdı**

@@ -208,7 +208,7 @@ IV. Dijital Toplum<br />
     - D-) G&ouml;z &ouml;n&uuml;nde olma, sesini duyurma
     - **Cevap E-) Konum atma**
     <hr />
-1. <strong>&Ccedil;oğunlukla siyasi konuların konuşulduğu ve g&uuml;ndem oluşturulduğu sosyal medya aracı aşağıdakilerden hangisidir?</strong>
+1. <strong>&Ccedil;oğunlukla siyasi konuların konuşulduğu ve g&uuml;ndem oluşturulduğu sosyal medya aracı aşağıdakilerden hangisidir?
     - **Cevap A-) Twitter (X)**
     - B-) Instagram
     - C-) Facebook
@@ -927,7 +927,7 @@ III.&nbsp;13+ ve 18+ sembolleri programın yayını s&uuml;resince ekranın bir 
     - D-) K&uuml;lt&uuml;r
     - E-) Din
     <hr />
-1. <strong>İnternetin ilk d&ouml;nemine adını veren teknoloji aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>İnternetin ilk d&ouml;nemine adını veren teknoloji aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Web 1.0**
     - B-) Web 2.0
     - C-) Web 3.0

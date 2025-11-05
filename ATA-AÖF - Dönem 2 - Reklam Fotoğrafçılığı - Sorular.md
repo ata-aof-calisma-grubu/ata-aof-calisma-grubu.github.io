@@ -269,14 +269,14 @@
     - D-) su damlacıklarının yakalanması - s&uuml;t damlacıklarının havada yakalanması
     - E-) manzara - portre
     <hr />
-1. <strong>Diyafram a&ccedil;ıldık&ccedil;a (rakamsal olarak k&uuml;&ccedil;&uuml;ld&uuml;k&ccedil;e) alan derinliği ne olur?</strong> 
+1. <strong>Diyafram a&ccedil;ıldık&ccedil;a (rakamsal olarak k&uuml;&ccedil;&uuml;ld&uuml;k&ccedil;e) alan derinliği ne olur?</strong>
     - **Cevap A-) Azalır.**
     - B-) Artar.
     - C-) Sabit kalır.
     - D-) Enstantane y&uuml;kselir.
     - E-) İso değişir.
     <hr />
-1. <strong>ISO (International Standarts of Organization) değeri unutularak t&uuml;m fotoğraflar &ccedil;ekildiğinde ışık şartları arasındaki farklılıklar aşağıdaki olumsuzluklardan hangisi şeklinde fotoğraflarda karşımıza &ccedil;ıkar?</strong> 
+1. <strong>ISO (International Standarts of Organization) değeri unutularak t&uuml;m fotoğraflar &ccedil;ekildiğinde ışık şartları arasındaki farklılıklar aşağıdaki olumsuzluklardan hangisi şeklinde fotoğraflarda karşımıza &ccedil;ıkar?</strong>
     - A-) Işık patlaması
     - **Cevap B-) Noise (g&uuml;r&uuml;lt&uuml;)**
     - C-) Netsizlik
@@ -331,7 +331,7 @@ IV. Odak uzaklığı<br />
     - **Cevap E-) Kompozisyon**
     <hr />
 1. ........................, en basit şekilde ifade edilecek olursa &ldquo;aynanın/perdenin&rdquo; a&ccedil;ılıp kapanma hızıdır. Bir başka deyişle duyarlı y&uuml;zeye girecek olan ışığın s&uuml;resini belirler.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Enstantane**
     - B-) Kompozisyon
     - C-) Filtre
@@ -470,7 +470,7 @@ III. Hareketin y&ouml;n&uuml;<br />
     - E-) Filtre
     <hr />
 1. ................ fotoğraf, elektronik ve bilgisayar teknolojisi kullanılarak fotoğraf &ccedil;ekme ve elde edilen g&ouml;rseli sayısal olarak saklama sistemi olarak tanımlanır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Analog
     - **Cevap B-) Dijital**
     - C-) Portre
@@ -701,14 +701,14 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - **Cevap D-) Teknoloji**
     - E-) Renk
     <hr />
-1. <strong>Bir mal veya hizmeti kamuya duyurmak, tanıtmak, &uuml;r&uuml;ne ilişkin bilgi vermek, &ouml;vmek veya &uuml;r&uuml;n&uuml;n satışını artırmak i&ccedil;in kullanılacak olan g&ouml;rsel materyallerin, profesyonel ve/veya profesyonel olmayan kişiler tarafından &uuml;retilmesini ifade etmek i&ccedil;in kullanılan kavram aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir mal veya hizmeti kamuya duyurmak, tanıtmak, &uuml;r&uuml;ne ilişkin bilgi vermek, &ouml;vmek veya &uuml;r&uuml;n&uuml;n satışını artırmak i&ccedil;in kullanılacak olan g&ouml;rsel materyallerin, profesyonel ve/veya profesyonel olmayan kişiler tarafından &uuml;retilmesini ifade etmek i&ccedil;in kullanılan kavram aşağıdakilerden hangisidir?</strong>
     - A-) Tipografi
     - B-) Tanıtım
     - C-) Reklam
     - **Cevap D-) Reklam Fotoğraf&ccedil;ılığı**
     - E-) Afiş
     <hr />
-1. <strong>Amerikan başkanlık se&ccedil;imleri sırasında&nbsp;se&ccedil;im kampanyası i&ccedil;in fotoğraf&ccedil;ı Mathew Brady&#39;e poz veren başkan aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Amerikan başkanlık se&ccedil;imleri sırasında&nbsp;se&ccedil;im kampanyası i&ccedil;in fotoğraf&ccedil;ı Mathew Brady&#39;e poz veren başkan aşağıdakilerden hangisidir?</strong>
     - A-) Edward Steichen
     - **Cevap B-) Abraham Lincoln**
     - C-) Grover Cleveland
@@ -751,7 +751,7 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - D-) Işık &ouml;l&ccedil;&uuml;mlerinin yapılması
     - **Cevap E-) G&ouml;r&uuml;nt&uuml;lerin senaryoya uygun bi&ccedil;imde işlenmesi**
     <hr />
-1. <strong>Reklam fotoğraf&ccedil;ılığında mali konuları kontrol etmek, b&uuml;t&ccedil;eyi belirlemek ve &ccedil;ekim maliyetini hesaplamak aşağıdakilerden hangisinin g&ouml;revidir?</strong> 
+1. <strong>Reklam fotoğraf&ccedil;ılığında mali konuları kontrol etmek, b&uuml;t&ccedil;eyi belirlemek ve &ccedil;ekim maliyetini hesaplamak aşağıdakilerden hangisinin g&ouml;revidir?</strong>
     - A-) Maky&ouml;z
     - **Cevap B-) Yapımcı**
     - C-) Prod&uuml;ksiyon yardımcısı
@@ -845,7 +845,7 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
     - D-) Fotoşop&ccedil;uları
     - E-) Reklam fotoğraf&ccedil;ılarını
     <hr />
-1. <strong>Reklam fotoğrafhaneleri gelişen ve değişen şartlar sonucunda ne t&uuml;r bir yapıya d&ouml;n&uuml;şm&uuml;şlerdir?</strong> 
+1. <strong>Reklam fotoğrafhaneleri gelişen ve değişen şartlar sonucunda ne t&uuml;r bir yapıya d&ouml;n&uuml;şm&uuml;şlerdir?</strong>
     - A-) Alimin&uuml;t&ccedil;&uuml; d&uuml;kkanına
     - B-) Fotoğraf malzemesi toptancılarına
     - C-) Matbaalara
@@ -863,7 +863,7 @@ III. Boyutlarının b&uuml;y&uuml;k olması sebebiyle&nbsp;kartlarda, taşıyıc
 1. I. Hemen her konuya &ccedil;&ouml;z&uuml;m oluşturması gerektiği i&ccedil;in adeta &ldquo;maymuncuk&rdquo; gibi her kapıyı a&ccedil;ar.<br />
 II. Ajansın yaptığı anlaşmaları takip eden ve anlaşma ekseninde yerine getirilmesi gerekenleri organize eder.<br />
 III. &Uuml;r&uuml;n tanıtımı i&ccedil;in gelen m&uuml;şterinin o &uuml;r&uuml;n tanıtımı i&ccedil;in ne t&uuml;r beklentilere sahip olduğunu &ouml;ğrenip ekibe aktarır.<br />
-<strong>G&ouml;revleri sıralanan ajans birimi aşağıdakilerden hangisidir?</strong> 
+<strong>G&ouml;revleri sıralanan ajans birimi aşağıdakilerden hangisidir?</strong>
     - A-) Sekreter
     - **Cevap B-) Prod&uuml;ks&uuml;yon yardımcısı**
     - C-) Tasarım ekibi
@@ -1016,28 +1016,28 @@ IV. Genellikle, yardımcı ışık ana ışığa oranla daha şiddetli kullanıl
     - D-) Kelebek ışık
     - E-) S&uuml;z&uuml;lm&uuml;ş ışık
     <hr />
-1. <strong>İki ışık aydınlatmasında kullanılan ışıklar aşağıdaki hangi şıkta doğru olarak verilmiştir?</strong> 
+1. <strong>İki ışık aydınlatmasında kullanılan ışıklar aşağıdaki hangi şıkta doğru olarak verilmiştir?</strong>
     - A-) Anahtar Işık, Ana Işık
     - B-) Ana Işık, Yansımış Işık
     - C-) S&uuml;z&uuml;lm&uuml;ş Işık, Dolgu Işığı
     - **Cevap D-) Anahtar Işık, Dolgu Işığı**
     - E-) Anahtar Işık, Tepe Işığı
     <hr />
-1. <strong>Işık, konuyu aydınlatırken şiddetli aydınlattığı b&ouml;lgeden daha az şiddetli aydınlattığı b&ouml;lgeye doğru ilerlerken g&uuml;&ccedil; kaybederek yoluna devam eder. Işığın konu &uuml;zerinde oluşturduğu bu değişim fotoğraf&ccedil;ılıkta aşağıdaki hangi kavram ile ifade edilmektedir?&nbsp;</strong>
+1. <strong>Işık, konuyu aydınlatırken şiddetli aydınlattığı b&ouml;lgeden daha az şiddetli aydınlattığı b&ouml;lgeye doğru ilerlerken g&uuml;&ccedil; kaybederek yoluna devam eder. Işığın konu &uuml;zerinde oluşturduğu bu değişim fotoğraf&ccedil;ılıkta aşağıdaki hangi kavram ile ifade edilmektedir?</strong>
     - **Cevap A-) Ton Farkı**
     - B-) Kontrast
     - C-) Fon Işığı
     - D-) Ortam Işığı
     - E-) Tepe Işığı
     <hr />
-1. <strong>İster doğal ister yapay olsun ışığın konuyu aydınlatma h&acirc;lleri aşağıdakilerden hangisinde doğru verilmiştir?</strong> 
+1. <strong>İster doğal ister yapay olsun ışığın konuyu aydınlatma h&acirc;lleri aşağıdakilerden hangisinde doğru verilmiştir?</strong>
     - **Cevap A-) Doğrudan aydınlatma, yansıyarak aydınlatma ve s&uuml;z&uuml;lerek aydınlatma**
     - B-) Doğrudan aydınlatma, tepe aydınlatma ve fon aydınlatma
     - C-) Doğrudan aydınlatma, yansıyarak aydınlatma, fon Aydınlatma
     - D-) Cephe aydınlatma, yansıyarak aydınlatma ve fon aydınlatma
     - E-) Cephe aydınlatma, tepe aydınlatma, s&uuml;z&uuml;lerek aydınlatma
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığında aydınlatma &ccedil;eşitlerinden biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığında aydınlatma &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
     - A-) &Ouml;zel Işık
     - B-) &Uuml;&ccedil; Işıklı
     - C-) İki Işıklı
@@ -1295,7 +1295,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Disket
     - E-) Kart okuyucu
     <hr />
-1. <strong>&Ccedil;ekim sonrası&nbsp;(Post-Prod&uuml;ksiyon) aşamasından baskı aşamasına kadarki s&uuml;re&ccedil;te kullanılan monit&ouml;rlerin renk kalibrasyonunun doğruluğunun &ouml;nemi aşağıdakilerin hangisinde a&ccedil;ık&ccedil;a belirtilmiştir?</strong>
+1. <strong>&Ccedil;ekim sonrası&nbsp;(Post-Prod&uuml;ksiyon)&nbsp;aşamasından baskı aşamasına kadarki s&uuml;re&ccedil;te kullanılan monit&ouml;rlerin renk kalibrasyonunun doğruluğunun &ouml;nemi aşağıdakilerin hangisinde a&ccedil;ık&ccedil;a belirtilmiştir?</strong>
     - A-) Kalibrasyonu doğru olmayan monit&ouml;rlerde &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k y&uuml;ksek olacaktır.
     - B-) Kalibrasyonu doğru olmayan monit&ouml;rler maliyeti ucuz olduğu i&ccedil;in tercih edilir.
     - C-) Kalibrasyonu doğru olmayan monit&ouml;rler ikincil monit&ouml;r olarak kullanılmaktadır.
@@ -1338,7 +1338,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Fotoğraf&ccedil;ıların m&uuml;şteri portf&ouml;y&uuml;
     - E-) Fotoğraf&ccedil;ıların, m&uuml;şterilerine daha kaliteli hizmet verme anlayışı
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığının uzmanlık alanları arasında <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığının uzmanlık alanları arasında <u>yer almaz</u>?</strong>
     - A-) Mimari
     - B-) Moda
     - **Cevap C-) Haber**
@@ -1401,7 +1401,7 @@ III. Herhangi bir metal kap, teneke ya da siyah kutu iğne deliği fotoğraf mak
     - D-) Farklı end&uuml;striyel alanların kendine &ouml;zg&uuml; kurallarını bilmesi
     - E-) Fotoğraf&ccedil;ının mesleki deneyimi
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir fotoğraf&ccedil;ı i&ccedil;in profesyonel tanımlaması yapılabilmesi i&ccedil;in gerekli bir niteliktir? </strong>
+1. <strong>Aşağıdakilerden hangisi bir fotoğraf&ccedil;ı i&ccedil;in profesyonel tanımlaması yapılabilmesi i&ccedil;in gerekli bir niteliktir?</strong>
     - A-) Fotoğraf eğitimi almış olması
     - B-) Kamerasının yeni bir model olması
     - **Cevap C-) &Ccedil;ektiği fotoğraflardan d&uuml;zenli olarak gelir elde etmesi**
@@ -1528,7 +1528,7 @@ III. Kumaş y&uuml;zeyli &uuml;r&uuml;nler<br />
     - D-) Alt ışık
     - E-) Tepe ışığı
     <hr />
-1. <strong>Stil life olarak adlandırılan &ccedil;ekim tekniği aşağıdaki alanlardan hangisinde <u>uygulanmaz</u>? </strong>
+1. <strong>Stil life olarak adlandırılan &ccedil;ekim tekniği aşağıdaki alanlardan hangisinde <u>uygulanmaz</u>?</strong>
     - A-) Yemek &ccedil;ekimleri
     - B-) İ&ccedil;ecek &ccedil;ekimleri
     - C-) End&uuml;striyel &uuml;r&uuml;nler
@@ -1566,7 +1566,7 @@ III. Kumaş y&uuml;zeyli &uuml;r&uuml;nler<br />
     - **Cevap E-) S&uuml;rpriz yapma**
     <hr />
 1. ......................, reklam kampanyalarının en dikkat &ccedil;ekici ve akılda kalmasını sağlayıcı unsurudur. Markanın, t&uuml;keticinin zihninde belirli bir &ouml;zelliğiyle ya da istenilen bi&ccedil;imde yerleşmesini ve anımsanmasını sağlamak amacıyla kullanılan ve tekrarlanan &ccedil;arpıcı s&ouml;zd&uuml;r.<br />
-<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Metin
     - **Cevap B-) Slogan**
     - C-) Hitabet
@@ -1619,7 +1619,7 @@ III. Hedef kitlenin olumsuz davranışları<br />
     - D-) Reklam
     - E-) Spot
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam mesajını iletmede başvurulan ve anlam oluşumunu sağlayan unsurlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam mesajını iletmede başvurulan ve anlam oluşumunu sağlayan unsurlardan biri <u>değildir</u>?</strong>
     - A-) Grafik
     - B-) Metin
     - C-) Slogan
@@ -1650,7 +1650,7 @@ III. &Ccedil;ok sayıda anahtar s&ouml;zc&uuml;k yoluyla geliştirilir.<br />
     - D-) Reklam ama&ccedil;lanan doğrultuda g&ouml;rselleştirilmelidir.
     - E-) Mesaj, fotoğraf aracılığıyla en hızlı bi&ccedil;imde verilmelidir.
     <hr />
-1.&nbsp;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;., &ccedil;ağdaş k&uuml;lt&uuml;rler tarafından genellikle basit, resimsel, temsil&icirc; semboller olarak kullanılmaktadır.<br />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;., &ccedil;ağdaş k&uuml;lt&uuml;rler tarafından genellikle basit, resimsel, temsil&icirc; semboller olarak kullanılmaktadır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Amblem
     - B-) Grafiti
@@ -1728,7 +1728,7 @@ III. Nesnelerin istenmeyen y&ouml;nlerini karartarak belirsizleştirmek<br />
     - E-) &Ccedil;&ouml;z&uuml;mleme
     <hr />
 1. ....................., &ccedil;ok iyi tanındığı veya aleniyete ihtiyacı olmadığı i&ccedil;in &uuml;r&uuml;n adının sarf edilmediği ve bir sır saklanıyormuş gibi tasarımlanan reklamlardır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Eksilti
     - B-) Dolaylı eksilti
     - **Cevap C-) Preterition**

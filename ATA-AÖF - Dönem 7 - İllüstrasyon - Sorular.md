@@ -629,7 +629,7 @@ Bu bağlamda ilk d&ouml;nem Japon sanatı i&ccedil;in aşağıdakilerden hangisi
 1. I.&nbsp;Cerrahi &uuml;zerine ilk resimli kitap olması<br />
 II.&nbsp;Şerafeddin Sabuncuoğlu tarafından yazılması<br />
 III. Kitaptaki ill&uuml;strasyonların &ccedil;eşitli tıbbi metotlar, prosed&uuml;rler ve hastalıkları betimlemesi<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Cerrahiyet&uuml;l Haniyye kitabı hakkındadır?&nbsp;</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri Cerrahiyet&uuml;l Haniyye kitabı hakkındadır?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III

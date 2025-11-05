@@ -1,6 +1,6 @@
 # Görsel İletişim Tasarımı
 ## Unite 1
-1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinin temel &ouml;gelerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinin temel &ouml;gelerinden biridir?</strong>
     - **Cevap A-) Mesaj**
     - B-) Bilgisayar
     - C-) Ekran
@@ -14,7 +14,7 @@
     - D-) Alıcı
     - **Cevap E-) G&uuml;r&uuml;lt&uuml;**
     <hr />
-1. <strong>Mesajı g&ouml;nderme davranışını sergileyerek iletişim s&uuml;recini başlatan temel unsur aşağıdakilerden hangisidir?</strong> 
+1. <strong>Mesajı g&ouml;nderme davranışını sergileyerek iletişim s&uuml;recini başlatan temel unsur aşağıdakilerden hangisidir?</strong>
     - A-) Geri bildirim
     - B-) Kod
     - **Cevap C-) Kaynak**
@@ -31,7 +31,7 @@ III. Algılama farklılıkları<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Belirli g&ouml;stergelerden oluşan, k&uuml;lt&uuml;rel paylaşımlar ve sosyal olgular &ccedil;er&ccedil;evesinde anlamlandırılan &ouml;ğe aşağıdakilerden hangisidir?</strong> 
+1. <strong>Belirli g&ouml;stergelerden oluşan, k&uuml;lt&uuml;rel paylaşımlar ve sosyal olgular &ccedil;er&ccedil;evesinde anlamlandırılan &ouml;ğe aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kod**
     - B-) G&uuml;r&uuml;lt&uuml;
     - C-) Kaynak
@@ -45,42 +45,42 @@ III. Algılama farklılıkları<br />
     - D-) G&uuml;r&uuml;lt&uuml;
     - E-) Geri bildirim
     <hr />
-1. <strong>Bir ara&ccedil; olmadan iletişimin ger&ccedil;ekleştirilmesinin m&uuml;mk&uuml;n olmadığı ileti aktarım s&uuml;recinde, aşağıdaki hangi s&ouml;zs&uuml;z iletişim arg&uuml;manı kanal olma g&ouml;revini yerine <u>getirmemektedir</u>?</strong> 
+1. <strong>Bir ara&ccedil; olmadan iletişimin ger&ccedil;ekleştirilmesinin m&uuml;mk&uuml;n olmadığı ileti aktarım s&uuml;recinde, aşağıdaki hangi s&ouml;zs&uuml;z iletişim arg&uuml;manı kanal olma g&ouml;revini yerine <u>getirmemektedir</u>?</strong>
     - A-) Jest ve mimikler
     - B-) Ses tonu
     - C-) Beden dili
     - D-) Vurgu
     - **Cevap E-) Radyo**
     <hr />
-1. <strong>İletinin / mesajın ulaştırılmasının hedeflendiği kişi, grup veya topluluk aşağıdakilerden hangisiyle adlandırılmaktadır?</strong> 
+1. <strong>İletinin / mesajın ulaştırılmasının hedeflendiği kişi, grup veya topluluk aşağıdakilerden hangisiyle adlandırılmaktadır?</strong>
     - A-) G&uuml;r&uuml;lt&uuml;
     - **Cevap B-) Alıcı**
     - C-) Kanal
     - D-) Kod
     - E-) Geri bildirim
     <hr />
-1. <strong>İletişim s&uuml;recinin tamamlanması adına, iletinin doğru ve etkin şekilde aktarıldığının teyit edildiği ve alıcıdan tepki alındığı temel &ouml;ge aşağıdakilerden hangisidir?</strong> 
+1. <strong>İletişim s&uuml;recinin tamamlanması adına, iletinin doğru ve etkin şekilde aktarıldığının teyit edildiği ve alıcıdan tepki alındığı temel &ouml;ge aşağıdakilerden hangisidir?</strong>
     - A-) Kod
     - B-) Kaynak
     - C-) Kanal
     - **Cevap D-) Geri bildirim**
     - E-) G&uuml;r&uuml;lt&uuml;
     <hr />
-1. <strong>İletişim s&uuml;recinin doğru ve etkin işlemesini gerektiren yapısını sekteye uğratan iletişim s&uuml;recinin temel &ouml;gesi aşağıdakilerden hangisidir?</strong> 
+1. <strong>İletişim s&uuml;recinin doğru ve etkin işlemesini gerektiren yapısını sekteye uğratan iletişim s&uuml;recinin temel &ouml;gesi aşağıdakilerden hangisidir?</strong>
     - A-) Geri bildirim
     - B-) Mesaj
     - **Cevap C-) G&uuml;r&uuml;lt&uuml;**
     - D-) Kod
     - E-) Kanal
     <hr />
-1. <strong>Aşağıdakilerden hangisi iletişim t&uuml;rleri arasında <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi iletişim t&uuml;rleri arasında <u>yer almaz</u>?</strong>
     - A-) S&ouml;zs&uuml;z iletişim
     - B-) S&ouml;zl&uuml; iletişim
     - **Cevap C-) Yatay iletişim**
     - D-) Yazılı iletişim
     - E-) G&ouml;rsel iletişim
     <hr />
-1. <strong>Sosyal bir varlık olan birey tarafından geliştirilen ve v&uuml;cut dili (iletişimi) olarak addedilen y&uuml;z, g&ouml;z, el ve kol hareketlerinden oluşan iletişim t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sosyal bir varlık olan birey tarafından geliştirilen ve v&uuml;cut dili (iletişimi) olarak addedilen y&uuml;z, g&ouml;z, el ve kol hareketlerinden oluşan iletişim t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) S&ouml;zl&uuml; iletişim
     - **Cevap B-) S&ouml;zs&uuml;z iletişim**
     - C-) Yazılı iletişim
@@ -95,35 +95,35 @@ III. Algılama farklılıkları<br />
     - **Cevap D-) S&ouml;zl&uuml; iletişim**
     - E-) S&ouml;zs&uuml;z iletişim
     <hr />
-1. <strong>Aşağıdakilerden hangisi anlık olma durumunu gerektirmeyen, tekrar okunma ve tekrar irdelenme, kayıt altına alınabilme ve saklanabilme &ouml;zelliğine sahip bir iletişim t&uuml;r&uuml;d&uuml;r?</strong> 
+1. <strong>Aşağıdakilerden hangisi anlık olma durumunu gerektirmeyen, tekrar okunma ve tekrar irdelenme, kayıt altına alınabilme ve saklanabilme &ouml;zelliğine sahip bir iletişim t&uuml;r&uuml;d&uuml;r?</strong>
     - **Cevap A-) Yazılı iletişim**
     - B-) S&ouml;zl&uuml; iletişim
     - C-) G&ouml;rsel iletişim
     - D-) S&ouml;zs&uuml;z iletişim
     - E-) Gazete
     <hr />
-1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinde karşılaşılan psikolojik ve sosyal engellerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recinde karşılaşılan psikolojik ve sosyal engellerden biri <u>değildir</u>?</strong>
     - A-) &Ouml;nyargılar
     - **Cevap B-) Kanal ve ara&ccedil;lar ile ilgili engeller**
     - C-) Sosyok&uuml;lt&uuml;rel farklar
     - D-) G&ouml;r&uuml;ş farklılıkları
     - E-) Sahip olunan bilgi d&uuml;zeyi
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim kaynaklarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim kaynaklarından biri <u>değildir</u>?</strong>
     - A-) Logolar
     - B-) İşaret levhaları
     - **Cevap C-) Beden dili**
     - D-) Afişler
     - E-) Fotoğraflar
     <hr />
-1. <strong>Sesleri, s&ouml;zc&uuml;kleri, sembolleri, imgeleri ve g&ouml;r&uuml;nt&uuml;leri bireylerin ne şekilde anlamlandırdıklarını a&ccedil;ıklamayı hedefleyen bilim dalı aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sesleri, s&ouml;zc&uuml;kleri, sembolleri, imgeleri ve g&ouml;r&uuml;nt&uuml;leri bireylerin ne şekilde anlamlandırdıklarını a&ccedil;ıklamayı hedefleyen bilim dalı aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) G&ouml;stergebilim**
     - B-) Etimoloji
     - C-) Psikoloji
     - D-) Sosyoloji
     - E-) Filoloji
     <hr />
-1. <strong>G&ouml;stergenin kendisi, i&ccedil;inde g&ouml;stergelerin d&uuml;zenlendiği kodlar ve g&ouml;stergelerin i&ccedil;inde işlediği k&uuml;lt&uuml;r gibi &ccedil;alışma alanlarına odaklanan bilim dalı aşağıdakilerden hangisidir?</strong> 
+1. <strong>G&ouml;stergenin kendisi, i&ccedil;inde g&ouml;stergelerin d&uuml;zenlendiği kodlar ve g&ouml;stergelerin i&ccedil;inde işlediği k&uuml;lt&uuml;r gibi &ccedil;alışma alanlarına odaklanan bilim dalı aşağıdakilerden hangisidir?</strong>
     - A-) İletişim
     - B-) Antropoloji
     - C-) Filoloji
@@ -180,7 +180,7 @@ III. Algılama farklılıkları<br />
     - D-) Resim
     - **Cevap E-) Mağara duvarlarına &ccedil;izilen hiyeroglif**
     <hr />
-1. <strong>Aşağıdakilerden hangisi 1891-1896 yılları arasında William Morris&rsquo;in &ccedil;alışma alanlarından biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi 1891-1896 yılları arasında William Morris&rsquo;in &ccedil;alışma alanlarından biridir?</strong>
     - A-) Desen
     - B-) İletişim
     - **Cevap C-) Grafik-Tasarım**
@@ -195,42 +195,42 @@ III. Algılama farklılıkları<br />
     - D-) Kitle iletişimi
     - E-) Kişiler arası iletişim
     <hr />
-1. <strong>G&ouml;rsel iletişimde bireyin mesajı&nbsp;anlamlandırma s&uuml;recinin ilk basamağında yer alan duyu aşağıdakilerden hangisidir?</strong> 
+1. <strong>G&ouml;rsel iletişimde bireyin mesajı&nbsp;anlamlandırma s&uuml;recinin ilk basamağında yer alan duyu aşağıdakilerden hangisidir?</strong>
     - A-) Koklama
     - B-) Duyma
     - C-) Konuşma
     - **Cevap D-) G&ouml;rme**
     - E-) Tat alma
     <hr />
-1. <strong>Avrupa&rsquo;da matbaanın icadı ile ilk olarak hangi i&ccedil;erikli kitaplar basılmıştır?</strong> 
+1. <strong>Avrupa&rsquo;da matbaanın icadı ile ilk olarak hangi i&ccedil;erikli kitaplar basılmıştır?</strong>
     - **Cevap A-) Din&icirc;**
     - B-) Edeb&icirc;
     - C-) Bilimsel
     - D-) Politik
     - E-) Ekonomik
     <hr />
-1. <strong>1919 yılında Almanya&rsquo;da a&ccedil;ılan sanat ve tasarım alanında bir&ccedil;ok yeniliğin &ouml;nc&uuml;s&uuml; olan okul aşağıdakilerden hangisidir?</strong> 
+1. <strong>1919 yılında Almanya&rsquo;da a&ccedil;ılan sanat ve tasarım alanında bir&ccedil;ok yeniliğin &ouml;nc&uuml;s&uuml; olan okul aşağıdakilerden hangisidir?</strong>
     - A-) Papua Yeni Gine
     - **Cevap B-) Bauhaus**
     - C-) Melbourne
     - D-) Penleigh and Essendon
     - E-) Ivy Bound
     <hr />
-1. <strong>Aşağıdakilerden hangisi ilkel mağara resimlerinde betimlenen hayvanlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi ilkel mağara resimlerinde betimlenen hayvanlardan biri <u>değildir</u>?</strong>
     - A-) Mamut
     - **Cevap B-) Karınca**
     - C-) Aslan
     - D-) Tavşan
     - E-) Ren geyiği
     <hr />
-1. <strong>Aşağıdakilerden hangisi savaş d&ouml;nemlerinde &uuml;retilen g&ouml;rsel afişlerin ama&ccedil;larından biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi savaş d&ouml;nemlerinde &uuml;retilen g&ouml;rsel afişlerin ama&ccedil;larından biridir?</strong>
     - A-) Eğlendirmek
     - B-) Bilgilendirmek
     - C-) G&uuml;ld&uuml;rmek
     - **Cevap D-) Asker toplamak**
     - E-) Eğitmek
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir iletişim aracı <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir iletişim aracı <u>değildir</u>?</strong>
     - A-) Afiş
     - **Cevap B-) Telgraf**
     - C-) Bilgisayar
@@ -248,35 +248,35 @@ IV. Yazı<br />
     - D-) IV-II-III-I
     - E-) II-IV-I-III
     <hr />
-1. <strong>İnsanın doğduğu andan itibaren etrafını g&ouml;zlemleyebildiği ve algılamasında yardımcı olan organları aşağıdakilerden hangisidir?</strong> 
+1. <strong>İnsanın doğduğu andan itibaren etrafını g&ouml;zlemleyebildiği ve algılamasında yardımcı olan organları aşağıdakilerden hangisidir?</strong>
     - A-) Kulak ve ağız
     - B-) G&ouml;z ve kulak
     - C-) Ağız ve beyin
     - **Cevap D-) G&ouml;z ve beyin**
     - E-) Burun ve g&ouml;z
     <hr />
-1. <strong>&Uuml;r&uuml;n kataloglarının baskısı i&ccedil;in ilk kullanılan malzeme aşağıdakilerden hangisidir?</strong> 
+1. <strong>&Uuml;r&uuml;n kataloglarının baskısı i&ccedil;in ilk kullanılan malzeme aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Gravat&uuml;r baskılar**
     - B-) Fotograflar
     - C-) &Ccedil;izgi Romanlar
     - D-) Kara kalem
     - E-) Pastel Boya
     <hr />
-1. <strong>Aşağıdakilerden hangisi ilkel mağara resimlerinde işlenen konulardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi ilkel mağara resimlerinde işlenen konulardan biri <u>değildir</u>?</strong>
     - A-) Av sahneleri
     - B-) İnsanlarla hayvanların arasındaki etkileşim
     - **Cevap C-) Aile ilişkileri**
     - D-) Hayvan fig&uuml;rleri
     - E-) İnsan-doğa arasındaki etkileşim
     <hr />
-1. <strong>İletişim kelimesi k&ouml;kenini aşağıdaki hangi Fransızca kelimeden almaktadır?</strong> 
+1. <strong>İletişim kelimesi k&ouml;kenini aşağıdaki hangi Fransızca kelimeden almaktadır?</strong>
     - A-) Public cible
     - **Cevap B-) Communication**
     - C-) Images de la grotte
     - D-) Communication visuelle
     - E-) Conception
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir iletişim aracıdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir iletişim aracıdır?</strong>
     - A-) Mektup
     - B-) Telgraf
     - C-) Kitap
@@ -300,7 +300,7 @@ IV. Yazı<br />
 1. I. Sanayi Devrimi ile teknolojik aygıtların &ccedil;oğalması, g&ouml;rsel iletişimin hız kazanmasını sağlamıştır.<br />
 II. Sosyal ve k&uuml;lt&uuml;rel paylaşımlar g&ouml;rsel iletişim aracılığıyla ger&ccedil;ekleşmektedir.<br />
 III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak istenen mesajın etkisi arttırır.<br />
-<strong>G&ouml;rsel iletişim ile ilgili olarak yukarıdaki a&ccedil;ıklamalardan hangisi ya da hangileri doğrudur?&nbsp;</strong>
+<strong>G&ouml;rsel iletişim ile ilgili olarak yukarıdaki a&ccedil;ıklamalardan hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -315,7 +315,7 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - E-) Bradbury Thompson
     <hr />
 ## Unite 3
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlıkla ilgili&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlıkla ilgili&nbsp;<u>değildir</u>?</strong>
     - A-) G&ouml;rsel okuryazarlık i&ccedil;in &ccedil;ok perspektifli bir yaklaşım ve donanım gereklidir.
     - B-) G&ouml;rsel okuryazarlık 1950 ve 1960&#39;lı yıllarda pedagojik i&ccedil;erikli bir kavram olarak ele alınmıştır.
     - C-) G&ouml;rsel okuryazarlık eleştirel d&uuml;ş&uuml;nmeyi gerektirmektedir.
@@ -329,105 +329,105 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - D-) Televizyon
     - **Cevap E-) Radyo**
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlığın işlemsel s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlığın işlemsel s&uuml;re&ccedil;lerinden biri <u>değildir</u>?</strong>
     - A-) G&ouml;rme
     - B-) Tasarımlama
     - C-) Kodlama
     - **Cevap D-) Filtreleme**
     - E-) &Ccedil;&ouml;z&uuml;mleme
     <hr />
-1. <strong>Aşağıdakilerden hangisi sosyal medyaya bir okuryazar g&ouml;z&uuml;yle bakıldığında dikkat edilmesi gereken&nbsp;hususlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi sosyal medyaya bir okuryazar g&ouml;z&uuml;yle bakıldığında dikkat edilmesi gereken&nbsp;hususlardan biri <u>değildir</u>?</strong>
     - A-) Ger&ccedil;ek-kurgu ayrımı
     - B-) R&ouml;ntgencilik-teşhircilik
     - C-) Dezenformasyon
     - D-) Duygusal ve d&uuml;ş&uuml;nsel etkinlik
     - **Cevap E-) Beğenilme d&uuml;zeyi**
     <hr />
-1. <strong>Aşağıdakilerden hangisi sinema i&ccedil;in <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi sinema i&ccedil;in <u>yanlıştır</u>?</strong>
     - **Cevap A-) İlk film g&ouml;sterimi 1900&rsquo;de İngiltere&rsquo;de olmuştur.**
     - B-) G&ouml;z&uuml;n &ldquo;Ağ Tabaka İzlenimi&rdquo; sayesinde doğmuştur.
     - C-) Yunanca &ldquo;kinema&rdquo;(hareket) ile &ldquo;graphein&rdquo;(yazmak) kelimelerinin birleşimi olan sinematograf aygıtını Lumiere Kardeşler icat etmiştir.
     - D-) Sinemanın yolculuğu &ldquo;Tren&rsquo;in Ciotat Garı&rsquo;na Girişi&rdquo; filmi ile başlamıştır.
     - E-) &Ouml;yk&uuml;l&uuml; filmlerin babası George Melies&rsquo;tir.
     <hr />
-1. <strong>Film eleştirisine y&ouml;nelik aşağıdaki c&uuml;mlelerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Film eleştirisine y&ouml;nelik aşağıdaki c&uuml;mlelerden hangisi <u>yanlıştır</u>?</strong>
     - **Cevap A-) Auteur yaklaşım filmi bir dil olarak ele alıp filmsel g&ouml;stergeleri &ccedil;&ouml;z&uuml;mler.**
     - B-) Sosyolojik yaklaşım filmlerde sosyal kurumların nasıl yansıtıldığını inceler.
     - C-) Filmin ideolojik olarak nasıl bir duruşa sahip olduğu ideolojik yaklaşımla ortaya konmaktadır.
     - D-) Psikanalitik yaklaşım filmi bireysel ve toplumsal bir dışavurum olarak değerlendirmektedir.
     - E-) Feminist eleştiri, filmdeki toplumsal cinsiyet ve kadın-erkek rollerinin nasıl yansıtıldığını incelemektedir.
     <hr />
-1. <strong>Fotoğraf ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Fotoğraf ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Teknolojik bir sanattır.
     - B-) Karanlık kutu, optik sistem ve ışığa duyarlı y&uuml;zey olmak &uuml;zere &uuml;&ccedil; unsurdan oluşur.
     - **Cevap C-) Resimle karşılaştırınca fotoğraftaki ger&ccedil;eklik daha azdır.**
     - D-) &Uuml;&ccedil; boyutu iki boyuta aktarır.
     - E-) Mekanik &ccedil;oğaltmaya imk&acirc;n tanır.
     <hr />
-1. <strong>Aşağıdakilerden hangisinde bir fotoğraf okumasındaki aşamalar doğru olarak verilmiştir?</strong> 
+1. <strong>Aşağıdakilerden hangisinde bir fotoğraf okumasındaki aşamalar doğru olarak verilmiştir?</strong>
     - **Cevap A-) Betimleme- yorumlama**
     - B-) Yorumlama- tartışma
     - C-) Tasvir etme- tartışma
     - D-) Tanımlama- betimleme
     - E-) Tanımlama- analiz etme
     <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi g&ouml;rsel okuryazarlık i&ccedil;in <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıdaki ifadelerden hangisi g&ouml;rsel okuryazarlık i&ccedil;in <u>yanlıştır</u>?</strong>
     - A-) G&uuml;n&uuml;m&uuml;zde okuryazarlık deyince yazılı bir metni okuyup yazabilme kastedilmemekte, bir konuda etraflıca bilgi ve deneyim birikimini ifade edilmektedir.
     - B-) Ara&ccedil;lar ve bilgi &ccedil;eşitliliği arttık&ccedil;a okuryazarlık &ccedil;eşitleri de &ccedil;oğalmaktadır.
     - C-) G&uuml;n&uuml;m&uuml;z insanı i&ccedil;in g&ouml;rsel okuryazarlığın &ouml;nemi her ge&ccedil;en g&uuml;n artmaktadır.
     - D-) G&ouml;rsel iletişim yazılı iletişimden daha etkilidir.
     - **Cevap E-) Teknoloji geliştik&ccedil;e g&ouml;rselliğin &ouml;nemi azalmaktadır.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlıkla ilgilidir?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlıkla ilgilidir?</strong>
     - **Cevap A-) İlk olarak John L. Debes tarafından kullanılmıştır.**
     - B-) Sadece estetik bir bakış a&ccedil;ısı yeterlidir.
     - C-) G&ouml;rme duyusu olan herkes iyi bir g&ouml;rsel okuryazardır.
     - D-) 1900&rsquo;lerin başında her alanda &ccedil;ok&ccedil;a tartışılır olmuştur.
     - E-) G&uuml;n&uuml;m&uuml;zde g&ouml;rsel materyaller hem &ccedil;eşitlilik hem de sayıca olduk&ccedil;a fazladır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlığın konusudur?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel okuryazarlığın konusudur?</strong>
     - **Cevap A-) İnternet reklamları**
     - B-) Radyo programları
     - C-) Kitap
     - D-) Matbaa
     - E-) Telgraf
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni medya ara&ccedil;larından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi yeni medya ara&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) Tabletler
     - **Cevap B-) Gazeteler**
     - C-) İnteraktif televizyonlar
     - D-) Bilgisayarlar
     - E-) Akıllı telefonlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni medyayı geleneksel medyadan ayıran &ouml;zelliklerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi yeni medyayı geleneksel medyadan ayıran &ouml;zelliklerden biri <u>değildir</u>?</strong>
     - A-) İnteraktiflik
     - B-) Sanallık
     - C-) Metinlerarasılık
     - **Cevap D-) Ticarilik**
     - E-) Eşzamansızlık
     <hr />
-1. <strong>Aşağıdakilerden hangisi afiş &ccedil;eşitlerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi afiş &ccedil;eşitlerinden biridir?</strong>
     - A-) Sinema Afişleri
     - B-) Coğrafi Afişler
     - C-) Tarihsel Afişler
     - **Cevap D-) K&uuml;lt&uuml;rel Afişler**
     - E-) İklim Afişleri
     <hr />
-1. <strong>Aşağıdakilerden hangisi sinema i&ccedil;in <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi sinema i&ccedil;in <u>yanlıştır</u>?</strong>
     - A-) Teknolojik ve kitlesel bir sanattır.
     - B-) Bilimsel gelişmeler sonunda icat edilmiştir.
     - C-) End&uuml;striyel bir sanattır.
     - D-) Kısa s&uuml;rede d&uuml;nyaya yayılmıştır.
     - **Cevap E-) Fotoğrafın &ouml;nc&uuml;s&uuml;d&uuml;r.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi film okumasında kullanılabilecek eleştirel yaklaşımlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi film okumasında kullanılabilecek eleştirel yaklaşımlardan biri <u>değildir</u>?</strong>
     - A-) Auteur
     - B-) G&ouml;stergebilim
     - C-) Psikanalitik
     - D-) Tarihsel
     - **Cevap E-) End&uuml;striyel**
     <hr />
-1. <strong>G&ouml;rsel okuryazarlıkta g&ouml;rseli okuyanın, kendine ve okuma s&uuml;recine d&ouml;n&uuml;k sorgulaması ve okunan materyale y&ouml;nelik yargıda bulunmasının s&ouml;z konusu olduğu işlemsel s&uuml;re&ccedil; aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>G&ouml;rsel okuryazarlıkta g&ouml;rseli okuyanın, kendine ve okuma s&uuml;recine d&ouml;n&uuml;k sorgulaması ve okunan materyale y&ouml;nelik yargıda bulunmasının s&ouml;z konusu olduğu işlemsel s&uuml;re&ccedil; aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Değerlendirme**
     - B-) Kodlama
     - C-) &Ccedil;&ouml;z&uuml;mleme
@@ -448,7 +448,7 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - D-) G&ouml;rsel okuryazarlık bir&ccedil;ok disiplinin etkin olduğu ve kullanıldığı bir okuma t&uuml;r&uuml;d&uuml;r.
     - **Cevap E-) G&ouml;rsel okuryazarlık, eleştirel d&uuml;ş&uuml;nmeyi gerektirmez.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi televizyonun &ouml;zelliklerinden biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi televizyonun &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Geniş bir hedef kitleye sahiptir.
     - **Cevap B-) Etki d&uuml;zeyi d&uuml;ş&uuml;kt&uuml;r.**
     - C-) İnsanların duygularına terc&uuml;man olur.
@@ -456,28 +456,28 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - E-) Par&ccedil;alı ama kesintisiz bir yayın sunar.
     <hr />
 ## Unite 4
-1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recindeki basamaklardan biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi iletişim s&uuml;recindeki basamaklardan biri&nbsp;<u>değildir</u>?</strong>
     - A-) D&ouml;n&uuml;t
     - B-) Alıcı
     - **Cevap C-) K&uuml;lt&uuml;r**
     - D-) Mesaj
     - E-) G&ouml;nderen
     <hr />
-1. <strong>G&ouml;rsel iletişim mecra ve imajlarıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong> 
+1. <strong>G&ouml;rsel iletişim mecra ve imajlarıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
     - A-) Basılı ve dijital g&ouml;rsel iletişim mecraları vardır.
     - **Cevap B-) Etkili bir g&ouml;rsel iletişim sadece mesajın doğru g&ouml;rselleştirilmesine bağlıdır.**
     - C-) İmajların g&uuml;nl&uuml;k iletişimde &ouml;nemli bir rol&uuml; vardır.
     - D-) G&ouml;rsel iletişim imajları bazı g&ouml;rsel kodlar i&ccedil;erebilir.
     - E-) Her g&ouml;rsel i&ccedil;inde barındırdığı mesajı bireylere algılatma sorumluluğundadır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir g&ouml;rsel iletişim analizi aşamasında sorulacak sorulardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bir g&ouml;rsel iletişim analizi aşamasında sorulacak sorulardan biri <u>değildir</u>?</strong>
     - **Cevap A-) G&ouml;rselin boyutları nedir?**
     - B-) G&ouml;rselde var olan ve olmayan nedir?
     - C-) G&ouml;rselin vermek istediği anlam nedir?
     - D-) G&ouml;rsel hangi tip kodlar i&ccedil;erir?
     - E-) G&ouml;rsel izleyicinin hayatına d&acirc;hil olduğunda hangi anlamları i&ccedil;erir?
     <hr />
-1. <strong>Aşağıdaki kavramlardan hangisi Gestalt Kuramı ile doğrudan ilişkilidir?</strong> 
+1. <strong>Aşağıdaki kavramlardan hangisi Gestalt Kuramı ile doğrudan ilişkilidir?</strong>
     - A-) Ger&ccedil;eklik
     - B-) K&uuml;lt&uuml;r
     - **Cevap C-) Algılama**
@@ -485,98 +485,98 @@ III. G&ouml;rsel iletişimde yararlanılan farklı disiplinler aktarılmak isten
     - E-) Kimlik
     <hr />
 1. Par&ccedil;a-b&uuml;t&uuml;n ilişkisi algı s&uuml;recinde &ouml;nemlidir. Gestalt Psikolojisi&rsquo;ne g&ouml;re, zihin eksik olan par&ccedil;aları g&ouml;rsel hafıza yardımıyla b&uuml;t&uuml;nlemektedir.<br />
-<strong>Paragraftaki ifade&nbsp;algısal &ouml;rg&uuml;tleme yasalarından hangisinin a&ccedil;ıklamasıdır?</strong> 
+<strong>Paragraftaki ifade&nbsp;algısal &ouml;rg&uuml;tleme yasalarından hangisinin a&ccedil;ıklamasıdır?</strong>
     - **Cevap A-) Tamamlama**
     - B-) Devamlılık
     - C-) Yakınlık
     - D-) Benzerlik
     - E-) Eksiklik
     <hr />
-1. <strong>Aşağıdakilerden hangisi algısal s&uuml;reci etkileyen i&ccedil; etmenlerden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi algısal s&uuml;reci etkileyen i&ccedil; etmenlerden biridir?</strong>
     - A-) Uyarıcının şiddeti
     - B-) Uyarıcının b&uuml;y&uuml;kl&uuml;ğ&uuml;
     - C-) Se&ccedil;ici dikkat
     - **Cevap D-) &Ouml;r&uuml;nt&uuml; algılaması**
     - E-) Uyarıcının yinelenmesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel algılama ile ilgili bir tanımlama <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel algılama ile ilgili bir tanımlama <u>değildir</u>?</strong>
     - A-) Kişiye bağlı olarak değişkenlik g&ouml;sterir.
     - B-) Sosyal, k&uuml;lt&uuml;rel, politik, ekonomik s&uuml;re&ccedil;lerin etkilerini barındırır.
     - C-) G&ouml;rsel algılamayı, g&ouml;rselin &ouml;nceden bilinmesi etkileyebilir.
     - D-) G&ouml;rsel algılama aktif bir s&uuml;re&ccedil;tir.
     - **Cevap E-) G&ouml;rsel algılama i&ccedil;in sadece g&ouml;rmek yeterlidir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi mek&acirc;nsal algı t&uuml;rlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi mek&acirc;nsal algı t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) İşitsel algılama
     - B-) Boyutsal algılama
     - C-) Kokusal algılama
     - D-) Dokunsal algılama
     - **Cevap E-) Duygusal algılama**
     <hr />
-1. <strong>G&ouml;rsel k&uuml;lt&uuml;r ile ilgili aşağıdaki betimlemelerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>G&ouml;rsel k&uuml;lt&uuml;r ile ilgili aşağıdaki betimlemelerden hangisi <u>yanlıştır</u>?</strong>
     - A-) G&uuml;nl&uuml;k yaşam deneyimleri i&ccedil;inde bir&ccedil;ok dinamiği kapsayan bir g&ouml;rselliğin k&uuml;lt&uuml;r&uuml;d&uuml;r.
     - B-) Kendi anlam oyunlarını oynayabilen, bireye yeni bir ifade &ouml;zg&uuml;rl&uuml;ğ&uuml; veren bir kavramdır.
     - C-) Bir k&uuml;lt&uuml;r&uuml; b&uuml;t&uuml;n olarak ele alır ve g&ouml;rsel kodlar kullanarak g&ouml;sterir.
     - **Cevap D-) G&ouml;rsel k&uuml;lt&uuml;r anlam oluşturmada sınırları olan bir alandır.**
     - E-) Medya ve iktidar sahiplerinin g&uuml;&ccedil;lerini barındırır.
     <hr />
-1. <strong>G&ouml;rsel k&uuml;lt&uuml;rde imgelerin &uuml;retim d&ouml;ng&uuml;s&uuml; nasıl olmaktadır?</strong> 
+1. <strong>G&ouml;rsel k&uuml;lt&uuml;rde imgelerin &uuml;retim d&ouml;ng&uuml;s&uuml; nasıl olmaktadır?</strong>
     - A-) &Uuml;retim-Sanal Ger&ccedil;eklik İmajları-T&uuml;ketim
     - **Cevap B-) &Uuml;retim-T&uuml;ketim-Yeniden &Uuml;retim**
     - C-) T&uuml;ketim-Yeniden &Uuml;retim-Pop&uuml;ler K&uuml;lt&uuml;r İmajları
     - D-) Medya İmajları-Ger&ccedil;ek Ger&ccedil;eklik İmajları-Yeniden &Uuml;retim
     - E-) T&uuml;ketim-&Uuml;retim-Yeniden &Uuml;retim
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişimin &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişimin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Alıcıya daha kısa s&uuml;rede mesajını iletebilmesi
     - B-) Daha anlaşılır bir iletişim s&uuml;reci yaşatması
     - C-) Yazılı iletişimle ilişkisi olması
     - D-) Bilgi alışverişini imajlar yoluyla yapması
     - **Cevap E-) Yeni bir iletişim t&uuml;r&uuml; olması**
     <hr />
-1. <strong>Kitle iletişim imajlarının hakkında aşağıdakilerden hangisi s&ouml;ylenebilir?</strong> 
+1. <strong>Kitle iletişim imajlarının hakkında aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
     - A-) Her g&ouml;rsel barındırdığı mesajı, bireylere algılatmak sorumluluğunda değildir.
     - **Cevap B-) G&ouml;rsel bir mesajın algılanması, bireylerin k&uuml;lt&uuml;rel hafızasıyla ilişkilidir.**
     - C-) Kitle iletişiminde kullanılan imajlar; kitlelere ulaşma ve etkileme amacında değildir.
     - D-) Bireyler sadece g&uuml;ncel bilgileri aracılığıyla g&ouml;rselleri yorumlar.
     - E-) G&ouml;rsel bildirişim unsurları kitle iletişim imajları olarak değerlendirilemez.
     <hr />
-1. <strong>Aşağıdakilerden hangisi algı / algılama ile ilgili bir s&ouml;ylem <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi algı / algılama ile ilgili bir s&ouml;ylem <u>değildir</u>?</strong>
     - A-) Ge&ccedil;miş deneyimlerimiz sayesinde hafızamızda yer eden verilerin g&uuml;ncel sunumudur.
     - **Cevap B-) Algı bir s&uuml;re&ccedil; değildir.**
     - C-) Algılama kişinin bilgi, deneyim ve değer yapısıyla ilgili bir durumdur.
     - D-) Algılama bilgi alma, se&ccedil;me ve anlamlandırma s&uuml;recidir.
     - E-) Algı bir &ouml;rg&uuml;tleme olayıdır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı ile ilintili <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi Gestalt Kuramı ile ilintili <u>değildir</u>?</strong>
     - A-) İlk defa Alman psikologlar tarafından kullanılmıştır.
     - B-) G&ouml;rsel bilginin nasıl anlamlı bir b&uuml;t&uuml;ne d&ouml;n&uuml;şt&uuml;ğ&uuml;n&uuml; araştırır.
     - C-) Almanca form anlamındadır.
     - D-) G&ouml;rseldeki b&uuml;t&uuml;n, kendini oluşturan par&ccedil;alarından fazlasıdır.
     - **Cevap E-) Algılamanın kişilere g&ouml;re değişmeyeceğini savunur.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi algısal &ouml;rg&uuml;tleme yasalarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi algısal &ouml;rg&uuml;tleme yasalarından biri <u>değildir</u>?</strong>
     - A-) Şekil-zemin ilişkisi
     - B-) Basitlik
     - C-) Devamlılık
     - **Cevap D-) G&ouml;rsellik**
     - E-) Benzerlik
     <hr />
-1. <strong>G&ouml;rsel k&uuml;lt&uuml;r imajlarını anlamlandırmada aşağıdaki sorulardan hangisi bize doğru bilgi <u>vermez</u>?</strong> 
+1. <strong>G&ouml;rsel k&uuml;lt&uuml;r imajlarını anlamlandırmada aşağıdaki sorulardan hangisi bize doğru bilgi <u>vermez</u>?</strong>
     - A-) İmajı kim, ne zaman, nerede yaptı?
     - B-) İmajın unsurları arasındaki ilişkiler nelerdir?
     - **Cevap C-) İmaj hangi tasarım elemanlarını barındırmaktadır?**
     - D-) İmaj eleştirel midir?
     - E-) İmajın &uuml;retimi hangi teknolojiyle yapıldı?
     <hr />
-1. <strong>Pop&uuml;ler K&uuml;lt&uuml;r imajları i&ccedil;in aşağıdakilerden hangisi doğrudur?</strong> 
+1. <strong>Pop&uuml;ler K&uuml;lt&uuml;r imajları i&ccedil;in aşağıdakilerden hangisi doğrudur?</strong>
     - **Cevap A-) Herkese hitap eder.**
     - B-) Yavaş t&uuml;ketilir.
     - C-) Biriciktir.
     - D-) Alt metinler i&ccedil;ermez.
     - E-) Her biri &uuml;retildiği d&ouml;nemin taşır.
     <hr />
-1. <strong>İnternetin hayatımıza girmesiyle beraber ger&ccedil;eklik sorgulaması hangi iki bağlam &uuml;zerinden değerlendirilmeye başlanmıştır?</strong> 
+1. <strong>İnternetin hayatımıza girmesiyle beraber ger&ccedil;eklik sorgulaması hangi iki bağlam &uuml;zerinden değerlendirilmeye başlanmıştır?</strong>
     - A-) Pop&uuml;larite-Geleneksellik
     - B-) G&ouml;rsellik-K&uuml;lt&uuml;rellik
     - C-) Pop&uuml;ler K&uuml;lt&uuml;r-G&ouml;rsel K&uuml;lt&uuml;r
@@ -618,7 +618,7 @@ III. İşlevsellik<br />
     - D-) II ve III
     - **Cevap E-) I, II ve III**
     <hr />
-1. <strong>Aşağıdakilerden hangisi postmodern k&uuml;lt&uuml;r&uuml;n temel &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi postmodern k&uuml;lt&uuml;r&uuml;n temel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Pastiş
     - B-) G&ouml;steri &ccedil;ağı
     - C-) Bireyselleşme
@@ -652,21 +652,21 @@ III. Anlık yaşama<br />
     - D-) Etkili
     - E-) Belirsiz
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel k&uuml;lt&uuml;r&uuml;n tanımı arasında <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel k&uuml;lt&uuml;r&uuml;n tanımı arasında <u>yer almaz</u>?</strong>
     - A-) Yeni teknolojileri ve deneyimleri g&ouml;sterebilmek
     - B-) G&ouml;r&uuml;nt&uuml; sistemlerinden oluşan bir d&uuml;nya inşa etmek
     - C-) Eleştirel bir bakış a&ccedil;ısı ile g&ouml;rselliğe bakmak
     - **Cevap D-) Ge&ccedil;mişi birebir tasvir etmek**
     - E-) K&uuml;lt&uuml;rel deneyimlerini araştırmak
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel k&uuml;lt&uuml;r &ccedil;alışmaları arasında işlenen bir alandır?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel k&uuml;lt&uuml;r &ccedil;alışmaları arasında işlenen bir alandır?</strong>
     - A-) Bilişim
     - **Cevap B-) K&uuml;lt&uuml;rel &ccedil;alışmalar**
     - C-) G&uuml;venlik
     - D-) Uluslararası İlişkiler
     - E-) Tarihsel determinizm
     <hr />
-1. <strong>Aşağıdakilerden hangisi Platon&#39;dan itibaren yazınsal k&uuml;lt&uuml;re &ccedil;ok &ouml;nem atfedilmiş olmasının nedenlerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi Platon&#39;dan itibaren yazınsal k&uuml;lt&uuml;re &ccedil;ok &ouml;nem atfedilmiş olmasının nedenlerinden biridir?</strong>
     - A-) Mağara duvarlarının y&uuml;zeylerinin yazıya elverişli olması
     - B-) Platon&#39;un dile h&acirc;kimiyeti
     - C-) Platon&#39;un yazıya h&acirc;kimiyeti
@@ -681,21 +681,21 @@ III. Anlık yaşama<br />
     - D-) iletişime
     - E-) yaratıcılığa
     <hr />
-1. <strong>Sokrates&rsquo;in kullandığı iletişim tekniği aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sokrates&rsquo;in kullandığı iletişim tekniği aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Diyalog**
     - B-) G&ouml;zlem
     - C-) Savunma
     - D-) T&uuml;mevarım
     - E-) T&uuml;mleşik İletişim
     <hr />
-1. <strong>Limonata post-modern k&uuml;lt&uuml;rde nasıl &uuml;retilir?</strong> 
+1. <strong>Limonata post-modern k&uuml;lt&uuml;rde nasıl &uuml;retilir?</strong>
     - A-) Yerel lezzetiyle
     - B-) Fabrikalarda
     - C-) At&ouml;lyelerde
     - **Cevap D-) Metinsel şekilde**
     - E-) Ev yapımı şeklinde
     <hr />
-1. <strong>Sembollerin, yazılı ve g&ouml;rsel dilin en yoğun kullanıldığı sanat aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Sembollerin, yazılı ve g&ouml;rsel dilin en yoğun kullanıldığı sanat aşağıdakilerden hangisidir?</strong>
     - A-) Resim
     - **Cevap B-) Sinema**
     - C-) Mimari
@@ -748,56 +748,56 @@ III. Tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br />
     - D-) İmge
     - E-) İşaret
     <hr />
-1. <strong>Aşağıdakilerden hangisinin tipografi &ouml;zellikleri ile ilgili olduğu <u>s&ouml;ylenemez</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisinin tipografi &ouml;zellikleri ile ilgili olduğu <u>s&ouml;ylenemez</u>?</strong>
     - A-) Majisk&uuml;l
     - B-) Minisk&uuml;l
     - C-) Punto
     - D-) X y&uuml;ksekliği
     - **Cevap E-) Piktogram**
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarım elemanları arasında <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi grafik tasarım elemanları arasında <u>değildir</u>?</strong>
     - A-) &Ccedil;izgi
     - **Cevap B-) Denge**
     - C-) Nokta
     - D-) Form
     - E-) Renk
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarım ilkeleri arasında <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi grafik tasarım ilkeleri arasında <u>yer almaz</u>?</strong>
     - A-) Birlik
     - B-) Vurgu
     - C-) Hiyerarşi
     - **Cevap D-) &Ccedil;izgi**
     - E-) Benzerlik/zıtlık
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;re&ccedil;lerinin adımlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi tasarım s&uuml;re&ccedil;lerinin adımlarından biri <u>değildir</u>?</strong>
     - A-) G&ouml;rsel bir dil oluşturmak
     - B-) Değerleri ve hedefleri tanımlamak
     - C-) Tasarlamak
     - D-) Metaforları keşfetmek
     - **Cevap E-) Kampanya yapmak**
     <hr />
-1. <strong>Aşağıdakilerde hangisi tasarım s&uuml;re&ccedil;lerinde problemi tanımlarken sorulabilecek bir soru <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerde hangisi tasarım s&uuml;re&ccedil;lerinde problemi tanımlarken sorulabilecek bir soru <u>değildir</u>?</strong>
     - A-) Neye ulaşmak istiyorsunuz?
     - B-) İleteceğiniz mesaj ne olacaktır?
     - **Cevap C-) Eskiz ve layoutları (taslak) beğendiniz mi?**
     - D-) Mesajınızı nasıl ileteceksiniz?
     - E-) Mesajınız kimi hedefliyor?
     <hr />
-1. <strong>Aşağıdakilerden hangisinin yaratıcılıkta en yaygın olarak kullanılan y&ouml;ntemlerden olduğu <u>s&ouml;ylenemez</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisinin yaratıcılıkta en yaygın olarak kullanılan y&ouml;ntemlerden olduğu <u>s&ouml;ylenemez</u>?</strong>
     - A-) Not Alma Y&ouml;ntemi
     - **Cevap B-) Kopya Y&ouml;ntemi**
     - C-) Beyin Fırtınası Y&ouml;ntemi (Brainstorming)
     - D-) Kulu&ccedil;ka Y&ouml;ntemi
     - E-) Sentez Y&ouml;ntemi
     <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarım ilkelerinden benzerlik / zıtlık ilkesini tanımlar?</strong> 
+1. <strong>Aşağıdakilerden hangisi grafik tasarım ilkelerinden benzerlik / zıtlık ilkesini tanımlar?</strong>
     - **Cevap A-) Bir kompozisyonda b&uuml;t&uuml;nl&uuml;ğ&uuml; yakalamak i&ccedil;in uyumlu ve benzer yapıların tasarımsal birliğidir.**
     - B-) Bir kompozisyonun g&ouml;rsel unsurlarının birleşmiş bir b&uuml;t&uuml;ne bir araya getirdiği algısıdır.
     - C-) Estetik a&ccedil;ıdan g&ouml;ze hoş gelen kompozisyonlar yaratabildiğimiz bir tasarım prensibidir.
     - D-) Gruplama ve vurgu ile yakından ilişkili olan bir tasarım prensibidir.
     - E-) Seyircinin veya t&uuml;keticinin g&ouml;rmesi gereken g&ouml;rsel veri miktarını sınırlamak anlamına gelir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi Brief kelimesinin anlamıdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi Brief kelimesinin anlamıdır?</strong>
     - **Cevap A-) Y&ouml;n bilgi / a&ccedil;ıklama**
     - B-) Tartışma / fikir bulma
     - C-) Tasarım kurgusu / planlama
@@ -811,28 +811,28 @@ III. Tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br />
     - D-) Tasarım problemleri
     - E-) Tasarımın gelişimi
     <hr />
-1. <strong>Aşağıdakilerden hangisi benzerlik / zıtlık kavramı i&ccedil;erisinde <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi benzerlik / zıtlık kavramı i&ccedil;erisinde <u>yer almaz</u>?</strong>
     - A-) B&uuml;y&uuml;kl&uuml;k / k&uuml;&ccedil;&uuml;kl&uuml;k
     - B-) Kalınlık / incelik
     - C-) Sıklık / seyreklik
     - D-) Dolu / boş
     - **Cevap E-) Basitlik / sadelik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi vurgu yapmaya bir &ouml;rnektir?</strong> 
+1. <strong>Aşağıdakilerden hangisi vurgu yapmaya bir &ouml;rnektir?</strong>
     - A-) Karelerin yan yana alt alta dizilmesi
     - B-) Dairesel g&ouml;r&uuml;nt&uuml;lerin sık ve seyrek dizilmesi
     - **Cevap C-) Siyah karelerin arasında kırmızı bir kare olması**
     - D-) Yeşil daireler ve yeşil karelerin kullanılması
     - E-) Rast gele dizilmiş &uuml;&ccedil;gen şekillerin olması
     <hr />
-1. <strong>Aşağıdakilerden hangisi CMYK renklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi CMYK renklerinden biri <u>değildir</u>?</strong>
     - A-) Mavi
     - **Cevap B-) Beyaz**
     - C-) Siyah
     - D-) Macenta
     - E-) Sarı
     <hr />
-1. <strong>G&ouml;rsel değerlerin oluşum s&uuml;recinde temsil&icirc; anlamı oluştururken yapısal bir dinamik yaratan ifade aracı aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>G&ouml;rsel değerlerin oluşum s&uuml;recinde temsil&icirc; anlamı oluştururken yapısal bir dinamik yaratan ifade aracı aşağıdakilerden hangisidir?</strong>
     - A-) &Ccedil;izgi
     - B-) Form
     - **Cevap C-) Renk**
@@ -850,7 +850,7 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
     - E-) I ve III
     <hr />
 1. Estetik a&ccedil;ıdan g&ouml;ze hoş gelen kompozisyonlar yaratabildiğimiz bir tasarım prensibidir. Fiziksel d&uuml;nyadaki nesnelerin ağırlığını yargıladığımız gibi, bir kompozisyondaki &ouml;geler &quot;g&ouml;rsel ağırlığa&quot; sahip olarak algılanır.<br />
-<strong>Yukarıdaki tanımlama grafik tasarım ilkelerinden hangisine karşılık gelmektedir?&nbsp;</strong>
+<strong>Yukarıdaki tanımlama grafik tasarım ilkelerinden hangisine karşılık gelmektedir?</strong>
     - A-) Birlik
     - B-) Hiyerarşi
     - **Cevap C-) Denge**
@@ -866,21 +866,21 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
     - D-) Davranış
     - **Cevap E-) M&uuml;zik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişimdeki temel amacı tanımlar?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişimdeki temel amacı tanımlar?</strong>
     - **Cevap A-) İletişim s&uuml;recinin ger&ccedil;ekleştiği alıcı ve verici arasındaki ileti alışverişini yani bildirişimi sağlamak**
     - B-) İletişim s&uuml;recinin ger&ccedil;ekleştiği veriye mesajlar vermek
     - C-) İletişim s&uuml;recinin ger&ccedil;ekleştiği mek&acirc;nın tanıtımını yapmak
     - D-) İletişim s&uuml;recinin ger&ccedil;ekleştiği vericiler arasındaki ilişkiyi d&uuml;zenlemek
     - E-) İletişim s&uuml;recinde vericinin empati duymasını sağlamak
     <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılığın genel tanımıdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılığın genel tanımıdır?</strong>
     - A-) Kitap, dergi gibi yayınların sadece basılma işlemleridir.
     - **Cevap B-) &Ccedil;eşitli g&ouml;rsel materyalleri bilgisayar destekli olarak baskı ya da yayına hazırlama işidir.**
     - C-) Kitap, dergi gibi yayınların dağıtım işidir.
     - D-) Kitap, dergi gibi yayınların internet ortamına taşınması işidir.
     - E-) Yayınların sadece dijital olarak &ccedil;oğaltılması işidir.
     <hr />
-1. <strong>Masa&uuml;st&uuml; yayıncılık hakkında aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Masa&uuml;st&uuml; yayıncılık hakkında aşağıdaki bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Masa&uuml;st&uuml; yayımcılık ile ilgili ilk &ccedil;alışmalar 1970&rsquo;lerin sonlarında Xerox Araştırma Merkezi tarafından yapılmıştır.
     - B-) Adobe Systems firmasından &ldquo;Dr. John Warnock&rdquo;, Apple şirketinin sahibi &ldquo;Jobs&rdquo; ve ortağı &ldquo;Wozniak&rdquo; ve Aldus şirketinden &ldquo;Paul Brainard&rdquo; masa&uuml;st&uuml; yayıncılığın &ouml;nc&uuml;leridir.
     - C-) Tarihi s&uuml;re&ccedil;te ilk olarak &ldquo;Page Maker&rdquo; isimli masa&uuml;st&uuml; yayıncılık programı ile gazete, dergi, kitap gibi &uuml;r&uuml;nler kolaylıkla tasarlanmaya başlanmıştır.
@@ -894,56 +894,56 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
     - D-) Yazılım
     - E-) Ofset
     <hr />
-1. <strong>Aşağıdaki maddelerden hangisinde verilen t&uuml;m yazılımlar render (olgunlaşma) tabanlı programlardır?</strong> 
+1. <strong>Aşağıdaki maddelerden hangisinde verilen t&uuml;m yazılımlar render (olgunlaşma) tabanlı programlardır?</strong>
     - A-) Adobe Photoshop, Adobe Lightroom
     - B-) Microsoft Word, PowerPoint
     - **Cevap C-) 3D MAX, Maya**
     - D-) Page Maker, Adobe Photoshop
     - E-) CINEMA 4D, Page Maker
     <hr />
-1. <strong>Aşağıdakilerden hangisi harf, rakam, sembol ve diğer işaretler toplamına verilen isimdir?</strong> 
+1. <strong>Aşağıdakilerden hangisi harf, rakam, sembol ve diğer işaretler toplamına verilen isimdir?</strong>
     - A-) Piksel
     - **Cevap B-) Yazı karakteri**
     - C-) Vekt&ouml;r
     - D-) Render
     - E-) Yazılım
     <hr />
-1. <strong>Aşağıdakilerden hangisinde JPEG veya JPG ile ilgili verilen bilgi doğru <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisinde JPEG veya JPG ile ilgili verilen bilgi doğru <u>değildir</u>?</strong>
     - A-) &quot;Ortak Fotoğraf Uzmanları Grubu&quot; tarafından belirlenen dosya bir dosya bi&ccedil;imidir.
     - B-) Web sitelerine ve &ccedil;evrimi&ccedil;i uygulamalara yerleştirmek i&ccedil;in sıklıkla kullanılır Gazete arşivleridir.
     - **Cevap C-) JPEG en y&uuml;ksek sıkıştırmaya sahiptir.**
     - D-) Sıkıştırma işlemi ger&ccedil;ekleştirilmeyen bir formattır.
     - E-) En yaygın dosya formatıdır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi m&uuml;rekkepli g&ouml;r&uuml;nt&uuml;n&uuml;n bir plakadan kau&ccedil;uk bir battaniyeye, sonra da baskı y&uuml;zeyine aktarıldığı ve yaygın olarak kullanılan bir baskı tekniğidir?</strong> 
+1. <strong>Aşağıdakilerden hangisi m&uuml;rekkepli g&ouml;r&uuml;nt&uuml;n&uuml;n bir plakadan kau&ccedil;uk bir battaniyeye, sonra da baskı y&uuml;zeyine aktarıldığı ve yaygın olarak kullanılan bir baskı tekniğidir?</strong>
     - **Cevap A-) Ofset Baskı**
     - B-) Cilalama
     - C-) Printer
     - D-) Taş baskı
     - E-) Grav&uuml;r Baskı
     <hr />
-1. <strong>Aşağıda baskı y&uuml;zeyleri ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıda baskı y&uuml;zeyleri ile ilgili verilen bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Farklı k&acirc;ğıt nitelikleri, yazdırılan m&uuml;rekkebin yoğunluğunu etkiler.
     - **Cevap B-) T&uuml;m k&acirc;ğıtlar aynı m&uuml;rekkep &ccedil;eşidine aynı reaksiyonu verir.**
     - C-) Mat y&uuml;zey, gazete ve kitap gibi basılı kelimelerin metinleri i&ccedil;in kullanılır.
     - D-) Parlak k&acirc;ğıda basılan m&uuml;rekkep y&uuml;zeyde kalır.
     - E-) M&uuml;rekkep mat k&acirc;ğıda yapışırsa, emilir ve parlamaz.
     <hr />
-1. <strong>Aşağıdaki programlardan hangileri piksel tabanlıdır?</strong> 
+1. <strong>Aşağıdaki programlardan hangileri piksel tabanlıdır?</strong>
     - A-) Corel, QuarkXPress
     - B-) Adobe InDesign, Adobe Illustrator
     - **Cevap C-) Adobe Photoshop, Lightroom**
     - D-) Maya, CINEMA 4D
     - E-) 3D MAX, Maya
     <hr />
-1. <strong>Aşağıdakilerden hangisi gazete ve dergi tasarımı i&ccedil;in tercih edilen vekt&ouml;rel bir masa&uuml;st&uuml; yayıncılık programıdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi gazete ve dergi tasarımı i&ccedil;in tercih edilen vekt&ouml;rel bir masa&uuml;st&uuml; yayıncılık programıdır?</strong>
     - A-) Adobe Photoshop
     - B-) Maya
     - C-) CINEMA 4D
     - **Cevap D-) QuarkXPress**
     - E-) Lightroom
     <hr />
-1. <strong>Tasarımla ilgili olarak aşağıda sunulan bilgilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Tasarımla ilgili olarak aşağıda sunulan bilgilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tasarım y&uuml;zeyinde planların oluşturulmasında Gridler ve cetvellerden faydalanılır.
     - B-) Grid tasarımcıya kolaylık sağlayan kılavuz &ccedil;izgilerdir.
     - C-) Yeni tasarım alanı (sayfa) a&ccedil;ıldığında mutlaka sayfanın kesim payları dikkate alınmalıdır.
@@ -957,21 +957,21 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
     - D-) Piksel
     - E-) Vekt&ouml;r
     <hr />
-1. <strong>Vernik ve diğer sıvı kaplamalar ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Vernik ve diğer sıvı kaplamalar ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Bir k&acirc;ğıdın m&uuml;rekkepli y&uuml;zeyini korumak veya y&uuml;zeye parlak bir son kat uygulayarak bir tasarımı geliştirmek i&ccedil;in uygulanır.
     - **Cevap B-) Her kaplama t&uuml;r&uuml; birbirinin aynısıdır.**
     - C-) Cilalar ve sıvı kaplamalar en iyi kaplanmış k&acirc;ğıtlar &uuml;zerinde &ccedil;alışır.
     - D-) Kaplamaların kullanılan m&uuml;rekkep t&uuml;r&uuml;yle de uyumlu olmaları gerekir.
     - E-) UV kaplamalar sıvı olarak yayılır, ardından ultraviyole ışıkla sertleştirilir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;oğunlukla sanatsal &uuml;retimlerde kullanılan ve g&ouml;r&uuml;nt&uuml;n&uuml;n ipekten yapılmış bir kalıp &uuml;zerine ge&ccedil;irildiği m&uuml;rekkepli baskı t&uuml;r&uuml;d&uuml;r ?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi &ccedil;oğunlukla sanatsal &uuml;retimlerde kullanılan ve g&ouml;r&uuml;nt&uuml;n&uuml;n ipekten yapılmış bir kalıp &uuml;zerine ge&ccedil;irildiği m&uuml;rekkepli baskı t&uuml;r&uuml;d&uuml;r ?</strong>
     - A-) Flekso baskı
     - B-) Rotarav&uuml;r
     - C-) Pantone altı renkli baskı
     - D-) Rotatif
     - **Cevap E-) Serigrafi**
     <hr />
-1. <strong>&Uuml;r&uuml;n&uuml;n&uuml;n tasarlanarak g&ouml;rselleştirilmesi aşamasında başvurulan teknik işlemler b&uuml;t&uuml;n&uuml; aşağıdakilerden hangisiyle ifade edilir?&nbsp;</strong>
+1. <strong>&Uuml;r&uuml;n&uuml;n&uuml;n tasarlanarak g&ouml;rselleştirilmesi aşamasında başvurulan teknik işlemler b&uuml;t&uuml;n&uuml; aşağıdakilerden hangisiyle ifade edilir?</strong>
     - A-) Tipografi
     - **Cevap B-) Masa&uuml;st&uuml; Yayıncılık**
     - C-) Baskı
@@ -981,7 +981,7 @@ III. Sembol, tek renkle basıldığında &ouml;zelliklerini kaybetmemelidir.<br 
 1. I. Ciltleme ve kıvrımlar<br />
 II. Baskı y&uuml;zeyi<br />
 III. Vernikler ve koruyucu sıvı kaplamalar<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri baskı sonrası işlemleri kapsar?&nbsp;</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri baskı sonrası işlemleri kapsar?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -1010,98 +1010,98 @@ III. Vernikler ve koruyucu sıvı kaplamalar<br />
     - D-) Picasa
     - E-) Gimp
     <hr />
-1. <strong>Aşağıdakilerden hangisi dijital kameraların &ouml;nemli &ouml;zelliklerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi dijital kameraların &ouml;nemli &ouml;zelliklerinden biridir?</strong>
     - A-) Hepsi y&uuml;ksek megapikselli g&ouml;r&uuml;nt&uuml; &uuml;retir.
     - B-) Yeterli depolama alanları yoktur.
     - C-) Olduk&ccedil;a ağırdırlar.
     - D-) Fiyatları olduk&ccedil;a ucuzdur.
     - **Cevap E-) D&uuml;ş&uuml;k ışıklarda bile makul kalitede g&ouml;r&uuml;nt&uuml;ler &ccedil;ekebilir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi dijital g&ouml;r&uuml;nt&uuml; işlemede video ve kurgu yazılımlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi dijital g&ouml;r&uuml;nt&uuml; işlemede video ve kurgu yazılımlarından biri <u>değildir</u>?</strong>
     - A-) FinalCut
     - B-) After Effect
     - C-) Da Vinci
     - **Cevap D-) Corel Draw**
     - E-) Edius
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim tasarımında reklam fotoğraf&ccedil;ılığı i&ccedil;erisinde yer alır?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim tasarımında reklam fotoğraf&ccedil;ılığı i&ccedil;erisinde yer alır?</strong>
     - A-) Basın fotoğraf&ccedil;ılığı
     - B-) Sokak fotoğraf&ccedil;ılığı
     - C-) Makro fotoğraf&ccedil;ılığı
     - **Cevap D-) Turizm fotoğraf&ccedil;ılığı**
     - E-) Belgesel fotoğraf&ccedil;ılığı
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;betimge&rdquo; kavramıyla aynı anlamda <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ldquo;betimge&rdquo; kavramıyla aynı anlamda <u>değildir</u>?</strong>
     - A-) Resim
     - **Cevap B-) Bir doğa g&ouml;r&uuml;n&uuml;m&uuml;**
     - C-) Fotoğraf
     - D-) Film g&ouml;r&uuml;nt&uuml;s&uuml;
     - E-) Resimleme (ill&uuml;strasyon)
     <hr />
-1. <strong>Aşağıdakilerden hangisi sayısal g&ouml;r&uuml;nt&uuml; t&uuml;rlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi sayısal g&ouml;r&uuml;nt&uuml; t&uuml;rlerinden biri <u>değildir</u>?</strong>
     - A-) Pixel g&ouml;r&uuml;nt&uuml;
     - B-) Render g&ouml;r&uuml;nt&uuml;
     - C-) Raster g&ouml;r&uuml;nt&uuml;
     - **Cevap D-) Ayna g&ouml;r&uuml;nt&uuml;**
     - E-) Vekt&ouml;rel g&ouml;r&uuml;nt&uuml;
     <hr />
-1. <strong>Aşağıdakilerden hangisi pixel bir g&ouml;r&uuml;nt&uuml;de pixellerin dizilim mantığını ifade eder?</strong> 
+1. <strong>Aşağıdakilerden hangisi pixel bir g&ouml;r&uuml;nt&uuml;de pixellerin dizilim mantığını ifade eder?</strong>
     - **Cevap A-) Satır / s&uuml;tun dizilimi**
     - B-) Grafik eğriler dizilimi
     - C-) K&ouml;şegenlerden diyagonal dizilimi
     - D-) X-Y-Z koordinatlar dizilimi
     - E-) Dikey veri dizilimi
     <hr />
-1. <strong>Aşağıdaki yazılımlardan hangisi vekt&ouml;rel tabanlı bir yazılım <u>değildir</u>?</strong> 
+1. <strong>Aşağıdaki yazılımlardan hangisi vekt&ouml;rel tabanlı bir yazılım <u>değildir</u>?</strong>
     - A-) Adobe Illustrator
     - **Cevap B-) Adobe Lightroom**
     - C-) Corel Draw
     - D-) Adobe InDesign
     - E-) Freehand
     <hr />
-1. <strong>Aşağıdaki g&ouml;r&uuml;nt&uuml; formatlarından hangisi fotoğraf &uuml;st&uuml;nde gerek ışık gerekse renkle ilgili &ouml;nemli değişikliklerin yapılmasını m&uuml;mk&uuml;n h&acirc;le getirir?</strong> 
+1. <strong>Aşağıdaki g&ouml;r&uuml;nt&uuml; formatlarından hangisi fotoğraf &uuml;st&uuml;nde gerek ışık gerekse renkle ilgili &ouml;nemli değişikliklerin yapılmasını m&uuml;mk&uuml;n h&acirc;le getirir?</strong>
     - **Cevap A-) .raw**
     - B-) .jpg
     - C-) .png
     - D-) .bmp
     - E-) .eps
     <hr />
-1. <strong>Aşağıdaki maddelerden hangisi hareketli g&ouml;r&uuml;nt&uuml; formatlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdaki maddelerden hangisi hareketli g&ouml;r&uuml;nt&uuml; formatlarından biri <u>değildir</u>?</strong>
     - A-) .mxf
     - B-) .dpx
     - C-) .mpeg
     - D-) .cineon
     - **Cevap E-) .jpg**
     <hr />
-1. <strong>Aşağıdakilerden hangisi film veya k&acirc;ğıttaki g&ouml;r&uuml;nt&uuml;leri dijital verilere d&ouml;n&uuml;şt&uuml;ren cihazdır?</strong> 
+1. <strong>Aşağıdakilerden hangisi film veya k&acirc;ğıttaki g&ouml;r&uuml;nt&uuml;leri dijital verilere d&ouml;n&uuml;şt&uuml;ren cihazdır?</strong>
     - **Cevap A-) Tarayıcı (scanner)**
     - B-) Aynasız fotoğraf makinesi
     - C-) Kamera Obscura
     - D-) Video yakalama (capture) cihazı
     - E-) Film ve ses mikseri
     <hr />
-1. <strong>Aşağıdakilerden hangisi mobil g&ouml;r&uuml;nt&uuml; işleme programlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi mobil g&ouml;r&uuml;nt&uuml; işleme programlarından biri <u>değildir</u>?</strong>
     - A-) Photoshop Express
     - B-) Prizma
     - **Cevap C-) Maya**
     - D-) Picsplay
     - E-) Snapseed
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığı t&uuml;rleri i&ccedil;erisinde <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ılığı t&uuml;rleri i&ccedil;erisinde <u>yer almaz</u>?</strong>
     - A-) Mimari fotoğraf&ccedil;ılık
     - B-) End&uuml;stri fotoğraf&ccedil;ılığı
     - **Cevap C-) Sokak fotoğraf&ccedil;ılığı**
     - D-) Gıda fotoğraf&ccedil;ılığı
     - E-) Turizm fotoğraf&ccedil;ılığ
     <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim tasarımı alanındaki reklam ajanslarının fotoğraf ihtiyacının karşılanması adına son yıllarda başlatılan bir fotoğraf sekt&ouml;r&uuml;d&uuml;r?</strong> 
+1. <strong>Aşağıdakilerden hangisi g&ouml;rsel iletişim tasarımı alanındaki reklam ajanslarının fotoğraf ihtiyacının karşılanması adına son yıllarda başlatılan bir fotoğraf sekt&ouml;r&uuml;d&uuml;r?</strong>
     - A-) Headshot foto
     - B-) I-Phonagraphy
     - C-) Pad foto
     - **Cevap D-) Stok foto**
     - E-) Mobil foto
     <hr />
-1. <strong>Sıkıştırılmış bir g&ouml;r&uuml;nt&uuml; sunduğu i&ccedil;in boyutları k&uuml;&ccedil;&uuml;k olan ve&nbsp;en &ccedil;ok tercih edilen g&ouml;r&uuml;nt&uuml; dosya formatı aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Sıkıştırılmış bir g&ouml;r&uuml;nt&uuml; sunduğu i&ccedil;in boyutları k&uuml;&ccedil;&uuml;k olan ve&nbsp;en &ccedil;ok tercih edilen g&ouml;r&uuml;nt&uuml; dosya formatı aşağıdakilerden hangisidir?</strong>
     - A-) JPEG 2000
     - B-) TIFF
     - **Cevap C-) JPG**
@@ -1145,14 +1145,14 @@ IV. Yaygın kullanıma sahip olması<br />
     - **Cevap D-) I, II ve IV**
     - E-) I, II, III ve IV
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam ikna metotlarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam ikna metotlarından biri <u>değildir</u>?</strong>
     - A-) &Uuml;nl&uuml; kişileri kullanmak
     - B-) &Ouml;zel hissettirmek
     - C-) Mizah unsuru kullanmak
     - **Cevap D-) Sıradan g&ouml;stermek**
     - E-) İhtiya&ccedil; hissettirmek
     <hr />
-1. <strong>Aşağıdaki reklam t&uuml;rlerinin hangisinde izleyen veya dinleyen sayısı hemen tespit edilebilir?</strong> 
+1. <strong>Aşağıdaki reklam t&uuml;rlerinin hangisinde izleyen veya dinleyen sayısı hemen tespit edilebilir?</strong>
     - A-) Radyo reklamı
     - B-) Gazete reklamı
     - C-) Tv reklamı
@@ -1160,49 +1160,49 @@ IV. Yaygın kullanıma sahip olması<br />
     - E-) Dergi reklamı
     <hr />
 1. Yazılı reklamın başlangıcı tam olarak bilinmemekle birlikte .................... British Museum&rsquo;de bulunan ve M&Ouml; 3000&rsquo;li yıllarda yazıldığı kabul edilen bir &ccedil;eşit yazının bir reklam olduğu d&uuml;ş&uuml;n&uuml;lmektedir.<br />
-<strong>Yukarıda verilen metindeki boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>Yukarıda verilen metindeki boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) İngiltere**
     - B-) Amerika
     - C-) Fransa
     - D-) &Ccedil;in
     - E-) Roma
     <hr />
-1. <strong>15. y&uuml;zyıl ortalarında reklamcılıkta yepyeni s&uuml;reci başlatan gelişme aşağıdakilerden hangisidir?</strong> 
+1. <strong>15. y&uuml;zyıl ortalarında reklamcılıkta yepyeni s&uuml;reci başlatan gelişme aşağıdakilerden hangisidir?</strong>
     - A-) Coğrafi keşifler
     - **Cevap B-) Matbaanın bulunuşu**
     - C-) Radyonun bulunuşu
     - D-) Televizyonun icadı
     - E-) Fransız İhtilali
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklam metinlerinin oluşturulmasındaki temel ilkelerden biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklam metinlerinin oluşturulmasındaki temel ilkelerden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Anlaşılır olması
     - B-) S&ouml;zc&uuml;k se&ccedil;imi
     - C-) Akıcılık
     - D-) &Ouml;zetleme
     - **Cevap E-) Sanatlı dil**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamlarda kullanılan ikna tekniklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklamlarda kullanılan ikna tekniklerinden biri <u>değildir</u>?</strong>
     - A-) İhtiya&ccedil; algısı oluşturma
     - B-) Mizah
     - C-) İdeal değerler
     - D-) Sınırlı se&ccedil;eneklerden birine zorlama
     - **Cevap E-) Sıradan g&ouml;sterme**
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın işlevlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklamın işlevlerinden biri <u>değildir</u>?</strong>
     - A-) Tanıtma
     - B-) İkna etme
     - C-) Fayda sağlama
     - D-) Değer katma
     - **Cevap E-) Belirginliği azaltma**
     <hr />
-1. <strong>Resmi kurum ve kuruluşlar ile vakıf-dernek gibi sivil toplum kuruluşları tarafından hazırlatılan, toplumsal faydayı esas alan, bilgilendirici g&ouml;rsel ve işitsel filmlere verilen aşağıdakilerden hangisidir?</strong> 
+1. <strong>Resmi kurum ve kuruluşlar ile vakıf-dernek gibi sivil toplum kuruluşları tarafından hazırlatılan, toplumsal faydayı esas alan, bilgilendirici g&ouml;rsel ve işitsel filmlere verilen aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kamu Spotu**
     - B-) Zorunlu Yayın
     - C-) &Uuml;r&uuml;n reklamı
     - D-) Bilboard reklamı
     - E-) Banner reklam
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;revlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklamın g&ouml;revlerinden biri <u>değildir</u>?</strong>
     - A-) Satışları artırmak
     - B-) Mal veya hizmeti t&uuml;keticinin belleğinde canlı tutmak
     - **Cevap C-) Ger&ccedil;ekleri &ouml;rterek t&uuml;keticiyi yanıltmak**
@@ -1217,28 +1217,28 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) &Ouml;zdeyiş
     - E-) Jingle
     <hr />
-1. <strong>Bir reklamda markayla ilgili temel &ouml;zelliği ifade eden kısa ve &ccedil;arpıcı s&ouml;z aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir reklamda markayla ilgili temel &ouml;zelliği ifade eden kısa ve &ccedil;arpıcı s&ouml;z aşağıdakilerden hangisidir?</strong>
     - A-) &Ouml;zdeyiş
     - B-) Tema
     - C-) Jingle
     - **Cevap D-) Slogan**
     - E-) Başlık
     <hr />
-1. <strong>Reklamla ilgili olarak aşağıda verilenlerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Reklamla ilgili olarak aşağıda verilenlerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Reklam, bireyden &ccedil;ok kitlelere hitap etmektedir.
     - B-) Reklam i&ccedil;in belli bir &uuml;cret &ouml;denmektedir.
     - C-) Reklam bir pazarlama faaliyetidir.
     - **Cevap D-) Reklamı yapılan &uuml;r&uuml;n ve hizmetin kime ait olduğu gizlidir.**
     - E-) Reklam, ikna odaklı bir iletişim t&uuml;r&uuml;d&uuml;r.
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın &ouml;zellikleri arasında <u>yer almaz</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi reklamın &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
     - A-) Reklam, bireyden &ccedil;ok kitlelere hitap etmektedir.
     - B-) Reklam, kaynaktan alıcıya tek y&ouml;nl&uuml; iletişimi kullanmaktadır.
     - C-) Reklam i&ccedil;in belli bir &uuml;cret &ouml;denmektedir.
     - D-) Reklam bir pazarlama faaliyetidir.
     - **Cevap E-) Reklamı yapılan &uuml;r&uuml;n ve hizmetin kime ait olduğu bilinmemektedir.**
     <hr />
-1. <strong>Aşağıdakilerden hangisi basılı reklam ara&ccedil;ları arasında yer almaktadır?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi basılı reklam ara&ccedil;ları arasında yer almaktadır?</strong>
     - A-) Radyo
     - B-) Televizyon
     - **Cevap C-) Gazete**
@@ -1268,35 +1268,35 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) Fonogram
     - E-) Logotype
     <hr />
-1. <strong>İll&uuml;strasyonların hangi t&uuml;r&uuml; tıp, m&uuml;hendislik, mimarlık, botanik, zooloji, arkeoloji gibi uzmanlık alanları i&ccedil;in &ouml;ğretici ve tanımlayıcı ama&ccedil;larla yapılmaktadır?</strong> 
+1. <strong>İll&uuml;strasyonların hangi t&uuml;r&uuml; tıp, m&uuml;hendislik, mimarlık, botanik, zooloji, arkeoloji gibi uzmanlık alanları i&ccedil;in &ouml;ğretici ve tanımlayıcı ama&ccedil;larla yapılmaktadır?</strong>
     - A-) Reklam ill&uuml;strasyonları
     - B-) Moda ill&uuml;strasyonları
     - C-) Yayın ill&uuml;strasyonları
     - D-) Kent ill&uuml;strasyonları
     - **Cevap E-) Bilimsel ill&uuml;strasyonlar**
     <hr />
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımında dikkat edilecek noktalardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımında dikkat edilecek noktalardan biri <u>değildir</u>?</strong>
     - A-) Hedef kitleye uygun olmalıdır.
     - **Cevap B-) Kurumsal kimliği oluşturan &ouml;geler farklı tasarım diline sahip olmalıdır.**
     - C-) &Ouml;zg&uuml;n olmalıdır.
     - D-) Kurumu hatırlatmalıdır.
     - E-) Yalın olmalıdır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi reklamların işlevlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi reklamların işlevlerinden biri <u>değildir</u>?</strong>
     - A-) Dikkat &ccedil;ekme
     - B-) Satışları arttırma
     - **Cevap C-) &Uuml;r&uuml;n&uuml;n kalitesini arttırma**
     - D-) İlgi uyandırma
     - E-) Markanın, rakiplerine olan &uuml;st&uuml;nl&uuml;ğ&uuml;n&uuml; vurgulama
     <hr />
-1. <strong>Genellikle sıradan insanların &uuml;r&uuml;n&uuml; veya hizmeti tercih etme sebeplerini, &uuml;r&uuml;n&uuml;n kalitesini ve olumlu &ouml;zelliklerini anlattığı, g&uuml;ven veren mesajlarıyla t&uuml;keticiyi ikna ettiği reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
+1. <strong>Genellikle sıradan insanların &uuml;r&uuml;n&uuml; veya hizmeti tercih etme sebeplerini, &uuml;r&uuml;n&uuml;n kalitesini ve olumlu &ouml;zelliklerini anlattığı, g&uuml;ven veren mesajlarıyla t&uuml;keticiyi ikna ettiği reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) M&uuml;zikli ve şarkılı reklamlar
     - B-) Karşılaştırmalı reklamlar
     - C-) &Uuml;nl&uuml; karakterlerin kullanıldığı reklamlar
     - **Cevap D-) Tanık g&ouml;steren reklamlar**
     - E-) Hik&acirc;ye anlatan reklamlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi Storyboard&rsquo;un &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi Storyboard&rsquo;un &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Storyboard tasarımı ile zaman, emek ve para tasarrufu sağlanır.
     - B-) Hik&acirc;ye kareler i&ccedil;erisinde g&ouml;rselleştirilir.
     - C-) Her g&ouml;r&uuml;nt&uuml;ye ait kamera, m&uuml;zik, ses efektleri ve diyaloglardan oluşan a&ccedil;ıklamalar bulunmaktadır.
@@ -1310,91 +1310,91 @@ IV. Yaygın kullanıma sahip olması<br />
     - **Cevap D-) Serif**
     - E-) Simge
     <hr />
-1. <strong>Sesleri simgeleyen işaretlere (harf) verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sesleri simgeleyen işaretlere (harf) verilen isim aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Fonogram**
     - B-) İdeogram
     - C-) Piktogram
     - D-) Amblem
     - E-) Logotype
     <hr />
-1. <strong>Aşağıdakilerden hangisi amblem ve logo tasarımındaki temel unsurlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi amblem ve logo tasarımındaki temel unsurlardan biri <u>değildir</u>?</strong>
     - A-) Dikkat &ccedil;ekici olmalı
     - B-) Yalın olmalı
     - C-) Her t&uuml;r y&uuml;zeyde ve iletişim aracında kullanılabilir ve okunabilir olmalı
     - D-) Kurumun, hizmetin ya da &uuml;r&uuml;n&uuml;n niteliğini, kimliğini yansıtmalı
     - **Cevap E-) Başka bir &uuml;r&uuml;n&uuml; hatırlatmalı**
     <hr />
-1. <strong>Bir &uuml;r&uuml;n&uuml; veya hizmeti tanıtmak amacıyla yapılan ill&uuml;strasyon t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir &uuml;r&uuml;n&uuml; veya hizmeti tanıtmak amacıyla yapılan ill&uuml;strasyon t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) Moda ill&uuml;strasyonları
     - B-) Yayın ill&uuml;strasyonları
     - C-) Kent ill&uuml;strasyonları
     - **Cevap D-) Reklam ill&uuml;strasyonları**
     - E-) Bilimsel ill&uuml;strasyonlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;rel afişlere bir &ouml;rnektir?</strong> 
+1. <strong>Aşağıdakilerden hangisi k&uuml;lt&uuml;rel afişlere bir &ouml;rnektir?</strong>
     - A-) K&uuml;resel ısınma konulu afiş
     - B-) Emniyet kemeri kullanımının &ouml;nemi konulu afiş
     - **Cevap C-) Sergi afişi**
     - D-) Kozmetik bir &uuml;r&uuml;n i&ccedil;in tasarlanmış afişi
     - E-) Sağlıklı beslenme konulu afiş
     <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj tasarımının &ouml;zelliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi ambalaj tasarımının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
     - A-) Marka ve &uuml;r&uuml;n&uuml;n karakterini yansıtmalıdır.
     - B-) &Uuml;r&uuml;n&uuml; darbelere karşı koruyabilmelidir.
     - C-) Kolay taşınabilmelidir.
     - **Cevap D-) Her y&uuml;zeyinde farklı bir tasarım dili kullanılmalıdır.**
     - E-) &Uuml;r&uuml;n&uuml;n karakterine uygun tasarlanmalıdır.
     <hr />
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımının ama&ccedil;larından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımının ama&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) İsme bir kişilik kazandırarak markaya hayat vermesi
     - **Cevap B-) &Uuml;r&uuml;nlerin &uuml;retim giderlerini arttırması**
     - C-) Markanın kabul edilmesini ve anımsanmasını sağlaması
     - D-) Markanın rekabet i&ccedil;erisinde olduğu &uuml;r&uuml;nlerden ayırt edilmesini sağlaması
     - E-) Farklı marka unsurlarını aynı g&ouml;r&uuml;ş ve duygu i&ccedil;erisinde birbirine bağlaması
     <hr />
-1. <strong>Kullanılabilirliğin temel bileşenlerinden hangisi, kullanıcı tarafından sistem tekrar kullanıldığında, ne derece zorlandığı ile ilgili olan temel bileşen aşağıdakilerden hangisidir?</strong> 
+1. <strong>Kullanılabilirliğin temel bileşenlerinden hangisi, kullanıcı tarafından sistem tekrar kullanıldığında, ne derece zorlandığı ile ilgili olan temel bileşen aşağıdakilerden hangisidir?</strong>
     - A-) &Ouml;ğrenilebilirlik
     - **Cevap B-) Hatırlanabilirlik**
     - C-) Verimlilik
     - D-) Etkililik
     - E-) Kullanıcı memnuniyeti
     <hr />
-1. <strong>Aşağıdakilerden hangisi web tasarımındaki temel unsurlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi web tasarımındaki temel unsurlardan biri <u>değildir</u>?</strong>
     - A-) G&ouml;rsel tasarımın bilgiyi d&uuml;zenleyici olması
     - B-) G&ouml;rsel tasarımın tasarım &ouml;ge ve ilkelerine g&ouml;re yapılması
     - **Cevap C-) Sayfalarda &ccedil;ok renk kullanılması**
     - D-) Mobil uyumlu tasarlanması
     - E-) Hedef kitleye uygun olması
     <hr />
-1. <strong>&Uuml;r&uuml;n ya da hizmetin, rakiplerinin ismi belirtilmeden, dolaylı olarak kıyaslandığı reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong> 
+1. <strong>&Uuml;r&uuml;n ya da hizmetin, rakiplerinin ismi belirtilmeden, dolaylı olarak kıyaslandığı reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
     - A-) &Uuml;nl&uuml; karakterlerin kullanıldığı reklamlar
     - B-) Tanık g&ouml;steren reklamlar
     - C-) Olağan yaşantıyı &ouml;rnekleyen reklamlar
     - D-) Hik&acirc;ye anlatan reklamlar
     - **Cevap E-) Karşılaştırmalı reklamlar**
     <hr />
-1. <strong>Bir kavram veya fikri g&ouml;rsel h&acirc;le d&ouml;n&uuml;şt&uuml;rmek i&ccedil;in yalın, resimsel bir dil kullanılarak tasarlanmış simgesel işaretlere ne ad verilmektedir?&nbsp;</strong>
+1. <strong>Bir kavram veya fikri g&ouml;rsel h&acirc;le d&ouml;n&uuml;şt&uuml;rmek i&ccedil;in yalın, resimsel bir dil kullanılarak tasarlanmış simgesel işaretlere ne ad verilmektedir?</strong>
     - A-) İdeogram
     - **Cevap B-) Piktogram**
     - C-) Fonogram
     - D-) Amblem
     - E-) Logo
     <hr />
-1. <strong>Bir &uuml;r&uuml;n&uuml; veya hizmeti tanıtmak amacıyla yapılan ill&uuml;strasyonlara ne ad verilmektedir?&nbsp;</strong>
+1. <strong>Bir &uuml;r&uuml;n&uuml; veya hizmeti tanıtmak amacıyla yapılan ill&uuml;strasyonlara ne ad verilmektedir?</strong>
     - A-) Kent İll&uuml;strasyonları
     - B-) Yayın İll&uuml;strasyonları
     - **Cevap C-) Reklam İll&uuml;strasyonları**
     - D-) Moda ve Tekstil İll&uuml;strasyonları
     - E-) Bilimsel İll&uuml;strasyonlar
     <hr />
-1. <strong>Aşağıdakilerden hangisi afiş tasarım s&uuml;recinde dikkat edilmesi gereken unsurlar arasında <u>yer almaz</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi afiş tasarım s&uuml;recinde dikkat edilmesi gereken unsurlar arasında <u>yer almaz</u>?</strong>
     - A-) En yalın şekilde tasarlanmalıdır.
     - B-) Tasarımcı, konuya g&ouml;re bu &ouml;gelerden hangilerini kullanacağını, mesaj-imge b&uuml;t&uuml;nl&uuml;ğ&uuml; &ccedil;er&ccedil;evesinde se&ccedil;melidir.
     - **Cevap C-) S&ouml;zc&uuml;kler uzun ve anlaşılmaz olmalıdır.**
     - D-) Afişler toplumun sosyok&uuml;lt&uuml;rel, bireylerin psikolojik &ouml;zellikleri, sergilendiği &ccedil;evre şartları dikkate alınmalıdır.
     - E-) Dikkat &ccedil;ekmek, fark edilmek, bilgilendirmek, bireyleri harekete ge&ccedil;irmek gibi &ouml;zellikleri bulunan afişlerde, kısa ve etkili bir slogan tercih edilmelidir.
     <hr />
-1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun temel işlevlerinden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun temel işlevlerinden biridir?</strong>
     - A-) S&ouml;zel unsurları yazıyla betimlemek
     - B-) Hedef kitleyle yazılı iletişim kurmak
     - C-) Tek bir tarzda &uuml;retimde bulunmak
@@ -1409,28 +1409,28 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) Peter Mark Roget
     - **Cevap E-) Nicephore Niepce**
     <hr />
-1. <strong>&Ccedil;aresizlik, g&uuml;&ccedil;s&uuml;zl&uuml;k, k&uuml;&ccedil;&uuml;mseme gibi duyguların aktarılması amacıyla tercih edilen &ccedil;ekim a&ccedil;ısı aşağıdakilerden hangisidir?</strong> 
+1. <strong>&Ccedil;aresizlik, g&uuml;&ccedil;s&uuml;zl&uuml;k, k&uuml;&ccedil;&uuml;mseme gibi duyguların aktarılması amacıyla tercih edilen &ccedil;ekim a&ccedil;ısı aşağıdakilerden hangisidir?</strong>
     - A-) Dar a&ccedil;ı
     - B-) Alt a&ccedil;ı
     - C-) G&ouml;z hizası
     - D-) Geniş a&ccedil;ı
     - **Cevap E-) &Uuml;st a&ccedil;ı**
     <hr />
-1. <strong>Aşağıdaki &ccedil;ekim &ouml;l&ccedil;eklerinden hangisi izleyici ve oyuncu arasında birbirleriyle konuşuyormuş hissi oluşturur?</strong> 
+1. <strong>Aşağıdaki &ccedil;ekim &ouml;l&ccedil;eklerinden hangisi izleyici ve oyuncu arasında birbirleriyle konuşuyormuş hissi oluşturur?</strong>
     - A-) Diz plan
     - **Cevap B-) Omuz plan**
     - C-) Bel plan
     - D-) Genel plan
     - E-) Detay plan
     <hr />
-1. <strong>Aşağıdakilerden hangisi sinemanın ilk &ouml;zel efekt y&ouml;netmeni olarak nitelendirilir?</strong> 
+1. <strong>Aşağıdakilerden hangisi sinemanın ilk &ouml;zel efekt y&ouml;netmeni olarak nitelendirilir?</strong>
     - A-) Pudovkin
     - **Cevap B-) Melies**
     - C-) Eisenstein
     - D-) Kuleşov
     - E-) Edison
     <hr />
-1. <strong>Potemkin Zırhlısı adlı film aşağıdaki y&ouml;netmenlerden hangisine aittir?</strong> 
+1. <strong>Potemkin Zırhlısı adlı film aşağıdaki y&ouml;netmenlerden hangisine aittir?</strong>
     - A-) Vertov
     - B-) Griffith
     - C-) Pudovkin
@@ -1445,70 +1445,70 @@ IV. Yaygın kullanıma sahip olması<br />
     - D-) 32
     - E-) 64
     <hr />
-1. <strong>Aşağıdakilerden hangisi hareketle yazma (sinematografi) eylemine yardımcı unsurlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi hareketle yazma (sinematografi) eylemine yardımcı unsurlardan biri <u>değildir</u>?</strong>
     - A-) Işık
     - B-) Objektif
     - C-) Pozlama
     - D-) Kompozisyon
     - **Cevap E-) M&uuml;zik**
     <hr />
-1. <strong>Lumiere kardeşlerin halka a&ccedil;ık ilk g&ouml;sterimlerini ger&ccedil;ekleştirdikleri yer ve zaman aşağıdakilerden hangisidir?</strong> 
+1. <strong>Lumiere kardeşlerin halka a&ccedil;ık ilk g&ouml;sterimlerini ger&ccedil;ekleştirdikleri yer ve zaman aşağıdakilerden hangisidir?</strong>
     - A-) 23 Ocak 1896 - Hollywood
     - B-) 25 Mart 1865 - Berlin
     - C-) 18 Eyl&uuml;l 1895 - Londra
     - D-) 23 Kasım 1896 - Roma
     - **Cevap E-) 28 Aralık 1895 &ndash; Paris**
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ekim a&ccedil;ılarından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;ekim a&ccedil;ılarından biri <u>değildir</u>?</strong>
     - A-) Alt a&ccedil;ı
     - B-) &Uuml;st a&ccedil;ı
     - **Cevap C-) Omuz a&ccedil;ı**
     - D-) G&ouml;z hizası
     - E-) Eğik a&ccedil;ı
     <hr />
-1. <strong>Bir nesne ya da g&ouml;r&uuml;nt&uuml;n&uuml;n g&ouml;z &ouml;n&uuml;nden kaybolduktan sonra bir s&uuml;re daha retina aracılığıyla beyinde yer tutmasına verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir nesne ya da g&ouml;r&uuml;nt&uuml;n&uuml;n g&ouml;z &ouml;n&uuml;nden kaybolduktan sonra bir s&uuml;re daha retina aracılığıyla beyinde yer tutmasına verilen isim aşağıdakilerden hangisidir?</strong>
     - A-) 180 derece kuralı
     - **Cevap B-) Ağtabaka İzlenimi**
     - C-) Alan derinliği
     - D-) Amors
     - E-) &Ouml;l&ccedil;eklendirme
     <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ekim &ouml;l&ccedil;eklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi &ccedil;ekim &ouml;l&ccedil;eklerinden biri <u>değildir</u>?</strong>
     - A-) Boy &ccedil;ekim
     - B-) Diz &ccedil;ekim
     - C-) Bel &ccedil;ekim
     - **Cevap D-) Alt &ccedil;ekim**
     - E-) Genel &ccedil;ekim
     <hr />
-1. <strong>Aşağıdakilerden hangisi aynı zamanda &quot;Amerikan Plan&quot; olarak nitelendirilir?</strong> 
+1. <strong>Aşağıdakilerden hangisi aynı zamanda &quot;Amerikan Plan&quot; olarak nitelendirilir?</strong>
     - **Cevap A-) Diz &ccedil;ekim**
     - B-) Genel &ccedil;ekim
     - C-) Detay &ccedil;ekim
     - D-) Bel &ccedil;ekim
     - E-) G&ouml;ğ&uuml;s &ccedil;ekim
     <hr />
-1. <strong>Aşağıdakilerden hangisi kameranın, objenin ya da kişinin ne kadarlık kısmını &ccedil;ektiğini ya da &ccedil;er&ccedil;evelediğini niteler?</strong> 
+1. <strong>Aşağıdakilerden hangisi kameranın, objenin ya da kişinin ne kadarlık kısmını &ccedil;ektiğini ya da &ccedil;er&ccedil;evelediğini niteler?</strong>
     - A-) Alan derinliği
     - **Cevap B-) &Ccedil;ekim &ouml;l&ccedil;eği**
     - C-) Alt a&ccedil;ı
     - D-) Amors
     - E-) Karşı a&ccedil;ı
     <hr />
-1. <strong>Aşağıdakilerden hangisi objektife bağlı hareketlerden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi objektife bağlı hareketlerden biridir?</strong>
     - A-) Pan
     - B-) Tilt
     - **Cevap C-) Zoom**
     - D-) Diyagonal
     - E-) Şaryo
     <hr />
-1. <strong>Aşağıdakilerden hangisi kameranın yer değişikliğine bağlı hareketini sağlayan unsurlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi kameranın yer değişikliğine bağlı hareketini sağlayan unsurlardan biri <u>değildir</u>?</strong>
     - **Cevap A-) Zoom out**
     - B-) Pedestal
     - C-) Dolly
     - D-) Jimmy Jip
     - E-) Slider
     <hr />
-1. <strong>G&ouml;rkem, ihtişam, g&uuml;&ccedil;, otorite, iktidar gibi soyut kavramların ifadesinde anlatımı g&uuml;&ccedil;lendirmek amacıyla hangi kamera a&ccedil;ısı tercih edilmelidir?&nbsp;</strong>
+1. <strong>G&ouml;rkem, ihtişam, g&uuml;&ccedil;, otorite, iktidar gibi soyut kavramların ifadesinde anlatımı g&uuml;&ccedil;lendirmek amacıyla hangi kamera a&ccedil;ısı tercih edilmelidir?</strong>
     - **Cevap A-) Alt a&ccedil;ı**
     - B-) &Uuml;st a&ccedil;ı
     - C-) Karşıdan a&ccedil;ı (g&ouml;z hizası)
@@ -1518,7 +1518,7 @@ IV. Yaygın kullanıma sahip olması<br />
 1. I.&nbsp;Panoramik<br />
 II. Diyagonal<br />
 III. Şaryo<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri kameranın g&ouml;vdesiyle yaptığı hareketler arasında <u>yer almaz</u>?&nbsp;</strong>
+<strong>Yukarıdakilerden hangisi ya da hangileri kameranın g&ouml;vdesiyle yaptığı hareketler arasında <u>yer almaz</u>?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) Yalnız III**
@@ -1533,91 +1533,91 @@ III. Şaryo<br />
     - E-) Orson Welles
     <hr />
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi medyanın genel ama&ccedil;larından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi medyanın genel ama&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) Bilgi verme
     - B-) Eğlendirme
     - C-) G&uuml;ndem belirleme
     - D-) Eğitme
     - **Cevap E-) Rehabilite etme**
     <hr />
-1. <strong>&ldquo;Farklı toplumsal k&uuml;lt&uuml;rlerin karşılıklı olarak birbirlerini tanıması, &uuml;lkeler arasındaki ilişkilerin yaygınlaşması ve artması&rdquo; tanımı aşağıdaki kavramlardan hangisine aittir?</strong> 
+1. <strong>&ldquo;Farklı toplumsal k&uuml;lt&uuml;rlerin karşılıklı olarak birbirlerini tanıması, &uuml;lkeler arasındaki ilişkilerin yaygınlaşması ve artması&rdquo; tanımı aşağıdaki kavramlardan hangisine aittir?</strong>
     - A-) Tasarım
     - **Cevap B-) K&uuml;reselleşme**
     - C-) Yerelleşme
     - D-) K&uuml;lt&uuml;r şoku
     - E-) Bilgi gediği
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni medyanın eleştirildiği alanlardan biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi yeni medyanın eleştirildiği alanlardan biridir?</strong>
     - A-) &Uuml;retim ve dağıtımda geleneksel medyaya g&ouml;re daha ekonomik olması
     - B-) Kanalların birbirine bağlanabilir olması
     - C-) G&uuml;ncellenebilir olması
     - **Cevap D-) İ&ccedil;erikte g&uuml;venilirlik sorunları**
     - E-) Zaman ve mek&acirc;n kısıtlı olmaması
     <hr />
-1. <strong>Global k&ouml;y kavramı aşağıdakilerden hangisini ifade etmektedir?</strong> 
+1. <strong>Global k&ouml;y kavramı aşağıdakilerden hangisini ifade etmektedir?</strong>
     - A-) Geleneksel medyayı
     - **Cevap B-) Medya ve iletişimin k&uuml;reselleşmesini**
     - C-) Medyanın yerelleşmesini
     - D-) Geleneksel dergiciliği
     - E-) Tiraj kavramını
     <hr />
-1. <strong>Aşağıdakilerden hangisi sayfa tasarımında kullanılan programlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi sayfa tasarımında kullanılan programlardan biri <u>değildir</u>?</strong>
     - A-) Indesign
     - B-) Illustrator
     - C-) Publisher
     - D-) Corel Draw
     - **Cevap E-) Note Pad**
     <hr />
-1. <strong>Bireylerin iş sahibi olmalarına y&ouml;nelik ama&ccedil;larla kullanılmakta olan, iş arayanlarla işverenleri buluşturan ağ aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bireylerin iş sahibi olmalarına y&ouml;nelik ama&ccedil;larla kullanılmakta olan, iş arayanlarla işverenleri buluşturan ağ aşağıdakilerden hangisidir?</strong>
     - A-) Indesign
     - B-) Myspace
     - C-) Google+
     - **Cevap D-) Linkedin**
     - E-) Twitter
     <hr />
-1. <strong>Kodlanan ve g&ouml;nderilen bir mesajın yerine ulaşıp ulaşmadığını ve alıcı tarafından anlaşılıp anlaşılmadığını test etmeye yarayan kavram hangisidir?</strong> 
+1. <strong>Kodlanan ve g&ouml;nderilen bir mesajın yerine ulaşıp ulaşmadığını ve alıcı tarafından anlaşılıp anlaşılmadığını test etmeye yarayan kavram hangisidir?</strong>
     - **Cevap A-) Geri bildirim**
     - B-) Geri d&ouml;n&uuml;ş&uuml;m
     - C-) Hedef Kitle
     - D-) Medya ağı
     - E-) İleti
     <hr />
-1. <strong>Aşağıdakilerden hangisi elektronik iletişim ara&ccedil;larından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi elektronik iletişim ara&ccedil;larından biri <u>değildir</u>?</strong>
     - A-) E-posta
     - B-) Radyo
     - C-) Televizyon
     - **Cevap D-) Mektup**
     - E-) İnternet
     <hr />
-1. <strong>Kaynak tarafından hedef kitleye ulaştırılmak &uuml;zere tasarlanan, bilgi, fikir ve d&uuml;ş&uuml;ncelere verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Kaynak tarafından hedef kitleye ulaştırılmak &uuml;zere tasarlanan, bilgi, fikir ve d&uuml;ş&uuml;ncelere verilen isim aşağıdakilerden hangisidir?</strong>
     - A-) Bilgi &ccedil;ağı
     - B-) Yeni medya
     - C-) Alıcı
     - **Cevap D-) Mesaj (ileti)**
     - E-) Uydu
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni medyanın getirdiği zorluklardan birisidir?</strong> 
+1. <strong>Aşağıdakilerden hangisi yeni medyanın getirdiği zorluklardan birisidir?</strong>
     - A-) Yeni medya ara&ccedil;larının kullanıcı dostu olması
     - B-) İnternet erişimi olan her yerden ulaşılabilmesi
     - C-) Kullanıcılara hız kazandırması
     - D-) İ&ccedil;erik paylaşımının ve dağıtımının kolay olması
     - **Cevap E-) G&uuml;venilir i&ccedil;eriği ayırt etmek**
     <hr />
-1. <strong>Global k&ouml;y kavramı aşağıdaki hangi iletişim kuramcısına aittir?</strong> 
+1. <strong>Global k&ouml;y kavramı aşağıdaki hangi iletişim kuramcısına aittir?</strong>
     - A-) Eco
     - B-) Baudrillard
     - **Cevap C-) McLuhan**
     - D-) Postman
     - E-) Lacan
     <hr />
-1. <strong>&ldquo;Dijital dil&rdquo; aşağıdakilerden hangisi tarafından geliştirilmiştir?</strong> 
+1. <strong>&ldquo;Dijital dil&rdquo; aşağıdakilerden hangisi tarafından geliştirilmiştir?</strong>
     - A-) Pavlik
     - B-) Postman
     - C-) Zizek
     - D-) Baudrillard
     - **Cevap E-) G. Willhelm**
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni medya teknolojilerinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi yeni medya teknolojilerinin &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Kanalların birbirine bağlanabilir olması
     - B-) Eski sistemlere g&ouml;re daha ekonomik olması
     - **Cevap C-) Kullanıcılar ile i&ccedil;erik &uuml;reticiler arasındaki mesafenin artması**
@@ -1631,28 +1631,28 @@ III. Şaryo<br />
     - D-) Bilgi &ccedil;ağı
     - E-) Sosyalleşme
     <hr />
-1. <strong>Aşağıdakilerden hangisi tasarımla ilgili <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi tasarımla ilgili <u>değildir</u>?</strong>
     - A-) Renk ve uyum
     - B-) Okunurluk
     - C-) Puntolar
     - D-) Yazı sitilleri
     - **Cevap E-) İ&ccedil;erik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi bir sosyal medya aracı <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi bir sosyal medya aracı <u>değildir</u>?</strong>
     - A-) Twitter
     - B-) Facebook
     - C-) Instagram
     - D-) Youtube
     - **Cevap E-) Faks**
     <hr />
-1. <strong>Son verilere g&ouml;re T&uuml;rkiye d&uuml;nyada internet kullanımında ka&ccedil;ında sıradadır?</strong> 
+1. <strong>Son verilere g&ouml;re T&uuml;rkiye d&uuml;nyada internet kullanımında ka&ccedil;ında sıradadır?</strong>
     - A-) 1. sırada
     - B-) 2. sırada
     - C-) 4. sırada
     - D-) 12. sırada
     - **Cevap E-) 20. sırada**
     <hr />
-1. <strong>Aşağıdakilerden hangisi yeni iletişim teknolojileri ve yeni medyanın kullanıcılara sağladığı olanaklardan biri <u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi yeni iletişim teknolojileri ve yeni medyanın kullanıcılara sağladığı olanaklardan biri <u>değildir</u>?</strong>
     - A-) İletişim kanallarının birbirine bağlanabilir olması
     - B-) İnteraktif olması
     - C-) Kullanım ve dağıtım kolaylığı
@@ -1662,7 +1662,7 @@ III. Şaryo<br />
 1. I.&nbsp;İ&ccedil;erikte karşılaşılan değişimler<br />
 II. Yazı işleri ve haberciliğin ge&ccedil;irdiği değişimler<br />
 III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan değişimler<br />
-<strong>Pavlik, yeni medyada haberciliğin d&ouml;rt temel a&ccedil;ıdan değiştiğini s&ouml;yler. Buna g&ouml;re yukarıda yer alan ifadelerden hangisi ya da hangileri habercilikte yaşanan değişimleri i&ccedil;ermektedir?&nbsp;</strong>
+<strong>Pavlik, yeni medyada haberciliğin d&ouml;rt temel a&ccedil;ıdan değiştiğini s&ouml;yler. Buna g&ouml;re yukarıda yer alan ifadelerden hangisi ya da hangileri habercilikte yaşanan değişimleri i&ccedil;ermektedir?</strong>
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
@@ -1677,21 +1677,21 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - E-) Geri Bildirim (feedback)
     <hr />
 ## Unite 13
-1. <strong>Onay kutularını se&ccedil;enek d&uuml;ğmelerinden ayıran temel fark aşağıdakilerden hangisidir?</strong> 
+1. <strong>Onay kutularını se&ccedil;enek d&uuml;ğmelerinden ayıran temel fark aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Kullanıcıların birden fazla işaretleme yapabilmesi**
     - B-) Kullanıcıların se&ccedil;enekler arasından sadece uygun olan birini se&ccedil;ebilmesi
     - C-) Kullanıcıların sadece belirli durumlarda se&ccedil;im yapabilmesi
     - D-) Kullanıcıların yaş d&uuml;zeylerine g&ouml;re se&ccedil;im şansı vermesi
     - E-) Kullanıcıların ekranlar arasında dolaşım yapmasına m&uuml;sade etmesi
     <hr />
-1. <strong>İnteraktif medya uygulamalarında aşağıdakilerden hangisi bir kullanıcı denetimi <u>değildir</u>?</strong> 
+1. <strong>İnteraktif medya uygulamalarında aşağıdakilerden hangisi bir kullanıcı denetimi <u>değildir</u>?</strong>
     - A-) Men&uuml;ler
     - B-) D&uuml;ğmeler
     - **Cevap C-) &Ccedil;er&ccedil;eveler**
     - D-) Komutlar
     - E-) Ara&ccedil; &ccedil;ubukları
     <hr />
-1. <strong>Ekran renklerinden oluşan RGB renk sistemi hangi renklerden oluşur?</strong> 
+1. <strong>Ekran renklerinden oluşan RGB renk sistemi hangi renklerden oluşur?</strong>
     - A-) Yeşil, turuncu, mor
     - **Cevap B-) Kırmızı, yeşil, mavi**
     - C-) Mavi, sarı, yeşil
@@ -1705,77 +1705,77 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - **Cevap D-) Gruplama**
     - E-) Geliştirme
     <hr />
-1. <strong>Aşağıdakilerden hangisi başarılı bir grafik aray&uuml;z tasarımı i&ccedil;in g&ouml;z &ouml;n&uuml;ne alınması gereken temel ilkelerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi başarılı bir grafik aray&uuml;z tasarımı i&ccedil;in g&ouml;z &ouml;n&uuml;ne alınması gereken temel ilkelerden biri <u>değildir</u>?</strong>
     - **Cevap A-) Tasarımda canlı renkler kullanmak**
     - B-) Kullanıcıların karakteristik &ouml;zelliklerini anlamak
     - C-) Son kullanıcı i&ccedil;in a&ccedil;ık ve anlaşılır olmak
     - D-) Kullanıcıların &ouml;nceki bilgileri ile tutarlı ve uygun olmak
     - E-) Kullanıcılar i&ccedil;in g&ouml;rsel geri bildirim sağlamak
     <hr />
-1. <strong>Aşağıdakilerden hangisi kullanılabilirliği değerlendirme tekniklerinden olan anket ile ulaşılabilen bilgilerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi kullanılabilirliği değerlendirme tekniklerinden olan anket ile ulaşılabilen bilgilerden biri <u>değildir</u>?</strong>
     - A-) Kullanıcılar hakkındaki demografik bilgiler
     - B-) Kullanıcıların uygulama ile ilgili memnuniyet durumları
     - **Cevap C-) Uygulamanın &uuml;retim maliyeti**
     - D-) Uygulamanın beğenilen ve beğenilmeyen y&ouml;nleri
     - E-) Uygulamayı geliştirmeye y&ouml;nelik &ouml;neri ve fikirler
     <hr />
-1. <strong>Aşağıdakilerden hangisi interaktif medya tasarım &ouml;geleri arasında <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi interaktif medya tasarım &ouml;geleri arasında <u>değildir</u>?</strong>
     - A-) Kompozisyon
     - B-) Renk
     - C-) Doku
     - D-) Ses
     - **Cevap E-) Denge**
     <hr />
-1. <strong>Kaynaktan alıcıya g&ouml;nderilen mesajın alıcı tarafından alınması ve alıcıda davranış değişikliği olmasına verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Kaynaktan alıcıya g&ouml;nderilen mesajın alıcı tarafından alınması ve alıcıda davranış değişikliği olmasına verilen isim aşağıdakilerden hangisidir?</strong>
     - A-) Denge
     - B-) B&uuml;t&uuml;nl&uuml;k
     - **Cevap C-) Etkileşim**
     - D-) Animasyon
     - E-) Kullanılabilirlik
     <hr />
-1. <strong>Aşağıdakilerden hangisi işitsel g&ouml;rsellerden biridir?</strong> 
+1. <strong>Aşağıdakilerden hangisi işitsel g&ouml;rsellerden biridir?</strong>
     - A-) Fotoğraf
     - B-) Yazı
     - **Cevap C-) M&uuml;zik**
     - D-) İll&uuml;strasyon
     - E-) Renk
     <hr />
-1. <strong>Aşağıdakilerden hangisi hareketli g&ouml;rsel dosya uzantıları arasında <u>yer almaz</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi hareketli g&ouml;rsel dosya uzantıları arasında <u>yer almaz</u>?</strong>
     - A-) .avi
     - **Cevap B-) .tiff**
     - C-) .mp4
     - D-) .mkv
     - E-) .mov
     <hr />
-1. <strong>Aşağıdakilerden hangisi kullanılabilirliği değerlendirme tekniklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi kullanılabilirliği değerlendirme tekniklerinden biri <u>değildir</u>?</strong>
     - A-) Kart sıralama
     - B-) Odak grup toplantıları
     - **Cevap C-) Benzetim**
     - D-) Bireysel g&ouml;r&uuml;şmeler
     - E-) Prototip oluşturma
     <hr />
-1. <strong>Aşağıdakilerden hangisi yazılı &ouml;gelerin d&uuml;zenlenmesindeki fakt&ouml;rlerden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi yazılı &ouml;gelerin d&uuml;zenlenmesindeki fakt&ouml;rlerden biri <u>değildir</u>?</strong>
     - A-) Font
     - **Cevap B-) Ses**
     - C-) Satır aralığı
     - D-) Punto
     - E-) Vurgulama
     <hr />
-1. <strong>Kompozisyondaki tasarım &ouml;gelerinin tasarım i&ccedil;erisinde dağınık bir izlenim bırakmadan bir araya gelmesine ne ad verilir?</strong> 
+1. <strong>Kompozisyondaki tasarım &ouml;gelerinin tasarım i&ccedil;erisinde dağınık bir izlenim bırakmadan bir araya gelmesine ne ad verilir?</strong>
     - A-) Boşluk
     - B-) Hiyerarşi
     - C-) Orantı
     - **Cevap D-) B&uuml;t&uuml;nl&uuml;k**
     - E-) Vurgulama
     <hr />
-1. <strong>Sanal ger&ccedil;eklik ile artırılmış ger&ccedil;ekliğin &ouml;zelliklerinin bir araya getirilmesine verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sanal ger&ccedil;eklik ile artırılmış ger&ccedil;ekliğin &ouml;zelliklerinin bir araya getirilmesine verilen isim aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) Karma ger&ccedil;eklik**
     - B-) Genişletilmiş ger&ccedil;eklik
     - C-) Sanal ger&ccedil;eklik
     - D-) İnteraktif ger&ccedil;eklik
     - E-) Birleşik ger&ccedil;eklik
     <hr />
-1. <strong>Ekranda g&ouml;rsel algılama a&ccedil;ısından tercih edilen metin hizalama sistemine verilen isim aşağıdakilerden hangisidir?</strong> 
+1. <strong>Ekranda g&ouml;rsel algılama a&ccedil;ısından tercih edilen metin hizalama sistemine verilen isim aşağıdakilerden hangisidir?</strong>
     - A-) Sağdan hizalama
     - B-) Ortadan hizalama
     - **Cevap C-) Soldan hizalama**
@@ -1790,14 +1790,14 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - E-) Ses efekti
     <hr />
 1. ................................, interaktif tasarım uygulamaları bağlamında kullanılabilirlik mevzusu &uuml;zerine uzmanlığı bulunan k&uuml;&ccedil;&uuml;k &ouml;l&ccedil;ekte bir grubun geliştirilen uygulamayı kullanılabilirlik kriterleri &ccedil;er&ccedil;evesinde incelemesi ve bu manada s&ouml;z konusu olan problemleri tespit etmesi şeklinde ger&ccedil;ekleştirilmektedir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) Buluşsal değerlendirme**
     - B-) Bireysel g&ouml;r&uuml;şmeler
     - C-) Paralel tasarımlar
     - D-) Sanal kişiler
     - E-) Prototip oluşturma
     <hr />
-1. <strong>Aşağıdakilerden hangisi Schwier ve Misanchuk&#39;a g&ouml;re interaktif tasarım s&uuml;recinde g&ouml;rsel tasarımın b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; ve etkililiğini belirleyen &ouml;geler arasında <u>yer almaz</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi Schwier ve Misanchuk&#39;a g&ouml;re interaktif tasarım s&uuml;recinde g&ouml;rsel tasarımın b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; ve etkililiğini belirleyen &ouml;geler arasında <u>yer almaz</u>?</strong>
     - A-) Kompozisyon
     - B-) Tipografik &ouml;geler
     - C-) Doku
@@ -1826,28 +1826,28 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - **Cevap D-) 70**
     - E-) 80
     <hr />
-1. <strong>D&uuml;nyada eser sahiplerini ilk koruyan kanun olarak kabul edilen &ldquo;Act Anne&rdquo; ka&ccedil; yılında kabul edilmiştir?</strong> 
+1. <strong>D&uuml;nyada eser sahiplerini ilk koruyan kanun olarak kabul edilen &ldquo;Act Anne&rdquo; ka&ccedil; yılında kabul edilmiştir?</strong>
     - **Cevap A-) 1709**
     - B-) 1648
     - C-) 1708
     - D-) 1659
     - E-) 1764
     <hr />
-1. <strong>Aşağıdakilerden hangisi 5846 sayılı Fikir ve Sanat Eserleri Kanunu &ccedil;er&ccedil;evesinde kurulan meslek birliklerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi 5846 sayılı Fikir ve Sanat Eserleri Kanunu &ccedil;er&ccedil;evesinde kurulan meslek birliklerinden biri <u>değildir</u>?</strong>
     - A-) MESAM
     - B-) SESAM
     - C-) İLESAM
     - D-) GESAM
     - **Cevap E-) ASAM**
     <hr />
-1. <strong>Aşağıdakilerden hangisi fikri m&uuml;lkiyetin korunması ile ama&ccedil;lanan hususlardan biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi fikri m&uuml;lkiyetin korunması ile ama&ccedil;lanan hususlardan biri <u>değildir</u>?</strong>
     - A-) Yaratıcılığın desteklenmesi
     - B-) Teknolojik ve k&uuml;lt&uuml;rel ilerlemenin desteklenmesi
     - C-) Adil bir rekabetin s&uuml;rd&uuml;r&uuml;lmesi
     - **Cevap D-) Eser sahibi ve bağlantılı hak sahiplerinin maddi varlığının artması**
     - E-) Toplumsal bilgi ve k&uuml;lt&uuml;r&uuml;n zenginleşmesi
     <hr />
-1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserlerinden biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserlerinden biri <u>değildir</u>?</strong>
     - A-) Musiki eserleri
     - B-) G&uuml;zel sanatlar eserleri
     - C-) Sinema eserleri
@@ -1861,22 +1861,21 @@ III. Haber kaynakları, izleyiciler, reklamcılar a&ccedil;ısından yaşanan de
     - D-) Yayma hakkı
     - E-) Temsil hakkı
     <hr />
-1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserleri arasında <u>g&ouml;sterilemez</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi fikir ve sanat eserleri arasında <u>g&ouml;sterilemez</u>?</strong>
     - A-) S&ouml;zs&uuml;z besteler
     - B-) Grav&uuml;rler
     - C-) Mimari maketler
     - **Cevap D-) Eskizler**
     - E-) Kaligrafik eserler
     <hr />
-1. <strong>Aşağıdakilerden hangisi e</strong><strong>ser sahibinin hakları a&ccedil;ısından <u>yanlıştır</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi e</strong><strong>ser sahibinin hakları a&ccedil;ısından <u>yanlıştır</u>?</strong>
     - A-) Eser sahibine tanınan hak ve salahiyetler, eserin b&uuml;t&uuml;n&uuml;ne ve par&ccedil;alarına şamildir.
     - B-) Bir eserin umuma arz edilip edilmemesini, yayımlanma zamanını ve tarzını m&uuml;nhasıran eser sahibi tayin eder.
     - **Cevap C-) Eserin umuma arzı, iletimi ve &ccedil;oğaltılması hususunda eser sahibinin s&ouml;zl&uuml; rızası yeterli g&ouml;r&uuml;l&uuml;r.**
-
     - D-) Eser sahibinin izni olmadık&ccedil;a eserde veyahut eser sahibinin adında kısaltmalar, ekleme ve başka değiştirmeler yapılamaz.
     - E-) Bir eserden, onu işlemek suretiyle faydalanma hakkı m&uuml;nhasıran eser sahibine aittir.
     <hr />
-1. <strong>2002 yılında y&uuml;r&uuml;rl&uuml;ğe giren WIPO İcracılar ve Fonogramlar S&ouml;zleşmesi&rsquo;ne g&ouml;re koruma s&uuml;resi en az ka&ccedil; yıl olarak tespit edilmiştir?</strong> 
+1. <strong>2002 yılında y&uuml;r&uuml;rl&uuml;ğe giren WIPO İcracılar ve Fonogramlar S&ouml;zleşmesi&rsquo;ne g&ouml;re koruma s&uuml;resi en az ka&ccedil; yıl olarak tespit edilmiştir?</strong>
     - A-) 30
     - B-) 40
     - **Cevap C-) 50**
@@ -1888,35 +1887,35 @@ II. Meslek birliklerinin hesapları, yeminli mali m&uuml;şavirlerce onaylanmal�
 III. Meslek birlikleri, umuma a&ccedil;ık mahallere eserlerin kullanımı konusunda ihtar g&ouml;ndermektedir.<br />
 IV. Eserlerin her t&uuml;rl&uuml; kullanım bi&ccedil;iminin bedellerini belirleyen tarifeler, Bakanlık tarafından meslek birliklerine g&ouml;nderilir.<br />
 V. Meslek birlikleri, elde ettikleri gelirleri Bakanlığa devretmektedir.<br />
-<strong>Meslek birliklerinin y&uuml;k&uuml;ml&uuml; ve g&ouml;revli olduğu hususlara dair yukarıda verilen bilgilerden hangisi ya da hangileri doğrudur?</strong> 
+<strong>Meslek birliklerinin y&uuml;k&uuml;ml&uuml; ve g&ouml;revli olduğu hususlara dair yukarıda verilen bilgilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - **Cevap B-) I ve II**
     - C-) I, II ve III
     - D-) IV ve V
     - E-) Yalnız V
     <hr />
-1. &ldquo;Sinema eseri gibi g&ouml;rsel-işitsel eserler i&ccedil;indeki ses tespitleri hari&ccedil; olmak &uuml;zere, bir icrada yer alan seslerin, diğer seslerin veya ses temsillerinin tespit edildiği ses taşıyıcısı fiziki ortamı&quot;&nbsp;<strong>olarak tanımlanan unsur aşağıdakilerden hangisidir?</strong> 
+1. &ldquo;Sinema eseri gibi g&ouml;rsel-işitsel eserler i&ccedil;indeki ses tespitleri hari&ccedil; olmak &uuml;zere, bir icrada yer alan seslerin, diğer seslerin veya ses temsillerinin tespit edildiği ses taşıyıcısı fiziki ortamı&quot;&nbsp;<strong>olarak tanımlanan unsur aşağıdakilerden hangisidir?</strong>
     - A-) Ekolayzır
     - **Cevap B-) Fonogram**
     - C-) Aranjman
     - D-) Telegram
     - E-) Hoparl&ouml;r
     <hr />
-1. <strong>5846 sayılı Fikir ve Sanat Eserleri Kanunu hangi yılda kabul edilmiştir?</strong> 
+1. <strong>5846 sayılı Fikir ve Sanat Eserleri Kanunu hangi yılda kabul edilmiştir?</strong>
     - A-) 1948
     - B-) 1949
     - C-) 1950
     - **Cevap D-) 1951**
     - E-) 1952
     <hr />
-1. <strong>Aşağıdakilerden hangisi, 5846 sayılı Fikir ve Sanat Eserleri Kanunu&rsquo;nun ama&ccedil;larından biri <u>değildir</u>?</strong> 
+1. <strong>Aşağıdakilerden hangisi, 5846 sayılı Fikir ve Sanat Eserleri Kanunu&rsquo;nun ama&ccedil;larından biri <u>değildir</u>?</strong>
     - **Cevap A-) Eser sahipleri, icracılar ve yapımcıların meslek birlikleri kurmasını sağlamak**
     - B-) Eser sahipleri, icracılar ve yapımcıların eserler &uuml;zerindeki manevi haklarını belirlemek
     - C-) Eser sahipleri, icracılar ve yapımcıların eserlerden yararlanma şartlarını d&uuml;zenlemek
     - D-) Esas ve usullere aykırılık durumunda yaptırımları tespit etmek
     - E-) Eser sahipleri, icracılar ve yapımcıların eserler &uuml;zerindeki mali ve manevi haklarını koruma altına almak
     <hr />
-1. <strong>5846 sayılı Fikir ve Sanat Eserleri Kanunu&rsquo;nda belirtilen Bakanlık aşağıdakilerden hangisidir?</strong> 
+1. <strong>5846 sayılı Fikir ve Sanat Eserleri Kanunu&rsquo;nda belirtilen Bakanlık aşağıdakilerden hangisidir?</strong>
     - **Cevap A-) K&uuml;lt&uuml;r ve Turizm Bakanlığı**
     - B-) &Ccedil;alışma Bakanlığı
     - C-) Aile ve Sosyal Politikalar Bakanlığı
@@ -1926,7 +1925,7 @@ V. Meslek birlikleri, elde ettikleri gelirleri Bakanlığa devretmektedir.<br />
 1. I. Eser sahibinin rızası her zaman yazılı izin olarak alınmak durumunda değildir, s&ouml;zl&uuml; izin de ge&ccedil;erlidir.<br />
 II. Meydana getirilen bir esere isim vermek hakkı yalnızca sahibine aittir.<br />
 III. Madde 27&rsquo;ye g&ouml;re mali haklarda koruma s&uuml;resi eser sahibi yaşadığı s&uuml;rece ve &ouml;ld&uuml;kten sonra 50 yıldır.<br />
-<strong>Fikir ve Sanat Eserleri Kanunu&#39;na g&ouml;re yukarıdakilerden hangisi ya da hangileri doğrudur?&nbsp;</strong>
+<strong>Fikir ve Sanat Eserleri Kanunu&#39;na g&ouml;re yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
     - A-) Yalnız I
     - **Cevap B-) Yalnız II**
     - C-) Yalnız III

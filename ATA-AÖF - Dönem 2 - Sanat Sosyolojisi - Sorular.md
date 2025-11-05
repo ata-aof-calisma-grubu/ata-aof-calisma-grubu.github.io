@@ -292,7 +292,7 @@
     - D-) Estetik bilim
     - E-) Estetik yargı
     <hr />
-1.&nbsp;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, karşısında estetik tavır alınan, estetik yaşamın konusu olan şeydir.<br />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, karşısında estetik tavır alınan, estetik yaşamın konusu olan şeydir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Estetik &ouml;zne
     - B-) Estetik haz
@@ -632,7 +632,7 @@
     - D-) Ahmet Hamdi Tanpınar
     - E-) Reşat Nuri G&uuml;ntekin
     <hr />
-1. <strong>Mimar Sinan&#39;ın abidevi eseri S&uuml;leymaniye Camii ve Michalengolo&rsquo;nun majestik şaheseri olarak kabul edilen Davut Heykeli sanatın hangi boyutunun en g&uuml;zel &ouml;rneklerindendir?&nbsp;</strong>
+1. <strong>Mimar Sinan&#39;ın abidevi eseri S&uuml;leymaniye Camii ve Michalengolo&rsquo;nun majestik şaheseri olarak kabul edilen Davut Heykeli sanatın hangi boyutunun en g&uuml;zel &ouml;rneklerindendir?</strong>
     - **Cevap A-) İnan&ccedil;**
     - B-) Paylaşma ve beğenilme
     - C-) Para kazanma
@@ -1093,7 +1093,7 @@ III. Aydın Sanatı<br />
     - D-) Sokrates
     - **Cevap E-) Tolstoy**
     <hr />
-1.&nbsp;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&rsquo;e g&ouml;re sanat, toplumsal yapının bir &uuml;r&uuml;n&uuml;d&uuml;r; dolayısıyla toplumsal yapıya bağlı olarak ortaya &ccedil;ıkar, gelişir ve değişir.<br />
+1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&rsquo;e g&ouml;re sanat, toplumsal yapının bir &uuml;r&uuml;n&uuml;d&uuml;r; dolayısıyla toplumsal yapıya bağlı olarak ortaya &ccedil;ıkar, gelişir ve değişir.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi geltirilmelidir?</strong>
     - **Cevap A-) S. G&uuml;ll&uuml;l&uuml;**
     - B-) N. Nirun
@@ -1167,7 +1167,7 @@ III. Aydın Sanatı<br />
     - **Cevap D-) Cornejo&#39;ya**
     - E-) Bastide&#39;e
     <hr />
-1. <strong>Sanatın &ouml;z&uuml;n&uuml;n &ldquo;belli bir yalan t&uuml;r&uuml;&rdquo; olduğunu s&ouml;yleyen d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong> 
+1. <strong>Sanatın &ouml;z&uuml;n&uuml;n &ldquo;belli bir yalan t&uuml;r&uuml;&rdquo; olduğunu s&ouml;yleyen d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Hegel
     - **Cevap B-) Nietzche**
     - C-) Bastide
@@ -1188,7 +1188,7 @@ III. Aydın Sanatı<br />
     - D-) Sanat eğitimi derslerinde gerekli ilgi ortamı sağlanmalıdır.
     - **Cevap E-) Sanat eğitiminde &ccedil;evresel imk&acirc;nlar ve fırsatlar eğitim s&uuml;recinin dışında bırakılmalıdır.**
     <hr />
-1. <strong>Resim &ccedil;izme etkinliğini bir t&uuml;r dil olarak g&ouml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong> 
+1. <strong>Resim &ccedil;izme etkinliğini bir t&uuml;r dil olarak g&ouml;ren d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
     - A-) Schiller
     - **Cevap B-) Humboldt**
     - C-) Herder
@@ -1284,7 +1284,7 @@ III. Aydın Sanatı<br />
     - D-) K&uuml;lt&uuml;rel
     - E-) Psikolojik
     <hr />
-1.&nbsp;....................., maddesel kalıcılığı sayesinde farklı uygarlıklara ait mitolojik anlatıları konu edinmiş ve bunların sahip oldukları değerleri, metaforları ve imgeleri kendi diliyle aktarmaya &ccedil;alışmıştır.<br />
+1. ....................., maddesel kalıcılığı sayesinde farklı uygarlıklara ait mitolojik anlatıları konu edinmiş ve bunların sahip oldukları değerleri, metaforları ve imgeleri kendi diliyle aktarmaya &ccedil;alışmıştır.<br />
 <strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Resim sanatı
     - **Cevap B-) Heykel sanatı**
@@ -1307,7 +1307,7 @@ III. Aydın Sanatı<br />
     - E-) Samuel Beckett
     <hr />
 1. Nietzsche&rsquo;ye g&ouml;re Yunan mitolojisinde Apollon .................. ve Dionysos .................. temsil etmektedir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - **Cevap A-) aklı - i&ccedil;g&uuml;d&uuml;y&uuml;**
     - B-) sanatı&nbsp;- bilimi
     - C-) ge&ccedil;mişi - geleceği
@@ -1468,7 +1468,7 @@ IV. Herakles<br />
     - D-) Predigital
     - E-) Postdigital
     <hr />
-1. <strong>G&ouml;r&uuml;nt&uuml;n&uuml;n en k&uuml;&ccedil;&uuml;k bileşeni, genellikle nokta ya da kare ile ifade edilen g&ouml;r&uuml;nt&uuml; par&ccedil;acığı olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong> 
+1. <strong>G&ouml;r&uuml;nt&uuml;n&uuml;n en k&uuml;&ccedil;&uuml;k bileşeni, genellikle nokta ya da kare ile ifade edilen g&ouml;r&uuml;nt&uuml; par&ccedil;acığı olarak tanımlanan kavram aşağıdakilerden hangisidir?</strong>
     - A-) CGI
     - B-) Render
     - **Cevap C-) Piksel**
@@ -1611,7 +1611,7 @@ IV. Herakles<br />
     - E-) Victoria and Albert
     <hr />
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi maddi k&uuml;lt&uuml;r &ouml;ğelerinden biridir? </strong>
+1. <strong>Aşağıdakilerden hangisi maddi k&uuml;lt&uuml;r &ouml;ğelerinden biridir?</strong>
     - A-) Ahlaki değerler
     - **Cevap B-) Giysi**
     - C-) Gelenek
@@ -1839,7 +1839,7 @@ IV. Onlar Grubu<br />
     - D-) Tahsin Sermet
     - **Cevap E-) Emre Onat**
     <hr />
-1. <strong>Bulunduğu b&ouml;lgenin coğrafi şartlarına uygun olarak altı metrelik bir derinliğe inşa edilen modern mimari &ouml;rneği hangisidir?</strong> 
+1. <strong>Bulunduğu b&ouml;lgenin coğrafi şartlarına uygun olarak altı metrelik bir derinliğe inşa edilen modern mimari &ouml;rneği hangisidir?</strong>
     - A-) Yeşilvadi Cami
     - **Cevap B-) Sancaklar Cami**
     - C-) Menemen Kubilay Anıtı

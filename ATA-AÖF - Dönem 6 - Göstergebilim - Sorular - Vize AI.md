@@ -8,7 +8,7 @@
    - D-) Ruhdilbilim
    - E-) Edimbilim
    <hr /><br />
-2. _Yananlam, bir göstergenin temel anlamının ötesinde, çağrıştırdığı veya ima ettiği anlamdır. Bir göstergenin başka bir anlamda kullanılması, yananlam yoluyla anlam genişlemesine bir örnektir._ <br />
+2. _Yananlam, bir göstergenin temel anlamının ötesinde, çağrıştırdığı veya ima ettiği anlamdır. Bir göstergenin başka bir anlamda kullanılması, yananlam yoluyla anlam genişlemesine bir örnektir._<br />
  <strong>Bir göstergenin başka bir anlama geçmek amacıyla kullanılmasına ne ad verilir?</strong><br />
    - A-) Düzanlam
    - **Cevap B-) Yananlam**
@@ -200,7 +200,7 @@
    <hr /><br />
 4. _Sosyodilbilim, dilin sosyal bağlamdaki kullanımlarını inceler. Telaffuz, sözcük yapısı, cümle yapısı ve anlam gibi dilin çeşitli seviyelerindeki sosyal farklılıklar sosyodilbilimin ilgi alanına girer._<br />
 **I. Telaffuz**<br />
-**II. Sözcük yapısı** <br />
+**II. Sözcük yapısı**<br />
 **III. Cümle yapısı**<br />
 **IV. Anlam**<br />
 <strong>Yukarıdakilerden hangisi ya da hangileri sosyodilbilimin inceleme alanına girmektedir?</strong>
@@ -677,7 +677,7 @@ Yapısalcı Yöntemi ilk kez dil bilimi dışında kalan bir bilim dalında (**a
    - D-) Jacques Derrida
    - E-) Jacques Lacan
    <hr />
-   
+  
 ## Unite 5
 1. _Saussure, 20. yüzyıl Avrupa Dil Bilimi'nin en etkili figürlerinden biridir. Onun dilbilim kuramı, Avrupa dil biliminin neredeyse tamamını derinden etkilemiştir ve modern dilbilimin temellerini oluşturmuştur._<br />
 **Yirminci yüzyılda Avrupa Dil Bilimi'nin neredeyse tamamının beslendiği bilim insanı aşağıdakilerden hangisidir?**

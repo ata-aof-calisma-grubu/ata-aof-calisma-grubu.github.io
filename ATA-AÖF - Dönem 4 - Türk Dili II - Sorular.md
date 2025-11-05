@@ -172,7 +172,7 @@ III. Sıra sayı sıfatını belirtmek i&ccedil;in kullanılır.<br />
     - D-) &Uuml;nlem, İki nokta, Kısa &ccedil;izgi
     - **Cevap E-) &Uuml;&ccedil; nokta, İki nokta, Nokta**
     <hr />
-1. Ayağını sıcak tut(&nbsp;) başını serin(&nbsp;) g&ouml;nl&uuml;n&uuml; ferah tut(&nbsp;) d&uuml;ş&uuml;nme derin(&nbsp;)<br />
+1. Ayağını sıcak tut(&nbsp;) başını serin(&nbsp;)&nbsp;g&ouml;nl&uuml;n&uuml; ferah tut(&nbsp;)&nbsp;d&uuml;ş&uuml;nme derin(&nbsp;)<br />
 <strong>C&uuml;mlede ayra&ccedil;larla g&ouml;sterilen yerlere aşağıdaki noktalama işaretlerinden hangisi sırasıyla getirilmelidir?</strong>
     - A-) ( . ) ( : ) ( , ) ( . )
     - **Cevap B-) ( , ) ( ; ) ( , ) ( . )**

@@ -21,7 +21,7 @@
     - D-) Tıp
     - **Cevap E-) &Ouml;ğretmenlik**
     <hr />
-1. <strong>Aşağıdakilerden hangisi Antik Yunan mimari tasarımlarının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?&nbsp;</strong>
+1. <strong>Aşağıdakilerden hangisi Antik Yunan mimari tasarımlarının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
     - A-) Adeta bir heykel gibi tasarlanmıştır.
     - B-) Stereometrik anlayıştadır.
     - **Cevap C-) Y&uuml;ksek pencereleri vardır.**
@@ -657,7 +657,7 @@
     - **Cevap E-) &Ccedil;evresel &ndash; Bilişsel - Kişisel**
     <hr />
 1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; amacı kendisinin dışındadır, başkası i&ccedil;in yaşar, maddi ve &ccedil;ıkarcı bir yaklaşımı vardır, araştırmak, bulmak, keşfetmek bu &ccedil;ıkarlara uyup uymamasına bağlıdır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?&nbsp;</strong>
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) Yaratıcı kişiliğin
     - B-) Tasarım &ccedil;alışanlarının
     - C-) İll&uuml;strat&ouml;rlerin
@@ -721,7 +721,7 @@
     - D-) Kırmızı Şapka
     - E-) Sarı Şapka
     <hr />
-1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&#246;ntem olarak da bilinen Altı Şapka Y&#246;ntemi&#39;nde kesin bilgiyi, tarafsız olmayı simgeleyen şapka rengidir?</strong>
+1. <strong>Aşağıdakilerden hangisi Tasvir Edici Y&ouml;ntem olarak da bilinen Altı Şapka Y&ouml;ntemi&#39;nde kesin bilgiyi, tarafsız olmayı simgeleyen şapka rengidir?</strong>
     - A-) Mavi Şapka
     - **Cevap B-) Beyaz Şapka**
     - C-) Yeşil Şapka
@@ -959,7 +959,7 @@ C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</s
     - **Cevap E-) Biliş**
     <hr />
 1. &Uuml;st&uuml;noğlu (2006) .......................... becerilerini eleştirel d&uuml;ş&uuml;nme, yaratıcı d&uuml;ş&uuml;nme, analitik d&uuml;ş&uuml;nme, yansıtıcı d&uuml;ş&uuml;nme ve problem &ccedil;&ouml;zme olarak beşe ayırmıştır.<br />
-<strong>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi getirilmelidir.&nbsp;</strong>
+<strong>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi getirilmelidir.</strong>
     - **Cevap A-) &Uuml;st D&uuml;zey D&uuml;ş&uuml;nme**
     - B-) Iraksak D&uuml;ş&uuml;nme
     - C-) B&uuml;t&uuml;nc&uuml;l D&uuml;ş&uuml;nme

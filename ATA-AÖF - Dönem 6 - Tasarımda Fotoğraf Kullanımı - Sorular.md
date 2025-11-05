@@ -11,7 +11,7 @@
     - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
     - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahiptir.
     - C-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol ve işlemleri tasarlayan plan ve &ccedil;er&ccedil;eve olarakta yorumlanır.
-    - **Cevap D-) Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.<br />**
+    - **Cevap D-) Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.**
     - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmanın ilk taslağını belirtir.
     <hr />
 1. <strong>T&uuml;rk Dil Kurumuna g&ouml;re aşağıdakilerden hangisi sanat kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
@@ -1084,7 +1084,7 @@ III. Tasarımda ahengin sağlanması<br />
     - A-) Doğru renkleri ve ışığı doğru kullanabilecek estetik bir g&ouml;z terbiyesine sahip olmalıdır.
     - B-) Modayı yakından takip etmeli, hayal g&uuml;c&uuml; ve yaratıcılığı y&uuml;ksek olmalıdır.
     - **Cevap C-) Fotoğraf tekniği konusunda bilgisi olmasına gerek yoktur.**
-    - D-) Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.<br />
+    - D-) Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.
     - E-) &Ccedil;ekim sonrasında ise fotoğraf&ccedil;ının post prod&uuml;ksiyon ekibi ile fotoğraf &uuml;zerinde son r&ouml;t&uuml;şları yapacak yeterli bilgisi olabilmelidir.
     <hr />
 1. <strong>Aşağıdakilerden hangileri yapay ışık kaynaklarından biri <u>değildir</u>?</strong>
@@ -1109,7 +1109,7 @@ III. Tasarımda ahengin sağlanması<br />
     - D-) Devamlılık
     - E-) Benzerlik
     <hr />
-1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir?&nbsp;</strong>
+1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir?</strong>
     - A-) Doku
     - B-) Espas
     - C-) Işık
@@ -1169,7 +1169,7 @@ III. Tasarımda ahengin sağlanması<br />
     - A-) Belirli grupların hedeflerini destekleyecek doğrultudadır.
     - B-) Bize yeni bakış a&ccedil;ıları vermektedir.
     - C-) Ger&ccedil;eğin yeniden uyarlanmış ve inşa edilmiş h&acirc;lidir.
-    - D-) Temsile dayalı farklı yorumlama&nbsp;bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
+    - D-) Temsile dayalı farklı yorumlama bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
     - **Cevap E-) Temsil, mimarın &ouml;zg&uuml;nl&uuml;ğ&uuml;n&uuml; azaltır.**
     <hr />
 1. <strong>Aşağıdakilerden hangisi mek&acirc;nın g&ouml;rsel algısını etkileyen tasarım unsurlarından biri&nbsp;<u>değildir</u>?</strong>

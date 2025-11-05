@@ -30,7 +30,7 @@
     - D-) Logo zemini
     - E-) Logo sınırları
     <hr />
-1. <strong>Boşluğun tasarımdaki &ouml;nemi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong> 
+1. <strong>Boşluğun tasarımdaki &ouml;nemi ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
     - A-) Tasarımda boşluk, mesaja g&ouml;re farklılık g&ouml;sterebilir.
     - B-) Tasarımın hedefine hizmet eder.
     - C-) Tasarımcının iletmek istediği mesaja g&ouml;re farklılık g&ouml;sterebilir.
@@ -91,7 +91,7 @@ III. Katman<br />
     - **Cevap D-) kitap tasarımı**
     - E-) ambalaj tasarımı
     <hr />
-1. <strong>&ldquo;Boşluğu Tasarlamak&rdquo; adlı makalesinde, boşluğu &ldquo;zihnin rengi&rdquo; olarak tanımlayan tasarımcı aşağıdakilerden hangisidir?</strong> 
+1. <strong>&ldquo;Boşluğu Tasarlamak&rdquo; adlı makalesinde, boşluğu &ldquo;zihnin rengi&rdquo; olarak tanımlayan tasarımcı aşağıdakilerden hangisidir?</strong>
     - A-) Uwe Loesch
     - **Cevap B-) Daniel Benneworth Gray**
     - C-) Eric hBrechb&uuml;hl
@@ -393,7 +393,7 @@ V.&nbsp;Bir grafik kompozisyonun tasarım s&uuml;recinde, d&ouml;rt temel kavram
     - D-) &uuml;st kısıma / Barok
     - E-) alt kısıma / R&ouml;nesans
     <hr />
-1. <strong>Derinlik etkisini oluşturan iki temel y&ouml;ntemden biri &ccedil;izgisel perspektif ise diğeri aşağıdakilerden hangisidir?</strong> 
+1. <strong>Derinlik etkisini oluşturan iki temel y&ouml;ntemden biri &ccedil;izgisel perspektif ise diğeri aşağıdakilerden hangisidir?</strong>
     - A-) Eğik perspektif
     - B-) A&ccedil;ısal perspektif
     - C-) Doğrusal perspektif
@@ -517,7 +517,7 @@ III. G&uuml;neş ışınları yapay aydınlatmaların tersine radyal bi&ccedil;i
     - E-) &Ccedil;izimde &uuml;&ccedil;&uuml;nc&uuml; bir ka&ccedil;ış noktası bulunmasıyla
     <hr />
 1. Sezgisel bir anlatımla da olsa perspektif bir g&ouml;r&uuml;n&uuml;m veya derinlik etkisi verilerek oluşturulan ger&ccedil;eklik algısı, tasarımın aslında iki boyutlu bir alan i&ccedil;inde sınırlı kalmadığı etkisini de uyandırılabilir.<br />
-<strong>Yukarıda a&ccedil;ıklanan durum tasarıma bakan bir kimse i&ccedil;in nasıl bir his ortaya &ccedil;ıkarır?</strong> 
+<strong>Yukarıda a&ccedil;ıklanan durum tasarıma bakan bir kimse i&ccedil;in nasıl bir his ortaya &ccedil;ıkarır?</strong>
     - A-) Duygusal veya rahatlatıcı
     - B-) Kesin veya teyit edici
     - C-) Yapay veya zorlayıcı
@@ -821,7 +821,7 @@ III.&nbsp;Duyu bilgileri ile tasarımları imgeler<br />
     - D-) Orta &Ccedil;ağ Sanatı&rsquo;nda imgeler &ccedil;oğunlukla kutsal &ouml;ğretileri ileten unsurlar olarak karşımıza &ccedil;ıkmıştır.
     - **Cevap E-) R&ouml;nesans ile birlikte imge yeniden insan ve onun &ccedil;evresinin dini anlayışına odaklanmıştır.**
     <hr />
-1. <strong>Simge ve sembol arasındaki fark ile ilgili olarak aşağıdakilerden hangisi doğrudur?&nbsp;</strong>
+1. <strong>Simge ve sembol arasındaki fark ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
     - A-) Simge, soyut kavramların somutlaştırılmasıdır; sembol ise doğrudan bir anlam ifade eder.
     - B-) Simge, evrensel bir anlam taşırken; sembol k&uuml;lt&uuml;rel olarak değişebilir.
     - C-) Simge ve sembol aynı anlama gelir, aralarında bir fark yoktur.
@@ -913,7 +913,7 @@ III. Terapotik<br />
     - D-) Sinekdok
     - E-) Paradigma
     <hr />
-1. <strong>Metafor kavramının gelişiminde Nietzsche&#39;nin &ouml;nemli bir isim olma nedeni aşağıdakilerden hangisidir?</strong> 
+1. <strong>Metafor kavramının gelişiminde Nietzsche&#39;nin &ouml;nemli bir isim olma nedeni aşağıdakilerden hangisidir?</strong>
     - A-) Bilin&ccedil;altı ve metafor kavramları arasında bağ kurduğu i&ccedil;in
     - B-) Metafor kavramının detaylı tanımını yaptığı i&ccedil;in
     - C-) &Ccedil;ağdaş Metafor Kuramı&#39;nı oluşturduğu i&ccedil;in
@@ -995,7 +995,7 @@ Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanı
     - E-) Yazının k&ouml;kenindeki g&ouml;rseller piktografik &ouml;zellik g&ouml;sterir.
     <hr />
 1. 13. y&uuml;zyılda k&acirc;ğıt &uuml;reticilerinin ticari markalarını simgelemek i&ccedil;in &uuml;r&uuml;nleri &uuml;zerinde yer vermeye başladığı işaretlere ....................... adı verilir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong> 
+<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
     - A-) tipogram
     - B-) arma
     - C-) logogram
@@ -1019,7 +1019,7 @@ Aşağıdakilerden hangisi g&ouml;rsel metafor &uuml;retmek i&ccedil;in kullanı
 1. I. Estetik<br />
 II. Bilgilendirici<br />
 III. Soyut<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri piktogramların yapısal &ouml;zellikleri arasında yer alır?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri piktogramların yapısal &ouml;zellikleri arasında yer alır?</strong>
     - A-) Yalnız I
     - **Cevap B-) I ve II**
     - C-) II ve III
@@ -1076,7 +1076,7 @@ III. Soyut<br />
 1. I. Sigmatik<br />
 II. Pragmatik<br />
 III. Sentaks<br />
-<strong>Yukarıdaki hangisi ya da hangileri Semiyotik bilimindeki alt başlıklardan biri olarak g&ouml;sterilebilir?</strong> 
+<strong>Yukarıdaki hangisi ya da hangileri Semiyotik bilimindeki alt başlıklardan biri olarak g&ouml;sterilebilir?</strong>
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
@@ -1185,7 +1185,7 @@ Aşağıdakilerden hangisi bu d&ouml;rt temel alandan biri <u>değildir</u>?</st
     - D-) İ&ccedil;erik ve bi&ccedil;im tasarımcıyı g&ouml;rsel &ouml;ğeye sevk eder.
     - E-) Mesaj iletme aracı olarak anlam, sadece i&ccedil;erikten beslenir.
     <hr />
-1. <strong>Bir &ouml;nermenin, bir tasarının, bir d&uuml;ş&uuml;ncenin veya eserin anlatmak istediği şeyi a&ccedil;ıklayan s&ouml;zc&uuml;k aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir &ouml;nermenin, bir tasarının, bir d&uuml;ş&uuml;ncenin veya eserin anlatmak istediği şeyi a&ccedil;ıklayan s&ouml;zc&uuml;k aşağıdakilerden hangisidir?</strong>
     - A-) İ&ccedil;erik
     - B-) Mesaj
     - C-) Bi&ccedil;im
@@ -1427,7 +1427,7 @@ III. İzleyiciyi y&ouml;nlendirir<br />
     - **Cevap D-) Espas**
     - E-) Işık-G&ouml;lge
     <hr />
-1. <strong>17. Y&uuml;zyıl Barok sanat&ccedil;ılarından Vermeer&rsquo;in &ccedil;alışmaları kadraj a&ccedil;ısından neden &ouml;nemlidir?</strong> 
+1. <strong>17. Y&uuml;zyıl Barok sanat&ccedil;ılarından Vermeer&rsquo;in &ccedil;alışmaları kadraj a&ccedil;ısından neden &ouml;nemlidir?</strong>
     - A-) Odak noktasının merkezde yer alması
     - **Cevap B-) Kompozisyonu Camera Obscura yardımıyla belirlemesi**
     - C-) Kapalı kompozisyon &ouml;rneğini yansıtması
@@ -1649,7 +1649,7 @@ III. İhtimal<br />
 1. I. Bir arabanın hızı<br />
 II. Bir mesafenin uzunluğu<br />
 III. İş yerine ne kadar s&uuml;rede gideceğimiz<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri olasılık i&ccedil;erisinden hareket etmemizi etkilemektedir?</strong> 
+<strong>Yukarıdakilerden hangisi ya da hangileri olasılık i&ccedil;erisinden hareket etmemizi etkilemektedir?</strong>
     - A-) II ve III
     - B-) Yalnız III
     - **Cevap C-) I, II ve III**
@@ -1753,7 +1753,7 @@ III. G&ouml;rsel hiyerarşi<br />
     - **Cevap D-) d&uuml;zenlemeye**
     - E-) geometrik şekle
     <hr />
-1. <strong>Bir tasarımdaki g&ouml;rsel &ouml;ğelerin belirli bir d&uuml;zen i&ccedil;erisinde yerleştirilmesini sağlayan &ccedil;izgiler aşağıdakilerden hangisidir?</strong> 
+1. <strong>Bir tasarımdaki g&ouml;rsel &ouml;ğelerin belirli bir d&uuml;zen i&ccedil;erisinde yerleştirilmesini sağlayan &ccedil;izgiler aşağıdakilerden hangisidir?</strong>
     - A-) Şekil
     - B-) Nokta
     - C-) Sayfa

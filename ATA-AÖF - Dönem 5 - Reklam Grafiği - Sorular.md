@@ -1,1642 +1,1626 @@
-# Reklam Grafiği
+# Reklam Grafiği (Dönem 5) - Tüm Sorular
+
 ## Unite 1
-1. <strong>Aşağıdakilerden hangisi reklamın ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi reklamın amaçlarından biri değildir?**
     - A-) Kişilerin topluma tanıtılması
     - B-) Kurumların topluma tanıtılması
     - C-) Fikirlerin topluma tanıtılması
     - D-) Mal ve hizmetlerin topluma tanıtılması
     - **Cevap E-) Mal ve hizmetlerin satılması**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiği kapsamına giren unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiği kapsamına giren unsurlardan biri değildir?**
     - **Cevap A-) Radyo reklamları**
     - B-) Gazete ilanları
     - C-) Logolar
     - D-) Kitap kapakları
     - E-) Etiketler
-    <hr />
-1. <strong>Herhangi bir mal ya da hizmetin, bedeli kim tarafından &ouml;dendiği belli olacak şekilde, kitle iletişim ara&ccedil;larından yer ve zaman satın alarak halka tanıtılmasına y&ouml;nelik uygulamalara ne ad verilir?</strong>
+    ***
+1. **Herhangi bir mal ya da hizmetin, bedeli kim tarafından ödendiği belli olacak şekilde, kitle iletişim araçlarından yer ve zaman satın alarak halka tanıtılmasına yönelik uygulamalara ne ad verilir?**
     - A-) Grafik
     - **Cevap B-) Reklam**
     - C-) Tasarım
     - D-) İlan
     - E-) Duyuru
-    <hr />
-1. <strong>Reklam tanımında aşağıdaki niteliklerden hangisi <u>yer almaz</u>?</strong>
-    - A-) Bir &uuml;r&uuml;n, hizmet ya da fikri i&ccedil;ermesi
-    - **Cevap B-) Y&uuml;z y&uuml;ze satış i&ccedil;ermesi**
+    ***
+1. **Reklam tanımında aşağıdaki niteliklerden hangisi yer almaz?**
+    - A-) Bir ürün, hizmet ya da fikri içermesi
+    - **Cevap B-) Yüz yüze satış içermesi**
     - C-) Bilgilendirme ve/veya ikna amacı taşıması
-    - D-) Tanıtım karşılığında bir bedel &ouml;denmesi,
-    - E-) &Ouml;denen bedelin kim tarafından &ouml;dendiğinin belli olması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tarihsel s&uuml;re&ccedil; i&ccedil;erisinde en eski reklam t&uuml;r&uuml;ne &ouml;rnek g&ouml;sterilebilir?</strong>
+    - D-) Tanıtım karşılığında bir bedel ödenmesi,
+    - E-) Ödenen bedelin kim tarafından ödendiğinin belli olması
+    ***
+1. **Aşağıdakilerden hangisi tarihsel süreç içerisinde en eski reklam türüne örnek gösterilebilir?**
     - A-) Piktografik resimler
     - B-) Gazete reklamları
     - **Cevap C-) Sokak tellalları**
     - D-) El ilanları
     - E-) Afişler
-    <hr />
-1. <strong>Tarihteki ilk reklam tekrarlama sistemi nerede ve nasıl uygulanmıştır?</strong>
-    - A-) Mısır&rsquo;da d&uuml;kk&acirc;n tabelalarında
-    - B-) Mısır&rsquo;da el ilanlarında
-    - **Cevap C-) Mısır&rsquo;da aralıklı olarak taşlar &uuml;zerinde**
-    - D-) Roma&rsquo;da aralıklı olarak taşlar &uuml;zerinde
-    - E-) Roma&rsquo;da el ilanlarında
-    <hr />
-1. <strong>Reklam, kitlesel bir iletişim bi&ccedil;imi olma niteliğine nasıl kavuşmuştur?</strong>
+    ***
+1. **Tarihteki ilk reklam tekrarlama sistemi nerede ve nasıl uygulanmıştır?**
+    - A-) Mısır’da dükkân tabelalarında
+    - B-) Mısır’da el ilanlarında
+    - **Cevap C-) Mısır’da aralıklı olarak taşlar üzerinde**
+    - D-) Roma’da aralıklı olarak taşlar üzerinde
+    - E-) Roma’da el ilanlarında
+    ***
+1. **Reklam, kitlesel bir iletişim biçimi olma niteliğine nasıl kavuşmuştur?**
     - A-) Yazının icadıyla
     - B-) Ateşin bulunmasıyla
     - C-) Paranın kullanılmasıyla
     - **Cevap D-) Matbaanın icadıyla**
-    - E-) Yerleşik hayata ge&ccedil;ilmesiyle
-    <hr />
-1. <strong>&Uuml;reticiler, reklamla aşağıdakilerden hangisini <u>ama&ccedil;lamaz</u>?</strong>
-    - A-) Mal ve hizmetlerin kullanım bi&ccedil;imini &ouml;ğretmek
-    - B-) Mal ve hizmetlerin fiyat değişikliklerini ve &ouml;zel satış koşullarını duyurmak
-    - C-) Marka tercihi oluşturmak ya da s&uuml;rd&uuml;rmek
+    - E-) Yerleşik hayata geçilmesiyle
+    ***
+1. **Üreticiler, reklamla aşağıdakilerden hangisini amaçlamaz?**
+    - A-) Mal ve hizmetlerin kullanım biçimini öğretmek
+    - B-) Mal ve hizmetlerin fiyat değişikliklerini ve özel satış koşullarını duyurmak
+    - C-) Marka tercihi oluşturmak ya da sürdürmek
     - D-) Mal ve hizmetlerin satışını artırmak
-    - **Cevap E-) &Uuml;r&uuml;nlere ham madde sağlamak**
-    <hr />
-1. <strong>T&uuml;keticilerin reklam talebine y&ouml;nelik genel ama&ccedil;ları aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Mal ve hizmetlerin kullanım bi&ccedil;imiyle ilgili bilgi sahibi olmak**
-    - B-) Marka tercihi oluşturmak ve s&uuml;rd&uuml;rmek
-    - C-) Mal ve hizmetlerin kullanım bi&ccedil;imini &ouml;ğretmek
-    - D-) Firma imajı yaratmak ya da s&uuml;rd&uuml;rmek
+    - **Cevap E-) Ürünlere ham madde sağlamak**
+    ***
+1. **Tüketicilerin reklam talebine yönelik genel amaçları aşağıdakilerden hangisidir?**
+    - **Cevap A-) Mal ve hizmetlerin kullanım biçimiyle ilgili bilgi sahibi olmak**
+    - B-) Marka tercihi oluşturmak ve sürdürmek
+    - C-) Mal ve hizmetlerin kullanım biçimini öğretmek
+    - D-) Firma imajı yaratmak ya da sürdürmek
     - E-) Mal ve hizmetlerin uygunluğunu anlatmak
-    <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi bir reklam ortamıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir reklam ortamıdır?**
     - A-) Logo
-    - B-) İll&uuml;strasyon
+    - B-) İllüstrasyon
     - **Cevap C-) Billboard**
     - D-) Efekt
     - E-) Animasyon
-    <hr />
-1. <strong>Aşağıdakilerden hangisi hareketli a&ccedil;ık hava reklamlarındandır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi hareketli açık hava reklamlarındandır?**
     - A-) Karton adamlar
     - **Cevap B-) Balonlar**
     - C-) Durak panoları
-    - D-) D&ouml;vizler
+    - D-) Dövizler
     - E-) Elektronik panolar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi basılı reklam aracı <u>değildir</u>?</strong>
-    - A-) Broş&uuml;r
+    ***
+1. **Aşağıdakilerden hangisi basılı reklam aracı değildir?**
+    - A-) Broşür
     - B-) Katalog
     - C-) El ilanı
     - **Cevap D-) İnternet**
     - E-) Dergi
-    <hr />
-1. <strong>Aşağıdaki TV reklamlarından hangisi yayın esnasında akışı engellemeyecek şekilde ses ve s&ouml;z kullanılmadan ekranın herhangi bir yerinde reklam verilerinin kullanılmasıyla yapılan reklam t&uuml;r&uuml;ne &ouml;rnektir?</strong>
+    ***
+1. **Aşağıdaki TV reklamlarından hangisi yayın esnasında akışı engellemeyecek şekilde ses ve söz kullanılmadan ekranın herhangi bir yerinde reklam verilerinin kullanılmasıyla yapılan reklam türüne örnektir?**
     - A-) Basılı reklam
-    - B-) &Uuml;r&uuml;n yerleştirme reklamları
+    - B-) Ürün yerleştirme reklamları
     - **Cevap C-) Bant reklam**
     - D-) Hareketli reklam
     - E-) Hareketsiz reklam
-    <hr />
-1. <strong>Aşağıdakilerden hangisi doğrudan satış ve program destekleme reklamlarını kapsar?</strong>
+    ***
+1. **Aşağıdakilerden hangisi doğrudan satış ve program destekleme reklamlarını kapsar?**
     - A-) Hareketsiz (durağan) reklamlar
     - **Cevap B-) Hareketli reklamlar**
-    - C-) &Uuml;r&uuml;n yerleştirme reklamları
-    - D-) &Ccedil;er&ccedil;eve reklamlar
+    - C-) Ürün yerleştirme reklamları
+    - D-) Çerçeve reklamlar
     - E-) Sanal reklamlar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi gazete reklamlarının nitelik ve maliyetini belirleyen unsurlardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi gazete reklamlarının nitelik ve maliyetini belirleyen unsurlardan biri değildir?**
     - A-) Kullanılan alan
-    - B-) K&acirc;ğıt t&uuml;r&uuml;
+    - B-) Kâğıt türü
     - C-) Yayın sayfası
-    - **Cevap D-) Tasarım bi&ccedil;imi**
-    - E-) Renk &ouml;zelliği
-    <hr />
-1. <strong>Oluşturulmuş toplu organizasyonlarda firmaların kendilerini ya da mal ve hizmetlerini tanıtmak &uuml;zere hedef kitleyle karşılıklı etkileşime girdikleri reklam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - **Cevap D-) Tasarım biçimi**
+    - E-) Renk özelliği
+    ***
+1. **Oluşturulmuş toplu organizasyonlarda firmaların kendilerini ya da mal ve hizmetlerini tanıtmak üzere hedef kitleyle karşılıklı etkileşime girdikleri reklam türü aşağıdakilerden hangisidir?**
     - A-) Satış yeri reklamı
     - B-) Pazarlar
     - **Cevap C-) Fuar**
     - D-) Sinema reklamları
-    - E-) Broş&uuml;rler
-    <hr />
-1. <strong>&Ccedil;atı panoları, afişler, tabelalar, karton adamlar hangi reklam ortamında yer alır?</strong>
+    - E-) Broşürler
+    ***
+1. **Çatı panoları, afişler, tabelalar, karton adamlar hangi reklam ortamında yer alır?**
     - A-) İnternet
     - B-) Dergi
     - C-) Fuar
     - D-) Televizyon
-    - **Cevap E-) A&ccedil;ıkhava reklamları**
-    <hr />
-1. <strong>G&ouml;rsel unsurlara &ccedil;ok&ccedil;a yer vererek &uuml;r&uuml;n&uuml; ya da firmayı doğrudan tanıtmaya y&ouml;nelik hazırlanmış y&uuml;ksek maliyetli tanıtım kitaplarına ne denir?</strong>
+    - **Cevap E-) Açıkhava reklamları**
+    ***
+1. **Görsel unsurlara çokça yer vererek ürünü ya da firmayı doğrudan tanıtmaya yönelik hazırlanmış yüksek maliyetli tanıtım kitaplarına ne denir?**
     - A-) El ilanı
     - B-) Afiş
     - C-) Katalog
     - D-) Dergi
-    - **Cevap E-) Broş&uuml;r**
-    <hr />
+    - **Cevap E-) Broşür**
+    ***
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi reklamın temel fonksiyonlarından <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi reklamın temel fonksiyonlarından değildir?**
     - A-) Bilgilendirme
     - B-) İkna etme
     - C-) Hatırlatma
     - D-) Değer katma
-    - **Cevap E-) &Ouml;rg&uuml;tleme**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi aldatıcı ve yanıltıcı reklam &ccedil;eşitlerinden <u>değildir</u>?</strong>
+    - **Cevap E-) Örgütleme**
+    ***
+1. **Aşağıdakilerden hangisi aldatıcı ve yanıltıcı reklam çeşitlerinden değildir?**
     - A-) Reklam bilgilerinin yanlış olması
-    - B-) Reklam bilgilerinin yanlış anlaşılmaya m&uuml;sait olması
-    - C-) Reklam bilgilerinin ger&ccedil;ekle &ccedil;elişmesi
+    - B-) Reklam bilgilerinin yanlış anlaşılmaya müsait olması
+    - C-) Reklam bilgilerinin gerçekle çelişmesi
     - **Cevap D-) Reklamın zorlayıcı olması**
-    - E-) Reklamın eksik bilgi i&ccedil;ermesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar &uuml;zerindeki etkilerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Reklamın estetik ve g&ouml;rsel boyutu
+    - E-) Reklamın eksik bilgi içermesi
+    ***
+1. **Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar üzerindeki etkilerinden biri değildir?**
+    - A-) Reklamın estetik ve görsel boyutu
     - **Cevap B-) Reklamın maliyeti ve fiyatı**
-    - C-) Reklamın ikna etme g&uuml;c&uuml;
-    - D-) Reklamın d&uuml;r&uuml;stl&uuml;k ilkelerine uygunluğu
+    - C-) Reklamın ikna etme gücü
+    - D-) Reklamın dürüstlük ilkelerine uygunluğu
     - E-) Reklamın değer yargıları ve hayat tarzıyla ilişkisi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın bilgilendirme &ouml;zelliği aracılığıyla hedef kitleye <u>anlatılmaz</u>?</strong>
-    - A-) Piyasaya yeni girmiş bir &uuml;r&uuml;n&uuml;n &ouml;zellikleri
-    - B-) Kullanılmakta olan &uuml;r&uuml;nde yapılan iyileştirme/geliştirme
-    - **Cevap C-) &Uuml;r&uuml;ne itibar ve imaj kazandırma/pekiştirme**
-    - D-) İhtiyacı karşılayacak alternatif &uuml;r&uuml;nlerin &ouml;zellikleri
-    - E-) Aynı &uuml;r&uuml;n&uuml; &uuml;reten faklı markaların varlığı
-    <hr />
-1. <strong>K&uuml;lt&uuml;rel unsurlar doğrultusunda oluşturulan bir reklam grafiğinde aşağıdakilerden hangisi dikkate <u>alınmaz</u>?</strong>
-    - A-) Toplumsal s&ouml;z kalıpları
-    - B-) Gelenek ve g&ouml;renekler
+    ***
+1. **Aşağıdakilerden hangisi reklamın bilgilendirme özelliği aracılığıyla hedef kitleye anlatılmaz?**
+    - A-) Piyasaya yeni girmiş bir ürünün özellikleri
+    - B-) Kullanılmakta olan üründe yapılan iyileştirme/geliştirme
+    - **Cevap C-) Ürüne itibar ve imaj kazandırma/pekiştirme**
+    - D-) İhtiyacı karşılayacak alternatif ürünlerin özellikleri
+    - E-) Aynı ürünü üreten faklı markaların varlığı
+    ***
+1. **Kültürel unsurlar doğrultusunda oluşturulan bir reklam grafiğinde aşağıdakilerden hangisi dikkate alınmaz?**
+    - A-) Toplumsal söz kalıpları
+    - B-) Gelenek ve görenekler
     - C-) Toplumsal semboller
     - D-) Ahlaki değerler
     - **Cevap E-) Toplumsal istihdam**
-    <hr />
-1. <strong>Yabancı bir &uuml;lkeye y&ouml;nelik oluşturulacak reklam stratejisinde aşağıdakilerden hangisinin dikkate alınması <u>gereksizdir</u>?</strong>
-    - A-) Toplumun geniş bir kesiminin bağlı olduğu dini inan&ccedil;
+    ***
+1. **Yabancı bir ülkeye yönelik oluşturulacak reklam stratejisinde aşağıdakilerden hangisinin dikkate alınması gereksizdir?**
+    - A-) Toplumun geniş bir kesiminin bağlı olduğu dini inanç
     - **Cevap B-) Bireysel alış veriş oranları**
     - C-) Aile kurumunun durumu
     - D-) Baskın bir siyasi ya da ekonomik ideolojinin varlığı
     - E-) Kolektif ya da bireyci toplumsal yapı sorgulaması
-    <hr />
-1. <strong>&#39;&#39;Benzerleri arasında &#252;r&#252;n ya da hizmetlerin ayırıcı &#246;zelliklerini &#246;ne &#231;ıkararak markanın bilinirliğini ve tercih edilirliğini artırmak, t&#252;keticilerin &#252;r&#252;n veya markayla ilgili tutum/tercihlerini değiştirmek, t&#252;keticileri tanıtımı yapılan &#252;r&#252;n ya da hizmeti denemeye y&#246;nlendirmek&#39;&#39; şeklinde&#160;tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?</strong>
+    ***
+1. **''Benzerleri arasında ürün ya da hizmetlerin ayırıcı özelliklerini öne çıkararak markanın bilinirliğini ve tercih edilirliğini artırmak, tüketicilerin ürün veya markayla ilgili tutum/tercihlerini değiştirmek, tüketicileri tanıtımı yapılan ürün ya da hizmeti denemeye yönlendirmek'' şeklinde tanımlanan reklam fonksiyonu aşağıdakilerden hangisidir?**
     - A-) Bilgilendirme Fonksiyonu
     - B-) Hatırlatma Fonksiyonu
     - **Cevap C-) İkna Etme Fonksiyonu**
     - D-) Değer Katma Fonksiyonu
-    - E-) &#214;rg&#252;tleme Fonksiyonu
-    <hr />
-1. <strong>&Ccedil;ocuklara y&ouml;nelik reklamlarda aşağıdakilerden hangisine dikkat etmek gerekli <u>değildir</u>?</strong>
-    - **Cevap A-) &Ccedil;ocuklar konusu aile ortamının dışında ge&ccedil;en reklamlarda yer almamalıdır.**
-    - B-) Yanlış ya da &ccedil;ocukların anlamakta g&uuml;&ccedil;l&uuml;k &ccedil;ekebileceği mesajlar verilmemelidir.
-    - C-) &Ccedil;ocuklar tarafından anlaşılamayacak anlatım bi&ccedil;imi, ifade tarzı kullanılmamalıdır.
-    - D-) &Ccedil;ocukların fiziki ve psikolojik sağlığını olumsuz etkileyecek dil kullanılmamalıdır.
-    - E-) Reklam verileri &ccedil;ocuklar &uuml;zerinde baskı yaratmamalı, yoksunluk hissi yaşatmamalıdır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar &uuml;zerindeki etkilerinden biri <u>değildir</u>?</strong>
+    - E-) Örgütleme Fonksiyonu
+    ***
+1. **Çocuklara yönelik reklamlarda aşağıdakilerden hangisine dikkat etmek gerekli değildir?**
+    - **Cevap A-) Çocuklar konusu aile ortamının dışında geçen reklamlarda yer almamalıdır.**
+    - B-) Yanlış ya da çocukların anlamakta güçlük çekebileceği mesajlar verilmemelidir.
+    - C-) Çocuklar tarafından anlaşılamayacak anlatım biçimi, ifade tarzı kullanılmamalıdır.
+    - D-) Çocukların fiziki ve psikolojik sağlığını olumsuz etkileyecek dil kullanılmamalıdır.
+    - E-) Reklam verileri çocuklar üzerinde baskı yaratmamalı, yoksunluk hissi yaşatmamalıdır.
+    ***
+1. **Aşağıdakilerden hangisi reklamın toplumsal etkileri bağlamında insanlar üzerindeki etkilerinden biri değildir?**
     - A-) Reklamların değer yargıları ve hayat tarzıyla ilişkisi
-    - B-) Reklamın estetik ve g&ouml;rsel boyutu
-    - **Cevap C-) Reklamın mesaj iletme &ouml;zelliği**
-    - D-) Reklamın ikna etme g&uuml;c&uuml;
-    - E-) Reklamın d&uuml;r&uuml;stl&uuml;k ilkelerine uygunluğu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam etiği bağlamında &ccedil;ok&ccedil;a eleştirilen konulardan biri <u>değildir</u>?</strong>
+    - B-) Reklamın estetik ve görsel boyutu
+    - **Cevap C-) Reklamın mesaj iletme özelliği**
+    - D-) Reklamın ikna etme gücü
+    - E-) Reklamın dürüstlük ilkelerine uygunluğu
+    ***
+1. **Aşağıdakilerden hangisi reklam etiği bağlamında çokça eleştirilen konulardan biri değildir?**
     - A-) Reklamda yanıltıcı bilgilere başvurma
-    - B-) T&uuml;ketimi ve l&uuml;ks&uuml; &ouml;zendirme
-    - C-) Cinsel &ccedil;ağrışımlar kullanma
-    - D-) Bilin&ccedil;altına hitap etme
+    - B-) Tüketimi ve lüksü özendirme
+    - C-) Cinsel çağrışımlar kullanma
+    - D-) Bilinçaltına hitap etme
     - **Cevap E-) İstihdama katkı sağlama**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın temel fonksiyonlarındandır?</strong>
-    - A-) &Ouml;rg&uuml;tleme
+    ***
+1. **Aşağıdakilerden hangisi reklamın temel fonksiyonlarındandır?**
+    - A-) Örgütleme
     - **Cevap B-) İkna etme**
-    - C-) Maliyeti d&uuml;ş&uuml;rme
+    - C-) Maliyeti düşürme
     - D-) Yarar sağlama
     - E-) Motivasyon
-    <hr />
-1. <strong>Aşağıdaki reklam sloganlarından hangisi yanıltıcı reklam kapsamında değerlendirilebilecek &ouml;zelliğe sahiptir?</strong>
-    - **Cevap A-) En m&uuml;kemmel, en eşsiz tat**
-    - B-) Bizim i&ccedil;in &ouml;nemlisiniz
+    ***
+1. **Aşağıdaki reklam sloganlarından hangisi yanıltıcı reklam kapsamında değerlendirilebilecek özelliğe sahiptir?**
+    - **Cevap A-) En mükemmel, en eşsiz tat**
+    - B-) Bizim için önemlisiniz
     - C-) Mutlaka denemelisiniz
     - D-) Alınız, yiyiniz
-    - E-) &Ouml;zenli ellerden, sizin i&ccedil;in
-    <hr />
-1. <strong>Reklamın toplum &uuml;zerindeki etkilerinin olumsuz sonu&ccedil;ları arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
-    - A-) Reklam, insanları ihtiyacı olmayan &uuml;r&uuml;nleri satın almaya y&ouml;nlendirir.
+    - E-) Özenli ellerden, sizin için
+    ***
+1. **Reklamın toplum üzerindeki etkilerinin olumsuz sonuçları arasında aşağıdakilerden hangisi yer almaz?**
+    - A-) Reklam, insanları ihtiyacı olmayan ürünleri satın almaya yönlendirir.
     - B-) Reklam, toplumsal değerleri ihmal etmeye sebep olur.
-    - **Cevap C-) Reklam, insanları &uuml;r&uuml;n &ouml;zellikleriyle ilgili bilgilendirir.**
-    - D-) Reklam, insanları t&uuml;ketim &ccedil;ılgınlığına sevk eder.
-    - E-) Reklam, insanların metayı &ouml;nemsemesine neden olur.
-    <hr />
-1. <strong>&Uuml;reticiler a&ccedil;ısından reklamın toplumsal etkisi aşağıdakilerden hangisiyle ilgili <u>değildir</u>?</strong>
+    - **Cevap C-) Reklam, insanları ürün özellikleriyle ilgili bilgilendirir.**
+    - D-) Reklam, insanları tüketim çılgınlığına sevk eder.
+    - E-) Reklam, insanların metayı önemsemesine neden olur.
+    ***
+1. **Üreticiler açısından reklamın toplumsal etkisi aşağıdakilerden hangisiyle ilgili değildir?**
     - **Cevap A-) Tatmin**
-    - B-) &Uuml;retim
-    - C-) T&uuml;ketim talebi
+    - B-) Üretim
+    - C-) Tüketim talebi
     - D-) İstihdam
     - E-) Markalaşma
-    <hr />
-1. Reklam, &ouml;zel yaşamı b&ouml;l&uuml;p taciz eden bir uygulama olarak g&ouml;r&uuml;ld&uuml;ğ&uuml;nden reklamlar dikkat &ccedil;ekici bir &ouml;z&uuml;r dileme havasındadır. Belirgin bir romantizm, g&uuml;zel bir manzara, hoşa gidecek bir hik&acirc;ye, şiir, s&uuml;k&ucirc;net, dinginlik reklamların en &ouml;nemli par&ccedil;alarını teşkil eder.<br />
-<strong>Yukarıda &ouml;zellikleri belirtilen reklam anlayışı, hangi &uuml;lkeye aittir?</strong>
+    ***
+1. Reklam, özel yaşamı bölüp taciz eden bir uygulama olarak görüldüğünden reklamlar dikkat çekici bir özür dileme havasındadır. Belirgin bir romantizm, güzel bir manzara, hoşa gidecek bir hikâye, şiir, sükûnet, dinginlik reklamların en önemli parçalarını teşkil eder.<br />**Yukarıda özellikleri belirtilen reklam anlayışı, hangi ülkeye aittir?**
     - A-) İngiltere
     - B-) Fransa
     - C-) Amerika Birleşik Devletleri
     - **Cevap D-) Japonya**
     - E-) Almanya
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilin&ccedil;altı reklamların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) &Ouml;zel hazırlanmış enstr&uuml;manlarla t&uuml;keticinin bilin&ccedil;altına hitap eder.
-    - B-) Mesaj, reklamdaki herhangi bir unsurun i&ccedil;ine gizlenmiştir.
+    ***
+1. **Aşağıdakilerden hangisi bilinçaltı reklamların özelliklerinden biri değildir?**
+    - A-) Özel hazırlanmış enstrümanlarla tüketicinin bilinçaltına hitap eder.
+    - B-) Mesaj, reklamdaki herhangi bir unsurun içine gizlenmiştir.
     - C-) Mesajın doğrudan algılanması zordur.
-    - **Cevap D-) Mesaja t&uuml;ketici tarafından bilin&ccedil;li bir şekilde tepki verilir.**
-    - E-) Mesaj, ilk anda fark edilmemek &uuml;zere tasarlanmıştır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın t&uuml;ketici &uuml;zerindeki sosyolojik etkilerinden biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) &Uuml;r&uuml;nle ilgili tatmin duygusu yaratmak**
+    - **Cevap D-) Mesaja tüketici tarafından bilinçli bir şekilde tepki verilir.**
+    - E-) Mesaj, ilk anda fark edilmemek üzere tasarlanmıştır.
+    ***
+1. **Aşağıdakilerden hangisi reklamın tüketici üzerindeki sosyolojik etkilerinden biri değildir?**
+    - **Cevap A-) Ürünle ilgili tatmin duygusu yaratmak**
     - B-) Kişiler arasında sınıfsal bir ayrım ve rekabet ortamı oluşturmak
-    - C-) Yaşam bi&ccedil;imlerini değiştirebilme g&uuml;c&uuml;
+    - C-) Yaşam biçimlerini değiştirebilme gücü
     - D-) Sosyalleşmeye katkı sağlaması
-    - E-) K&uuml;lt&uuml;rle sıkı bir ilişki i&ccedil;erisinde olması
-    <hr />
-1. <strong>Reklam mesajı oluşturulurken yeşil renge İslam &uuml;lkelerinde kutsaliyet atfedildiğinin, beyazın Hong Kong&rsquo;da &ouml;l&uuml;m ve cenazeyi &ccedil;ağrıştırdığının, siyahın Anadolu&rsquo;da yası temsil ettiğinin dikkate alınması aşağıdakilerden hangisiyle a&ccedil;ıklanabilir?</strong>
+    - E-) Kültürle sıkı bir ilişki içerisinde olması
+    ***
+1. **Reklam mesajı oluşturulurken yeşil renge İslam ülkelerinde kutsaliyet atfedildiğinin, beyazın Hong Kong’da ölüm ve cenazeyi çağrıştırdığının, siyahın Anadolu’da yası temsil ettiğinin dikkate alınması aşağıdakilerden hangisiyle açıklanabilir?**
     - A-) Reklamın etik ilkeleriyle
     - B-) Reklamın uluslar arası boyutuyla
-    - **Cevap C-) Reklam ve k&uuml;lt&uuml;r ilişkisiyle**
+    - **Cevap C-) Reklam ve kültür ilişkisiyle**
     - D-) Reklam ve renk diliyle
     - E-) Reklam ve tasarım ilişkisiyle
-    <hr />
+    ***
 ## Unite 3
-1. <strong>Aşağıdakilerden hangisi reklam metninin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) A&ccedil;ıklık
+1. **Aşağıdakilerden hangisi reklam metninin özelliklerinden biri değildir?**
+    - A-) Açıklık
     - **Cevap B-) Benzetmecilik**
     - C-) Bireysellik
     - D-) Samimiyet
     - E-) İkna edicilik
-    <hr />
-1. <strong>Verilmek istenen mesajı, amaca uygun d&uuml;şecek bi&ccedil;imde iletmek &uuml;zere tasarlanan her t&uuml;rl&uuml; yazılı ve g&ouml;rsel ifade aşağıdakilerden hangisinin genel tanımı olabilir?</strong>
+    ***
+1. **Verilmek istenen mesajı, amaca uygun düşecek biçimde iletmek üzere tasarlanan her türlü yazılı ve görsel ifade aşağıdakilerden hangisinin genel tanımı olabilir?**
     - **Cevap A-) Reklam metni**
     - B-) Brief
     - C-) Reklam sloganı
     - D-) Reklam bilgilendirmesi
     - E-) Reklam mesajı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam metnin &ouml;zg&uuml;nl&uuml;k &ouml;zelliğine uygun <u>d&uuml;şmez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam metnin özgünlük özelliğine uygun düşmez?**
     - A-) Reklam metni, kendine mahsus bir orijinallik taşımalıdır
-    - B-) Reklam metni, daha &ouml;nce kullanılmış veri i&ccedil;ermemelidir
-    - **Cevap C-) Reklam metni, ge&ccedil;mişteki başarılı &ouml;rneklere &ouml;yk&uuml;nmelidir**
+    - B-) Reklam metni, daha önce kullanılmış veri içermemelidir
+    - **Cevap C-) Reklam metni, geçmişteki başarılı örneklere öykünmelidir**
     - D-) Reklam metni, taklitten uzak olmalıdır
     - E-) Reklam metni, benzerlikten uzak olmalıdır
-    <hr />
-1. <strong>Dramatik yapı i&ccedil;erisinde kurgulanmış bir hik&acirc;ye aracılığıyla &uuml;r&uuml;n ya da hizmetin anlatıldığı, genellikle mizah, romantizm, h&uuml;z&uuml;n, &ouml;zlem vb. duygusal yoğunlukların &ouml;n plana &ccedil;ıkarıldığı reklam metin t&uuml;r&uuml; hangisidir?</strong>
+    ***
+1. **Dramatik yapı içerisinde kurgulanmış bir hikâye aracılığıyla ürün ya da hizmetin anlatıldığı, genellikle mizah, romantizm, hüzün, özlem vb. duygusal yoğunlukların ön plana çıkarıldığı reklam metin türü hangisidir?**
     - **Cevap A-) Anlatı Metni**
     - B-) Nedensellik metni
-    - C-) A&ccedil;ıklayıcı metin
+    - C-) Açıklayıcı metin
     - D-) Soru soran metin
     - E-) Kişiye dayalı metin
-    <hr />
-1. <strong>Reklamın diğer &ouml;gelerinin ortaya koyduğu fikri a&ccedil;ıklayan, &uuml;r&uuml;n ya da hizmetle ilgili genel bilgilendirmenin yapıldığı, mesajın net bir şekilde aktarıldığı reklam metni &ouml;gesi hangisidir?</strong>
+    ***
+1. **Reklamın diğer ögelerinin ortaya koyduğu fikri açıklayan, ürün ya da hizmetle ilgili genel bilgilendirmenin yapıldığı, mesajın net bir şekilde aktarıldığı reklam metni ögesi hangisidir?**
     - A-) Başlık
     - B-) Slogan
     - C-) Alt başlık
-    - **Cevap D-) G&ouml;vde metni**
+    - **Cevap D-) Gövde metni**
     - E-) Logo
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kullanılış bi&ccedil;imlerine g&ouml;re reklam başlıkları arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kullanılış biçimlerine göre reklam başlıkları arasında yer almaz?**
     - A-) Zorlayıcı başlık
-    - B-) Se&ccedil;ici başlık
+    - B-) Seçici başlık
     - C-) Durum başlığı
     - D-) Meraklandırıcı başlık
     - **Cevap E-) Muhalif başlık**
-    <hr />
-1. <strong>Reklam metninde &uuml;r&uuml;n&uuml;n &ouml;zellikleri ifade edilirken aşağıdakilerden hangisi dikkate <u>alınmaz</u>?</strong>
-    - A-) &Uuml;r&uuml;n ya da hizmetin en can alıcı &ouml;zelliği
-    - B-) &Uuml;r&uuml;n&uuml;n benzer &uuml;r&uuml;nlerden farkı
-    - C-) &Uuml;r&uuml;n&uuml;n rakiplerine kıyasla &uuml;st&uuml;nl&uuml;k ya da avantajları
-    - **Cevap D-) &Uuml;r&uuml;n&uuml;n &uuml;retim maliyeti ve satış fiyatı**
-    - E-) Rakip &uuml;r&uuml;nlerin &ouml;zellikleri
-    <hr />
-1. <strong>Reklam metninin anlatım bi&ccedil;imi ve dili ile ilgili aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - **Cevap A-) Metinde edebi s&uuml;slemeler ve uzun betimlemelere yer verilmelidir**
+    ***
+1. **Reklam metninde ürünün özellikleri ifade edilirken aşağıdakilerden hangisi dikkate alınmaz?**
+    - A-) Ürün ya da hizmetin en can alıcı özelliği
+    - B-) Ürünün benzer ürünlerden farkı
+    - C-) Ürünün rakiplerine kıyasla üstünlük ya da avantajları
+    - **Cevap D-) Ürünün üretim maliyeti ve satış fiyatı**
+    - E-) Rakip ürünlerin özellikleri
+    ***
+1. **Reklam metninin anlatım biçimi ve dili ile ilgili aşağıdakilerden hangisi söylenemez?**
+    - **Cevap A-) Metinde edebi süslemeler ve uzun betimlemelere yer verilmelidir**
     - B-) Metinde kullanılan dil sade ve anlaşılır olmalıdır
     - C-) Metinde gereksiz ve işlevsiz bilgiye yer verilmemelidir
-    - D-) Metinde g&uuml;nl&uuml;k konuşma dili tercih edilmelidir
-    - E-) Metinde kısa c&uuml;mleler ve basit bir anlatım kullanılmalıdır
-    <hr />
-1. <strong>&ldquo;Sizler de aramıza katılabilirsiniz.&rdquo; ya da &ldquo;Bu fırsatı ka&ccedil;ırmayın.&rdquo; şeklinde oluşturulmuş reklam metni başlıkları hangi t&uuml;r başlık &ouml;rnekleridir?</strong>
+    - D-) Metinde günlük konuşma dili tercih edilmelidir
+    - E-) Metinde kısa cümleler ve basit bir anlatım kullanılmalıdır
+    ***
+1. **“Sizler de aramıza katılabilirsiniz.” ya da “Bu fırsatı kaçırmayın.” şeklinde oluşturulmuş reklam metni başlıkları hangi tür başlık örnekleridir?**
     - A-) Zorlayıcı başlık
     - **Cevap B-) Tavsiye/davet başlığı**
     - C-) Haber tarzı başlık
-    - D-) Se&ccedil;ici başlık
+    - D-) Seçici başlık
     - E-) Durum başlığı
-    <hr />
-1. <strong>Logo ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Logo, firmalar i&ccedil;in kurumsal imza niteliğine sahiptir
+    ***
+1. **Logo ile ilgili olarak aşağıdakilerden hangisi söylenemez?**
+    - A-) Logo, firmalar için kurumsal imza niteliğine sahiptir
     - B-) Logo, marka bilinirliği ve kurumsal imaj yaratma aracı olarak kullanılır
-    - **Cevap C-) Logo, her reklam i&ccedil;in ayrı ayrı yeniden &uuml;retilir**
+    - **Cevap C-) Logo, her reklam için ayrı ayrı yeniden üretilir**
     - D-) Logo, firmanın/markanın ruhunu, inancını, varlık nedenini ortaya koyar
     - E-) Logo, firmanın/markanın kişiliğini ve kimliğini temsil eder
-    <hr />
-1. <strong>Reklam metni aşağıdakilerden hangisini <u>i&ccedil;ermez</u>?</strong>
+    ***
+1. **Reklam metni aşağıdakilerden hangisini içermez?**
     - A-) Başlık
     - B-) Alt başlık
-    - C-) G&ouml;vde metni
+    - C-) Gövde metni
     - D-) Slogan
     - **Cevap E-) Brief**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi basılı ara&ccedil;lar i&ccedil;in oluşturulmuş reklam metninin yayınına uygun <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi basılı araçlar için oluşturulmuş reklam metninin yayınına uygun değildir?**
     - A-) Gazete
     - **Cevap B-) Radyo**
     - C-) Dergi
     - D-) Billboard
-    - E-) Broş&uuml;r
-    <hr />
-1. <strong>Herkesin kolayca anlayabileceği şekilde oluşturulan, i&ccedil;erisinde teknik bilgi bulunmayan, son derece yalın bir şekilde &uuml;r&uuml;n ya da hizmetle ilgili a&ccedil;ıklama yapmaya veya bilgi vermeye y&ouml;nelik oluşturulan reklam metin t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - E-) Broşür
+    ***
+1. **Herkesin kolayca anlayabileceği şekilde oluşturulan, içerisinde teknik bilgi bulunmayan, son derece yalın bir şekilde ürün ya da hizmetle ilgili açıklama yapmaya veya bilgi vermeye yönelik oluşturulan reklam metin türü aşağıdakilerden hangisidir?**
     - A-) Bilimsel/Teknik metin
-    - **Cevap B-) A&ccedil;ıklayıcı/Bilgilendirici metin**
+    - **Cevap B-) Açıklayıcı/Bilgilendirici metin**
     - C-) Nedensellik metni
     - D-) Soru soran metin
     - E-) Anlatı metni
-    <hr />
-1. <strong>Genellikle reklam iletisinin başlangıcında veya en &uuml;st satırında ilk bakışta dikkat &ccedil;ekmek, ilgi uyandırmak ve metnin i&ccedil;eriği ile ilgili fikir vermek amacıyla dikkat &ccedil;ekici, kalın ya da b&uuml;y&uuml;k harflerle oluşturulan bir/birka&ccedil; kelime ya da bir c&uuml;mle şeklindeki reklam metni unsuru aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Genellikle reklam iletisinin başlangıcında veya en üst satırında ilk bakışta dikkat çekmek, ilgi uyandırmak ve metnin içeriği ile ilgili fikir vermek amacıyla dikkat çekici, kalın ya da büyük harflerle oluşturulan bir/birkaç kelime ya da bir cümle şeklindeki reklam metni unsuru aşağıdakilerden hangisidir?**
     - A-) Slogan
     - B-) Logo
     - **Cevap C-) Başlık**
-    - D-) G&ouml;vde metni
+    - D-) Gövde metni
     - E-) Reklam metni
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kullanılış bi&ccedil;imlerine g&ouml;re reklam başlıklarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kullanılış biçimlerine göre reklam başlıklarından biri değildir?**
     - A-) Haber tarzı başlık
     - B-) Tavsiye/davet başlığı
     - **Cevap C-) Muhalif başlık**
     - D-) Fayda başlığı
     - E-) Sorulu başlık
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam metninde &uuml;r&uuml;n/hizmet &ouml;zelliklerini ifade edebilmek i&ccedil;in cevabı aranacak sorulardan <u>değildir</u>?</strong>
-    - A-) Hedef kitleye sunulan &uuml;r&uuml;n ya da hizmet nedir?
-    - B-) &Uuml;r&uuml;n ya da hizmetle ilgili ne anlatılacak?
-    - C-) İnsanlar bu &uuml;r&uuml;n ya da hizmeti neden almalı?
-    - **Cevap D-) &Uuml;r&uuml;n ya da hizmetin &uuml;retim maliyeti ne kadar?**
-    - E-) İnsanlar &uuml;r&uuml;n ya da hizmeti alırken neden bu marka veya firmayı tercih etmeli?
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam metninin anlatım bi&ccedil;imini ve dilini <u>etkilemez</u>?</strong>
-    - A-) Hedef kitlenin &ouml;zellikleri
+    ***
+1. **Aşağıdakilerden hangisi reklam metninde ürün/hizmet özelliklerini ifade edebilmek için cevabı aranacak sorulardan değildir?**
+    - A-) Hedef kitleye sunulan ürün ya da hizmet nedir?
+    - B-) Ürün ya da hizmetle ilgili ne anlatılacak?
+    - C-) İnsanlar bu ürün ya da hizmeti neden almalı?
+    - **Cevap D-) Ürün ya da hizmetin üretim maliyeti ne kadar?**
+    - E-) İnsanlar ürün ya da hizmeti alırken neden bu marka veya firmayı tercih etmeli?
+    ***
+1. **Aşağıdakilerden hangisi reklam metninin anlatım biçimini ve dilini etkilemez?**
+    - A-) Hedef kitlenin özellikleri
     - B-) Reklamın yayınlanacağı medya
-    - C-) &Uuml;r&uuml;n ya da hizmetin &ouml;zellikleri
-    - D-) Reklam metin t&uuml;r&uuml;
+    - C-) Ürün ya da hizmetin özellikleri
+    - D-) Reklam metin türü
     - **Cevap E-) Reklam sloganı**
-    <hr />
-1. <strong>&ldquo;Hep daha iyiyi iste!&rdquo;,&nbsp;&ldquo;Hemen al, pişman olma&rdquo;&nbsp;şeklindeki reklam metni başlıkları hangi t&uuml;r başlıklara &ouml;rnektir?</strong>
+    ***
+1. **“Hep daha iyiyi iste!”, “Hemen al, pişman olma” şeklindeki reklam metni başlıkları hangi tür başlıklara örnektir?**
     - **Cevap A-) Zorlayıcı başlık**
     - B-) Tavsiye/davet başlığı
-    - C-) Se&ccedil;ici başlık
+    - C-) Seçici başlık
     - D-) Fayda başlığı
     - E-) Meraklandırıcı başlık
-    <hr />
-1. <strong>&nbsp;Bir markayı, firmayı, kurumu, kuruluşu, topluluğu veya fikri temsil eden, adını ve amacını tanımlayan, i&ccedil;eriğinde grafiksel unsurların yer aldığı semboller aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Bir markayı, firmayı, kurumu, kuruluşu, topluluğu veya fikri temsil eden, adını ve amacını tanımlayan, içeriğinde grafiksel unsurların yer aldığı semboller aşağıdakilerden hangisidir?**
     - A-) Billboard
-    - B-) İll&uuml;strasyon
+    - B-) İllüstrasyon
     - **Cevap C-) Logo**
     - D-) Efekt
     - E-) Animasyon
-    <hr />
+    ***
 ## Unite 4
-1. <strong>&ldquo;Kendisinden başka bir şeyin yerini tutan, daha doğrusu, kendi dışında bir şey g&ouml;steren&rdquo; olarak tanımlanabilen kavram aşağıdakilerin hangisidir?</strong>
-    - A-) G&ouml;stergebilim
-    - **Cevap B-) G&ouml;sterge**
-    - C-) G&ouml;steren
-    - D-) G&ouml;sterilen
+1. **“Kendisinden başka bir şeyin yerini tutan, daha doğrusu, kendi dışında bir şey gösteren” olarak tanımlanabilen kavram aşağıdakilerin hangisidir?**
+    - A-) Göstergebilim
+    - **Cevap B-) Gösterge**
+    - C-) Gösteren
+    - D-) Gösterilen
     - E-) Anlam
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;stergebilim alanında <u>&ccedil;alışmamıştır</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi göstergebilim alanında çalışmamıştır?**
     - A-) Aristoteles
     - B-) John Locke
     - C-) Jean Henri Lambert
     - D-) Ferdinand de Saussure
     - **Cevap E-) David Hume**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi dil dışı g&ouml;sterge t&uuml;rlerinden biri <u>değildir</u>?</strong>
-    - A-) Kendisine g&ouml;re g&ouml;sterge
-    - B-) Anlamına g&ouml;re g&ouml;sterge
-    - **Cevap C-) Yorumlayıcısına g&ouml;re g&ouml;sterge**
-    - D-) Nesnesine g&ouml;re g&ouml;sterge
-    - E-) Nitel g&ouml;sterge
-    <hr />
-1. <strong>Aşağıdakilerden hangisi nesnesine g&ouml;re g&ouml;sterge t&uuml;rlerinden biri <u>değildir</u>?</strong>
-    - **Cevap A-) &Ouml;nerme g&ouml;stergeler**
-    - B-) İkon g&ouml;stergeler
-    - C-) G&ouml;r&uuml;nt&uuml;sel g&ouml;stergeler
-    - D-) Belirti g&ouml;stergeler
-    - E-) Simge g&ouml;stergeler
-    <hr />
-1. <strong>Aşağıdaki g&ouml;sterge t&uuml;rlerinden hangisi &quot;benzerlik&quot; ilişkisine g&ouml;re yorumlanmaktadır?</strong>
-    - A-) Sav g&ouml;sterge
-    - **Cevap B-) G&ouml;r&uuml;nt&uuml;sel g&ouml;sterge**
-    - C-) Belirti g&ouml;sterge
-    - D-) Simge g&ouml;sterge
-    - E-) &Ouml;nerme g&ouml;sterge
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Barthes&#39;in g&ouml;stergebilim i&ccedil;in kullandığı terimlerden biri <u>değildir</u>?</strong>
-    - A-) Bi&ccedil;im
-    - B-) İ&ccedil;erik
+    ***
+1. **Aşağıdakilerden hangisi dil dışı gösterge türlerinden biri değildir?**
+    - A-) Kendisine göre gösterge
+    - B-) Anlamına göre gösterge
+    - **Cevap C-) Yorumlayıcısına göre gösterge**
+    - D-) Nesnesine göre gösterge
+    - E-) Nitel gösterge
+    ***
+1. **Aşağıdakilerden hangisi nesnesine göre gösterge türlerinden biri değildir?**
+    - **Cevap A-) Önerme göstergeler**
+    - B-) İkon göstergeler
+    - C-) Görüntüsel göstergeler
+    - D-) Belirti göstergeler
+    - E-) Simge göstergeler
+    ***
+1. **Aşağıdaki gösterge türlerinden hangisi "benzerlik" ilişkisine göre yorumlanmaktadır?**
+    - A-) Sav gösterge
+    - **Cevap B-) Görüntüsel gösterge**
+    - C-) Belirti gösterge
+    - D-) Simge gösterge
+    - E-) Önerme gösterge
+    ***
+1. **Aşağıdakilerden hangisi Barthes'in göstergebilim için kullandığı terimlerden biri değildir?**
+    - A-) Biçim
+    - B-) İçerik
     - C-) Yan anlam
-    - D-) D&uuml;z anlam
+    - D-) Düz anlam
     - **Cevap E-) Index**
-    <hr />
-1. <strong>&quot;G&ouml;stergelerin olduğu gibi algılanması ile elde edilen ilk anlam&quot; şeklinde ifade edilen anlam t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) D&uuml;z anlam**
+    ***
+1. **"Göstergelerin olduğu gibi algılanması ile elde edilen ilk anlam" şeklinde ifade edilen anlam türü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Düz anlam**
     - B-) Yan anlam
     - C-) Mecaz anlam
     - D-) Kinayeli anlam
-    - E-) G&ouml;sterilen anlam
-    <hr />
-1. <strong>&Ccedil;ağdaş g&ouml;stergebilim anlayışının temeli aşağıdaki hangi d&uuml;ş&uuml;n&uuml;r&uuml;n &ccedil;alışmaları ışığında atılmıştır?</strong>
+    - E-) Gösterilen anlam
+    ***
+1. **Çağdaş göstergebilim anlayışının temeli aşağıdaki hangi düşünürün çalışmaları ışığında atılmıştır?**
     - A-) Jean Henri Lambert
     - B-) Ferdinand de Saussure
     - C-) Roland Barthes
     - D-) John Locke
     - **Cevap E-) Charles Sanders Peirce**
-    <hr />
-1. <strong>&ldquo;Mavi bir g&ouml;ky&uuml;z&uuml;nde u&ccedil;an kırmızı balon&rdquo; g&ouml;stergesi, aşağıdakilerden hangi &uuml;r&uuml;n ya da firma reklamlarında <u>kullanılamaz</u>?</strong>
-    - A-) U&ccedil;an balon
+    ***
+1. **“Mavi bir gökyüzünde uçan kırmızı balon” göstergesi, aşağıdakilerden hangi ürün ya da firma reklamlarında kullanılamaz?**
+    - A-) Uçan balon
     - B-) Eğitim kurumları
     - **Cevap C-) Bulaşık deterjanı**
     - D-) Mentorluk hizmetleri
     - E-) Boyama kitabı
-    <hr />
-1. <strong>&ldquo;&Ccedil;alar saat&rdquo; g&ouml;stergesi, aşağıdakilerden hangi &uuml;r&uuml;n reklamlarında kullanılabilir?</strong>
-    - A-) &Ccedil;anta
+    ***
+1. **“Çalar saat” göstergesi, aşağıdakilerden hangi ürün reklamlarında kullanılabilir?**
+    - A-) Çanta
     - **Cevap B-) Kahve**
     - C-) Kitap
     - D-) Telefon
     - E-) Yapıştırıcı
-    <hr />
-1. <strong>Doğal ya da yapay (oluşturulmuş) işaret sistemlerini s&ouml;zdizim ve anlambilim &ccedil;er&ccedil;evelerinde inceleyen sistem aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) G&ouml;stergebilim**
+    ***
+1. **Doğal ya da yapay (oluşturulmuş) işaret sistemlerini sözdizim ve anlambilim çerçevelerinde inceleyen sistem aşağıdakilerden hangisidir?**
+    - **Cevap A-) Göstergebilim**
     - B-) Dil sistemleri
     - C-) İşaret sistemleri
-    - D-) G&ouml;sterge sistemleri
-    - E-) Dil dışı g&ouml;stergeler
-    <hr />
-1. <strong>Yunanca k&ouml;kenli sembol kelimesinden t&uuml;retilen ve &ldquo;g&ouml;sterge&rdquo; anlamına gelen kavram aşağıdakilerden hangisidir?</strong>
+    - D-) Gösterge sistemleri
+    - E-) Dil dışı göstergeler
+    ***
+1. **Yunanca kökenli sembol kelimesinden türetilen ve “gösterge” anlamına gelen kavram aşağıdakilerden hangisidir?**
     - A-) Tekmerion
     - **Cevap B-) Semeion**
     - C-) Semeotike
     - D-) Retorik
     - E-) Enea
-    <hr />
-1. <strong>G&ouml;stergebilimin, &ccedil;eşitli iletişim t&uuml;rlerini ve d&uuml;zeylerini ger&ccedil;ekleştirmek i&ccedil;in yaygın olarak kullanılan bir ara&ccedil; veya ara&ccedil; olduğunu iddia eden ilk kişi kimdir?</strong>
+    ***
+1. **Göstergebilimin, çeşitli iletişim türlerini ve düzeylerini gerçekleştirmek için yaygın olarak kullanılan bir araç veya araç olduğunu iddia eden ilk kişi kimdir?**
     - A-) Ferdinand de Saussure
     - B-) Charles Sanders Peirce
     - **Cevap C-) Augustine**
     - D-) John Locke
     - E-) Jean Henri Lambert
-    <hr />
-1. <strong>&ldquo;Gibi g&ouml;stermek&rdquo; olarak ifade edilen kavram aşağıdakilerden hangisidir?</strong>
-    - A-) G&ouml;sterge
-    - B-) G&ouml;sterilen
-    - C-) G&ouml;steren
+    ***
+1. **“Gibi göstermek” olarak ifade edilen kavram aşağıdakilerden hangisidir?**
+    - A-) Gösterge
+    - B-) Gösterilen
+    - C-) Gösteren
     - D-) İroni
     - **Cevap E-) Metafor**
-    <hr />
-1. <strong>G&ouml;stergebilimi &ldquo;g&ouml;sterge, g&ouml;sterilen ve yorumlayıcı&rdquo; a&ccedil;ısından ele alan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Göstergebilimi “gösterge, gösterilen ve yorumlayıcı” açısından ele alan düşünür aşağıdakilerden hangisidir?**
     - A-) Jean Henri Lambert
     - B-) Ferdinand de Saussure
     - C-) Roland Barthes
     - D-) John Locke
     - **Cevap E-) Charles Sanders Peirce**
-    <hr />
-1. <strong>&ldquo;G&ouml;stergelerin, d&uuml;z anlamı dışında, bireylerin kişisel deneyimleri, demografik &ouml;zellikleri ya da k&uuml;lt&uuml;rel etkenler gibi değişkenlere bağlı olarak yorumlanan anlamları&rdquo; olarak ifade edilen kavram aşağıdakilerden hangisidir?</strong>
-    - A-) D&uuml;z anlam
+    ***
+1. **“Göstergelerin, düz anlamı dışında, bireylerin kişisel deneyimleri, demografik özellikleri ya da kültürel etkenler gibi değişkenlere bağlı olarak yorumlanan anlamları” olarak ifade edilen kavram aşağıdakilerden hangisidir?**
+    - A-) Düz anlam
     - **Cevap B-) Yan anlam**
     - C-) Mecaz anlam
     - D-) Kinayeli anlam
-    - E-) G&ouml;sterilen anlam
-    <hr />
+    - E-) Gösterilen anlam
+    ***
 ## Unite 5
-1. <strong>Aşağılardakilerden hangisi reklam grafiklerinde tipografik tasarımlarda dikkat edilmesi gereken temel kurallardan biri <u>değildir</u>?</strong>
-    - A-) Doğru yazı tipi se&ccedil;imi
-    - B-) Hizmet/&uuml;r&uuml;n&uuml; temsil eden bir yazı tipi tasarlama
-    - C-) Reklam grafiğinde &uuml;r&uuml;n/hizmet bilgisini &ouml;nem sırasına g&ouml;re belirleme
-    - D-) Tipografik unsurların hiyerarşik d&uuml;zeni
+1. **Aşağılardakilerden hangisi reklam grafiklerinde tipografik tasarımlarda dikkat edilmesi gereken temel kurallardan biri değildir?**
+    - A-) Doğru yazı tipi seçimi
+    - B-) Hizmet/ürünü temsil eden bir yazı tipi tasarlama
+    - C-) Reklam grafiğinde ürün/hizmet bilgisini önem sırasına göre belirleme
+    - D-) Tipografik unsurların hiyerarşik düzeni
     - **Cevap E-) Okunur, okutur yazı tipi uygulamalarından uzak durma**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde tipografinin işlevlerinden biri olarak g&ouml;sterilebilir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinde tipografinin işlevlerinden biri olarak gösterilebilir?**
     - **Cevap A-) Bilgi vermek**
-    - B-) T&uuml;keticinin tepkisini &ouml;l&ccedil;mek
+    - B-) Tüketicinin tepkisini ölçmek
     - C-) Talep-arz dengesini yaratmak
-    - D-) &Uuml;r&uuml;n/hizmet talebini &ouml;l&ccedil;mek
-    - E-) Potansiyel m&uuml;şteri kitlesini belirlemek
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde uygulanan tipografinin metinsel anlatımlarından biri <u>değildir</u>?</strong>
-    - A-) &Uuml;r&uuml;n/hizmet ismi
-    - B-) &Uuml;r&uuml;n/hizmet a&ccedil;ıklaması
+    - D-) Ürün/hizmet talebini ölçmek
+    - E-) Potansiyel müşteri kitlesini belirlemek
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinde uygulanan tipografinin metinsel anlatımlarından biri değildir?**
+    - A-) Ürün/hizmet ismi
+    - B-) Ürün/hizmet açıklaması
     - C-) Reklam sloganı
-    - **Cevap D-) &Uuml;r&uuml;n amblemi**
-    - E-) İ&ccedil;erik bilgisi
-    <hr />
-1. <strong>I.&nbsp;</strong>Bilgi aktarma<br />
-II.&nbsp;İkna etme<br />
-III.&nbsp;Dikkat &ccedil;ekme<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;reklamlarda tipografinin temel ama&ccedil;ları arasında yer alır?</strong>
+    - **Cevap D-) Ürün amblemi**
+    - E-) İçerik bilgisi
+    ***
+1. **I.** Bilgi aktarma<br />II. İkna etme<br />III. Dikkat çekme<br />**Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin temel amaçları arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Reklam grafiklerinden tipografi aşağıda sıralanan hangi ama&ccedil;la kullanılmış <u>olamaz</u>?</strong>
-    - A-) &Uuml;r&uuml;n/hizmet hakkında bilgi vermek
+    ***
+1. **Reklam grafiklerinden tipografi aşağıda sıralanan hangi amaçla kullanılmış olamaz?**
+    - A-) Ürün/hizmet hakkında bilgi vermek
     - **Cevap B-) Maliyeti azaltmak**
-    - C-) M&uuml;şteriyi ikna etmek
-    - D-) İlgi &ccedil;ekmek
-    - E-) Metinsel sıra d&uuml;zen oluşturmak
-    <hr />
-1. I. Bilgi aktarmak<br />
-II.&nbsp;İkna etmek<br />
-III.&nbsp;Dikkat &ccedil;ekmek<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;reklamlarda tipografinin ama&ccedil;larındandır?</strong>
+    - C-) Müşteriyi ikna etmek
+    - D-) İlgi çekmek
+    - E-) Metinsel sıra düzen oluşturmak
+    ***
+1. I. Bilgi aktarmak<br />II. İkna etmek<br />III. Dikkat çekmek<br />**Yukarıdakilerden hangisi ya da hangileri reklamlarda tipografinin amaçlarındandır?**
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Doğru yazı tipi se&ccedil;iminin reklam grafiklerinde uygulanan tipografik tasarımdaki &ouml;nemi aşağıdakilerden hangisi <u>olamaz</u>?</strong>
-    - **Cevap A-) Hizmet/&uuml;r&uuml;n talebini artırmak**
+    ***
+1. **Doğru yazı tipi seçiminin reklam grafiklerinde uygulanan tipografik tasarımdaki önemi aşağıdakilerden hangisi olamaz?**
+    - **Cevap A-) Hizmet/ürün talebini artırmak**
     - B-) Reklam stratejisine hizmet etmek
-    - C-) Hizmet/&uuml;r&uuml;n kimliğini yansıtmak
-    - D-) Yaratıcı fikre g&ouml;rsel destek sağlamak
+    - C-) Hizmet/ürün kimliğini yansıtmak
+    - D-) Yaratıcı fikre görsel destek sağlamak
     - E-) Alıcıya/bakan kişiye hedeflenen duygu aktarımını sağlamak
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi se&ccedil;imi/uygulamasında dikkat edilmesi gereken hususlardan biri&nbsp;<u>değildir</u>?</strong>
-    - A-) &Uuml;r&uuml;n/hizmet &ouml;zelliklerini bilmek
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinde doğru yazı tipi seçimi/uygulamasında dikkat edilmesi gereken hususlardan biri değildir?**
+    - A-) Ürün/hizmet özelliklerini bilmek
     - B-) Reklam fikri/stratejisini anlamak
-    - C-) Yazı tipinin bi&ccedil;imsel &ouml;zelliklerini bilmek
-    - D-) Yazı tiplerinin bi&ccedil;imsel &ouml;zelliklerinden ilettiği duygusal mesajları verebilmek
-    - **Cevap E-) Birden fazla yazı tipi se&ccedil;imi yapmak**
-    <hr />
-1. <strong>Reklam grafiklerinde tipografik uygulamalar aşağıdakilerden hangisini ama&ccedil;lıyor <u>olamaz</u>?</strong>
+    - C-) Yazı tipinin biçimsel özelliklerini bilmek
+    - D-) Yazı tiplerinin biçimsel özelliklerinden ilettiği duygusal mesajları verebilmek
+    - **Cevap E-) Birden fazla yazı tipi seçimi yapmak**
+    ***
+1. **Reklam grafiklerinde tipografik uygulamalar aşağıdakilerden hangisini amaçlıyor olamaz?**
     - A-) Bilgi vermek
     - B-) İkna etmek
-    - C-) İlgi &ccedil;ekmek
-    - D-) Yaratıcı uygulamalar ile m&uuml;şteriyi şaşırtmak
+    - C-) İlgi çekmek
+    - D-) Yaratıcı uygulamalar ile müşteriyi şaşırtmak
     - **Cevap E-) Kafa karıştırmak**
-    <hr />
-1. <strong>Tipografinin reklam grafiğindeki yeri ve &ouml;nemini aşağıdakilerden hangisi en doğru şekilde aktarmaktadır?</strong>
-    - A-) Tipografik uygulamalar, reklam grafiklerinde m&uuml;şteriyi yanlış y&ouml;nlendirebilir.
-    - B-) Tipografik uygulamalar, m&uuml;şteriyi bilgilendirme, ikna etmek, dikkat &ccedil;ekmek ama&ccedil;lı reklam grafiklerinde kullanılan diğer resim, fotoğraf gibi unsurlarla uyumlu kullanılması gereken bir unsurdur.
-    - C-) Tipografi ge&ccedil;mişten g&uuml;n&uuml;m&uuml;ze değişen uygulamaları ile reklam grafiğinde farklı şekillerde ele alınabilir.
-    - D-) Reklam grafiklerinde tipografik uygulamalar şok edici y&ouml;nleriyle fikirde yaratıcı etkilenimler sağlayabilir.
-    - **Cevap E-) Tipografik uygulamaların reklam grafiğinde &ouml;nemi ve yeri reklam stratejisine g&ouml;re değişen bir &ccedil;izgidedir.**
-    <hr />
-1. <strong>Reklam grafiğinde tipografinin &ouml;nemi ve yeri aşağıdaki ifadelerden hangisinde doğru ifade edilmiştir?</strong>
-    - A-) Bilgi aktarma, ilgi uyandırma ve dikkat &ccedil;ekme
-    - B-) Yaratıcı uygulamalar i&ccedil;in fırsat sunma
+    ***
+1. **Tipografinin reklam grafiğindeki yeri ve önemini aşağıdakilerden hangisi en doğru şekilde aktarmaktadır?**
+    - A-) Tipografik uygulamalar, reklam grafiklerinde müşteriyi yanlış yönlendirebilir.
+    - B-) Tipografik uygulamalar, müşteriyi bilgilendirme, ikna etmek, dikkat çekmek amaçlı reklam grafiklerinde kullanılan diğer resim, fotoğraf gibi unsurlarla uyumlu kullanılması gereken bir unsurdur.
+    - C-) Tipografi geçmişten günümüze değişen uygulamaları ile reklam grafiğinde farklı şekillerde ele alınabilir.
+    - D-) Reklam grafiklerinde tipografik uygulamalar şok edici yönleriyle fikirde yaratıcı etkilenimler sağlayabilir.
+    - **Cevap E-) Tipografik uygulamaların reklam grafiğinde önemi ve yeri reklam stratejisine göre değişen bir çizgidedir.**
+    ***
+1. **Reklam grafiğinde tipografinin önemi ve yeri aşağıdaki ifadelerden hangisinde doğru ifade edilmiştir?**
+    - A-) Bilgi aktarma, ilgi uyandırma ve dikkat çekme
+    - B-) Yaratıcı uygulamalar için fırsat sunma
     - C-) Arz-talep arttırma
-    - D-) Reklamları &ccedil;ekici kılma
-    - **Cevap E-) Bilgi aktarma, ilgi uyandırma ve dikkat &ccedil;ekme yanında yaratıcı uygulamalar ile fark yaratma**
-    <hr />
-1. <strong>Reklam grafiğinde tipografik tasarımda yazı tipi se&ccedil;imi neye bağlı <u>değildir</u>?</strong>
+    - D-) Reklamları çekici kılma
+    - **Cevap E-) Bilgi aktarma, ilgi uyandırma ve dikkat çekme yanında yaratıcı uygulamalar ile fark yaratma**
+    ***
+1. **Reklam grafiğinde tipografik tasarımda yazı tipi seçimi neye bağlı değildir?**
     - A-) Marka kimliği
-    - B-) &Uuml;r&uuml;n/hizmet bi&ccedil;imi
-    - C-) &Uuml;r&uuml;n/hizmet i&ccedil;eriği
+    - B-) Ürün/hizmet biçimi
+    - C-) Ürün/hizmet içeriği
     - D-) Reklam stratejisi
-    - **Cevap E-) M&uuml;şteri talebi**
-    <hr />
-1. <strong>Reklam grafiklerinde aşağıdakilerden hangisi yazı tipi yaratıcı uygulamaları arasında yer alır?</strong>
-    - **Cevap A-) &Uuml;r&uuml;n/hizmete y&ouml;nelik &ouml;zel yazı tipi tasarımı**
+    - **Cevap E-) Müşteri talebi**
+    ***
+1. **Reklam grafiklerinde aşağıdakilerden hangisi yazı tipi yaratıcı uygulamaları arasında yer alır?**
+    - **Cevap A-) Ürün/hizmete yönelik özel yazı tipi tasarımı**
     - B-) Yazı tipi tercihi
     - C-) Benzer yazı tipi kullanımı
-    - D-) Sırad&uuml;zen
+    - D-) Sıradüzen
     - E-) Kolaj
-    <hr />
-1. <strong>Reklam grafiğinde tipografik hiyerarşi neyi ifade eder?</strong>
-    - A-) Aktarılmak istenen bilgilerin &ouml;nem sırası g&ouml;zetmeksizin dizilmesi
-    - **Cevap B-) Tipografik unsurların mesaj ve uygunluğa g&ouml;re belirli bir &ouml;nem sırasında yerleştirilmesi**
-    - C-) B&uuml;y&uuml;k-k&uuml;&ccedil;&uuml;k harf kullanımı
+    ***
+1. **Reklam grafiğinde tipografik hiyerarşi neyi ifade eder?**
+    - A-) Aktarılmak istenen bilgilerin önem sırası gözetmeksizin dizilmesi
+    - **Cevap B-) Tipografik unsurların mesaj ve uygunluğa göre belirli bir önem sırasında yerleştirilmesi**
+    - C-) Büyük-küçük harf kullanımı
     - D-) İtalik, bold ve light yazı tipi karakterlerinin aynı anda uygulanması
-    - E-) &Ouml;nem sırasına g&ouml;re reklam grafiğindeki elemanların dizimi
-    <hr />
-1. <strong>Gutenberg&rsquo;in hareketli hurufat sistemini geliştirmesi &ouml;ncesi d&ouml;nemde reklam grafiklerinde tipografi hangi ama&ccedil;larla kullanılmıştır?</strong>
+    - E-) Önem sırasına göre reklam grafiğindeki elemanların dizimi
+    ***
+1. **Gutenberg’in hareketli hurufat sistemini geliştirmesi öncesi dönemde reklam grafiklerinde tipografi hangi amaçlarla kullanılmıştır?**
     - A-) Yaratıcı fikir
-    - B-) G&ouml;rsel fakt&ouml;r
+    - B-) Görsel faktör
     - **Cevap C-) İşlevsel metinsel unsur**
-    - D-) Reklam stratejisine y&ouml;nelik d&uuml;zenleme
-    - E-) Dikkat &ccedil;ekme
-    <hr />
-1. <strong>Matbaanın ilk d&ouml;nemlerinde basılı ilanlarda kullanılan yazı tipi aşağıdakilerden hangisidir?</strong>
+    - D-) Reklam stratejisine yönelik düzenleme
+    - E-) Dikkat çekme
+    ***
+1. **Matbaanın ilk dönemlerinde basılı ilanlarda kullanılan yazı tipi aşağıdakilerden hangisidir?**
     - A-) Copper plate
     - B-) Comic Sans
     - **Cevap C-) Gotik**
     - D-) Calibri
     - E-) San serif
-    <hr />
+    ***
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisinde geleneksel reklam mecraları doğru sıralanmıştır?</strong>
+1. **Aşağıdakilerden hangisinde geleneksel reklam mecraları doğru sıralanmıştır?**
     - A-) Akıllı Telefonlar-Gazete-Dergi
     - **Cevap B-) Dergi-Gazete-Radyo**
     - C-) Televizyon-Bilgisayar-El İlanları
     - D-) Tablet-TV-Katalog
-    - E-) Dijital Billboard-Broş&uuml;r-Gazete
-    <hr />
-1. <strong>Aşağıdakilerden hangisinde reklam mecrası kavramı doğru tanımlanmıştır?</strong>
-    - A-) G&ouml;rsel ve yazılı unsurların d&uuml;zenlendiği yerdir.
-    - B-) Gazetelerde s&uuml;rekli sabit bir sayfada yer alan b&ouml;l&uuml;md&uuml;r.
-    - **Cevap C-) Reklamların yer alabildiği ve sergilendiği b&uuml;t&uuml;n alanlara mecra denir.**
+    - E-) Dijital Billboard-Broşür-Gazete
+    ***
+1. **Aşağıdakilerden hangisinde reklam mecrası kavramı doğru tanımlanmıştır?**
+    - A-) Görsel ve yazılı unsurların düzenlendiği yerdir.
+    - B-) Gazetelerde sürekli sabit bir sayfada yer alan bölümdür.
+    - **Cevap C-) Reklamların yer alabildiği ve sergilendiği bütün alanlara mecra denir.**
     - D-) Tek bir duyu organımıza hitap eden yerdir.
-    - E-) &Ouml;zel sekt&ouml;rde firma ve kuruluşların reklamlarını yayımladığı yerdir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi geleneksel reklam mecralarının &ouml;zelliklerinden biri <u>olamaz</u>?</strong>
-    - A-) B&uuml;y&uuml;k kitlelere hızlı bir şekilde ulaşır.
-    - B-) Tek y&ouml;nl&uuml; iletişim s&ouml;z konusudur.
-    - C-) Demografik olarak farklı t&uuml;ketici gruplarına hitap etmektedir.
+    - E-) Özel sektörde firma ve kuruluşların reklamlarını yayımladığı yerdir.
+    ***
+1. **Aşağıdakilerden hangisi geleneksel reklam mecralarının özelliklerinden biri olamaz?**
+    - A-) Büyük kitlelere hızlı bir şekilde ulaşır.
+    - B-) Tek yönlü iletişim söz konusudur.
+    - C-) Demografik olarak farklı tüketici gruplarına hitap etmektedir.
     - D-) Ulaşılması kolaydır. Her zaman okunup dinlenebilir.
-    - **Cevap E-) Anında geri d&ouml;n&uuml;ş (feedback) alınabilir.**
-    <hr />
-1. <strong>Gazetelerde yer alan ve sıklıkla kullanılan reklam t&uuml;rleri aşağıdakilerden hangisinde tam ve doğru bir şekilde verilmiştir?</strong>
+    - **Cevap E-) Anında geri dönüş (feedback) alınabilir.**
+    ***
+1. **Gazetelerde yer alan ve sıklıkla kullanılan reklam türleri aşağıdakilerden hangisinde tam ve doğru bir şekilde verilmiştir?**
     - A-) Dijital reklam-bireysel reklam
     - B-) Haber reklam-el ilanları reklamı-ilave reklamlar
     - **Cevap C-) Teşhir reklamlar-seri ilanlar-kamu duyuruları-ilave reklamlar**
     - D-) Tam sayfa reklam-yarım sayfa reklam
     - E-) Promosyon reklamlar-kamu duyuruları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yazılı basın reklam ara&ccedil;larının &ouml;zelliklerinden biridir?</strong>
-    - **Cevap A-) G&uuml;venilirdir-kalıcıdır-durağandır.**
+    ***
+1. **Aşağıdakilerden hangisi yazılı basın reklam araçlarının özelliklerinden biridir?**
+    - **Cevap A-) Güvenilirdir-kalıcıdır-durağandır.**
     - B-) Birden fazla duyu organına hitap eder.
     - C-) Hareketlidir, durağanlığa yer vermez.
-    - D-) G&uuml;vensizdir-d&uuml;ş&uuml;k maliyetlidir.
-    - E-) Kalıcı değildir-sınırlı sayıda &uuml;retilebilir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi gazetelerde yer alan teşhir reklam grafiği &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) G&uuml;&ccedil;l&uuml; ve etkili fotoğraflar kullanılabilir.
-    - B-) Reklamlarda dikkat &ccedil;ekici kısa ve etkili c&uuml;mleler tercih edilir.
-    - C-) Reklamda vurguyu artırmak adına &ldquo;bold&rdquo; başlıklar kullanılmaktadır.
-    - D-) Okunurluğu y&uuml;ksek olan tırnaksız (Şerifsiz) fontlar tercih edilmektedir.
-    - **Cevap E-) Renk kullanımı &ccedil;ok nadir g&ouml;r&uuml;l&uuml;r. Genellikle tek renk siyah tasarımlar kullanılır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yazılı basın reklam ortamıdır?</strong>
+    - D-) Güvensizdir-düşük maliyetlidir.
+    - E-) Kalıcı değildir-sınırlı sayıda üretilebilir.
+    ***
+1. **Aşağıdakilerden hangisi gazetelerde yer alan teşhir reklam grafiği özellikleri arasında yer almaz?**
+    - A-) Güçlü ve etkili fotoğraflar kullanılabilir.
+    - B-) Reklamlarda dikkat çekici kısa ve etkili cümleler tercih edilir.
+    - C-) Reklamda vurguyu artırmak adına “bold” başlıklar kullanılmaktadır.
+    - D-) Okunurluğu yüksek olan tırnaksız (Şerifsiz) fontlar tercih edilmektedir.
+    - **Cevap E-) Renk kullanımı çok nadir görülür. Genellikle tek renk siyah tasarımlar kullanılır.**
+    ***
+1. **Aşağıdakilerden hangisi yazılı basın reklam ortamıdır?**
     - A-) Radyo
     - B-) Televizyon
     - **Cevap C-) Gazete**
-    - D-) A&ccedil;ıkhava
+    - D-) Açıkhava
     - E-) El İlanı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi gazetelerde yer alan kamu duyuruları reklam grafiği &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) K&uuml;&ccedil;&uuml;k puntolar ve okunaklı fontlar tercih edilmektedir.
-    - **Cevap B-) G&uuml;&ccedil;l&uuml; ve etkili fotoğraflar kullanır.**
-    - C-) Kamu ilanlarında g&ouml;rsellik ikinci plandadır. Daha &ccedil;ok metin i&ccedil;erir.
-    - D-) İlanları birbirinden ayırmak i&ccedil;in &ccedil;izgi grafik tasarım elemanı kullanılır.
-    - E-) Renk kullanımı &ccedil;ok azdır. Genellikle tek renk tercih edilir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi dergi reklam mecrasının avantajlarından biri <u>değildir</u>?</strong>
-    - A-) Baskı kalitesi y&uuml;ksektir.
+    ***
+1. **Aşağıdakilerden hangisi gazetelerde yer alan kamu duyuruları reklam grafiği özellikleri arasında yer almaz?**
+    - A-) Küçük puntolar ve okunaklı fontlar tercih edilmektedir.
+    - **Cevap B-) Güçlü ve etkili fotoğraflar kullanır.**
+    - C-) Kamu ilanlarında görsellik ikinci plandadır. Daha çok metin içerir.
+    - D-) İlanları birbirinden ayırmak için çizgi grafik tasarım elemanı kullanılır.
+    - E-) Renk kullanımı çok azdır. Genellikle tek renk tercih edilir.
+    ***
+1. **Aşağıdakilerden hangisi dergi reklam mecrasının avantajlarından biri değildir?**
+    - A-) Baskı kalitesi yüksektir.
     - B-) Sayfa sayısı fazladır.
-    - C-) Arşivleme &ouml;zelliğine sahiptir.
-    - **Cevap D-) Baskı kalitesi d&uuml;ş&uuml;kt&uuml;r.**
-    - E-) Hedef kitle se&ccedil;me noktasında reklam verenlere &ouml;nemli fırsatlar sunarlar.
-    <hr />
-1. <strong>Gazetelerin reklam ortamı olarak kullanılmasında aşağıdakilerden hangisi &ouml;n plana &ccedil;ıkmaktadır?</strong>
-    - **Cevap A-) Yaygın ve tirajının y&uuml;ksek olması**
-    - B-) İ&ccedil;erisinde &ccedil;eşitli konularda haberlere yer vermesi
-    - C-) Baskı kalitesinin d&uuml;ş&uuml;k olması
-    - D-) K&acirc;ğıt kalitesinin d&uuml;ş&uuml;k olması
+    - C-) Arşivleme özelliğine sahiptir.
+    - **Cevap D-) Baskı kalitesi düşüktür.**
+    - E-) Hedef kitle seçme noktasında reklam verenlere önemli fırsatlar sunarlar.
+    ***
+1. **Gazetelerin reklam ortamı olarak kullanılmasında aşağıdakilerden hangisi ön plana çıkmaktadır?**
+    - **Cevap A-) Yaygın ve tirajının yüksek olması**
+    - B-) İçerisinde çeşitli konularda haberlere yer vermesi
+    - C-) Baskı kalitesinin düşük olması
+    - D-) Kâğıt kalitesinin düşük olması
     - E-) Gazetelerde ticari reklamların yanı sıra resmi ilanlarında yer alması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi basılı reklamlarda yer alan unsurlar arasında <u>yer almaz</u>?</strong>
-    - A-) G&ouml;rsel &ouml;ge
+    ***
+1. **Aşağıdakilerden hangisi basılı reklamlarda yer alan unsurlar arasında yer almaz?**
+    - A-) Görsel öge
     - **Cevap B-) Ses**
     - C-) Başlık
     - D-) Slogan
     - E-) Metin
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Basın İlan Kurumu&#39;nun (BİK) kuruluş amacıdır?</strong>
-    - A-) &Ouml;zel sekt&ouml;r reklamlarının yayımlanmasına aracılık etmek
-    - B-) Gazetelere kredi imk&acirc;nı sağlamak
+    ***
+1. **Aşağıdakilerden hangisi Basın İlan Kurumu'nun (BİK) kuruluş amacıdır?**
+    - A-) Özel sektör reklamlarının yayımlanmasına aracılık etmek
+    - B-) Gazetelere kredi imkânı sağlamak
     - C-) Gazetelere nitelikli personel desteği sağlamak
     - **Cevap D-) Resmi ilanların gazete ve dergilerde yayımlanmasını sağlamak**
     - E-) Gazete ve dergilere reklamların tasarımı noktasında destek vermek
-    <hr />
-1. <strong>Aşağıdakilerden hangisi geleneksel reklam mecralarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi geleneksel reklam mecralarından biri değildir?**
     - A-) Televizyon
     - B-) Gazete
     - C-) Radyo
     - D-) Dergi
     - **Cevap E-) Web sayfaları**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi geleneksel reklam mecralarının &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Geleneksel reklam mecralarında tek y&ouml;nl&uuml; iletişim s&ouml;z konusudur.
+    ***
+1. **Aşağıdakilerden hangisi geleneksel reklam mecralarının özellikleri arasında yer almaz?**
+    - A-) Geleneksel reklam mecralarında tek yönlü iletişim söz konusudur.
     - B-) Ulaşılması kolaydır. Her zaman okunup dinlenebilir.
-    - C-) Demografik olarak farklı t&uuml;ketici guruplarına hitap edebilir.
-    - D-) B&uuml;y&uuml;k kitlelere hızlı bir şekilde ulaşabilir.
-    - **Cevap E-) Reklamların ka&ccedil; kişiye ulaştığı, ka&ccedil; kere g&ouml;r&uuml;nt&uuml;lendiği, ka&ccedil; kez tıklandığı gibi bilgilere erişilebilir.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi gazete teşhir reklam grafiğinin &ouml;zelliklerinden biridir?</strong>
-    - **Cevap A-) G&uuml;&ccedil;l&uuml; ve etkili fotoğraflar kullanılmaktadır.**
-    - B-) Reklam &ccedil;alışmalarında daha &ccedil;ok tek renk kullanılır.
+    - C-) Demografik olarak farklı tüketici guruplarına hitap edebilir.
+    - D-) Büyük kitlelere hızlı bir şekilde ulaşabilir.
+    - **Cevap E-) Reklamların kaç kişiye ulaştığı, kaç kere görüntülendiği, kaç kez tıklandığı gibi bilgilere erişilebilir.**
+    ***
+1. **Aşağıdakilerden hangisi gazete teşhir reklam grafiğinin özelliklerinden biridir?**
+    - **Cevap A-) Güçlü ve etkili fotoğraflar kullanılmaktadır.**
+    - B-) Reklam çalışmalarında daha çok tek renk kullanılır.
     - C-) Tam sayfa yayımlanan reklamlardır.
-    - D-) Maliyeti y&uuml;ksek reklamlardır.
+    - D-) Maliyeti yüksek reklamlardır.
     - E-) Reklam tasarımında şerifli (tırnaklı) fontlar kullanılır.
-    <hr />
-1. <strong>Aşağıdakiler hangi ikisi en &ccedil;ok tercih edilen yazılı basın reklam aracıdır?</strong>
-    - A-) Katalog-Broş&uuml;r
+    ***
+1. **Aşağıdakiler hangi ikisi en çok tercih edilen yazılı basın reklam aracıdır?**
+    - A-) Katalog-Broşür
     - **Cevap B-) Dergi-Gazete**
     - C-) El ilanı-Dergi
     - D-) Gazete-Katalog
-    - E-) Broş&uuml;r-El ilanı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi el ilanları reklam grafiğinin &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    - E-) Broşür-El ilanı
+    ***
+1. **Aşağıdakilerden hangisi el ilanları reklam grafiğinin özellikleri arasında yer almaz?**
     - A-) Ulusal ve yerel kuruluşlar tarafından kullanılan bir reklam aracıdır.
-    - **Cevap B-) Tek bir &uuml;r&uuml;n&uuml; ya da hizmeti anlatan &ccedil;ok sayfalı &ccedil;alışmalardır.**
+    - **Cevap B-) Tek bir ürünü ya da hizmeti anlatan çok sayfalı çalışmalardır.**
     - C-) El ilanları genellikle tek yapraktan oluşur.
-    - D-) El ilanları daha &ccedil;ok kampanya d&ouml;nemlerinde tercih edilir.
-    - E-) Diğer reklam mecralarına g&ouml;re daha ekonomiktir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi dijital reklam mecralarından biri <u>değildir</u>?</strong>
+    - D-) El ilanları daha çok kampanya dönemlerinde tercih edilir.
+    - E-) Diğer reklam mecralarına göre daha ekonomiktir.
+    ***
+1. **Aşağıdakilerden hangisi dijital reklam mecralarından biri değildir?**
     - **Cevap A-) El ilanları**
     - B-) E-postalar
     - C-) Sosyal medya
     - D-) Web sayfaları
     - E-) Dijital billboardlar
-    <hr />
+    ***
 ## Unite 7
-1. <strong>Logosunda &uuml;&ccedil;gen şekle sahip olan bir firmanın iletmek istediği mesaj aşağıdakilerden hangisi <u>olamaz</u>?</strong>
-    - A-) Yol g&ouml;sterici
-    - B-) G&uuml;&ccedil;
+1. **Logosunda üçgen şekle sahip olan bir firmanın iletmek istediği mesaj aşağıdakilerden hangisi olamaz?**
+    - A-) Yol gösterici
+    - B-) Güç
     - C-) Enerji
     - **Cevap D-) Sonsuzluk**
     - E-) İstikrar
-    <hr />
-1. <strong>Kurum ve kuruluşlara kimlik kazandıran, s&ouml;zc&uuml;k &ouml;zelliği g&ouml;stermeyen, soyut ya da nesnel g&ouml;r&uuml;nt&uuml;lerle ya da harflerle oluşturulan simgelere ne ad verilir?</strong>
+    ***
+1. **Kurum ve kuruluşlara kimlik kazandıran, sözcük özelliği göstermeyen, soyut ya da nesnel görüntülerle ya da harflerle oluşturulan simgelere ne ad verilir?**
     - **Cevap A-) Amblem**
     - B-) Logo
     - C-) Logotype
     - D-) Kurum adı
     - E-) Kurum rengi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kırmızı ile <u>ilişkilendirilmez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kırmızı ile ilişkilendirilmez?**
     - A-) Ateş
-    - **Cevap B-) G&ouml;ky&uuml;z&uuml;**
+    - **Cevap B-) Gökyüzü**
     - C-) Kan
     - D-) Aşk
     - E-) Tehlike
-    <hr />
-1. <strong>Bir kurumun her yerde aynı bir isim, renk ve aynı yazı karakteri kullandığı yani tek bir g&ouml;rsel kimlik oluşturduğu kurumsal kimlik t&uuml;r&uuml;ne ne ad verilir?</strong>
+    ***
+1. **Bir kurumun her yerde aynı bir isim, renk ve aynı yazı karakteri kullandığı yani tek bir görsel kimlik oluşturduğu kurumsal kimlik türüne ne ad verilir?**
     - A-) Onaylanmış kimlik
     - **Cevap B-) Tekli / monolitik kimlik**
     - C-) Desteklenmiş kimlik
-    - D-) G&ouml;rsel kimlik
+    - D-) Görsel kimlik
     - E-) Değiştirilmiş kimlik
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g</strong><strong>&ouml;rsel kimliğin temel elemanlarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi g****örsel kimliğin temel elemanlarından biri değildir?**
     - A-) Renk
     - B-) Tipografi
     - C-) Logo
     - D-) Kurum adı
     - **Cevap E-) Şirket ortakları**
-    <hr />
-1. <strong>Sarı renk aşağıdaki kavramların hangisi ile ilişkilendirilebilir?</strong>
+    ***
+1. **Sarı renk aşağıdaki kavramların hangisi ile ilişkilendirilebilir?**
     - A-) Soğuk
     - B-) Deniz
-    - **Cevap C-) G&uuml;n ışığı**
+    - **Cevap C-) Gün ışığı**
     - D-) Kararsızlık
     - E-) Şeffaflık
-    <hr />
-1. <strong>Kare formundan yararlanılarak yapılan bir kurumun logosunun hangi &ouml;zelliği taşıdığı s&ouml;ylenir?</strong>
+    ***
+1. **Kare formundan yararlanılarak yapılan bir kurumun logosunun hangi özelliği taşıdığı söylenir?**
     - **Cevap A-) Sağlamlık**
     - B-) Sonsuzluk
     - C-) Belirsizlik
     - D-) Kararsızlık
     - E-) Zayıflık
-    <hr />
-1. <strong>Kurum adı tırnaklı bir yazı karakteri ile tasarlanmış şirket aşağıdakilerden hangisinin &ouml;zelliğini taşır?</strong>
+    ***
+1. **Kurum adı tırnaklı bir yazı karakteri ile tasarlanmış şirket aşağıdakilerden hangisinin özelliğini taşır?**
     - A-) Eğlenceli bir kurum olduğu
-    - B-) S&uuml;rprizli bir kurum olduğu
-    - **Cevap C-) K&ouml;kl&uuml; bir kurum olduğu**
-    - D-) &Ouml;zg&uuml;r bir kurum olduğu
+    - B-) Sürprizli bir kurum olduğu
+    - **Cevap C-) Köklü bir kurum olduğu**
+    - D-) Özgür bir kurum olduğu
     - E-) Rahat bir kurum olduğu
-    <hr />
-1. <strong>G&ouml;rsel kimliği yeşil ağırlıklı olan bir gıda firmasının hedef kitleye verdiği mesaj aşağıdakilerden hangisidir?</strong>
-    - A-) Deniz &uuml;r&uuml;nlerine sahip olduğu mesajını verir.
-    - B-) Fast-food gibi hazır gıdalar olan bir &uuml;r&uuml;n yelpazesi vardır.
-    - C-) Tehlikeli, zehirli &uuml;r&uuml;nlere sahip olduğu mesajını verir.
-    - **Cevap D-) Organik ve doğal &uuml;r&uuml;nlere sahip olduğu mesajını verir.**
-    - E-) Sadece erkeklere &ouml;zel &uuml;r&uuml;nlere sahip olduğu mesajını verir.
-    <hr />
-1. <strong>Kurum veya hizmet adının harf, kelimeler ve/veya g&ouml;r&uuml;nt&uuml; gibi &ccedil;eşitli g&ouml;rsel &ouml;geler kullanılarak sembolize edilmesine ne ad verilir?</strong>
+    ***
+1. **Görsel kimliği yeşil ağırlıklı olan bir gıda firmasının hedef kitleye verdiği mesaj aşağıdakilerden hangisidir?**
+    - A-) Deniz ürünlerine sahip olduğu mesajını verir.
+    - B-) Fast-food gibi hazır gıdalar olan bir ürün yelpazesi vardır.
+    - C-) Tehlikeli, zehirli ürünlere sahip olduğu mesajını verir.
+    - **Cevap D-) Organik ve doğal ürünlere sahip olduğu mesajını verir.**
+    - E-) Sadece erkeklere özel ürünlere sahip olduğu mesajını verir.
+    ***
+1. **Kurum veya hizmet adının harf, kelimeler ve/veya görüntü gibi çeşitli görsel ögeler kullanılarak sembolize edilmesine ne ad verilir?**
     - **Cevap A-) Logo**
     - B-) Amblem
     - C-) Slogan
     - D-) Logotype
-    - E-) G&ouml;rsel kimlik
-    <hr />
-1. <strong>Bir şirket veya marka i&ccedil;in tasarlanmış tipografi veya belirli bir bi&ccedil;imde yazılan s&ouml;zc&uuml;k ya da s&ouml;zc&uuml;klerden oluşan kurum, &uuml;r&uuml;n veya hizmet adına ne ad verilir?</strong>
+    - E-) Görsel kimlik
+    ***
+1. **Bir şirket veya marka için tasarlanmış tipografi veya belirli bir biçimde yazılan sözcük ya da sözcüklerden oluşan kurum, ürün veya hizmet adına ne ad verilir?**
     - A-) Amblem
     - B-) Logo
     - **Cevap C-) Logotype**
     - D-) Slogan
     - E-) Şekil
-    <hr />
-1. <strong>Aşağıdaki kavramlardan hangisi mavi renk ile ilişkilendirilir?</strong>
+    ***
+1. **Aşağıdaki kavramlardan hangisi mavi renk ile ilişkilendirilir?**
     - A-) Ateş
     - B-) Kan
     - C-) Enerji
-    - **Cevap D-) G&ouml;ky&uuml;z&uuml;**
+    - **Cevap D-) Gökyüzü**
     - E-) Tutku
-    <hr />
-1. <strong>Şirketlerin kurumsal kimliklerini, sahip oldukları markaların kimliklerinden ayıran ve &ccedil;eşitli alt markaları olan kurumsal kimlik t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Şirketlerin kurumsal kimliklerini, sahip oldukları markaların kimliklerinden ayıran ve çeşitli alt markaları olan kurumsal kimlik türü aşağıdakilerden hangisidir?**
     - **Cevap A-) Markalanan kimlik**
     - B-) Tekli/Monolitik kimlik
     - C-) Onaylanmış kimlik
     - D-) Bireysel kimlik
     - E-) Kolektif kimlik
-    <hr />
-1. <strong>Aşağıdakilerden hangisi siyah rengin olumlu &ccedil;ağrışımlar yarattığı kavramlardan biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi siyah rengin olumlu çağrışımlar yarattığı kavramlardan biri değildir?**
     - A-) Şıklık
     - **Cevap B-) Korku**
     - C-) Zarafet
-    - D-) G&uuml;&ccedil;
+    - D-) Güç
     - E-) Ciddiyet
-    <hr />
-1. <strong>Kurumsal logosunda ağırlıklı olarak daire bi&ccedil;iminden yararlanılan bir marka i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Sonsuzluğu &ccedil;ağrıştıran bir kurumdur, m&uuml;cevher markası olabilir.
-    - B-) S&uuml;rekliliği temsil eden bir kurumdur, saat markası logosu olabilir.
-    - C-) G&uuml;venliği temsil eden bir kurumdur, araba markası logosu olabilir.
+    ***
+1. **Kurumsal logosunda ağırlıklı olarak daire biçiminden yararlanılan bir marka için aşağıdakilerden hangisi söylenemez?**
+    - A-) Sonsuzluğu çağrıştıran bir kurumdur, mücevher markası olabilir.
+    - B-) Sürekliliği temsil eden bir kurumdur, saat markası logosu olabilir.
+    - C-) Güvenliği temsil eden bir kurumdur, araba markası logosu olabilir.
     - D-) Sevgi ve samimiyeti temsil eden bir kurumdur, restoran markası olabilir.
     - **Cevap E-) Stabil/durağan bir kurumdur, inşaat firması logosu olabilir.**
-    <hr />
+    ***
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi yaratıcılığın &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi yaratıcılığın özelliklerinden biri değildir?**
     - A-) Esneklik (flexibility)
     - B-) Zenginleştirme (elaboration)
     - **Cevap C-) Kararlılık (resolvity)**
     - D-) Orijinallik (originality)
     - E-) Akıcılık (fluency)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi afişlerin en &ouml;nemli &ouml;zelliğidir?</strong>
-    - A-) Bi&ccedil;imsel olmasıdır.
+    ***
+1. **Aşağıdakilerden hangisi afişlerin en önemli özelliğidir?**
+    - A-) Biçimsel olmasıdır.
     - B-) Slogan olması
     - C-) Hangi teknikle yapıldığı
     - **Cevap D-) Fark edilir olması**
     - E-) Ekonomik olması
-    <hr />
-1. <strong>&#199;ağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?</strong>
+    ***
+1. **Çağdaş afiş tasarımın ilk temsilcisi aşağıdakilerden hangisi kabul edilir?**
     - A-) Leonardo Da Vinci
-    - **Cevap B-) Jules Ch&#233;ret**
+    - **Cevap B-) Jules Chéret**
     - C-) John Gutenberg
-    - D-) Meng&#252; Ertel
+    - D-) Mengü Ertel
     - E-) Yurdaer Altıntaş
-    <hr />
-1. <strong>Afiş tasarımı, &ccedil;eşitli sanat akımlarından etkilenmiştir. Aşağıdakilerden hangisi bu akımlardan <u>değildir</u>?</strong>
+    ***
+1. **Afiş tasarımı, çeşitli sanat akımlarından etkilenmiştir. Aşağıdakilerden hangisi bu akımlardan değildir?**
     - A-) Art Nouveau
     - B-) Jugend stil
     - C-) Arts and Craft
     - D-) Secessionstil
     - **Cevap E-) Realizm**
-    <hr />
-1. <strong>Afişleri, t&uuml;rlerinin niteliklerine g&ouml;re ka&ccedil; b&ouml;l&uuml;me ayırabiliriz?</strong>
+    ***
+1. **Afişleri, türlerinin niteliklerine göre kaç bölüme ayırabiliriz?**
     - A-) 2
     - **Cevap B-) 3**
     - C-) 4
     - D-) 5
     - E-) 6
-    <hr />
-1. <strong>Aşağıdakilerden hangisi genel olarak tasarımın g&ouml;rselleştirme s&uuml;recinde izlenilmesi gereken yollardan değildir?</strong>
-    - **Cevap A-) Bi&ccedil;im ve i&ccedil;erik**
+    ***
+1. **Aşağıdakilerden hangisi genel olarak tasarımın görselleştirme sürecinde izlenilmesi gereken yollardan değildir?**
+    - **Cevap A-) Biçim ve içerik**
     - B-) Bilgi toplama
     - C-) Uygulama
-    - D-) Yaratıcılık ve &ccedil;&ouml;z&uuml;m
+    - D-) Yaratıcılık ve çözüm
     - E-) Problem tanımı
-    <hr />
-1. <strong>Bir tasarımın g&ouml;rselleştirilmesi ya da tasarım olarak d&uuml;zenlenip yaratılması i&ccedil;in ilk aşaması aşağıdakilerden hangisi olmalıdır?</strong>
+    ***
+1. **Bir tasarımın görselleştirilmesi ya da tasarım olarak düzenlenip yaratılması için ilk aşaması aşağıdakilerden hangisi olmalıdır?**
     - A-) Uygulama
     - B-) Bilgi toplama
-    - C-) Yaratıcılık ve &ccedil;&ouml;z&uuml;m
+    - C-) Yaratıcılık ve çözüm
     - D-) Taslak araştırmaları
     - **Cevap E-) Problemi tanıma**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Taylor&rsquo;a g&ouml;re insan yaratıcılığının beş aşamasından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) &Uuml;retici
-    - B-) Buluş&ccedil;u
-    - **Cevap C-) Yetenek&ccedil;i**
+    ***
+1. **Aşağıdakilerden hangisi Taylor’a göre insan yaratıcılığının beş aşamasından biri değildir?**
+    - A-) Üretici
+    - B-) Buluşçu
+    - **Cevap C-) Yetenekçi**
     - D-) Yaratıcı
     - E-) Gelişmeci
-    <hr />
-1. <strong>Taylor&rsquo;a g&ouml;re &ldquo;taslaklar&rdquo; insan yaratıcılığının beş aşamasından hangisi i&ccedil;inde yer alır?</strong>
+    ***
+1. **Taylor’a göre “taslaklar” insan yaratıcılığının beş aşamasından hangisi içinde yer alır?**
     - A-) Yaratıcı
-    - B-) Yenilik&ccedil;i
-    - C-) Buluş&ccedil;u
+    - B-) Yenilikçi
+    - C-) Buluşçu
     - **Cevap D-) Dışavurumcu**
-    - E-) &Uuml;retici
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;taslak t&uuml;rlerinden&rdquo; biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Üretici
+    ***
+1. **Aşağıdakilerden hangisi “taslak türlerinden” biri değildir?**
     - **Cevap A-) Serbest taslaklar**
     - B-) Sirk taslaklar
-    - C-) Harf bi&ccedil;imli taslaklar
+    - C-) Harf biçimli taslaklar
     - D-) Rebus taslaklar
-    - E-) &Ccedil;er&ccedil;eveli taslaklar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam afişlerinden <u>değildir</u>?</strong>
+    - E-) Çerçeveli taslaklar
+    ***
+1. **Aşağıdakilerden hangisi reklam afişlerinden değildir?**
     - A-) X isimli ayakkabı afişi
     - **Cevap B-) G isimli şarkıcı afişi**
     - C-) K isimli peynir afişi
     - D-) Ş isimli mağaza afişi
-    - E-) M isimli telefon operat&#246;r afişi
-    <hr />
-1. <strong>Belirli ve g&ouml;receli dar kapsamlı bir konuya ilişkin, derlenmiş bilgi par&ccedil;asına ne ad verilir?</strong>
+    - E-) M isimli telefon operatör afişi
+    ***
+1. **Belirli ve göreceli dar kapsamlı bir konuya ilişkin, derlenmiş bilgi parçasına ne ad verilir?**
     - A-) Bilim
     - B-) Teknoloji
     - **Cevap C-) Enformasyon**
     - D-) İdea
     - E-) İnformel Eğitim
-    <hr />
-1. <strong>Sanayi Devrimi&#39;nden &ouml;nce grafik tasarım uygulamalarının her aşaması aşağıdakilerden hangisi tarafından yapılmıştır?</strong>
+    ***
+1. **Sanayi Devrimi'nden önce grafik tasarım uygulamalarının her aşaması aşağıdakilerden hangisi tarafından yapılmıştır?**
     - A-) Ressamlar
     - B-) Litograflar
-    - C-) Fotoğraf&ccedil;ılar
-    - **Cevap D-) Zanaatk&acirc;rlar**
-    - E-) M&uuml;cellitler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel anlatımsal aktarım ara&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+    - C-) Fotoğrafçılar
+    - **Cevap D-) Zanaatkârlar**
+    - E-) Mücellitler
+    ***
+1. **Aşağıdakilerden hangisi görsel anlatımsal aktarım araçlarından biri değildir?**
     - **Cevap A-) Ses**
     - B-) Leke
-    - C-) &Ccedil;izgi
+    - C-) Çizgi
     - D-) İz
     - E-) Sayı
-    <hr />
-1. <strong>Bug&uuml;nk&uuml; anlamda ilk afiş sanatı aşağıdaki &uuml;lkelerden hangisinde g&ouml;r&uuml;lm&uuml;şt&uuml;r?</strong>
+    ***
+1. **Bugünkü anlamda ilk afiş sanatı aşağıdaki ülkelerden hangisinde görülmüştür?**
     - A-) Almanya
     - **Cevap B-) Fransa**
     - C-) İtalya
     - D-) Japonya
-    - E-) &Ccedil;in
-    <hr />
-1. <strong>Tasarım s&uuml;recinde &ldquo;gazete tasarımları&rdquo; aşağıdakilerden hangi taslakların gelişim evreleri i&ccedil;erisinde yer alır?</strong>
+    - E-) Çin
+    ***
+1. **Tasarım sürecinde “gazete tasarımları” aşağıdakilerden hangi taslakların gelişim evreleri içerisinde yer alır?**
     - **Cevap A-) Mondrian taslaklar**
     - B-) Sirk taslaklar
     - C-) Rebus taslaklar
-    - D-) Sil&uuml;et taslaklar
+    - D-) Silüet taslaklar
     - E-) İmge ağırlıklı taslaklar
-    <hr />
-1. <strong>Tasarım s&uuml;recinde &ldquo;dergiler&rdquo; taslakların gelişim evrelerinden hangisinin i&ccedil;erisinde yer alır?</strong>
-    - A-) Harf bi&ccedil;imli taslaklar
+    ***
+1. **Tasarım sürecinde “dergiler” taslakların gelişim evrelerinden hangisinin içerisinde yer alır?**
+    - A-) Harf biçimli taslaklar
     - B-) Tipografik taslaklar
     - C-) Metin ağırlıklı taslaklar
     - **Cevap D-) İmge ağırlıklı taslaklar**
-    - E-) &Ccedil;er&ccedil;eveli taslaklar
-    <hr />
+    - E-) Çerçeveli taslaklar
+    ***
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi animasyonun reklam end&uuml;strisindeki getirilerinden biri <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi animasyonun reklam endüstrisindeki getirilerinden biri değildir?**
     - **Cevap A-) Taksitlendirme**
     - B-) Ekonomiklik
     - C-) Basitleştirme
     - D-) Zamansızlık
     - E-) Kalıcı bir izlenim
-    <hr />
-1. <strong>&ldquo;Reklam kampanyalarının s&uuml;rd&uuml;r&uuml;lebilirliği reklam yıldızlarının kariyerlerinin devam ettiği s&uuml;re ile sınırlıdır. Halbuki animasyon karakterleri marka ve &uuml;r&uuml;n devam ettik&ccedil;e ona eşlik edecek &hellip;&hellip;&hellip;&hellip;&hellip; &ouml;zelliğine sahiptir.&rdquo; İfadesinde noktalı yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. **“Reklam kampanyalarının sürdürülebilirliği reklam yıldızlarının kariyerlerinin devam ettiği süre ile sınırlıdır. Halbuki animasyon karakterleri marka ve ürün devam ettikçe ona eşlik edecek …………… özelliğine sahiptir.” İfadesinde noktalı yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Zamanlama
     - **Cevap B-) Zamansızlık**
     - C-) Zaman Tasarrufu
-    - D-) Zaman B&uuml;t&ccedil;esi
+    - D-) Zaman Bütçesi
     - E-) Zaman Ayarı
-    <hr />
-1. Animasyonlar bir şirketin reklam mesajını kısa ve &#246;z bir şekilde izleyicinin izlerken zevk alacağı g&#246;rsel/işitsel &#231;ekiciliğe sahip ……………………. verebilirler.<br />
-<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Animasyonlar bir şirketin reklam mesajını kısa ve öz bir şekilde izleyicinin izlerken zevk alacağı görsel/işitsel çekiciliğe sahip ……………………. verebilirler.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Ses formatında
-    - B-) G&#246;r&#252;nt&#252; formatında
+    - B-) Görüntü formatında
     - C-) Karmaşık bir yapıda
     - **Cevap D-) Basitleştirilmiş bir formda**
     - E-) Sofistike bir yapıda
-    <hr />
-1. <strong>Aşağıdaki tekniklerden hangisi bir animasyon &uuml;retim tekniği <u>değildir</u>?</strong>
-    - **Cevap A-) Engraving (Grav&uuml;r)**
-    - B-) Cut-Out (Kes-&ccedil;ıkart)
+    ***
+1. **Aşağıdaki tekniklerden hangisi bir animasyon üretim tekniği değildir?**
+    - **Cevap A-) Engraving (Gravür)**
+    - B-) Cut-Out (Kes-çıkart)
     - C-) Cel (Soğan zarı)
     - D-) Stop-Motion Puppet (Kukla)
     - E-) Stop-Motion Clay (Kil)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyonun reklama katkılarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi illüstrasyonun reklama katkılarından biri değildir?**
     - A-) İzleyicinin bakışını yakalaması
-    - B-) G&ouml;z&uuml; y&ouml;nlendirmesi
-    - C-) İ&ccedil;eriğin hızlı ve doğru bi&ccedil;imde algılanabilmesini sağlaması
-    - D-) Alıcıyı yakalayan &ccedil;ağrışımları kullanması
-    - **Cevap E-) &Uuml;retiminin uzun zaman alması**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam ill&uuml;strasyonları grubundadır?</strong>
-    - A-) &Ccedil;ocuk kitabı ill&uuml;strasyonları
-    - B-) Teknik ill&uuml;strasyonlar
-    - C-) Tıbbi ill&uuml;strasyonlar
-    - D-) Adli ill&uuml;strasyonlar
-    - **Cevap E-) &Uuml;r&uuml;n ill&uuml;strasyonları**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Basın-Yayın İll&uuml;strasyonları grubundadır?</strong>
-    - A-) Adli ill&uuml;strasyonlar
-    - B-) Teknik ill&uuml;strasyonlar
-    - C-) Tıbbi ill&uuml;strasyonlar
-    - **Cevap D-) &Ccedil;ocuk Kitabı ill&uuml;strasyonları**
-    - E-) &Uuml;r&uuml;n ill&uuml;strasyonları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bilimsel ve Teknik İll&uuml;strasyonlar grubunda <u>değildir</u>?</strong>
-    - **Cevap A-) &Ccedil;ocuk Kitabı ill&uuml;strasyonları**
-    - B-) Adli ill&uuml;strasyonlar
-    - C-) Teknik ill&uuml;strasyonlar
-    - D-) Tıbbi ill&uuml;strasyonlar
-    - E-) Bilimsel İll&uuml;strasyonlar
-    <hr />
-1. Metinlerin ve fikirlerin tasvir edilmesi ve a&ccedil;ıklanması amacıyla uygulanan en yaygın resimleme t&uuml;r&uuml;d&uuml;r.<br />
-<strong>Tanımı aşağıdakilerden hangisine aittir?</strong>
+    - B-) Gözü yönlendirmesi
+    - C-) İçeriğin hızlı ve doğru biçimde algılanabilmesini sağlaması
+    - D-) Alıcıyı yakalayan çağrışımları kullanması
+    - **Cevap E-) Üretiminin uzun zaman alması**
+    ***
+1. **Aşağıdakilerden hangisi reklam illüstrasyonları grubundadır?**
+    - A-) Çocuk kitabı illüstrasyonları
+    - B-) Teknik illüstrasyonlar
+    - C-) Tıbbi illüstrasyonlar
+    - D-) Adli illüstrasyonlar
+    - **Cevap E-) Ürün illüstrasyonları**
+    ***
+1. **Aşağıdakilerden hangisi Basın-Yayın İllüstrasyonları grubundadır?**
+    - A-) Adli illüstrasyonlar
+    - B-) Teknik illüstrasyonlar
+    - C-) Tıbbi illüstrasyonlar
+    - **Cevap D-) Çocuk Kitabı illüstrasyonları**
+    - E-) Ürün illüstrasyonları
+    ***
+1. **Aşağıdakilerden hangisi Bilimsel ve Teknik İllüstrasyonlar grubunda değildir?**
+    - **Cevap A-) Çocuk Kitabı illüstrasyonları**
+    - B-) Adli illüstrasyonlar
+    - C-) Teknik illüstrasyonlar
+    - D-) Tıbbi illüstrasyonlar
+    - E-) Bilimsel İllüstrasyonlar
+    ***
+1. Metinlerin ve fikirlerin tasvir edilmesi ve açıklanması amacıyla uygulanan en yaygın resimleme türüdür.<br />**Tanımı aşağıdakilerden hangisine aittir?**
     - A-) 2B animasyon
     - B-) 3B animasyon
     - C-) Akrilik
     - D-) Lavi
-    - **Cevap E-) İll&uuml;strasyon**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamın işlevlerinden bir tanesi <u>değildir</u>?</strong>
+    - **Cevap E-) İllüstrasyon**
+    ***
+1. **Aşağıdakilerden hangisi reklamın işlevlerinden bir tanesi değildir?**
     - A-) Bilgilendirme
     - B-) Hatırlanmayı sağlama
     - **Cevap C-) Kısa hafıza**
     - D-) İkna etme
     - E-) Değer katma
-    <hr />
-1. Reklamlar nihayetinde .........................&hellip;&hellip;&hellip;&hellip;&hellip;.. veya korumayı hedefleyen belirli ama&ccedil;ları yerine getirmek i&ccedil;in yapılırlar.<strong> </strong><br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Reklamlar nihayetinde .........................…………….. veya korumayı hedefleyen belirli amaçları yerine getirmek için yapılırlar.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) satışı sağlamayı, artırmayı**
     - B-) satışı durdurmayı, dondurmayı
     - C-) pazarı durdurmayı, bekletmeyi
-    - D-) sekt&ouml;r&uuml; araştırmayı, beklemeyi
+    - D-) sektörü araştırmayı, beklemeyi
     - E-) sunumu hazırlamayı, sunmayı
-    <hr />
-1. <strong>Aşağıdakilerden hangisinde reklamın işlevi doğru verilmiştir?</strong>
+    ***
+1. **Aşağıdakilerden hangisinde reklamın işlevi doğru verilmiştir?**
     - A-) Hatırlanma, değerlendirme, fiyat ayarlama
     - **Cevap B-) Bilgi verme, hatırlanma, ikna, değer katma**
     - C-) Bilgi verme, hatırlanma, fiyat ayarlama, değer katma
     - D-) Bilgi verme, ikna etme, değerlendirme
     - E-) Hatırlanma, fiyat ayarlama, değer katma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi animasyonun reklam ile kurduğu farklı t&uuml;rdeki ilişkilerden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi animasyonun reklam ile kurduğu farklı türdeki ilişkilerden biri değildir?**
     - **Cevap A-) Tetrad**
-    - B-) End&uuml;striyel
+    - B-) Endüstriyel
     - C-) Sponsorlu
     - D-) Bilgilendirici
     - E-) İkna edici
-    <hr />
-1. İnsanlar, dikkat &#231;ekme ve s&#252;rd&#252;rmede rol oynayan &#231;izgi filmlerden hoşlanırlar; animasyon, &#39;deterjan yiyen lekeler' gibi ……… bir fikre bi&#231;im verebilir.<br />
-<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. İnsanlar, dikkat çekme ve sürdürmede rol oynayan çizgi filmlerden hoşlanırlar; animasyon, 'deterjan yiyen lekeler' gibi ……… bir fikre biçim verebilir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Basit
     - B-) Detaylı
     - C-) Karmaşık
     - D-) Somut
     - **Cevap E-) Soyut**
-    <hr />
-1. <strong>&ldquo;İnsanlar, dikkat &ccedil;ekme ve s&uuml;rd&uuml;rmede rol oynayan &ccedil;izgi filmlerden hoşlanırlar; animasyon, &hellip;&hellip;&hellip;&hellip;.. aracılığıyla benzersiz kimlikler yaratır.&rdquo; İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) M&uuml;şteriler
+    ***
+1. **“İnsanlar, dikkat çekme ve sürdürmede rol oynayan çizgi filmlerden hoşlanırlar; animasyon, ………….. aracılığıyla benzersiz kimlikler yaratır.” İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Müşteriler
     - B-) Cihazlar
     - **Cevap C-) Markalar**
     - D-) Kontrast renk armonileri
     - E-) Tamamlayıcı renk armonileri
-    <hr />
+    ***
 ## Unite 10
-1. <strong>Sanat, belgesel ve end&uuml;striyel alanlarını b&uuml;y&uuml;k oranda etkileyen ve aynı zamanda fotoğraf ile ilgili &ccedil;alışmaların &ccedil;oğalarak ivme kazanmasında etkili olan End&uuml;stri Devrimi hangi tarihler arasında ger&ccedil;ekleşmiştir?</strong>
+1. **Sanat, belgesel ve endüstriyel alanlarını büyük oranda etkileyen ve aynı zamanda fotoğraf ile ilgili çalışmaların çoğalarak ivme kazanmasında etkili olan Endüstri Devrimi hangi tarihler arasında gerçekleşmiştir?**
     - A-) 1600-1640
     - **Cevap B-) 1660-1740**
     - C-) 1760-1840
     - D-) 1860-1940
     - E-) 1960-2000
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Reklam grafiklerinin başarı şansı, alanında uzman kişilerin uzun s&uuml;reli deneyim, araştırma ve &ccedil;alışmalarına sadık kalınmasına bağlıdır
-    - B-) Reklam grafiklerinde, &uuml;r&uuml;nler, hizmetler, vaatler, &ouml;d&uuml;ller ve sorunların &ccedil;&ouml;z&uuml;m vaadi vardır
-    - **Cevap C-) Reklam grafiklerinin kitle iletişiminde başarılı olabilmeleri i&ccedil;in reklam fotoğrafı kullanımı zorunludur**
-    - D-) Reklam grafikleri ile t&uuml;keticiler bilgilendirilmeye ve ikna edilmeye &ccedil;alışılır
-    - E-) Reklam grafikleri konunun uzmanları olan reklamcılar tarafından pek &ccedil;ok kriter g&ouml;z &ouml;n&uuml;ne alınarak hazırlanır
-    <hr />
-1. Reklam mecralarının bir&ccedil;oğunda yaratıcı kullanımlara imkan veren &hellip;&hellip;&hellip;&hellip;&hellip;., g&ouml;rsel bir mesaj aracı olarak reklam grafiklerinin vazge&ccedil;ilmez bileşenlerindendir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinin özelliklerinden biri değildir?**
+    - A-) Reklam grafiklerinin başarı şansı, alanında uzman kişilerin uzun süreli deneyim, araştırma ve çalışmalarına sadık kalınmasına bağlıdır
+    - B-) Reklam grafiklerinde, ürünler, hizmetler, vaatler, ödüller ve sorunların çözüm vaadi vardır
+    - **Cevap C-) Reklam grafiklerinin kitle iletişiminde başarılı olabilmeleri için reklam fotoğrafı kullanımı zorunludur**
+    - D-) Reklam grafikleri ile tüketiciler bilgilendirilmeye ve ikna edilmeye çalışılır
+    - E-) Reklam grafikleri konunun uzmanları olan reklamcılar tarafından pek çok kriter göz önüne alınarak hazırlanır
+    ***
+1. Reklam mecralarının birçoğunda yaratıcı kullanımlara imkan veren ……………., görsel bir mesaj aracı olarak reklam grafiklerinin vazgeçilmez bileşenlerindendir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Fotoğraf**
     - B-) Metin
     - C-) Slogan
     - D-) Başlık
     - E-) Tasarım
-    <hr />
-1. <strong>1910 yılında Kodak firması i&ccedil;in hazırlanmış ve fotoğraf sekt&ouml;r&uuml;n&uuml;n ilk yıllarına damgasını vuran &ldquo;Kodak Girl&rdquo; reklamının en &ouml;nemli &ouml;zelliği aşağıdakilerden hangisidir?</strong>
-    - A-) Modelde r&uuml;zgarda u&ccedil;uşan &ccedil;izgili yazlık bir elbise giyinmesi
-    - B-) Modelin &uuml;st orta sınıfa mensup bir kadının temsil etmesi
-    - C-) Modelin elinde k&ouml;r&uuml;kl&uuml; bir fotoğraf kamera bulunması
-    - D-) Modelin idealize g&uuml;zellik ve zarafet anlayışını temsil etmesi
-    - **Cevap E-) İll&uuml;strasyon yerine bir fotoğraf &ccedil;alışması temel alınarak hazırlanmış olması**
-    <hr />
-1. <strong>1988 yılından itibaren İtalya Vogue dergisinin kapak fotoğraflarını &ccedil;eken ve fotoğraflarını bir hik&acirc;yeyle ilişkilendirerek kurgu belgesel seriler oluşturan fotoğraf&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **1910 yılında Kodak firması için hazırlanmış ve fotoğraf sektörünün ilk yıllarına damgasını vuran “Kodak Girl” reklamının en önemli özelliği aşağıdakilerden hangisidir?**
+    - A-) Modelde rüzgarda uçuşan çizgili yazlık bir elbise giyinmesi
+    - B-) Modelin üst orta sınıfa mensup bir kadının temsil etmesi
+    - C-) Modelin elinde körüklü bir fotoğraf kamera bulunması
+    - D-) Modelin idealize güzellik ve zarafet anlayışını temsil etmesi
+    - **Cevap E-) İllüstrasyon yerine bir fotoğraf çalışması temel alınarak hazırlanmış olması**
+    ***
+1. **1988 yılından itibaren İtalya Vogue dergisinin kapak fotoğraflarını çeken ve fotoğraflarını bir hikâyeyle ilişkilendirerek kurgu belgesel seriler oluşturan fotoğrafçı aşağıdakilerden hangisidir?**
     - A-) Bert Stern
     - **Cevap B-) Steven Meisel**
     - C-) Guy Bourdin
     - D-) Louis Daguerre
     - E-) Paul Outerbridge
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın reklam d&uuml;nyasında &ccedil;ok&ccedil;a tercih edilmesinin nedenlerinden biri <u>değildir</u>?</strong>
-    - A-) Ger&ccedil;ekliği, ger&ccedil;eği temsil etmesi
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın reklam dünyasında çokça tercih edilmesinin nedenlerinden biri değildir?**
+    - A-) Gerçekliği, gerçeği temsil etmesi
     - **Cevap B-) Maliyetinin ucuz olması**
-    - C-) &Ccedil;abuk ve kolay okunurluğu
-    - D-) Hedef kitle ile &ccedil;ok hızlı iletişime ge&ccedil;mesi
-    - E-) &Uuml;r&uuml;n veya hizmeti satın almaya değecek &ccedil;ekicilikte yansıtılması
-    <hr />
-1. <strong>Haber veya belgesel fotoğraf t&uuml;rlerinde kendi doğallıklarında kullanılan kişi ve nesnelerin reklam fotoğraflarında kendi doğallıklarında kullanılamama nedeni aşağıdakilerden hangisi olabilir?</strong>
-    - **Cevap A-) Ama&ccedil; &uuml;r&uuml;n, marka veya hizmeti tanıtmak ya da satışını artırmak olduğuna g&ouml;re g&ouml;rsellik her zaman &ouml;n plandadır**
-    - B-) Kurgu fotoğrafları &ccedil;ekmenin maliyetinin doğal &ccedil;ekimlere g&ouml;re daha ekonomik olması
-    - C-) Doğal &ccedil;ekimlerin insanları etkileme g&uuml;c&uuml;n&uuml;n fazla olması
-    - D-) Kitle iletişiminde fotoğrafın g&uuml;&ccedil;l&uuml; bir etken olması
-    - E-) Reklam fotoğrafları, sıradan fotoğraflardan &ccedil;ok daha farklı bir yol izlenerek &ccedil;ekilmesi
-    <hr />
-1. <strong>Reklam grafiklerinde fotoğrafla beraber firmanın veya &uuml;r&uuml;n&uuml;n markasının ya da metinlerin birlikte kullanılma nedeni aşağıdakilerden hangisi <u>olamaz</u>?</strong>
-    - **Cevap A-) G&ouml;rsel zenginlik yaratmak i&ccedil;in kullanılır**
-    - B-) Daha fazla bilgi vererek iletişimi artırmak ama&ccedil;lanmaktadır
-    - C-) &Uuml;r&uuml;n&uuml;n benzerleri arasından fark edilerek, ayrılmasını sağlamak
-    - D-) &Ccedil;alışmanın anlam bakımından daha net olmasını sağlamak
-    - E-) Hedef kitle tarafından reklamın yanlış anlaşılmasını &ouml;nlemek
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğrafının genel ama&ccedil;ları arasında <u>yer alamaz</u>?</strong>
-    - A-) S&ouml;zle veya yazı ile anlatımı zor bir d&uuml;ş&uuml;nceyi a&ccedil;ığa &ccedil;ıkarmak
-    - B-) Hedef kitlenin ilgisini &ccedil;ekmek
-    - C-) Reklamın inandırıcılığını desteklemek ve ilginin s&uuml;rekliliğini sağlamak
-    - D-) İlgiyi kullanılan başlık ve metine y&ouml;nlendirmek
-    - **Cevap E-) Zaman kaybını &ouml;nlemek ve reklam maliyetlerini d&uuml;ş&uuml;rmek**
-    <hr />
-1. Reklam grafiklerinin b&uuml;t&uuml;n&uuml; i&ccedil;erisinde yer alan &hellip;&hellip;&hellip;&hellip;&hellip;., &ouml;zellikle mesajın a&ccedil;ık bir bi&ccedil;imde algılanabilmesini sağlar.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - C-) Çabuk ve kolay okunurluğu
+    - D-) Hedef kitle ile çok hızlı iletişime geçmesi
+    - E-) Ürün veya hizmeti satın almaya değecek çekicilikte yansıtılması
+    ***
+1. **Haber veya belgesel fotoğraf türlerinde kendi doğallıklarında kullanılan kişi ve nesnelerin reklam fotoğraflarında kendi doğallıklarında kullanılamama nedeni aşağıdakilerden hangisi olabilir?**
+    - **Cevap A-) Amaç ürün, marka veya hizmeti tanıtmak ya da satışını artırmak olduğuna göre görsellik her zaman ön plandadır**
+    - B-) Kurgu fotoğrafları çekmenin maliyetinin doğal çekimlere göre daha ekonomik olması
+    - C-) Doğal çekimlerin insanları etkileme gücünün fazla olması
+    - D-) Kitle iletişiminde fotoğrafın güçlü bir etken olması
+    - E-) Reklam fotoğrafları, sıradan fotoğraflardan çok daha farklı bir yol izlenerek çekilmesi
+    ***
+1. **Reklam grafiklerinde fotoğrafla beraber firmanın veya ürünün markasının ya da metinlerin birlikte kullanılma nedeni aşağıdakilerden hangisi olamaz?**
+    - **Cevap A-) Görsel zenginlik yaratmak için kullanılır**
+    - B-) Daha fazla bilgi vererek iletişimi artırmak amaçlanmaktadır
+    - C-) Ürünün benzerleri arasından fark edilerek, ayrılmasını sağlamak
+    - D-) Çalışmanın anlam bakımından daha net olmasını sağlamak
+    - E-) Hedef kitle tarafından reklamın yanlış anlaşılmasını önlemek
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafının genel amaçları arasında yer alamaz?**
+    - A-) Sözle veya yazı ile anlatımı zor bir düşünceyi açığa çıkarmak
+    - B-) Hedef kitlenin ilgisini çekmek
+    - C-) Reklamın inandırıcılığını desteklemek ve ilginin sürekliliğini sağlamak
+    - D-) İlgiyi kullanılan başlık ve metine yönlendirmek
+    - **Cevap E-) Zaman kaybını önlemek ve reklam maliyetlerini düşürmek**
+    ***
+1. Reklam grafiklerinin bütünü içerisinde yer alan ……………., özellikle mesajın açık bir biçimde algılanabilmesini sağlar.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Metinler**
     - B-) Fotoğraflar
-    - C-) İll&uuml;srasyonlar
+    - C-) İllüsrasyonlar
     - D-) Renkler
     - E-) Layoutlar
-    <hr />
-1. ………………….; bir mal veya hizmetin s&#252;r&#252;leceği piyasa ve bu mal veya hizmetin alıcısı olanlar tarafından tanınması i&#231;in yapılacak araştırmaların, amacının, giderlerinin ve mesaj t&#252;rlerinin tasarlanması, b&#252;t&#231;esi, ne zaman yapılacağı, hangi iletişim ara&#231;larının kullanılacağı konusundaki kararlar ve reklam grafiklerinin hazırlanması gibi faaliyetlerin b&#252;t&#252;n&#252;d&#252;r.<br />
-<strong>C&#252;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ………………….; bir mal veya hizmetin sürüleceği piyasa ve bu mal veya hizmetin alıcısı olanlar tarafından tanınması için yapılacak araştırmaların, amacının, giderlerinin ve mesaj türlerinin tasarlanması, bütçesi, ne zaman yapılacağı, hangi iletişim araçlarının kullanılacağı konusundaki kararlar ve reklam grafiklerinin hazırlanması gibi faaliyetlerin bütünüdür.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Tasarım
     - B-) İletişim
     - C-) Layout
     - **Cevap D-) Reklam**
     - E-) Ajans
-    <hr />
-1. G&ouml;stergebilimci Roland Barthes, fotoğrafik mesajla ilgili &ldquo;Image, Music, Text&rdquo; adlı eserinde fotoğrafın &ccedil;eşitli anlam d&uuml;zeylerinde anlaşıldığını belirtmiştir.<br />
-<strong>Roland Barthes&rsquo;ın bu ifadesinde vurgulamak istediği d&uuml;ş&uuml;nce aşağıdakilerden hangisidir?</strong>
+    ***
+1. Göstergebilimci Roland Barthes, fotoğrafik mesajla ilgili “Image, Music, Text” adlı eserinde fotoğrafın çeşitli anlam düzeylerinde anlaşıldığını belirtmiştir.<br />**Roland Barthes’ın bu ifadesinde vurgulamak istediği düşünce aşağıdakilerden hangisidir?**
     - A-) Fotoğrafın tasarımın olmazsa olmazı olduğunu vurgulamaktadır.
-    - **Cevap B-) Barthes fotoğrafın ikincil d&uuml;zeyde bir yan anlam taşıdığını ifade etmektedir.**
-    - C-) Fotoğrafın kullanım alanlarına g&ouml;re sınıflandırılması gerektiğini vurgulamaktadır.
-    - D-) Fotoğrafın anlatım g&uuml;c&uuml;n&uuml;n kullanılan tekniğe bağlı olduğunu ifade etmektedir.
-    - E-) Fotoğrafı ger&ccedil;eklik ve reklamla ilişkilendirmiştir.
-    <hr />
-1. <strong>Fotoğraflarında modelini g&ouml;z kamaştırıcı bir şekilde &ouml;n plana &ccedil;ıkaran bir fon aydınlatması, yumuşak netliğe sahip mercekler, etkileyici ışık-g&ouml;lge d&uuml;zenlemeleri ve abartılı set tasarımları kullanarak kameranın karşısına ge&ccedil;irdiği kadınları teatral bir g&uuml;zellikle fotoğraflayan reklam fotoğrafları ile sanatı buluşturan fotoğraf&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    - **Cevap B-) Barthes fotoğrafın ikincil düzeyde bir yan anlam taşıdığını ifade etmektedir.**
+    - C-) Fotoğrafın kullanım alanlarına göre sınıflandırılması gerektiğini vurgulamaktadır.
+    - D-) Fotoğrafın anlatım gücünün kullanılan tekniğe bağlı olduğunu ifade etmektedir.
+    - E-) Fotoğrafı gerçeklik ve reklamla ilişkilendirmiştir.
+    ***
+1. **Fotoğraflarında modelini göz kamaştırıcı bir şekilde ön plana çıkaran bir fon aydınlatması, yumuşak netliğe sahip mercekler, etkileyici ışık-gölge düzenlemeleri ve abartılı set tasarımları kullanarak kameranın karşısına geçirdiği kadınları teatral bir güzellikle fotoğraflayan reklam fotoğrafları ile sanatı buluşturan fotoğrafçı aşağıdakilerden hangisidir?**
     - A-) Alfred Stieglitz
     - B-) Thomas Barratt
     - **Cevap C-) Adolph De Meyer**
     - D-) David Ogilvy
     - E-) Louis Daguerre
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğrafında tasarımın &ouml;nemi i&ccedil;in <u>yanlıştır</u>?</strong>
-    - A-) En etkileyici fotoğraflar, g&uuml;&ccedil;l&uuml; tasarımları nedeniyle anlatımı kuvvetli olanlardır.
-    - B-) Karmaşık bir anlatım bi&ccedil;imi &uuml;r&uuml;n&uuml;n, markanın ya da hizmetin mesajının hedef kitleye aktarılmasına engel olur.
-    - C-) Ama&ccedil;, satış yapmak olduğundan &uuml;r&uuml;n ya da hizmetin fotoğrafı, t&uuml;ketici &uuml;zerinde satın alma isteği uyandıracak şekilde tasarlanmalıdır.
-    - D-) Hedef kitle g&ouml;z &ouml;n&uuml;nde bulundurularak yapılan tasarımlar anlatımı g&uuml;&ccedil;lendirerek hedef kitle ile iletişimi kolaylaştırır.
-    - **Cevap E-) Reklam fotoğrafı tasarımları belli kurallar &ccedil;er&ccedil;evesince yapılmalıdır.**
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;; reklam grafiklerinde yer alan metinlerin bi&ccedil;imsel &ouml;zelliklerini ele alan bir disiplindir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafında tasarımın önemi için yanlıştır?**
+    - A-) En etkileyici fotoğraflar, güçlü tasarımları nedeniyle anlatımı kuvvetli olanlardır.
+    - B-) Karmaşık bir anlatım biçimi ürünün, markanın ya da hizmetin mesajının hedef kitleye aktarılmasına engel olur.
+    - C-) Amaç, satış yapmak olduğundan ürün ya da hizmetin fotoğrafı, tüketici üzerinde satın alma isteği uyandıracak şekilde tasarlanmalıdır.
+    - D-) Hedef kitle göz önünde bulundurularak yapılan tasarımlar anlatımı güçlendirerek hedef kitle ile iletişimi kolaylaştırır.
+    - **Cevap E-) Reklam fotoğrafı tasarımları belli kurallar çerçevesince yapılmalıdır.**
+    ***
+1. ………………; reklam grafiklerinde yer alan metinlerin biçimsel özelliklerini ele alan bir disiplindir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Metin
     - B-) Fotoğraf
     - **Cevap C-) Tipografi**
     - D-) Layout
     - E-) Taslak
-    <hr />
+    ***
 ## Unite 11
-1. <strong>Aşağıdakilerden hangisi ambalajı oluşturan &ouml;gelerden biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi ambalajı oluşturan ögelerden biri değildir?**
     - A-) Metin
     - B-) Tipografi
     - C-) Renk
     - D-) Fotoğraf
     - **Cevap E-) Doku**
-    <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;zde ambalaj &uuml;retim s&uuml;recinde hangi baskı tekniği <u>kullanılmaz</u>?</strong>
-    - A-) &Ccedil;ukur Baskı
-    - B-) D&uuml;z Baskı
-    - **Cevap C-) &Ouml;zg&uuml;n Baskı**
+    ***
+1. **Günümüzde ambalaj üretim sürecinde hangi baskı tekniği kullanılmaz?**
+    - A-) Çukur Baskı
+    - B-) Düz Baskı
+    - **Cevap C-) Özgün Baskı**
     - D-) Tifdruk Baskı
-    - E-) Y&uuml;ksek Baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın ortaya &ccedil;ıkış sebebidir?</strong>
+    - E-) Yüksek Baskı
+    ***
+1. **Aşağıdakilerden hangisi ambalajın ortaya çıkış sebebidir?**
     - A-) Doğadaki malzemelerin kullanışsız olması
-    - B-) İnsanoğlunun s&uuml;rekli bir yerden bir yere g&ouml;&ccedil;mesi
-    - C-) Ambalajın işlevi g&uuml;n&uuml;n koşullarına g&ouml;re şekillenmesi
+    - B-) İnsanoğlunun sürekli bir yerden bir yere göçmesi
+    - C-) Ambalajın işlevi günün koşullarına göre şekillenmesi
     - **Cevap D-) İnsanlığın yiyeceklerini koruma, saklama ve taşıma ihtiyacı duyması**
-    - E-) Gıdaların istenilen gramajlarda &ccedil;eşitli porsiyonlara ayrılması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın işlevlerinden <u>değildir</u>?</strong>
-    - **Cevap A-) &Uuml;retim İşlevi**
+    - E-) Gıdaların istenilen gramajlarda çeşitli porsiyonlara ayrılması
+    ***
+1. **Aşağıdakilerden hangisi ambalajın işlevlerinden değildir?**
+    - **Cevap A-) Üretim İşlevi**
     - B-) Reklam pazarlama işlevi
     - C-) Taşıma İşlevi
-    - D-) &Uuml;r&uuml;n&uuml; koruma işlevi
+    - D-) Ürünü koruma işlevi
     - E-) Kantite İşlevi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj sekt&ouml;r&uuml;n&uuml;n bileşenlerinden <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ambalaj sektörünün bileşenlerinden değildir?**
     - A-) Grafik tasarımcılar
-    - **Cevap B-) İ&ccedil; Mimarlar**
-    - C-) Hammadde tedarik&ccedil;ileri
-    - D-) End&uuml;striyel tasarımcılar
+    - **Cevap B-) İç Mimarlar**
+    - C-) Hammadde tedarikçileri
+    - D-) Endüstriyel tasarımcılar
     - E-) Marka Uzmanları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi başarılı ambalajın temel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi başarılı ambalajın temel özelliklerinden biri değildir?**
     - A-) Farkındalık
     - B-) İşlevsellik
     - **Cevap C-) Sıradan olması**
     - D-) Bilgilendirme
     - E-) Koruma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım &ouml;gelerinden biri <u>değildir</u>?</strong>
-    - A-) &Ccedil;izgi
+    ***
+1. **Aşağıdakilerden hangisi tasarım ögelerinden biri değildir?**
+    - A-) Çizgi
     - B-) Nokta
     - C-) Leke (Değer)
-    - **Cevap D-) &Uuml;&ccedil;gen**
-    - E-) Form (Bi&ccedil;im)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım ilkelerinden biri <u>değildir</u>?</strong>
+    - **Cevap D-) Üçgen**
+    - E-) Form (Biçim)
+    ***
+1. **Aşağıdakilerden hangisi tasarım ilkelerinden biri değildir?**
     - A-) Boşluk
     - B-) Ritim
     - C-) Hiyerarşi
     - D-) Denge
     - **Cevap E-) Uyumsuzluk**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj grafiği ile ilgili bilgi <u>vermez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ambalaj grafiği ile ilgili bilgi vermez?**
     - **Cevap A-) Ambalajın ebadı**
     - B-) Marka kimliği
-    - C-) &Uuml;r&uuml;n tanımı
-    - D-) Fayda c&uuml;mlesi
-    - E-) &Uuml;r&uuml;n &ccedil;eşidi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın son aşaması olan &uuml;retim s&uuml;recinde <u>yapılmaz</u>?</strong>
+    - C-) Ürün tanımı
+    - D-) Fayda cümlesi
+    - E-) Ürün çeşidi
+    ***
+1. **Aşağıdakilerden hangisi ambalajın son aşaması olan üretim sürecinde yapılmaz?**
     - A-) Makine ve ekipmanın hazırlanması
     - B-) Hammadde temini
     - C-) Prova baskının alınması
-    - **Cevap D-) Tasarım &ccedil;alışmasının yapılması**
+    - **Cevap D-) Tasarım çalışmasının yapılması**
     - E-) Baskı kalıplarının hazırlanması
-    <hr />
-1. <strong>Ambalaj tasarımında t&uuml;keticinin dikkatini &ccedil;eken en &ouml;nemli fakt&ouml;r aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Dikkat &ccedil;ekici**
+    ***
+1. **Ambalaj tasarımında tüketicinin dikkatini çeken en önemli faktör aşağıdakilerden hangisidir?**
+    - **Cevap A-) Dikkat çekici**
     - B-) Sağlam
-    - C-) &Uuml;&ccedil; Boyutlu
-    - D-) &Ccedil;ok Renkli
+    - C-) Üç Boyutlu
+    - D-) Çok Renkli
     - E-) Maliyetli
-    <hr />
-1. <strong>Ambalaj tasarımı yaparken kullandığımız kırmızı renk kişide hangi tat duygusunu uyandırır?</strong>
+    ***
+1. **Ambalaj tasarımı yaparken kullandığımız kırmızı renk kişide hangi tat duygusunu uyandırır?**
     - A-) Ekşi
     - B-) Acı
     - C-) Tuzlu
     - **Cevap D-) Tatlı**
     - E-) Lezzet
-    <hr />
-1. <strong>Aşağıdakilerden hangisi marka/logonun g&ouml;revlerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi marka/logonun görevlerinden biri değildir?**
     - A-) Marka bağlılığını artırır.
     - **Cevap B-) Tat duygusu artırır.**
     - C-) Firma adını tanımlar.
-    - D-) &Uuml;r&uuml;n bilgisi verir.
+    - D-) Ürün bilgisi verir.
     - E-) İmza niteliği taşır.
-    <hr />
-1. <strong>Grafik tasarımcı ambalaj tasarımı yaparken aşağıdakilerden hangisine dikkat etmelidir?</strong>
+    ***
+1. **Grafik tasarımcı ambalaj tasarımı yaparken aşağıdakilerden hangisine dikkat etmelidir?**
     - A-) Taşınmasına
     - B-) Formuna
     - C-) Malzemesine
-    - D-) &Uuml;retimine
+    - D-) Üretimine
     - **Cevap E-) Estetiğine**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj &uuml;zerinde kullanılan sembol ve simgelerin kullanım ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) G&uuml;venlik
+    ***
+1. **Aşağıdakilerden hangisi ambalaj üzerinde kullanılan sembol ve simgelerin kullanım amaçlarından biri değildir?**
+    - A-) Güvenlik
     - B-) Uygunluk
-    - **Cevap C-) Dikkat &ccedil;ekme**
-    - D-) Geri d&ouml;n&uuml;ş&uuml;m
+    - **Cevap C-) Dikkat çekme**
+    - D-) Geri dönüşüm
     - E-) İletişim
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın &uuml;retimi aşamasında dikkat edilecek hususlardan <u>değildir</u>?</strong>
-    - A-) Uygun &uuml;retim teknolojisi
-    - B-) &Uuml;retim maliyetleri
-    - C-) &Uuml;retim planlaması
+    ***
+1. **Aşağıdakilerden hangisi ambalajın üretimi aşamasında dikkat edilecek hususlardan değildir?**
+    - A-) Uygun üretim teknolojisi
+    - B-) Üretim maliyetleri
+    - C-) Üretim planlaması
     - **Cevap D-) Kalite ve değer algısı**
-    - E-) Tasarım ve &uuml;retim kalitesi
-    <hr />
+    - E-) Tasarım ve üretim kalitesi
+    ***
 ## Unite 12
-1. <strong>Reklam grafiklerindeki mesajlar nasıl <u>olmamalıdır</u>?</strong>
+1. **Reklam grafiklerindeki mesajlar nasıl olmamalıdır?**
     - A-) Kolay algılanmalı
-    - B-) Dikkat &ccedil;ekmeli
+    - B-) Dikkat çekmeli
     - C-) Akılda kalmalı
     - **Cevap D-) Zor algılanmalı**
     - E-) İlgi uyandırmalı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi internet ve sosyal medyada yer alan reklam grafiklerinde kullanılan g&ouml;rsel iletişim unsurlarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi internet ve sosyal medyada yer alan reklam grafiklerinde kullanılan görsel iletişim unsurlarından biri değildir?**
     - A-) Uyum
     - B-) Vurgu
-    - C-) B&uuml;t&uuml;nl&uuml;k
-    - D-) G&ouml;rsel hiyerarşi
+    - C-) Bütünlük
+    - D-) Görsel hiyerarşi
     - **Cevap E-) Reklam grafiği**
-    <hr />
-1. <strong>Karşı tarafın dikkatini &ccedil;ekmesi i&ccedil;in reklam grafiği oluşumunda aşağıdakilerden hangisi ilk kullanılacaklar arasına <u>girmez</u>?</strong>
-    - **Cevap A-) Firmanın g&ouml;r&uuml;nt&uuml;s&uuml;**
-    - B-) Net a&ccedil;ıklaması
+    ***
+1. **Karşı tarafın dikkatini çekmesi için reklam grafiği oluşumunda aşağıdakilerden hangisi ilk kullanılacaklar arasına girmez?**
+    - **Cevap A-) Firmanın görüntüsü**
+    - B-) Net açıklaması
     - C-) Firmanın logosu
     - D-) Firmanın sloganı
     - E-) Metin başlığı
-    <hr />
-1. <strong>İyi bir reklam grafiğinin başlığı nasıl olmalıdır?</strong>
-    - A-) Dikkat &ccedil;ekmemeli
-    - B-) A&ccedil;ık ve net olmamalı
+    ***
+1. **İyi bir reklam grafiğinin başlığı nasıl olmalıdır?**
+    - A-) Dikkat çekmemeli
+    - B-) Açık ve net olmamalı
     - **Cevap C-) Sıkıcı olmamalı**
     - D-) Karşı tarafı yormalı
     - E-) İlgi uyandırmalı
-    <hr />
-1. <strong>Reklam grafiklerinde kullanılan metinler nasıl <u>olmamalıdır</u>?</strong>
+    ***
+1. **Reklam grafiklerinde kullanılan metinler nasıl olmamalıdır?**
     - A-) Konuşma diline yakın olmalı
     - **Cevap B-) Zor olmalı**
     - C-) İkna edici olmalı
     - D-) Yaratıcı olmalı
-    - E-) &Ouml;zg&uuml;n olmalı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinde yaratıcılığa katkı sağlamaktadır?</strong>
+    - E-) Özgün olmalı
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinde yaratıcılığa katkı sağlamaktadır?**
     - A-) Firmanın logosu
-    - B-) G&ouml;rselin iyi &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kte olması
+    - B-) Görselin iyi çözünürlükte olması
     - C-) Uygun tipografinin kullanılması
-    - D-) G&uuml;&ccedil;l&uuml; bir slogan
-    - **Cevap E-) İlgin&ccedil; olması**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi geleneksel reklamlar arasında <u>yer almaz</u>?</strong>
+    - D-) Güçlü bir slogan
+    - **Cevap E-) İlginç olması**
+    ***
+1. **Aşağıdakilerden hangisi geleneksel reklamlar arasında yer almaz?**
     - A-) Televizyon reklamları
     - B-) Fuar alanları reklamları
     - **Cevap C-) Hedefli reklam**
     - D-) Sinema reklamları
     - E-) Radyo reklamları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi dijital reklam mecralarından <u>değildir</u>?</strong>
-    - **Cevap A-) A&ccedil;ık hava reklamları**
+    ***
+1. **Aşağıdakilerden hangisi dijital reklam mecralarından değildir?**
+    - **Cevap A-) Açık hava reklamları**
     - B-) Advergaming reklamlar
     - C-) Sosyal medya reklamları
     - D-) İnternet reklamları
     - E-) Mobil cihaz reklamları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi internet reklamı <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi internet reklamı değildir?**
     - A-) Profil reklam
     - B-) Pop up reklam
     - C-) Banner reklam
-    - **Cevap D-) A&ccedil;ık hava reklamları**
+    - **Cevap D-) Açık hava reklamları**
     - E-) Affiliate reklam
-    <hr />
-1. <strong>Aşağıdakilerden hangisi internet reklamcılığının avantajları arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi internet reklamcılığının avantajları arasında yer almaz?**
     - A-) Hedefe hızlı ulaşması
-    - **Cevap B-) Y&uuml;ksek b&uuml;t&ccedil;eli olması**
+    - **Cevap B-) Yüksek bütçeli olması**
     - C-) Ulaşım kısıtlamasının olmaması
-    - D-) B&uuml;t&ccedil;eye g&ouml;re yapılabilmesi
+    - D-) Bütçeye göre yapılabilmesi
     - E-) Hızlı analiz edilebilmesi
-    <hr />
-1. <strong>Sosyal medyada yayınlanan reklam grafiklerinin tercih edilme nedeni nedir?</strong>
-    - A-) Daha y&uuml;ksek b&uuml;t&ccedil;eli olması
-    - B-) Daha yavaş etkileşime ge&ccedil;ebilmesi
-    - C-) Yayınlanma s&uuml;recinin uzun olması
-    - **Cevap D-) Daha &ccedil;ok insana daha hızlı ulaşabilmesi**
-    - E-) &Ouml;l&ccedil;&uuml;mlenmesinin zor olması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi sosyal medyada kullanılan iyi &ccedil;&ouml;z&uuml;mlenmiş reklam grafiklerine &ouml;rnek <u>verilemez</u>?</strong>
+    ***
+1. **Sosyal medyada yayınlanan reklam grafiklerinin tercih edilme nedeni nedir?**
+    - A-) Daha yüksek bütçeli olması
+    - B-) Daha yavaş etkileşime geçebilmesi
+    - C-) Yayınlanma sürecinin uzun olması
+    - **Cevap D-) Daha çok insana daha hızlı ulaşabilmesi**
+    - E-) Ölçümlenmesinin zor olması
+    ***
+1. **Aşağıdakilerden hangisi sosyal medyada kullanılan iyi çözümlenmiş reklam grafiklerine örnek verilemez?**
     - A-) Fotoğraf
-    - B-) Manip&uuml;lasyon
-    - C-) İll&uuml;strasyon
+    - B-) Manipülasyon
+    - C-) İllüstrasyon
     - D-) İnfografikler
     - **Cevap E-) Ajans**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafikleri a&#231;ısından iletişim s&#252;re&#231;lerinden biri&#160;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam grafikleri açısından iletişim süreçlerinden biri değildir?**
     - A-) Fotoğraf
-    - B-) İll&#252;strasyon
+    - B-) İllüstrasyon
     - **Cevap C-) Kurum**
     - D-) Yazı
     - E-) Resim
-    <hr />
-1. <strong>Reklam kelimesi dilimize hangi yabancı dilden ge&ccedil;miştir?</strong>
+    ***
+1. **Reklam kelimesi dilimize hangi yabancı dilden geçmiştir?**
     - A-) İngilizce
     - **Cevap B-) Fransızca**
     - C-) Almanca
     - D-) İtalyanca
     - E-) Hintce
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam grafiklerinin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
-    - A-) Yeni bir &uuml;r&uuml;n tanıtmak
-    - B-) Var olan bir &uuml;r&uuml;ne dikkat &ccedil;ekmek
+    ***
+1. **Aşağıdakilerden hangisi reklam grafiklerinin amaçları arasında yer almaz?**
+    - A-) Yeni bir ürün tanıtmak
+    - B-) Var olan bir ürüne dikkat çekmek
     - C-) Bir olayı vurgulamak
     - D-) Hedef kitlede dikkat uyandırmak
-    - **Cevap E-) &Ccedil;ok karmaşık olmak**
-    <hr />
-1. <strong>Başarılı bir reklam grafiği aşağıdaki &ouml;zelliklerden hangisine sahiptir?</strong>
-    - A-) Metinle uyum i&ccedil;inde değildir.
+    - **Cevap E-) Çok karmaşık olmak**
+    ***
+1. **Başarılı bir reklam grafiği aşağıdaki özelliklerden hangisine sahiptir?**
+    - A-) Metinle uyum içinde değildir.
     - **Cevap B-) Karşı tarafı olumlu anlamda ikna eder.**
-    - C-) Sadece g&ouml;rsel i&ccedil;erir.
-    - D-) Sadece başlık i&ccedil;erir.
-    - E-) Sadece slogan i&ccedil;erir.
-    <hr />
+    - C-) Sadece görsel içerir.
+    - D-) Sadece başlık içerir.
+    - E-) Sadece slogan içerir.
+    ***
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi a&ccedil;ık hava reklam &uuml;r&uuml;nlerinde kullanılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) &Ccedil;er&ccedil;eve
+1. **Aşağıdakilerden hangisi açık hava reklam ürünlerinde kullanılan malzemelerden biri değildir?**
+    - A-) Çerçeve
     - **Cevap B-) Fotomontaj**
     - C-) Posterleri koruyan dış kasa sistemi
     - D-) Işıklandırma sistemi
-    - E-) Hareketli kağıtların d&ouml;n&uuml;ş&uuml;n&uuml; sağlayan afiş değiştirici sistem
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&uuml;&ccedil;l&uuml; bir kurumsal markanın ihtiya&ccedil;ları arasında <u>yer almaz</u>?</strong>
+    - E-) Hareketli kağıtların dönüşünü sağlayan afiş değiştirici sistem
+    ***
+1. **Aşağıdakilerden hangisi güçlü bir kurumsal markanın ihtiyaçları arasında yer almaz?**
     - A-) Slogan
     - B-) Tema
-    - **Cevap C-) &Ccedil;evre planlaması**
+    - **Cevap C-) Çevre planlaması**
     - D-) Logo tasarımı
     - E-) Tanımlayıcı renkler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi lightbox &ouml;zelliklerindendir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi lightbox özelliklerindendir?**
     - A-) Elektrik direği reklamı, direk reklamı olarak da bilinir.
-    - **Cevap B-) Y&uuml;zeyinde k&acirc;ğıt yerine y&uuml;ksek kalitedeki ışıklı kumaş kullanılır.**
-    - C-) Seri şeklinde kullanıldığında, bir noktaya ulaşmak i&ccedil;in y&ouml;nlendirme bilgisi verebilir.
-    - D-) Reklamın bulunduğu y&uuml;zeyin y&uuml;ksekliği 10 metreyi bulabilir.
+    - **Cevap B-) Yüzeyinde kâğıt yerine yüksek kalitedeki ışıklı kumaş kullanılır.**
+    - C-) Seri şeklinde kullanıldığında, bir noktaya ulaşmak için yönlendirme bilgisi verebilir.
+    - D-) Reklamın bulunduğu yüzeyin yüksekliği 10 metreyi bulabilir.
     - E-) Delikli vinil olarak bilinir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi billboard t&uuml;rlerinden <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi billboard türlerinden değildir?**
     - A-) Mobil (hareketli) billboard
     - **Cevap B-) Pole banner**
     - C-) Statik (Sabit) billboard
     - D-) Dijital billboard
-    - E-) Artırılmış ger&ccedil;eklik reklam panosu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi a&ccedil;ık hava reklam &uuml;r&uuml;nlerinden <u>değildir</u>?</strong>
+    - E-) Artırılmış gerçeklik reklam panosu
+    ***
+1. **Aşağıdakilerden hangisi açık hava reklam ürünlerinden değildir?**
     - A-) Dijital billboard
     - B-) Pole banner
     - C-) Megaboard
     - **Cevap D-) Flash banner**
     - E-) Kuleboard
-    <hr />
-1. <strong>A&ccedil;ıkhava reklam &uuml;r&uuml;nleriyle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) A&ccedil;ık hava reklamlarında farklı teknolojiler ve ışık sisteminin kullanımı ile reklam mesajını etkili bir şekilde iletmektedir.
+    ***
+1. **Açıkhava reklam ürünleriyle ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) Açık hava reklamlarında farklı teknolojiler ve ışık sisteminin kullanımı ile reklam mesajını etkili bir şekilde iletmektedir.
     - B-) Kentin farklı noktalarında ardışık olarak konumlanabilmektedir.
-    - **Cevap C-) Hareketli reklam panoları, hareket eden yazılar, g&ouml;rseller sabit olan reklam tasarımlarına oranla izleyicinin dikkatini daha az &ccedil;eker.**
+    - **Cevap C-) Hareketli reklam panoları, hareket eden yazılar, görseller sabit olan reklam tasarımlarına oranla izleyicinin dikkatini daha az çeker.**
     - D-) Outdoor TV, piksel tabanlıdır.
-    - E-) Bazı a&ccedil;ıkhava reklam &uuml;r&uuml;nleri, hareketli g&ouml;sterim olanağı sunar.
-    <hr />
-1. <strong>A&ccedil;ıkhava reklamcılığının g&ouml;rsel &ouml;zellikleri tasarım kurallarına, teknik &ouml;zellikleri malzeme ve uygulama bilgisine, reklamcılıkla ilgili &ouml;zellikleri hedef kitleyle reklamı yapılan &uuml;r&uuml;n arasındaki bağlantıya dayanmaktadır. Buna g&ouml;re bir a&ccedil;ıkhava reklamının sergilendiği ana kadar olan s&uuml;re&ccedil;te hangi alanda &ccedil;alışmaya ihtiya&ccedil; <u>duyulmaz</u>?</strong>
-    - **Cevap A-) Sosyal medya i&ccedil;eriği**
+    - E-) Bazı açıkhava reklam ürünleri, hareketli gösterim olanağı sunar.
+    ***
+1. **Açıkhava reklamcılığının görsel özellikleri tasarım kurallarına, teknik özellikleri malzeme ve uygulama bilgisine, reklamcılıkla ilgili özellikleri hedef kitleyle reklamı yapılan ürün arasındaki bağlantıya dayanmaktadır. Buna göre bir açıkhava reklamının sergilendiği ana kadar olan süreçte hangi alanda çalışmaya ihtiyaç duyulmaz?**
+    - **Cevap A-) Sosyal medya içeriği**
     - B-) Grafik tasarım
-    - C-) B&uuml;t&ccedil;e planlaması
+    - C-) Bütçe planlaması
     - D-) Montaj
     - E-) Hedef kitle analizi
-    <hr />
-1. <strong>A&ccedil;ık hava reklamlarında hareket halinde olan tren, otob&uuml;s gibi toplu ulaşım ara&ccedil;larında genellikle dikkat &ccedil;ekici g&ouml;rseller ve okunaklı başlık, slogan kullanımı ve logo kullanımı, aşağıdakilerden hangisiyle bağlantılı <u>değildir</u>?</strong>
-    - **Cevap A-) A&ccedil;ıkhava reklamı, &uuml;r&uuml;n kullanımı ile ilgili bilgi vermeli.**
-    - B-) A&ccedil;ıkhava reklamı, markayı pozitif y&ouml;nde etkilemeli.
-    - C-) A&ccedil;ıkhava reklamı, hedef kitlenin g&ouml;rebileceği boyutlarda olmalı
-    - D-) A&ccedil;ıkhava reklamı, ilgi &ccedil;ekici olmalı.
-    - E-) A&ccedil;ıkhava reklamı, &uuml;r&uuml;n&uuml;n veya hizmetin kullanımı i&ccedil;in ikna edici olmalı.
-    <hr />
-1. <strong>Reklamda mesaj testine g&ouml;re hangi madde hedef kitleden beklenen yanıt <u>değildir</u>?</strong>
+    ***
+1. **Açık hava reklamlarında hareket halinde olan tren, otobüs gibi toplu ulaşım araçlarında genellikle dikkat çekici görseller ve okunaklı başlık, slogan kullanımı ve logo kullanımı, aşağıdakilerden hangisiyle bağlantılı değildir?**
+    - **Cevap A-) Açıkhava reklamı, ürün kullanımı ile ilgili bilgi vermeli.**
+    - B-) Açıkhava reklamı, markayı pozitif yönde etkilemeli.
+    - C-) Açıkhava reklamı, hedef kitlenin görebileceği boyutlarda olmalı
+    - D-) Açıkhava reklamı, ilgi çekici olmalı.
+    - E-) Açıkhava reklamı, ürünün veya hizmetin kullanımı için ikna edici olmalı.
+    ***
+1. **Reklamda mesaj testine göre hangi madde hedef kitleden beklenen yanıt değildir?**
     - A-) Ana mesaj
     - B-) Reklamın işlevselliği
-    - C-) Reklamın ulaşması i&ccedil;in en uygun yer
+    - C-) Reklamın ulaşması için en uygun yer
     - D-) Reklamın hissettirdikleri
     - **Cevap E-) Reklamcılığa katkıları**
-    <hr />
-1. <strong>Outdoor TV ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Video g&ouml;sterimi, slayt ge&ccedil;işleri g&ouml;sterilebilir.
-    - B-) Hareketli g&ouml;sterim olanağı sunar.
+    ***
+1. **Outdoor TV ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Video gösterimi, slayt geçişleri gösterilebilir.
+    - B-) Hareketli gösterim olanağı sunar.
     - C-) Genellikle koruma camlı ve metal kasalıdır.
-    - **Cevap D-) İzleyicinin dikkati kısa bir s&uuml;re ekranda kalabilir.**
+    - **Cevap D-) İzleyicinin dikkati kısa bir süre ekranda kalabilir.**
     - E-) Dış hava koşullarına uyum sağlayabilen bir klima sistemi kullanılmaktadır.
-    <hr />
-1. <strong>A&ccedil;ık hava reklamcılığıyla ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) A&ccedil;ık hava reklamcılığı İngilizcede Ev dışı (Out-of-home, OOH) kelimesinden t&uuml;retilmiştir.
-    - B-) A&ccedil;ık hava reklamcılığının t&uuml;r&uuml;ne kullanım yeri, boyutu, maliyete g&ouml;re karar verilir.
-    - C-) A&ccedil;ık hava reklam &uuml;r&uuml;nlerinin sergilendiği yerin reklamveren tarafından kullanımı &uuml;cretsizdir.
-    - **Cevap D-) A&ccedil;ık hava reklam &uuml;r&uuml;nlerinin dağıtımını sadece belediyeler sağlar.**
-    - E-) A&ccedil;ık hava reklam alanlarının kullanımı s&uuml;relidir.
-    <hr />
-1. <strong>Outdoor TV reklamlarının hedef kitleyi etkilemek i&ccedil;in taşıması gereken &ouml;zellikler arasında <u>yer almaz</u>?</strong>
-    - A-) Ana fikir, g&ouml;sterim bi&ccedil;imi ile anlatılabilir olmalıdır.
-    - B-) Reklam vaadi, g&ouml;sterimin sonunda tam ve a&ccedil;ık olarak kanıtlanabilmelidir.
-    - **Cevap C-) Ger&ccedil;eği yansıtma zorunluluğu yoktur.**
+    ***
+1. **Açık hava reklamcılığıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Açık hava reklamcılığı İngilizcede Ev dışı (Out-of-home, OOH) kelimesinden türetilmiştir.
+    - B-) Açık hava reklamcılığının türüne kullanım yeri, boyutu, maliyete göre karar verilir.
+    - C-) Açık hava reklam ürünlerinin sergilendiği yerin reklamveren tarafından kullanımı ücretsizdir.
+    - **Cevap D-) Açık hava reklam ürünlerinin dağıtımını sadece belediyeler sağlar.**
+    - E-) Açık hava reklam alanlarının kullanımı sürelidir.
+    ***
+1. **Outdoor TV reklamlarının hedef kitleyi etkilemek için taşıması gereken özellikler arasında yer almaz?**
+    - A-) Ana fikir, gösterim biçimi ile anlatılabilir olmalıdır.
+    - B-) Reklam vaadi, gösterimin sonunda tam ve açık olarak kanıtlanabilmelidir.
+    - **Cevap C-) Gerçeği yansıtma zorunluluğu yoktur.**
     - D-) İzlenmesi ve anlaşılması kolay olmalıdır.
     - E-) Merak uyandırıcı olmalıdır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi lightbox &uuml;r&uuml;nleri arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi lightbox ürünleri arasında yer almaz?**
     - A-) Tek taraflı
     - **Cevap B-) Delikli**
-    - C-) &Ouml;zel b&uuml;k&uuml;m
-    - D-) K&uuml;bik
+    - C-) Özel büküm
+    - D-) Kübik
     - E-) Ayaklı
-    <hr />
-1. <strong>Vinil branda olarak bilinen a&ccedil;ıkhava reklam &uuml;r&uuml;n&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Vinil branda olarak bilinen açıkhava reklam ürünü aşağıdakilerden hangisidir?**
     - **Cevap A-) Mesh**
     - B-) Pole banner
     - C-) Lightbox
     - D-) Megaboard
     - E-) Kuleboard
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tabela uygulama teknikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Kabartma harfler veya g&ouml;rseller
-    - B-) Yuvarlak y&uuml;zey
+    ***
+1. **Aşağıdakilerden hangisi tabela uygulama teknikleri arasında yer almaz?**
+    - A-) Kabartma harfler veya görseller
+    - B-) Yuvarlak yüzey
     - C-) Işıklı
     - D-) Katmanlı
     - **Cevap E-) Bilgilendirici**
-    <hr />
-1. <strong>Aşağıdaki a&ccedil;ık hava reklam &uuml;r&uuml;nlerinden hangisi dijital reklam &uuml;r&uuml;n&uuml;d&uuml;r?</strong>
+    ***
+1. **Aşağıdaki açık hava reklam ürünlerinden hangisi dijital reklam ürünüdür?**
     - A-) Pole banner
     - B-) Parapet
     - **Cevap C-) Outdoor TV**
     - D-) Raket
     - E-) CLP
-    <hr />
-1. <strong>Aşağıdaki a&ccedil;ıkhava reklam &uuml;r&uuml;nlerinden hangisi aynı anda 6 adet posterin g&ouml;sterimine olanak sağlar?</strong>
+    ***
+1. **Aşağıdaki açıkhava reklam ürünlerinden hangisi aynı anda 6 adet posterin gösterimine olanak sağlar?**
     - A-) Kuleboard
     - **Cevap B-) Silindir**
     - C-) Mesh
     - D-) Raket
     - E-) Parapet
-    <hr />
+    ***
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi t&uuml;keticiyi etkilemek i&ccedil;in reklamlarda kullanılan uyarıcılar arasında <u>yer almaz</u>?</strong>
+1. **Aşağıdakilerden hangisi tüketiciyi etkilemek için reklamlarda kullanılan uyarıcılar arasında yer almaz?**
     - A-) Duygusal
     - B-) Tehdit edici ve korku verici
     - C-) Ussal
     - **Cevap D-) Dokunsal**
-    - E-) G&uuml;ld&uuml;r&uuml; unsuru taşıyan
-    <hr />
-1. <strong>Maslow&rsquo;un Gereksinimler Hiyerarşisi sıralaması aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
-    - A-) G&uuml;venlik gereksinimi, &uuml;yelik ve sevgi, fizyolojik gereksinmeler, saygınlık ve &ouml;z ger&ccedil;ekleştirme
-    - B-) &Uuml;yelik ve sevgi, saygınlık ve &ouml;z ger&ccedil;ekleştirme, fizyolojik gereksinmeler, g&uuml;venlik gereksinimi
-    - **Cevap C-) Fizyolojik gereksinmeler, g&uuml;venlik gereksinimi, &uuml;yelik ve sevgi, saygınlık ve &ouml;z ger&ccedil;ekleştirme**
-    - D-) G&uuml;venlik gereksinimi, fizyolojik gereksinmeler, saygınlık ve &ouml;z ger&ccedil;ekleştirme, &uuml;yelik ve sevgi
-    - E-) Saygınlık ve &ouml;z ger&ccedil;ekleştirme, fizyolojik gereksinmeler, &uuml;yelik ve sevgi, g&uuml;venlik gereksinimi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi hem basılı medya hem sayısal medyada sunulan grafik &uuml;r&uuml;nleri arasında yer almaktadır?</strong>
+    - E-) Güldürü unsuru taşıyan
+    ***
+1. **Maslow’un Gereksinimler Hiyerarşisi sıralaması aşağıdakilerden hangisinde doğru olarak verilmiştir?**
+    - A-) Güvenlik gereksinimi, üyelik ve sevgi, fizyolojik gereksinmeler, saygınlık ve öz gerçekleştirme
+    - B-) Üyelik ve sevgi, saygınlık ve öz gerçekleştirme, fizyolojik gereksinmeler, güvenlik gereksinimi
+    - **Cevap C-) Fizyolojik gereksinmeler, güvenlik gereksinimi, üyelik ve sevgi, saygınlık ve öz gerçekleştirme**
+    - D-) Güvenlik gereksinimi, fizyolojik gereksinmeler, saygınlık ve öz gerçekleştirme, üyelik ve sevgi
+    - E-) Saygınlık ve öz gerçekleştirme, fizyolojik gereksinmeler, üyelik ve sevgi, güvenlik gereksinimi
+    ***
+1. **Aşağıdakilerden hangisi hem basılı medya hem sayısal medyada sunulan grafik ürünleri arasında yer almaktadır?**
     - A-) E-kitap tasarımı
     - B-) Elektronik posta tasarımı
     - C-) Web tasarımı
     - **Cevap D-) Banner (bant) tasarımı**
     - E-) Sosyal medya konsept tasarımı
-    <hr />
-1. <strong>Araştırma hangisi hem a&#231;ık havada hem i&#231; mek&#226;nda kullanılan grafik &#252;r&#252;nleri arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Araştırma hangisi hem açık havada hem iç mekânda kullanılan grafik ürünleri arasında yer almaz?**
     - A-) Delikli branda (Mesh)
     - B-) Raket pano (CLP)
     - C-) Işıklı pano (Lightbox)
-    - D-) Tek y&#246;n g&#246;rsel (One way vision)
+    - D-) Tek yön görsel (One way vision)
     - **Cevap E-) Raf kart**
-    <hr />
-1. Hedef kitleyle ilgili bilgileri netleştirmek, &uuml;r&uuml;n&uuml;n veya hizmetin tanıtımında kullanılacak y&ouml;ntemi se&ccedil;meye yardımcı olmaktadır.<strong><br />
-Buna g&ouml;re aşağıdakilerden hangisi reklamlar tasarlanmadan &ouml;nce hedef kitleyle ilgili toplanan bilgiler arasında <u>yer almaz</u>?</strong>
+    ***
+1. Hedef kitleyle ilgili bilgileri netleştirmek, ürünün veya hizmetin tanıtımında kullanılacak yöntemi seçmeye yardımcı olmaktadır.**Buna göre aşağıdakilerden hangisi reklamlar tasarlanmadan önce hedef kitleyle ilgili toplanan bilgiler arasında yer almaz?**
     - A-) Cinsiyet
-    - **Cevap B-) Psikolojik &ouml;zellikleri**
+    - **Cevap B-) Psikolojik özellikleri**
     - C-) Konum ve zaman dilimi
     - D-) Yaş
     - E-) Ekonomik durum
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n konteyneri (dump bin) i&ccedil;inde <u>sergilenemez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ürün konteyneri (dump bin) içinde sergilenemez?**
     - A-) Şeker
-    - B-) &Ccedil;ikolata
+    - B-) Çikolata
     - C-) Flash bellek
     - D-) Oyuncak
     - **Cevap E-) Televizyon**
-    <hr />
-1. <strong>Aşağıdaki promosyon &uuml;r&uuml;nlerinden hangisi tekstil &uuml;r&uuml;n&uuml; <u>olamaz</u>?</strong>
+    ***
+1. **Aşağıdaki promosyon ürünlerinden hangisi tekstil ürünü olamaz?**
     - **Cevap A-) Plaket**
     - B-) T-shirt
     - C-) Şapka
-    - D-) Bilgisayar &ccedil;antası
-    - E-) &Ouml;nl&uuml;k
-    <hr />
-1. <strong>Aşağıdaki promosyon &uuml;r&uuml;nlerinden hangisi s&uuml;rd&uuml;r&uuml;lebilir bir reklam &uuml;r&uuml;n&uuml;d&uuml;r?</strong>
+    - D-) Bilgisayar çantası
+    - E-) Önlük
+    ***
+1. **Aşağıdaki promosyon ürünlerinden hangisi sürdürülebilir bir reklam ürünüdür?**
     - A-) Balon
-    - **Cevap B-) Bez &ccedil;anta**
-    - C-) Plastik &ccedil;anta
+    - **Cevap B-) Bez çanta**
+    - C-) Plastik çanta
     - D-) Vinil branda
     - E-) Plastik yemek seti
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kioskların kullanıldığı alanlardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kioskların kullanıldığı alanlardan biri değildir?**
     - A-) Hastane
     - B-) Banka
     - C-) Havaalanı
-    - **Cevap D-) U&ccedil;ak**
+    - **Cevap D-) Uçak**
     - E-) Restoran
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kiosk yazılımlarının işlevlerinden hangisi diğerlerinden farklıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kiosk yazılımlarının işlevlerinden hangisi diğerlerinden farklıdır?**
     - A-) Rezervasyon
     - **Cevap B-) Turistik bir yerin tanıtımı**
     - C-) Anket
     - D-) Sıra numarası alımı
     - E-) Check in işlemleri
-    <hr />
-1. <strong>Aşağıdaki promosyon &uuml;r&uuml;nlerinden hangisi kırtasiye kategorisinde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdaki promosyon ürünlerinden hangisi kırtasiye kategorisinde yer almaz?**
     - A-) Kalem
     - B-) Bloknot
     - C-) Ajanda
     - **Cevap D-) Termos**
     - E-) Defter
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik &ccedil;alışmaları grubunda <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kurumsal kimlik çalışmaları grubunda yer almaz?**
     - A-) Antetli
     - B-) Diplomat zarf
     - C-) Logo tasarımı
     - **Cevap D-) Bloknot**
     - E-) Dosya
-    <hr />
-1. <strong>Aşağıdaki gerilla reklamcılık &#246;rneklerinden hangisi i&#231; mek&#226;n reklam &#252;r&#252;nlerine d&#226;hildir?</strong>
+    ***
+1. **Aşağıdaki gerilla reklamcılık örneklerinden hangisi iç mekân reklam ürünlerine dâhildir?**
     - A-) Marka hakkında yazılan bir kitap
     - B-) Dizi ya da filmlere entegre edilen marka
-    - C-) Konusal i&#231;erikli haber olarak medyada yer almak
+    - C-) Konusal içerikli haber olarak medyada yer almak
     - D-) Akıllı tasarlanmış SMS veya E-posta
     - **Cevap E-) Zemin reklam uygulamaları**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi on board reklam &uuml;r&uuml;n&uuml;d&uuml;r?</strong>
-    - **Cevap A-) Baş &uuml;st&uuml; saklama kutusu reklamı**
+    ***
+1. **Aşağıdakilerden hangisi on board reklam ürünüdür?**
+    - **Cevap A-) Baş üstü saklama kutusu reklamı**
     - B-) One way vision
     - C-) Wobbler
-    - D-) D&ouml;n kart
+    - D-) Dön kart
     - E-) Kiosk
-    <hr />
+    ***

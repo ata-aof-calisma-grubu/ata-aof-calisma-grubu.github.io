@@ -1,1319 +1,1297 @@
-# Web Tasarımının Temelleri
+# Web Tasarımının Temelleri (Dönem 5) - Tüm Sorular
+
 ## Unite 1
-1. <b>İnternetin ortaya çıkışına öncülük eden ARPANET’in geliştirilme amacı aşağıdakilerden hangisidir?</b>
+1. **İnternetin ortaya çıkışına öncülük eden ARPANET’in geliştirilme amacı aşağıdakilerden hangisidir?**
     - A-) Eğlence içeriklerini paylaşmak
     - B-) Küresel ticaret ağı kurmak
     - C-) Sosyal medya platformları geliştirmek
     - D-) posta sistemini kurmak
     - **Cevap E-) Güvenli bilgi paylaşımı sağlamak**
-    <hr />
-1. <b>World Wide Web’i (WWW) geliştiren bilim insanı kimdir?</b>
+    ***
+1. **World Wide Web’i (WWW) geliştiren bilim insanı kimdir?**
     - **Cevap A-) Tim Berners-Lee**
     - B-) Vinton Cerf
     - C-) Bill Gates
     - D-) Steve Jobs
     - E-) Alan Turing
-    <hr />
-1. <b>Web standartlarını belirleyen kuruluş aşağıdakilerden hangisidir?</b>
+    ***
+1. **Web standartlarını belirleyen kuruluş aşağıdakilerden hangisidir?**
     - A-) IANA
     - B-) ICANN
     - **Cevap C-) W3C**
     - D-) ISO
     - E-) IEEE
-    <hr />
-1. <b>Aşağıdakilerden hangisi erişilebilir web tasarımının temel amaçlarından biridir?</b>
+    ***
+1. **Aşağıdakilerden hangisi erişilebilir web tasarımının temel amaçlarından biridir?**
     - A-) Sadece gelişmiş cihazlarda çalışmak
     - B-) Sadece engelli bireylerin kullanımına uygun olmak
     - C-) Yalnızca görsel açıdan estetik olmak
     - **Cevap D-) Tüm kullanıcılar için kapsayıcı ve kullanılabilir içerik sunmak**
     - E-) İnternet hızını artırmak
-    <hr />
-1. <b>İstemci–sunucu modelinde istemcinin temel görevi aşağıdakilerden hangisidir?</b>
+    ***
+1. **İstemci–sunucu modelinde istemcinin temel görevi aşağıdakilerden hangisidir?**
     - A-) Verileri şifrelemek
     - **Cevap B-) Kaynak talep etmek**
     - C-) Protokolleri yönetmek
     - D-) Dosyaları barındırmak
     - E-) Güvenlik sağlamak
-    <hr />
-1. <b>HTTP ile HTTPS arasındaki en önemli fark nedir?</b>
+    ***
+1. **HTTP ile HTTPS arasındaki en önemli fark nedir?**
     - A-) HTTPS daha hızlıdır
     - B-) HTTP yalnızca metin aktarır
     - **Cevap C-) HTTPS şifreli iletişim sağlar**
     - D-) HTTP yalnızca e-posta için kullanılır
     - E-) HTTPS ücretsiz değildir
-    <hr />
-1. <b>Alan adlarının IP adreslerine dönüştürülmesini sağlayan sistem aşağıdakilerden hangisidir?</b>
+    ***
+1. **Alan adlarının IP adreslerine dönüştürülmesini sağlayan sistem aşağıdakilerden hangisidir?**
     - A-) URL
     - **Cevap B-) DNS**
     - C-) URI
     - D-) FTP
     - E-) SMTP
-    <hr />
-1. <b>HTML işaretleme dilinin temel işlevi aşağıdakilerden hangisidir?</b>
+    ***
+1. **HTML işaretleme dilinin temel işlevi aşağıdakilerden hangisidir?**
     - **Cevap A-) Web sayfasının yapısını tanımlamak**
-    - B-) Web sayfasının g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; d&uuml;zenlemek
+    - B-) Web sayfasının görünümünü düzenlemek
     - C-) Dinamik işlemler yapmak
-    - D-) Sunucu y&ouml;netimini sağlamak
-    - E-) Veritabanı işlemlerini y&uuml;r&uuml;tmek
-    <hr />
-1. <b>CSS aşağıdakilerden hangisi i&ccedil;in kullanılır?</b>
-    - A-) Sunucu erişimini y&ouml;netmek
+    - D-) Sunucu yönetimini sağlamak
+    - E-) Veritabanı işlemlerini yürütmek
+    ***
+1. **CSS aşağıdakilerden hangisi için kullanılır?**
+    - A-) Sunucu erişimini yönetmek
     - B-) Verileri şifrelemek
     - C-) Kullanıcı girişi doğrulamak
-    - **Cevap D-) Sayfanın g&ouml;rselliğini d&uuml;zenlemek**
+    - **Cevap D-) Sayfanın görselliğini düzenlemek**
     - E-) Dosya transferi yapmak
-    <hr />
-1. <b>Aşağıdakilerden hangisi ön yüz (front-end) teknolojilerine örnek olarak verilebilir?</b>
+    ***
+1. **Aşağıdakilerden hangisi ön yüz (front-end) teknolojilerine örnek olarak verilebilir?**
     - A-) Node.js
     - B-) MySQL
     - C-) PostgreSQL
     - D-) PHP
     - **Cevap E-) HTML, CSS ve JavaScript**
-    <hr />
+    ***
 ## Unite 2
-1. <b>Web tasarım s&uuml;recinin ilk adımı aşağıdakilerden hangisidir?</b>
+1. **Web tasarım sürecinin ilk adımı aşağıdakilerden hangisidir?**
     - **Cevap A-) Hedef kitleyi belirlemek**
-    - B-) Renk paletini se&ccedil;mek
+    - B-) Renk paletini seçmek
     - C-) Sunucu altyapısını satın almak
     - D-) Animasyonları tasarlamak
-    - E-) SEO &ccedil;alışması yapmak
-    <hr />
-1. <b>Aşağıdakilerden hangisi demografik veri kapsamında değerlendirilir?</b>
+    - E-) SEO çalışması yapmak
+    ***
+1. **Aşağıdakilerden hangisi demografik veri kapsamında değerlendirilir?**
     - A-) Kullanıcının marka algısı
     - B-) Kullanıcının hobileri
     - C-) Kullanıcının site içi tıklama yolu
     - **Cevap D-) Kullanıcının yaş bilgisi**
     - E-) Kullanıcının satın alma motivasyonu
-    <hr />
-1. ………………… kullanıcıların yaşam tarzı, ilgi alanları, değerleri ve motivasyonlarını ortaya koyar.<br><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</b>
+    ***
+1. ………………… kullanıcıların yaşam tarzı, ilgi alanları, değerleri ve motivasyonlarını ortaya koyar.<br />**Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Psikografik analiz**
     - B-) Demografik analiz
     - C-) Hedef Kitle analizi
     - D-) Davranışsal analiz
     - E-) Maliyet analizi
-    <hr />
-1. <b>Aşağıdakilerden hangisi kullanıcı yolculuğu aşamalarından birisi değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi kullanıcı yolculuğu aşamalarından birisi değildir?**
     - A-) Farkındalık
     - B-) Araştırma
     - C-) Karar
     - **Cevap D-) Kod yazma**
     - E-) Deneyim
-    <hr />
-1. <b>Aşağıdakilerden hangisi bilgi mimarisini en doğru şekilde a&ccedil;ıklar?</b>
-    - A-) Web sitesinin renk paletinin ve tipografisinin se&ccedil;ilmesi
-    - **Cevap B-) İ&ccedil;eriklerin d&uuml;zenlenip kategorize edilmesi ve kullanıcıların kolayca erişebileceği bi&ccedil;imde yapılandırılması**
-    - C-) Sunucu altyapısının ve veri tabanının &ouml;l&ccedil;eklendirilmesi
-    - D-) G&ouml;rsel &ouml;ğeler i&ccedil;in animasyon efektlerinin tasarlanması
+    ***
+1. **Aşağıdakilerden hangisi bilgi mimarisini en doğru şekilde açıklar?**
+    - A-) Web sitesinin renk paletinin ve tipografisinin seçilmesi
+    - **Cevap B-) İçeriklerin düzenlenip kategorize edilmesi ve kullanıcıların kolayca erişebileceği biçimde yapılandırılması**
+    - C-) Sunucu altyapısının ve veri tabanının ölçeklendirilmesi
+    - D-) Görsel öğeler için animasyon efektlerinin tasarlanması
     - E-) Arama motoru optimizasyonu (SEO) metinlerinin yazılması
-    <hr />
-1. <b>Aşağıdakilerden hangisi Wireframe’i en doğru şekilde tanımlar?</b>
+    ***
+1. **Aşağıdakilerden hangisi Wireframe’i en doğru şekilde tanımlar?**
     - A-) Web sitesinin son hâline yakın, tüm görsel detayları içeren yüksek sadakatli tasarım
     - B-) Sunucu yapılandırmasını gösteren teknik diyagram
     - **Cevap C-) Görsel tasarımdan bağımsız, sitenin iskelet yapısını gösteren düşük sadakatli çizim/diyagram**
     - D-) Kullanıcı testlerinden elde edilen ısı haritaları
     - E-) SEO için anahtar kelime listesi
-    <hr />
-1. <b>Aşağıdakilerden hangisi içerik stratejisinin temel başlıklarından birisi değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi içerik stratejisinin temel başlıklarından birisi değildir?**
     - A-) Dil ve Üslup
     - B-) İçerik Türleri
     - **Cevap C-) SEO Uyumlu İçerik**
     - D-) Maliyet analizi
     - E-) Güncellenebilirlik
-    <hr />
-1. …………………… bir web sitesinin kullanıcılar tarafından ne kadar kolay, hızlı ve hatasız bir şekilde kullanılabileceğini ifade eder.<br><b>Yukarıdaki cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?</b>
+    ***
+1. …………………… bir web sitesinin kullanıcılar tarafından ne kadar kolay, hızlı ve hatasız bir şekilde kullanılabileceğini ifade eder.<br />**Yukarıdaki cümlede boş bırakılan yere aşağıdaki seçeneklerden hangisi getirilmelidir?**
     - A-) Erişilebilirlik
     - **Cevap B-) Kullanılabilirlik**
     - C-) Gestalt psikolojisi
     - D-) Yakınlık
     - E-) Süreklilik
-    <hr />
-1. <b>Aşağıdakilerden hangisi Gestalt ilkelerinden birisi değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi Gestalt ilkelerinden birisi değildir?**
     - A-) Yakınlık
     - B-) Benzerlik
     - C-) Süreklilik
     - D-) Tamamlama
     - **Cevap E-) Tutarlılık**
-    <hr />
-1. <b>Aşağıdakilerden hangisi Jakob Nielsen’in 10 Kullanılabilirlik İlkesinden birisi değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi Jakob Nielsen’in 10 Kullanılabilirlik İlkesinden birisi değildir?**
     - A-) Sistem durumunun görünürlüğü
     - B-) Sistem ve gerçek dünya uyumu
     - C-) Kullanıcı kontrolü ve özgürlüğü
     - D-) Hata önleme
     - **Cevap E-) Filtreleme**
-    <hr />
+    ***
 ## Unite 3
-1. <b>Arayüz tasarımının (UI) temel amacı aşağıdakilerden hangisidir?</b>
+1. **Arayüz tasarımının (UI) temel amacı aşağıdakilerden hangisidir?**
     - A-) Kullanıcıların yalnızca görsel olarak etkilenmesini sağlamak
     - **Cevap B-) Kullanıcıya bilgiye hızlı, kolay ve anlaşılır şekilde erişim sunmak**
     - C-) Sitenin yalnızca estetik görünümünü düzenlemek
     - D-) Yazılım hatalarını ortadan kaldırmak
     - E-) Kodlama süresini kısaltmak
-    <hr />
-1. <b>Aşağıdakilerden hangisi etkileşim tasarımının (IxD) örneği değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi etkileşim tasarımının (IxD) örneği değildir?**
     - A-) Bir butona basıldığında renginin değişmesi
     - B-) Dosya yüklenirken ilerleme çubuğunun dolması
     - C-) Menüde gezinirken tıklanabilir alanların büyümesi
     - **Cevap D-) Metin içeriğinin anlaşılır olması**
     - E-) Form doldururken hata mesajının çıkması
-    <hr />
-1. <b>Renklerin kullanıcı üzerindeki etkisi ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?</b>
+    ***
+1. **Renklerin kullanıcı üzerindeki etkisi ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?**
     - A-) Mavi – Aciliyet ve tehlike
     - B-) Kırmızı – Güven ve profesyonellik
     - **Cevap C-) Yeşil – Doğa ve huzur**
     - D-) Siyah – Neşe ve iyimserlik
     - E-) Sarı – Lüks ve resmiyet
-    <hr />
-1. <b>Tipografi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?</b>
+    ***
+1. **Tipografi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?**
     - **Cevap A-) Sans-serif yazı tipleri dijital ortamda okunabilirliği artırır.**
-    - B-) Serif yazı tipleri k&uuml;&ccedil;&uuml;k puntoda daha okunabilirdir.
-    - C-) Satır uzunluğu 100&ndash;150 karakter olmalıdır.
-    - D-) Kontrastın d&uuml;ş&uuml;k olması metin okunabilirliğini artırır.
-    - E-) Ana metin i&ccedil;in genellikle 10px puntolar tercih edilir.
-    <hr />
-1. <b>Aşağıdakilerden hangisi grid sisteminin sağladığı avantajlardan biri <u>değildir</u>?</b>
-    - A-) İ&ccedil;eriğin hizalanmasını sağlamak
-    - B-) D&uuml;zeni ve dengeyi artırmak
-    - C-) G&ouml;rsel hiyerarşiyi oluşturmak
+    - B-) Serif yazı tipleri küçük puntoda daha okunabilirdir.
+    - C-) Satır uzunluğu 100–150 karakter olmalıdır.
+    - D-) Kontrastın düşük olması metin okunabilirliğini artırır.
+    - E-) Ana metin için genellikle 10px puntolar tercih edilir.
+    ***
+1. **Aşağıdakilerden hangisi grid sisteminin sağladığı avantajlardan biri değildir?**
+    - A-) İçeriğin hizalanmasını sağlamak
+    - B-) Düzeni ve dengeyi artırmak
+    - C-) Görsel hiyerarşiyi oluşturmak
     - D-) Kullanıcıya estetik bir deneyim sunmak
-    - **Cevap E-) G&ouml;rsel metaforların geliştirilmesi**
-    <hr />
-1. <b>Boşluk (white space) kullanımının temel işlevi aşağıdakilerden hangisidir?</b>
+    - **Cevap E-) Görsel metaforların geliştirilmesi**
+    ***
+1. **Boşluk (white space) kullanımının temel işlevi aşağıdakilerden hangisidir?**
     - **Cevap A-) Vurguyu artırmak ve karmaşayı azaltmak**
     - B-) Tasarıma daha fazla öğe eklemek
     - C-) Okunabilirliği azaltmak
     - D-) Sayfanın daha çok reklam almasını sağlamak
     - E-) Metaforları güçlendirmek
-    <hr />
-1. <b>Aşağıdakilerden hangisi WCAG erişilebilirlik ilkelerinden biri değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi WCAG erişilebilirlik ilkelerinden biri değildir?**
     - A-) Algılanabilirlik
     - B-) Çalıştırılabilirlik
     - C-) Anlaşılabilirlik
     - D-) Sağlamlık
     - **Cevap E-) Estetiklik**
-    <hr />
-1. <b>Bir web sitesinde görsellere açıklayıcı metin eklemek hangi teknikle sağlanır?</b>
+    ***
+1. **Bir web sitesinde görsellere açıklayıcı metin eklemek hangi teknikle sağlanır?**
     - A-) Longdesc
     - B-) Tabindex
     - **Cevap C-) Alt Metin (Alt Text)**
     - D-) Klavye Navigasyonu
     - E-) Flexbox
-    <hr />
-1. <b>Mobil öncelikli tasarım (Mobile First) yaklaşımının temel özelliği aşağıdakilerden hangisidir?</b>
+    ***
+1. **Mobil öncelikli tasarım (Mobile First) yaklaşımının temel özelliği aşağıdakilerden hangisidir?**
     - A-) Öncelikle masaüstü tasarımı yapıp sonra mobil uyarlamak
     - **Cevap B-) Tasarım sürecine küçük ekranlardan başlayıp büyüğe doğru geliştirmek**
     - C-) Tüm cihazlarda aynı düzeni zorunlu tutmak
     - D-) Yalnızca responsive grid sistemleri kullanmak
     - E-) Görsel öğeleri küçülterek mobil cihazlara uyarlamak
-    <hr />
-1. <b>Aşağıdakilerden hangisi farklı cihazlarda tutarlılık sağlamaya yönelik bir ilke değildir?</b>
+    ***
+1. **Aşağıdakilerden hangisi farklı cihazlarda tutarlılık sağlamaya yönelik bir ilke değildir?**
     - A-) Marka renklerinin korunması
     - B-) Navigasyon yapısının benzer kalması
     - C-) İkonların aynı işlevi sürdürmesi
     - **Cevap D-) Farklı cihazlarda tamamen farklı arayüzler geliştirmek**
     - E-) Tipografinin aynı font ailesinden seçilmesi
-    <hr />
+    ***
 ## Unite 4
-1. <b>HTML belgesinin en &uuml;st satırında hangi ibare bulunmalıdır?</b>
-    - A-) &lt;html&gt;
-    - **Cevap B-) &lt;!DOCTYPE html&gt;**
-    - C-) &lt;head&gt;
-    - D-) &lt;body&gt;
-    - E-) &lt;meta /&gt;
-    <hr />
-1. <b>Aşağıdakilerden hangisi HTML etiketleri arasında yer almaz?</b>
-    - A-) &lt;header&gt;
-    - B-) &lt;footer&gt;
-    - C-) &lt;style&gt;
-    - D-) &lt;article&gt;
-    - **Cevap E-) &lt;content&gt;**
-    <hr />
-1. <b>Bir sayfanın başlık bilgisi hangi etiket içinde bulunur?</b>
-    - A-) &lt;body&gt;
-    - B-) &lt;footer&gt;
-    - C-) &lt;h1&gt;
-    - D-) &lt;meta&gt;
-    - **Cevap E-) &lt;title&gt;**
-    <hr />
-1. <b>Aşağıdaki etiketlerden hangisi bir görsel eklemek için kullanılır?</b>
-    - A-) &lt;video&gt;
-    - B-) &lt;audio&gt;
-    - **Cevap C-) &lt;img&gt;**
-    - D-) &lt;link&gt;
-    - E-) &lt;canvas&gt;
-    <hr />
-1. <b>HTML’de sırasız liste oluşturmak için hangi etiket kullanılır?</b>
-    - A-) &lt;ol&gt;
-    - **Cevap B-) &lt;ul&gt;**
-    - C-) &lt;li&gt;
-    - D-) &lt;table&gt;
-    - E-) &lt;div&gt;
-    <hr />
-1. <b>HTML&rsquo;de başlık seviyelerini belirtmek i&ccedil;in hangi etiketler kullanılır?</b>
-    - A-) &lt; h1&gt; -&lt; /h1&gt; &lt; h3&gt; &lt; /h3&gt;
-    - **Cevap B-) &lt; h1&gt; -&lt; /h1&gt; &lt; h6&gt; &lt; /h6&gt;**
-    - C-) &lt; heading&gt; &lt; /heading&gt;
-    - D-) &lt; header&gt; - &lt; footer&gt; &lt; /footer&gt; &lt; /header&gt;
-    - E-) &lt; title&gt; &lt; /title&gt; &lt; header&gt; &lt; /header&gt;
-    <hr />
-1. <b>Bir form elemanını tanımlamak için hangi etiket kullanılır?</b>
+1. **HTML belgesinin en üst satırında hangi ibare bulunmalıdır?**
+    - A-) &lt;html>
+    - **Cevap B-) &lt;!DOCTYPE html>**
+    - C-) &lt;head>
+    - D-) &lt; body>
+    - E-) &lt; meta />
+    ***
+1. **Aşağıdakilerden hangisi HTML etiketleri arasında yer almaz?**
+    - A-) &lt;header>
+    - B-) &lt;footer>
+    - C-) &lt;style>
+    - D-) &lt;article>
+    - **Cevap E-) &lt;content>**
+    ***
+1. **Bir sayfanın başlık bilgisi hangi etiket içinde bulunur?**
+    - A-) &lt;body>
+    - B-) &lt;footer>
+    - C-) &lt;h1>
+    - D-) &lt;meta>
+    - **Cevap E-) &lt;title>**
+    ***
+1. **Aşağıdaki etiketlerden hangisi bir görsel eklemek için kullanılır?**
+    - A-) &lt;video>
+    - B-) &lt;audio>
+    - **Cevap C-) &lt;img>**
+    - D-) &lt;link>
+    - E-) &lt;canvas>
+    ***
+1. **HTML’de sırasız liste oluşturmak için hangi etiket kullanılır?**
+    - A-) &lt;ol>
+    - **Cevap B-) &lt;ul>**
+    - C-) &lt;li>
+    - D-) &lt;table>
+    - E-) &lt;div>
+    ***
+1. **HTML’de başlık seviyelerini belirtmek için hangi etiketler kullanılır?**
+    - A-) &lt; h1> -&lt; /h1> &lt; h3> &lt; /h3>
+    - **Cevap B-) &lt; h1> -&lt; /h1> &lt; h6> &lt; /h6>**
+    - C-) &lt; heading> &lt; /heading>
+    - D-) &lt; header> - &lt; footer> &lt; /footer> &lt; /header>
+    - E-) &lt; title> &lt; /title> &lt; header> &lt; /header>
+    ***
+1. **Bir form elemanını tanımlamak için hangi etiket kullanılır?**
     - A-) &lt;input>
     - B-) &lt;button>
     - C-) &lt;form>
     - D-) &lt;textarea>
     - **Cevap E-) &lt;html>**
-    <hr />
-1. <b>Aşağıdakilerden hangisi kullanıcıdan veri toplamak için kullanılan bir HTML etiketidir?</b>
+    ***
+1. **Aşağıdakilerden hangisi kullanıcıdan veri toplamak için kullanılan bir HTML etiketidir?**
     - A-) &lt;img>
     - **Cevap B-) &lt;form>**
     - C-) &lt;div>
     - D-) &lt;span>
     - E-) &lt;figure>
-    <hr />
-1. <b>Semantik HTML nedir?</b>
+    ***
+1. **Semantik HTML nedir?**
     - A-) HTML'in hızlı yazılması.
     - B-) Yalnızca görsel öğeleri içermesi.
     - C-) Tasarımın estetik açıdan güzel olması.
     - **Cevap D-) Etiketlerin yapı ve anlamına göre doğru kullanılması.**
     - E-) Yalnızca metin içermesi.
-    <hr />
-1. <b>Responsive (duyarlı) tasarımın amacı nedir?</b>
+    ***
+1. **Responsive (duyarlı) tasarımın amacı nedir?**
     - A-) Sadece masaüstü kullanıcıları için tasarım yapmak.
     - **Cevap B-) Farklı cihazlarda uyumlu görünüm sağlamak.**
     - C-) Sadece mobil cihazlar için tasarım yapmak.
     - D-) Hızlı yüklenen sayfalar oluşturmak.
     - E-) Görsel öğeleri kaldırmak.
-    <hr />
+    ***
 ## Unite 5
-1. <b>Bir formda kullanıcıdan alınan verilerin gönderileceği hedef adresi belirleyen öznitelik aşağıdakilerden hangisidir?</b>
+1. **Bir formda kullanıcıdan alınan verilerin gönderileceği hedef adresi belirleyen öznitelik aşağıdakilerden hangisidir?**
     - A-) method
     - B-) name
     - **Cevap C-) action**
     - D-) type
     - E-) id
-    <hr />
-1. <b>Aşağıdaki giriş türlerinden hangisi kullanıcının yalnızca sayı girmesini sağlar?</b>
+    ***
+1. **Aşağıdaki giriş türlerinden hangisi kullanıcının yalnızca sayı girmesini sağlar?**
     - A-) &lt;input type="text">
     - B-) &lt;input type="password">
     - **Cevap C-) &lt;input type="number">**
     - D-) &lt;input type="email">
     - E-) &lt;input type="file">
-    <hr />
-1. <b>HTML5&rsquo;te bir form alanının boş bırakılmamasını sağlayan &ouml;znitelik aşağıdakilerden hangisidir?</b>
+    ***
+1. **HTML5’te bir form alanının boş bırakılmamasını sağlayan öznitelik aşağıdakilerden hangisidir?**
     - A-) maxlenght
     - B-) placeholder
     - **Cevap C-) required**
     - D-) value
     - E-) alt
-    <hr />
-1. <b>Bir tablonun başlık hücreleri için kullanılan HTML etiketi aşağıdakilerden hangisidir?</b>
+    ***
+1. **Bir tablonun başlık hücreleri için kullanılan HTML etiketi aşağıdakilerden hangisidir?**
     - A-) &lt;tr>
     - **Cevap B-) &lt;th>**
     - C-) &lt;td>
     - D-) &lt;thead>
     - E-) &lt;caption>
-    <hr />
-1. <b>Bir hücrenin yatayda birden fazla sütunu kapsamasını sağlayan öznitelik aşağıdakilerden hangisidir?</b>
+    ***
+1. **Bir hücrenin yatayda birden fazla sütunu kapsamasını sağlayan öznitelik aşağıdakilerden hangisidir?**
     - **Cevap A-) colspan**
     - B-) rowspan
     - C-) align
     - D-) merge
     - E-) spanrow
-    <hr />
-1. <b>Bir web sayfasının ana içeriğini belirtmek için kullanılan semantik HTML5 etiketi aşağıdakilerden hangisidir?</b>
+    ***
+1. **Bir web sayfasının ana içeriğini belirtmek için kullanılan semantik HTML5 etiketi aşağıdakilerden hangisidir?**
     - A-) &lt;section>
     - B-) &lt;header>
     - C-) &lt;article>
     - D-) &lt;footer>
     - **Cevap E-) &lt;main>**
-    <hr />
-1. <b>Sayfa içinde gezinme bağlantılarını içeren semantik etiket aşağıdakilerden hangisidir?</b>
+    ***
+1. **Sayfa içinde gezinme bağlantılarını içeren semantik etiket aşağıdakilerden hangisidir?**
     - A-) &lt;aside>
     - B-) &lt;footer>
     - C-) &lt;article>
     - **Cevap D-) &lt;nav>**
     - E-) &lt;section>
-    <hr />
-1. <b>Görseller için alternatif metin sağlayarak erişilebilirliği artıran öznitelik aşağıdakilerden hangisidir?</b>
+    ***
+1. **Görseller için alternatif metin sağlayarak erişilebilirliği artıran öznitelik aşağıdakilerden hangisidir?**
     - **Cevap A-) alt**
     - B-) title
     - C-) aria-label
     - D-) id
     - E-) name
-    <hr />
-1. <b>Formların mantıksal olarak gruplanmasını sağlayan ve ekran okuyucular için açıklama ekleyen etiket ikilisi aşağıdakilerden hangisidir?</b>
-    - A-) &lt;form> – &lt;finput>
-    - **Cevap B-) &lt;fieldset> – &lt;flegend>**
-    - C-) &lt;label> – &lt;ftextarea>
-    - D-) &lt;section> – &lt;farticle>
-    - E-) &lt;main> – &lt;faside>
-    <hr />
-1. <b>WCAG standartları ile doğrudan ilişkili olan kavram aşağıdakilerden hangisidir?</b>
+    ***
+1. **Formların mantıksal olarak gruplanmasını sağlayan ve ekran okuyucular için açıklama ekleyen etiket ikilisi aşağıdakilerden hangisidir?**
+    - A-) &lt;form> – &lt;input>
+    - **Cevap B-) &lt;fieldset> – &lt;legend>**
+    - C-) &lt;label> – &lt;textarea>
+    - D-) &lt;section> – &lt;article>
+    - E-) &lt;main> – &lt;aside>
+    ***
+1. **WCAG standartları ile doğrudan ilişkili olan kavram aşağıdakilerden hangisidir?**
     - **Cevap A-) Erişilebilirlik**
     - B-) Sayfa yüklenme hızı
     - C-) Görsel çözünürlük
     - D-) Responsive tasarım
     - E-) SEO optimizasyonu
-    <hr />
+    ***
 ## Unite 6
-1. <b>CSS'in web geliştirmedeki rolü ve HTML ile ilişkisi göz önüne alındığında, aşağıdaki ifadelerden hangisi CSS'in temel işlevini en doğru şekilde tanımlamaktadır?</b>
+1. **CSS'in web geliştirmedeki rolü ve HTML ile ilişkisi göz önüne alındığında, aşağıdaki ifadelerden hangisi CSS'in temel işlevini en doğru şekilde tanımlamaktadır?**
     - **Cevap A-) HTML içeriğinin görsel düzenini, estetiğini ve sunumunu belirler.**
     - B-) Web sayfasının iskeletini ve anlamsal yapısını oluşturur.
     - C-) Sayfaya yalnızca resim ve bağlantı gibi multimedya öğeleri ekler.
     - D-) Sunucu tarafında veri işleme ve veritabanı bağlantılarını yönetir.
     - E-) Kullanıcının tarayıcısına web sayfasını indirme hızını artırır.
-    <hr />
-1. <b>CSS kurallarının HTML sayfasına eklenme y&ouml;ntemlerinden hangisi, &ouml;zellikle bakım kolaylığı ve geniş &ccedil;aplı projelerde tutarlılık sağlaması a&ccedil;ısından en &ccedil;ok &ouml;ne &ccedil;ıkmaktadır?</b>
-    - A-) Satır İ&ccedil;i CSS Ekleme
+    ***
+1. **CSS kurallarının HTML sayfasına eklenme yöntemlerinden hangisi, özellikle bakım kolaylığı ve geniş çaplı projelerde tutarlılık sağlaması açısından en çok öne çıkmaktadır?**
+    - A-) Satır İçi CSS Ekleme
     - **Cevap B-) Harici CSS Ekleme**
-    - C-) Dahili (Sayfa İ&ccedil;i) CSS Ekleme
-    - D-) Etiket Se&ccedil;ici Kullanımı
-    - E-) Kimlik Se&ccedil;ici Kullanımı
-    <hr />
-1. <b>Bir CSS kuralı, temel olarak üç bileşenden oluşur. Aşağıdakilerden hangisi bu üç temel bileşeni doğru sırasıyla vermektedir?</b>
+    - C-) Dahili (Sayfa İçi) CSS Ekleme
+    - D-) Etiket Seçici Kullanımı
+    - E-) Kimlik Seçici Kullanımı
+    ***
+1. **Bir CSS kuralı, temel olarak üç bileşenden oluşur. Aşağıdakilerden hangisi bu üç temel bileşeni doğru sırasıyla vermektedir?**
     - A-) İçerik – Boyut – Hizalama
     - B-) HTML Etiketi – Sınıf Adı – Değer
     - **Cevap C-) Seçici – Özellik – Değer**
     - D-) Seçici – Değer – Tarayıcı
     - E-) Özellik – Seçici – Sözdizimi
-    <hr />
-1. <b>CSS’te, belirli bir sınıf adıyla tanımlanmış birden fazla HTML öğesine aynı stili uygulamayı sağlayan seçici türü ve kullanılan ön ek aşağıdakilerden hangisidir?</b>
+    ***
+1. **CSS’te, belirli bir sınıf adıyla tanımlanmış birden fazla HTML öğesine aynı stili uygulamayı sağlayan seçici türü ve kullanılan ön ek aşağıdakilerden hangisidir?**
     - A-) Kimlik Seçici (#)
-    - B-) Evrensel Seçici (*)
+    - B-) Evrensel Seçici (\*)
     - C-) Etiket Seçici (hiçbir ön ek kullanılmaz)
     - D-) Sözde Sınıf Seçici (:)
     - **Cevap E-) Class Seçici (.)**
-    <hr />
-1. <b>Sayfadaki tüm paragraf (p) etiketlerinin yazı rengini maviye ve yazı boyutunu 14 piksele ayarlamak için kullanılan CSS sözdizimi örneğinde, "color" ifadesi kuralın hangi bileşenini temsil eder?</b>
+    ***
+1. **Sayfadaki tüm paragraf (p) etiketlerinin yazı rengini maviye ve yazı boyutunu 14 piksele ayarlamak için kullanılan CSS sözdizimi örneğinde, "color" ifadesi kuralın hangi bileşenini temsil eder?**
     - A-) Seçici (Selector)
     - B-) Değer (Value)
     - **Cevap C-) Özellik (Property)**
     - D-) Kimlik (ID)
     - E-) Sınıf (Class)
-    <hr />
-1. <b>CSS Kutu Modeli'ne göre, bir HTML öğesinin İçerik (Content) alanı ile Kenarlık (Border) alanı arasındaki boşluğu tanımlayan bileşen aşağıdakilerden hangisidir?</b>
+    ***
+1. **CSS Kutu Modeli'ne göre, bir HTML öğesinin İçerik (Content) alanı ile Kenarlık (Border) alanı arasındaki boşluğu tanımlayan bileşen aşağıdakilerden hangisidir?**
     - A-) Margin (Dış boşluk)
     - B-) Border (Kenarlık)
     - C-) Content (İçerik)
     - **Cevap D-) Padding (İç boşluk)**
     - E-) Width (Genişlik)
-    <hr />
-1. <b>Tabloları bi&ccedil;imlendirirken, komşu h&uuml;cre kenarlıklarının tek bir &ccedil;izgi halinde birleşmesini sağlayarak tabloların g&ouml;rsel karmaşasını azaltan CSS &ouml;zelliği aşağıdakilerden hangisidir?</b>
+    ***
+1. **Tabloları biçimlendirirken, komşu hücre kenarlıklarının tek bir çizgi halinde birleşmesini sağlayarak tabloların görsel karmaşasını azaltan CSS özelliği aşağıdakilerden hangisidir?**
     - **Cevap A-) border-collapse**
     - B-) border
     - C-) border-color
     - D-) padding
     - E-) caption-side
-    <hr />
-1. <b>Metin biçimlendirme özelliklerinden biri olan letter-spacing, metnin hangi tipografik unsurunu kontrol eder?</b>
+    ***
+1. **Metin biçimlendirme özelliklerinden biri olan letter-spacing, metnin hangi tipografik unsurunu kontrol eder?**
     - A-) Satırlar arasındaki dikey boşluk.
     - B-) Kelimeler arasındaki boşluk.
     - C-) Paragrafın ilk satırının girintisi.
     - **Cevap D-) Bireysel harfler arasındaki yatay boşluk.**
     - E-) Metnin büyük/küçük harfe dönüştürülmesi.
-    <hr />
-1. <b>CSS’te, vw (viewport width) ve vh (viewport height) gibi birimlerin temel özelliği nedir ve modern duyarlı (responsive) tasarımlarda neden tercih edilirler?</b>
+    ***
+1. **CSS’te, vw (viewport width) ve vh (viewport height) gibi birimlerin temel özelliği nedir ve modern duyarlı (responsive) tasarımlarda neden tercih edilirler?**
     - A-) Sabit olmaları ve her cihazda aynı sonucu vermeleri.
     - B-) Yalnızca kök (html) elemanının font boyutuna göre hesaplanmaları.
     - C-) Geleneksel matbaa ölçüsü kullanmaları (point/pt).
     - D-) Sadece metin rengini değiştirmek için kullanılmaları.
     - **Cevap E-) Cihazın ekran genişliğine veya yüksekliğine göre orantısal olarak değişmeleri.**
-    <hr />
-1. <b>Bir HTML öğesinin çevresindeki diğer kutularla arasındaki mesafeyi belirleyen ve Kutu Modeli'nin en dış katmanını oluşturan bileşen hangisidir?</b>
+    ***
+1. **Bir HTML öğesinin çevresindeki diğer kutularla arasındaki mesafeyi belirleyen ve Kutu Modeli'nin en dış katmanını oluşturan bileşen hangisidir?**
     - A-) Border
     - **Cevap B-) Margin**
     - C-) Padding
     - D-) Content
     - E-) Box-sizing
-    <hr />
+    ***
 ## Unite 7
-1. <b>Flexbox hangi düzenler için en uygundur?</b>
+1. **Flexbox hangi düzenler için en uygundur?**
     - A-) Tablo tabanlı düzenler
     - B-) İki boyutlu düzenler
     - **Cevap C-) Tek boyutlu düzenler**
     - D-) Responsive düzenler
     - E-) Grid sistemleri
-    <hr />
-1. <b>Flexbox içinde öğelerin yatay hizalanmasını hangi özellik belirler?</b>
+    ***
+1. **Flexbox içinde öğelerin yatay hizalanmasını hangi özellik belirler?**
     - A-) align-items
     - **Cevap B-) justify-content**
     - C-) flex-direction
     - D-) order
     - E-) align-self
-    <hr />
-1. <b>Flexbox&rsquo;ta &ouml;ğelerin g&ouml;rsel sırasını değiştirmek i&ccedil;in hangi &ouml;zellik kullanılır?</b>
+    ***
+1. **Flexbox’ta öğelerin görsel sırasını değiştirmek için hangi özellik kullanılır?**
     - A-) flex-grow
     - B-) justify-items
     - C-) flex-shrink
     - **Cevap D-) order**
     - E-) gap
-    <hr />
-1. <b>Bir öğenin diğerlerinden daha fazla yer kaplaması için hangi özellik kullanılır?</b>
+    ***
+1. **Bir öğenin diğerlerinden daha fazla yer kaplaması için hangi özellik kullanılır?**
     - A-) flex-shrink
     - **Cevap B-) flex-grow**
     - C-) align-self
     - D-) justify-content
     - E-) flex-basis
-    <hr />
-1. <b>Grid sisteminde s&uuml;tunları tanımlamak i&ccedil;in kullanılan &ouml;zellik hangisidir?</b>
+    ***
+1. **Grid sisteminde sütunları tanımlamak için kullanılan özellik hangisidir?**
     - A-) grid-template-rows
     - B-) grid-gap
     - **Cevap C-) grid-template-columns**
     - D-) grid-area
     - E-) grid-auto-flow
-    <hr />
-1. <b>Grid’de öğeler arasındaki boşluk hangi özellik ile ayarlanır?</b>
+    ***
+1. **Grid’de öğeler arasındaki boşluk hangi özellik ile ayarlanır?**
     - **Cevap A-) grid-gap**
     - B-) padding
     - C-) margin
     - D-) justify-content
     - E-) align-content
-    <hr />
-1. <b>Grid sisteminde “fr” birimi neyi ifade eder?</b>
+    ***
+1. **Grid sisteminde “fr” birimi neyi ifade eder?**
     - A-) Piksel ölçüsü
     - B-) Yüzde
     - C-) Rem birimi
     - D-) Em birimi
     - **Cevap E-) Esnek pay**
-    <hr />
-1. <b>Bir öğeyi 2 sütun boyunca genişletmek için doğru yazım hangisidir?</b>
+    ***
+1. **Bir öğeyi 2 sütun boyunca genişletmek için doğru yazım hangisidir?**
     - A-) grid-column: 2;
     - B-) grid-template: span 2;
     - C-) grid-row: 2;
     - **Cevap D-) grid-column: span 2;**
     - E-) grid-auto-flow: column;
-    <hr />
-1. <b>Media queries hangi yapı ile tanımlanır?</b>
+    ***
+1. **Media queries hangi yapı ile tanımlanır?**
     - A-) @font-face
     - **Cevap B-) @media**
     - C-) @keyframes
     - D-) @responsive
     - E-) @container
-    <hr />
-1. <b>Küçük etkileşimlerde kullanılan geçiş efektleri hangi özellik ile yapılır?</b>
+    ***
+1. **Küçük etkileşimlerde kullanılan geçiş efektleri hangi özellik ile yapılır?**
     - A-) Animation
     - B-) Keyframes
     - C-) @media
     - D-) Transform
     - **Cevap E-) transition**
-    <hr />
+    ***
 ## Unite 8
-1. Esnek &ouml;ğeler, &hellip;&hellip;&hellip; ile başlayıp &hellip;&hellip;&hellip;. kadar kutunun i&ccedil;ine yerleştirilir.<br />
-<strong>Yukardaki c&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi gelmelidir?</strong>
+1. Esnek öğeler, ……… ile başlayıp ………. kadar kutunun içine yerleştirilir.<br />**Yukardaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi gelmelidir?**
     - A-) yukarı - aşağıya
     - B-) kapsayıcı - kutuya
     - C-) kutu - kapsayıcıya
-    - D-) son (main-end) &ndash; başlangı&ccedil;a (main-start)
-    - **Cevap E-) başlangı&ccedil; (main-start) - sona (main-end)**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Flexbox kapsamında kullanılan &ouml;zellikler arasında <u>yer almaz</u>?</strong>
+    - D-) son (main-end) – başlangıça (main-start)
+    - **Cevap E-) başlangıç (main-start) - sona (main-end)**
+    ***
+1. **Aşağıdakilerden hangisi Flexbox kapsamında kullanılan özellikler arasında yer almaz?**
     - A-) align-content
     - B-) align-items
     - C-) align-self
     - **Cevap D-) border**
     - E-) flex
-    <hr />
-1. <strong>Flexbox&rsquo;ta &ouml;ğeleri dikey hizalamak i&ccedil;in aşağıdakilerden hangisi kullanılır?</strong>
+    ***
+1. **Flexbox’ta öğeleri dikey hizalamak için aşağıdakilerden hangisi kullanılır?**
     - **Cevap A-) align-content**
     - B-) flex-wrap
     - C-) flex
     - D-) order
     - E-) flex-grow
-    <hr />
-1. align-items &ouml;zelliği justify-content&lsquo;in &hellip;&hellip;&hellip;. eksende yaptığı işlemleri &hellip;&hellip;.. eksende hizalama yapmak i&ccedil;in kullanılır.<br />
-<strong>Yukarıdaki c&uuml;mlede boş bırakılan yerlere gelebilecek en uygun kelimeler hangisidir?</strong>
+    ***
+1. align-items özelliği justify-content‘in ………. eksende yaptığı işlemleri …….. eksende hizalama yapmak için kullanılır.<br />**Yukarıdaki cümlede boş bırakılan yerlere gelebilecek en uygun kelimeler hangisidir?**
     - **Cevap A-) yatay - dikey**
     - B-) dikey - dikey
     - C-) dikey - yatay
     - D-) yatay - yatay
-    - E-) d&uuml;z - dikey
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Flexbox &ouml;zelliklerinden align-self&rsquo;in değerleri arasında <u>yer almaz</u>?</strong>
+    - E-) düz - dikey
+    ***
+1. **Aşağıdakilerden hangisi Flexbox özelliklerinden align-self’in değerleri arasında yer almaz?**
     - A-) auto
     - B-) baseline
     - C-) flex-start
     - D-) stretch
     - **Cevap E-) margin**
-    <hr />
-1. <strong>CSS Flexbox &ouml;zelliklerinden flex-directory varsayılan yerleşim y&ouml;n&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **CSS Flexbox özelliklerinden flex-directory varsayılan yerleşim yönü aşağıdakilerden hangisidir?**
     - A-) dikey
     - **Cevap B-) yatay**
     - C-) dikey ve yatay
     - D-) yukarı
     - E-) aşağı
-    <hr />
-1. <strong>CSS Flexbox&rsquo;ta birden &ccedil;ok satıra yaymak i&ccedil;in hangi &ouml;zellik kullanılır?</strong>
+    ***
+1. **CSS Flexbox’ta birden çok satıra yaymak için hangi özellik kullanılır?**
     - A-) column
     - B-) Align-item
     - C-) Align-content
     - **Cevap D-) Flex-wrap**
     - E-) Flex-grow
-    <hr />
-1. <strong>CSS Flexbox&rsquo;ta flex-direction ve flex-wrap &ouml;zelliklerini tek seferde tanımlamak i&ccedil;in hangi &ouml;zellik kullanılır?</strong>
+    ***
+1. **CSS Flexbox’ta flex-direction ve flex-wrap özelliklerini tek seferde tanımlamak için hangi özellik kullanılır?**
     - A-) Justify-content
     - B-) Flex-start
     - **Cevap C-) Flex-flow**
     - D-) Flex-end
     - E-) space-between
-    <hr />
-1. <strong>Aşağıdakilerden hangisi CSS Flexbox &ouml;zelliklerinden justify-content&rsquo;in değerleri arasında yer alır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi CSS Flexbox özelliklerinden justify-content’in değerleri arasında yer alır?**
     - A-) caption-side
     - **Cevap B-) center**
     - C-) transition
     - D-) animation-direction
     - E-) perspective
-    <hr />
-1. <strong>CSS Flexbox &ouml;zelliklerinden order varsayılan aşağıdaki hangi değeri alır?</strong>
+    ***
+1. **CSS Flexbox özelliklerinden order varsayılan aşağıdaki hangi değeri alır?**
     - A-) -1
     - **Cevap B-) 0 (sıfır)**
     - C-) 1
     - D-) 2
     - E-) 10
-    <hr />
-1. <strong>&Ccedil;ok satırlı yapılarda &ouml;geleri &ccedil;apraz eksende (dikey) hizalamak i&ccedil;in kullanılan align-content değerlerinden biri aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Çok satırlı yapılarda ögeleri çapraz eksende (dikey) hizalamak için kullanılan align-content değerlerinden biri aşağıdakilerden hangisidir?**
     - **Cevap A-) space-around**
     - B-) order
     - C-) flex-wrap
     - D-) flex-grow
     - E-) flex-direction
-    <hr />
-1. <strong>Aaşağıdakilerden hangisi&nbsp;</strong><strong>Flexbox Modeli&#39;ne ait olan bir avantajdır?</strong>
+    ***
+1. **Aaşağıdakilerden hangisi** **Flexbox Modeli'ne ait olan bir avantajdır?**
     - A-) Bazı tarayıcılar tarafından desteklenir.
-    - B-) &Ouml;gelerde boyutlandırma yoktur.
-    - C-) &Ouml;geler hizalanamaz.
-    - **Cevap D-) Hemen hemen t&uuml;m tarayıcılar tarafından desteklenir.**
-    - E-) Duyarlı ve uyarlanabilir web tasarımı s&uuml;recini zorlaştırır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi CSS&nbsp;</strong><strong>(Cascading Style Sheets- Basamaklı Stil Sayfaları)</strong><strong>&rsquo;de Flexbox &ouml;zellikleri arasında yer alır?</strong>
+    - B-) Ögelerde boyutlandırma yoktur.
+    - C-) Ögeler hizalanamaz.
+    - **Cevap D-) Hemen hemen tüm tarayıcılar tarafından desteklenir.**
+    - E-) Duyarlı ve uyarlanabilir web tasarımı sürecini zorlaştırır.
+    ***
+1. **Aşağıdakilerden hangisi CSS** **(Cascading Style Sheets- Basamaklı Stil Sayfaları)****’de Flexbox özellikleri arasında yer alır?**
     - A-) baseline
     - B-) center
     - C-) stretch
     - **Cevap D-) flex-basis**
     - E-) auto
-    <hr />
-1. <strong>CSS Flexbox flex-wrap &#246;zelliği hangi işlem i&#231;in kullanılır?</strong>
-    - A-) Esnek kutu d&#252;zenin rengini değişmek i&#231;in
-    - B-) Esnek kutu d&#252;zeninde dikey hizalama i&#231;in
-    - C-) Esnek kutu d&#252;zeninde yatay hizalama i&#231;in
-    - **Cevap D-) Esnek kutu d&#252;zeninde birden &#231;ok satıra yaymak i&#231;in**
-    - E-) Esnek kutu d&#252;zeninde ki metinleri b&#252;y&#252;tmek i&#231;in
-    <hr />
-1. <strong>Flexbox &ouml;zelliklerinden order &ouml;zelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) Esnek kapsayıcı i&ccedil;indeki esnek kutu &ouml;gelerinin &ccedil;apraz eksende hizalamasını ayarlar.
-    - **Cevap B-) Esnek kapsayıcı i&ccedil;indeki &ouml;gelerin ka&ccedil;ıncı sırada g&ouml;r&uuml;nmesi gerektiğini belirler.**
-    - C-) &Ouml;genin, esnek kutu i&ccedil;indeki diğer &ouml;gelere g&ouml;re nasıl k&uuml;&ccedil;&uuml;leceğini belirtir.
-    - D-) &Ouml;gelerin y&ouml;n&uuml;n&uuml; belirtir.
+    ***
+1. **CSS Flexbox flex-wrap özelliği hangi işlem için kullanılır?**
+    - A-) Esnek kutu düzenin rengini değişmek için
+    - B-) Esnek kutu düzeninde dikey hizalama için
+    - C-) Esnek kutu düzeninde yatay hizalama için
+    - **Cevap D-) Esnek kutu düzeninde birden çok satıra yaymak için**
+    - E-) Esnek kutu düzeninde ki metinleri büyütmek için
+    ***
+1. **Flexbox özelliklerinden order özelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - A-) Esnek kapsayıcı içindeki esnek kutu ögelerinin çapraz eksende hizalamasını ayarlar.
+    - **Cevap B-) Esnek kapsayıcı içindeki ögelerin kaçıncı sırada görünmesi gerektiğini belirler.**
+    - C-) Ögenin, esnek kutu içindeki diğer ögelere göre nasıl küçüleceğini belirtir.
+    - D-) Ögelerin yönünü belirtir.
     - E-) Esnek bir uzunluğun bileşenlerini belirtir.
-    <hr />
-1. <strong>Justify Content değeri ve a&ccedil;ıklaması ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
-    - A-) flex-start: &Ouml;geleri sola dayar ve soldan sağa hizalar.
-    - B-) flex-end: &Ouml;geler sağa dayalı (bitiş noktası) olarak hizalanır.
-    - **Cevap C-) center: &Ouml;geler sola hizalanır.**
-    - D-) space-between: İlk &ouml;ge sola, son &ouml;ğe sağa olacak şekilde &ouml;geler eşit olarak hizalanır.
-    - E-) space-around: İlk ve son &ouml;ge dışındaki &ouml;gelerin arasında eşit boşluklar bırakılır.
-    <hr />
-1. ......... esnek &ouml;gelerin yerleştirildiği y&ouml;n&uuml; belirler.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. **Justify Content değeri ve açıklaması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) flex-start: Ögeleri sola dayar ve soldan sağa hizalar.
+    - B-) flex-end: Ögeler sağa dayalı (bitiş noktası) olarak hizalanır.
+    - **Cevap C-) center: Ögeler sola hizalanır.**
+    - D-) space-between: İlk öge sola, son öğe sağa olacak şekilde ögeler eşit olarak hizalanır.
+    - E-) space-around: İlk ve son öge dışındaki ögelerin arasında eşit boşluklar bırakılır.
+    ***
+1. ......... esnek ögelerin yerleştirildiği yönü belirler.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Align-items
     - B-) Flex-basis
     - C-) Align-content
     - D-) Flex
     - **Cevap E-) Flex-direction**
-    <hr />
+    ***
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi &ldquo;Navbar&rdquo; yapısı tasarlanırken kullanılabilecek elementlerden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) &lt;ul&gt; &lt;/ul&gt;
-    - B-) &lt;ul&gt; &lt;li&gt; &lt;/li&gt; &lt;/ul&gt;
-    - C-) &lt;a&gt; &lt;/a&gt;
-    - D-) &lt;ol&gt; &lt;/ol&gt;
-    - **Cevap E-) &lt;row&gt; &lt;/row&gt;**
-    <hr />
-1. Web sayfası i&ccedil;erisinde dikey olarak oluşturulmuş gezinme &ccedil;ubuğu yapısına &hellip;&hellip;..&hellip;&hellip;&hellip;&hellip;&hellip; adı verilir.<br />
-<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
+1. **Aşağıdakilerden hangisi “Navbar” yapısı tasarlanırken kullanılabilecek elementlerden biri değildir?**
+    - A-) &lt;ul> &lt;/ul>
+    - B-) &lt;ul> &lt;li> &lt;/li> &lt;/ul>
+    - C-) &lt;a> &lt;/a>
+    - D-) &lt;ol> &lt;/ol>
+    - **Cevap E-) &lt;row> &lt;/row>**
+    ***
+1. Web sayfası içerisinde dikey olarak oluşturulmuş gezinme çubuğu yapısına ……..…………… adı verilir.<br />**Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?**
     - A-) Horizontal Navbar
     - **Cevap B-) Vertical Navbar**
     - C-) Navbar
     - D-) Sticky NavBar
     - E-) Fixed Navbar
-    <hr />
-1. Web sayfası i&ccedil;erisinde yatay olarak oluşturulmuş gezinme &ccedil;ubuğu yapısına &hellip;&hellip;..&hellip;&hellip;&hellip;&hellip;&hellip; adı verilir.<br />
-<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Web sayfası içerisinde yatay olarak oluşturulmuş gezinme çubuğu yapısına ……..…………… adı verilir.<br />**Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Horizontal Navbar**
     - B-) Vertical Navbar
     - C-) Navbar
     - D-) Sticky NavBar
     - E-) Fixed Navbar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yatay gezinme &ccedil;ubuğuna ait elemanlar arasında yatay bir d&uuml;zen oluşturmak i&ccedil;in kullanılan stil tanımıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi yatay gezinme çubuğuna ait elemanlar arasında yatay bir düzen oluşturmak için kullanılan stil tanımıdır?**
     - A-) pull
     - B-) offset
     - **Cevap C-) float**
     - D-) margin
     - E-) padding
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir resim galerisine responsive &ouml;zelliği kazandırmak i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir resim galerisine responsive özelliği kazandırmak için kullanılır?**
     - **Cevap A-) Media Query**
     - B-) JavaScript
     - C-) JQuery
     - D-) CSS Grid
     - E-) CSS Container
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. x ve y ekseni bir uzayda html elementlerinin yerini değiştirme, d&ouml;nd&uuml;rmek, &ouml;l&ccedil;eklendirmek ve &ccedil;arpıtmak i&ccedil;in kullanılır.<br />
-<strong>C&uuml;mledeki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ……………….. x ve y ekseni bir uzayda html elementlerinin yerini değiştirme, döndürmek, ölçeklendirmek ve çarpıtmak için kullanılır.<br />**Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) 2D Transform**
     - B-) 2D Translate
     - C-) 2D Rotate
     - D-) 2D Scale
     - E-) 2D Skew
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir nesnenin x ve y ekseni &uuml;zerindeki konumunu belirlenen değerler doğrultusunda değiştirmek i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir nesnenin x ve y ekseni üzerindeki konumunu belirlenen değerler doğrultusunda değiştirmek için kullanılır?**
     - A-) Rotate
     - B-) Scale
     - C-) Skew
     - D-) SkewX
     - **Cevap E-) Translate**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Transitions Metodu&#39;na ait &ouml;zelliklerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Transitions Metodu'na ait özelliklerden biri değildir?**
     - A-) Transition-delay
     - B-) Transition-duration
     - C-) Transition-property
     - D-) Transition-timing-function
     - **Cevap E-) Transition-timed-function**
-    <hr />
-1. <strong>&ldquo;transition-delay&rdquo; &ouml;zelliğinin işlevi aşağıdakilerden hangisinde doğru verilmiştir?</strong>
-    - **Cevap A-) Ge&ccedil;iş işlemi başlatılmadan &ouml;nce saniye cinsinden ne kadar s&uuml;re beklenileceğini belirlemek i&ccedil;in kullanılır**
-    - B-) Ge&ccedil;iş işleminin ne kadar s&uuml;rede tamamlanacağını belirlemek i&ccedil;in kullanılır
-    - C-) Ge&ccedil;iş işleminin hangi elementin &ouml;zelliğine uygulanacağını belirlemek i&ccedil;in kullanılır
-    - D-) Ge&ccedil;iş işleminin hız eğrisini belirlemek i&ccedil;in kullanılır
-    - E-) Ge&ccedil;iş işlemi başlatılmadan &ouml;nce dakika cinsinden ne kadar s&uuml;re beklenileceğini belirlemek i&ccedil;in kullanılır
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 2 boyutlu d&ouml;n&uuml;şt&uuml;rme y&ouml;ntemlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **“transition-delay” özelliğinin işlevi aşağıdakilerden hangisinde doğru verilmiştir?**
+    - **Cevap A-) Geçiş işlemi başlatılmadan önce saniye cinsinden ne kadar süre beklenileceğini belirlemek için kullanılır**
+    - B-) Geçiş işleminin ne kadar sürede tamamlanacağını belirlemek için kullanılır
+    - C-) Geçiş işleminin hangi elementin özelliğine uygulanacağını belirlemek için kullanılır
+    - D-) Geçiş işleminin hız eğrisini belirlemek için kullanılır
+    - E-) Geçiş işlemi başlatılmadan önce dakika cinsinden ne kadar süre beklenileceğini belirlemek için kullanılır
+    ***
+1. **Aşağıdakilerden hangisi 2 boyutlu dönüştürme yöntemlerinden biri değildir?**
     - A-) rotate
     - **Cevap B-) grow**
     - C-) scaleY
     - D-) skewX
     - E-) matrix
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ge&ccedil;iş(transition) &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi geçiş(transition) özellikleri arasında yer almaz?**
     - A-) transition-delay
     - B-) transition-property
     - **Cevap C-) directional**
     - D-) ease-in
     - E-) ease-in-out
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir nesneyi saat y&ouml;n&uuml;nde veya saat y&ouml;n&uuml;n&uuml;n tersine y&ouml;nde d&ouml;nd&uuml;rmek i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir nesneyi saat yönünde veya saat yönünün tersine yönde döndürmek için kullanılır?**
     - A-) Translate
     - **Cevap B-) Rotate**
     - C-) Scale
     - D-) ScaleX
     - E-) ScaleY
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir nesnenin x ve y eksenindeki eğimini artırıp azaltmak i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir nesnenin x ve y eksenindeki eğimini artırıp azaltmak için kullanılır?**
     - A-) SkewX
     - B-) SkewY
     - C-) Scale
     - **Cevap D-) Skew**
     - E-) Translate
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ge&ccedil;iş&nbsp;işleminin hız eğrisini belirlemek i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi geçiş işleminin hız eğrisini belirlemek için kullanılır?**
     - A-) transition-delay
     - B-) linear
     - C-) transition-duration
     - D-) transition-property
     - **Cevap E-) transition-timing-function**
-    <hr />
-1. ....... web sayfası &uuml;zerindeki men&uuml; ya da gezinme &ccedil;ubuğu olarak adlandırılabilir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ....... web sayfası üzerindeki menü ya da gezinme çubuğu olarak adlandırılabilir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Navbar**
-    - B-) Image&nbsp;Gallery
+    - B-) Image Gallery
     - C-) 2D Transform
     - D-) Transitions
     - E-) Scale
-    <hr />
+    ***
 ## Unite 10
-1. <strong>Aşağıdakilerden hangisi Bootstrap kullanmanın avantajlarından birisi <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi Bootstrap kullanmanın avantajlarından birisi değildir?**
     - A-) Responsive (Duyarlı) sayfa tasarımlarının yapılması
     - B-) Tasarım işlemlerini standardize etmesi
     - C-) Aynı işleve sahip kodların tekrar yazılmasına gerek duyulmaması
     - **Cevap D-) Tasarım işlemlerini yavaşlatması**
     - E-) Tasarım işlemlerini daha kolay ve hızlı yapılması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bootstrap v5 tarafından desteklenen internet tarayıcılar arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Bootstrap v5 tarafından desteklenen internet tarayıcılar arasında yer almaz?**
     - **Cevap A-) Internet Explorer**
     - B-) Chrome
     - C-) Microsoft Edge
     - D-) Firefox
     - E-) Opera
-    <hr />
-1. HTML elementler &uuml;zerinde Bootstrap &ouml;zellikleri ......... tanımı ile kullanılır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. HTML elementler üzerinde Bootstrap özellikleri ......... tanımı ile kullanılır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) data
     - B-) style
     - **Cevap C-) class**
     - D-) head
     - E-) link
-    <hr />
-1. I. Breakpoints (Kesme Noktaları)<br />
-II. Containers (Kapsayıcılar)<br />
-III. Grid (Izgara)<br />
-IV. Tables (Tablolar)<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Layout (D&uuml;zen) Sistemi&#39;nin bileşenleri arasında yer alır?</strong>
+    ***
+1. I. Breakpoints (Kesme Noktaları)<br />II. Containers (Kapsayıcılar)<br />III. Grid (Izgara)<br />IV. Tables (Tablolar)<br />**Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
     - **Cevap D-) I, II ve III**
     - E-) I, II ve IV
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Breakpoint (Kesme Noktası) tanımlarından birisi <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Breakpoint (Kesme Noktası) tanımlarından birisi değildir?**
     - **Cevap A-) xs**
     - B-) sm
     - C-) md
     - D-) lg
     - E-) xxl
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kullanılan cihaz ya da ekranı tamamen kapsayan &quot;container&quot; tanımıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kullanılan cihaz ya da ekranı tamamen kapsayan "container" tanımıdır?**
     - A-) container
     - **Cevap B-) container-fluid**
     - C-) container-sm
     - D-) container-full
     - E-) container-xxl
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir HTML tablodaki satırları bir a&ccedil;ık bir koyu renkte olacak şekilde renklendirir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir HTML tablodaki satırları bir açık bir koyu renkte olacak şekilde renklendirir?**
     - A-) table-colored
     - B-) row-colored
     - **Cevap C-) table-striped**
     - D-) row-striped
     - E-) table-bordered
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir tablonun satır ve s&uuml;tunlarına kenarlık eklemek i&ccedil;in kullanılan &ouml;zelliktir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir tablonun satır ve sütunlarına kenarlık eklemek için kullanılan özelliktir?**
     - A-) bordered
     - **Cevap B-) table-bordered**
     - C-) col-bordered
     - D-) row-bordered
     - E-) cell-bordered
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir HTML tabloya Responsive &ouml;zelliği kazandırmak i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir HTML tabloya Responsive özelliği kazandırmak için kullanılır?**
     - A-) responsive
     - **Cevap B-) table-responsive**
     - C-) adaptive
     - D-) table-adaptive
     - E-) responsive adaptive
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bootstrap v5 i&ccedil;erisinde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Bootstrap v5 içerisinde yer almaz?**
     - A-) Html
     - B-) Css
     - C-) JavaScript
     - **Cevap D-) JQuery**
     - E-) TypeScript
-    <hr />
-1. <strong>Boostrap v5 versiyonu, windows masa&uuml;st&uuml; ortamında aşağıdaki internet tarayıcılarından hangisi tarafından&nbsp;<u>desteklenmez</u>?</strong>
+    ***
+1. **Boostrap v5 versiyonu, windows masaüstü ortamında aşağıdaki internet tarayıcılarından hangisi tarafından desteklenmez?**
     - **Cevap A-) Safari**
     - B-) Firefox
     - C-) Opera
     - D-) Microsoft Edge
     - E-) Chrome
-    <hr />
-1. <strong>1400 px &ouml;l&ccedil;&uuml;s&uuml;nden b&uuml;y&uuml;k kesme noktası tipi aşağıdakilerden hangisidir?</strong>
-    - A-) Small (K&uuml;&ccedil;&uuml;k)
+    ***
+1. **1400 px ölçüsünden büyük kesme noktası tipi aşağıdakilerden hangisidir?**
+    - A-) Small (Küçük)
     - B-) Medium (Orta)
-    - C-) Large (B&uuml;y&uuml;k)
-    - D-) Extra large (Ekstra b&uuml;y&uuml;k)
-    - **Cevap E-) Extra extra large (Ekstra ekstra b&uuml;y&uuml;k)**
-    <hr />
-1. <strong>Aşağıdaki Breakpoints (Kesme Noktaları) ile ilgili ifadelerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) 12&rsquo;lik ızgara yapısından oluşur.
-    - B-) Cihaza ait ekran &ouml;l&ccedil;&uuml;s&uuml;n&uuml; tespit ederek hangi kategoriye ait olduğunu belirler.
-    - **Cevap C-) X-Small ekran boyutu i&ccedil;in &ldquo;xs&rdquo; class tanımı kullanılır.**
-    - D-) Small ekran boyutu i&ccedil;in &ldquo;sm&rdquo; class tanımı kullanılır.
-    - E-) Medium ekran boyutu i&ccedil;in &ldquo;md&rdquo; class tanımı kullanılır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi mouse (fare) imlecinin &uuml;zerinde bulunduğu satırı renklendirmek i&ccedil;in kullanılan tablo yapısıdır?</strong>
+    - C-) Large (Büyük)
+    - D-) Extra large (Ekstra büyük)
+    - **Cevap E-) Extra extra large (Ekstra ekstra büyük)**
+    ***
+1. **Aşağıdaki Breakpoints (Kesme Noktaları) ile ilgili ifadelerden hangisi yanlıştır?**
+    - A-) 12’lik ızgara yapısından oluşur.
+    - B-) Cihaza ait ekran ölçüsünü tespit ederek hangi kategoriye ait olduğunu belirler.
+    - **Cevap C-) X-Small ekran boyutu için “xs” class tanımı kullanılır.**
+    - D-) Small ekran boyutu için “sm” class tanımı kullanılır.
+    - E-) Medium ekran boyutu için “md” class tanımı kullanılır.
+    ***
+1. **Aşağıdakilerden hangisi mouse (fare) imlecinin üzerinde bulunduğu satırı renklendirmek için kullanılan tablo yapısıdır?**
     - A-) table-mouseover
     - **Cevap B-) table-hover**
     - C-) table-responsive
     - D-) table-cursor
     - E-) table-pointer
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Windows işletim sistemi tarafından desteklenen internet tarayıcıları arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Windows işletim sistemi tarafından desteklenen internet tarayıcıları arasında yer almaz?**
     - A-) Chrome
     - B-) Firefox
     - C-) Microsoft Edge
     - D-) Opera
     - **Cevap E-) Safari**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir HTML tabloya Hoverable &ouml;zelliği kazandırmak i&ccedil;in kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir HTML tabloya Hoverable özelliği kazandırmak için kullanılır?**
     - A-) table-responsive
     - B-) responsive
     - C-) table-bordered
     - **Cevap D-) table-hover**
     - E-) table-striped
-    <hr />
-1. <strong>Grid sistemi ile ilgili olarak aşağıdakilerden hangisi&nbsp;<u>yanlıştır</u>?</strong>
-    - A-) Satır ve s&uuml;tunlardan oluşan flexbox ile geliştirilmiş Layout sisteminin bir par&ccedil;asıdır.
-    - B-) Satıları tanımlamak i&ccedil;in row, s&uuml;tunları tanımlamak i&ccedil;in ise col class tanımı kullanılır.
-    - **Cevap C-) Her bir satırda toplam 20 adet s&uuml;tun bulunmaktadır.**
-    - D-) S&uuml;tunlar farklı oranlarla birleştirilerek veya kaydırılarak kullanılabilir.
-    - E-) Container yapısı altında &ccedil;alışmaktadır.
-    <hr />
+    ***
+1. **Grid sistemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Satır ve sütunlardan oluşan flexbox ile geliştirilmiş Layout sisteminin bir parçasıdır.
+    - B-) Satıları tanımlamak için row, sütunları tanımlamak için ise col class tanımı kullanılır.
+    - **Cevap C-) Her bir satırda toplam 20 adet sütun bulunmaktadır.**
+    - D-) Sütunlar farklı oranlarla birleştirilerek veya kaydırılarak kullanılabilir.
+    - E-) Container yapısı altında çalışmaktadır.
+    ***
 ## Unite 11
-1. <strong>Aşağıdakilerden hangisi bir form elementinin responsive &ouml;zelliği kazanabilmesi i&ccedil;in alabileceği class tanımlarından biridir?</strong>
+1. **Aşağıdakilerden hangisi bir form elementinin responsive özelliği kazanabilmesi için alabileceği class tanımlarından biridir?**
     - A-) form-label-check
     - B-) form-responsive
     - **Cevap C-) form-control**
     - D-) form-element
     - E-) form-adaptive
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir form elementini kullanıcı etkileşimine kapatmak i&ccedil;in kullanılan &ouml;zelliktir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir form elementini kullanıcı etkileşimine kapatmak için kullanılan özelliktir?**
     - A-) Readonly
     - **Cevap B-) Disabled**
     - C-) Closed
     - D-) Form-readonly
     - E-) Form-disabled
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir form elementini g&ouml;r&uuml;nd&uuml;ğ&uuml;nden daha b&uuml;y&uuml;k g&ouml;stermek i&ccedil;in kullanılan class tanımıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir form elementini göründüğünden daha büyük göstermek için kullanılan class tanımıdır?**
     - A-) form-control-sm
     - B-) form-control-xl
     - C-) form-control-xxl
     - **Cevap D-) form-control-lg**
     - E-) form-larger
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; , satır (row) ve s&uuml;tunlardan (col) oluşan bir ızgara (Grid) yapısı i&ccedil;erisinde elementlerin alt alta dizilerek konumlandırılmasıyla ortaya &ccedil;ıkan form şeklidir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ………………………… , satır (row) ve sütunlardan (col) oluşan bir ızgara (Grid) yapısı içerisinde elementlerin alt alta dizilerek konumlandırılmasıyla ortaya çıkan form şeklidir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Horizontal Form**
     - B-) Inline Form
     - C-) Vertical Form
     - D-) Legend Form
     - E-) Fieldset
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kullanıcının var olan se&ccedil;enekler arasından en az bir adet se&ccedil;im yapması istendiği durumda kullanılan form kontrol&uuml;d&uuml;r?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kullanıcının var olan seçenekler arasından en az bir adet seçim yapması istendiği durumda kullanılan form kontrolüdür?**
     - **Cevap A-) checkbox**
     - B-) radio
     - C-) selectbox
     - D-) inputbox
     - E-) dropbox
-    <hr />
-1. <strong>Aşağıdakilerden hangisi button, file, text ve check gibi bir HTML elementin sağına ya da solun başka bir HTML elementin eklenmesiyle meydana gelen bileşene verilen isimdir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi button, file, text ve check gibi bir HTML elementin sağına ya da solun başka bir HTML elementin eklenmesiyle meydana gelen bileşene verilen isimdir?**
     - A-) form-group
     - B-) button-group
     - C-) list-group
     - D-) label-group
     - **Cevap E-) input-group**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Form Validation (Doğrulama)&rdquo; işlemi i&ccedil;in form elementinin class tanımına eklenmesi gereken ifadedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Form Validation (Doğrulama)” işlemi için form elementinin class tanımına eklenmesi gereken ifadedir?**
     - A-) novalidate
     - B-) validate-form
     - C-) form-validate
     - D-) form-valid
     - **Cevap E-) needs-validation**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi başarılı bir işlem sonucunu &ldquo;Alert&rdquo; bileşeni ile g&ouml;r&uuml;nt&uuml;lemek i&ccedil;in kullanılması gereken en uygun class tanımıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi başarılı bir işlem sonucunu “Alert” bileşeni ile görüntülemek için kullanılması gereken en uygun class tanımıdır?**
     - A-) alert-primary
     - B-) alert-danger
     - **Cevap C-) alert-success**
     - D-) alert-light
     - E-) alert-dark
-    <hr />
-1. <strong>Aşağıdakilerden hangisi i&ccedil;eriklerin yatay ya da dikey sekmeler halinde gruplandırılarak g&ouml;sterilebilmesi i&ccedil;in kullanılan bileşendir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi içeriklerin yatay ya da dikey sekmeler halinde gruplandırılarak gösterilebilmesi için kullanılan bileşendir?**
     - **Cevap A-) Tab**
     - B-) List group
     - C-) Breadcrumb
     - D-) Navbar
     - E-) Table
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir web sayfası &uuml;zerinde o anda bulunulan sayfayı hiyerarşik bir bi&ccedil;imde g&ouml;stermek i&ccedil;in kullanılan bileşendir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir web sayfası üzerinde o anda bulunulan sayfayı hiyerarşik bir biçimde göstermek için kullanılan bileşendir?**
     - **Cevap A-) Breadcrumb**
     - B-) Navbar
     - C-) Navigation Bar
     - D-) Accordion
     - E-) Bread Bar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bootstrap bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Bootstrap bileşenlerinden biri değildir?**
     - A-) Alert
     - B-) Button
     - **Cevap C-) Square**
     - D-) Modal
     - E-) Toast
-    <hr />
-1. <strong>Bir form elementinin sunucuya hi&ccedil;bir şekilde veri g&ouml;ndermemesi i&ccedil;in kullanılan &ouml;zellik aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Bir form elementinin sunucuya hiçbir şekilde veri göndermemesi için kullanılan özellik aşağıdakilerden hangisidir?**
     - A-) readonly
     - **Cevap B-) disabled**
     - C-) closed
     - D-) form-readonly
     - E-) form-disabled
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Form Validation (Doğrulama)&rdquo; işlemi i&ccedil;in form elementine eklenmesi gereken bir &ouml;zelliktir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Form Validation (Doğrulama)” işlemi için form elementine eklenmesi gereken bir özelliktir?**
     - **Cevap A-) novalidate**
     - B-) validate-form
     - C-) form-validate
     - D-) form-valid
     - E-) needs-validation
-    <hr />
-1. <strong>Form yapısına hem estetik bir g&ouml;r&uuml;n&uuml;m hem de her t&uuml;rl&uuml; cihaz ve ekran boyutuna duyarlı olma &ouml;zelliği kazandıran web uygulaması aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Form yapısına hem estetik bir görünüm hem de her türlü cihaz ve ekran boyutuna duyarlı olma özelliği kazandıran web uygulaması aşağıdakilerden hangisidir?**
     - A-) Input
     - **Cevap B-) Bootstrap**
     - C-) Button
     - D-) Img
     - E-) Table
-    <hr />
+    ***
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi mobil uyumlu web sitesini tanımlamaktadır?</strong>
-    - A-) Tek ekran &uuml;zerinden &ccedil;alışılıp paylaşılan web sayfalarıdır.
-    - B-) Masa&uuml;st&uuml; tasarımı olarak ayarlanıp kullanıcıların mobil cihazları ile giriş yaptığı t&uuml;m siteler mobil uyumlu web sitelerdir.
-    - C-) Alan adının &ouml;n&uuml;nde sadece &ldquo;m.alanadi.com&rdquo; olan siteler mobil uyumlu sitelerdir.
-    - **Cevap D-) Farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k ve boyutlardaki cihazlarda ideal g&ouml;r&uuml;nt&uuml;lenmesi i&ccedil;in tasarlanan web sayfalarıdır.**
-    - E-) Alan adının sonunda sadece &ldquo;alanadi.com/m&rdquo; olan siteler mobil uyumlu sitelerdir.
-    <hr />
-1. <strong>Tek bir site ve i&ccedil;erik ile ekran boyutuna g&ouml;re ideal g&ouml;r&uuml;nt&uuml;leme deneyimini sağlayan tasarımlara ne ad verilir?</strong>
+1. **Aşağıdakilerden hangisi mobil uyumlu web sitesini tanımlamaktadır?**
+    - A-) Tek ekran üzerinden çalışılıp paylaşılan web sayfalarıdır.
+    - B-) Masaüstü tasarımı olarak ayarlanıp kullanıcıların mobil cihazları ile giriş yaptığı tüm siteler mobil uyumlu web sitelerdir.
+    - C-) Alan adının önünde sadece “m.alanadi.com” olan siteler mobil uyumlu sitelerdir.
+    - **Cevap D-) Farklı çözünürlük ve boyutlardaki cihazlarda ideal görüntülenmesi için tasarlanan web sayfalarıdır.**
+    - E-) Alan adının sonunda sadece “alanadi.com/m” olan siteler mobil uyumlu sitelerdir.
+    ***
+1. **Tek bir site ve içerik ile ekran boyutuna göre ideal görüntüleme deneyimini sağlayan tasarımlara ne ad verilir?**
     - A-) Tek sayfalı tasarım
-    - B-) G&ouml;rsel tasarım
-    - C-) Masa&uuml;st&uuml; tasarım
+    - B-) Görsel tasarım
+    - C-) Masaüstü tasarım
     - D-) Uyarlanabilir tasarım
     - **Cevap E-) Duyarlı web tasarımı**
-    <hr />
-1. <strong>Tek i&ccedil;erikten farklı boyut oluşturulduğu i&ccedil;in tutarsız ara y&uuml;zler aşağıdaki tasarımlardan hangisinde oluşmaktadır?</strong>
+    ***
+1. **Tek içerikten farklı boyut oluşturulduğu için tutarsız ara yüzler aşağıdaki tasarımlardan hangisinde oluşmaktadır?**
     - **Cevap A-) Duyarlı web tasarımı**
     - B-) Uyarlanabilir web tasarımı
     - C-) CSS tasarımı
     - D-) HTML tasarımı
     - E-) HTML 5 tasarımı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?**
     - A-) Duyarlı web siteleri ile CSS ve HTML kullanmadan web sitesi tasarlanabilmektedir.
-    - B-) Farklı ekran &ouml;l&ccedil;&uuml;lerine uygun &ouml;zg&uuml;n tasarımlar yapılabilir.
-    - **Cevap C-) Tek HTML kodu ile t&uuml;m ekranlara tasarım yapıldığı i&ccedil;in oluşturulması ve devamlılığı sağlamak i&ccedil;in diğer yapılara g&ouml;re daha az emek ile yapılabilmektedir.**
-    - D-) Duyarlı web tasarımı &ccedil;evre bilinci ile ilgili konuları kapsamaktadır.
-    - E-) Duyarlı web tasarımları işitme engelli kişiler i&ccedil;in tasarlanmaktadır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?</strong>
-    - A-) Duyarlı web sitesi ile sadece masa&uuml;st&uuml; tasarımlar oluşturulabilmektedir.
+    - B-) Farklı ekran ölçülerine uygun özgün tasarımlar yapılabilir.
+    - **Cevap C-) Tek HTML kodu ile tüm ekranlara tasarım yapıldığı için oluşturulması ve devamlılığı sağlamak için diğer yapılara göre daha az emek ile yapılabilmektedir.**
+    - D-) Duyarlı web tasarımı çevre bilinci ile ilgili konuları kapsamaktadır.
+    - E-) Duyarlı web tasarımları işitme engelli kişiler için tasarlanmaktadır.
+    ***
+1. **Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?**
+    - A-) Duyarlı web sitesi ile sadece masaüstü tasarımlar oluşturulabilmektedir.
     - B-) HTML ve CSS olmadan da duyarlı web site tasarımları yapılabilir.
     - C-) Duyarlı web sitesi sadece bazı konularda oluşturulabilmektedir.
-    - **Cevap D-) Farklı ekranlara g&ouml;re esnek boyutlandırmada sınırlı kontrol sunmaktadır.**
+    - **Cevap D-) Farklı ekranlara göre esnek boyutlandırmada sınırlı kontrol sunmaktadır.**
     - E-) Duyarlı web sitelerin analitik sayfalarına eklenmesi daha kolaydır.
-    <hr />
-1. <strong>Farklı boyutlardaki cihazlarda &ouml;zel tasarımlar yapabilmeyi sağlayan esnek yapılı tasarım aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Farklı boyutlardaki cihazlarda özel tasarımlar yapabilmeyi sağlayan esnek yapılı tasarım aşağıdakilerden hangisidir?**
     - **Cevap A-) Uyarlanabilir Tasarım**
     - B-) Duyarlı Tasarım
     - C-) Uyarlı ve Duyarlı Tasarım
-    - D-) Masa&uuml;st&uuml; G&ouml;r&uuml;n&uuml;ml&uuml; Tasarım
+    - D-) Masaüstü Görünümlü Tasarım
     - E-) UX UI Tasarım
-    <hr />
-1. <strong>Aşağıdakilerden hangisi uyarlanabilir (adaptive) tasarımın &ouml;zelliklerinden biridir?</strong>
-    - A-) Tek HTML kodu ve tek site &uuml;zerinden t&uuml;m boyutlar ayarlandığı i&ccedil;in bakımı kolaydır.
-    - **Cevap B-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları &ouml;zelleştirilebilir.**
+    ***
+1. **Aşağıdakilerden hangisi uyarlanabilir (adaptive) tasarımın özelliklerinden biridir?**
+    - A-) Tek HTML kodu ve tek site üzerinden tüm boyutlar ayarlandığı için bakımı kolaydır.
+    - **Cevap B-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları özelleştirilebilir.**
     - C-) HTML ve CSS kodları yazılmadan da uyarlanabilir bir tasarım yapılabilir.
-    - D-) İşitme ve g&ouml;rme engelli kişiler i&ccedil;in uyarlanabilir bir yapıdadır.
-    - E-) &Ccedil;evre kontenjanına uyarlanabilir web siteleri kullanılabilir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi duyarlı ve uyarlanabilir tasarım farklarından biri <u>değildir</u>?</strong>
-    - A-) Cihaz boyutuna g&ouml;re i&ccedil;eriklerin konumlandırılma durumu
-    - B-) Piyasaya yeni bir cihaz &ccedil;ıkarılması halinde duyarlı tasarımlar daha hızlı adapte olabilecektir.
+    - D-) İşitme ve görme engelli kişiler için uyarlanabilir bir yapıdadır.
+    - E-) Çevre kontenjanına uyarlanabilir web siteleri kullanılabilir.
+    ***
+1. **Aşağıdakilerden hangisi duyarlı ve uyarlanabilir tasarım farklarından biri değildir?**
+    - A-) Cihaz boyutuna göre içeriklerin konumlandırılma durumu
+    - B-) Piyasaya yeni bir cihaz çıkarılması halinde duyarlı tasarımlar daha hızlı adapte olabilecektir.
     - **Cevap C-) İki tasarım prensibinin de web sitesini mobil uyumlu hale getirmesi**
-    - D-) Duyarlı web siteleri uyarlanabilir web sitelerine g&ouml;re daha yavaştır.
-    - E-) Uyarlanabilir web siteleri duyarlı web sitelerine g&ouml;re daha esnektir.
-    <hr />
-1. <strong>Mobil uyumlu web site k&uuml;t&uuml;phanelerinden birisi aşağıdakilerden hangisidir?</strong>
+    - D-) Duyarlı web siteleri uyarlanabilir web sitelerine göre daha yavaştır.
+    - E-) Uyarlanabilir web siteleri duyarlı web sitelerine göre daha esnektir.
+    ***
+1. **Mobil uyumlu web site kütüphanelerinden birisi aşağıdakilerden hangisidir?**
     - A-) Unification
     - B-) Summarize
     - **Cevap C-) Foundation**
     - D-) Digitalize
     - E-) Performance
-    <hr />
-1. <strong>Aşağıdakilerden hangisi uyarlanabilir tasarım &ouml;zelliklerinden biridir?</strong>
-    - **Cevap A-) JavaScript kodları, uyarlanabilir tasarımlarda web site bileşenlerini kontrol etmek i&ccedil;in kullanılabilir.**
-    - B-) Duyarlı tasarım farklı cihazlarda benzer bir tasarım d&uuml;zeni sunmaktadır.
-    - C-) Farklı ekranlara g&ouml;re farklı d&uuml;zenlemeler yapılamaz.
+    ***
+1. **Aşağıdakilerden hangisi uyarlanabilir tasarım özelliklerinden biridir?**
+    - **Cevap A-) JavaScript kodları, uyarlanabilir tasarımlarda web site bileşenlerini kontrol etmek için kullanılabilir.**
+    - B-) Duyarlı tasarım farklı cihazlarda benzer bir tasarım düzeni sunmaktadır.
+    - C-) Farklı ekranlara göre farklı düzenlemeler yapılamaz.
     - D-) Belirli bir hedef kitlesi yoktur.
-    - E-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları &ouml;zelleştirilemez.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması h&acirc;linde arka plan rengini sarı yapan koddur?</strong>
+    - E-) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları özelleştirilemez.
+    ***
+1. **Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması hâlinde arka plan rengini sarı yapan koddur?**
     - A-) @media only screen and (max-with: 250px) {body {background-color:red;}}
     - **Cevap B-) @media only screen and (max-with: 250px) {body {background-color:yellow;}}**
     - C-) @media only screen and (min-with: 250px) {body {background-color:yellow;}}
     - D-) screen and (max-with: 250px) {body {background-color:yellow;}}
     - E-) @media only screen and (max-with: 250px)
-    <hr />
-1. CSS kodlarının sıfırdan yazılması yerine hazır CSS k&uuml;t&uuml;phaneleri kullanılmaktadır.<br />
-<strong>Aşağıdakilerden hangisi CSS k&uuml;t&uuml;phanesine &ouml;rnek <u>değildir</u>?</strong>
+    ***
+1. CSS kodlarının sıfırdan yazılması yerine hazır CSS kütüphaneleri kullanılmaktadır.<br />**Aşağıdakilerden hangisi CSS kütüphanesine örnek değildir?**
     - **Cevap A-) HTML**
     - B-) Bootstrap
     - C-) Semantic - UI
     - D-) Foundation
     - E-) Materialize
-    <hr />
-1. <strong>Tasarlanan web sitelerinin mobil uyumlu olduğunu test etmek i&ccedil;in aşağıdaki işlemlerden hangisi yapılır?</strong>
-    - A-) Masa&uuml;st&uuml; tasarımları kontrol edilebilir.
-    - B-) Tasarımlarda H5 gibi k&uuml;&ccedil;&uuml;k başlık stilleri kullanılabilir.
-    - C-) Tasarımlarda 50x50 px&rsquo;i ge&ccedil;meyecek şekilde resimler kullanılabilir.
-    - D-) Tasarımlarda logonun b&uuml;y&uuml;kl&uuml;ğ&uuml; her zaman 70px altında ise site mobil uyumludur.
+    ***
+1. **Tasarlanan web sitelerinin mobil uyumlu olduğunu test etmek için aşağıdaki işlemlerden hangisi yapılır?**
+    - A-) Masaüstü tasarımları kontrol edilebilir.
+    - B-) Tasarımlarda H5 gibi küçük başlık stilleri kullanılabilir.
+    - C-) Tasarımlarda 50x50 px’i geçmeyecek şekilde resimler kullanılabilir.
+    - D-) Tasarımlarda logonun büyüklüğü her zaman 70px altında ise site mobil uyumludur.
     - **Cevap E-) Mobil uyumluluk test siteleri kullanılabilir.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi mobil uyumluluk testi i&ccedil;in kullanılan sitelerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi mobil uyumluluk testi için kullanılan sitelerden biri değildir?**
     - A-) search.google.com/test/mobile-friendly
     - B-) responsivedesignchecker.com
     - C-) ami.responsivedesign.is/
     - D-) responsivetesttool.com/
     - **Cevap E-) google.com/userfriendly**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi @media etiketinde kullanılan medya tipleri arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi @media etiketinde kullanılan medya tipleri arasında yer almaz?**
     - A-) Screen
     - B-) Tty
     - C-) Tv
     - D-) Projection
     - **Cevap E-) Bootstrap**
-    <hr />
-1. I. Semantic &ndash; UI<br />
-II.&nbsp;Foundation<br />
-III. Materialize<br />
-IV.&nbsp;UI Kit<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;CSS Framework k&uuml;t&uuml;phaneleri arasında yer alır?</strong>
+    ***
+1. I. Semantic – UI<br />II. Foundation<br />III. Materialize<br />IV. UI Kit<br />**Yukarıdakilerden hangisi ya da hangileri CSS Framework kütüphaneleri arasında yer alır?**
     - A-) I, II ve III
     - B-) I, II ve IV
     - C-) I, III ve IV
     - D-) II, III ve IV
     - **Cevap E-) I, II, III ve IV**
-    <hr />
+    ***
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi &quot;&ccedil;apraz tarayıcı uyumluluğu sorununun yaygın nedenleri&quot; arasında <u>yer almaz</u>?</strong>
+1. **Aşağıdakilerden hangisi "çapraz tarayıcı uyumluluğu sorununun yaygın nedenleri" arasında yer almaz?**
     - A-) DOCTYPE kullanımı
-    - B-) Tarayıcıya &ouml;zel CSS kullanımı
+    - B-) Tarayıcıya özel CSS kullanımı
     - C-) CSS sıfırlama
     - **Cevap D-) Yeni tarayıcı algılama**
     - E-) Eski tarayıcı algılama
-    <hr />
-1. <strong>&Ccedil;apraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi davranış uyumluluğunu ifade eder?</strong>
-    - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
-    - B-) CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eder.
-    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder. Ayrıca mobil cihazın yatay veya dikey &ccedil;evrilmesi sonucundaki oluşacak g&ouml;r&uuml;nt&uuml;y&uuml; de kontrol eder.
+    ***
+1. **Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi davranış uyumluluğunu ifade eder?**
+    - A-) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.
+    - B-) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.
+    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder. Ayrıca mobil cihazın yatay veya dikey çevrilmesi sonucundaki oluşacak görüntüyü de kontrol eder.
     - D-) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.
-    - **Cevap E-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. &Ouml;rneğin sitede bir butona tıklandığında yeni pencerede bir sayfa a&ccedil;ılıyorsa bu işlemin b&uuml;t&uuml;n tarayıcılarda ger&ccedil;ekleşip ger&ccedil;ekleşmediğini kontrol eder.**
-    <hr />
-1. <strong>&Ccedil;apraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi kod uyumluluğunu ifade eder?</strong>
-    - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
-    - **Cevap B-) CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eder.**
-    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder.
+    - **Cevap E-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder.**
+    ***
+1. **Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi kod uyumluluğunu ifade eder?**
+    - A-) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.
+    - **Cevap B-) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.**
+    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder.
     - D-) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.
     - E-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğu ile alakalı <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğu ile alakalı değildir?**
     - **Cevap A-) PHP**
     - B-) JavaScript
     - C-) CSS
     - D-) HTML
     - E-) CSS3
-    <hr />
-1. <strong>Aşağıdakilerden hangisi d&uuml;nyada en &ccedil;ok kullanılan tarayıcılardan biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi dünyada en çok kullanılan tarayıcılardan biri değildir?**
     - A-) Chrome
     - B-) Firefox
     - C-) Internet Explorer
     - D-) Opera
     - **Cevap E-) Xcode**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel ama&ccedil;ları arasında yer alır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?**
     - A-) Yeni yazılım dili oluşturmak
     - B-) Teknoloji firmaları arasındaki rekabeti artırmak
-    - C-) B&uuml;y&uuml;k teknolojik firmaları korumak
-    - **Cevap D-) Web alanında standartlar oluşturmak**
-    - E-) İnterneti d&uuml;nyaya yaymak
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğundaki etkenlerden biridir?</strong>
+    - C-) Büyük teknolojik firmaları korumak
+    - **Cevap D-) Web alanında standartlar oluşturmak&lt;br type="\_moz" />**
+    - E-) İnterneti dünyaya yaymak
+    ***
+1. **Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğundaki etkenlerden biridir?**
     - A-) Kullanıcının işlemcisi
     - B-) Kullanıcının ana kartı
     - C-) Kullanıcının ekran kartı
     - D-) Sunucunun işlemcisi
     - **Cevap E-) Kullanıcının işletim sistemi**
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;. bir web sitesinin herhangi bir tarayıcıda beklendiği gibi &ccedil;alışıp &ccedil;alışmadığı anlamına gelir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) &Ccedil;apraz tarayıcı uyumluluğu**
+    ***
+1. …………. bir web sitesinin herhangi bir tarayıcıda beklendiği gibi çalışıp çalışmadığı anlamına gelir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Çapraz tarayıcı uyumluluğu**
     - B-) Yazılım dili
     - C-) JavaScript
     - D-) CSS3
     - E-) HTML5
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğu par&ccedil;alarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğu parçalarından biri değildir?**
     - A-) Kod uyumluluğu
     - **Cevap B-) İşlemci uyumluluğu**
-    - C-) Ara y&uuml;z uyumluluğu
+    - C-) Ara yüz uyumluluğu
     - D-) Davranış uyumluluğu
     - E-) Mobil uyumluluk
-    <hr />
-1. I. DOCTYPE Kullanımı<br />
-II. CSS Sıfırlama<br />
-III. HTML kodlarının doğru şekilde kullanımı<br />
-IV. Eski teknolojiler kullanmak<br />
-<strong>Yukardakilerden hangisi ya da hangileri &ccedil;apraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?</strong>
+    ***
+1. I. DOCTYPE Kullanımı<br />II. CSS Sıfırlama<br />III. HTML kodlarının doğru şekilde kullanımı<br />IV. Eski teknolojiler kullanmak<br />**Yukardakilerden hangisi ya da hangileri çapraz tarayıcı uyumluluğu sorunlarının yaygın nedenleri arasında yer alır?**
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I, II ve III**
     - D-) I ve III
     - E-) Yalnız IV
-    <hr />
-1. <strong>Aşağıdaki tarayıcılardan hangisi CSS&rsquo;de &ldquo;-moz&rdquo; &ouml;n ekini kullanmaktadır?</strong>
+    ***
+1. **Aşağıdaki tarayıcılardan hangisi CSS’de “-moz” ön ekini kullanmaktadır?**
     - **Cevap A-) Firefox**
     - B-) Edge
     - C-) Internet Explorer
     - D-) Chrome
     - E-) Opera
-    <hr />
-1. <strong>Aşağıdakilerden hangisinde HTML de kullanılan &ldquo;BR&rdquo; etiketinin W3C standartlarına g&ouml;re kullanımı doğru verilmiştir?</strong>
-    - A-) &lt;br&gt; &lt;br /&gt;
-    - B-) &lt;br&gt;
-    - **Cevap C-) &lt;br /&gt;**
+    ***
+1. **Aşağıdakilerden hangisinde HTML de kullanılan “BR” etiketinin W3C standartlarına göre kullanımı doğru verilmiştir?**
+    - A-) &lt;br> &lt;br />
+    - B-) &lt;br>
+    - **Cevap C-) &lt;br />**
     - D-) &lt;/br>
     - E-) br
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;apraz tarayıcı uyumluluğu testlerinde kullanılabilecek ara&ccedil;lardan biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğu testlerinde kullanılabilecek araçlardan biridir?**
     - **Cevap A-) TestComplate**
     - B-) Photoshop
     - C-) Microsoft Word
     - D-) Microsoft Accsess
     - E-) Paint
-    <hr />
-1. <strong>CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eden &ccedil;apraz tarayıcı uyumluluğu test par&ccedil;ası aşağıdakilerden hangisidir?</strong>
+    ***
+1. **CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eden çapraz tarayıcı uyumluluğu test parçası aşağıdakilerden hangisidir?**
     - **Cevap A-) Kod uyumluluğu**
-    - B-) Ara y&uuml;z uyumluluğu
+    - B-) Ara yüz uyumluluğu
     - C-) Davranış uyumluluğu
     - D-) Mobil uyumluluk
     - E-) Performans uyumluluğu
-    <hr />
-1. <strong>Kod uyumluluğu&nbsp;testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) Web sitesinin istenilen şekilde g&ouml;r&uuml;n&uuml;p g&ouml;r&uuml;nmediğini kontrol eder.
+    ***
+1. **Kod uyumluluğu testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - A-) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.
     - B-) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder.
-    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;kteki g&ouml;r&uuml;n&uuml;m&uuml;n&uuml; kontrol eder.
-    - **Cevap D-) CSS ve JavaScript kodlarının farklı tarayıcılarda ge&ccedil;erli olup olmadığını kontrol eder.**
+    - C-) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder.
+    - **Cevap D-) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.**
     - E-) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.
-    <hr />
-1. <strong>Tarayıcıya dok&uuml;manın tip bilgisini sunmak i&ccedil;in kullanılan etiket&nbsp;</strong><strong>aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Tarayıcıya dokümanın tip bilgisini sunmak için kullanılan etiket** **aşağıdakilerden hangisidir?**
     - A-) Browserling
     - **Cevap B-) Doctype**
     - C-) TestComplate
     - D-) Ghostlab
     - E-) Html
-    <hr />
+    ***
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri değildir?**
     - **Cevap A-) Mockminus**
     - B-) Moqups
     - C-) Mockup Builder
     - D-) Origami Studio
     - E-) MockPlus
-    <hr />
-1. <strong>Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan &ccedil;alışmalarda insan g&ouml;z&uuml;n&uuml;n hareket ettiği&nbsp;yolu a&ccedil;ıklamaya &ccedil;alışan tasarım modeli aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan çalışmalarda insan gözünün hareket ettiği yolu açıklamaya çalışan tasarım modeli aşağıdakilerden hangisidir?**
     - A-) Z-Deseni
     - **Cevap B-) Gutenberg**
     - C-) F-Deseni
     - D-) N-Deseni
     - E-) V-Deseni
-    <hr />
-1. <strong>Aşağıdakilerden hangisi WireFrame hazırlama ortamlarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi WireFrame hazırlama ortamlarından biri değildir?**
     - **Cevap A-) Luxery**
     - B-) Wireframe.cc
     - C-) Balsamiq
     - D-) InDesign
     - E-) Axure
-    <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;</strong><strong>Wireframe kullanmanın faydaları i&ccedil;in <u>yanlıştır</u>?</strong>
-    - A-) Web siteniz veya &uuml;r&uuml;n&uuml;n&uuml;z hakkında &ouml;n konuşmalarda &ccedil;ok yardımcı olur ve g&ouml;r&uuml;len durumların değiştirilmesini kolaylaştırır.
-    - B-) Wireframe &ccedil;alışmasından sonra yazılıma ge&ccedil;mek, daha belirgin kuralları takip etmenizi sağlar.
-    - C-) Wireframe aşamasında yapılan değişiklikler, kodlama başladıktan sonra gerekli g&ouml;r&uuml;len değişikliklerden &ccedil;ok daha kolay ve dolayısıyla daha ucuzdur.
-    - D-) Taslak &ccedil;alışmaların yardımı ile fikir ve tasarımın her aşamasında son kullanıcılarla test edebilirsiniz.
-    - **Cevap E-) Bir model &ccedil;er&ccedil;evesinde uygulanacak alan tasarımın y&uuml;zeyde nasıl g&ouml;r&uuml;neceğinin belirlenmesi amacıyla kullanılır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisinin en temel amacı sitedeki hiyerarşiyi d&uuml;zenlemektir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi** **Wireframe kullanmanın faydaları için yanlıştır?**
+    - A-) Web siteniz veya ürününüz hakkında ön konuşmalarda çok yardımcı olur ve görülen durumların değiştirilmesini kolaylaştırır.
+    - B-) Wireframe çalışmasından sonra yazılıma geçmek, daha belirgin kuralları takip etmenizi sağlar.
+    - C-) Wireframe aşamasında yapılan değişiklikler, kodlama başladıktan sonra gerekli görülen değişikliklerden çok daha kolay ve dolayısıyla daha ucuzdur.
+    - D-) Taslak çalışmaların yardımı ile fikir ve tasarımın her aşamasında son kullanıcılarla test edebilirsiniz.
+    - **Cevap E-) Bir model çerçevesinde uygulanacak alan tasarımın yüzeyde nasıl görüneceğinin belirlenmesi amacıyla kullanılır.**
+    ***
+1. **Aşağıdakilerden hangisinin en temel amacı sitedeki hiyerarşiyi düzenlemektir?**
     - A-) Tipografi
     - B-) InVision
     - C-) Mock-Up
     - **Cevap D-) Wireframe**
     - E-) prototip
-    <hr />
-1. <strong>Aşağıdaki tasarım ortamlarından hangisi web tabanlıdır?</strong>
+    ***
+1. **Aşağıdaki tasarım ortamlarından hangisi web tabanlıdır?**
     - A-) InDesign
     - B-) Axure
     - **Cevap C-) Wireframe.cc**
     - D-) Adobe XD
     - E-) InVision Studio
-    <hr />
-1. <strong>F-Deseni tasarım modeli i&ccedil;in aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
-    - A-) Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan &ccedil;alışmalarda insan g&ouml;z&uuml;n&uuml;n hareket ettiği yolu a&ccedil;ıklamaya &ccedil;alışmıştır
-    - B-) Sadece metin odaklı olmayan, i&ccedil;eriğe g&ouml;re uzayıp kısalabilen sayfa veya ekranlarda kullanılır
-    - **Cevap C-) Yoğun i&ccedil;erik bloklarının kullanıldığı durumlarda insan g&ouml;z&uuml;n&uuml;n bu blokları tararken hareket ettiği yolu a&ccedil;ıklamaya &ccedil;alışmıştır**
-    - D-) Kullanıcının g&ouml;zleri bu modele g&ouml;re hareket ettiğinde, ekranda hayali bir &ldquo;Z&rdquo; şekli oluşturur
-    - E-) Kullanıcının g&ouml;zleri ile izlediği bu yolu referans alarak tasarım alanını d&ouml;rde ayırmıştır
-    <hr />
-1. <strong>Aşağıdakilerden hangisi daha basit olan ve az sayıdaki i&ccedil;eriğin g&ouml;sterilmesinin ama&ccedil;landığı tasarımlar i&ccedil;in kullanılan tasarım modelidir?</strong>
+    ***
+1. **F-Deseni tasarım modeli için aşağıdakilerden hangisi söylenebilir?**
+    - A-) Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan çalışmalarda insan gözünün hareket ettiği yolu açıklamaya çalışmıştır
+    - B-) Sadece metin odaklı olmayan, içeriğe göre uzayıp kısalabilen sayfa veya ekranlarda kullanılır
+    - **Cevap C-) Yoğun içerik bloklarının kullanıldığı durumlarda insan gözünün bu blokları tararken hareket ettiği yolu açıklamaya çalışmıştır**
+    - D-) Kullanıcının gözleri bu modele göre hareket ettiğinde, ekranda hayali bir “Z” şekli oluşturur
+    - E-) Kullanıcının gözleri ile izlediği bu yolu referans alarak tasarım alanını dörde ayırmıştır
+    ***
+1. **Aşağıdakilerden hangisi daha basit olan ve az sayıdaki içeriğin gösterilmesinin amaçlandığı tasarımlar için kullanılan tasarım modelidir?**
     - **Cevap A-) Z-Deseni Tasarım Modeli**
     - B-) F-Deseni Tasarım Modeli
     - C-) Gutenberg Diyagramı Tasarım Modeli
-    - D-) Altın &Uuml;&ccedil;gen Deseni
+    - D-) Altın Üçgen Deseni
     - E-) Odak Noktaları Tasarım Modeli
-    <hr />
-1. <strong>Tipografi aşağıdakilerden hangisi ile <u>ilgilenmez</u>?</strong>
+    ***
+1. **Tipografi aşağıdakilerden hangisi ile ilgilenmez?**
     - A-) Metin stilleri
     - B-) Metin boyutlar
-    - **Cevap C-) Metin i&ccedil;eriği**
+    - **Cevap C-) Metin içeriği**
     - D-) Metinlerin konumu
     - E-) Metin aralığı
-    <hr />
-1. <strong>Facebook tarafından geliştirilen Mock-up hazırlama ortamı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Facebook tarafından geliştirilen Mock-up hazırlama ortamı aşağıdakilerden hangisidir?**
     - **Cevap A-) Origami Studio**
     - B-) Mockup Builder
     - C-) Moqups
     - D-) MockPlus
     - E-) Sketch
-    <hr />
-1. <strong>Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biridir?</strong>
-    - A-) Tasarım s&uuml;resini kısaltmak
+    ***
+1. **Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biridir?**
+    - A-) Tasarım süresini kısaltmak
     - B-) Metinsel ifadelerin stillerini belirlemek
-    - C-) Web sitesinin &ouml;zelliklerini belirlemek
+    - C-) Web sitesinin özelliklerini belirlemek
     - **Cevap D-) Hataların tespit edilmesini kolaylaştırmak**
     - E-) Tasarım maliyetini azaltmak
-    <hr />
-1. <strong>Bir web sitesinin tasarım aşamaları sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
+    ***
+1. **Bir web sitesinin tasarım aşamaları sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?**
     - A-) MockUp - Wireframe - Prototip
     - **Cevap B-) Wireframe - MockUp - Prototip**
     - C-) Prototip - MockUp - Wireframe
     - D-) MockUp - Prototip - Wireframe
     - E-) Wireframe - Prototip - MockUp
-    <hr />
-1. <strong>Aşağıdakilerden hangisi prototip &ccedil;alışmalarının ama&ccedil;larından biridir?</strong>
-    - A-) Arka plan resimleri, simgeler ve diğer dekoratif &ouml;gelerin se&ccedil;imlerini yapmak
+    ***
+1. **Aşağıdakilerden hangisi prototip çalışmalarının amaçlarından biridir?**
+    - A-) Arka plan resimleri, simgeler ve diğer dekoratif ögelerin seçimlerini yapmak
     - **Cevap B-) Web sitesi ve kullanıcı arasındaki etkileşim eksikliklerini ve hatalarını keşfetmek**
-    - C-) Web sitesi i&ccedil;in oluşturulmuş olan y&ouml;nlendirmelerin nasıl g&ouml;r&uuml;neceğini belirlemek
-    - D-) Web sitesinde bulunması gereken &ouml;zellikleri belirlemek
-    - E-) Sayfalar arasındaki ge&ccedil;işleri belirlemek
-    <hr />
-1. <strong>Genellikle doğayı ve s&uuml;rd&uuml;r&uuml;lebilirliği &ccedil;ağrıştıran renk aşağıdakilerden hangisidir?</strong>
+    - C-) Web sitesi için oluşturulmuş olan yönlendirmelerin nasıl görüneceğini belirlemek
+    - D-) Web sitesinde bulunması gereken özellikleri belirlemek
+    - E-) Sayfalar arasındaki geçişleri belirlemek
+    ***
+1. **Genellikle doğayı ve sürdürülebilirliği çağrıştıran renk aşağıdakilerden hangisidir?**
     - A-) Turuncu
     - B-) Mavi
     - **Cevap C-) Yeşil**
     - D-) Kahverengi
     - E-) Kırmızı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi prototip &ccedil;alışmalarının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi prototip çalışmalarının amaçlarından biri değildir?**
     - A-) Web sitesi ve kullanıcı arasındaki etkileşim eksikliklerini ve hatalarını keşfetmek
     - B-) Farklı tasarım fikirlerini kolayca karşılaştırabilmek
-    - **Cevap C-) Geliştirilen web sitesinde bulunması gereken &ouml;zellikleri belirlemek**
-    - D-) &Uuml;r&uuml;n&uuml;n s&ouml;zel olarak anlatılması zor olan &ouml;zelliklerini de i&ccedil;eren bir sunum olarak da kullanmak
+    - **Cevap C-) Geliştirilen web sitesinde bulunması gereken özellikleri belirlemek**
+    - D-) Ürünün sözel olarak anlatılması zor olan özelliklerini de içeren bir sunum olarak da kullanmak
     - E-) Kullanıcılara fikrin kolay aktarılabilmesi sebebiyle geri bildirim toplamayı kolaylaştırmak
-    <hr />
-1. <strong>Aşağıdakilerden hangisi oluşturduğunuz prototipi size html, css ve ilişkili javascript kodları ile tamamlanmış bir web sitesi şeklinde hazır getirebilir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi oluşturduğunuz prototipi size html, css ve ilişkili javascript kodları ile tamamlanmış bir web sitesi şeklinde hazır getirebilir?**
     - A-) Balsamiq
     - **Cevap B-) webFlow**
     - C-) InDesign
     - D-) Adobe XD
     - E-) Sketch
-    <hr />
-1. <strong>Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri değildir?**
     - A-) Hata tespiti yapar.
-    - B-) &Ccedil;alışmanın tamamının g&ouml;zden ge&ccedil;irilmesine imk&acirc;n sağlar.
-    - C-) Ortak &ccedil;alışma verimliliğini artırır.
-    - D-) Geliştirme s&uuml;recini taleplere uygun şekilde planlar.
+    - B-) Çalışmanın tamamının gözden geçirilmesine imkân sağlar.
+    - C-) Ortak çalışma verimliliğini artırır.
+    - D-) Geliştirme sürecini taleplere uygun şekilde planlar.
     - **Cevap E-) Tasarım maliyetini azaltır.**
-    <hr />
-1. <strong>UX tasarımcıları tarafından kullanılan ve bir web sitesi, uygulama veya &uuml;r&uuml;n i&ccedil;in tasarımlarının bilgi hiyerarşisini tanımlamalarına ve planlamalarına olanak tanıyan uygulama aşağıdakilerden hangisidir?</strong>
-    - A-) &Uuml;r&uuml;n
+    ***
+1. **UX tasarımcıları tarafından kullanılan ve bir web sitesi, uygulama veya ürün için tasarımlarının bilgi hiyerarşisini tanımlamalarına ve planlamalarına olanak tanıyan uygulama aşağıdakilerden hangisidir?**
+    - A-) Ürün
     - B-) Tipografi
     - C-) Prototiper
     - D-) Mockup
     - **Cevap E-) WireFrame**
-    <hr />
+    ***

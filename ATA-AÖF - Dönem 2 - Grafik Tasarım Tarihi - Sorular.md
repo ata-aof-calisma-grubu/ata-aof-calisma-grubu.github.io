@@ -1,1964 +1,1829 @@
-# Grafik Tasarım Tarihi
+# Grafik Tasarım Tarihi (Dönem 2) - Tüm Sorular
+
 ## Unite 1
-1. <strong>Aşağıdakilerden hangisi Arts and Crafts Hareketi&rsquo;nin temel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) End&uuml;stri toplumunun anlayışına karşı gelen bir tavır ortaya koyar.
-    - B-) Tasarım ve duyarsızlaşan toplum i&ccedil;in estetik bir g&ouml;r&uuml;ş sağlamayı ama&ccedil;lamaktadır.
-    - C-) Grafik tasarıma tipografi ve ill&uuml;strasyon şeklinde karakterler i&ccedil;eren bir iletişim misyonu y&uuml;klemiştir.
-    - D-) Sanat&ccedil;ı ve tasarımcıların fikirlerinin halka iletilmesinde bir aracı konumunu &uuml;stlenir.
-    - **Cevap E-) Sosyalist d&uuml;ş&uuml;nce esasında estetik kaygıyı merkez alan Almanya temelli bir sanat hareketidir.**
-    <hr />
-1. &ldquo;Modern grafik tasarım bağlamında atılan ilk temel olarak nitelendirilen &hellip;&hellip;&hellip;&hellip;&hellip;.., yaklaşım &ccedil;er&ccedil;evesinde bir gelenekten kopma s&uuml;recini ifade etmektedir.&rdquo;<br />
-<strong>Aşağıdakilerden hangisi yukarıda a&ccedil;ıklanan ifadedeki boşluğa yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>
-    - A-) Konstr&uuml;ktivizm
+1. **Aşağıdakilerden hangisi Arts and Crafts Hareketi’nin temel özelliklerinden biri değildir?**
+    - A-) Endüstri toplumunun anlayışına karşı gelen bir tavır ortaya koyar.
+    - B-) Tasarım ve duyarsızlaşan toplum için estetik bir görüş sağlamayı amaçlamaktadır.
+    - C-) Grafik tasarıma tipografi ve illüstrasyon şeklinde karakterler içeren bir iletişim misyonu yüklemiştir.
+    - D-) Sanatçı ve tasarımcıların fikirlerinin halka iletilmesinde bir aracı konumunu üstlenir.
+    - **Cevap E-) Sosyalist düşünce esasında estetik kaygıyı merkez alan Almanya temelli bir sanat hareketidir.**
+    ***
+1. “Modern grafik tasarım bağlamında atılan ilk temel olarak nitelendirilen …………….., yaklaşım çerçevesinde bir gelenekten kopma sürecini ifade etmektedir.”<br />**Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluğa yerleştirildiğinde doğru bir tanım ortaya koymaktadır?**
+    - A-) Konstrüktivizm
     - B-) Japon Ukiyo-e Baskıları
     - C-) Bauhaus
     - **Cevap D-) Art Nouveau Hareketi**
     - E-) Alman Ekspresyonizmi
-    <hr />
-1. &ldquo;Şimdiye kadar, edebiyat, d&uuml;ş&uuml;nceli, dalgın, hareketsiz (sabit), kendinden ge&ccedil;en coşkunluk ve uyku halini y&uuml;celtmiştir. Biz, saldırgan eylemi, harareti, uykusuzluğu, yarış&ccedil;ının uzun adımlarını, &ouml;l&uuml;mc&uuml;l sı&ccedil;ramayı, yumruğu ve tokadı y&uuml;celtmeyi ama&ccedil;lıyoruz. Biz, d&uuml;nyanın ihtişamını, yeni bir g&uuml;zellik olan hız g&uuml;zelliğinin zenginleştireceğini s&ouml;yl&uuml;yoruz&hellip; Biz, m&uuml;zeleri, k&uuml;t&uuml;phaneleri, her &ccedil;eşit akademileri yok edeceğiz, ahlak&ccedil;ılıkla, feminizmle, faydacıl korkaklıkla m&uuml;cadele edeceğiz&rdquo;.<br />
-<strong>Aşağıdakilerden hangisi yukarıda a&ccedil;ıklanan bir modern sanat hareketi ifadesini yansıtmaktadır?</strong>
-    - A-) Konstr&uuml;ktivizm
+    ***
+1. “Şimdiye kadar, edebiyat, düşünceli, dalgın, hareketsiz (sabit), kendinden geçen coşkunluk ve uyku halini yüceltmiştir. Biz, saldırgan eylemi, harareti, uykusuzluğu, yarışçının uzun adımlarını, ölümcül sıçramayı, yumruğu ve tokadı yüceltmeyi amaçlıyoruz. Biz, dünyanın ihtişamını, yeni bir güzellik olan hız güzelliğinin zenginleştireceğini söylüyoruz… Biz, müzeleri, kütüphaneleri, her çeşit akademileri yok edeceğiz, ahlakçılıkla, feminizmle, faydacıl korkaklıkla mücadele edeceğiz”.<br />**Aşağıdakilerden hangisi yukarıda açıklanan bir modern sanat hareketi ifadesini yansıtmaktadır?**
+    - A-) Konstrüktivizm
     - B-) Dadaizm
-    - **Cevap C-) F&uuml;t&uuml;rizm**
-    - D-) S&uuml;prematizm
+    - **Cevap C-) Fütürizm**
+    - D-) Süprematizm
     - E-) Ekspresyonizm
-    <hr />
-1. <strong>Yeni Tipografi&rsquo;nin ilkelerinin tanımlanmasında ve yayılmasında merkez kabul edilen isim aşağıdakilerin hangisidir?</strong>
+    ***
+1. **Yeni Tipografi’nin ilkelerinin tanımlanmasında ve yayılmasında merkez kabul edilen isim aşağıdakilerin hangisidir?**
     - **Cevap A-) Jan Tschichold**
     - B-) Kazimir Malevich
     - C-) Otto Neurath
     - D-) Tristan Tzara
     - E-) Gerd Arntz
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Amerika Birleşik Devletleri&rsquo;nde yaşanan Wall Street Ekonomik Kriz d&ouml;nemini a&ccedil;ıklamaktadır?</strong>
-    - A-) 19. y&uuml;zyılın başı
-    - B-) 20. y&uuml;zyılın başı
-    - **Cevap C-) 20. y&uuml;zyılın ikinci &ccedil;eyreği**
-    - D-) 19. y&uuml;zyılın &uuml;&ccedil;&uuml;nc&uuml; &ccedil;eyreği
-    - E-) 20. y&uuml;zyılın sonu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bilgilendirme Tasarımı Disiplini&#39;nin başlıca temsilcileri arasında yer almaktadır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Amerika Birleşik Devletleri’nde yaşanan Wall Street Ekonomik Kriz dönemini açıklamaktadır?**
+    - A-) 19\. yüzyılın başı
+    - B-) 20\. yüzyılın başı
+    - **Cevap C-) 20\. yüzyılın ikinci çeyreği**
+    - D-) 19\. yüzyılın üçüncü çeyreği
+    - E-) 20\. yüzyılın sonu
+    ***
+1. **Aşağıdakilerden hangisi Bilgilendirme Tasarımı Disiplini'nin başlıca temsilcileri arasında yer almaktadır?**
     - A-) Otto Neurath, Kurt Schwitters
     - B-) Moholy-Nagy, Piet Zwart
     - C-) Moholy-Nagy, Gerd Arntz
     - **Cevap D-) Otto Neurath, Gerd Arntz**
     - E-) El Lissitzky, Gerd Arntz
-    <hr />
-1. <strong>Aşağıdakilerden hangisi modern tasarım hareketi Art Deco&rsquo;nun temel yaklaşımlarından biri <u>değildir</u>?</strong>
-    - **Cevap A-) Yuvarlak diyagonal &ccedil;izgiler**
+    ***
+1. **Aşağıdakilerden hangisi modern tasarım hareketi Art Deco’nun temel yaklaşımlarından biri değildir?**
+    - **Cevap A-) Yuvarlak diyagonal çizgiler**
     - B-) Yalınlık
     - C-) Simetri
     - D-) İki boyutluluk
     - E-) Geometri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 19. y&uuml;zyıl sonu ve 20. y&uuml;zyıl modern grafik sanat tarihinde yeni bir d&ouml;nemin başlangıcını tanımlamasının yanında Vincent van Gogh, Claude Monet, Degas, Toulouse-Lautrec gibi sanat&ccedil;ılar &uuml;zerinde etki g&ouml;steren bir hareketi ifade etmektedir?</strong>
-    - A-) İsvi&ccedil;re Tasarım Okulu
+    ***
+1. **Aşağıdakilerden hangisi 19. yüzyıl sonu ve 20. yüzyıl modern grafik sanat tarihinde yeni bir dönemin başlangıcını tanımlamasının yanında Vincent van Gogh, Claude Monet, Degas, Toulouse-Lautrec gibi sanatçılar üzerinde etki gösteren bir hareketi ifade etmektedir?**
+    - A-) İsviçre Tasarım Okulu
     - B-) Arts and Crafts Hareketi
     - **Cevap C-) Japon Ukiyo-e Baskıları**
     - D-) Fransız Art Nouveau Hareketi
     - E-) De Stijl
-    <hr />
-1. <strong>End&uuml;stri toplumunun anlayışına tepkisel bir tavır ortaya koyarak tasarımda estetik bir yapılanma sağlayan İngiltere temelli sanat hareketi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Endüstri toplumunun anlayışına tepkisel bir tavır ortaya koyarak tasarımda estetik bir yapılanma sağlayan İngiltere temelli sanat hareketi aşağıdakilerden hangisidir?**
     - **Cevap A-) Arts and Crafts Hareketi**
-    - B-) S&uuml;prematizm
+    - B-) Süprematizm
     - C-) Yeni Tipografi
-    - D-) Konstr&uuml;ktivizm
+    - D-) Konstrüktivizm
     - E-) Bilgilendirme Tasarımı
-    <hr />
-1. &ldquo;Uluslararası Art Nouveau modern sanat hareketinin Almanya&rsquo;da &hellip;&hellip;&hellip;&hellip;.., Avusturya&rsquo;da &hellip;&hellip;&hellip;&hellip;&hellip;., İtalya&rsquo;da &hellip;&hellip;&hellip;.&hellip;&hellip;., İspanya&rsquo;da &hellip;.&hellip;&hellip;&hellip;&hellip;, Hollanda&rsquo;da &hellip;&hellip;&hellip;&hellip;.., şeklinde tanımlanması, farklı dil ve kimliklerde anlayışını g&ouml;stermesine dayandırılmaktadır.&rdquo;<br />
-<strong>Aşağıdakilerden hangisi yukarıda a&ccedil;ıklanan ifadedeki boşluklara sırasıyla yerleştirildiğinde doğru bir tanım ortaya koymaktadır?</strong>
-    - A-) &ldquo;Jugendstil&rdquo; (Gen&ccedil;lik tarzı), &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık), &ldquo;Stile Liberty&rdquo;, &ldquo;Nieuwe Kunst&rdquo;, &ldquo;Modernista&rdquo;
-    - B-) &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık), &ldquo;Stile Liberty&rdquo;, &ldquo;Jugendstil&rdquo; (Gen&ccedil;lik tarzı), &ldquo;Nieuwe Kunst&rdquo;, &ldquo;Modernista&rdquo;
-    - C-) &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık), &ldquo;Jugendstil&rdquo; (Gen&ccedil;lik tarzı), &ldquo;Nieuwe Kunst&rdquo;, &ldquo;Modernista&rdquo;, &ldquo;Stile Liberty&rdquo;
-    - D-) &ldquo;Nieuwe Kunst&rdquo;, &ldquo;Modernista&rdquo;, &ldquo;Stile Liberty&rdquo;, &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık), &ldquo;Jugendstil&rdquo; (Gen&ccedil;lik tarzı)
-    - **Cevap E-) &ldquo;Jugendstil&rdquo; (Gen&ccedil;lik tarzı), &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık), &ldquo;Stile Liberty&rdquo;, &ldquo;Modernista&rdquo;, &ldquo;Nieuwe Kunst&rdquo;**
-    <hr />
-1. <strong>Tarihsel olarak 1890&rsquo;ların ortalarında kullanımı ivmelenen renkli litografinin grafik &uuml;r&uuml;nlerde kullanılmasını Fransız afiş tarzının oluşmasında kaynak olarak kabul eden modern tasarım hareketi aşağıdakilerden hangisidir?</strong>
-    - A-) F&uuml;t&uuml;rizm
+    ***
+1. “Uluslararası Art Nouveau modern sanat hareketinin Almanya’da ………….., Avusturya’da ……………., İtalya’da ……….……., İspanya’da ….…………, Hollanda’da ………….., şeklinde tanımlanması, farklı dil ve kimliklerde anlayışını göstermesine dayandırılmaktadır.”<br />**Aşağıdakilerden hangisi yukarıda açıklanan ifadedeki boşluklara sırasıyla yerleştirildiğinde doğru bir tanım ortaya koymaktadır?**
+    - A-) “Jugendstil” (Gençlik tarzı), “Secession” (Ayrılıkçılık), “Stile Liberty”, “Nieuwe Kunst”, “Modernista”
+    - B-) “Secession” (Ayrılıkçılık), “Stile Liberty”, “Jugendstil” (Gençlik tarzı), “Nieuwe Kunst”, “Modernista”
+    - C-) “Secession” (Ayrılıkçılık), “Jugendstil” (Gençlik tarzı), “Nieuwe Kunst”, “Modernista”, “Stile Liberty”
+    - D-) “Nieuwe Kunst”, “Modernista”, “Stile Liberty”, “Secession” (Ayrılıkçılık), “Jugendstil” (Gençlik tarzı)
+    - **Cevap E-) “Jugendstil” (Gençlik tarzı), “Secession” (Ayrılıkçılık), “Stile Liberty”, “Modernista”, “Nieuwe Kunst”**
+    ***
+1. **Tarihsel olarak 1890’ların ortalarında kullanımı ivmelenen renkli litografinin grafik ürünlerde kullanılmasını Fransız afiş tarzının oluşmasında kaynak olarak kabul eden modern tasarım hareketi aşağıdakilerden hangisidir?**
+    - A-) Fütürizm
     - **Cevap B-) Art Nouveau**
-    - C-) Konstr&uuml;ktivizm
-    - D-) S&uuml;prematizm
+    - C-) Konstrüktivizm
+    - D-) Süprematizm
     - E-) Alman Ekspresyonizmi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi F&uuml;t&uuml;rizm modern sanat hareketinin Filippo Tommaso Marinetti&rsquo;nin manifestosunda ifade edilen bir yaklaşım <u>değildir</u>?</strong>
-    - A-) Değişen 20. y&uuml;zyıl yaşantısının dinamizmini savunur.
-    - B-) Geleneğin sıkı bağlamına savaş a&ccedil;arak yeniye duyulan heyecanı ortaya koyar.
+    ***
+1. **Aşağıdakilerden hangisi Fütürizm modern sanat hareketinin Filippo Tommaso Marinetti’nin manifestosunda ifade edilen bir yaklaşım değildir?**
+    - A-) Değişen 20. yüzyıl yaşantısının dinamizmini savunur.
+    - B-) Geleneğin sıkı bağlamına savaş açarak yeniye duyulan heyecanı ortaya koyar.
     - **Cevap C-) Tipografi, dışavurumcu bir ifade yansıtmamaktadır.**
-    - D-) End&uuml;stri toplumunun yanı sıra bilimin de ortaya koyduğu yeni ger&ccedil;ekliklere karşı, sanat temelli d&uuml;ş&uuml;nce bi&ccedil;imlerinin g&ouml;zden ge&ccedil;irilmesi gerektiğini a&ccedil;ıklar.
-    - E-) Geleneğin yanı sıra işlevsel korkaklığa savaş a&ccedil;ar.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yirminci y&uuml;zyıl modern grafik tasarım anlayışı ve tipografi &ccedil;er&ccedil;evesinde uluslararası bir etki g&ouml;steren konstr&uuml;ktivizmin temsilcilerinden biri <u>değildir</u>?</strong>
+    - D-) Endüstri toplumunun yanı sıra bilimin de ortaya koyduğu yeni gerçekliklere karşı, sanat temelli düşünce biçimlerinin gözden geçirilmesi gerektiğini açıklar.
+    - E-) Geleneğin yanı sıra işlevsel korkaklığa savaş açar.
+    ***
+1. **Aşağıdakilerden hangisi yirminci yüzyıl modern grafik tasarım anlayışı ve tipografi çerçevesinde uluslararası bir etki gösteren konstrüktivizmin temsilcilerinden biri değildir?**
     - A-) El Lissitzky
     - B-) Alexander Rodchenko
     - C-) Vladimir Tatlin
     - **Cevap D-) Kazimir Malevich**
     - E-) Naum Gabo
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 1919 yılında Walter Gropius tarafından yaşamın t&uuml;m&uuml;n&uuml; algılamak amacıyla kurulan Bauhaus Okulu&rsquo;nun temel sonu&ccedil;larından biri <u>değildir</u>?</strong>
-    - A-) Birey, bir kolektif yapı i&ccedil;erisinde değerlendirilmiştir.
-    - B-) End&uuml;stri ve sanat arasında ortak bir bağlantı kurmuştur.
-    - **Cevap C-) Metodolojisinde bilimsel duyarlılığı g&ouml;z ardı etmiştir.**
-    - D-) Bir &ldquo;tasarımcı&rdquo; kimliği ortaya koymuştur.
-    - E-) Grafik tasarım ve reklam end&uuml;strinin gelişimine katkı sağlamıştır.
-    <hr />
-1. <strong>Kurucusu Theo van Doesburg olan ve soyut nesnelcilik temelinde dikd&ouml;rtgen gibi geometrik saflığa odaklanarak doğal bi&ccedil;imleri yok sayan modern tasarım hareketi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi 1919 yılında Walter Gropius tarafından yaşamın tümünü algılamak amacıyla kurulan Bauhaus Okulu’nun temel sonuçlarından biri değildir?**
+    - A-) Birey, bir kolektif yapı içerisinde değerlendirilmiştir.
+    - B-) Endüstri ve sanat arasında ortak bir bağlantı kurmuştur.
+    - **Cevap C-) Metodolojisinde bilimsel duyarlılığı göz ardı etmiştir.**
+    - D-) Bir “tasarımcı” kimliği ortaya koymuştur.
+    - E-) Grafik tasarım ve reklam endüstrinin gelişimine katkı sağlamıştır.
+    ***
+1. **Kurucusu Theo van Doesburg olan ve soyut nesnelcilik temelinde dikdörtgen gibi geometrik saflığa odaklanarak doğal biçimleri yok sayan modern tasarım hareketi aşağıdakilerden hangisidir?**
     - A-) Arts and Crafts Hareketi
     - **Cevap B-) De Stijl**
     - C-) Alman Ekspresyonizmi
-    - D-) F&uuml;t&uuml;rizm
+    - D-) Fütürizm
     - E-) Fransız Art Nouveau Hareketi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ISOTYPE (International System of Typographic Picture Education-Uluslararası Tipografik Resim Eğitimi Sistemi) ifadesinin doğru bir tanımı <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ISOTYPE (International System of Typographic Picture Education-Uluslararası Tipografik Resim Eğitimi Sistemi) ifadesinin doğru bir tanımı değildir?**
     - **Cevap A-) Temsilcileri arasında El Lissitzky ve Alexander Rodchenko vardır.**
-    - B-) Sayısal bilginin g&ouml;rsel bi&ccedil;imde istatistikleştirilmesini ya da veri grafiklerini geliştirmeyi ama&ccedil;layan bir yaklaşıma sahiptir.
-    - C-) Grafik y&ouml;ntemlerdeki devrimci gelişmelerin sonucunda oluşan bir dil olarak a&ccedil;ıklanmaktadır.
-    - D-) Her şeye uygulanan grafik bir y&ouml;ntemi ifade etmektedir.
-    - E-) Yeni bir g&ouml;rsel eğitim metodu olarak bilinir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Uluslararası Tipografi &Uuml;sl&ucirc;p &ccedil;er&ccedil;evesinde tanımlanan yaklaşımlardan biri <u>değildir</u>?</strong>
-    - **Cevap A-) Nesnellikten &ouml;te kişisel ifadeye odaklanmaktadır.**
-    - B-) Problem &ccedil;&ouml;zmenin bilimsel ve evrensel bağlamında bir y&ouml;ntem tanımlamaktadır.
+    - B-) Sayısal bilginin görsel biçimde istatistikleştirilmesini ya da veri grafiklerini geliştirmeyi amaçlayan bir yaklaşıma sahiptir.
+    - C-) Grafik yöntemlerdeki devrimci gelişmelerin sonucunda oluşan bir dil olarak açıklanmaktadır.
+    - D-) Her şeye uygulanan grafik bir yöntemi ifade etmektedir.
+    - E-) Yeni bir görsel eğitim metodu olarak bilinir.
+    ***
+1. **Aşağıdakilerden hangisi Uluslararası Tipografi Üslûp çerçevesinde tanımlanan yaklaşımlardan biri değildir?**
+    - **Cevap A-) Nesnellikten öte kişisel ifadeye odaklanmaktadır.**
+    - B-) Problem çözmenin bilimsel ve evrensel bağlamında bir yöntem tanımlamaktadır.
     - C-) Bilginin topluma aktarılmasında tasarımcıyı nesnel bir aracı olarak nitelemektedir.
-    - D-) Tasarımcıyı bir g&ouml;rsel iletişimci olarak tanımlamaktadır.
-    - E-) İdeal olanı d&uuml;zen ve a&ccedil;ıklık olarak ifade etmektedir.
-    <hr />
-1. I. Yeni bir g&ouml;rselliğin zihinde bi&ccedil;imlenmesi &uuml;zerine anlayış geliştiren Art Nouveau, bir gelenekten kopma s&uuml;recini ifade etmektedir.<br />
-II. Nouveau Hareketi, 20. y&uuml;zyılın başlarında (1905-25) sosyal, k&uuml;lt&uuml;rel, toplumsal, ekonomik gelişimlerin doğrusallığında ortaya &ccedil;ıkmıştır.<br />
-III. Uluslararası Art Nouveau hareketi, bir&ccedil;ok Avrupa &uuml;lkesinde kent merkezli olarak farklı bi&ccedil;imlerde tanımlanmaktadır.<br />
-<strong>Yukarıdaki ifadelerden hangisi ya da hangileri &ldquo; Uluslararası Art Nouveau Hareketi&rdquo; nin genel &ouml;zelliklerini i&ccedil;ermektedir?</strong>
+    - D-) Tasarımcıyı bir görsel iletişimci olarak tanımlamaktadır.
+    - E-) İdeal olanı düzen ve açıklık olarak ifade etmektedir.
+    ***
+1. I. Yeni bir görselliğin zihinde biçimlenmesi üzerine anlayış geliştiren Art Nouveau, bir gelenekten kopma sürecini ifade etmektedir.<br />II. Nouveau Hareketi, 20. yüzyılın başlarında (1905-25) sosyal, kültürel, toplumsal, ekonomik gelişimlerin doğrusallığında ortaya çıkmıştır.<br />III. Uluslararası Art Nouveau hareketi, birçok Avrupa ülkesinde kent merkezli olarak farklı biçimlerde tanımlanmaktadır.<br />**Yukarıdaki ifadelerden hangisi ya da hangileri “ Uluslararası Art Nouveau Hareketi” nin genel özelliklerini içermektedir?**
     - A-) Yalnız I
     - B-) I ve II
     - **Cevap C-) I ve III**
     - D-) II ve III
     - E-) I, II ve III
-    <hr />
-1. <strong>Modern Grafik Tasarım Tarihi ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
-    - **Cevap A-) Tipografiyi okuma ve g&ouml;rme etkinliği olarak irdeleyen S&uuml;prematizm, esasında dışavurumcu bir ifade yansıtmaktadır.**
-    - B-) Bir k&uuml;lt&uuml;rel yenilenme ortaya koyan Arts and Crafts hareketi, sonu&ccedil;sal &ccedil;er&ccedil;evede Art Nouveau hareketinin zeminini oluşturmuştur.
-    - C-) Bir mimari hareket olarak da tanımlanan Konstr&uuml;ktivizm, S&uuml;prematist sanat&ccedil;ıların &ldquo;Sanat sanat i&ccedil;indir.&rdquo; anlayışına karşılık &ldquo;Sanat toplum i&ccedil;indir.&rdquo; g&ouml;r&uuml;ş&uuml;n&uuml; savunmaktadır.
-    - D-) 1920&#39;ler ve 1930&#39;larda etkisini s&uuml;rd&uuml;ren Art Deco yalınlık, simetri, geometri, iki boyutluluk gibi kavramlar temelinde g&ouml;rsel bir dili tanımlar.
-    - E-) Geometrik nesnelerde end&uuml;striyel malzeme kullanımına odaklanan Konstr&uuml;ktivizm, grafik tasarımı toplumun esas kuvveti olarak değerlendirir.
-    <hr />
-1. <strong>Edward Munch&rsquo;un &quot;&Ccedil;ığlık&quot; (Skrik) adlı yağlı boya tablosu hangi modern sanat hareketinin &ouml;ne &ccedil;ıkan eserlerinden biridir?</strong>
+    ***
+1. **Modern Grafik Tasarım Tarihi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?**
+    - **Cevap A-) Tipografiyi okuma ve görme etkinliği olarak irdeleyen Süprematizm, esasında dışavurumcu bir ifade yansıtmaktadır.**
+    - B-) Bir kültürel yenilenme ortaya koyan Arts and Crafts hareketi, sonuçsal çerçevede Art Nouveau hareketinin zeminini oluşturmuştur.
+    - C-) Bir mimari hareket olarak da tanımlanan Konstrüktivizm, Süprematist sanatçıların “Sanat sanat içindir.” anlayışına karşılık “Sanat toplum içindir.” görüşünü savunmaktadır.
+    - D-) 1920'ler ve 1930'larda etkisini sürdüren Art Deco yalınlık, simetri, geometri, iki boyutluluk gibi kavramlar temelinde görsel bir dili tanımlar.
+    - E-) Geometrik nesnelerde endüstriyel malzeme kullanımına odaklanan Konstrüktivizm, grafik tasarımı toplumun esas kuvveti olarak değerlendirir.
+    ***
+1. **Edward Munch’un "Çığlık" (Skrik) adlı yağlı boya tablosu hangi modern sanat hareketinin öne çıkan eserlerinden biridir?**
     - A-) Arts and Crafts Hareketi
     - **Cevap B-) Alman Ekspresyonizmi**
     - C-) Fransız Art Nouveau Hareketi
-    - D-) S&uuml;prematizm
+    - D-) Süprematizm
     - E-) De Stijl
-    <hr />
-1. I. Bauhaus Okulu 1919 yılında Walter Gropius tarafından yaşamın t&uuml;m&uuml;n&uuml; algılamak amacıyla kurulmuştur.<br />
-II. Modern sanat ve tasarımın gereksinimlerine g&ouml;re geliştirilen Bauhaus metodolojisi, bu modern gereksinimlerin kaynağını Batı sanatı geleneklerinden farklılaşmasına dayandırmaktadır.<br />
-III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade bi&ccedil;imini (dışavurum) vurgular.<br />
-<strong>&ldquo;Bauhaus ve Yeni Tipografi&rdquo; ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+    ***
+1. I. Bauhaus Okulu 1919 yılında Walter Gropius tarafından yaşamın tümünü algılamak amacıyla kurulmuştur.<br />II. Modern sanat ve tasarımın gereksinimlerine göre geliştirilen Bauhaus metodolojisi, bu modern gereksinimlerin kaynağını Batı sanatı geleneklerinden farklılaşmasına dayandırmaktadır.<br />III. Bauhaus ve Yeni Tipografi Sanat Hareketi, soyut ve ruhsal bir ifade biçimini (dışavurum) vurgular.<br />**“Bauhaus ve Yeni Tipografi” ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) I ve II**
     - D-) II ve III
     - E-) I, II ve III
-    <hr />
+    ***
 ## Unite 2
-1. Japon Ukiyo-e sanatı baskıları ve resimleri, Edo&rsquo;da 1660&rsquo;dan 1860&rsquo;lara kadar ki d&ouml;nem esnasında &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. olarak b&uuml;y&uuml;k başarı kazanmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) pop&uuml;ler sanat**
+1. Japon Ukiyo-e sanatı baskıları ve resimleri, Edo’da 1660’dan 1860’lara kadar ki dönem esnasında ……………….. olarak büyük başarı kazanmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) popüler sanat**
     - B-) Batı sanatı
     - C-) Doğu sanatı
     - D-) yeni sanat
     - E-) Avrupa sanatı
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.. resimleyen ill&uuml;strasyonlar olarak başlayan ukiyo-e baskıları, kısa zamanda &ccedil;ay evlerini, geyşaları ve belli Kabuki oyuncularını tanıtarak g&uuml;nl&uuml;k yaşam i&ccedil;erisinde kendi yerini bulmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ……………………….. resimleyen illüstrasyonlar olarak başlayan ukiyo-e baskıları, kısa zamanda çay evlerini, geyşaları ve belli Kabuki oyuncularını tanıtarak günlük yaşam içerisinde kendi yerini bulmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Takvimleri
     - **Cevap B-) Hikaye kitaplarını**
-    - C-) Sumo g&uuml;reş&ccedil;ilerini
+    - C-) Sumo güreşçilerini
     - D-) Manzara resimlerini
     - E-) Batı sanatını
-    <hr />
-1. <strong>Japonya sanat&ccedil;ılarından Toshusai Sharaku hangi &ccedil;alışmaları ile tanınmaktadır?</strong>
+    ***
+1. **Japonya sanatçılarından Toshusai Sharaku hangi çalışmaları ile tanınmaktadır?**
     - A-) Afiş
-    - B-) &Ccedil;er&ccedil;eve
+    - B-) Çerçeve
     - C-) Baskı
     - D-) Pano
     - **Cevap E-) Portre ve oyuncu**
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi Japon Ukiyo-e baskı tasarımcılarının kompozisyon anlayışlarından biridir?</strong>
-    - A-) M&uuml;rekkep kullanımındaki hassasiyetleri
+    ***
+1. **Aşağıdaki seçeneklerden hangisi Japon Ukiyo-e baskı tasarımcılarının kompozisyon anlayışlarından biridir?**
+    - A-) Mürekkep kullanımındaki hassasiyetleri
     - B-) Kaligrafi kullanmamaları
     - C-) Rengin kullanımına yazıyı dahil etmeleri
-    - **Cevap D-) Resmin altının izleyiciye en yakın g&ouml;sterilmesi gerektiği**
-    - E-) &Ccedil;izgisel yaklaşıma &ouml;nem vermemeleri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Japon Ukiyo-e Sanatında yer alan kadın fig&uuml;rleriyle ilgili tanımlayıcı bir s&ouml;ylemdir?</strong>
-    - **Cevap A-) Fig&uuml;rler birbirlerine benzerler. Kişiselliği kost&uuml;m ve jestler ortaya koyar.**
-    - B-) Fig&uuml;rler birbirlerine benzemezler ancak kost&uuml;mler aynıdır.
-    - C-) Fig&uuml;rlerde dikkati &ccedil;eken en &ouml;nemli &ouml;zellik fig&uuml;r&uuml;n ifadesidir.
-    - D-) Fig&uuml;rler perspektif kuralları dikkate alınarak yerleştirilmiştir.
-    - E-) Fig&uuml;rlerde renk kullanımı farklıdır.
-    <hr />
-1. <strong>Aşağıdaki Japon Ukiyo-e Sanatı konularından hangisinin teması &ldquo;ge&ccedil;en zamana karşı yaşanan kayıplar, hayal kırıklığı duygusu ve melankoli&rdquo; dir?</strong>
-    - A-) Sumo G&uuml;reş&ccedil;ileri
-    - B-) G&uuml;zel Kadınlar
-    - **Cevap C-) A&ccedil;ık Hava / Manzara**
+    - **Cevap D-) Resmin altının izleyiciye en yakın gösterilmesi gerektiği**
+    - E-) Çizgisel yaklaşıma önem vermemeleri
+    ***
+1. **Aşağıdakilerden hangisi Japon Ukiyo-e Sanatında yer alan kadın figürleriyle ilgili tanımlayıcı bir söylemdir?**
+    - **Cevap A-) Figürler birbirlerine benzerler. Kişiselliği kostüm ve jestler ortaya koyar.**
+    - B-) Figürler birbirlerine benzemezler ancak kostümler aynıdır.
+    - C-) Figürlerde dikkati çeken en önemli özellik figürün ifadesidir.
+    - D-) Figürler perspektif kuralları dikkate alınarak yerleştirilmiştir.
+    - E-) Figürlerde renk kullanımı farklıdır.
+    ***
+1. **Aşağıdaki Japon Ukiyo-e Sanatı konularından hangisinin teması “geçen zamana karşı yaşanan kayıplar, hayal kırıklığı duygusu ve melankoli” dir?**
+    - A-) Sumo Güreşçileri
+    - B-) Güzel Kadınlar
+    - **Cevap C-) Açık Hava / Manzara**
     - D-) Kabuki Tiyatrosu
     - E-) Hikaye Kitapları
-    <hr />
-1. <strong>Aşağıdaki Japon Ukiyo-e Sanatı sanat&ccedil;ılarından hangisi renkli baskıyı geliştirmesiyle tanınır?</strong>
+    ***
+1. **Aşağıdaki Japon Ukiyo-e Sanatı sanatçılarından hangisi renkli baskıyı geliştirmesiyle tanınır?**
     - A-) Toshusai Sharaku
     - B-) Kitagawa Utamaro
     - **Cevap C-) Suzuki Harunobu**
     - D-) Degas
     - E-) Utagawa Hiroshige
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerin hangisi Japon Ukiyo-e Sanatında (tasarım s&uuml;recinin, &ouml;ncesi ve sonrası) d&ouml;rt uzmandan biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdaki seçeneklerin hangisi Japon Ukiyo-e Sanatında (tasarım sürecinin, öncesi ve sonrası) dört uzmandan biri değildir?**
     - A-) Tasarımı Oluşturan Tasarımcı
     - B-) Ağaca Tasarımı Aktaran Oyucu
     - C-) Baskıcı
     - D-) Yayıncı
-    - **Cevap E-) Fig&uuml;r**
-    <hr />
-1. <strong>Japon Ukiyo-e sanatı hangi y&uuml;zyıllar arasında ve nerede gelişmiştir?</strong>
-    - **Cevap A-) 17. y&uuml;zyılın ortasından 19. y&uuml;zyılın ortasına kadar Japonya&rsquo;da**
-    - B-) 15. y&uuml;zyılın başından 17. y&uuml;zyılın ortasına kadar &Ccedil;in&rsquo;de
-    - C-) 16. y&uuml;zyılın sonundan 17. y&uuml;zyılın ortasına kadar Japonya&rsquo;da
-    - D-) 18. y&uuml;zyılın başından 20. y&uuml;zyılın başına kadar &Ccedil;in&rsquo;de
-    - E-) 19. y&uuml;zyıldan 20. y&uuml;zyıla kadar Avrupa&rsquo;da
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Japon Ukiyo-e Baskı Sanatı&#39;nın en &ouml;nemli &ouml;zelliklerinden biridir?</strong>
-    - A-) &Ccedil;izgisel Yaklaşım benimsenmiştir.
+    - **Cevap E-) Figür**
+    ***
+1. **Japon Ukiyo-e sanatı hangi yüzyıllar arasında ve nerede gelişmiştir?**
+    - **Cevap A-) 17\. yüzyılın ortasından 19. yüzyılın ortasına kadar Japonya’da**
+    - B-) 15\. yüzyılın başından 17. yüzyılın ortasına kadar Çin’de
+    - C-) 16\. yüzyılın sonundan 17. yüzyılın ortasına kadar Japonya’da
+    - D-) 18\. yüzyılın başından 20. yüzyılın başına kadar Çin’de
+    - E-) 19\. yüzyıldan 20. yüzyıla kadar Avrupa’da
+    ***
+1. **Aşağıdakilerden hangisi Japon Ukiyo-e Baskı Sanatı'nın en önemli özelliklerinden biridir?**
+    - A-) Çizgisel Yaklaşım benimsenmiştir.
     - B-) Opak renklerin kullanımı yagındır.
-    - **Cevap C-) Japon Ukiyo-e Sanatı, Japon k&uuml;lt&uuml;r&uuml; ve tarihinin g&ouml;rsel belgelerini oluşturmuştur.**
-    - D-) Sanat&ccedil;ıların eserlerinde kullandıkları perspektife yaklaşımları temel alır.
+    - **Cevap C-) Japon Ukiyo-e Sanatı, Japon kültürü ve tarihinin görsel belgelerini oluşturmuştur.**
+    - D-) Sanatçıların eserlerinde kullandıkları perspektife yaklaşımları temel alır.
     - E-) Modern tasarım hareketini etkilememiştir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Ukiyo-e&rsquo;nin başlıca konularından biri <u>değildir</u>?</strong>
-    - A-) G&uuml;zel Kadınlar
-    - B-) Sumo G&uuml;reş&ccedil;ileri
+    ***
+1. **Aşağıdakilerden hangisi Ukiyo-e’nin başlıca konularından biri değildir?**
+    - A-) Güzel Kadınlar
+    - B-) Sumo Güreşçileri
     - C-) Kabuki Tiyatrosu Oyuncuları
     - **Cevap D-) Kadraj**
-    - E-) A&ccedil;ık Hava / Manzara (Peyzaj)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Ukiyo-e&rsquo;nin geliştiği kentin adıdır?</strong>
+    - E-) Açık Hava / Manzara (Peyzaj)
+    ***
+1. **Aşağıdakilerden hangisi Ukiyo-e’nin geliştiği kentin adıdır?**
     - A-) Japonya
     - **Cevap B-) Tokyo (Edo)**
     - C-) Osaka
     - D-) Meiji
     - E-) Okinawa
-    <hr />
-1. &ldquo;İlk &ccedil;ok renkli Ukiyo-e baskıları, karşılıklı değiştirme geleneğinin olduğu Edo&rsquo;daki zengin patronlar grubu i&ccedil;in, sipariş &uuml;zerine yapılan &hellip;&hellip;&hellip;..&hellip;?&rdquo;<br />
-<strong>&Ouml;rnek c&uuml;mle aşağıdaki şıklardan hangisiyle birleştirilirse doğru bilgi vermiş olur?</strong>
+    ***
+1. “İlk çok renkli Ukiyo-e baskıları, karşılıklı değiştirme geleneğinin olduğu Edo’daki zengin patronlar grubu için, sipariş üzerine yapılan ………..…?”<br />**Örnek cümle aşağıdaki şıklardan hangisiyle birleştirilirse doğru bilgi vermiş olur?**
     - **Cevap A-) Takvimlerdir**
     - B-) Posterlerdir
     - C-) Panolardır
-    - D-) G&ouml;lgelerdir
-    - E-) Sanat&ccedil;ılardır
-    <hr />
-1. <strong>Ukiyo-e&rsquo;nin en &uuml;retken sanat&ccedil;ısı kimdir?</strong>
+    - D-) Gölgelerdir
+    - E-) Sanatçılardır
+    ***
+1. **Ukiyo-e’nin en üretken sanatçısı kimdir?**
     - A-) Toshusai Sharaku
     - B-) Utagawa Hiroshige
     - C-) Kitagawa Utamaro
     - **Cevap D-) Katsushika Hokusai**
     - E-) Degas
-    <hr />
-1. <strong>&ldquo;Fuji Dağının Otuz Altı G&ouml;r&uuml;n&uuml;m&uuml;&rdquo; adlı seri eser hangi Ukiyo-e sanat&ccedil;ısına aittir?</strong>
+    ***
+1. **“Fuji Dağının Otuz Altı Görünümü” adlı seri eser hangi Ukiyo-e sanatçısına aittir?**
     - **Cevap A-) Katsushika Hokusai**
     - B-) Toshusai Sharaku
     - C-) Degas
     - D-) Utagawa Hiroshige
     - E-) Kitagawa Utamaro
-    <hr />
-1. Katsushika Hokusai&#39;nin eskiz kitaplarının on beş ciltlik serisi olan Manga &ccedil;alışması, Japon baskılarıyla ilgilenen &hellip;&hellip;&hellip;&hellip;.. sanat&ccedil;ıları i&ccedil;in &ouml;nemli bir başvuru kaynağı olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Katsushika Hokusai'nin eskiz kitaplarının on beş ciltlik serisi olan Manga çalışması, Japon baskılarıyla ilgilenen ………….. sanatçıları için önemli bir başvuru kaynağı olmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Alman
     - B-) İtalyan
     - C-) Japon
-    - D-) &Ccedil;in
+    - D-) Çin
     - **Cevap E-) Fransız**
-    <hr />
-1. <strong>Japon Ukiyo-e sanatında sumo g&uuml;reş&ccedil;ilerinin tasviri, sıradan insanlar arasında neden pop&uuml;lerdir ve bir koleksiyon resmi olarak değer g&ouml;r&uuml;r?</strong>
-    - **Cevap A-) Sumo g&uuml;reşinin dini ve t&ouml;rensel boyutunun olması sebebiyle**
-    - B-) Sezgisel &ccedil;alışmalar olma &ouml;zelliği sebebiyle
-    - C-) Sanat&ccedil;ıların ortak &uuml;retimi olması sebebiyle
-    - D-) Pop&uuml;ler olması sebebiyle
-    - E-) Avrupa&rsquo;da dikkat &ccedil;ekmesi sebebiyle
-    <hr />
-1. <strong>Degas&rsquo;nın eserlerinin kompozisyon anlayışını etkileyen Japon Ukiyo-e sanatında karşımıza &ccedil;ıkan terim aşağıdakilerden hangisidir?</strong>
-    - A-) Birleşen &ccedil;izgiler
-    - B-) Kesişen &ccedil;izgiler
+    ***
+1. **Japon Ukiyo-e sanatında sumo güreşçilerinin tasviri, sıradan insanlar arasında neden popülerdir ve bir koleksiyon resmi olarak değer görür?**
+    - **Cevap A-) Sumo güreşinin dini ve törensel boyutunun olması sebebiyle**
+    - B-) Sezgisel çalışmalar olma özelliği sebebiyle
+    - C-) Sanatçıların ortak üretimi olması sebebiyle
+    - D-) Popüler olması sebebiyle
+    - E-) Avrupa’da dikkat çekmesi sebebiyle
+    ***
+1. **Degas’nın eserlerinin kompozisyon anlayışını etkileyen Japon Ukiyo-e sanatında karşımıza çıkan terim aşağıdakilerden hangisidir?**
+    - A-) Birleşen çizgiler
+    - B-) Kesişen çizgiler
     - **Cevap C-) Kadraj**
     - D-) Kavis
-    - E-) &Ccedil;apraz &ccedil;izgiler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;Ukiyo-e Baskılarının Estetik ve Teknik &Ouml;zellikleri&quot; nin genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) İlk &ccedil;ok renkli baskı, Edo&rsquo;daki zengin patronlar grubu i&ccedil;in, sipariş &uuml;zerine yapılan takvimlerdir.
-    - B-) &Ccedil;izgisel desende &ccedil;ok usta olan Ukiyo-e sanat&ccedil;ıları i&ccedil;in kaligrafi olarak yazı ve resim, ayrılmaz &ouml;zellikleridir.
-    - C-) Ukiyo-e baskılarında renk, d&uuml;z, opak ve iki boyutlu bi&ccedil;imde kullanılmıştır.
-    - **Cevap D-) 20. y&uuml;zyıla kadar ağa&ccedil; baskı, esas olarak yazılı metinleri &ccedil;oğaltmada uygun bir y&ouml;ntem olmuştur.**
-    - E-) Ukiyo-e baskı tasarımcılarının kompozisyon anlayışlarından biri, bir resmin altının izleyiciye en yakın g&ouml;sterilmesidir.
-    <hr />
-1. Ukiyo-e baskı tasarımcılarından en &ouml;nemlisi olan <strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&nbsp;</strong>&ccedil;ok renkli ve bloklu baskının gelişiminde &ouml;nc&uuml; tasarımcı olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    - E-) Çapraz çizgiler
+    ***
+1. **Aşağıdakilerden hangisi "Ukiyo-e Baskılarının Estetik ve Teknik Özellikleri" nin genel özellikleri arasında yer almaz?**
+    - A-) İlk çok renkli baskı, Edo’daki zengin patronlar grubu için, sipariş üzerine yapılan takvimlerdir.
+    - B-) Çizgisel desende çok usta olan Ukiyo-e sanatçıları için kaligrafi olarak yazı ve resim, ayrılmaz özellikleridir.
+    - C-) Ukiyo-e baskılarında renk, düz, opak ve iki boyutlu biçimde kullanılmıştır.
+    - **Cevap D-) 20\. yüzyıla kadar ağaç baskı, esas olarak yazılı metinleri çoğaltmada uygun bir yöntem olmuştur.**
+    - E-) Ukiyo-e baskı tasarımcılarının kompozisyon anlayışlarından biri, bir resmin altının izleyiciye en yakın gösterilmesidir.
+    ***
+1. Ukiyo-e baskı tasarımcılarından en önemlisi olan **……………………………** çok renkli ve bloklu baskının gelişiminde öncü tasarımcı olmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Suzuki Harunobu**
     - B-) Toshusai Sharaku
     - C-) Utagawa Hiroshige
     - D-) Kitagawa Utamaro
     - E-) Katsushika Hokusai
-    <hr />
-1. <strong>Ukiyo-e&rsquo;nin yenilik&ccedil;i ve &uuml;retken sanat&ccedil;ılarından biri olan Katsushika Hokusai ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Yaşamını sanata adayan Hokusai, sıradan insanları, kuşları, balıkları ve b&ouml;cekleri resimlemede olduk&ccedil;a ustadır.
-    - B-) Edo kentinin etrafındaki kırsal b&ouml;lgelerin hik&acirc;yesini anlatan ağa&ccedil; baskı seti olan &ldquo;Fuji Dağının Otuz Altı G&ouml;r&uuml;n&uuml;m&uuml;&rdquo; adlı seri &ccedil;alışmasını &uuml;retmiştir.
-    - C-) Ukiyo-e&rsquo;nin yeni manzara tarzını başlatmıştır.
-    - **Cevap D-) &ldquo;Katsushika Hokusai&rdquo; portre ve oyuncu &ccedil;alışmalarıyla tanınır.**
-    - E-) Baskı sanat&ccedil;ıları arasında eserleri ile manzara ill&uuml;strasyonları alanında en fazla tanınan sanat&ccedil;ıdır.
-    <hr />
-1. <strong>&ldquo;Hayalet İskelete Meydan Okuyan Mitsukuni&rdquo; adlı eser Ukiyo-e baskı tasarımcılarından hangi sanat&ccedil;ıya aittir?</strong>
+    ***
+1. **Ukiyo-e’nin yenilikçi ve üretken sanatçılarından biri olan Katsushika Hokusai ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Yaşamını sanata adayan Hokusai, sıradan insanları, kuşları, balıkları ve böcekleri resimlemede oldukça ustadır.
+    - B-) Edo kentinin etrafındaki kırsal bölgelerin hikâyesini anlatan ağaç baskı seti olan “Fuji Dağının Otuz Altı Görünümü” adlı seri çalışmasını üretmiştir.
+    - C-) Ukiyo-e’nin yeni manzara tarzını başlatmıştır.
+    - **Cevap D-) “Katsushika Hokusai” portre ve oyuncu çalışmalarıyla tanınır.**
+    - E-) Baskı sanatçıları arasında eserleri ile manzara illüstrasyonları alanında en fazla tanınan sanatçıdır.
+    ***
+1. **“Hayalet İskelete Meydan Okuyan Mitsukuni” adlı eser Ukiyo-e baskı tasarımcılarından hangi sanatçıya aittir?**
     - **Cevap A-) Utagawa Hiroshige**
     - B-) Katsushika Hokusai
     - C-) Kitagawa Utamaro
     - D-) Suzuki Harunobu
     - E-) Katsukawa Shun
-    <hr />
-1. <strong>Aşağıdaki Ukiyo-e sanat&ccedil;ılarından hangisi &ccedil;ok renkli ve bloklu baskının gelişiminde &ouml;nc&uuml; olmuştur?</strong>
+    ***
+1. **Aşağıdaki Ukiyo-e sanatçılarından hangisi çok renkli ve bloklu baskının gelişiminde öncü olmuştur?**
     - A-) Katsushika Hokusai
     - B-) Utagawa Hiroshige
     - **Cevap C-) Suzuki Harunobu**
     - D-) Kitagawa Utamaro
     - E-) Toshusai Sharaku
-    <hr />
+    ***
 ## Unite 3
-1. <strong>Arts and Crafts hareketinin en &ouml;nemli matbaası hangisidir?</strong>
+1. **Arts and Crafts hareketinin en önemli matbaası hangisidir?**
     - A-) Kelmscott Press
     - B-) Phaidon Press
     - C-) Modern Style Press
-    - **Cevap D-) Baby&rsquo;s Opera**
+    - **Cevap D-) Baby’s Opera**
     - E-) A.W.N. Pugin Press
-    <hr />
-1. <strong>Arts and Crafts hareketi hangi &uuml;lkede ortaya &ccedil;ıkmıştır?</strong>
+    ***
+1. **Arts and Crafts hareketi hangi ülkede ortaya çıkmıştır?**
     - A-) Fransa
     - B-) Almanya
     - **Cevap C-) İngiltere**
     - D-) Avusturya
     - E-) Japonya
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Ruskin estetiğinden etkilenen Arts and Crafts hareketinin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Ruskin estetiğinden etkilenen Arts and Crafts hareketinin özelliklerinden biri değildir?**
     - A-) Sanat eğitimini desteklemesi
-    - B-) &quot;Sanat sanat i&ccedil;indir.&quot; anlayışı
+    - B-) "Sanat sanat içindir." anlayışı
     - C-) Japon sanatına duyulan ilginin artması
-    - D-) Doğaya d&uuml;şk&uuml;nl&uuml;k
-    - **Cevap E-) Kapitalizme duyulan g&uuml;ven**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Arts and Crafts Hareketi&#39;nin grafik tasarım alanında &uuml;stlendiği en &ouml;nemli misyondur?</strong>
+    - D-) Doğaya düşkünlük
+    - **Cevap E-) Kapitalizme duyulan güven**
+    ***
+1. **Aşağıdakilerden hangisi Arts and Crafts Hareketi'nin grafik tasarım alanında üstlendiği en önemli misyondur?**
     - **Cevap A-) İletişim misyonu**
-    - B-) Font &uuml;retme misyonu
-    - C-) Renk &uuml;retme misyonu
-    - D-) S&uuml;slemeye teşvik etme misyonu
+    - B-) Font üretme misyonu
+    - C-) Renk üretme misyonu
+    - D-) Süslemeye teşvik etme misyonu
     - E-) Kapitalizme yardımcı olma misyonu
-    <hr />
-1. <strong>Aşağıdaki kitaplardan hangisi metin bloğunda t&uuml;m satırlarından sayfa boyunca aşağıya inen uzun bir inisiyale sahip olmasıyla ticari bir marka h&acirc;line d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
-    - A-) Baby&rsquo;s Opera
+    ***
+1. **Aşağıdaki kitaplardan hangisi metin bloğunda tüm satırlarından sayfa boyunca aşağıya inen uzun bir inisiyale sahip olmasıyla ticari bir marka hâline dönüşmüştür?**
+    - A-) Baby’s Opera
     - **Cevap B-) Doves Press Kutsal Kitabı**
-    - C-) Prıltılı D&uuml;zl&uuml;ğ&uuml;n &Ouml;yk&uuml;s&uuml;
+    - C-) Prıltılı Düzlüğün Öyküsü
     - D-) Chaucer
     - E-) Kelmscott Press Kitabı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi William Morris&rsquo;in Gotik harfleri inceleyerek oluşturduğu fontun adıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi William Morris’in Gotik harfleri inceleyerek oluşturduğu fontun adıdır?**
     - A-) Chaucer
     - **Cevap B-) Troy**
     - C-) Golden
     - D-) Big Caslon
     - E-) Walter
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Arts and Crafts Hareketi&rsquo;nin ortaya &ccedil;ıkış sebeplerinden biri <u>değildir</u>?</strong>
-    - A-) Yaşamın devingenliği ve hızlı akışında yeni bir standart olan ve etkin rol oynayan makine, b&uuml;y&uuml;k alanlarda devasa end&uuml;stri şehirleri yaratmıştır. Dayanıklı, g&ouml;rkemli, b&uuml;y&uuml;k fabrikalar beraberinde; el iş&ccedil;iliğini ve bi&ccedil;imde estetik duyarlılığı yok etmiştir.
-    - B-) Ger&ccedil;ekleşen Sanayi Devrimi, toplumsal yaşamda yeni kavramların ve yaşam bi&ccedil;imlerinin ortaya &ccedil;ıkmasına neden olmuştur.
-    - C-) Makineleşmenin, buharlı iş makinelerinin ve iletişim teknolojisinin sıralamada birinci sırayı alması, emeğin ucuzlaması ve &uuml;retimin fiziksel ihtiya&ccedil;ları gidermeyi ana ama&ccedil; olarak belirlemesi y&uuml;z&uuml;nden, &uuml;retilen mallar estetikten yoksun, &ccedil;irkin bir h&acirc;l almıştır.
-    - D-) 1860&rsquo;larda kapitalist sistemin ortaya &ccedil;ıktığı İngiltere&rsquo;de, sosyalist d&uuml;ş&uuml;ncenin ışığında estetik bir duyarlılık yakalamak adına &quot;Arts and Crafts&quot; hareketi ortaya &ccedil;ıkmıştır.
-    - **Cevap E-) Sanatın ve El Sanatları&rsquo;nın toplum a&ccedil;ısından o kadar da &ouml;nemli olmadığını d&uuml;ş&uuml;nen makineleşme ve seri &uuml;retim mallarının değerinin bilinmesi gerektiğini savunan &ouml;nc&uuml; tasarımcıların d&ouml;neminde ortaya &ccedil;ıkmıştır.**
-    <hr />
-1. &ldquo;Tasarım ve mimarideki &hellip;&hellip;&hellip;&hellip;&hellip; engellemek ve g&uuml;nl&uuml;k yaşamda kullanılacak g&uuml;zel objeler yaratarak d&ouml;nemin sanatsal dejenerasyonunu durdurmayı ama&ccedil;lamıştır.&rdquo;<br />
-<strong>Yukarıdaki alıntı c&uuml;mlesindeki boşluk aşağıdaki hangi kelimeyle doldurulursa Art and Crafts Hareketi&rsquo;nin Misyonu a&ccedil;ısından doğru olur?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Arts and Crafts Hareketi’nin ortaya çıkış sebeplerinden biri değildir?**
+    - A-) Yaşamın devingenliği ve hızlı akışında yeni bir standart olan ve etkin rol oynayan makine, büyük alanlarda devasa endüstri şehirleri yaratmıştır. Dayanıklı, görkemli, büyük fabrikalar beraberinde; el işçiliğini ve biçimde estetik duyarlılığı yok etmiştir.
+    - B-) Gerçekleşen Sanayi Devrimi, toplumsal yaşamda yeni kavramların ve yaşam biçimlerinin ortaya çıkmasına neden olmuştur.
+    - C-) Makineleşmenin, buharlı iş makinelerinin ve iletişim teknolojisinin sıralamada birinci sırayı alması, emeğin ucuzlaması ve üretimin fiziksel ihtiyaçları gidermeyi ana amaç olarak belirlemesi yüzünden, üretilen mallar estetikten yoksun, çirkin bir hâl almıştır.
+    - D-) 1860’larda kapitalist sistemin ortaya çıktığı İngiltere’de, sosyalist düşüncenin ışığında estetik bir duyarlılık yakalamak adına "Arts and Crafts" hareketi ortaya çıkmıştır.
+    - **Cevap E-) Sanatın ve El Sanatları’nın toplum açısından o kadar da önemli olmadığını düşünen makineleşme ve seri üretim mallarının değerinin bilinmesi gerektiğini savunan öncü tasarımcıların döneminde ortaya çıkmıştır.**
+    ***
+1. “Tasarım ve mimarideki …………… engellemek ve günlük yaşamda kullanılacak güzel objeler yaratarak dönemin sanatsal dejenerasyonunu durdurmayı amaçlamıştır.”<br />**Yukarıdaki alıntı cümlesindeki boşluk aşağıdaki hangi kelimeyle doldurulursa Art and Crafts Hareketi’nin Misyonu açısından doğru olur?**
     - **Cevap A-) yozlaşmayı**
     - B-) devinimi
     - C-) ivmeyi
-    - D-) g&uuml;zelliği
+    - D-) güzelliği
     - E-) olgunlaşmayı
-    <hr />
-1. <strong>Aşağıdaki isimlerden hangisi Arts and Crafts Hareketi&rsquo;nin &ouml;nde gelen temsilcilerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdaki isimlerden hangisi Arts and Crafts Hareketi’nin önde gelen temsilcilerinden biri değildir?**
     - A-) John Ruskin ve William Morris
     - **Cevap B-) Cordelia Baker**
     - C-) A.W.N. Pugin
     - D-) Walter Crane
     - E-) T.J. Cobden-San- derson
-    <hr />
-1. <strong>Aşağıdaki yazar-eser se&ccedil;eneklerinden hangisi Arts and Crafts Hareketi&rsquo;nin felsefesinin temelini oluşturan eserler arasındadır?</strong>
-    - **Cevap A-) John Ruskin &ndash; Estetik ve William Morris - Kapitalizmin G&ouml;lgesi Altında Sanatın Eleştirisi**
+    ***
+1. **Aşağıdaki yazar-eser seçeneklerinden hangisi Arts and Crafts Hareketi’nin felsefesinin temelini oluşturan eserler arasındadır?**
+    - **Cevap A-) John Ruskin – Estetik ve William Morris - Kapitalizmin Gölgesi Altında Sanatın Eleştirisi**
     - B-) T.J. Cobden-Sanderson - Doves Press Kutsal Kitabı
-    - C-) Walter Crane - Baby&rsquo;s Opera
-    - D-) William Morris - Prıltılı D&uuml;zl&uuml;ğ&uuml;n &Ouml;yk&uuml;s&uuml;
-    - E-) E. Burne-Jones - Chaucer&rsquo;ın Yapıtları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Arts and Crafts Hareketi&rsquo;nin d&ouml;rt temel ilkesinden biri <u>değildir</u>?</strong>
+    - C-) Walter Crane - Baby’s Opera
+    - D-) William Morris - Prıltılı Düzlüğün Öyküsü
+    - E-) E. Burne-Jones - Chaucer’ın Yapıtları
+    ***
+1. **Aşağıdakilerden hangisi Arts and Crafts Hareketi’nin dört temel ilkesinden biri değildir?**
     - A-) Malzemeye saygı
-    - B-) &Uuml;retilen objenin kullanımına saygı
-    - **Cevap C-) S&uuml;slemeye saygı**
+    - B-) Üretilen objenin kullanımına saygı
+    - **Cevap C-) Süslemeye saygı**
     - D-) Emeğe saygı
-    - E-) Ara&ccedil; ve gerece saygı
-    <hr />
-1. <strong>Arts and Crafts Hareketi&rsquo;nin &ldquo;d&uuml;z bir y&uuml;zeyin dekorasyonunda kullanılacak malzemenin tasarımının da d&uuml;z olması gerektiğine&rdquo; inanan sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
+    - E-) Araç ve gerece saygı
+    ***
+1. **Arts and Crafts Hareketi’nin “düz bir yüzeyin dekorasyonunda kullanılacak malzemenin tasarımının da düz olması gerektiğine” inanan sanatçısı aşağıdakilerden hangisidir?**
     - A-) John Ruskin
     - B-) William Morris
     - C-) Walter Crane
     - **Cevap D-) A.W.N. Pugin**
     - E-) T.J. Cobden-Sanderson
-    <hr />
-1. <strong>Aşağıdaki şıklardan hangisi Walter Crane&rsquo;i en iyi tanımlayan c&uuml;mledir?</strong>
-    - A-) Kaliteli malzemeler ve sağlam ciltleme uygulamaları konusundaki ısrarı ile modern cilt&ccedil;ilik &uuml;zerinde b&uuml;y&uuml;k bir etki yaratmıştır.
-    - **Cevap B-) &Ccedil;ift sayfa mizanpajında yarattığı metin ve ill&uuml;strasyonun g&ouml;rsel birlikteliğinden dolayı ilk ill&uuml;strat&ouml;rlerden biri olarak anılır.**
+    ***
+1. **Aşağıdaki şıklardan hangisi Walter Crane’i en iyi tanımlayan cümledir?**
+    - A-) Kaliteli malzemeler ve sağlam ciltleme uygulamaları konusundaki ısrarı ile modern ciltçilik üzerinde büyük bir etki yaratmıştır.
+    - **Cevap B-) Çift sayfa mizanpajında yarattığı metin ve illüstrasyonun görsel birlikteliğinden dolayı ilk illüstratörlerden biri olarak anılır.**
     - C-) Tasarımları sadeliği sebebiyle beğeni toplamıştır.
-    - D-) D&uuml;z bir y&uuml;zeyin dekorasyonunda kullanılacak malzemenin tasarımının da d&uuml;z olması gerektiğine inanır.
-    - E-) Kelmscott Press kitapları i&ccedil;in kuramsal alt yapıyı bi&ccedil;imlendirmiştir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Arts and Crafts Hareketi&rsquo;nin malzemenin &ouml;nemli olduğunu ve tasarımcıların, kaliteli &uuml;r&uuml;nleri yaratmak i&ccedil;in malzemeyi tanımaları gerektiğini ileri s&uuml;ren maddesini ifade eder?</strong>
-    - A-) &Uuml;retilen objenin kullanımına saygı
-    - B-) S&uuml;slemeye saygı
+    - D-) Düz bir yüzeyin dekorasyonunda kullanılacak malzemenin tasarımının da düz olması gerektiğine inanır.
+    - E-) Kelmscott Press kitapları için kuramsal alt yapıyı biçimlendirmiştir.
+    ***
+1. **Aşağıdakilerden hangisi Arts and Crafts Hareketi’nin malzemenin önemli olduğunu ve tasarımcıların, kaliteli ürünleri yaratmak için malzemeyi tanımaları gerektiğini ileri süren maddesini ifade eder?**
+    - A-) Üretilen objenin kullanımına saygı
+    - B-) Süslemeye saygı
     - C-) Emeğe saygı
-    - D-) Ara&ccedil; ve gerece saygı
+    - D-) Araç ve gerece saygı
     - **Cevap E-) Malzemeye saygı**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Nesnenin kendisi kadar, o nesnenin ortaya &ccedil;ıktığı sosyal koşullar da &ouml;nemlidir.&rdquo; c&uuml;mlesinden hareketle Arts and Crafts Hareketi&rsquo;nin felsefesine y&ouml;n vermiştir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Nesnenin kendisi kadar, o nesnenin ortaya çıktığı sosyal koşullar da önemlidir.” cümlesinden hareketle Arts and Crafts Hareketi’nin felsefesine yön vermiştir?**
     - **Cevap A-) John Ruskin**
     - B-) William Morris
     - C-) Walter Crane
     - D-) A. W. N Pugin
     - E-) T. J. Cobden-Sanderson
-    <hr />
-1. <strong>&ldquo;Baby&rsquo;s Opera&rdquo; &ccedil;ocuk kitabının tasarımcısı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **“Baby’s Opera” çocuk kitabının tasarımcısı aşağıdakilerden hangisidir?**
     - A-) John Ruskin
     - B-) William Morris
     - **Cevap C-) Walter Crane**
     - D-) A.W.N Pugin
     - E-) T.J. Cobden-Sanderson
-    <hr />
-1. <strong>Arts and Crafts Hareketi&rsquo;nin misyonu ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) İngiliz Arts and Crafts hareketi, yapısı gereği dekoratif ve doğaya &ouml;yk&uuml;nen, stilistik ve artistik y&ouml;n&uuml;n&uuml;n yanı sıra; toplumsal bir misyon da edinmiştir.
-    - B-) End&uuml;stri Devrimi ile baş g&ouml;steren, istenmeyen sonu&ccedil;ları d&uuml;zeltmeyi ama&ccedil;lamıştır.
-    - C-) Arts and Crafts Hareketi&rsquo;nin estetik anlayışı temel olarak end&uuml;striyel &uuml;retimin sıradanlığına bir tepkidir.
-    - D-) Hareketin ana temsilcileri, John Ruskin (1819-1900) ve William Morris (1834- 1896)&rsquo;tir.
-    - **Cevap E-) Malzemenin &ouml;nemli olmadığı ve tasarımcıların, kaliteli &uuml;r&uuml;nleri yaratmak i&ccedil;in malzemeyi tanımadan hayal g&uuml;&ccedil;lerini kullanmaları gerektiğini vurgular.**
-    <hr />
-1. <strong>&ldquo;The Story of the Glittering Plain&rdquo; (Pırıltılı D&uuml;zl&uuml;ğ&uuml;n &Ouml;yk&uuml;s&uuml;) adlı eserin tasarımcısı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Arts and Crafts Hareketi’nin misyonu ile ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) İngiliz Arts and Crafts hareketi, yapısı gereği dekoratif ve doğaya öykünen, stilistik ve artistik yönünün yanı sıra; toplumsal bir misyon da edinmiştir.
+    - B-) Endüstri Devrimi ile baş gösteren, istenmeyen sonuçları düzeltmeyi amaçlamıştır.
+    - C-) Arts and Crafts Hareketi’nin estetik anlayışı temel olarak endüstriyel üretimin sıradanlığına bir tepkidir.
+    - D-) Hareketin ana temsilcileri, John Ruskin (1819-1900) ve William Morris (1834- 1896)’tir.
+    - **Cevap E-) Malzemenin önemli olmadığı ve tasarımcıların, kaliteli ürünleri yaratmak için malzemeyi tanımadan hayal güçlerini kullanmaları gerektiğini vurgular.**
+    ***
+1. **“The Story of the Glittering Plain” (Pırıltılı Düzlüğün Öyküsü) adlı eserin tasarımcısı aşağıdakilerden hangisidir?**
     - A-) T. J. Cobden-Sanderson
     - B-) John Ruskin
     - **Cevap C-) William Morris**
     - D-) A. W. N Pugin
     - E-) Walter Crane
-    <hr />
-1. I. John Ruskin, Viktorya D&ouml;nemi&#39;nin &ouml;nemli bir sanat eleştirmeni, &uuml;retken bir yazarı ve d&uuml;ş&uuml;n&uuml;r&uuml;d&uuml;r.<br />
-II. John Ruskin estetiğinin felsefesinde; nesnenin kendisi kadar, o nesnenin ortaya &ccedil;ıktığı sosyal koşulların da &ouml;nemli olduğunu vurgulamıştır.<br />
-III. Ruskin&rsquo;in inancına g&ouml;re Orta &Ccedil;ağ &uuml;retim sistemi, tasarlayan ve &uuml;reten zanaatkarların bireysel ifadesine izin vermektedir.<br />
-<strong>Arts and Crafts Hareketi&rsquo;nin &ouml;nemli temsilcilerinden olan &ldquo;John Ruskin&rdquo; ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+    ***
+1. I. John Ruskin, Viktorya Dönemi'nin önemli bir sanat eleştirmeni, üretken bir yazarı ve düşünürüdür.<br />II. John Ruskin estetiğinin felsefesinde; nesnenin kendisi kadar, o nesnenin ortaya çıktığı sosyal koşulların da önemli olduğunu vurgulamıştır.<br />III. Ruskin’in inancına göre Orta Çağ üretim sistemi, tasarlayan ve üreten zanaatkarların bireysel ifadesine izin vermektedir.<br />**Arts and Crafts Hareketi’nin önemli temsilcilerinden olan “John Ruskin” ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve III
     - D-) I ve III
     - **Cevap E-) I, II ve III**
-    <hr />
+    ***
 ## Unite 4
-1. <strong>Modern reklam afişinin gelişimine olanak sağlayarak, afişi bir sanat yapıtına d&ouml;n&uuml;şt&uuml;ren, sanat &ccedil;alışmalarının artık resim galerilerinin dışına &ccedil;ıkarak sokaklara taşmaya başladığı hareket ve &uuml;lke aşağıdakilerin hangisinde doğru verilmiştir?</strong>
+1. **Modern reklam afişinin gelişimine olanak sağlayarak, afişi bir sanat yapıtına dönüştüren, sanat çalışmalarının artık resim galerilerinin dışına çıkarak sokaklara taşmaya başladığı hareket ve ülke aşağıdakilerin hangisinde doğru verilmiştir?**
     - A-) İspanya, Modernismo
     - **Cevap B-) Fransa, Art Nouveau**
     - C-) Almanya, Jugendstil
     - D-) Avusturya, Secession
     - E-) İngiltere, Arts and Crafts
-    <hr />
-1. <strong>Tipografinin bir tasarım &ouml;ğesi olarak ge&ccedil;erlilik kazanmasında b&uuml;y&uuml;k payı olan hareket aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Tipografinin bir tasarım öğesi olarak geçerlilik kazanmasında büyük payı olan hareket aşağıdakilerden hangisidir?**
     - A-) İspanya, Modernismo
     - B-) Almanya, Jugendstil
     - C-) Avusturya, Secession
     - D-) İngiltere, Arts and Crafts
     - **Cevap E-) Fransa, Art Nouveau**
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; d&ouml;neminde (19.yy sonu 20.yy başı-Art Nouveau hareketi) Fransa, devrim niteliğinde sanayileşmenin yarattığı &ccedil;alkantılı bir on dokuzuncu y&uuml;zyıldan k&uuml;lt&uuml;rel kargaşalar ve sınıfsal m&uuml;cadelelerin yeniden tanımlandığı yirminci y&uuml;zyıla ge&ccedil;mektedir.<br />
-<strong>Bu d&ouml;nem aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) &ldquo;La Belle Époque&rdquo; ya da &ldquo;G&uuml;zel &Ccedil;ağ&rdquo;**
+    ***
+1. ……………… döneminde (19.yy sonu 20.yy başı-Art Nouveau hareketi) Fransa, devrim niteliğinde sanayileşmenin yarattığı çalkantılı bir on dokuzuncu yüzyıldan kültürel kargaşalar ve sınıfsal mücadelelerin yeniden tanımlandığı yirminci yüzyıla geçmektedir.<br />**Bu dönem aşağıdakilerden hangisidir?**
+    - **Cevap A-) “La Belle Époque” ya da “Güzel Çağ”**
     - B-) Modern Style
     - C-) Orfizm
     - D-) Romantizm
     - E-) Picasso
-    <hr />
-1. <strong>1860&rsquo;larda Londra&rsquo;da &ccedil;alışan, kitap kapakları, opera, sirk ve m&uuml;zik salonları i&ccedil;in afişler tasarlayan, Fransız Litografi ve grafik sanat&ccedil;ısı kimdir?</strong>
+    ***
+1. **1860’larda Londra’da çalışan, kitap kapakları, opera, sirk ve müzik salonları için afişler tasarlayan, Fransız Litografi ve grafik sanatçısı kimdir?**
     - A-) Henri de Toulouse- Lautrec
     - B-) Alfons Maria Mucha
     - **Cevap C-) Jules Chéret**
     - D-) Théophile Alexandre Steinlen
     - E-) Eugene Grasset
-    <hr />
-1. <strong>Art Nouveau hareketinin başladığı, &lsquo;Kadın sorusu&rsquo;yla belirginleşen ve toplum i&ccedil;inde kadınların stat&uuml;s&uuml;n&uuml;n tartışıldığı d&ouml;nem aşağıdakilerden hangisidir?</strong>
-    - A-) 20. Y&uuml;zyıl ortası
-    - B-) 19. Y&uuml;zyıl ortası
-    - **Cevap C-) 19. Y&uuml;zyıl sonu**
-    - D-) 20. Y&uuml;zyıl sonu
-    - E-) 18. Y&uuml;zyıl başı
-    <hr />
-1. Lautrec&rsquo;in Moulin Rouge veya Divan Japonais, Bonnard&rsquo;ın France- Champagne, Mucha&rsquo;nın Bieres de La Meuse, Chéret&rsquo;in La Loïe Fuller, Folies-Bergère adlı afiş &ccedil;alışmaları, Art Nouveau hareketinde &hellip;&hellip;&hellip;&hellip;...........................&hellip;.. g&ouml;stermiştir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) &ldquo;yeni kadın&rdquo; imajını**
-    - B-) &uuml;r&uuml;n estetiğini
-    - C-) el sanatlarına &ouml;zlemi
-    - D-) Uzak Doğu k&uuml;lt&uuml;r&uuml;n&uuml;
-    - E-) k&uuml;bik formların estetiğini
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 19.y&uuml;zyıl sonları ve 20 y&uuml;zyılın başlarında modernist grafik tasarım anlayışının başlangıcını oluşturur?</strong>
+    ***
+1. **Art Nouveau hareketinin başladığı, ‘Kadın sorusu’yla belirginleşen ve toplum içinde kadınların statüsünün tartışıldığı dönem aşağıdakilerden hangisidir?**
+    - A-) 20\. Yüzyıl ortası
+    - B-) 19\. Yüzyıl ortası
+    - **Cevap C-) 19\. Yüzyıl sonu**
+    - D-) 20\. Yüzyıl sonu
+    - E-) 18\. Yüzyıl başı
+    ***
+1. Lautrec’in Moulin Rouge veya Divan Japonais, Bonnard’ın France- Champagne, Mucha’nın Bieres de La Meuse, Chéret’in La Loïe Fuller, Folies-Bergère adlı afiş çalışmaları, Art Nouveau hareketinde …………...........................….. göstermiştir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) “yeni kadın” imajını**
+    - B-) ürün estetiğini
+    - C-) el sanatlarına özlemi
+    - D-) Uzak Doğu kültürünü
+    - E-) kübik formların estetiğini
+    ***
+1. **Aşağıdakilerden hangisi 19.yüzyıl sonları ve 20 yüzyılın başlarında modernist grafik tasarım anlayışının başlangıcını oluşturur?**
     - A-) Insel
     - B-) Jugend
     - C-) Simplizissimus
     - **Cevap D-) Art Nouveau**
     - E-) Japon Ukiyo-e Sanatı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Art Nouveau&rsquo;nun esinlendiği kaynaklar arasında <u>değildir</u>?</strong>
-    - A-) Kelt s&uuml;slemeleri
+    ***
+1. **Aşağıdakilerden hangisi Art Nouveau’nun esinlendiği kaynaklar arasında değildir?**
+    - A-) Kelt süslemeleri
     - B-) Ukiyo-e Sanatı
     - C-) İngiliz Arts and Crafts Hareketi
-    - **Cevap D-) K&uuml;bizm**
+    - **Cevap D-) Kübizm**
     - E-) Romantizm
-    <hr />
-1. <strong>Bug&uuml;n &ldquo;resimsel afişin babası&rdquo; olarak anılan sanat&ccedil;ı kimdir?</strong>
+    ***
+1. **Bugün “resimsel afişin babası” olarak anılan sanatçı kimdir?**
     - A-) Bonnard
     - **Cevap B-) Jules Chéret**
     - C-) Gauguin
     - D-) Bradley
     - E-) Théophile Alexandre Steinlen
-    <hr />
-1. <strong>Litografi tekniği aşağıdakilerden hangisi tarafından icat edildi?</strong>
+    ***
+1. **Litografi tekniği aşağıdakilerden hangisi tarafından icat edildi?**
     - A-) Jules Chéret
     - B-) Bonnard
     - **Cevap C-) A. Senefelder**
     - D-) Edward Burne-Jones
     - E-) Théophile Alexandre Steinlen
-    <hr />
-1. <strong>Hollanda&rsquo;da Art Nouveau hareketi hangi isimle anıldı?</strong>
+    ***
+1. **Hollanda’da Art Nouveau hareketi hangi isimle anıldı?**
     - A-) Modern Style
     - B-) Jugendstil
     - C-) Secession
     - D-) Yellow Book Style
     - **Cevap E-) Nieuve Kunst**
-    <hr />
-1. <strong>Japon, İran and Mısır estetiğinden etkilenen Art Nouveau sanat&ccedil;ısı kimdir?</strong>
+    ***
+1. **Japon, İran and Mısır estetiğinden etkilenen Art Nouveau sanatçısı kimdir?**
     - **Cevap A-) Eugene Grasset**
     - B-) Alfons Maria Mucha
     - C-) Beardsley
     - D-) A. Senefelder
     - E-) Jules Chéret
-    <hr />
-1. <strong>19 ve 20. y&uuml;zyılın başlarında Art Nouveau sanat&ccedil;ılarının afişlerinde kullandıkları en &ouml;nemli baskı tekniği aşağıdakilerden hangisidir?</strong>
-    - A-) Ağa&ccedil; baskı
+    ***
+1. **19 ve 20. yüzyılın başlarında Art Nouveau sanatçılarının afişlerinde kullandıkları en önemli baskı tekniği aşağıdakilerden hangisidir?**
+    - A-) Ağaç baskı
     - B-) Linolyum
     - **Cevap C-) Taş baskı (Litografi)**
     - D-) Serigrafi
     - E-) Dijital baskı
-    <hr />
-1. <strong>Kabare ve dans salonlarında, bulunduğu ortamı analiz ederek oyuncuların miza&ccedil;larını eserlerine yansıtan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Kabare ve dans salonlarında, bulunduğu ortamı analiz ederek oyuncuların mizaçlarını eserlerine yansıtan sanatçı aşağıdakilerden hangisidir?**
     - **Cevap A-) Henri de Toulouse- Lautrec**
     - B-) Jules Chéret
     - C-) Bradley
     - D-) Rossetti
     - E-) A. Senefelder
-    <hr />
-1. <strong>Art Nouveau hareketinde &uuml;rettiği afişlerde insan fig&uuml;rlerindeki &ccedil;irkinliği ve ahlaki y&ouml;nden bozuk ortamı i&ccedil;ten bir anlatımla g&ouml;rselleştiren sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Art Nouveau hareketinde ürettiği afişlerde insan figürlerindeki çirkinliği ve ahlaki yönden bozuk ortamı içten bir anlatımla görselleştiren sanatçı aşağıdakilerden hangisidir?**
     - A-) Alfons Maria Mucha
     - B-) Gustav Klimt
     - C-) Kokoschka
     - **Cevap D-) Henri de Toulouse- Lautrec**
     - E-) Jules Chéret
-    <hr />
-1. <strong>Doğanın tanrı&ccedil;ası olarak ele aldığı kadınsı g&uuml;zelliği pekiştirmek adına &ccedil;i&ccedil;ek motiflerini afişlerine taşıyan Art Nouveau sanat&ccedil;ısı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Doğanın tanrıçası olarak ele aldığı kadınsı güzelliği pekiştirmek adına çiçek motiflerini afişlerine taşıyan Art Nouveau sanatçısı aşağıdakilerden hangisidir?**
     - **Cevap A-) Alfons Maria Mucha**
     - B-) Gustav Klimt
     - C-) Kokoschka
     - D-) Henri de Toulouse- Lautrec
     - E-) Jules Chéret
-    <hr />
-1. <strong>Fransız Art Nouveau Hareketi&#39;nin &ouml;nemli sanat&ccedil;ılarından &ldquo;Jules Ch&eacute;ret&rdquo; ile ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Jules Ch&eacute;ret (1836-1932), afiş tasarımında bir d&ouml;n&uuml;m noktası yaratmıştır.
-    - B-) &Ccedil;alışmaları modern afişin başlangıcını oluşturmuştur.
-    - C-) 1860&rsquo;larda Londra&rsquo;da &ccedil;alışan Fransız Litografi ve grafik sanat&ccedil;ısı, Jules Ch&eacute;ret, kitap kapakları, opera, sirk ve m&uuml;zik salonları i&ccedil;in afişler tasarlamıştır.
-    - **Cevap D-) Japon, İran ve Mısır estetiğinden etkilenen Jules Ch&eacute;ret bir s&uuml;sleme sanat&ccedil;ısı olarak da bilinir.**
-    - E-) Yaşamı boyunca 1200&#39;den fazla afiş tasarlayan Ch&eacute;ret, naif, sıkıntısız, her zaman g&uuml;l&uuml;mseyen, sevimli ve b&uuml;y&uuml;leyici gen&ccedil; kadınların y&uuml;zlerini tasarlamıştır.
-    <hr />
-1. &quot;Art Nouveau&quot; terimi Fransızca bir kelime olup <b>..............................&nbsp;</b>anlamına gelmektedir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. **Fransız Art Nouveau Hareketi'nin önemli sanatçılarından “Jules Chéret” ile ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) Jules Chéret (1836-1932), afiş tasarımında bir dönüm noktası yaratmıştır.
+    - B-) Çalışmaları modern afişin başlangıcını oluşturmuştur.
+    - C-) 1860’larda Londra’da çalışan Fransız Litografi ve grafik sanatçısı, Jules Chéret, kitap kapakları, opera, sirk ve müzik salonları için afişler tasarlamıştır.
+    - **Cevap D-) Japon, İran ve Mısır estetiğinden etkilenen Jules Chéret bir süsleme sanatçısı olarak da bilinir.**
+    - E-) Yaşamı boyunca 1200'den fazla afiş tasarlayan Chéret, naif, sıkıntısız, her zaman gülümseyen, sevimli ve büyüleyici genç kadınların yüzlerini tasarlamıştır.
+    ***
+1. "Art Nouveau" terimi Fransızca bir kelime olup **..............................** anlamına gelmektedir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) yeni akım
     - **Cevap B-) yeni sanat**
     - C-) yeni bakış
-    - D-) yeni g&ouml;r&uuml;ş
-    - E-) yeni &uuml;sl&ucirc;p
-    <hr />
-1. I. Afiş &uuml;retimini etkileyen en &ouml;nemli teknik gelişme, 1799&rsquo;da Aloys Senefelder tarafından icat edilen baskı tekniği &ldquo;Litografi&rdquo; olmuştur.<br />
-II.1860&rsquo;lı yıllarda İngiltere&rsquo;de m&uuml;zik kapakları, alışveriş kartları gibi yayınlarda tercih edilen bir baskı tekniği olmuştur.<br />
-III. Bu yeni sanat &uuml;slubu i&ccedil;erisinde etkin rol oynayan sanat&ccedil;ıların başında Toulouse Lautrec ve Jules Ch&eacute;ret gelmektedir.<br />
-<strong>Fransız Art Nouveau afişlerinin &uuml;retim tekniği ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+    - D-) yeni görüş
+    - E-) yeni üslûp
+    ***
+1. I. Afiş üretimini etkileyen en önemli teknik gelişme, 1799’da Aloys Senefelder tarafından icat edilen baskı tekniği “Litografi” olmuştur.<br />II.1860’lı yıllarda İngiltere’de müzik kapakları, alışveriş kartları gibi yayınlarda tercih edilen bir baskı tekniği olmuştur.<br />III. Bu yeni sanat üslubu içerisinde etkin rol oynayan sanatçıların başında Toulouse Lautrec ve Jules Chéret gelmektedir.<br />**Fransız Art Nouveau afişlerinin üretim tekniği ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 1887&rsquo;de &ldquo;Librairie Romantique&rdquo; (Romantik Kitap&ccedil;ı) afiş &ccedil;alışması ile 1890&rsquo;lı yıllarda renkli litografi hareketinin erken d&ouml;nem sanat&ccedil;ısı Ch&eacute;ret&rsquo;le birlikte anılmaya başlanmıştır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi 1887’de “Librairie Romantique” (Romantik Kitapçı) afiş çalışması ile 1890’lı yıllarda renkli litografi hareketinin erken dönem sanatçısı Chéret’le birlikte anılmaya başlanmıştır?**
     - **Cevap A-) Eugene Grasset**
     - B-) Alfons Maria Mucha
     - C-) Beardsley
     - D-) Henri de Toulouse- Lautrec
-    - E-) Th&eacute;ophile Alexandre Steinlen
-    <hr />
+    - E-) Théophile Alexandre Steinlen
+    ***
 ## Unite 5
-1. Aubrey Beardsley alan ve &ccedil;izgilere hakim olmayı &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. sanatından &ouml;ğrenmişti.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. Aubrey Beardsley alan ve çizgilere hakim olmayı …………………. sanatından öğrenmişti.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Modernismo
     - B-) Jugendstil
     - **Cevap C-) Japon**
     - D-) Arts and Crafts
     - E-) Afiş
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi &ldquo;İngiliz&rdquo; Art Nouveau hareketinde &ouml;nemli olan dergilerden biridir?</strong>
-    - A-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    ***
+1. **Aşağıdaki seçeneklerden hangisi “İngiliz” Art Nouveau hareketinde önemli olan dergilerden biridir?**
+    - A-) Glasgow Dörtlüsü
     - B-) Modernismo
-    - **Cevap C-) The Studio (St&uuml;dyo)**
+    - **Cevap C-) The Studio (Stüdyo)**
     - D-) Chap-Book
-    - E-) New York G&uuml;neşi
-    <hr />
-1. <strong>Chéret gibi İngiltere&rsquo;de aynı role sahip olan, Londra&rsquo;nın tiyatro d&uuml;nyası afişlerinin iyi &ouml;rnekleri olarak, b&uuml;t&uuml;n dergilerde yayımlanan tasarımlarıyla bilinen sanat&ccedil;ılar aşağıdaki se&ccedil;eneklerin hangisinde verilmiştir?</strong>
+    - E-) New York Güneşi
+    ***
+1. **Chéret gibi İngiltere’de aynı role sahip olan, Londra’nın tiyatro dünyası afişlerinin iyi örnekleri olarak, bütün dergilerde yayımlanan tasarımlarıyla bilinen sanatçılar aşağıdaki seçeneklerin hangisinde verilmiştir?**
     - **Cevap A-) John Hassal ve Dudley Hardy**
     - B-) Jules Chéret
     - C-) Koloman Moser
     - D-) Alfons Maria Mucha
-    - E-) Glasgow D&ouml;rtl&uuml;s&uuml;
-    <hr />
-1. <strong>&ldquo;Alman&rdquo; Art Nouveau Hareketi&#39;nde aynı zamanda yayın tarzını da etkileyen litografi baskı tekniğiyle basılmış; alışılmamış ve modaya uygun kapaklarıyla m&uuml;thiş bir başarı sağlayan &ouml;nemli dergi aşağıdakilerden hangisidir?</strong>
-    - A-) Harper&rsquo;s Bazaar
+    - E-) Glasgow Dörtlüsü
+    ***
+1. **“Alman” Art Nouveau Hareketi'nde aynı zamanda yayın tarzını da etkileyen litografi baskı tekniğiyle basılmış; alışılmamış ve modaya uygun kapaklarıyla müthiş bir başarı sağlayan önemli dergi aşağıdakilerden hangisidir?**
+    - A-) Harper’s Bazaar
     - **Cevap B-) Jugend dergisi**
     - C-) Tropon
     - D-) Akbaba
     - E-) Century
-    <hr />
-1. <strong>Yaratıcı d&uuml;ş&uuml;ncenin filizlendiği merkezlerden biri olan Viyana&rsquo;da ruhsal bir iklim sunan Freud&rsquo;un y&ouml;ntemi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Yaratıcı düşüncenin filizlendiği merkezlerden biri olan Viyana’da ruhsal bir iklim sunan Freud’un yöntemi aşağıdakilerden hangisidir?**
     - **Cevap A-) Psikanaliz**
     - B-) Biyoloji
     - C-) Anatomi
     - D-) Gelişim Kuramı
-    - E-) &Ouml;d&uuml;l / Ceza
-    <hr />
-1. <strong>&quot;Ver Sacrum&quot; dergisinin isminin anlamı aşağıdakilerden hangisidir?</strong>
+    - E-) Ödül / Ceza
+    ***
+1. **"Ver Sacrum" dergisinin isminin anlamı aşağıdakilerden hangisidir?**
     - A-) Yeniden Bahar
     - **Cevap B-) Kutsal Bahar**
     - C-) Son Bahar
     - D-) İkinci Bahar
     - E-) İlk Bahar
-    <hr />
-1. G&ouml;sterişsiz s&uuml;slemelerden, d&uuml;z bir y&uuml;zeyden ve minimum renk tonlarıyla sonsuz renklilikten meydana gelen yeni Avusturya &uuml;slubunu yaratan sanat&ccedil;ılardan Van de Velde, &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; afişiyle Art Nouveau &ouml;rneklerinin en dikkate değer &ccedil;alışmalarından birini yaratmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Gösterişsiz süslemelerden, düz bir yüzeyden ve minimum renk tonlarıyla sonsuz renklilikten meydana gelen yeni Avusturya üslubunu yaratan sanatçılardan Van de Velde, ……………… afişiyle Art Nouveau örneklerinin en dikkate değer çalışmalarından birini yaratmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Chap- Book
     - B-) Jugend
     - **Cevap C-) Tropon**
     - D-) Pan
     - E-) Simplicissimus
-    <hr />
-1. Avusturya Secession hareketi sanat&ccedil;ıları, &ccedil;ıkardıkları bir dergide manifesto niteliğinde bir yaklaşım sergilemişlerdir. Yabancıların &ccedil;ıkarlarına hizmet etmeyen ancak yabancı olan herhangi bir şeyde nefret duygusu uyandırmayan bir sanat istediklerini belirtiyorlardı. Diğer &uuml;lkelerdeki sanatın, kendi yaratılarını yaratmak i&ccedil;in kam&ccedil;ılayıcı bir işlevinin olduğunu, onu tanımak ve takdir etmek istemekteydiler. Ancak onu taklit etmek istemiyorlardı.<br />
-<strong>Bu yaklaşımla &ccedil;ıkan dergi aşağıdakilerden hangisidir?</strong>
+    ***
+1. Avusturya Secession hareketi sanatçıları, çıkardıkları bir dergide manifesto niteliğinde bir yaklaşım sergilemişlerdir. Yabancıların çıkarlarına hizmet etmeyen ancak yabancı olan herhangi bir şeyde nefret duygusu uyandırmayan bir sanat istediklerini belirtiyorlardı. Diğer ülkelerdeki sanatın, kendi yaratılarını yaratmak için kamçılayıcı bir işlevinin olduğunu, onu tanımak ve takdir etmek istemekteydiler. Ancak onu taklit etmek istemiyorlardı.<br />**Bu yaklaşımla çıkan dergi aşağıdakilerden hangisidir?**
     - **Cevap A-) Ver Sacrum**
     - B-) Jugend
     - C-) Tropon
     - D-) Pan
     - E-) Simplicissimus
-    <hr />
-1. <strong>&ldquo;Uluslararası modern tasarım hareketi Art Nouveau, farklı dillerde, farklı kimliklerde, farklı &uuml;lkelerde kendini g&ouml;stermiştir.&rdquo;<br />
-Bilgisinden hareketle aşağıdaki se&ccedil;eneklerin hangisinde Uluslararası Art Nouveau hareketinin kendisini g&ouml;sterdiği &uuml;lke ve hareketin adı <u>yanlış</u> verilmiştir?</strong>
-    - **Cevap A-) Almanya&rsquo;da &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık)**
-    - B-) Avusturya&rsquo;da &ldquo;Secession&rdquo; (Ayrılık&ccedil;ılık),
-    - C-) İtalya&rsquo;da &ldquo;Stile Liberty&rdquo;,
-    - D-) İspanya&rsquo;da &ldquo;Modernista&rdquo;,
-    - E-) Hollanda&rsquo;da &ldquo;Nieuwe Kunst&rdquo; olarak adlandırılmıştır.
-    <hr />
-1. <strong>İngiltere&rsquo;de grafik tasarım ve ill&uuml;strasyon alanlarında geniş boyutlarıyla etkili olan Art Nouveau hareketinde, en &uuml;nl&uuml; sanat&ccedil;ılardan biri &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&hellip;&hellip;&hellip;dir. D&ouml;nemin &ouml;nemli &hellip;.&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. adlı derginin kurucuları arasındaydı ve kendi grafik d&uuml;ş&uuml;ncelerini bu dergi sayesince kitlelere ulaştırmıştır?</strong>
-    - A-) Aubrey Beardsley &ndash; Modernista
-    - **Cevap B-) Aubrey Beardsley &ndash; The Yellow Book (Sarı Kitap)**
-    - C-) Aubrey Beardsley &ndash; Simplicissimus
-    - D-) Aubrey Beardsley &ndash; Pan
-    - E-) Aubrey Beardsley &ndash; Chap-Book
-    <hr />
-1. <strong>Aubrey Vincent Beardsley, hangi sanatın etkisinde kalarak eserlerini &uuml;retmiştir?</strong>
+    ***
+1. **“Uluslararası modern tasarım hareketi Art Nouveau, farklı dillerde, farklı kimliklerde, farklı ülkelerde kendini göstermiştir.”<br />Bilgisinden hareketle aşağıdaki seçeneklerin hangisinde Uluslararası Art Nouveau hareketinin kendisini gösterdiği ülke ve hareketin adı yanlış verilmiştir?**
+    - **Cevap A-) Almanya’da “Secession” (Ayrılıkçılık)**
+    - B-) Avusturya’da “Secession” (Ayrılıkçılık),
+    - C-) İtalya’da “Stile Liberty”,
+    - D-) İspanya’da “Modernista”,
+    - E-) Hollanda’da “Nieuwe Kunst” olarak adlandırılmıştır.
+    ***
+1. **İngiltere’de grafik tasarım ve illüstrasyon alanlarında geniş boyutlarıyla etkili olan Art Nouveau hareketinde, en ünlü sanatçılardan biri ……………….………dir. Dönemin önemli ….………………. adlı derginin kurucuları arasındaydı ve kendi grafik düşüncelerini bu dergi sayesince kitlelere ulaştırmıştır?**
+    - A-) Aubrey Beardsley – Modernista
+    - **Cevap B-) Aubrey Beardsley – The Yellow Book (Sarı Kitap)**
+    - C-) Aubrey Beardsley – Simplicissimus
+    - D-) Aubrey Beardsley – Pan
+    - E-) Aubrey Beardsley – Chap-Book
+    ***
+1. **Aubrey Vincent Beardsley, hangi sanatın etkisinde kalarak eserlerini üretmiştir?**
     - A-) Bauhaus
-    - B-) F&uuml;t&uuml;rizmin
+    - B-) Fütürizmin
     - C-) Mavi Atlıların
-    - **Cevap D-) Japon ağa&ccedil; baskı sanatının**
+    - **Cevap D-) Japon ağaç baskı sanatının**
     - E-) Soyut Ekspresyonizm
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Glasgow D&ouml;rtl&uuml;s&uuml;&rdquo; olarak adlandırılan tasarımcılar arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Glasgow Dörtlüsü” olarak adlandırılan tasarımcılar arasında yer almaz?**
     - A-) Charles Renni Mackintosh
     - B-) Herbert McNair
     - C-) Margaret
     - D-) Frances Macdonald
     - **Cevap E-) Jules Chéret**
-    <hr />
-1. John Hassal ve Dudley Hardy, Fransa&rsquo;daki &hellip;&hellip;&hellip;&hellip;&hellip;. gibi İngiltere&rsquo;de aynı role sahip olmuşlardır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. John Hassal ve Dudley Hardy, Fransa’daki ……………. gibi İngiltere’de aynı role sahip olmuşlardır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Eugene Grasset
     - B-) Alfons Maria Mucha
     - C-) Beardsley
     - D-) A. Senefelder
     - **Cevap E-) Chéret**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Almanya&rsquo;da Jugendstil Hareketi D&ouml;nemi&#39;nde yayımlanan dergilerden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Almanya’da Jugendstil Hareketi Dönemi'nde yayımlanan dergilerden biri değildir?**
     - A-) Pan
     - B-) Jugend
     - C-) Simplizissimus
     - D-) Ver Sacrum
     - **Cevap E-) Chap-Book**
-    <hr />
-1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi Secession Hareketi&rsquo;nin temsilcileri arasında <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdaki sanatçılardan hangisi Secession Hareketi’nin temsilcileri arasında değildir?**
     - A-) Alfred Roller
     - B-) Gustav Klimt
     - **Cevap C-) Aubrey Vincent Beardsley**
     - D-) Koloman Moser
     - E-) Josef Hoffmann
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.ve&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, Art Nouveau ve Avusturya Dışavurumculuğu arasında bir k&ouml;pr&uuml; kurmuşlardır.<br />
-<strong>C&uuml;mlesi aşağıdaki se&ccedil;eneklerden hangisiyle doldurulursa doğru bilgi vermiş olur?</strong>
+    ***
+1. ………………….ve………………, Art Nouveau ve Avusturya Dışavurumculuğu arasında bir köprü kurmuşlardır.<br />**Cümlesi aşağıdaki seçeneklerden hangisiyle doldurulursa doğru bilgi vermiş olur?**
     - A-) Kokoschka ve Egon Schiele
     - **Cevap B-) Alfred Roller ve Gustav Klimt**
     - C-) Josef Hoffmann ve Koloman Moser
     - D-) Aubrey Vincent Beardsley ve Gustav Klimt
     - E-) Koloman Moser ve Gustav Klimt
-    <hr />
-1. <strong>İngiltere&rsquo;de grafik tasarım ve ill&uuml;strasyon alanlarında geniş boyutlarıyla etkili olan, Art Nouveau Hareketi&#39;nin en &uuml;nl&uuml; sanat&ccedil;ılarından &ldquo;The Yellow Book&rdquo; (Sarı Kitap) adlı derginin kurucuları arasında yer alan ve &ldquo;Doruk Noktası&rdquo;adlı eseri bulunan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İngiltere’de grafik tasarım ve illüstrasyon alanlarında geniş boyutlarıyla etkili olan, Art Nouveau Hareketi'nin en ünlü sanatçılarından “The Yellow Book” (Sarı Kitap) adlı derginin kurucuları arasında yer alan ve “Doruk Noktası”adlı eseri bulunan sanatçı aşağıdakilerden hangisidir?**
     - A-) Josef Hoffmann
     - B-) Edward Penfield
     - **Cevap C-) Aubrey Vincent Beardsley**
     - D-) Koloman Moser
     - E-) Gustav Klimt
-    <hr />
-1. Uluslararası Art Nouveau Hareketi&rsquo; Almanya&rsquo;da&nbsp;<strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..&nbsp;</strong>(gen&ccedil;lik tarzı), Avusturya&rsquo;da&nbsp;<strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..&nbsp;</strong>(ayrılık&ccedil;ılık), İtalya&rsquo;da&nbsp;<strong>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&nbsp;</strong>olarak adlandırılmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Uluslararası Art Nouveau Hareketi’ Almanya’da **…………………..** (gençlik tarzı), Avusturya’da **………………………..** (ayrılıkçılık), İtalya’da **………………………** olarak adlandırılmıştır.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?**
     - A-) Jugendstil - Nieuwe Kunst- Secession
     - B-) Secession- Modernist - Stile Liberty
-    - **Cevap C-) Jugendstil &ndash; Secession - Stile Liberty**
-    - D-) Nieuwe Kunst &ndash; Jugendsti &ndash; Secession
-    - E-) Modernista &ndash; Secession - Nieuwe Kunst
-    <hr />
+    - **Cevap C-) Jugendstil – Secession - Stile Liberty**
+    - D-) Nieuwe Kunst – Jugendsti – Secession
+    - E-) Modernista – Secession - Nieuwe Kunst
+    ***
 ## Unite 6
-1. <strong>Ekspresyonizm (Dışavurumculuk) ilk hangi &uuml;lkede ortaya &ccedil;ıkmıştır?</strong>
+1. **Ekspresyonizm (Dışavurumculuk) ilk hangi ülkede ortaya çıkmıştır?**
     - A-) Fransa
     - B-) Hollanda
     - **Cevap C-) Almanya**
     - D-) İngiltere
     - E-) İtalya
-    <hr />
-1. &ldquo;Der Blaue Reiter&rsquo;in lideri olan &hellip;&hellip;&hellip;&hellip;., yalın renklerle ve şekillerle izleyicinin resimlerdeki hisleri ve atmosferi (ruhsal durumu) algılayabileceğine inanmıştır.&rdquo;<br />
-<strong>Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. “Der Blaue Reiter’in lideri olan …………., yalın renklerle ve şekillerle izleyicinin resimlerdeki hisleri ve atmosferi (ruhsal durumu) algılayabileceğine inanmıştır.”<br />**Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Picasso
     - **Cevap B-) Wassily Kandinsky**
     - C-) Paul Cezanne
     - D-) Van Gogh
     - E-) Claude Monet
-    <hr />
-1. &ldquo;1906&rsquo;da gruba katılan en &ouml;nemli Ekspresyonist sanat&ccedil;ı olan&hellip;&hellip;&hellip;&hellip;&hellip;, bir bu&ccedil;uk yıl sonra gruptan ayrılmasına karşın; &ccedil;alışmaları ile grup i&ccedil;in &ouml;nemli bir uyarıcı g&uuml;&ccedil; olmuştur.&rdquo;<br />
-<strong>Yukarıda anlatılan &ouml;zellikleri taşıyan Ekpresyonist sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. “1906’da gruba katılan en önemli Ekspresyonist sanatçı olan……………, bir buçuk yıl sonra gruptan ayrılmasına karşın; çalışmaları ile grup için önemli bir uyarıcı güç olmuştur.”<br />**Yukarıda anlatılan özellikleri taşıyan Ekpresyonist sanatçı aşağıdakilerden hangisidir?**
     - **Cevap A-) Emil Nolde**
     - B-) Wassily Kandinsky
     - C-) Hugo Ball
     - D-) Edvard Munch
     - E-) El Lissitzky
-    <hr />
-1. <strong>Ekspresyonistlerin kullandıkları en &ouml;nemli baskı tekniği aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Ekspresyonistlerin kullandıkları en önemli baskı tekniği aşağıdakilerden hangisidir?**
     - A-) Kolaj
-    - **Cevap B-) Ağa&ccedil; Baskı**
+    - **Cevap B-) Ağaç Baskı**
     - C-) İpek Baskı
     - D-) Fotokopi
-    - E-) Grav&uuml;r
-    <hr />
-1. <strong>Ekspresyonizm ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Renkleri &ccedil;arpıtmak
-    - B-) Sanat&ccedil;ının hissettirdiklerini dışa vurması
-    - **Cevap C-) Foto ger&ccedil;ek&ccedil;i yaklaşım**
+    - E-) Gravür
+    ***
+1. **Ekspresyonizm ile ilgili olarak aşağıdakilerden hangisi söylenemez?**
+    - A-) Renkleri çarpıtmak
+    - B-) Sanatçının hissettirdiklerini dışa vurması
+    - **Cevap C-) Foto gerçekçi yaklaşım**
     - D-) Formu abartmak
-    - E-) Sanat&ccedil;ının kendisini keşfetmesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Mavi Atlılar&rsquo;ın baskılarının resimlerinin i&ccedil;eriklerinden biri <u>değildir</u>?</strong>
+    - E-) Sanatçının kendisini keşfetmesi
+    ***
+1. **Aşağıdakilerden hangisi Mavi Atlılar’ın baskılarının resimlerinin içeriklerinden biri değildir?**
     - A-) Yalın renkler ve şekiller
-    - **Cevap B-) Hiper realist &ccedil;alışmalar**
+    - **Cevap B-) Hiper realist çalışmalar**
     - C-) Mavi renk kullanımı
     - D-) Atlar ve binicilik
     - E-) Dizginlerden bağımsız varoluş
-    <hr />
-1. İzlenimcilikten farklı olarak &hellip;&hellip;&hellip;&hellip;..sanat&ccedil;ıların ama&ccedil;ları, kendilerini &ccedil;evreleyen d&uuml;nya tarafından &ouml;nerilen g&ouml;rsel verileri taklit etmek değildi; ancak yerine olay ya da obje ile ilgili kendi yorumlarını betimlemek asıl kaygılarıydı.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir </strong><strong>?</strong>
+    ***
+1. İzlenimcilikten farklı olarak …………..sanatçıların amaçları, kendilerini çevreleyen dünya tarafından önerilen görsel verileri taklit etmek değildi; ancak yerine olay ya da obje ile ilgili kendi yorumlarını betimlemek asıl kaygılarıydı.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir** **?**
     - A-) De Stijl
     - B-) Realist
-    - C-) K&uuml;bizm
+    - C-) Kübizm
     - **Cevap D-) Ekspresyonist**
-    - E-) F&uuml;t&uuml;rist
-    <hr />
-1. I. Savaş<br />
-II. D&uuml;ş kırıklığı<br />
-III. Yabancılaşma<br />
-<strong>Yukarıdakilerden hangisi ya da&nbsp;hangileri Alman Ekspresyonizmi&#39;nin ana temaları arasındadır?</strong>
+    - E-) Fütürist
+    ***
+1. I. Savaş<br />II. Düş kırıklığı<br />III. Yabancılaşma<br />**Yukarıdakilerden hangisi ya da hangileri Alman Ekspresyonizmi'nin ana temaları arasındadır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Ekspresyonistler &uuml;zerinde etkili olan, ifadesel anlatımda canlı(etkileyici) renkleri ve eğri &ccedil;izgileri kullanması ve hissi(duygusal) resim &ouml;zelliğinden dolayı Hollandalı İzlenimcilik Sonrası (post izlenimci) sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Ekspresyonistler üzerinde etkili olan, ifadesel anlatımda canlı(etkileyici) renkleri ve eğri çizgileri kullanması ve hissi(duygusal) resim özelliğinden dolayı Hollandalı İzlenimcilik Sonrası (post izlenimci) sanatçı aşağıdakilerden hangisidir?**
     - A-) Picasso
     - B-) Salvador Dali
     - C-) Paul Cezanne
     - **Cevap D-) Van Gogh**
     - E-) Claude Monet
-    <hr />
-1. <strong>Almanya&rsquo;nın ge&ccedil;mişi ve geleceği arasında bir &ldquo;k&ouml;pr&uuml;y&uuml;&rdquo; inşa etmek isteyen sanatsal anlatımın yeni yollarını arayan Ekpresyonist hareket grubu aşağıdakilerden hangisidir?</strong>
-    - A-) F&uuml;t&uuml;rist
-    - B-) Konstr&uuml;ktivist
-    - **Cevap C-) Die Br&uuml;cke (K&ouml;pr&uuml;)**
+    ***
+1. **Almanya’nın geçmişi ve geleceği arasında bir “köprüyü” inşa etmek isteyen sanatsal anlatımın yeni yollarını arayan Ekpresyonist hareket grubu aşağıdakilerden hangisidir?**
+    - A-) Fütürist
+    - B-) Konstrüktivist
+    - **Cevap C-) Die Brücke (Köprü)**
     - D-) Der Blau Reıter (Mavi Atlılar)
     - E-) Realist
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Alman Ekspresyonizminde en sık kullanılan resim tekniğidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Alman Ekspresyonizminde en sık kullanılan resim tekniğidir?**
     - A-) İpek Baskı
     - B-) Fotoğraf
     - C-) Fotokopi
-    - **Cevap D-) Ağa&ccedil; Baskı**
+    - **Cevap D-) Ağaç Baskı**
     - E-) Kolaj
-    <hr />
-1. &ldquo;1909&rsquo;la d&uuml;z d&uuml;zlemler ve &hellip;&hellip;&hellip;.&rsquo;in/nun doygun renkleri, renklerin doğrudan t&uuml;pten &ccedil;ıktığı gibi kullanımları, Die Br&uuml;cke&rsquo;&uuml;n resimlerinde etkili olmuştur.&rdquo;<br />
-<strong>Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. “1909’la düz düzlemler ve ……….’in/nun doygun renkleri, renklerin doğrudan tüpten çıktığı gibi kullanımları, Die Brücke’ün resimlerinde etkili olmuştur.”<br />**Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Minimalizm
     - B-) Rokoko
     - C-) Realizm
     - **Cevap D-) Fovizm**
-    - E-) Konstr&uuml;ktivizm
-    <hr />
-1. &ldquo;Mavi rengi tercih etmiş ve &ccedil;alışmalarında at ve binici temalarını kullanmışlardır. Onlar, mavinin sembolik &ccedil;ağrışımlarını (yan anlamlarını) ve binicilerle ilişkilendirilen dizginlerden bağımsız varoluşu sevmişlerdir.&rdquo;<br />
-<strong>Yukarıda anlatılan &ouml;zellikleri taşıyan Ekpresyonist grup aşağıdakilerden hangisidir?</strong>
-    - A-) F&uuml;t&uuml;rist
+    - E-) Konstrüktivizm
+    ***
+1. “Mavi rengi tercih etmiş ve çalışmalarında at ve binici temalarını kullanmışlardır. Onlar, mavinin sembolik çağrışımlarını (yan anlamlarını) ve binicilerle ilişkilendirilen dizginlerden bağımsız varoluşu sevmişlerdir.”<br />**Yukarıda anlatılan özellikleri taşıyan Ekpresyonist grup aşağıdakilerden hangisidir?**
+    - A-) Fütürist
     - **Cevap B-) Der Blau Reiter (Mavi Atlılar)**
-    - C-) Die Br&uuml;cke (K&ouml;pr&uuml;)
+    - C-) Die Brücke (Köprü)
     - D-) Minimalist
     - E-) Realist
-    <hr />
-1. <strong>Norve&ccedil;&rsquo;li Edvard Munch tarafından yaratılan hangi eser ekspresyonist hareketin bir ikonuna d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
-    - **Cevap A-) &Ccedil;ığlık**
+    ***
+1. **Norveç’li Edvard Munch tarafından yaratılan hangi eser ekspresyonist hareketin bir ikonuna dönüşmüştür?**
+    - **Cevap A-) Çığlık**
     - B-) Yıldızlı Gece
     - C-) Dul Kadın
     - D-) Fırtına
-    - E-) Ok&ccedil;u
-    <hr />
-1. <strong>Ekspresyonizm ile ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Renkleri &ccedil;arpıtmak
+    - E-) Okçu
+    ***
+1. **Ekspresyonizm ile ilgili olarak aşağıdakilerden hangisi söylenemez?**
+    - A-) Renkleri çarpıtmak
     - B-) Olay ya da obje ile ilgili kendi yorumlarını betimlemek
-    - **Cevap C-) G&ouml;rsel verileri birebir taklit etmek**
+    - **Cevap C-) Görsel verileri birebir taklit etmek**
     - D-) Formu abartmak
-    - E-) Sanat&ccedil;ının kendisini keşfetmesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Br&uuml;cke baskılarının ana i&ccedil;eriklerinden biri <u>değildir</u>?</strong>
-    - A-) Bayan n&uuml; fig&uuml;r&uuml;n&uuml;n kullanımı
+    - E-) Sanatçının kendisini keşfetmesi
+    ***
+1. **Aşağıdakilerden hangisi Brücke baskılarının ana içeriklerinden biri değildir?**
+    - A-) Bayan nü figürünün kullanımı
     - B-) Kentsel ortama odaklanma
     - C-) Kırsal manzara
     - D-) Dinsel temalar
-    - **Cevap E-) Hiper realist &ccedil;alışmalar**
-    <hr />
-1. Der Blaue Reiter&rsquo;in lideri olan Kandinsky, yalın renklerle ve şekillerle izleyicinin resimlerdeki hisleri ve atmosferi (ruhsal durumu) algılayabileceğine inanmıştır; bu nedenle 20. y&uuml;zyıl sanatında ortaya &ccedil;ıkan &hellip;..................&hellip; &ouml;nemli bir ge&ccedil;iş yapmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) Soyutlama&#39;ya**
-    - B-) Ger&ccedil;ek&ccedil;ilik&#39;e
-    - C-) K&uuml;bizm&#39;e
+    - **Cevap E-) Hiper realist çalışmalar**
+    ***
+1. Der Blaue Reiter’in lideri olan Kandinsky, yalın renklerle ve şekillerle izleyicinin resimlerdeki hisleri ve atmosferi (ruhsal durumu) algılayabileceğine inanmıştır; bu nedenle 20. yüzyıl sanatında ortaya çıkan …..................… önemli bir geçiş yapmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Soyutlama'ya**
+    - B-) Gerçekçilik'e
+    - C-) Kübizm'e
     - D-) optik oyunlara
     - E-) doğayı taklit etmeye
-    <hr />
-1. I. Alman Ekspresyonist Hareketi, iki grup tarafından bi&ccedil;imlenmiştir. Bir tanesi, Die Br&uuml;cke (K&ouml;pr&uuml;) diğeri ise Der Blaue Reiter (Mavi Atlılar)&rsquo;dır.<br />
-II. Die Br&uuml;cke (K&ouml;pr&uuml;), 19. y&uuml;zyılın ilk &ccedil;eyreğinde Almanya&rsquo;da ortaya &ccedil;ıkan iki ekspresyonist hareketten biridir.<br />
-III. K&ouml;pr&uuml; grubu sanat&ccedil;ılarının ama&ccedil;ları, zamanın geleneksel akademik &uuml;slubundan kendilerini &ouml;zg&uuml;rleştirmek ve sanatsal anlatımın yeni yollarını aramak olmuştur.<br />
-<strong>&nbsp;Alman Ekspresyonizmi&#39;ni şekillendiren gruplar ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?</strong>
+    ***
+1. I. Alman Ekspresyonist Hareketi, iki grup tarafından biçimlenmiştir. Bir tanesi, Die Brücke (Köprü) diğeri ise Der Blaue Reiter (Mavi Atlılar)’dır.<br />II. Die Brücke (Köprü), 19. yüzyılın ilk çeyreğinde Almanya’da ortaya çıkan iki ekspresyonist hareketten biridir.<br />III. Köprü grubu sanatçılarının amaçları, zamanın geleneksel akademik üslubundan kendilerini özgürleştirmek ve sanatsal anlatımın yeni yollarını aramak olmuştur.<br />**Alman Ekspresyonizmi'ni şekillendiren gruplar ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?**
     - A-) Yalnız I
     - B-) Yalnız III
     - **Cevap C-) I ve III**
     - D-) I ve II
     - E-) I,II ve III
-    <hr />
-1. 1906&rsquo;da gruba katılan en &ouml;nemli Ekspresyonist sanat&ccedil;ı olan&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.<strong>, </strong>bir bu&ccedil;uk yıl sonra gruptan ayrılmasına karşın, &ccedil;alışmaları ile grup i&ccedil;in &ouml;nemli bir uyarıcı g&uuml;&ccedil; olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. 1906’da gruba katılan en önemli Ekspresyonist sanatçı olan………………………….**,** bir buçuk yıl sonra gruptan ayrılmasına karşın, çalışmaları ile grup için önemli bir uyarıcı güç olmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) Emil Nolde**
     - B-) Salvador Dali
     - C-) Paul Cezanne
     - D-) Van Gogh
     - E-) Edvard Munch
-    <hr />
+    ***
 ## Unite 7
-1. <strong>Aşağıdakilerden hangisi Tipografinin bir tasarım &ouml;ğesi olarak kullanılmasında etkin rol oynayan, F&uuml;t&uuml;rizmin &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) &Ccedil;ok y&ouml;nl&uuml; bakış a&ccedil;ısı
+1. **Aşağıdakilerden hangisi Tipografinin bir tasarım öğesi olarak kullanılmasında etkin rol oynayan, Fütürizmin özelliklerden biri değildir?**
+    - A-) Çok yönlü bakış açısı
     - B-) Eş zamanlı hareket
-    - C-) &Uuml;st &uuml;ste bindirme
-    - D-) &Ccedil;oğul zamanlılık
+    - C-) Üst üste bindirme
+    - D-) Çoğul zamanlılık
     - **Cevap E-) Durağan kompozisyon**
-    <hr />
-1. <strong>F&uuml;t&uuml;rizim hareketinin yaratıcısı/&ouml;nc&uuml;s&uuml; kimdir?</strong>
+    ***
+1. **Fütürizim hareketinin yaratıcısı/öncüsü kimdir?**
     - **Cevap A-) Filippo Tomasso Marinetti**
     - B-) Tristian Tzara
     - C-) Andy Warhol
     - D-) Alexander Rodchenko
     - E-) Pablo Picasso
-    <hr />
-1. <strong>Aşağıdakilerden hangisi F&uuml;t&uuml;rist tipografinin &ouml;zelliklerinden <u>değildir</u>?</strong>
-    - A-) Gramere (dil bilgisine), s&ouml;zdizimine &ouml;nem verilmemesi.
-    - B-) S&ouml;zc&uuml;klerin ve d&uuml;ş&uuml;ncelerin yaratıcı ve duygusal g&uuml;c&uuml;n&uuml;n ortaya konulduğu bir tuvali yaratma i&ccedil;in sayfanın formatının bozulması.
-    - C-) Değişik b&uuml;y&uuml;kl&uuml;klerden meydana gelen yazı karakterleri, ağırlıklar ve &uuml;slupların &ccedil;eşitliliği.
+    ***
+1. **Aşağıdakilerden hangisi Fütürist tipografinin özelliklerinden değildir?**
+    - A-) Gramere (dil bilgisine), sözdizimine önem verilmemesi.
+    - B-) Sözcüklerin ve düşüncelerin yaratıcı ve duygusal gücünün ortaya konulduğu bir tuvali yaratma için sayfanın formatının bozulması.
+    - C-) Değişik büyüklüklerden meydana gelen yazı karakterleri, ağırlıklar ve üslupların çeşitliliği.
     - **Cevap D-) Mesajın izleyiciye doğrudan ve okunabilir olarak iletilmesi.**
-    - E-) S&ouml;zc&uuml;k ve harflerin g&ouml;rsel imgelere d&ouml;n&uuml;şmesi.
-    <hr />
-1. <strong>F&uuml;t&uuml;rist tipografinin &ouml;zelliklerini taşıyan sembolik bir &ouml;rnek olan Marinetti&rsquo;nin g&ouml;rsel şiir &ccedil;alışması aşağıdakilerden hangisidir?</strong>
+    - E-) Sözcük ve harflerin görsel imgelere dönüşmesi.
+    ***
+1. **Fütürist tipografinin özelliklerini taşıyan sembolik bir örnek olan Marinetti’nin görsel şiir çalışması aşağıdakilerden hangisidir?**
     - A-) Beethoven Afişi
     - **Cevap B-) Zang Tumb Tumb**
     - C-) Giselle Afişi
     - D-) Merz
-    - E-) Fuji dağının otuz altı g&ouml;r&uuml;n&uuml;m&uuml;
-    <hr />
-1. <strong>Dada Hareketi&#39;nin d&uuml;zensizlik, anarşi, par&ccedil;alama, b&ouml;lme, bozma gibi &ouml;zellikler &uuml;zerine temellendirilmesi onu aşağıdaki hangi &uuml;retim tekniğine yakın kılmıştır?</strong>
+    - E-) Fuji dağının otuz altı görünümü
+    ***
+1. **Dada Hareketi'nin düzensizlik, anarşi, parçalama, bölme, bozma gibi özellikler üzerine temellendirilmesi onu aşağıdaki hangi üretim tekniğine yakın kılmıştır?**
     - **Cevap A-) Kolaj-fotomontaj**
-    - B-) Pent&uuml;r
+    - B-) Pentür
     - C-) Litografi
     - D-) Enstalasyon
     - E-) Video
-    <hr />
-1. <strong>Aşağıdaki isimlerden hangisi Dada sanat&ccedil;ıları-tasarımcıları arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdaki isimlerden hangisi Dada sanatçıları-tasarımcıları arasında yer almaz?**
     - A-) John Heartfield
-    - **Cevap B-) Josef M&uuml;ller Brockmann**
+    - **Cevap B-) Josef Müller Brockmann**
     - C-) Marcel Duchamp
     - D-) Francis Picabia
-    - E-) Hannah H&ouml;ch
-    <hr />
-1. <strong>Uyumsuz g&ouml;rsel ve s&ouml;zsel materyali yan yana getirerek, dilin semantik erimesini destekleyen ayrıca Dada grafik sanat&ccedil;ıları i&ccedil;in ideal bir teknik h&acirc;line gelen teknik aşağıdakilerden hangisidir?</strong>
+    - E-) Hannah Höch
+    ***
+1. **Uyumsuz görsel ve sözsel materyali yan yana getirerek, dilin semantik erimesini destekleyen ayrıca Dada grafik sanatçıları için ideal bir teknik hâline gelen teknik aşağıdakilerden hangisidir?**
     - A-) Pop Art
     - B-) Fotografik
     - C-) Punk
     - D-) Fluxus
     - **Cevap E-) Kolaj**
-    <hr />
-1. <strong>Dada sanat&ccedil;ılarının felsefeleri ve &uuml;retim y&ouml;ntemleri ile ilgili aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Kitle &uuml;retim malzemelerini yan yana, bir araya getirme.
-    - B-) Ger&ccedil;ekliği yeniden yaratma ya da sunma bi&ccedil;imi olarak geleneksel sanatın kullanımını ortadan kaldıran kolaj tekniğini kullanma.
-    - C-) Savaşı, toplumu, dini, &ouml;nceki sanatları ve yerleşik b&uuml;t&uuml;n değerleri protesto etmek amacıyla g&uuml;l&uuml;n&ccedil; ve şok taktikleri de kullanma.
-    - D-) Geleneksel estetik standartları ortadan kaldırmayı ama&ccedil;lamak.
-    - **Cevap E-) İ&ccedil;eriğin &ouml;n planda olduğu minimal tipografi kullanmak.**
-    <hr />
-1. <strong>F&uuml;t&uuml;rizm Akımı&#39;nın var olma s&uuml;reci aşağıdakilerden hangisidir?</strong>
-    - A-) II. D&uuml;nya Savaşı s&uuml;resince
+    ***
+1. **Dada sanatçılarının felsefeleri ve üretim yöntemleri ile ilgili aşağıdakilerden hangisi söylenemez?**
+    - A-) Kitle üretim malzemelerini yan yana, bir araya getirme.
+    - B-) Gerçekliği yeniden yaratma ya da sunma biçimi olarak geleneksel sanatın kullanımını ortadan kaldıran kolaj tekniğini kullanma.
+    - C-) Savaşı, toplumu, dini, önceki sanatları ve yerleşik bütün değerleri protesto etmek amacıyla gülünç ve şok taktikleri de kullanma.
+    - D-) Geleneksel estetik standartları ortadan kaldırmayı amaçlamak.
+    - **Cevap E-) İçeriğin ön planda olduğu minimal tipografi kullanmak.**
+    ***
+1. **Fütürizm Akımı'nın var olma süreci aşağıdakilerden hangisidir?**
+    - A-) II. Dünya Savaşı süresince
     - B-) 1900 - 1923
     - **Cevap C-) 1909 - 1944**
     - D-) 1945 - 1955
     - E-) 1960-1970
-    <hr />
-1. 1927&rsquo;de Ressam, şair ve tasarımcı Fortunato Depero, F&uuml;t&uuml;rist grafik tasarım ve kişisel promosyonunun ana &ccedil;alışmalarından biri olan &hellip;... adlı meşhur cıvatalı kitabını yayınlamış ve yeni tipografinin bir &ouml;rneğini oluşturmuştur.<br />
-<strong>C&uuml;mlesindeki boşluğa aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. 1927’de Ressam, şair ve tasarımcı Fortunato Depero, Fütürist grafik tasarım ve kişisel promosyonunun ana çalışmalarından biri olan …... adlı meşhur cıvatalı kitabını yayınlamış ve yeni tipografinin bir örneğini oluşturmuştur.<br />**Cümlesindeki boşluğa aşağıdakilerden hangisi gelmelidir?**
     - A-) Die Neue Typographie
     - **Cevap B-) Depero Futurista**
     - C-) Litterature
-    - D-) A Designer&rsquo;s Art
+    - D-) A Designer’s Art
     - E-) My Typograhy
-    <hr />
-1. <strong>F&uuml;t&uuml;rizm hareketinin &ouml;nc&uuml;s&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Fütürizm hareketinin öncüsü aşağıdakilerden hangisidir?**
     - A-) A. M. Cassandre
     - B-) Tristian Tzara
     - **Cevap C-) Filippo Tomasso MArinetti**
     - D-) Alexander Rodchenko
     - E-) Pablo Picasso
-    <hr />
-1. <strong>Aşağıdakilerden hangisi F&uuml;t&uuml;ristlerin g&ouml;rsel şiir anlayışlarını oluştururken denedikleri yenilikler arasında <u>yer almaz</u>?</strong>
-    - **Cevap A-) Reklam imgeleri ve seri &uuml;retim nesnelerini kompozisyonlarına d&acirc;hil etmek**
-    - B-) Tekrarlayan yankı kelimeler (doğal sesleri yansıtan s&ouml;zc&uuml;kler), anlamsız s&ouml;zc&uuml;kler, matematiksel semboller ve işaretler kullanmak
-    - C-) Satır diziliminden vazge&ccedil;ip sayfa &uuml;zerinde serbest tipografi kullanmak
-    - D-) Birden fazla &ccedil;eşit yazı karakterini bir arada ve &ccedil;eşitli boyutlarda kullanmak
-    - E-) Kamerayla hareketli bir objenin bir&ccedil;ok karesini &ccedil;ekerek yapılan fotoğraflara benzer şekilde, mek&acirc;nda objenin hareketini betimlemeyi araştırmak
-    <hr />
-1. <strong>G&uuml;nl&uuml;k objeleri sanat eseri olarak sunan ve hazır nesne kullanımı ile i&ccedil;erik, anlam ve orjinallik gibi konularda tartışma yaratan Dadacı sanat&ccedil;ı kimdir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Fütüristlerin görsel şiir anlayışlarını oluştururken denedikleri yenilikler arasında yer almaz?**
+    - **Cevap A-) Reklam imgeleri ve seri üretim nesnelerini kompozisyonlarına dâhil etmek**
+    - B-) Tekrarlayan yankı kelimeler (doğal sesleri yansıtan sözcükler), anlamsız sözcükler, matematiksel semboller ve işaretler kullanmak
+    - C-) Satır diziliminden vazgeçip sayfa üzerinde serbest tipografi kullanmak
+    - D-) Birden fazla çeşit yazı karakterini bir arada ve çeşitli boyutlarda kullanmak
+    - E-) Kamerayla hareketli bir objenin birçok karesini çekerek yapılan fotoğraflara benzer şekilde, mekânda objenin hareketini betimlemeyi araştırmak
+    ***
+1. **Günlük objeleri sanat eseri olarak sunan ve hazır nesne kullanımı ile içerik, anlam ve orjinallik gibi konularda tartışma yaratan Dadacı sanatçı kimdir?**
     - A-) George Grosz
     - B-) John Heartfield
     - C-) Man Ray
     - **Cevap D-) Marcel Duchamp**
     - E-) Tristan Tzara
-    <hr />
-1. <strong>Fotomontajlarıyla &ouml;n plana &ccedil;ıkan ve kadının toplum i&ccedil;indeki rol&uuml;n&uuml; sorgulayan, Dadanın tek kadın &uuml;yesi olarak tanınan isim aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Fotomontajlarıyla ön plana çıkan ve kadının toplum içindeki rolünü sorgulayan, Dadanın tek kadın üyesi olarak tanınan isim aşağıdakilerden hangisidir?**
     - A-) Barbara Kruger
     - B-) Alexander Dochenko
-    - **Cevap C-) Hannah H&ouml;ch**
+    - **Cevap C-) Hannah Höch**
     - D-) April Gremain
     - E-) Rene Margitte
-    <hr />
-1. <strong>Kurt Schwitters&rsquo;ın g&ouml;rsel ve s&ouml;zsel kolajları i&ccedil;in Almanca &quot;ticaret&quot; s&ouml;zc&uuml;ğ&uuml;nden t&uuml;rettiği terim aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Kurt Schwitters’ın görsel ve sözsel kolajları için Almanca "ticaret" sözcüğünden türettiği terim aşağıdakilerden hangisidir?**
     - **Cevap A-) Merz**
     - B-) Tumb Tumb
     - C-) Fauntain
     - D-) Bauhaus
     - E-) PROUNS
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Dadaizm&rsquo;in etkilerini &ccedil;alışmalarında yansıtan g&uuml;n&uuml;m&uuml;z tasarımcılarındandır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Dadaizm’in etkilerini çalışmalarında yansıtan günümüz tasarımcılarındandır?**
     - A-) Luc Tuymans
     - **Cevap B-) Jonathan Barnbrook**
     - C-) Milton Glaser
     - D-) Neville Broody
     - E-) William Morris
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Dada&rsquo;nın ortaya &ccedil;ıktığı d&ouml;nemin sosyopolitik &ouml;zelliklerinden biridir?</strong>
-    - **Cevap A-) I. D&uuml;nya Savaşı&rsquo;nın yıkıcı etkisi**
-    - B-) Sanayi Devrimi&rsquo;nin etkisi
-    - C-) Ekim Devrimi&rsquo;nin etkisi
-    - D-) B&uuml;y&uuml;k Buhran&rsquo;ın etkisi
-    - E-) Fransız İhtilali&rsquo;nin etkisi
-    <hr />
-1. <strong>F&uuml;t&uuml;rizm ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) F&uuml;t&uuml;rizmin ilk adımı Mallarm&eacute; ile gelmiştir ama modern tipografinin Marinetti&rsquo;nin 1909 yılında yayımladığı manifestoyla başlamıştır.
-    - **Cevap B-) F&uuml;t&uuml;rizm&#39;in temeli 1916&rsquo;da İsvi&ccedil;re&rsquo;nin Z&uuml;rih kentinde, şair Tristan Tzara tarafından yazınsal ve sanatsal hareket olarak ortaya &ccedil;ıkmıştır.**
-    - C-) Marinetti, şairin duyguyu ifade etmesine izin veren mantıksal d&uuml;zenin ve sentaksın (s&ouml;zdiziminin) &ouml;zg&uuml;r dilini gerekli kılan &ldquo;&Ouml;zg&uuml;r S&ouml;zc&uuml;kler&rdquo; şiiriyle F&uuml;t&uuml;rizm&#39;in ilkelerini ilan etmiştir.
-    - D-) 1927&rsquo;de ressam, şair ve tasarımcı Fortunato Depero, F&uuml;t&uuml;rist grafik tasarım ve kişisel promosyonun ana &ccedil;alışmalarından biri olan Depero Futurista adlı civatalı kitabını yayımlamış ve yeni tipografinin bir &ouml;rneğini oluşturmuştur.
-    - E-) 1913 ve 1914 yılları arasında &ldquo;&Ouml;zg&uuml;r S&ouml;zc&uuml;kler&rdquo;le Marinetti, orijinal anlamlarındaki ilişkiyi yok etmek i&ccedil;in, s&ouml;zc&uuml;kleri par&ccedil;alamış, b&uuml;y&uuml;tm&uuml;ş (&ccedil;ekmiş) ve bozmuştur.
-    <hr />
-1. Marinetti ve arkadaşları, gramere (dil bilgisine), s&ouml;z dizimine &ouml;nem vermemişler; s&ouml;zc&uuml;klerin ve d&uuml;ş&uuml;ncelerin yaratıcı ve duygusal g&uuml;c&uuml;n&uuml;n ortaya konduğu bir tuvali yaratmak i&ccedil;in sayfanın formatını bozmuşlardır.<br />
-<strong>Marinetti&#39;nin bu duruma uygun olarak kaleme aldığı şiir aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Dada’nın ortaya çıktığı dönemin sosyopolitik özelliklerinden biridir?**
+    - **Cevap A-) I. Dünya Savaşı’nın yıkıcı etkisi**
+    - B-) Sanayi Devrimi’nin etkisi
+    - C-) Ekim Devrimi’nin etkisi
+    - D-) Büyük Buhran’ın etkisi
+    - E-) Fransız İhtilali’nin etkisi
+    ***
+1. **Fütürizm ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Fütürizmin ilk adımı Mallarmé ile gelmiştir ama modern tipografinin Marinetti’nin 1909 yılında yayımladığı manifestoyla başlamıştır.
+    - **Cevap B-) Fütürizm'in temeli 1916’da İsviçre’nin Zürih kentinde, şair Tristan Tzara tarafından yazınsal ve sanatsal hareket olarak ortaya çıkmıştır.**
+    - C-) Marinetti, şairin duyguyu ifade etmesine izin veren mantıksal düzenin ve sentaksın (sözdiziminin) özgür dilini gerekli kılan “Özgür Sözcükler” şiiriyle Fütürizm'in ilkelerini ilan etmiştir.
+    - D-) 1927’de ressam, şair ve tasarımcı Fortunato Depero, Fütürist grafik tasarım ve kişisel promosyonun ana çalışmalarından biri olan Depero Futurista adlı civatalı kitabını yayımlamış ve yeni tipografinin bir örneğini oluşturmuştur.
+    - E-) 1913 ve 1914 yılları arasında “Özgür Sözcükler”le Marinetti, orijinal anlamlarındaki ilişkiyi yok etmek için, sözcükleri parçalamış, büyütmüş (çekmiş) ve bozmuştur.
+    ***
+1. Marinetti ve arkadaşları, gramere (dil bilgisine), söz dizimine önem vermemişler; sözcüklerin ve düşüncelerin yaratıcı ve duygusal gücünün ortaya konduğu bir tuvali yaratmak için sayfanın formatını bozmuşlardır.<br />**Marinetti'nin bu duruma uygun olarak kaleme aldığı şiir aşağıdakilerden hangisidir?**
     - A-) Everyman His Own Football
     - B-) Depero Futurista
     - **Cevap C-) Zang Tumb Tumb**
     - D-) Chimismi Lirici
     - E-) Die Scheuche Marchen
-    <hr />
-1. <strong>F&uuml;t&uuml;rist ressamların sanat anlayışıyla ilgili olarak aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) &Ccedil;izgilerin tekrarlarını kullanarak ritim yaratmışlardır.
-    - B-) Objeleri katmanlaştırarak dinamik ve girdap bi&ccedil;imleri oluşturmuşlardır.
-    - C-) Mek&acirc;nda objenin hareketini betimlemek i&ccedil;in fotoğrafik tekniklerden esinlenmişlerdir.
+    ***
+1. **Fütürist ressamların sanat anlayışıyla ilgili olarak aşağıdakilerden hangisi söylenemez?**
+    - A-) Çizgilerin tekrarlarını kullanarak ritim yaratmışlardır.
+    - B-) Objeleri katmanlaştırarak dinamik ve girdap biçimleri oluşturmuşlardır.
+    - C-) Mekânda objenin hareketini betimlemek için fotoğrafik tekniklerden esinlenmişlerdir.
     - **Cevap D-) Sanatlarında durağan ve statik imgeleri tercih etmişlerdir.**
     - E-) Hareketli ve renkli imgelerle kompozisyonlarını oluşturmuşlardır.
-    <hr />
+    ***
 ## Unite 8
-1. <strong>Saf rengin bir ifade aracı olan n&ouml;tr beyaz zemin &uuml;zerine yerleştirilen &ouml;gesel şekillerin senfonik d&uuml;zenlemesine ne ad verilir?</strong>
-    - A-) Konstr&uuml;ktivist Kompozisyon
-    - **Cevap B-) S&uuml;prematist Kompozisyon**
+1. **Saf rengin bir ifade aracı olan nötr beyaz zemin üzerine yerleştirilen ögesel şekillerin senfonik düzenlemesine ne ad verilir?**
+    - A-) Konstrüktivist Kompozisyon
+    - **Cevap B-) Süprematist Kompozisyon**
     - C-) Nesne Kompozisyonu
     - D-) İnşaacı Kompozisyon
     - E-) Estetik Kompozisyon
-    <hr />
-1. <strong>Kariyeri boyunca yaptığı otuz dokuz soyut &ccedil;alışmanın en &uuml;nl&uuml;s&uuml; &ldquo;Siyah Kare&rdquo; olan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Kariyeri boyunca yaptığı otuz dokuz soyut çalışmanın en ünlüsü “Siyah Kare” olan sanatçı aşağıdakilerden hangisidir?**
     - **Cevap A-) Kasimir Malevich**
     - B-) Alexander Rodchenko
     - C-) El Lissitzky
-    - D-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    - D-) Glasgow Dörtlüsü
     - E-) Antoine Pevsner
-    <hr />
-1. 1921&rsquo;de Moskova&rsquo;da a&ccedil;ılan ve 5 sanat&ccedil;ının (Rodchenko, Stepanova, Aleksandra Ekster, Liubov Popova ve Aleksandr Vesnin) 5 tablosunun yer aldığı saf kırmızı, mavi ve sarı renkten oluşan &uuml;&ccedil; monokromatik tablolarını sergileyerek, soyut sanatın &ouml;ld&uuml;ğ&uuml;n&uuml; ilan etmişlerdir.<strong><br />
-Bu sergi aşağıdakilerden hangidir?</strong>
+    ***
+1. 1921’de Moskova’da açılan ve 5 sanatçının (Rodchenko, Stepanova, Aleksandra Ekster, Liubov Popova ve Aleksandr Vesnin) 5 tablosunun yer aldığı saf kırmızı, mavi ve sarı renkten oluşan üç monokromatik tablolarını sergileyerek, soyut sanatın öldüğünü ilan etmişlerdir.**Bu sergi aşağıdakilerden hangidir?**
     - **Cevap A-) 5X5=25**
     - B-) Moskova
     - C-) 1921
     - D-) Rodchenko
     - E-) Mavi-Sarı-Kırmızı
-    <hr />
-1. El Lissitzky &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;adlı kitabı, fiziksel yapı, tipografik tasarım ve renk kullanarak tasarladığı devrimci şiirlerin toplamından meydana gelmiş ve Rus avangard kitap yapımının en başarılı &ouml;rneklerinden biri olarak kabul edilmiştir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. El Lissitzky ………………………adlı kitabı, fiziksel yapı, tipografik tasarım ve renk kullanarak tasarladığı devrimci şiirlerin toplamından meydana gelmiş ve Rus avangard kitap yapımının en başarılı örneklerinden biri olarak kabul edilmiştir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Mavi-Sarı-Kırmızı
     - B-) For the Rice
     - C-) For the Vice
     - **Cevap D-) For the Voice**
     - E-) Renklerin Dili
-    <hr />
-1. Afişlerin hareketli &ouml;zelliklerini vurgulamak amacıyla, yeni, daha ifadeci anlatımla rengi kullanmışlardır. Siyah-beyaz filmleri afişlerinde renkli g&ouml;sterebilmek amacıyla se&ccedil;tikleri renkler, kışkırtıcı ve duygusal bir etki yaratmıştır.<strong><br />
-Bu sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. Afişlerin hareketli özelliklerini vurgulamak amacıyla, yeni, daha ifadeci anlatımla rengi kullanmışlardır. Siyah-beyaz filmleri afişlerinde renkli gösterebilmek amacıyla seçtikleri renkler, kışkırtıcı ve duygusal bir etki yaratmıştır.**Bu sanatçı aşağıdakilerden hangisidir?**
     - A-) Kasimir Malevich
     - B-) Alexander Rodchenko
     - C-) El Lissitzky
-    - D-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    - D-) Glasgow Dörtlüsü
     - **Cevap E-) Stenberg kardeşler**
-    <hr />
-1. S&uuml;prematizm (1913-1919), negatif mekanla &ccedil;evreli karelerin ve dikd&ouml;rtgenlerin sembolik yerleştirmesiyle tanımlanmış ancak &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..olmayan sanattır.<strong><br />
-C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
-    - **Cevap A-) Fig&uuml;ratif**
-    - B-) &Ouml;znel
+    ***
+1. Süprematizm (1913-1919), negatif mekanla çevreli karelerin ve dikdörtgenlerin sembolik yerleştirmesiyle tanımlanmış ancak ………………..olmayan sanattır.**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
+    - **Cevap A-) Figüratif**
+    - B-) Öznel
     - C-) Emsali
     - D-) Minimal
     - E-) Geometrik
-    <hr />
-1. <strong>Konstr&uuml;ktivist sanat&ccedil;ılar,&nbsp;S&uuml;prematist sanat&ccedil;ıların savunduğu &ldquo;Sanat sanat i&ccedil;indir.&rdquo; anlayışına karşı &ccedil;ıkarak hangi g&ouml;r&uuml;ş&uuml; savunmuşlardır?</strong>
-    - A-) Sanat, sanat&ccedil;ı i&ccedil;indir.
-    - **Cevap B-) Sanat, toplum i&ccedil;indir.**
-    - C-) Sanat, sanat&ccedil;ının hedef kitlesi i&ccedil;indir.
-    - D-) Sanat, zanaat i&ccedil;indir.
-    - E-) Sanat, &ouml;l&uuml;ms&uuml;zl&uuml;k i&ccedil;indir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Konstr&uuml;ktivizmin &ouml;nc&uuml;lerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Konstrüktivist sanatçılar, Süprematist sanatçıların savunduğu “Sanat sanat içindir.” anlayışına karşı çıkarak hangi görüşü savunmuşlardır?**
+    - A-) Sanat, sanatçı içindir.
+    - **Cevap B-) Sanat, toplum içindir.**
+    - C-) Sanat, sanatçının hedef kitlesi içindir.
+    - D-) Sanat, zanaat içindir.
+    - E-) Sanat, ölümsüzlük içindir.
+    ***
+1. **Aşağıdakilerden hangisi Konstrüktivizmin öncülerinden biri değildir?**
     - A-) Alexander Rodchenko
     - B-) El Lissitzky
-    - **Cevap C-) Glasgow D&ouml;rtl&uuml;s&uuml;**
+    - **Cevap C-) Glasgow Dörtlüsü**
     - D-) Antoine Pevsner
     - E-) Liubov Popova
-    <hr />
-1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi 1913&#39;te S&uuml;prematizm&#39;i ortaya &ccedil;ıkarmıştır?</strong>
+    ***
+1. **Aşağıdaki sanatçılardan hangisi 1913'te Süprematizm'i ortaya çıkarmıştır?**
     - **Cevap A-) Kasimir Malevich**
     - B-) Alexander Rodchenko
     - C-) El Lissitzky
-    - D-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    - D-) Glasgow Dörtlüsü
     - E-) Antoine Pevsner
-    <hr />
-1. 1920&rsquo;li yıllarla birlikte &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;tasarımcılar, plastik sanatlarla, afiş sanatını kaynaştırmayı başarmışlar ve onu kitlelere ulaşılabilir kılmışlardır.<strong> </strong><br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) s&uuml;prematist
+    ***
+1. 1920’li yıllarla birlikte …………………………tasarımcılar, plastik sanatlarla, afiş sanatını kaynaştırmayı başarmışlar ve onu kitlelere ulaşılabilir kılmışlardır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) süprematist
     - B-) optimist
     - C-) ekspresyonist
     - D-) fovist
-    - **Cevap E-) konstr&uuml;ktivist**
-    <hr />
-1. Heykeltraşlar ve fotoğraf&ccedil;ılar, makinelere, teknolojiye, işlevselciliğe ve modern ara&ccedil;lara olan hayranlıklarından dolayı &uuml;yeler, kendilerini &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.olarak nitelendirmişlerdir.<strong> </strong><br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
-    - A-) yaratıcı-sanat&ccedil;ı
-    - B-) sanat&ccedil;ı-araştırmacı
-    - C-) sanat&ccedil;ı-d&uuml;ş&uuml;n&uuml;r
-    - **Cevap D-) sanat&ccedil;ı-m&uuml;hendis**
-    - E-) sanat&ccedil;ı-teorisyen
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. Lef dergisi i&ccedil;in yaptığı tipo baskı tasarımları kabaca &uuml;retilmiştir; bu derginin kapak tasarımlarının ham g&ouml;r&uuml;nt&uuml;s&uuml;, derginin hem sınırlı ekonomik kaynaklarını hem de tipo baskının &uuml;retiminin doğasını yansıtmıştır.<strong><br />
-C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    - **Cevap E-) konstrüktivist**
+    ***
+1. Heykeltraşlar ve fotoğrafçılar, makinelere, teknolojiye, işlevselciliğe ve modern araçlara olan hayranlıklarından dolayı üyeler, kendilerini ………………….olarak nitelendirmişlerdir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
+    - A-) yaratıcı-sanatçı
+    - B-) sanatçı-araştırmacı
+    - C-) sanatçı-düşünür
+    - **Cevap D-) sanatçı-mühendis**
+    - E-) sanatçı-teorisyen
+    ***
+1. ………………………. Lef dergisi için yaptığı tipo baskı tasarımları kabaca üretilmiştir; bu derginin kapak tasarımlarının ham görüntüsü, derginin hem sınırlı ekonomik kaynaklarını hem de tipo baskının üretiminin doğasını yansıtmıştır.**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - **Cevap A-) Alexander Rodchenko**
     - B-) El Lissitzky
-    - C-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    - C-) Glasgow Dörtlüsü
     - D-) Antoine Pevsner
     - E-) Liubov Popova
-    <hr />
-1. &lsquo;For the Voice&rsquo; adlı kitabı, fiziksel yapı, tipografik tasarım ve renk kullanarak tasarladığı devrimci şiirlerin toplamından meydana gelmiş ve Rus avangard kitap yapımının en başarılı &ouml;rneklerinden biri olarak kabul edilmiştir.<strong><br />
-C&uuml;mlede bahsedilen sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. ‘For the Voice’ adlı kitabı, fiziksel yapı, tipografik tasarım ve renk kullanarak tasarladığı devrimci şiirlerin toplamından meydana gelmiş ve Rus avangard kitap yapımının en başarılı örneklerinden biri olarak kabul edilmiştir.**Cümlede bahsedilen sanatçı aşağıdakilerden hangisidir?**
     - A-) Kasimir Malevich
     - B-) Alexander Rodchenko,
     - **Cevap C-) El Lissitzky**
-    - D-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    - D-) Glasgow Dörtlüsü
     - E-) Antoine Pevsner
-    <hr />
-1. Propaganda aracı olarak kullanılan bu yeni politik tarzı, &ldquo;kitlelerin yeni sanatı&rdquo; olarak nitelendirilmiştir.<br />
-<strong>1920&rsquo;lerin sonları ve 1930&rsquo;ların başlarında sanat&ccedil;ılar, politik ama&ccedil;lar adına sanat&ccedil;ılar hangi tekniği kullanmaya başlamışlardır?</strong>
+    ***
+1. Propaganda aracı olarak kullanılan bu yeni politik tarzı, “kitlelerin yeni sanatı” olarak nitelendirilmiştir.<br />**1920’lerin sonları ve 1930’ların başlarında sanatçılar, politik amaçlar adına sanatçılar hangi tekniği kullanmaya başlamışlardır?**
     - **Cevap A-) Fotomontaj**
     - B-) Resimsel
     - C-) Soyut
     - D-) Geometrik
     - E-) Suluboya
-    <hr />
-1. 1923&rsquo;den sonra &ccedil;alışmalarını &quot;2 Stenberg 2&quot; olarak imzalamaya başlamışlardır. &Ccedil;&uuml;nk&uuml; objelerin bireysel olarak değil, kollektif olarak &uuml;retildiği izlenimini vermek ama&ccedil;lıydı. Bu ortaklık, yalnızca kardeşlere &ouml;zg&uuml; (kardeşlik) sevgi bağını değil aynı zamanda Bolşevikler tarafından ama&ccedil;lanan &ldquo;yeni toplum&rdquo;un idealizmini yansıtmıştır.<strong><br />
-Bahsedilen sanat&ccedil;ı grubu aşağıdakilerden hangisidir?</strong>
-    - A-) Glasgow D&ouml;rtl&uuml;s&uuml;
+    ***
+1. 1923’den sonra çalışmalarını "2 Stenberg 2" olarak imzalamaya başlamışlardır. Çünkü objelerin bireysel olarak değil, kollektif olarak üretildiği izlenimini vermek amaçlıydı. Bu ortaklık, yalnızca kardeşlere özgü (kardeşlik) sevgi bağını değil aynı zamanda Bolşevikler tarafından amaçlanan “yeni toplum”un idealizmini yansıtmıştır.**Bahsedilen sanatçı grubu aşağıdakilerden hangisidir?**
+    - A-) Glasgow Dörtlüsü
     - B-) Seventeen Kardeşler
     - **Cevap C-) Stenberg Kardeşler**
     - D-) Brothers
     - E-) Seventeen Sisters
-    <hr />
-1. I. Negatif mek&acirc;nla &ccedil;evreli karelerin ve dikd&ouml;rtgenlerin sembolik yerleştirmesiyle tanımlanmış ancak fig&uuml;ratif olmayan sanattır.<br />
-II. Resimsel betimleme yerine &ldquo;duygunun dışavurumunu&rdquo; yakalamayı ama&ccedil;lamıştır.<br />
-III. Temelinde bir sanat&ccedil;ının sanatla deneyim kazanabilmesi i&ccedil;in &ouml;ncelikle renkle deneyim kazanması gerekliliği vardır.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri S&uuml;prematizm&#39;in &ouml;zelliklerindendir?</strong>
+    ***
+1. I. Negatif mekânla çevreli karelerin ve dikdörtgenlerin sembolik yerleştirmesiyle tanımlanmış ancak figüratif olmayan sanattır.<br />II. Resimsel betimleme yerine “duygunun dışavurumunu” yakalamayı amaçlamıştır.<br />III. Temelinde bir sanatçının sanatla deneyim kazanabilmesi için öncelikle renkle deneyim kazanması gerekliliği vardır.<br />**Yukarıdakilerden hangisi ya da hangileri Süprematizm'in özelliklerindendir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) I ve II
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>S&uuml;prematizm&#39;i; &ldquo;Mutlak bir sistem ve bu sistem i&ccedil;inde renk, onun ger&ccedil;ek gelişimini sağlamıştır.&rdquo; şeklinde tanımlayan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Süprematizm'i; “Mutlak bir sistem ve bu sistem içinde renk, onun gerçek gelişimini sağlamıştır.” şeklinde tanımlayan sanatçı aşağıdakilerden hangisidir?**
     - A-) Antoine Pevsner
     - **Cevap B-) Kasimir Malevich**
     - C-) Olga Rozanova
     - D-) Liubov Popova
     - E-) Vladimir Tatlin
-    <hr />
+    ***
 ## Unite 9
-1. 1925&#39;te Weimar&#39;daki politik iklim değişikliği y&uuml;z&uuml;nden Bauhaus, Dessau&#39;ya taşınmış; Dessau&#39;da &hellip;&hellip;&hellip;&hellip;&hellip;. ve &hellip;&hellip;&hellip;&hellip;&hellip;. fikirler egemen olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir ?</strong>
-    - **Cevap A-) De Stijl ve Konstr&uuml;ktivist**
+1. 1925'te Weimar'daki politik iklim değişikliği yüzünden Bauhaus, Dessau'ya taşınmış; Dessau'da ……………. ve ……………. fikirler egemen olmuştur.<br />**Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir ?**
+    - **Cevap A-) De Stijl ve Konstrüktivist**
     - B-) Art Nouveau ve De Stijl
     - C-) De Stijl ve Art Deco
-    - D-) Art Deco ve Konstr&uuml;ktivist
-    - E-) Konstr&uuml;ktivist ve Realist
-    <hr />
-1. <strong>Bauhaus okulu kurulurken aşağıdaki akımlardan hangisi ilham <u>alınmamıştır</u>?</strong>
-    - A-) Arts &amp; Crafts
+    - D-) Art Deco ve Konstrüktivist
+    - E-) Konstrüktivist ve Realist
+    ***
+1. **Bauhaus okulu kurulurken aşağıdaki akımlardan hangisi ilham alınmamıştır?**
+    - A-) Arts & Crafts
     - B-) Dadaizm
     - **Cevap C-) Pop art**
-    - D-) Konstr&uuml;ktivizm
+    - D-) Konstrüktivizm
     - E-) Neo-plastizm
-    <hr />
-1. Die neue Typographie, sans serif yazı karakterleriyle dizilmesine karşın; 1935&rsquo;te yayınladığı Typographische Gestaltung (Tipografik Tasarım) adlı &ccedil;alışma &hellip;&hellip;..harfle (Bodoni gibi) hazırlanmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Die neue Typographie, sans serif yazı karakterleriyle dizilmesine karşın; 1935’te yayınladığı Typographische Gestaltung (Tipografik Tasarım) adlı çalışma ……..harfle (Bodoni gibi) hazırlanmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) sans serif
     - B-) display
     - C-) el yazısı
     - **Cevap D-) serif (tırnaklı)**
     - E-) monospace
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Albers&#39;in beş ana &ouml;zelliğe sahip olduğuna inandığı malzemeleri oluşturan &ouml;gelerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Albers'in beş ana özelliğe sahip olduğuna inandığı malzemeleri oluşturan ögelerden biri değildir?**
     - A-) Boyut
-    - B-) K&uuml;tle
+    - B-) Kütle
     - C-) Hareket
     - D-) Enerji
     - **Cevap E-) Değişkenlik**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bauhaus okulundaki temel sanat dersleri program i&ccedil;eriğinde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Bauhaus okulundaki temel sanat dersleri program içeriğinde yer almaz?**
     - A-) İki boyutlu tasarım
     - **Cevap B-) Tipografi**
     - C-) Desen
     - D-) Renk
-    - E-) &Uuml;&ccedil; boyutlu tasarım
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Bauhaus okulunun kurucusudur?</strong>
+    - E-) Üç boyutlu tasarım
+    ***
+1. **Aşağıdakilerden hangisi Bauhaus okulunun kurucusudur?**
     - **Cevap A-) Walter Gropius**
     - B-) Johannes Itten
     - C-) Niklaus Stoecklin
     - D-) Herbert Matter
     - E-) Theo van Doesburg
-    <hr />
-1. <strong>Aşağıdaki alanlardan hangisi Bauhaus okulu eğitiminde <u>yer almaz</u>?</strong>
-    - A-) Marangozluk at&ouml;lyesi
-    - B-) Dokumacılık at&ouml;lyesi
-    - C-) Baskı at&ouml;lyesi
-    - **Cevap D-) Tamir at&ouml;lyesi**
-    - E-) Tipografi at&ouml;lyesi
-    <hr />
-1. <strong>Billboardlar &uuml;zerinde harflendirme i&ccedil;in uzaktan kolayca okunabilir şablon yazısını tasarlayan tasarımcı hangisidir?</strong>
+    ***
+1. **Aşağıdaki alanlardan hangisi Bauhaus okulu eğitiminde yer almaz?**
+    - A-) Marangozluk atölyesi
+    - B-) Dokumacılık atölyesi
+    - C-) Baskı atölyesi
+    - **Cevap D-) Tamir atölyesi**
+    - E-) Tipografi atölyesi
+    ***
+1. **Billboardlar üzerinde harflendirme için uzaktan kolayca okunabilir şablon yazısını tasarlayan tasarımcı hangisidir?**
     - A-) Moholy-Nagy
     - B-) Herbert Bayer
     - C-) Lissitzky
     - D-) Malevich
     - **Cevap E-) Josef Albers**
-    <hr />
-1. I. İki boyutlu tasarım<br />
-II. Renk<br />
-III. Desen<br />
-IV. &Uuml;&ccedil; boyutlu tasarım<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Bauhaus okulundaki temel sanat dersleri program i&ccedil;eriğinde yer alır?</strong>
+    ***
+1. I. İki boyutlu tasarım<br />II. Renk<br />III. Desen<br />IV. Üç boyutlu tasarım<br />**Yukarıdakilerden hangisi ya da hangileri Bauhaus okulundaki temel sanat dersleri program içeriğinde yer alır?**
     - A-) I ve IV
     - B-) I, II ve III
     - C-) II ve III
     - D-) Yalnız IV
     - **Cevap E-) I, II, III ve IV**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Yeni Tipografi&rsquo;nin temel &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Sayfa d&uuml;zenlemesinde tipografinin ve geometrik şekillerin asimetrik bloklandırılması
-    - B-) Harf b&uuml;y&uuml;kl&uuml;klerinin hiyerarşisi
-    - **Cevap C-) Simetrik sayfa d&uuml;zeni**
-    - D-) Negatif beyaz alanın pasif değerden aktif değere d&ouml;n&uuml;şmesi
-    - E-) İzleyicinin ilgisini yakalamak adına tasarlanan yalın geometrik &ouml;gelerin kullanılması
-    <hr />
-1. <strong>Jan Tschichold&rsquo;un tasarladığı yazı karakterlerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Yeni Tipografi’nin temel özelliklerinden biri değildir?**
+    - A-) Sayfa düzenlemesinde tipografinin ve geometrik şekillerin asimetrik bloklandırılması
+    - B-) Harf büyüklüklerinin hiyerarşisi
+    - **Cevap C-) Simetrik sayfa düzeni**
+    - D-) Negatif beyaz alanın pasif değerden aktif değere dönüşmesi
+    - E-) İzleyicinin ilgisini yakalamak adına tasarlanan yalın geometrik ögelerin kullanılması
+    ***
+1. **Jan Tschichold’un tasarladığı yazı karakterlerinden biri değildir?**
     - A-) Transit
     - **Cevap B-) Bifur**
     - C-) Zeus
     - D-) Tschichold
     - E-) Sabon
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Elementary Typography&rsquo;ye katkıda bulunan tasarımcılardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Elementary Typography’ye katkıda bulunan tasarımcılardan biri değildir?**
     - A-) Moholy-Nagy
     - B-) Herbert Bayer
     - C-) Lissitzky
     - **Cevap D-) Malevich**
     - E-) Tschichold
-    <hr />
-1. Dessau&#39;da Herbert Bayer, tipografik ve fotografik g&ouml;r&uuml;nt&uuml;leri birlikte kullanmıştır. Fotografinin bu yeni g&ouml;r&uuml;ş&uuml;, o zaman &hellip;&hellip;..&hellip;olarak adlandırılmış ve tasarımlarda en objektif ve ger&ccedil;ek&ccedil;i ara&ccedil; olarak g&ouml;r&uuml;lm&uuml;şt&uuml;r.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. Dessau'da Herbert Bayer, tipografik ve fotografik görüntüleri birlikte kullanmıştır. Fotografinin bu yeni görüşü, o zaman ……..…olarak adlandırılmış ve tasarımlarda en objektif ve gerçekçi araç olarak görülmüştür.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - **Cevap A-) Tipofoto**
     - B-) Tipo Baskı
     - C-) Tipograf
     - D-) Fotografi
     - E-) Gratipo
-    <hr />
-1. <strong>Bauhaus okulu hangi &uuml;lkede kurulmuştur?</strong>
+    ***
+1. **Bauhaus okulu hangi ülkede kurulmuştur?**
     - A-) Hollanda
     - B-) İtalya
     - **Cevap C-) Almanya**
-    - D-) İsvi&ccedil;re
+    - D-) İsviçre
     - E-) İngiltere
-    <hr />
-1. I. Johannes Itten<br />
-II. Moholy-Nagy<br />
-III. Josef Albers<br />
-Malzeme bilgisine odaklanmıştır; &ouml;ğrencilerine, metal, boya, cam, ağa&ccedil;, taş ve tekstil gibi malzemelerin estetik ve fiziksel olabilirliklerini &ouml;ğretmiştir.<br />
-<strong>Bauhaus eğitmenlerinden hangisi ya da hangileri bu tanımlamaya uyar?</strong>
+    ***
+1. I. Johannes Itten<br />II. Moholy-Nagy<br />III. Josef Albers<br />Malzeme bilgisine odaklanmıştır; öğrencilerine, metal, boya, cam, ağaç, taş ve tekstil gibi malzemelerin estetik ve fiziksel olabilirliklerini öğretmiştir.<br />**Bauhaus eğitmenlerinden hangisi ya da hangileri bu tanımlamaya uyar?**
     - A-) Yalnız I
     - B-) Yalnız II
     - **Cevap C-) Yalnız III**
     - D-) I ve II
     - E-) I ve III
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Yeni Tipografi&#39;nin (Die Neue Typographie) g&ouml;rsel &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Sayfa d&uuml;zenlemesinde tipografinin ve geometrik şekillerin asimetrik bloklandırması
-    - B-) İzleyicinin ilgisini yakalamak adına tasarlanan yalın geometrik &ouml;gelerin kullanılması
-    - C-) İki boyutlu beyaz alan &uuml;zerinde blok harfin ekonomisi
-    - **Cevap D-) T&uuml;m g&ouml;rsel alanın, pasif olarak etkinleştirilmesi**
-    - E-) Negatif beyaz alanın pasif değerden aktif değere d&ouml;n&uuml;şmesi
-    <hr />
+    ***
+1. **Aşağıdakilerden hangisi Yeni Tipografi'nin (Die Neue Typographie) görsel özelliklerinden biri değildir?**
+    - A-) Sayfa düzenlemesinde tipografinin ve geometrik şekillerin asimetrik bloklandırması
+    - B-) İzleyicinin ilgisini yakalamak adına tasarlanan yalın geometrik ögelerin kullanılması
+    - C-) İki boyutlu beyaz alan üzerinde blok harfin ekonomisi
+    - **Cevap D-) Tüm görsel alanın, pasif olarak etkinleştirilmesi**
+    - E-) Negatif beyaz alanın pasif değerden aktif değere dönüşmesi
+    ***
 ## Unite 10
-1. &hellip;&hellip;&hellip;&hellip;..tasarımcıları &ccedil;alışmalarında yalnızca makine &ccedil;ağı k&uuml;lt&uuml;r&uuml;n&uuml;n g&ouml;rkemini, f&uuml;t&uuml;rist vizyonu, hızı, l&uuml;ks&uuml;, zerafeti, egzotizmi, zerafeti betimlememiş; aynı zamanda t&uuml;ketim toplumu i&ccedil;in etkili bir kodu yaratmışlardır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+1. …………..tasarımcıları çalışmalarında yalnızca makine çağı kültürünün görkemini, fütürist vizyonu, hızı, lüksü, zerafeti, egzotizmi, zerafeti betimlememiş; aynı zamanda tüketim toplumu için etkili bir kodu yaratmışlardır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) De Stijl
-    - B-) Arts &amp; Crafts
+    - B-) Arts & Crafts
     - **Cevap C-) Art Deco**
     - D-) Art Nouveau
     - E-) Ukiyo-e
-    <hr />
-1. <strong>Cassandre adı altında kendisini afiş sanatına adayan Art Deco sanat&ccedil;ısının &ccedil;alışmaları hangi sanat hareketlerinin &ouml;ğelerini <u>yansıtmaz</u>?</strong>
-    - A-) K&uuml;bizm
-    - B-) P&uuml;rizm
-    - C-) F&uuml;t&uuml;rizm
-    - D-) Konstr&uuml;ktivizm
+    ***
+1. **Cassandre adı altında kendisini afiş sanatına adayan Art Deco sanatçısının çalışmaları hangi sanat hareketlerinin öğelerini yansıtmaz?**
+    - A-) Kübizm
+    - B-) Pürizm
+    - C-) Fütürizm
+    - D-) Konstrüktivizm
     - **Cevap E-) Pop Art**
-    <hr />
-1. Cassandre gibi tasarımcılar, afişleri i&ccedil;in yazı karakterleri tasarlamışlar; &ccedil;oğu, yeni sanatın soyut &uuml;slubunu yansıtan, &hellip;&hellip;&hellip;&hellip;yazı karakterlerini benimsemişlerdir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. Cassandre gibi tasarımcılar, afişleri için yazı karakterleri tasarlamışlar; çoğu, yeni sanatın soyut üslubunu yansıtan, …………yazı karakterlerini benimsemişlerdir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Display
     - **Cevap B-) Sans serif**
     - C-) Serif
     - D-) İtalik
     - E-) Slab Serif
-    <hr />
-1. I.&nbsp;Charles Loupot<br />
-II.&nbsp;Jean Carlu<br />
-III. Pierre Fix-Masseau<br />
-IV.&nbsp;Paul Colin<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Art Deco afişlerinin &uuml;slubunu belirleyen en tanınmış afiş tasarımcıları arasında yer alır?</strong>
+    ***
+1. I. Charles Loupot<br />II. Jean Carlu<br />III. Pierre Fix-Masseau<br />IV. Paul Colin<br />**Yukarıdakilerden hangisi ya da hangileri Art Deco afişlerinin üslubunu belirleyen en tanınmış afiş tasarımcıları arasında yer alır?**
     - **Cevap A-) I, II, III ve IV**
     - B-) Yalnız II
     - C-) Yalnız IV
     - D-) I ve III
     - E-) II, III ve IV
-    <hr />
-1. <strong>Theo van Doesbur&rsquo;un edit&ouml;rl&uuml;ğ&uuml;n&uuml; yaptığı De Stijl dergisinde bu avangard sanat anlayışından aşağıdakilerden hangi &uuml;slupsal &ccedil;eşitliliği <u>benimsememiştir</u>?</strong>
-    - A-) Mondrian&rsquo;ın neoplastik resimleri
-    - **Cevap B-) Suzuki Harunobu&rsquo;nun ağa&ccedil; baskıları**
-    - C-) El Lissitzky&rsquo;nin Konstr&uuml;ktivist &ccedil;alışmaları
-    - D-) Kurt Schwitters&rsquo;in Dadaist kolajları ve şiirleri
-    - E-) Gerrit Rietveld&rsquo;in sandalyeleri
-    <hr />
-1. I. Optik yalınlığa &ouml;nem vermişler ve eksiltme, anahtar rol oynamıştır.<br />
-II. Arka plan ayrıntısı, azaltılmış ya da ortadan kaldırılmıştır.<br />
-III. Beyaz alan, tasarımın &ouml;nemli bir &ouml;ğesi olarak kullanılmıştır.<br />
-IV. Karmaşık g&ouml;rsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat &ccedil;ekilmiştir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Art Deco tasarımcılarının &ccedil;alışmalarının &ouml;zelliklerindendir?</strong>
+    ***
+1. **Theo van Doesbur’un editörlüğünü yaptığı De Stijl dergisinde bu avangard sanat anlayışından aşağıdakilerden hangi üslupsal çeşitliliği benimsememiştir?**
+    - A-) Mondrian’ın neoplastik resimleri
+    - **Cevap B-) Suzuki Harunobu’nun ağaç baskıları**
+    - C-) El Lissitzky’nin Konstrüktivist çalışmaları
+    - D-) Kurt Schwitters’in Dadaist kolajları ve şiirleri
+    - E-) Gerrit Rietveld’in sandalyeleri
+    ***
+1. I. Optik yalınlığa önem vermişler ve eksiltme, anahtar rol oynamıştır.<br />II. Arka plan ayrıntısı, azaltılmış ya da ortadan kaldırılmıştır.<br />III. Beyaz alan, tasarımın önemli bir öğesi olarak kullanılmıştır.<br />IV. Karmaşık görsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat çekilmiştir.<br />**Yukarıdakilerden hangisi ya da hangileri Art Deco tasarımcılarının çalışmalarının özelliklerindendir?**
     - A-) I ve IV
     - B-) I ve II
     - C-) II ve III
     - D-) Yalnız II
     - **Cevap E-) I, II, III ve IV**
-    <hr />
-1. &hellip;&hellip;&hellip;.. sanat&ccedil;ıları, geometrik saflık lehine, doğal bi&ccedil;imleri reddetmişler; &ouml;zellikle soyut nesnelciliği başarmak adına dikd&ouml;rtgeni kullanmışlardır. N&ouml;tr renklere ek olarak, ana renklere bağlılıkları, minimalist duyguyu yansıtmıştır.<br />
-<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ……….. sanatçıları, geometrik saflık lehine, doğal biçimleri reddetmişler; özellikle soyut nesnelciliği başarmak adına dikdörtgeni kullanmışlardır. Nötr renklere ek olarak, ana renklere bağlılıkları, minimalist duyguyu yansıtmıştır.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - **Cevap A-) De Stijl**
-    - B-) Arts &amp; Crafts
+    - B-) Arts & Crafts
     - C-) Art Deco
     - D-) Art Nouveau
     - E-) Ukiyo-e
-    <hr />
-1. Cassandre, &hellip;&hellip;....&hellip; etkiyi yansıtan kent g&ouml;r&uuml;n&uuml;ş&uuml;n&uuml; ustaca betimlemiştir. Organik şekiller, ayrıntılardan arındırılmış ve en temel yalın şekillere indirgenmiştir. Geometrik yazı ve siluetli d&uuml;z şekiller, kahramanımsı ger&ccedil;eklik gibi &ouml;zellikler vurgulanmıştır.<br />
-<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - **Cevap A-) K&uuml;bist**
+    ***
+1. Cassandre, ……....… etkiyi yansıtan kent görünüşünü ustaca betimlemiştir. Organik şekiller, ayrıntılardan arındırılmış ve en temel yalın şekillere indirgenmiştir. Geometrik yazı ve siluetli düz şekiller, kahramanımsı gerçeklik gibi özellikler vurgulanmıştır.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - **Cevap A-) Kübist**
     - B-) Realist
     - C-) Fovist
     - D-) Romantik
     - E-) Dadaist
-    <hr />
-1. I.&Ccedil;izgi, şekil ve renk gibi tasarımın &ouml;ğeleri, en yalın bi&ccedil;imlere indirgenmiştir.<br />
-II.Diyagonaller, eğriler ve d&uuml;zensiz &ccedil;izgilerden ka&ccedil;ınılmıştır.<br />
-III.Sadece dikey ve yatay &ccedil;izgilere yer verişmiştir.<br />
-IV.Ana renkler kullanılmıştır.<br />
-<strong>Yukarıda verilen se&ccedil;eneklerden hangileri De Stijl &uuml;slup &ouml;zellikleri arasında yer alır?</strong>
+    ***
+1. I.Çizgi, şekil ve renk gibi tasarımın öğeleri, en yalın biçimlere indirgenmiştir.<br />II.Diyagonaller, eğriler ve düzensiz çizgilerden kaçınılmıştır.<br />III.Sadece dikey ve yatay çizgilere yer verişmiştir.<br />IV.Ana renkler kullanılmıştır.<br />**Yukarıda verilen seçeneklerden hangileri De Stijl üslup özellikleri arasında yer alır?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) II ve IV
     - D-) Yalnız II
     - **Cevap E-) I, II, III ve IV**
-    <hr />
-1. <strong>De Stijl grubunun lideri, felsefi y&ouml;nden hareketi geliştiren ve organize eden sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **De Stijl grubunun lideri, felsefi yönden hareketi geliştiren ve organize eden sanatçı aşağıdakilerden hangisidir?**
     - A-) Adolphe Mouron Cassandre
     - **Cevap B-) Theo van Doesburg**
     - C-) Van Doesburg
     - D-) Jean Carlu
     - E-) Pierre Fix-Masseau
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ilk modern tasarım hareketi olarak kabul edilmektedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ilk modern tasarım hareketi olarak kabul edilmektedir?**
     - A-) Art Deco
     - **Cevap B-) De Stijl**
     - C-) Arts adn Crafts
     - D-) Art Nouveau
     - E-) Dadaizm
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Art Deco &uuml;slubunun temel &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Art Deco üslubunun temel özelliklerinden biri değildir?**
     - A-) Yalınlık
     - B-) Simetri
     - C-) Geometri
     - D-) İki boyutluluk
-    - **Cevap E-) Kalabalık fig&uuml;rler**
-    <hr />
-1. <strong>Yeni yapı ya da bi&ccedil;imlenen yeni imge anlamına gelen, Piet Mondrian&rsquo;ın De Stijl sanatsal anlayışına verdiği diğer isim aşağıdakilerden hangisidir?</strong>
+    - **Cevap E-) Kalabalık figürler**
+    ***
+1. **Yeni yapı ya da biçimlenen yeni imge anlamına gelen, Piet Mondrian’ın De Stijl sanatsal anlayışına verdiği diğer isim aşağıdakilerden hangisidir?**
     - A-) Klasizm
     - B-) Puantizm
     - **Cevap C-) Neo-Plastizm**
-    - D-) Fut&uuml;rizm
+    - D-) Futürizm
     - E-) Art Deco
-    <hr />
-1. <strong>Aşağıdakilerden hangisi De Stijl hareketinde kullanılan tasarım &ouml;gelerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) D&uuml;z yatay ve dikey &ccedil;izgiler
-    - B-) Katı dikd&ouml;rtgen bloklar
-    - C-) Asimetrik sayfa d&uuml;zeni
+    ***
+1. **Aşağıdakilerden hangisi De Stijl hareketinde kullanılan tasarım ögelerinden biri değildir?**
+    - A-) Düz yatay ve dikey çizgiler
+    - B-) Katı dikdörtgen bloklar
+    - C-) Asimetrik sayfa düzeni
     - **Cevap D-) Amorf şekiller**
     - E-) Sans Serif yazı karakteri
-    <hr />
-1. I. Mobilya<br />
-II. Tekstil<br />
-III. Grafik<br />
-IV. Mimarlık<br />
-<strong>De Stijl Hareketi yukarıdaki alanlardan hangisi ya da hangilerini etkilemiştir?</strong>
+    ***
+1. I. Mobilya<br />II. Tekstil<br />III. Grafik<br />IV. Mimarlık<br />**De Stijl Hareketi yukarıdaki alanlardan hangisi ya da hangilerini etkilemiştir?**
     - A-) Yalnız III
     - B-) I ve III
     - C-) I ve IV
     - D-) III ve IV
     - **Cevap E-) I, II, III ve IV**
-    <hr />
-1. <strong>De Stijl hareketinin ortaya &ccedil;ıktığı &uuml;lke aşağıdakilerden hangisidir?</strong>
+    ***
+1. **De Stijl hareketinin ortaya çıktığı ülke aşağıdakilerden hangisidir?**
     - **Cevap A-) Hollanda**
     - B-) İtalya
     - C-) Almanya
-    - D-) İsvi&ccedil;re
+    - D-) İsviçre
     - E-) İngiltere
-    <hr />
-1. <strong>Aşağıdakilerden hangisi afişleri modern afiş sanatının başyapıtları arasında yer alan İsvi&ccedil;re&rsquo;de en tanınmış grafik tasarımcılardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi afişleri modern afiş sanatının başyapıtları arasında yer alan İsviçre’de en tanınmış grafik tasarımcılardan biri değildir?**
     - A-) Otto Baumberger
     - B-) Hugo Laubi
     - **Cevap C-) Katsushika Hokusai**
     - D-) Niklaus Stoecklin
     - E-) Herbert Matter
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Art Deco tasarımcılarının &ccedil;alışmalarının &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Optik yalınlığa &ouml;nem vermişler ve eksiltme, anahtar rol oynamıştır.
+    ***
+1. **Aşağıdakilerden hangisi Art Deco tasarımcılarının çalışmalarının özelliklerinden biri değildir?**
+    - A-) Optik yalınlığa önem vermişler ve eksiltme, anahtar rol oynamıştır.
     - B-) Arka plan ayrıntısı, azaltılmış ya da ortadan kaldırılmıştır.
-    - **Cevap C-) Tasarım y&uuml;zeyinin tamamı motiflerle kaplıdır.**
-    - D-) Beyaz alan, tasarımın &ouml;nemli bir &ouml;ğesi olarak kullanılmıştır.
-    - E-) Karmaşık g&ouml;rsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat &ccedil;ekilmiştir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ok disiplinli ve katı bir anlayışı yansıtan&nbsp;De Stijl grafik&nbsp;tasarımcıları tarafından <u>kullanılmamıştır</u>?</strong>
-    - A-) D&uuml;z yatay ve dikey &ccedil;izgiler
-    - B-) Katı dikd&ouml;rtgen bloklar
-    - **Cevap C-) Simetrik sayfa d&uuml;zeni**
-    - D-) Grafik sayfa d&uuml;zeni i&ccedil;erisinde grid ve s&uuml;tun anlayışı
-    - E-) Geleneksel harflerin gereksiz s&uuml;slemelerinden ka&ccedil;ınarak Sans Serif yazı karakterinin versiyonları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi&nbsp;Art Deco tasarımcılarının &ccedil;alışmalarındaki g&ouml;rsel &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) Optik yalınlığa &ouml;nem vermişler ve eksiltme, anahtar rol oynamıştır.
-    - B-) G&ouml;zler iki nokta olmuş, arka plan ayrıntısı azaltılmış ya da ortadan kaldırılmıştır.
-    - C-) S&uuml;sleme, kontrol altına alınmıştır.
-    - D-) Karmaşık g&ouml;rsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat &ccedil;ekilmiştir.
-    - **Cevap E-) Siyah alan, tasarımın &ouml;nemli bir &ouml;gesi olarak kullanılmıştır.**
-    <hr />
+    - **Cevap C-) Tasarım yüzeyinin tamamı motiflerle kaplıdır.**
+    - D-) Beyaz alan, tasarımın önemli bir öğesi olarak kullanılmıştır.
+    - E-) Karmaşık görsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat çekilmiştir.
+    ***
+1. **Aşağıdakilerden hangisi çok disiplinli ve katı bir anlayışı yansıtan De Stijl grafik tasarımcıları tarafından kullanılmamıştır?**
+    - A-) Düz yatay ve dikey çizgiler
+    - B-) Katı dikdörtgen bloklar
+    - **Cevap C-) Simetrik sayfa düzeni**
+    - D-) Grafik sayfa düzeni içerisinde grid ve sütun anlayışı
+    - E-) Geleneksel harflerin gereksiz süslemelerinden kaçınarak Sans Serif yazı karakterinin versiyonları
+    ***
+1. **Aşağıdakilerden hangisi Art Deco tasarımcılarının çalışmalarındaki görsel özelliklerden biri değildir?**
+    - A-) Optik yalınlığa önem vermişler ve eksiltme, anahtar rol oynamıştır.
+    - B-) Gözler iki nokta olmuş, arka plan ayrıntısı azaltılmış ya da ortadan kaldırılmıştır.
+    - C-) Süsleme, kontrol altına alınmıştır.
+    - D-) Karmaşık görsel mesajları hızlı bir şekilde iletmek adına sembollerin ve soyutlamanın kullanımına dikkat çekilmiştir.
+    - **Cevap E-) Siyah alan, tasarımın önemli bir ögesi olarak kullanılmıştır.**
+    ***
 ## Unite 11
-1. <strong>ABD&rsquo;deki Wall Street Ekonomik Krizi ne zaman olmuştur?</strong>
+1. **ABD’deki Wall Street Ekonomik Krizi ne zaman olmuştur?**
     - **Cevap A-) 1929**
     - B-) 1949
     - C-) 1939
     - D-) 1919
     - E-) 1909
-    <hr />
-1. <strong>Franklin Roosevelt tarafından 1935 uygulamaya konan &ldquo;New Deal-Yeniden Toparlanma&rdquo; programı kapsamında kurduğu iş ve iş&ccedil;i bulma kurumunun adı nedir?</strong>
-    - **Cevap A-) WPA &quot;İş Geliştirme Dairesi&quot;**
-    - B-) FAP &ldquo;Federal Sanat Projesi&rdquo;
-    - C-) FWP &ldquo;Federal Yazarlar Projesi&rdquo;
-    - D-) FMP &ldquo;Federal M&uuml;zik Projesi&rdquo;
-    - E-) PWA&nbsp;&ldquo;Kamu İşleri Dairesi&rdquo;
-    <hr />
-1. &Ccedil;oğu WPA programları, vasıfsız iş&ccedil;ileri &ccedil;alıştırmasına karşın; &hellip;&hellip;&hellip;&hellip;.., profesyonel yazarları, ressamları, oyuncuları ve m&uuml;zisyenleri istihdam etmiştir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
-    - A-) RE &ldquo;Kırsal B&ouml;lge Elektriklendirme&rdquo;
-    - B-) NYA &ldquo;Ulusal Gen&ccedil;lik Daireleri&rdquo;
-    - C-) PWA&nbsp;&ldquo;Kamu İşleri Dairesi&rdquo;
+    ***
+1. **Franklin Roosevelt tarafından 1935 uygulamaya konan “New Deal-Yeniden Toparlanma” programı kapsamında kurduğu iş ve işçi bulma kurumunun adı nedir?**
+    - **Cevap A-) WPA "İş Geliştirme Dairesi"**
+    - B-) FAP “Federal Sanat Projesi”
+    - C-) FWP “Federal Yazarlar Projesi”
+    - D-) FMP “Federal Müzik Projesi”
+    - E-) PWA “Kamu İşleri Dairesi”
+    ***
+1. Çoğu WPA programları, vasıfsız işçileri çalıştırmasına karşın; ………….., profesyonel yazarları, ressamları, oyuncuları ve müzisyenleri istihdam etmiştir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
+    - A-) RE “Kırsal Bölge Elektriklendirme”
+    - B-) NYA “Ulusal Gençlik Daireleri”
+    - C-) PWA “Kamu İşleri Dairesi”
     - D-) Propaganda Bakanlığı
-    - **Cevap E-) FAP &ldquo;Federal Sanat Projesi&rdquo;**
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi FAP &ldquo;Federal Sanat Projesi&rdquo;&lsquo;nin faaliyet ayaklarından birisidir?</strong>
-    - A-) Marka sanat&ccedil;ıları y&uuml;ksek &uuml;cretler ile &ccedil;alıştırmak
-    - B-) M&uuml;zayede yapmak
-    - C-) &Ccedil;ift&ccedil;ileri desteklemek
-    - **Cevap D-) Kamusal alanlar i&ccedil;in sanatsal faaliyette bulunmak ve finansmanı sağlamak.**
-    - E-) &Uuml;r&uuml;n satışı yapmak
-    <hr />
-1. I. Sağlık ve g&uuml;venlik programları<br />
-II. Seyahat ve turizm<br />
-III. Nazi Karşıtlığı<br />
-IV. Sanat sergilerini, tiyatro ve m&uuml;zik temsilleri<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri FAP afişlerinin ele aldığı konular arasında <u>yer almaz</u>?</strong>
+    - **Cevap E-) FAP “Federal Sanat Projesi”**
+    ***
+1. **Aşağıdaki seçeneklerden hangisi FAP “Federal Sanat Projesi”‘nin faaliyet ayaklarından birisidir?**
+    - A-) Marka sanatçıları yüksek ücretler ile çalıştırmak
+    - B-) Müzayede yapmak
+    - C-) Çiftçileri desteklemek
+    - **Cevap D-) Kamusal alanlar için sanatsal faaliyette bulunmak ve finansmanı sağlamak.**
+    - E-) Ürün satışı yapmak
+    ***
+1. I. Sağlık ve güvenlik programları<br />II. Seyahat ve turizm<br />III. Nazi Karşıtlığı<br />IV. Sanat sergilerini, tiyatro ve müzik temsilleri<br />**Yukarıdakilerden hangisi ya da hangileri FAP afişlerinin ele aldığı konular arasında yer almaz?**
     - A-) Yalnız I
     - **Cevap B-) Yalnız III**
     - C-) III ve IV
     - D-) I, II ve III
     - E-) I, II ve IV
-    <hr />
-1. <strong>FAP sanat&ccedil;ı ve tasarımcıları, afişlerini daha &ccedil;ok hangi y&ouml;ntem ile <u>basmamışlardır</u>?</strong>
-    - A-) Ağa&ccedil; baskı
+    ***
+1. **FAP sanatçı ve tasarımcıları, afişlerini daha çok hangi yöntem ile basmamışlardır?**
+    - A-) Ağaç baskı
     - B-) Serigrafi (ipek baskı)
     - C-) Taş baskı (litografi)
-    - D-) Grav&uuml;r
+    - D-) Gravür
     - **Cevap E-) Dijital baskı**
-    <hr />
-1. <strong>FAP (Federal Sanat Projesi) Hangi yıllar arası devam etmiştir?</strong>
+    ***
+1. **FAP (Federal Sanat Projesi) Hangi yıllar arası devam etmiştir?**
     - A-) 1933- 1945
     - B-) 1923 - 1933
     - **Cevap C-) 1933 - 1943**
     - D-) 1943 - 1945
     - E-) 1939 - 1945
-    <hr />
-1. <strong>ABD&rsquo;deki &ldquo;New Deal-Yeniden Toparlanma&rdquo; programının doğmasına sebep olan ve olağan&uuml;st&uuml; işsizliğe sebep olup, toplumu derinden etkileyen olay aşağıdakilerden hangisidir?</strong>
-    - A-) II. D&uuml;nya Savaşı
-    - B-) Baby Boomer D&ouml;nemi
-    - **Cevap C-) 1929 Wall Street Borsası&rsquo;nın &ccedil;&ouml;k&uuml;ş&uuml;**
+    ***
+1. **ABD’deki “New Deal-Yeniden Toparlanma” programının doğmasına sebep olan ve olağanüstü işsizliğe sebep olup, toplumu derinden etkileyen olay aşağıdakilerden hangisidir?**
+    - A-) II. Dünya Savaşı
+    - B-) Baby Boomer Dönemi
+    - **Cevap C-) 1929 Wall Street Borsası’nın çöküşü**
     - D-) Pearl Harbour Baskını
     - E-) California Depremi
-    <hr />
-1. <strong>ABD&rsquo;deki &ldquo;New Deal-Yeniden Toparlanma&rdquo; programının &ouml;nceki ekonomik kurtarma paketlerinden en &ouml;nemli farkı aşağıdakilerden hangisidir?</strong>
-    - A-) ABD h&uuml;k&uuml;metinin savaş politikasının halk tarafından anlaşılmasını sağlaması
-    - **Cevap B-) Sadece emek yoğun &ccedil;alışan iş&ccedil;i sınıfının işsizliğini değil, sanat, tasarım ve k&uuml;lt&uuml;r alanında &ccedil;alışanların işsizliğine de eğilmesi**
-    - C-) Sınırlı kaynakları askeri harcamalara y&ouml;nlendirmesi
-    - D-) Vatandaşların &uuml;lkenin savunulmasında vatansever bir konum almasını sağlaması
-    - E-) Daha &ccedil;ok &uuml;retim ve istihdam sağlaması
-    <hr />
-1. <strong>WPA (İş Geliştirme Dairesi) hangi programın bir par&ccedil;ası olarak kurulmuştur?</strong>
+    ***
+1. **ABD’deki “New Deal-Yeniden Toparlanma” programının önceki ekonomik kurtarma paketlerinden en önemli farkı aşağıdakilerden hangisidir?**
+    - A-) ABD hükümetinin savaş politikasının halk tarafından anlaşılmasını sağlaması
+    - **Cevap B-) Sadece emek yoğun çalışan işçi sınıfının işsizliğini değil, sanat, tasarım ve kültür alanında çalışanların işsizliğine de eğilmesi**
+    - C-) Sınırlı kaynakları askeri harcamalara yönlendirmesi
+    - D-) Vatandaşların ülkenin savunulmasında vatansever bir konum almasını sağlaması
+    - E-) Daha çok üretim ve istihdam sağlaması
+    ***
+1. **WPA (İş Geliştirme Dairesi) hangi programın bir parçası olarak kurulmuştur?**
     - **Cevap A-) New Deal-Yeniden Toparlanma**
-    - B-) FAP &#39;Federal Sanat Projesi&#39;
+    - B-) FAP 'Federal Sanat Projesi'
     - C-) Star Wars programı
-    - D-) National Recovery Act &lsquo;Ulusal Toparlanma Eylem Planı&rsquo;
-    - E-) PWA&nbsp;&#39;Kamu İşleri Dairesi&#39;
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi Federal Sanat Projesi&#39;nin(</strong><strong>FAP)</strong><strong>&nbsp;faaliyet ayaklarından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) İşsiz sanat&ccedil;ılara d&uuml;ş&uuml;k &uuml;cretli iş vermek
-    - B-) Sanat &uuml;retimi yapmak
+    - D-) National Recovery Act ‘Ulusal Toparlanma Eylem Planı’
+    - E-) PWA 'Kamu İşleri Dairesi'
+    ***
+1. **Aşağıdaki seçeneklerden hangisi Federal Sanat Projesi'nin(****FAP)** **faaliyet ayaklarından biri değildir?**
+    - A-) İşsiz sanatçılara düşük ücretli iş vermek
+    - B-) Sanat üretimi yapmak
     - C-) Sanat eğitimi vermek
     - D-) Sanat araştırması yapmak
-    - **Cevap E-) &Uuml;r&uuml;n satışı yapmak**
-    <hr />
-1. I. Sağlık ve g&uuml;venlik programları<br />
-II. Seyahat ve turizm<br />
-III. Anti-Semitizm &ndash; Anti-Bolşevizm<br />
-IV. Sanat sergilerini, tiyatro ve m&uuml;zik temsilleri<br />
-<strong>Yukarıda verilen se&ccedil;eneklerden hangileri FAP afişlerinin ele aldığı konular arasında yer alır?</strong>
+    - **Cevap E-) Ürün satışı yapmak**
+    ***
+1. I. Sağlık ve güvenlik programları<br />II. Seyahat ve turizm<br />III. Anti-Semitizm – Anti-Bolşevizm<br />IV. Sanat sergilerini, tiyatro ve müzik temsilleri<br />**Yukarıda verilen seçeneklerden hangileri FAP afişlerinin ele aldığı konular arasında yer alır?**
     - A-) I ve II
     - **Cevap B-) I, II ve IV**
     - C-) I, II ve III
     - D-) III ve IV
     - E-) I, II, III ve IV
-    <hr />
-1. <strong>FAP New York Afiş B&ouml;l&uuml;m&uuml; aşağıdakilerden hangisi tarafından y&ouml;netilmiştir?</strong>
+    ***
+1. **FAP New York Afiş Bölümü aşağıdakilerden hangisi tarafından yönetilmiştir?**
     - **Cevap A-) Richard Floethe**
     - B-) Alexander Dochenko
     - C-) Stuart Davis
     - D-) Emil Ruder
     - E-) A. M. Cassandre
-    <hr />
-1. <strong>FAP New York Afiş B&ouml;l&uuml;m&uuml; tasarımcıları afişlerini daha &ccedil;ok hangi y&ouml;ntem ile basmışlardır?</strong>
+    ***
+1. **FAP New York Afiş Bölümü tasarımcıları afişlerini daha çok hangi yöntem ile basmışlardır?**
     - A-) Tahta baskı
     - **Cevap B-) Serigrafi (ipek baskı)**
     - C-) Taş baskı (litografi)
     - D-) Offset baskı
     - E-) Dijital baskı
-    <hr />
-1. <strong>FAP (Federal Sanat Projesi) Hangi yıllar arası devam etmiştir?</strong>
+    ***
+1. **FAP (Federal Sanat Projesi) Hangi yıllar arası devam etmiştir?**
     - A-) 1933- 1945
     - B-) 1923 - 1933
     - **Cevap C-) 1933 - 1943**
     - D-) 1943 - 1945
     - E-) 1939 - 1945
-    <hr />
-1. I. Federal Sanat Projesi (FAP)<br />
-II. Federal M&uuml;zik Projesi (FMP)<br />
-III. Federal Tiyatro Projesi (FTP)<br />
-IV. Federal Yazarlar&rsquo;ın Projesi (FWP)<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri Yeniden Toparlanma Programı&#39;nın en b&uuml;y&uuml;k iş ve iş&ccedil;i bulma kurumu olan İş Geliştirme Dairesi altında&nbsp;binlerce sanat&ccedil;ıyı, yazarı, oyuncuyu, film yapımcısını, m&uuml;zisyeni ve dans&ccedil;ıyı istihdam etmiştir?</strong>
+    ***
+1. I. Federal Sanat Projesi (FAP)<br />II. Federal Müzik Projesi (FMP)<br />III. Federal Tiyatro Projesi (FTP)<br />IV. Federal Yazarlar’ın Projesi (FWP)<br />**Yukarıdakilerden hangisi ya da hangileri Yeniden Toparlanma Programı'nın en büyük iş ve işçi bulma kurumu olan İş Geliştirme Dairesi altında binlerce sanatçıyı, yazarı, oyuncuyu, film yapımcısını, müzisyeni ve dansçıyı istihdam etmiştir?**
     - A-) Yalnız I
     - B-) II ve III
     - **Cevap C-) I, II, III ve IV**
     - D-) I, II ve III
     - E-) Yalnız II
-    <hr />
-1. I. G&uuml;&ccedil;l&uuml; Amerikan tasarım anlayışını yansıtmıştır.<br />
-II. &Ouml;zg&uuml;n grafik baskı teknikleriyle ucuza &uuml;retilmiştir.<br />
-III. Halkı bilgilendirmede &ouml;nemli ve etkili bir g&ouml;rsel iletişim aracı olmuştur.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri WPA/FAP tasarımcıları tarafından yaratılan afişler i&ccedil;in s&ouml;ylenebilir?</strong>
+    ***
+1. I. Güçlü Amerikan tasarım anlayışını yansıtmıştır.<br />II. Özgün grafik baskı teknikleriyle ucuza üretilmiştir.<br />III. Halkı bilgilendirmede önemli ve etkili bir görsel iletişim aracı olmuştur.<br />**Yukarıdakilerden hangisi ya da hangileri WPA/FAP tasarımcıları tarafından yaratılan afişler için söylenebilir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) I ve II
     - **Cevap E-) I, II ve III**
-    <hr />
+    ***
 ## Unite 12
-1. Isotype&rsquo;ın okunabilirliği, sembollerinin yalınlığıyla belirlenir. Bu semboller, dikkati dağıtıcı ayrıntıyı vermeksizin, anında fark edilebilir olmalıydı. Neurath&rsquo;a g&ouml;re, &ldquo;yayınlaştırılmış imgeleri hatırlamak, ger&ccedil;ek fig&uuml;rleri unutmaktan daha iyidir.<br />
-<strong>Bu bilgiler doğrultusunda ISOTYPE semboller i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
+1. Isotype’ın okunabilirliği, sembollerinin yalınlığıyla belirlenir. Bu semboller, dikkati dağıtıcı ayrıntıyı vermeksizin, anında fark edilebilir olmalıydı. Neurath’a göre, “yayınlaştırılmış imgeleri hatırlamak, gerçek figürleri unutmaktan daha iyidir.<br />**Bu bilgiler doğrultusunda ISOTYPE semboller için aşağıdakilerden hangisi söylenemez?**
     - A-) Yalın
     - **Cevap B-) Detaylı**
     - C-) Sade
     - D-) Basit
     - E-) Kolay anlaşılır
-    <hr />
-1. <strong>Isotype&rsquo;ın piktogramları Linolyum Tekniği ile okunaklı, &ouml;zg&uuml;n ve yalın grafik semboller olarak basılmıştır. İstatistikleri resimleme y&ouml;ntemi olarak &uuml;retilen bu piktogramlar aşağıdakilerden hangisinde <u>kullanılmamıştır</u>?</strong>
+    ***
+1. **Isotype’ın piktogramları Linolyum Tekniği ile okunaklı, özgün ve yalın grafik semboller olarak basılmıştır. İstatistikleri resimleme yöntemi olarak üretilen bu piktogramlar aşağıdakilerden hangisinde kullanılmamıştır?**
     - A-) Eğitimde
     - B-) Ticarette
-    - **Cevap C-) Logotype&rsquo;ta**
+    - **Cevap C-) Logotype’ta**
     - D-) Kitaplarda
     - E-) Sergi panellerinde
-    <hr />
-1. Neurath, daha b&uuml;y&uuml;k miktarlar i&ccedil;in daha b&uuml;y&uuml;k semboller kullanma yerine, daha fazla obje i&ccedil;in daha fazla sembol kullanır. Soyut, geleneksel işaretlerden ziyade, &ldquo;konuşan işaretleri&rdquo; (speaking signs) benimsemiştir.<br />
-<strong>Buna g&ouml;re aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) İşaretler, realistik fig&uuml;rlerin yalınlaştırılmış imgeleridir.
-    - B-) Eğriler, dikd&ouml;rtgenler ya da daireler gibi geometrik şekiller, ger&ccedil;ek bilim d&uuml;nyasına aittir.
-    - C-) Sembollerin ifade etmek istediğinden daha fazlasını izleyiciye s&ouml;ylememesi gerekir.
-    - D-) İletilmek istenen mesaja izleyicinin dikkatini hemen &ccedil;ekmesi gerekir.
-    - **Cevap E-) İşaretler fig&uuml;rleri romantik bir şekilde betimleyen imgeleridir.**
-    <hr />
-1. 1930&rsquo;da Leipzig&rsquo;de basılan, yayınlanan ve Toplum ve Ekonomi teması &uuml;zerine şekillendirilen &hellip;&hellip;&hellip;&hellip;., sayfaları &ccedil;ıkabilen g&ouml;rsel istatistiklerin ana koleksiyonudur ve standartlaşmış g&ouml;rsel bir dili kullanarak dil bariyerlerine bakılmaksızın karmaşık bilginin nasıl ulaşılabilir kılınacağına dair &ouml;rnek bir referans kitap olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. Neurath, daha büyük miktarlar için daha büyük semboller kullanma yerine, daha fazla obje için daha fazla sembol kullanır. Soyut, geleneksel işaretlerden ziyade, “konuşan işaretleri” (speaking signs) benimsemiştir.<br />**Buna göre aşağıdakilerden hangisi söylenemez?**
+    - A-) İşaretler, realistik figürlerin yalınlaştırılmış imgeleridir.
+    - B-) Eğriler, dikdörtgenler ya da daireler gibi geometrik şekiller, gerçek bilim dünyasına aittir.
+    - C-) Sembollerin ifade etmek istediğinden daha fazlasını izleyiciye söylememesi gerekir.
+    - D-) İletilmek istenen mesaja izleyicinin dikkatini hemen çekmesi gerekir.
+    - **Cevap E-) İşaretler figürleri romantik bir şekilde betimleyen imgeleridir.**
+    ***
+1. 1930’da Leipzig’de basılan, yayınlanan ve Toplum ve Ekonomi teması üzerine şekillendirilen …………., sayfaları çıkabilen görsel istatistiklerin ana koleksiyonudur ve standartlaşmış görsel bir dili kullanarak dil bariyerlerine bakılmaksızın karmaşık bilginin nasıl ulaşılabilir kılınacağına dair örnek bir referans kitap olmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Modern Man in the Making
-    - B-) Şehir Planlama M&uuml;zesi kataloğu
+    - B-) Şehir Planlama Müzesi kataloğu
     - **Cevap C-) Atlas**
     - D-) İki Millet
     - E-) The Home Market
-    <hr />
-1. <strong>Isotype sembolleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) &Ccedil;ok fazla metin kullanılmıştır.
+    ***
+1. **Isotype sembolleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - A-) Çok fazla metin kullanılmıştır.
     - B-) İmgeler kullanılmamıştır.
     - C-) Semboller sayfa gridi olarak kullanılmamıştır.
-    - **Cevap D-) Sembollerin amacı, istatistiklerin s&ouml;zl&uuml; i&ccedil;eriğini desteklemek ve &ouml;zetlemektir.**
+    - **Cevap D-) Sembollerin amacı, istatistiklerin sözlü içeriğini desteklemek ve özetlemektir.**
     - E-) Realistik bir şekilde betimlenen imgelerdir.
-    <hr />
-1. Arntz, politikadan, ekonomiden, demografiklerden ve end&uuml;striden temel verileri sembolize eden (simgeleştiren) 4000 sembolden daha fazlasından meydana gelen &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.geliştirmiştir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
-    - **Cevap A-) Isotype g&ouml;rsel s&ouml;zl&uuml;ğ&uuml;**
+    ***
+1. Arntz, politikadan, ekonomiden, demografiklerden ve endüstriden temel verileri sembolize eden (simgeleştiren) 4000 sembolden daha fazlasından meydana gelen …………………………….geliştirmiştir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
+    - **Cevap A-) Isotype görsel sözlüğü**
     - B-) Afiş tasarımı
     - C-) The Home Market tasarımı
     - D-) Kimlik tasarımı
     - E-) Harita tasarımı
-    <hr />
-1. I. İşaret sistemini<br />
-II. İstatistiksel grafikleri<br />
-III. Bilgilendirme grafikleri<br />
-<strong>Neurath, ger&ccedil;ekte gen&ccedil; &ccedil;ocukların eğitimcileri tarafından kullanılması amacıyla Isotype Sistemi&#39;ni yaratmasına karşın yukarıdakilerden hangisi ya da hangilerini etkilemiştir?</strong>
+    ***
+1. I. İşaret sistemini<br />II. İstatistiksel grafikleri<br />III. Bilgilendirme grafikleri<br />**Neurath, gerçekte genç çocukların eğitimcileri tarafından kullanılması amacıyla Isotype Sistemi'ni yaratmasına karşın yukarıdakilerden hangisi ya da hangilerini etkilemiştir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Isotype&rsquo;ın piktogramlarını ve g&ouml;rsel işaretlerini tasarlayan ilk kişi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Isotype’ın piktogramlarını ve görsel işaretlerini tasarlayan ilk kişi aşağıdakilerden hangisidir?**
     - **Cevap A-) Gerd Arntz**
     - B-) Otto Baumberger
     - C-) Hugo Laubi
     - D-) Katsushika Hokusai
     - E-) Herbert Matter
-    <hr />
-1. I. Leipzig&rsquo;de Savaş Ekonomisi M&uuml;zesi (Museum of War Economy)<br />
-II. Şehir Planlama M&uuml;zesi (Museum of Town Planning),<br />
-III. Toplum ve Ekonomi M&uuml;zesi (Gesellschafts- und Wirtschaftsmuseum)<br />
-<strong>Otto Neurath, Viyana ve Berlin&rsquo;de matematik, fizik, ekonomi ve sosyoloji eğitimi aldıktan sonra yukarıdaki m&uuml;zelerden hangisi ya da hangilerini y&ouml;netmiştir?</strong>
+    ***
+1. I. Leipzig’de Savaş Ekonomisi Müzesi (Museum of War Economy)<br />II. Şehir Planlama Müzesi (Museum of Town Planning),<br />III. Toplum ve Ekonomi Müzesi (Gesellschafts- und Wirtschaftsmuseum)<br />**Otto Neurath, Viyana ve Berlin’de matematik, fizik, ekonomi ve sosyoloji eğitimi aldıktan sonra yukarıdaki müzelerden hangisi ya da hangilerini yönetmiştir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - D-) I ve II
-    - **Cevap E-) I, II&nbsp;ve III**
-    <hr />
-1. I. Eğitimde<br />
-II. Ticarette<br />
-III. İletişimde<br />
-IV. Kitaplarda<br />
-V. Sergi panellerinde<br />
-<strong>Isotype&rsquo;ın piktogramları linolyum tekniği ile okunaklı, &ouml;zg&uuml;n ve yalın grafik semboller olarak basılmıştır. İstatistikleri resimleme y&ouml;ntemi olarak &uuml;retilen bu piktogramlar yukardakilerin hangisinde kullanılmamıştır?</strong>
+    - **Cevap E-) I, II ve III**
+    ***
+1. I. Eğitimde<br />II. Ticarette<br />III. İletişimde<br />IV. Kitaplarda<br />V. Sergi panellerinde<br />**Isotype’ın piktogramları linolyum tekniği ile okunaklı, özgün ve yalın grafik semboller olarak basılmıştır. İstatistikleri resimleme yöntemi olarak üretilen bu piktogramlar yukardakilerin hangisinde kullanılmamıştır?**
     - A-) II, III ve V
     - B-) I, III veI V
     - **Cevap C-) I, II, III, ıV ve V**
     - D-) IV ve V
     - E-) II, IV ve V
-    <hr />
-1. &ldquo;Gerd Arntz, bireysel duyguları ifade etme yerine, toplum i&ccedil;inde yaşanan gelişmeleri resimlemekteydi. Arntz, iş&ccedil;ilerin yaşamını ve sınıf m&uuml;cadelesini &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.ve &hellip;&hellip;&hellip;&hellip;&hellip;tekniğiyle betimlemiş ve stilize etmiştir.&rdquo;<br />
-<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangisi gelmelidir?</strong>
-    - **Cevap A-) ağa&ccedil; baskı - linolyum**
-    - B-) taş baskı - ağa&ccedil; baskı
+    ***
+1. “Gerd Arntz, bireysel duyguları ifade etme yerine, toplum içinde yaşanan gelişmeleri resimlemekteydi. Arntz, işçilerin yaşamını ve sınıf mücadelesini ……………….ve ……………tekniğiyle betimlemiş ve stilize etmiştir.”<br />**Cümlede boş bırakılan yerlere aşağıdakilerden hangisi gelmelidir?**
+    - **Cevap A-) ağaç baskı - linolyum**
+    - B-) taş baskı - ağaç baskı
     - C-) fotoğraf - kolaj
     - D-) linolyum - taş baskı
     - E-) ipek baskı - fotoğraf
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Neurath&rsquo;nın Isotype sembollerini ortaya &ccedil;ıkarırken ilham aldığı ve resim dilinin gelişmesine yardım eden kaynaklardan biri <u>değildir</u>?</strong>
-    - A-) Eski Mısır&rsquo;dan hiyeroglifler
+    ***
+1. **Aşağıdakilerden hangisi Neurath’nın Isotype sembollerini ortaya çıkarırken ilham aldığı ve resim dilinin gelişmesine yardım eden kaynaklardan biri değildir?**
+    - A-) Eski Mısır’dan hiyeroglifler
     - B-) Barok amblemler
     - **Cevap C-) El yazması kitap motifleri**
-    - D-) On sekizinci y&uuml;zyıl savaş imgelerinde askerlerin sunumu
-    - E-) Aydınlanma &ccedil;ağında resimli ansiklopediler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Otto Neurath tarafından y&ouml;netilen Toplum ve Ekonomi M&uuml;zesi&rsquo;nin ilk b&uuml;y&uuml;k yayınıdır?</strong>
+    - D-) On sekizinci yüzyıl savaş imgelerinde askerlerin sunumu
+    - E-) Aydınlanma çağında resimli ansiklopediler
+    ***
+1. **Aşağıdakilerden hangisi Otto Neurath tarafından yönetilen Toplum ve Ekonomi Müzesi’nin ilk büyük yayınıdır?**
     - A-) Modern Man in the Making
     - **Cevap B-) Atlas**
     - C-) İki Millet
     - D-) The Home Market
-    - E-) Uluslararası G&ouml;rsel Eğitim Kuruluşu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Isotype sembollerinin &ouml;zelliği <u>değildir</u>?</strong>
-    - A-) C&uuml;mleler yerine, ana kelimelere sınırlandırabilmek i&ccedil;in daha az metin, kullanılmış.
+    - E-) Uluslararası Görsel Eğitim Kuruluşu
+    ***
+1. **Aşağıdakilerden hangisi Isotype sembollerinin özelliği değildir?**
+    - A-) Cümleler yerine, ana kelimelere sınırlandırabilmek için daha az metin, kullanılmış.
     - B-) İmgeler ilişkileri yansıtmıştır.
-    - C-) Semboller sayfa gridi i&ccedil;erisinde sunulmuştur.<br />
-.
-    - D-) Dikey d&uuml;zenleme, genelde &ccedil;eşitli veriler arasında bir karşılaştırma ya da zamanın akışını g&ouml;sterirken; yatay d&uuml;zenleme, miktarlardaki değişiklikleri ifade etmiştir.
+    - C-) Semboller sayfa gridi içerisinde sunulmuştur. .
+    - D-) Dikey düzenleme, genelde çeşitli veriler arasında bir karşılaştırma ya da zamanın akışını gösterirken; yatay düzenleme, miktarlardaki değişiklikleri ifade etmiştir.
     - **Cevap E-) Bol metin kullanımı vardır.**
-    <hr />
-1. I. Evrensel olarak anlaşılmak<br />
-II. Eğitimsiz insanların basit ve a&ccedil;ık se&ccedil;ik imgelerle &ccedil;evrelerindeki d&uuml;nya bilgisine sahip olmalarını sağlamak<br />
-III. Dil ve k&uuml;lt&uuml;r bariyerlerinin &uuml;stesinden gelmek<br />
-<strong>Arntz, politikadan, ekonomiden, demografiklerden ve end&uuml;striden temel verileri sembolize eden (simgeleştiren) 4000 sembolden daha fazlasından meydana gelen Isotype g&ouml;rsel s&ouml;zl&uuml;ğ&uuml;n&uuml; geliştirmiştir. G&ouml;rsel istatistiklerin amacı yukarıdakilerden hangisi ya da hangileridir?</strong>
+    ***
+1. I. Evrensel olarak anlaşılmak<br />II. Eğitimsiz insanların basit ve açık seçik imgelerle çevrelerindeki dünya bilgisine sahip olmalarını sağlamak<br />III. Dil ve kültür bariyerlerinin üstesinden gelmek<br />**Arntz, politikadan, ekonomiden, demografiklerden ve endüstriden temel verileri sembolize eden (simgeleştiren) 4000 sembolden daha fazlasından meydana gelen Isotype görsel sözlüğünü geliştirmiştir. Görsel istatistiklerin amacı yukarıdakilerden hangisi ya da hangileridir?**
     - A-) Yalnız II
     - B-) Yalnız III
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. Kelimesiz bir d&uuml;nya dili&rdquo;ni yaratmaya y&ouml;nelik &ouml;nemli bir hareket olan Isotype konsepti, iletişimi ifade etmek adına yalın &hellip;&hellip;&hellip;&hellip;&hellip;.kullanımını i&ccedil;erir.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. Kelimesiz bir dünya dili”ni yaratmaya yönelik önemli bir hareket olan Isotype konsepti, iletişimi ifade etmek adına yalın …………….kullanımını içerir.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - **Cevap A-) piktogram**
     - B-) tipografi
     - C-) fotoğraf
     - D-) kolaj
     - E-) afiş
-    <hr />
-1. <strong>Isotype&rsquo;ın piktogramlarını ve g&ouml;rsel işaretlerini tasarlayan ilk kişi olma unvanını aşağıdakilerden hangisi almıştır?</strong>
+    ***
+1. **Isotype’ın piktogramlarını ve görsel işaretlerini tasarlayan ilk kişi olma unvanını aşağıdakilerden hangisi almıştır?**
     - A-) Otto Neurath
     - B-) Jean Carlu
     - **Cevap C-) Gerd Arntz**
     - D-) Joseph Goebbels
     - E-) Frederick Siebel
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Neurath&rsquo;nın ilham aldığı ve resim dilinin gelişmesine yardım eden kaynaklar arasında <u>yer almaz</u>?</strong>
-    - A-) Eski Mısır&rsquo;dan hiyeroglifler
-    - B-) 18. y&uuml;zyıl savaş imgelerinde askerlerin sunumu
-    - C-) Aydınlanma &Ccedil;ağı&#39;nda resimli ansiklopediler
-    - **Cevap D-) Gotik D&ouml;nemi&#39;ne ait amblemler**
-    - E-) &Ccedil;ocuk kitabı ill&uuml;strasyonları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi linolyum tekniği ile basılan piktogramların kullanım alanlarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Neurath’nın ilham aldığı ve resim dilinin gelişmesine yardım eden kaynaklar arasında yer almaz?**
+    - A-) Eski Mısır’dan hiyeroglifler
+    - B-) 18\. yüzyıl savaş imgelerinde askerlerin sunumu
+    - C-) Aydınlanma Çağı'nda resimli ansiklopediler
+    - **Cevap D-) Gotik Dönemi'ne ait amblemler**
+    - E-) Çocuk kitabı illüstrasyonları
+    ***
+1. **Aşağıdakilerden hangisi linolyum tekniği ile basılan piktogramların kullanım alanlarından biri değildir?**
     - A-) Eğitim
     - B-) Ticaret
     - C-) İletişim
     - D-) Kitaplar
     - **Cevap E-) Mimari tasarım**
-    <hr />
+    ***
 ## Unite 13
-1. <strong>&quot;Ulusun savaş politikalarının Amerikan halkı tarafından anlaşılmasını sağlamak, pozitif duyguları işleyerek halkı ikna ve motive etmek ama&ccedil;lı bir&ccedil;ok afiş serisini yaratmıştır.&quot; şeklinde ifade edilen kurum aşağıdakilerden hangisidir?</strong>
+1. **"Ulusun savaş politikalarının Amerikan halkı tarafından anlaşılmasını sağlamak, pozitif duyguları işleyerek halkı ikna ve motive etmek amaçlı birçok afiş serisini yaratmıştır." şeklinde ifade edilen kurum aşağıdakilerden hangisidir?**
     - **Cevap A-) Savaş ve Enformasyon Dairesi**
     - B-) Nazi Propaganda Bakanlığı
-    - C-) Amerikan Kızılha&ccedil;ı
+    - C-) Amerikan Kızılhaçı
     - D-) WPA
     - E-) Wall Street Borsası
-    <hr />
-1. <strong>&ldquo;Hitabet Okulu&rdquo;, &ldquo;Vatandaşların Radyosu&rdquo;, &ldquo;Resim, Heykel, Mimarlık ve Sanatta Tam Kontrol&rdquo; kimin ve hangi &uuml;lkenin propaganda yaklaşımıdır?</strong>
-    - **Cevap A-) Goebbels&nbsp;-&nbsp;Nazi Almanyası**
-    - B-) Hindenburg -&nbsp;Wiemar Almanyası
-    - C-) Roosevelt&nbsp;- ABD
-    - D-) Hitler&nbsp;-&nbsp;Doğu Almanya
-    - E-) Fransa &ndash; Vichy H&uuml;k&uuml;meti
-    <hr />
-1. <strong>&ldquo;Tek Halk, Tek Reich, Tek Lider&rdquo; sloganı hangi devletin propaganda afişlerinde slogan olarak kullanılmıştır?</strong>
+    ***
+1. **“Hitabet Okulu”, “Vatandaşların Radyosu”, “Resim, Heykel, Mimarlık ve Sanatta Tam Kontrol” kimin ve hangi ülkenin propaganda yaklaşımıdır?**
+    - **Cevap A-) Goebbels - Nazi Almanyası**
+    - B-) Hindenburg - Wiemar Almanyası
+    - C-) Roosevelt - ABD
+    - D-) Hitler - Doğu Almanya
+    - E-) Fransa – Vichy Hükümeti
+    ***
+1. **“Tek Halk, Tek Reich, Tek Lider” sloganı hangi devletin propaganda afişlerinde slogan olarak kullanılmıştır?**
     - A-) ABD
     - B-) SSCB
     - C-) Birleşik Krallık
     - D-) Fransa
     - **Cevap E-) Nazi Almanyası**
-    <hr />
-1. B&uuml;y&uuml;k Buhran, ABD ve Alman ekonomilerini ve politikalarını derinden etkilemiştir.<strong> </strong><br />
-<strong>B&uuml;y&uuml;k Buhran&#39;a aşağıdakilerden hangisi</strong><strong>&nbsp;sebep olmuştur?</strong>
-    - A-) I. D&uuml;nya Savaşı
+    ***
+1. Büyük Buhran, ABD ve Alman ekonomilerini ve politikalarını derinden etkilemiştir.<br />**Büyük Buhran'a aşağıdakilerden hangisi** **sebep olmuştur?**
+    - A-) I. Dünya Savaşı
     - B-) Versay Anlaşması
-    - **Cevap C-) 1929 Wall Street Borsası&rsquo;nın &Ccedil;&ouml;k&uuml;ş&uuml;**
+    - **Cevap C-) 1929 Wall Street Borsası’nın Çöküşü**
     - D-) Pearl Harbour Baskını
     - E-) Wiemar Rejimi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Hitler&#39;in &quot;Kavgam (Mein Kampf)&quot; adlı kitabında belirttiği propaganda &ouml;zellikleri arasında <u>değildir</u>?</strong>
-    - **Cevap A-) Eğitici ve entelekt&uuml;ellere g&ouml;re olmalıdır.**
+    ***
+1. **Aşağıdakilerden hangisi Hitler'in "Kavgam (Mein Kampf)" adlı kitabında belirttiği propaganda özellikleri arasında değildir?**
+    - **Cevap A-) Eğitici ve entelektüellere göre olmalıdır.**
     - B-) Akıldan ziyade hislere hitap etmelidir.
-    - C-) Kitlelerin dikkatini &ccedil;ekmelidir.
+    - C-) Kitlelerin dikkatini çekmelidir.
     - D-) Kitlelerin duygularını hedef almalıdır.
     - E-) Kitlesel toplantılar ile duygusal atmosfer yaratılmalıdır.
-    <hr />
-1. Bu bakanlık, Nasyonal Sosyalist değerler &uuml;zerine temellendirilen yeni bir toplumu, yeni bir d&uuml;nya g&ouml;r&uuml;ş&uuml;n&uuml; yaratmak ve n&uuml;fusu yeniden eğitme g&ouml;revini ger&ccedil;ekleştirmek amacıyla kurulmuştu.<br />
-<strong>C&uuml;mlede anlatılan kurum aşağıdakilerden hangisidir?</strong>
+    ***
+1. Bu bakanlık, Nasyonal Sosyalist değerler üzerine temellendirilen yeni bir toplumu, yeni bir dünya görüşünü yaratmak ve nüfusu yeniden eğitme görevini gerçekleştirmek amacıyla kurulmuştu.<br />**Cümlede anlatılan kurum aşağıdakilerden hangisidir?**
     - A-) Savunma Bakanlığı
-    - B-) H&uuml;cum Birlikleri
+    - B-) Hücum Birlikleri
     - C-) Gestapo Teşkilatı
-    - **Cevap D-) Pop&uuml;ler Aydınlatma ve Propaganda Bakanlığı**
+    - **Cevap D-) Popüler Aydınlatma ve Propaganda Bakanlığı**
     - E-) Savaş ve Enformasyon Ofisi
-    <hr />
-1. I. Kutsal F&uuml;hrer miti<br />
-II. Aryan kadın ve erkek fig&uuml;rleri<br />
-III. Anti-Semitizm &ndash; Anti-Bolşevizm<br />
-IV. Tınaksız font kullanımının yasaklanması<br />
-<strong>Yukarıda verilen se&ccedil;eneklerden hangileri Nazi propaganda afişlerinin tasarım y&uuml;zeyini oluşturan unsurlar arasında yer alır?</strong>
+    ***
+1. I. Kutsal Führer miti<br />II. Aryan kadın ve erkek figürleri<br />III. Anti-Semitizm – Anti-Bolşevizm<br />IV. Tınaksız font kullanımının yasaklanması<br />**Yukarıda verilen seçeneklerden hangileri Nazi propaganda afişlerinin tasarım yüzeyini oluşturan unsurlar arasında yer alır?**
     - A-) I ve II
     - B-) I, II ve IV
     - C-) I, II ve III
     - D-) III ve IV
     - **Cevap E-) I, II, III ve IV**
-    <hr />
-1. <strong>&ldquo;Resim, heykel, mimarlık vb. tasarım, k&uuml;lt&uuml;r ve sanatta tam kontrol&rdquo; kimin ve hangi &uuml;lkenin Propaganda yaklaşımıdır?</strong>
+    ***
+1. **“Resim, heykel, mimarlık vb. tasarım, kültür ve sanatta tam kontrol” kimin ve hangi ülkenin Propaganda yaklaşımıdır?**
     - **Cevap A-) Goebbels - Nazi Almanyası**
-    - B-) Fransa&ndash;Vichy H&uuml;k&uuml;meti
+    - B-) Fransa–Vichy Hükümeti
     - C-) Hindenburg-Wiemar Almanyası
     - D-) Roosevelt-ABD
     - E-) Hitler-Doğu Almanya
-    <hr />
-1. <strong>Amerikan propaganda afişlerinin ill&uuml;strasyon &uuml;slubu neden değişmiştir?</strong>
-    - A-) Savaşı kazanacaklarına olan inan&ccedil; artığı i&ccedil;in
-    - **Cevap B-) Savaş ABD i&ccedil;in k&ouml;t&uuml; gitmeye başladığı i&ccedil;in**
-    - C-) Japonlar Pearl Harbor&rsquo;a saldırdığı i&ccedil;in
-    - D-) Almanya savaşı kazandığı i&ccedil;in
-    - E-) Atom bombası atıldığı i&ccedil;in
-    <hr />
-1. <strong>&ldquo;Tek Halk, Tek Reich, Tek Lider&rdquo; sloganı hangi devletin propaganda afişlerinde slogan olarak kullanılmıştır?</strong>
+    ***
+1. **Amerikan propaganda afişlerinin illüstrasyon üslubu neden değişmiştir?**
+    - A-) Savaşı kazanacaklarına olan inanç artığı için
+    - **Cevap B-) Savaş ABD için kötü gitmeye başladığı için**
+    - C-) Japonlar Pearl Harbor’a saldırdığı için
+    - D-) Almanya savaşı kazandığı için
+    - E-) Atom bombası atıldığı için
+    ***
+1. **“Tek Halk, Tek Reich, Tek Lider” sloganı hangi devletin propaganda afişlerinde slogan olarak kullanılmıştır?**
     - A-) ABD
     - B-) SSCB
-    - **Cevap C-) Alman Nazi H&uuml;k&uuml;meti**
+    - **Cevap C-) Alman Nazi Hükümeti**
     - D-) Fransa
     - E-) Birleşik Krallık
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Nazi Almanya&#39;sı afişlerinin temalarından biri <u>değildir</u>?</strong>
-    - A-) Antikom&uuml;nizm
+    ***
+1. **Aşağıdakilerden hangisi Nazi Almanya'sı afişlerinin temalarından biri değildir?**
+    - A-) Antikomünizm
     - B-) Sosyal hiyerarşi
-    - **Cevap C-) Tasarruf ama&ccedil;lı**
+    - **Cevap C-) Tasarruf amaçlı**
     - D-) Nasyonal birlik
-    - E-) Kahramansı aryan kadın, erkek ve gen&ccedil;lerin rol&uuml;
-    <hr />
+    - E-) Kahramansı aryan kadın, erkek ve gençlerin rolü
+    ***
 ## Unite 14
-1. İsvi&ccedil;re&rsquo;nin sınırlarını aşan bir etkiye sahip olması ve tipografik &ouml;ğelere olan g&uuml;&ccedil;l&uuml; bağımlılığı nedeniyle İsvi&ccedil;re Tasarımı, &hellip;&hellip;&hellip;..&hellip;&hellip;. olarak adlandırılmıştır.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?</strong>
+1. İsviçre’nin sınırlarını aşan bir etkiye sahip olması ve tipografik öğelere olan güçlü bağımlılığı nedeniyle İsviçre Tasarımı, ………..……. olarak adlandırılmıştır.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?**
     - A-) Evrensel Stil
-    - **Cevap B-) Uluslararası Tipografik &Uuml;slup**
-    - C-) İsvi&ccedil;re Yazı Sanatı
-    - D-) İsvi&ccedil;re Tasarım Hareketi
+    - **Cevap B-) Uluslararası Tipografik Üslup**
+    - C-) İsviçre Yazı Sanatı
+    - D-) İsviçre Tasarım Hareketi
     - E-) Uluslararası Sanat Dili
-    <hr />
-1. <strong>Emil Ruder&rsquo;in kontrast doku ve &ouml;l&ccedil;ek aracılığıyla olanaklarından faydalandığı favori yazı karakteri aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Emil Ruder’in kontrast doku ve ölçek aracılığıyla olanaklarından faydalandığı favori yazı karakteri aşağıdakilerden hangisidir?**
     - **Cevap A-) Univers**
     - B-) Helvetica
     - C-) Akzidenz
     - D-) Bodoni
     - E-) Didot
-    <hr />
-1. <strong>Grid Sistemi&#39;ni tasarım ve tasarımcı boyutunda inceleyen &quot;Grafik Tasarımda Grid Sistemi&quot; kitabının yazarı aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Josef M&uuml;ller- Brockmann**
+    ***
+1. **Grid Sistemi'ni tasarım ve tasarımcı boyutunda inceleyen "Grafik Tasarımda Grid Sistemi" kitabının yazarı aşağıdakilerden hangisidir?**
+    - **Cevap A-) Josef Müller- Brockmann**
     - B-) Armin Hofmann
     - C-) Jan Tschichold
     - D-) April Greiman
     - E-) Max Bill
-    <hr />
-1. <strong>İsvi&ccedil;re Grafik tasarımının ikon dergisi hangisidir?</strong>
-    - A-) Harper&rsquo;s Bazaar
+    ***
+1. **İsviçre Grafik tasarımının ikon dergisi hangisidir?**
+    - A-) Harper’s Bazaar
     - B-) Novum
     - C-) Graphis
     - D-) Eye
     - **Cevap E-) Neue Grafik**
-    <hr />
-1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; &ccedil;alışmalarında belirli bir dinamizm ve hız hissini yansıtmak amacıyla genellikle fotografik ve tipografik &ouml;ğeleri renk şeritleriyle bir arada kullanmıştır. Tasarımlarında netliği, ritmi ve sentezi tercih etmiştir. &Uuml;st &uuml;ste binen tipografi, grafik &ouml;ğeler ve imgelerle karmaşık kompozisyonlar yaratmış, denge, hizalama ve katmanların g&ouml;r&uuml;nmesine izin veren şeffaf (transparan) m&uuml;rekkepler kullanarak karmaşıklığın ortasında d&uuml;zeni korumuştur.<br />
-<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ……………… çalışmalarında belirli bir dinamizm ve hız hissini yansıtmak amacıyla genellikle fotografik ve tipografik öğeleri renk şeritleriyle bir arada kullanmıştır. Tasarımlarında netliği, ritmi ve sentezi tercih etmiştir. Üst üste binen tipografi, grafik öğeler ve imgelerle karmaşık kompozisyonlar yaratmış, denge, hizalama ve katmanların görünmesine izin veren şeffaf (transparan) mürekkepler kullanarak karmaşıklığın ortasında düzeni korumuştur.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Armin Hofmann
     - **Cevap B-) Max Huber**
     - C-) Ernst Keller
     - D-) Emil Ruder
     - E-) Max Bill
-    <hr />
-1. <strong>Josef M&uuml;ller-Brockmann&rsquo;ın İsvi&ccedil;re stilinin &ouml;z&uuml;n&uuml; temsil eden afişi hangisidir?</strong>
+    ***
+1. **Josef Müller-Brockmann’ın İsviçre stilinin özünü temsil eden afişi hangisidir?**
     - **Cevap A-) Beethoven afişi**
     - B-) Der Film afişi
-    - C-) &lsquo;Daha az g&uuml;r&uuml;lt&uuml;&rsquo; afişi
+    - C-) ‘Daha az gürültü’ afişi
     - D-) Musica viva afişi
-    - E-) Modern İsvi&ccedil;re sanatı afişi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Armin Hofmann&rsquo;ın nokta ve &ccedil;izgi ile ilgili g&ouml;r&uuml;şleri arasında <u>değildir</u>?</strong>
-    - A-) İki boyutlu kare bir alana tek bir noktayı koymak b&uuml;y&uuml;k bir m&uuml;dahaledir.
-    - B-) &Ccedil;izgi, hareket eden bir noktanın izidir.
-    - C-) Noktanın aksine &ccedil;izginin doğası gereği dinamiktir.
-    - D-) &Ccedil;izgi, sonsuzluğa doğru her y&ouml;ne doğru uzayabilir ve ne bir forma ne de bir merkeze bağlıdır.
-    - **Cevap E-) Nokta ve &ccedil;izgi arasında bir herhangi bir ilişki yoktur.**
-    <hr />
-1. <strong>Uluslararası Tipografik &Uuml;slup felsefesinin oluşmasında ve yeni anlatım tarzlarının gelişmesinde aşağıdakilerden hangisinin etkisi <u>yoktur</u>?</strong>
-    - A-) Rus konstr&uuml;ktivizmi
+    - E-) Modern İsviçre sanatı afişi
+    ***
+1. **Aşağıdakilerden hangisi Armin Hofmann’ın nokta ve çizgi ile ilgili görüşleri arasında değildir?**
+    - A-) İki boyutlu kare bir alana tek bir noktayı koymak büyük bir müdahaledir.
+    - B-) Çizgi, hareket eden bir noktanın izidir.
+    - C-) Noktanın aksine çizginin doğası gereği dinamiktir.
+    - D-) Çizgi, sonsuzluğa doğru her yöne doğru uzayabilir ve ne bir forma ne de bir merkeze bağlıdır.
+    - **Cevap E-) Nokta ve çizgi arasında bir herhangi bir ilişki yoktur.**
+    ***
+1. **Uluslararası Tipografik Üslup felsefesinin oluşmasında ve yeni anlatım tarzlarının gelişmesinde aşağıdakilerden hangisinin etkisi yoktur?**
+    - A-) Rus konstrüktivizmi
     - B-) De Stijl
     - C-) Bauhaus
     - **Cevap D-) Pop Art**
-    - E-) Yeni Tipografi D&uuml;ş&uuml;ncesi
-    <hr />
-1. <strong>Grafik tasarımı De Stijl sanat hareketinin ilkelerini uygulayan tasarımcı aşağıdakilerden hangisidir?</strong>
+    - E-) Yeni Tipografi Düşüncesi
+    ***
+1. **Grafik tasarımı De Stijl sanat hareketinin ilkelerini uygulayan tasarımcı aşağıdakilerden hangisidir?**
     - A-) Emil Ruder
-    - **Cevap B-) Th&eacute;o Ballmer**
+    - **Cevap B-) Théo Ballmer**
     - C-) Ernst Keller
-    - D-) Josef M&uuml;ller-Brockmann
+    - D-) Josef Müller-Brockmann
     - E-) Max Huber
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Uluslararası Tipografik &Uuml;sl&ucirc;p temelinde konumlanan d&uuml;ş&uuml;nce okullarından biridir?</strong>
-    - **Cevap A-) Z&uuml;rih Okulu**
+    ***
+1. **Aşağıdakilerden hangisi Uluslararası Tipografik Üslûp temelinde konumlanan düşünce okullarından biridir?**
+    - **Cevap A-) Zürih Okulu**
     - B-) Yale Tasarım Okulu
     - C-) Arts and Crafts
     - D-) New York Okulu
     - E-) Bauhaus Okulu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi somut sanat afişlerinin ayırt edici &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Dominant &ccedil;izgiler, renkler ve alanlar (mek&acirc;nlar)
-    - B-) Kare, daire, &uuml;&ccedil;gen ve dikd&ouml;rtgen gibi temel geometrik şekiller
-    - **Cevap C-) Organik, kinetik ve yumuşak fotografik g&ouml;r&uuml;nt&uuml;**
-    - D-) A&ccedil;ık&ccedil;a &quot;okunabilir&quot; alanlar ve yalnızca minimum bilgi
-    - E-) Asimetrik d&uuml;zenlemeler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Uluslararası Tipografik &Uuml;slup &ccedil;er&ccedil;evesinde kullanılan yazı karakterlerinden biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi somut sanat afişlerinin ayırt edici özelliklerinden biri değildir?**
+    - A-) Dominant çizgiler, renkler ve alanlar (mekânlar)
+    - B-) Kare, daire, üçgen ve dikdörtgen gibi temel geometrik şekiller
+    - **Cevap C-) Organik, kinetik ve yumuşak fotografik görüntü**
+    - D-) Açıkça "okunabilir" alanlar ve yalnızca minimum bilgi
+    - E-) Asimetrik düzenlemeler
+    ***
+1. **Aşağıdakilerden hangisi Uluslararası Tipografik Üslup çerçevesinde kullanılan yazı karakterlerinden biridir?**
     - A-) Garamond
     - **Cevap B-) Helvetica**
     - C-) Baskerville
     - D-) Bodoni
     - E-) Rockwell
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Uluslararası Tipografik &Uuml;slup bağlamında tanımlanan başlıca &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Uluslararası Tipografik Üslup bağlamında tanımlanan başlıca özelliklerinden biri değildir?**
     - A-) Geometrik şekillerin kullanılması
     - B-) Sans Serif yazı karakterlerinin kullanılması
     - C-) Nesnel fotoğrafın kullanılması
     - D-) Matematiksel temellere dayalı yatay ve dikey eksenlerden oluşan gridin kullanılması;
-    - **Cevap E-) İll&uuml;strasyon kullanılması**
-    <hr />
-1. <strong>İsvi&ccedil;re tasarımının felsefesine temel oluşturmuş Amerikalı mimar Louis Sullivan&#39;ın &uuml;nl&uuml; s&ouml;z&uuml; aşağıdakilerden hangisidir?</strong>
-    - A-) Az, &ccedil;oktur. (Less is more)
-    - B-) Tasarım, d&uuml;ş&uuml;nmenin g&ouml;rselleştirilmiş halidir.
-    - **Cevap C-) Bi&ccedil;im (form), işlevi takip eder.**
-    - D-) İyi tasarımın g&uuml;c&uuml;, basitliğindedir.
-    - E-) İ&ccedil;erik, tasarımdan &uuml;st&uuml;nd&uuml;r.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi uluslararası tipografik &uuml;sl&ucirc;bun &ouml;nemli isimlerinden biri <u>değildir</u>?</strong>
+    - **Cevap E-) İllüstrasyon kullanılması**
+    ***
+1. **İsviçre tasarımının felsefesine temel oluşturmuş Amerikalı mimar Louis Sullivan'ın ünlü sözü aşağıdakilerden hangisidir?**
+    - A-) Az, çoktur. (Less is more)
+    - B-) Tasarım, düşünmenin görselleştirilmiş halidir.
+    - **Cevap C-) Biçim (form), işlevi takip eder.**
+    - D-) İyi tasarımın gücü, basitliğindedir.
+    - E-) İçerik, tasarımdan üstündür.
+    ***
+1. **Aşağıdakilerden hangisi uluslararası tipografik üslûbun önemli isimlerinden biri değildir?**
     - A-) Ernst Keller
-    - B-) Josef M&uuml;ller-Brockmann
+    - B-) Josef Müller-Brockmann
     - **Cevap C-) Andy Warhol**
     - D-) Armin Hofmann
     - E-) Emil Ruder
-    <hr />
-1. &ldquo; Z&uuml;rih ve Basel Tasarım Okulları, Ernst Keller&#39;in fikirleri &uuml;zerine &ccedil;alışmalar &uuml;retmiş; nesnel fotoğraf ve &hellip;&hellip;&hellip;&hellip;&hellip;&hellip; yazı karakterinin kullanımına b&uuml;y&uuml;k &ouml;nem vermişlerdir.&rdquo;<br />
-<strong>Aşağıdakilerden hangisi yukarıda a&ccedil;ıklanan ifadeyi tamamlamak i&ccedil;in doğru bir se&ccedil;enektir?</strong>
+    ***
+1. “ Zürih ve Basel Tasarım Okulları, Ernst Keller'in fikirleri üzerine çalışmalar üretmiş; nesnel fotoğraf ve ……………… yazı karakterinin kullanımına büyük önem vermişlerdir.”<br />**Aşağıdakilerden hangisi yukarıda açıklanan ifadeyi tamamlamak için doğru bir seçenektir?**
     - A-) Tırnaklı
     - B-) Old Style
     - C-) Slab Serif
     - D-) Modern
     - **Cevap E-) Sans Serif**
-    <hr />
-1. <strong>&lsquo;İsvi&ccedil;re grafik tasarımının babası&rsquo; olarak anılan tasarımcı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **‘İsviçre grafik tasarımının babası’ olarak anılan tasarımcı aşağıdakilerden hangisidir?**
     - A-) Alexey Brodovitch
     - B-) William Morris
     - C-) El Lissitzky
     - **Cevap D-) Ernst Keller**
-    - E-) Josef M&uuml;ller-Brockmann
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Uluslararası Tipografik &Uuml;slup&rsquo;un başlıca &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
+    - E-) Josef Müller-Brockmann
+    ***
+1. **Aşağıdakilerden hangisi Uluslararası Tipografik Üslup’un başlıca özellikleri arasında yer almaz?**
     - A-) Soldan ve sağdan bloklandırma
     - B-) İşlevsel tipografinin kullanımı
     - C-) Geometrik şekillerin kullanımı
-    - **Cevap D-) &Ouml;znel fotoğrafın kullanılması**
-    - E-) Tipografi temelli minimal &ouml;gelerin kullanılması
-    <hr />
-1. <strong>İsvi&ccedil;re tasarımında ortaya &ccedil;ıkan iki d&uuml;ş&uuml;nce okulu aşağıdakilerden hangisidir?</strong>
+    - **Cevap D-) Öznel fotoğrafın kullanılması**
+    - E-) Tipografi temelli minimal ögelerin kullanılması
+    ***
+1. **İsviçre tasarımında ortaya çıkan iki düşünce okulu aşağıdakilerden hangisidir?**
     - A-) Bauhaus ve De Stijl Okulu
-    - B-) Art Nouveau ve F&uuml;t&uuml;rizm Okulu
-    - **Cevap C-) Z&uuml;rih ve Basel Okulu**
-    - D-) Konstr&uuml;ktivizm ve Dadaizm Okulu
+    - B-) Art Nouveau ve Fütürizm Okulu
+    - **Cevap C-) Zürih ve Basel Okulu**
+    - D-) Konstrüktivizm ve Dadaizm Okulu
     - E-) Minimalizm ve Postmodernizm Okulu
-    <hr />
+    ***

@@ -1,1372 +1,1360 @@
-# Tasarımda Fotoğraf Kullanımı
+# Tasarımda Fotoğraf Kullanımı (Dönem 6) - Tüm Sorular
+
 ## Unite 1
-1. <strong>G&uuml;ncel araştırmalar ışığında bilinen en eski duvar resmi g&uuml;n&uuml;m&uuml;zden ka&ccedil; yıl &ouml;nce yapılmıştır?</strong>
-    - A-) 2.050
-    - B-) 1.200
-    - C-) 200.000
-    - **Cevap D-) 45.000**
-    - E-) 35.000
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
-    - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
-    - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahiptir.
-    - C-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol ve işlemleri tasarlayan plan ve &ccedil;er&ccedil;eve olarakta yorumlanır.
+1. **Güncel araştırmalar ışığında bilinen en eski duvar resmi günümüzden kaç yıl önce yapılmıştır?**
+    - A-) 2\.050
+    - B-) 1\.200
+    - C-) 200\.000
+    - **Cevap D-) 45\.000**
+    - E-) 35\.000
+    ***
+1. **Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri değildir?**
+    - A-) Zihinde canlandırılan biçim, tasavvur tasarım kelimesinin karşılığıdır.
+    - B-) Tasar çizim, dizayn anlamında; bir sanat eserinin, yapının veya teknik ürünün ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahiptir.
+    - C-) Bir araştırma sürecinin çeşitli dönemlerinde izlenecek yol ve işlemleri tasarlayan plan ve çerçeve olarakta yorumlanır.
     - **Cevap D-) Tasarı oluşturma anlamında gelerek kural ve kanun koyma eylemidir.**
-    - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmanın ilk taslağını belirtir.
-    <hr />
-1. <strong>T&uuml;rk Dil Kurumuna g&ouml;re aşağıdakilerden hangisi sanat kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
-    - A-) Bir duygu, tasarı, g&uuml;zellik ve benzerlerinin anlatımında kullanılan y&ouml;ntemlerin tamamı veya bu anlatım sonucunda ortaya &ccedil;ıkan &ouml;znel yaratıcılık
-    - **Cevap B-) Tasarımla ilgili t&uuml;m verilerin toplanması**
-    - C-) Belli bir uygarlığın veya topluluğun anlayış ve zevk &ouml;l&ccedil;&uuml;lerine uygun olarak yaratılmış anlatım
-    - D-) Bir şey yapmada g&ouml;sterilen ustalık
-    - E-) Genelde usta &ccedil;ırak ilişkisi i&ccedil;erisinde devam eden ve şey yapmada g&ouml;sterilen maharet
-    <hr />
-1. <strong>İnsanoğlunun g&ouml;rme eylemini anlama, g&ouml;rd&uuml;klerini yakalama ve g&ouml;r&uuml;nt&uuml;y&uuml; yansıtma &ccedil;abasını incelerken karşımıza &ccedil;ıkan en temel bilimsel buluş aşağıdakilerden hangisidir?</strong>
-    - A-) B&uuml;y&uuml;l&uuml; fener
+    - E-) Mimari ya da sanat alanında planlanan bir çalışmanın ilk taslağını belirtir.
+    ***
+1. **Türk Dil Kurumuna göre aşağıdakilerden hangisi sanat kelimesinin karşıladığı anlamlardan biri değildir?**
+    - A-) Bir duygu, tasarı, güzellik ve benzerlerinin anlatımında kullanılan yöntemlerin tamamı veya bu anlatım sonucunda ortaya çıkan öznel yaratıcılık
+    - **Cevap B-) Tasarımla ilgili tüm verilerin toplanması**
+    - C-) Belli bir uygarlığın veya topluluğun anlayış ve zevk ölçülerine uygun olarak yaratılmış anlatım
+    - D-) Bir şey yapmada gösterilen ustalık
+    - E-) Genelde usta çırak ilişkisi içerisinde devam eden ve şey yapmada gösterilen maharet
+    ***
+1. **İnsanoğlunun görme eylemini anlama, gördüklerini yakalama ve görüntüyü yansıtma çabasını incelerken karşımıza çıkan en temel bilimsel buluş aşağıdakilerden hangisidir?**
+    - A-) Büyülü fener
     - **Cevap B-) Kamera obscura**
     - C-) Fotoğraf makinası
     - D-) Ayna
     - E-) Projeksiyon cihazı
-    <hr />
-1. <strong>1826 yılında Nic&eacute;phore Ni&eacute;pce isimli &ouml;nc&uuml; tarafından elde edilen g&ouml;r&uuml;nt&uuml; klasik manada fotoğrafın ilk &ouml;rneğini oluşturmaktadır. Bu g&ouml;r&uuml;nt&uuml;de aşağıdakilerden hangisi konu olarak g&ouml;sterilebilir?</strong>
-    - A-) Balkondan g&ouml;z&uuml;ken bir ağa&ccedil;
-    - **Cevap B-) Penceren g&ouml;z&uuml;ken şehir manzarası**
-    - C-) Dumanı t&uuml;ten bir fabrika
-    - D-) Fabrikadan &ccedil;ıkan iş&ccedil;iler
+    ***
+1. **1826 yılında Nicéphore Niépce isimli öncü tarafından elde edilen görüntü klasik manada fotoğrafın ilk örneğini oluşturmaktadır. Bu görüntüde aşağıdakilerden hangisi konu olarak gösterilebilir?**
+    - A-) Balkondan gözüken bir ağaç
+    - **Cevap B-) Penceren gözüken şehir manzarası**
+    - C-) Dumanı tüten bir fabrika
+    - D-) Fabrikadan çıkan işçiler
     - E-) 3 aylık bir bebek
-    <hr />
-1. Sanayi devrimlerinin sonuncusu olan ve i&ccedil;inde yaşadığımız d&ouml;nemi de kapsayan &hellip;&hellip;&hellip;&hellip;.. sadece end&uuml;stri alanında değil, sanat, eğitim, sağlık ve benzeri pek &ccedil;ok alanda t&uuml;m d&uuml;nyayı etkiler ve değiştirir niteliktedir.<br />
-<strong>Parafta boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?</strong>
-    - A-) End&uuml;stri 1.0
+    ***
+1. Sanayi devrimlerinin sonuncusu olan ve içinde yaşadığımız dönemi de kapsayan ………….. sadece endüstri alanında değil, sanat, eğitim, sağlık ve benzeri pek çok alanda tüm dünyayı etkiler ve değiştirir niteliktedir.<br />**Parafta boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?**
+    - A-) Endüstri 1.0
     - B-) Fransız Devrimi
-    - **Cevap C-) End&uuml;stri 4.0**
+    - **Cevap C-) Endüstri 4.0**
     - D-) Sanayi Devrimi
-    - E-) End&uuml;stri 2
-    <hr />
-1. <strong>İlk dijital g&ouml;rsel olarak kabul edilen dijital dosyada model olarak aşağıdakilerden hangisi kullanılmıştır?</strong>
+    - E-) Endüstri 2
+    ***
+1. **İlk dijital görsel olarak kabul edilen dijital dosyada model olarak aşağıdakilerden hangisi kullanılmıştır?**
     - A-) Ayakkabısını boyayan bir adam
-    - **Cevap B-) &Uuml;&ccedil; aylık bir bebek**
-    - C-) Penceren g&ouml;z&uuml;ken bir manzara
-    - D-) Fabrikadan &ccedil;ıkan iş&ccedil;iler
+    - **Cevap B-) Üç aylık bir bebek**
+    - C-) Penceren gözüken bir manzara
+    - D-) Fabrikadan çıkan işçiler
     - E-) Dinozor iskeleti
-    <hr />
-1. <strong>Fotoğraflar kullanarak 3 boyutlu modellemeler elde edilebilen bir teknik olarak tanımlanan y&ouml;nteme ne ad verilir?</strong>
+    ***
+1. **Fotoğraflar kullanarak 3 boyutlu modellemeler elde edilebilen bir teknik olarak tanımlanan yönteme ne ad verilir?**
     - **Cevap A-) Fotogrametri**
     - B-) After Effect
-    - C-) End&uuml;stri 2.0
+    - C-) Endüstri 2.0
     - D-) Deep Fake
     - E-) DSLR
-    <hr />
-1. Resim, fotoğraf, tasarım, film ve heykeli i&ccedil;eren sanatsal k&uuml;lt&uuml;r arasındaki ilişkiyi araştıran, &ccedil;alışmaları ile &uuml;slubunda fotoğraf ve tasarımı birleştiren ve bir&ccedil;ok sanat&ccedil;ıyı bir araya getiren bir akım olarak&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;, sanat, tasarım ve fotoğrafın beraber kullanımına &ouml;rnek g&ouml;sterilebilecek bir sanat akımıdır.<br />
-<strong>Parafta boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?</strong>
+    ***
+1. Resim, fotoğraf, tasarım, film ve heykeli içeren sanatsal kültür arasındaki ilişkiyi araştıran, çalışmaları ile üslubunda fotoğraf ve tasarımı birleştiren ve birçok sanatçıyı bir araya getiren bir akım olarak…………………, sanat, tasarım ve fotoğrafın beraber kullanımına örnek gösterilebilecek bir sanat akımıdır.<br />**Parafta boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?**
     - A-) Grafik Tasarım
     - B-) Fotogrametri
-    - C-) K&uuml;bizm
+    - C-) Kübizm
     - D-) Picasso
     - **Cevap E-) Pop Art**
-    <hr />
-1. Mimari alanda &uuml;retilecek bir fotoğraf ile end&uuml;striyel tasarım alanı i&ccedil;in ihtiya&ccedil; duyulacak fotoğrafların hem i&ccedil;erik hemde konu a&ccedil;ısından farklı olabileceği barizdir. Bu sebeple tasarımda kullanılacak fotoğrafların neden ve ni&ccedil;ini unutulmamalıdır. Fotoğraflar bir hik&acirc;ye anlatmak i&ccedil;in kullanılabileceği gibi arzu edilen bir deneyim ile bir marka arasındaki ilişkiyi aktarmak i&ccedil;in de kullanılabilir.<br />
-<strong>Yukarıdaki paragrafın başlığı ne olabilir?</strong>
+    ***
+1. Mimari alanda üretilecek bir fotoğraf ile endüstriyel tasarım alanı için ihtiyaç duyulacak fotoğrafların hem içerik hemde konu açısından farklı olabileceği barizdir. Bu sebeple tasarımda kullanılacak fotoğrafların neden ve niçini unutulmamalıdır. Fotoğraflar bir hikâye anlatmak için kullanılabileceği gibi arzu edilen bir deneyim ile bir marka arasındaki ilişkiyi aktarmak için de kullanılabilir.<br />**Yukarıdaki paragrafın başlığı ne olabilir?**
     - **Cevap A-) Tasarımda fotoğrafın amacı**
-    - B-) Fotoğrafın ortaya &ccedil;ıkışı
-    - C-) Sanat ve fotoğrafta &ouml;nc&uuml;ler
+    - B-) Fotoğrafın ortaya çıkışı
+    - C-) Sanat ve fotoğrafta öncüler
     - D-) Sanat ve tasarım ilişkisi
     - E-) Tasarım alanında yenilikler
-    <hr />
-1. <strong>G&uuml;ncel araştırmalar ışığında bilinen en eski duvar resmi g&uuml;n&uuml;m&uuml;zden ka&ccedil; yıl &ouml;nce yapılmıştır?</strong>
-    - A-) 2.050
-    - B-) 1.200
-    - C-) 200.000
-    - **Cevap D-) 45.000**
-    - E-) 35.000
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri <u>değildir</u>?</strong>
-    - A-) Zihinde canlandırılan bi&ccedil;im, tasavvur tasarım kelimesinin karşılığıdır.
-    - B-) Tasar &ccedil;izim, dizayn anlamında; bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahip olmak
-    - C-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol ve işlemleri tasarlayan plan ve &ccedil;er&ccedil;eve olarak yorumlanır.
+    ***
+1. **Güncel araştırmalar ışığında bilinen en eski duvar resmi günümüzden kaç yıl önce yapılmıştır?**
+    - A-) 2\.050
+    - B-) 1\.200
+    - C-) 200\.000
+    - **Cevap D-) 45\.000**
+    - E-) 35\.000
+    ***
+1. **Aşağıdakilerden hangisi tasarım kelimesinin karşıladığı anlamlardan biri değildir?**
+    - A-) Zihinde canlandırılan biçim, tasavvur tasarım kelimesinin karşılığıdır.
+    - B-) Tasar çizim, dizayn anlamında; bir sanat eserinin, yapının veya teknik ürünün ilk taslağını da belirtir, en yeni teknolojik alt yapıya sahip olmak
+    - C-) Bir araştırma sürecinin çeşitli dönemlerinde izlenecek yol ve işlemleri tasarlayan plan ve çerçeve olarak yorumlanır.
     - **Cevap D-) Tasarı oluşturma anlamına gelerek kural ve kanun koyma eylemidir.**
-    - E-) Mimari ya da sanat alanında planlanan bir &ccedil;alışmayı tanımlar.
-    <hr />
-1. <strong>Fotoğraflar kullanarak 3 boyutlu modellemeler elde edilebilen bir teknik olarak tanımlanan y&ouml;ntem aşağıdakilerden hangisidir?</strong>
+    - E-) Mimari ya da sanat alanında planlanan bir çalışmayı tanımlar.
+    ***
+1. **Fotoğraflar kullanarak 3 boyutlu modellemeler elde edilebilen bir teknik olarak tanımlanan yöntem aşağıdakilerden hangisidir?**
     - **Cevap A-) Fotogrametri**
     - B-) After Effect
-    - C-) End&uuml;stri 2.0
+    - C-) Endüstri 2.0
     - D-) Deep Fake
     - E-) DSLR
-    <hr />
+    ***
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi temel tasarım ilkelerinden biridir?</strong>
+1. **Aşağıdakilerden hangisi temel tasarım ilkelerinden biridir?**
     - A-) Nokta
-    - B-) &Ccedil;izgi
+    - B-) Çizgi
     - C-) Doku
     - D-) Desen
     - **Cevap E-) Denge**
-    <hr />
-1. <strong>Ritim ve hareket konusundaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Fotoğraf gibi durağan &uuml;r&uuml;nlerde de hareket hissi yansıtılabilir.
-    - B-) Asimetrik kompozisyonlar, simetrik kompozisyonlardan daha hareketli g&ouml;r&uuml;n&uuml;r.
-    - C-) Tasarımda hareket, izleyicinin g&ouml;z&uuml;n&uuml;n y&ouml;nlendirilmesi ile ilgilidir.
-    - **Cevap D-) Ritim yalnızca kulakla işitilebilir, g&ouml;rsel tasarımda ritimden s&ouml;z edilemez.**
-    - E-) D&uuml;zenli ve d&uuml;zensiz ritimler birbirinden &uuml;st&uuml;n değildir, farklı kullanım ama&ccedil;ları bulunur.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarımda &ouml;nem sırası anlamına gelir?</strong>
+    ***
+1. **Ritim ve hareket konusundaki ifadelerden hangisi yanlıştır?**
+    - A-) Fotoğraf gibi durağan ürünlerde de hareket hissi yansıtılabilir.
+    - B-) Asimetrik kompozisyonlar, simetrik kompozisyonlardan daha hareketli görünür.
+    - C-) Tasarımda hareket, izleyicinin gözünün yönlendirilmesi ile ilgilidir.
+    - **Cevap D-) Ritim yalnızca kulakla işitilebilir, görsel tasarımda ritimden söz edilemez.**
+    - E-) Düzenli ve düzensiz ritimler birbirinden üstün değildir, farklı kullanım amaçları bulunur.
+    ***
+1. **Aşağıdakilerden hangisi tasarımda önem sırası anlamına gelir?**
     - A-) Kompozisyon
     - **Cevap B-) Hiyerarşi**
     - C-) Hareket
-    - D-) D&uuml;zen
+    - D-) Düzen
     - E-) Denge
-    <hr />
-1. <strong>Aşağıdaki &ccedil;iftlerden hangisi tasarımda zıtlık yaratmak i&ccedil;in kullanılabilecek karşıt unsurlardan <u>değildir</u>?</strong>
-    - A-) B&uuml;y&uuml;k &ndash; k&uuml;&ccedil;&uuml;k
-    - B-) Dolu &ndash; boş
-    - C-) Dokulu &ndash; dokusuz
-    - **Cevap D-) Mat &ndash; opak**
-    - E-) Aydınlık &ndash; karanlık
-    <hr />
-1. <strong>Kompozisyonda/tasarımda belli bir g&ouml;rsel elemanı &ouml;ne &ccedil;ıkarmak i&ccedil;in yapılan d&uuml;zenlemeye ne ad verilir?</strong>
+    ***
+1. **Aşağıdaki çiftlerden hangisi tasarımda zıtlık yaratmak için kullanılabilecek karşıt unsurlardan değildir?**
+    - A-) Büyük – küçük
+    - B-) Dolu – boş
+    - C-) Dokulu – dokusuz
+    - **Cevap D-) Mat – opak**
+    - E-) Aydınlık – karanlık
+    ***
+1. **Kompozisyonda/tasarımda belli bir görsel elemanı öne çıkarmak için yapılan düzenlemeye ne ad verilir?**
     - **Cevap A-) Vurgu**
-    - B-) &Uuml;nlem
+    - B-) Ünlem
     - C-) Dikkat
     - D-) Denge
     - E-) Tekrar
-    <hr />
-1. <strong>Yan yana gelmiş noktalar dizimine ne ad verilir?</strong>
+    ***
+1. **Yan yana gelmiş noktalar dizimine ne ad verilir?**
     - A-) Nokta
     - B-) Renk
-    - **Cevap C-) &Ccedil;izgi**
+    - **Cevap C-) Çizgi**
     - D-) Hiyerarşi
     - E-) Boşluk
-    <hr />
-1. <strong>Aşağıdakilerden hangisi şekil t&uuml;rlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi şekil türlerinden biri değildir?**
     - A-) Organik
     - **Cevap B-) Modern**
     - C-) Geometrik
     - D-) Rastlantısal
-    - E-) Fig&uuml;ratif
-    <hr />
-1. <strong>&Ccedil;oğunlukla denge, g&uuml;ven, stabil olma durumu gibi kavramlarla ilişkilendirilen şekil hangisidir?</strong>
+    - E-) Figüratif
+    ***
+1. **Çoğunlukla denge, güven, stabil olma durumu gibi kavramlarla ilişkilendirilen şekil hangisidir?**
     - A-) Daire
-    - B-) Eşkenar &uuml;&ccedil;gen
-    - C-) K&uuml;re
+    - B-) Eşkenar üçgen
+    - C-) Küre
     - D-) Piramit
     - **Cevap E-) Kare**
-    <hr />
-1. <strong>Desen oluşumunda en &ouml;nemli unsur aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Desen oluşumunda en önemli unsur aşağıdakilerden hangisidir?**
     - **Cevap A-) Tekrar**
     - B-) Boşluk
     - C-) Hiyerarşi
     - D-) Vurgu
     - E-) Odak
-    <hr />
-1. <strong>Aşağıdakilerin hangisinde ara (ikincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
+    ***
+1. **Aşağıdakilerin hangisinde ara (ikincil) renkler doğru ve eksiksiz olarak belirtilmiştir?**
     - A-) Sarı, Mavi, Yeşil
     - B-) Sarı, Kırmızı, Mor
     - **Cevap C-) Turuncu, Mor, Yeşil**
     - D-) Mavi, Mor, Yeşil
     - E-) Turuncu, Sarı, Kırmızı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi temel tasarım elemanlarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi temel tasarım elemanlarından biri değildir?**
     - A-) Nokta
-    - B-) &Ccedil;izgi
+    - B-) Çizgi
     - C-) Şekil
     - D-) Doku
     - **Cevap E-) Kompozisyon**
-    <hr />
-1. <strong>Tehdit, tehlike, endişe gibi kavramlarla ilişkilendirilebilen şekil aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) &Uuml;&ccedil;gen**
+    ***
+1. **Tehdit, tehlike, endişe gibi kavramlarla ilişkilendirilebilen şekil aşağıdakilerden hangisidir?**
+    - **Cevap A-) Üçgen**
     - B-) Kare
     - C-) Daire
     - D-) Silindir
-    - E-) K&uuml;re
-    <hr />
-1. <strong>Aşağıdakilerin hangisinde ana (birincil) renkler doğru ve eksiksiz olarak belirtilmiştir?</strong>
+    - E-) Küre
+    ***
+1. **Aşağıdakilerin hangisinde ana (birincil) renkler doğru ve eksiksiz olarak belirtilmiştir?**
     - A-) Sarı, kırmızı, mor
     - **Cevap B-) Sarı, kırmızı, mavi**
     - C-) Sarı, kırmızı, yeşil
     - D-) Mavi, kırmızı, yeşil
     - E-) Mavi, mor, kırmızı
-    <hr />
-1. <strong>Aşağıdaki renk &ccedil;iftlerinden hangisinin her ikisi de sıcak renklerdendir?</strong>
+    ***
+1. **Aşağıdaki renk çiftlerinden hangisinin her ikisi de sıcak renklerdendir?**
     - A-) Mavi ve yeşil
     - B-) Mavi ve mor
     - C-) Kırmızı ve mavi
     - **Cevap D-) Kırmızı ve turuncu**
     - E-) Turuncu ve mavi
-    <hr />
+    ***
 ## Unite 3
-1. <strong>Fotoğraf s&ouml;zc&uuml;ğ&uuml;n&uuml; oluşturan foton-grafi s&ouml;zc&uuml;klerinin karşılığı aşağıdakilerden hangisidir?</strong>
+1. **Fotoğraf sözcüğünü oluşturan foton-grafi sözcüklerinin karşılığı aşağıdakilerden hangisidir?**
     - A-) Resim-Yakalama
     - B-) Resim-Boyama
     - C-) Işık-Resim
     - **Cevap D-) Işık-Yazı**
     - E-) Işık-Dolgu
-    <hr />
-1. <strong>Denge ile tanımlamaların hangi doğrudur?</strong>
-    - A-) Denge fotoğrafta sadece bi&ccedil;imlere ilişkin bir kavramdır.
+    ***
+1. **Denge ile tanımlamaların hangi doğrudur?**
+    - A-) Denge fotoğrafta sadece biçimlere ilişkin bir kavramdır.
     - B-) Denge fotoğrafta sadece ışığa ilişkin bir kavramdır.
-    - **Cevap C-) Denge fotoğrafta t&uuml;m tasarım elemanlarının kompozisyon alanında uygun bir şekilde kullanılmasına ilişkin bir kavramdır.**
+    - **Cevap C-) Denge fotoğrafta tüm tasarım elemanlarının kompozisyon alanında uygun bir şekilde kullanılmasına ilişkin bir kavramdır.**
     - D-) Dengenin simetrik olması beklenir.
-    - E-) Denge ana konunun kompozisyon i&ccedil;ine doğru yerleştirilmesiyle sağlanabilir.
-    <hr />
-1. <strong>Portre fotoğrafı &ccedil;ekilirken kameranın fotoğrafı &ccedil;ekilen kişinin boy hizasının altında konumlandırılmasıyla aşağıdakilerden hangisi elde edilebilir?</strong>
-    - A-) Konu kişi izleyici i&ccedil;in k&uuml;&ccedil;&uuml;k g&ouml;z&uuml;k&uuml;r ve izleyicide fotoğrafı &ccedil;ekilen kişiye y&ouml;nelik acıma duygusu oluşur.
-    - B-) Konu kişiyle izleyicinin eşit d&uuml;zlemde iletişim kurması sağlanır. İzleyici konunun duygu durumlarını g&ouml;zlemleyebilir.
-    - **Cevap C-) Konu kişi izleyici i&ccedil;in olduğundan daha b&uuml;y&uuml;k olarak g&ouml;zlemlenir. Bu sayede izleyicide konuya y&ouml;nelik kahramanlık veya b&uuml;y&uuml;kl&uuml;k duyguları uyanabilir.**
-    - D-) Bu kamera a&ccedil;ısının kompozisyona etkisi olmaz.
-    - E-) Fotoğrafın g&ouml;rsel ritminin oluşmasına katkı sağlar. Perspektif oluşturur.
-    <hr />
-1. <strong>Pozitif alanın doğru tanımlaması aşağıdakilerden hangisinde doğru olarak verilmiştir?</strong>
-    - **Cevap A-) Kompozisyon i&ccedil;ine dahil edilen &ouml;znelerin bulunduğu alana pozitif veya aktif alan denmektedir.**
-    - B-) Kompozsiyonda fotoğrafı &ccedil;ekilen konunun etrafında kalan, onu &ccedil;evreleyen alana pozitif alan denmektedir.
+    - E-) Denge ana konunun kompozisyon içine doğru yerleştirilmesiyle sağlanabilir.
+    ***
+1. **Portre fotoğrafı çekilirken kameranın fotoğrafı çekilen kişinin boy hizasının altında konumlandırılmasıyla aşağıdakilerden hangisi elde edilebilir?**
+    - A-) Konu kişi izleyici için küçük gözükür ve izleyicide fotoğrafı çekilen kişiye yönelik acıma duygusu oluşur.
+    - B-) Konu kişiyle izleyicinin eşit düzlemde iletişim kurması sağlanır. İzleyici konunun duygu durumlarını gözlemleyebilir.
+    - **Cevap C-) Konu kişi izleyici için olduğundan daha büyük olarak gözlemlenir. Bu sayede izleyicide konuya yönelik kahramanlık veya büyüklük duyguları uyanabilir.**
+    - D-) Bu kamera açısının kompozisyona etkisi olmaz.
+    - E-) Fotoğrafın görsel ritminin oluşmasına katkı sağlar. Perspektif oluşturur.
+    ***
+1. **Pozitif alanın doğru tanımlaması aşağıdakilerden hangisinde doğru olarak verilmiştir?**
+    - **Cevap A-) Kompozisyon içine dahil edilen öznelerin bulunduğu alana pozitif veya aktif alan denmektedir.**
+    - B-) Kompozsiyonda fotoğrafı çekilen konunun etrafında kalan, onu çevreleyen alana pozitif alan denmektedir.
     - C-) Kompozsiyonda hareketli nesnelerin bulunduğu alana pozitif alan denmektedir.
-    - D-) Kompozisyonda dengeyi sağlayan alan i&ccedil;in pozitif alan tanımlaması yapılır.
-    - E-) Pozitif alan kompozisyonda rengi ifade etmektedir. Renk ile &uuml;&ccedil; boyut vurgusunun yapıldığı alanlara pozitif alan denmektedir.
-    <hr />
-1. <strong>&Uuml;&ccedil;ler kuralının doğru kullanımı hangi şıkta doğru olarak verilmiştir?</strong>
-    - A-) Kompozisyon hayali olarak b&ouml;l&uuml;mlenir ve ana konu kompozisyonun merkezine yerleştirilir.
-    - **Cevap B-) Kompozisyon hayali olarak dokuz par&ccedil;aya b&ouml;l&uuml;n&uuml;r ve vurgulanmak istenilen ana konu bu b&ouml;l&uuml;mlerin kesişim yerlerine yerleştirilir.**
-    - C-) Kompozisyon hayali olarak b&ouml;l&uuml;mlenir ve ana konu kompozisyonun sol kısmına yerleştirilir.
-    - D-) Kompozisyonda yer alan &ccedil;izgiler referans olarak işlev g&ouml;r&uuml;r ve ana konu bu &ccedil;izgilerin kesişim b&ouml;lgesine yerleştirilir.
-    - E-) Fotoğrafta ufuk &ccedil;izgisi g&ouml;r&uuml;n&uuml;yorsa kompozisyonun en alt kısmında bulunmalıdır.
-    <hr />
-1. <strong>Bir nesnenin veya kişini &uuml;&ccedil; boyutunun vurgulanması istenilen bir fotoğrafta ışığın hangi konumda olması daha uygundur?</strong>
+    - D-) Kompozisyonda dengeyi sağlayan alan için pozitif alan tanımlaması yapılır.
+    - E-) Pozitif alan kompozisyonda rengi ifade etmektedir. Renk ile üç boyut vurgusunun yapıldığı alanlara pozitif alan denmektedir.
+    ***
+1. **Üçler kuralının doğru kullanımı hangi şıkta doğru olarak verilmiştir?**
+    - A-) Kompozisyon hayali olarak bölümlenir ve ana konu kompozisyonun merkezine yerleştirilir.
+    - **Cevap B-) Kompozisyon hayali olarak dokuz parçaya bölünür ve vurgulanmak istenilen ana konu bu bölümlerin kesişim yerlerine yerleştirilir.**
+    - C-) Kompozisyon hayali olarak bölümlenir ve ana konu kompozisyonun sol kısmına yerleştirilir.
+    - D-) Kompozisyonda yer alan çizgiler referans olarak işlev görür ve ana konu bu çizgilerin kesişim bölgesine yerleştirilir.
+    - E-) Fotoğrafta ufuk çizgisi görünüyorsa kompozisyonun en alt kısmında bulunmalıdır.
+    ***
+1. **Bir nesnenin veya kişini üç boyutunun vurgulanması istenilen bir fotoğrafta ışığın hangi konumda olması daha uygundur?**
     - A-) Aydınlatma karşıdan yapılmalıdır.
     - B-) Aydınlatma yandan yapılmalıdır.
-    - C-) Aydınlatma &uuml;sten yapılmalıdır.
+    - C-) Aydınlatma üsten yapılmalıdır.
     - **Cevap D-) Aydınlatma konunun arkasından yapılmalıdır.**
     - E-) Aydınlatma konunun altından yapılmalıdır.
-    <hr />
-1. <strong>F-stop (f-durakları) tanımlaması hangi şıkta doğru olarak yapılmıştır?</strong>
-    - **Cevap A-) F-Stop diyafram a&ccedil;ıklığını ifade eden bir veri sağlar.**
+    ***
+1. **F-stop (f-durakları) tanımlaması hangi şıkta doğru olarak yapılmıştır?**
+    - **Cevap A-) F-Stop diyafram açıklığını ifade eden bir veri sağlar.**
     - B-) F-Stop iso ayarını ifade eden bir veri sağlar.
     - C-) F-Stop shutter speed (enstantane) ayarını ifade eden bir veri sağlar.
     - D-) F-Stop fotoğrafın beyaz dengesinin yapılmasına yardımcı olur.
     - E-) F-Stop fotoğrafın megapiksel cinsinden boyutunu kontrol eder.
-    <hr />
-1. <strong>Doğal ışık kaynakları hangi şıkta doğru olarak verilmiştir?</strong>
-    - **Cevap A-) G&uuml;neş, yıldızlar, yıldırım**
+    ***
+1. **Doğal ışık kaynakları hangi şıkta doğru olarak verilmiştir?**
+    - **Cevap A-) Güneş, yıldızlar, yıldırım**
     - B-) Mum, gaz lambası
-    - C-) Florasan, led amp&uuml;l
-    - D-) Sokak lambası, monit&ouml;r ışığı
-    - E-) Ş&ouml;mine, odun alevi
-    <hr />
-1. <strong>Fotoğrafta &uuml;&ccedil;gen kompozisyonun kullanımı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - C-) Florasan, led ampül
+    - D-) Sokak lambası, monitör ışığı
+    - E-) Şömine, odun alevi
+    ***
+1. **Fotoğrafta üçgen kompozisyonun kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Fotoğrafa dinamizm katar.
-    - B-) Fotoğrafta ana konuya y&ouml;nelik y&uuml;celik hissi uyandırır.
-    - **Cevap C-) Fotoğrafa ger&ccedil;ek&ccedil;i bir g&ouml;r&uuml;nt&uuml; katar.**
+    - B-) Fotoğrafta ana konuya yönelik yücelik hissi uyandırır.
+    - **Cevap C-) Fotoğrafa gerçekçi bir görüntü katar.**
     - D-) Fotoğrafta izleyicinin ilgisini organize eder.
     - E-) İlgiyi merkeze toplar.
-    <hr />
-1. <strong>Fotoğrafta &ccedil;izgilerle ilgili aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) İzleyicinin bakışlarının y&ouml;nlendirilmesinde etkili bir ara&ccedil;tır.
-    - B-) Fotoğraf&ccedil;ının kadraja d&acirc;hil ettiği pek &ccedil;ok nesne veya nesneler &ccedil;izgi oluşturmak i&ccedil;in kullanılabilir.
-    - **Cevap C-) Fotoğrafta sadece d&uuml;z &ccedil;izgilerden yararlanabiliriz.**
-    - D-) &Ccedil;izgilerle, g&ouml;r&uuml;nt&uuml;ye hareket hissi katabiliriz.
-    - E-) Yatay &ccedil;izgilerle izleyicide dingin bir his uyandırabiliriz.
-    <hr />
-1. <strong>Negatif alanla ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) Negatif alan konunun i&ccedil;inde yer alan ama sabit olan kısma verilen isimdir.
-    - B-) Fotoğrafta konunun vurgulanmasında negatif alanın kullanımından ka&ccedil;ınılması gerekmektedir.
-    - **Cevap C-) Negatif alan bir nesne ile başka bir nesnenin etkileşimini sağlayan, konuyu &ccedil;evreleyen boşluktur.**
-    - D-) Bir fotoğrafta negatif alan ne kadar fazlaysa alan derinliğinin de o &ouml;l&ccedil;&uuml;de fazla olduğu s&ouml;ylenebilir.
+    ***
+1. **Fotoğrafta çizgilerle ilgili aşağıdakilerden hangisi yanlıştır?**
+    - A-) İzleyicinin bakışlarının yönlendirilmesinde etkili bir araçtır.
+    - B-) Fotoğrafçının kadraja dâhil ettiği pek çok nesne veya nesneler çizgi oluşturmak için kullanılabilir.
+    - **Cevap C-) Fotoğrafta sadece düz çizgilerden yararlanabiliriz.**
+    - D-) Çizgilerle, görüntüye hareket hissi katabiliriz.
+    - E-) Yatay çizgilerle izleyicide dingin bir his uyandırabiliriz.
+    ***
+1. **Negatif alanla ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - A-) Negatif alan konunun içinde yer alan ama sabit olan kısma verilen isimdir.
+    - B-) Fotoğrafta konunun vurgulanmasında negatif alanın kullanımından kaçınılması gerekmektedir.
+    - **Cevap C-) Negatif alan bir nesne ile başka bir nesnenin etkileşimini sağlayan, konuyu çevreleyen boşluktur.**
+    - D-) Bir fotoğrafta negatif alan ne kadar fazlaysa alan derinliğinin de o ölçüde fazla olduğu söylenebilir.
     - E-) İyi bir fotoğrafta pozitif alanların her zaman negatif alandan fazla olması beklenir.
-    <hr />
-1. <strong>Aşağıdakilerin hangisinde doğal ışık kaynağı doğru olarak verilmiştir?</strong>
+    ***
+1. **Aşağıdakilerin hangisinde doğal ışık kaynağı doğru olarak verilmiştir?**
     - A-) Odun ateşi, gaz ocağı
     - B-) Tungsten lamba, mum
     - C-) Ay, yakamaz
-    - D-) Florasan, led amp&uuml;l
-    - **Cevap E-) Şimşek, kuzey ışıkları, ateş b&ouml;ceği**
-    <hr />
-1. <strong>F1.4 i&ccedil;in aşşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
-    - A-) Diyafram a&ccedil;ıklığı değişmez.
+    - D-) Florasan, led ampül
+    - **Cevap E-) Şimşek, kuzey ışıkları, ateş böceği**
+    ***
+1. **F1.4 için aşşağıdakilerden hangisi söylenebilir?**
+    - A-) Diyafram açıklığı değişmez.
     - B-) Geniş bir perspektifte farklı nesnelerin keskin bir şekilde kaydedilmesi istenildiğinde kullanılabilir.
     - C-) Parlak ışık şartlarında kullanılması daha uygundur.
-    - D-) Diyafram a&ccedil;ıklığı dardır.
-    - **Cevap E-) Diyafram a&ccedil;ıklığı geniştir.**
-    <hr />
+    - D-) Diyafram açıklığı dardır.
+    - **Cevap E-) Diyafram açıklığı geniştir.**
+    ***
 ## Unite 4
-1. <strong>Aşağıdakilerden hangisi fotoğrafın iletişim aracı olma &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi fotoğrafın iletişim aracı olma özelliklerinden biri değildir?**
     - A-) Bilgi verici olması
     - B-) Merak gidermesi
-    - C-) Sonu&ccedil; g&ouml;stermesi
+    - C-) Sonuç göstermesi
     - D-) Hatırlatıcı olması
-    - **Cevap E-) Ger&ccedil;eği s&ouml;ylemesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir fotoğrafın i&ccedil;eriğinde <u>yer almaz</u>?</strong>
+    - **Cevap E-) Gerçeği söylemesi**
+    ***
+1. **Aşağıdakilerden hangisi bir fotoğrafın içeriğinde yer almaz?**
     - A-) Duygu
     - **Cevap B-) Perspektif**
     - C-) Renk
     - D-) Işık
     - E-) An
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın özelliklerinden biri değildir?**
     - A-) Teması olmalıdır
-    - B-) Mesaj i&ccedil;ermelidir
-    - C-) Dikkat &ccedil;ekici olmalıdır
+    - B-) Mesaj içermelidir
+    - C-) Dikkat çekici olmalıdır
     - D-) Evrensel olmalıdır
     - **Cevap E-) Renkli olmalıdır**
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi fotoğrafın izleyiciye ulaşıncaya kadar ki ge&ccedil;en s&uuml;re&ccedil;te <u>yer almaz</u>?</strong>
-    - **Cevap A-) G&ouml;zlem s&uuml;reci**
-    - B-) D&uuml;ş&uuml;nce s&uuml;reci
-    - C-) Hazırlık s&uuml;reci
-    - D-) &Ccedil;ekim s&uuml;reci
-    - E-) İşleme s&uuml;reci
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi d&uuml;ş&uuml;nce s&uuml;recinde <u>yer almaz</u>?</strong>
-    - A-) Ama&ccedil; belirlenir.
+    ***
+1. **Aşağıdaki seçeneklerden hangisi fotoğrafın izleyiciye ulaşıncaya kadar ki geçen süreçte yer almaz?**
+    - **Cevap A-) Gözlem süreci**
+    - B-) Düşünce süreci
+    - C-) Hazırlık süreci
+    - D-) Çekim süreci
+    - E-) İşleme süreci
+    ***
+1. **Aşağıdaki seçeneklerden hangisi düşünce sürecinde yer almaz?**
+    - A-) Amaç belirlenir.
     - B-) Nesneler belirlenir.
     - C-) Boyut ve konum belirlenir.
     - **Cevap D-) Havanın durumu belirlenir.**
     - E-) Yaratılmak istenen etki belirlenir.
-    <hr />
-1. <strong>Aşağıdaki se&ccedil;eneklerden hangisi &ouml;n hazırlık s&uuml;recinde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdaki seçeneklerden hangisi ön hazırlık sürecinde yer almaz?**
     - A-) Teknik ekipman tedarik edilir.
-    - B-) Mek&acirc;n d&uuml;zenlenir.
+    - B-) Mekân düzenlenir.
     - **Cevap C-) Nesnelerin hareketi belirlenir.**
     - D-) Arka plan belirlenir.
     - E-) Nesneler ilişkilendirilir.
-    <hr />
-1. I. Eyfel Kulesi<br />
-II.&nbsp;&Ccedil;in Setti<br />
-III. Mısır Piramitleri<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;nesnel ve evrensel simgeler arasında yer alır?</strong>
+    ***
+1. I. Eyfel Kulesi<br />II. Çin Setti<br />III. Mısır Piramitleri<br />**Yukarıdakilerden hangisi ya da hangileri nesnel ve evrensel simgeler arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Geometrik nesnelerin faydalarından biri <u>değildir</u>?</strong>
-    - A-) Nesneler i&ccedil;inde d&uuml;zen sağlar.
-    - B-) Bakış a&ccedil;ısını estetik h&acirc;le getirir.
+    ***
+1. **Aşağıdakilerden hangisi Geometrik nesnelerin faydalarından biri değildir?**
+    - A-) Nesneler içinde düzen sağlar.
+    - B-) Bakış açısını estetik hâle getirir.
     - C-) Algılamayı kolaylaştırır.
-    - **Cevap D-) Nesnelerin b&uuml;y&uuml;kl&uuml;klerini belirler.**
-    - E-) &Uuml;&ccedil; boyutlu etki sağlamaya yardımcı olur.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel bir &ouml;ge <u>değildir</u>?</strong>
+    - **Cevap D-) Nesnelerin büyüklüklerini belirler.**
+    - E-) Üç boyutlu etki sağlamaya yardımcı olur.
+    ***
+1. **Aşağıdakilerden hangisi görsel bir öge değildir?**
     - A-) Renk
     - B-) Kontrast
     - **Cevap C-) Beğeni**
     - D-) Derinlik
     - E-) Yansıma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kompozisyonu oluşturan &ouml;gelerden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kompozisyonu oluşturan ögelerden biri değildir?**
     - A-) Hareket ve ritim
     - B-) Zıtlık ve karşıtlık
     - **Cevap C-) Kuram ve yargı**
-    - D-) B&uuml;t&uuml;nl&uuml;k ve &ccedil;eşitlilik
+    - D-) Bütünlük ve çeşitlilik
     - E-) Renk ve ton
-    <hr />
-1. <strong>Aşağıdakilerden hangisinin alan derinliğe etkisi <u>yoktur</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisinin alan derinliğe etkisi yoktur?**
     - **Cevap A-) Karşıtlık**
     - B-) Perspektif
     - C-) Nesnelerin konumu
     - D-) Işık
     - E-) Kontrast
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel g&ouml;stergebilimin ilgi alanına <u>girmez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi görsel göstergebilimin ilgi alanına girmez?**
     - A-) Mimari
-    - B-) Karikat&uuml;r
+    - B-) Karikatür
     - C-) Reklam
     - D-) Fotoğraf
     - **Cevap E-) Tiyatro**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi simgesel g&ouml;stergeye &ouml;rnek <u>teşkil etmez</u>?</strong>
-    - A-) G&uuml;n doğumu
+    ***
+1. **Aşağıdakilerden hangisi simgesel göstergeye örnek teşkil etmez?**
+    - A-) Gün doğumu
     - B-) Merdiven
     - C-) Kırık testi
     - D-) Ufuk
     - **Cevap E-) Karanlık**
-    <hr />
-1. <strong>Perspektif katmanları arasında ge&ccedil;iş yapılmasını sağlayan unsur nedir?</strong>
-    - A-) Hayal&icirc; &ccedil;izgiler
+    ***
+1. **Perspektif katmanları arasında geçiş yapılmasını sağlayan unsur nedir?**
+    - A-) Hayalî çizgiler
     - **Cevap B-) Alan derinliği**
     - C-) Kurgu
     - D-) Tasarım
-    - E-) Y&ouml;nlendirme
-    <hr />
+    - E-) Yönlendirme
+    ***
 ## Unite 5
-1. <strong>Aşağıdakilerden hangisi iletişimin ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
-    - A-) &Ouml;ğrenmeye y&ouml;nelik olması
-    - B-) Tutum değişikliği oluşturmaya y&ouml;nelik olması
-    - C-) Davranış değişikliği oluşturmaya y&ouml;nelik olması
-    - D-) Bilgi paylaşımına y&ouml;nelik olması
-    - **Cevap E-) &Ccedil;atışmaya y&ouml;nelik olması**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamcılık ile ilgili mevcut fotoğraf&ccedil;ılık kariyerlerindendir?</strong>
+1. **Aşağıdakilerden hangisi iletişimin amaçları arasında yer almaz?**
+    - A-) Öğrenmeye yönelik olması
+    - B-) Tutum değişikliği oluşturmaya yönelik olması
+    - C-) Davranış değişikliği oluşturmaya yönelik olması
+    - D-) Bilgi paylaşımına yönelik olması
+    - **Cevap E-) Çatışmaya yönelik olması**
+    ***
+1. **Aşağıdakilerden hangisi reklamcılık ile ilgili mevcut fotoğrafçılık kariyerlerindendir?**
     - A-) Foto muhabiri
-    - B-) Portre fotoğraf&ccedil;ısı
-    - C-) D&uuml;ğ&uuml;n fotoğraf&ccedil;ısı
-    - D-) Etkinlik fotoğraf&ccedil;ısı
-    - **Cevap E-) Stok fotoğraf&ccedil;ısı**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklamcılığın ama&ccedil;ları arasında <u>yer almaz</u>?</strong>
-    - A-) &Uuml;r&uuml;nler hakkında bilgilendirmek
-    - B-) T&uuml;keticileri ikna etmek
-    - **Cevap C-) Sadece k&acirc;r amacı olan kuruluşlar i&ccedil;in &ccedil;alışmak**
+    - B-) Portre fotoğrafçısı
+    - C-) Düğün fotoğrafçısı
+    - D-) Etkinlik fotoğrafçısı
+    - **Cevap E-) Stok fotoğrafçısı**
+    ***
+1. **Aşağıdakilerden hangisi reklamcılığın amaçları arasında yer almaz?**
+    - A-) Ürünler hakkında bilgilendirmek
+    - B-) Tüketicileri ikna etmek
+    - **Cevap C-) Sadece kâr amacı olan kuruluşlar için çalışmak**
     - D-) Belirlenen zamanda mesajları iletmek
-    - E-) Belirlenen mek&acirc;nda mesajları iletmek
-    <hr />
-1. <strong>Reklam ile ilgili ifadelerden hangisi doğrudur?</strong>
-    - A-) Marka değeri oluşturmak i&ccedil;in sadece reklam yeterlidir.
+    - E-) Belirlenen mekânda mesajları iletmek
+    ***
+1. **Reklam ile ilgili ifadelerden hangisi doğrudur?**
+    - A-) Marka değeri oluşturmak için sadece reklam yeterlidir.
     - B-) Sponsorluk faaliyetleri reklamdan bağımsız planlanmalıdır.
-    - C-) Halkla ilişkiler &ccedil;alışmaları ile birlikte planlanan reklam faaliyetleri başarısızlığa yol a&ccedil;ar.
+    - C-) Halkla ilişkiler çalışmaları ile birlikte planlanan reklam faaliyetleri başarısızlığa yol açar.
     - D-) Reklam bir pazarlama faaliyeti değildir.
-    - **Cevap E-) Reklam &ccedil;alışmalarının pazarlama faaliyetlerinden ayrı planlanması başarısızlığa yol a&ccedil;ar.**
-    <hr />
-1. <strong>Stok fotoğrafları nedir?</strong>
-    - **Cevap A-) Fotoğraf&ccedil;ılar tarafından daha &ouml;nceden belirli konseptler &uuml;zerine &ccedil;ekilmiş kullanıma hazır hale getirilmiş arşiv g&ouml;r&uuml;nt&uuml;leridir.**
-    - B-) Sponsorlar tarafından talep &uuml;zerine &ccedil;ekilecek g&ouml;r&uuml;nt&uuml;leridir.
-    - C-) Reklamcılar tarafından talep &uuml;zerine &ccedil;ekilecek g&ouml;r&uuml;nt&uuml;leridir.
-    - D-) Sponsorlar tarafından daha &ouml;nceden belirli konseptler &uuml;zerine &ccedil;ekilmiş ama arşivlenmemiş g&ouml;r&uuml;nt&uuml;leridir.
-    - E-) Fotoğraf&ccedil;ılar tarafından talep &uuml;zerine &ccedil;ekilecek g&ouml;r&uuml;nt&uuml;leridir.
-    <hr />
-1. <strong>Stok fotoğraf&ccedil;ılığı ile ilgili aşağıdaki ifadelerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) İnternet stok fotoğraf&ccedil;ılığının gelişimini doğrudan etkilemiştir.
-    - B-) Dijital kameralar stok fotoğraf&ccedil;ılığının gelişimini doğrudan etkilemiştir.
-    - C-) Stok fotoğraf&ccedil;ılığı ihtiya&ccedil; duyulan fotoğraflara ulaşmanın hızlı yoludur.
-    - D-) Stok fotoğraf&ccedil;ılığı ucuz hatta &uuml;cretsiz olabilmektedir.
-    - **Cevap E-) Stok fotoğraf&ccedil;ılığı arşiv tutulmadan yapılmadır.**
-    <hr />
-1. <strong>Reklamın başarısı a</strong><strong>şağıdakilerden hangisine&nbsp;</strong><strong>bağlı <u>değildir</u>?</strong>
+    - **Cevap E-) Reklam çalışmalarının pazarlama faaliyetlerinden ayrı planlanması başarısızlığa yol açar.**
+    ***
+1. **Stok fotoğrafları nedir?**
+    - **Cevap A-) Fotoğrafçılar tarafından daha önceden belirli konseptler üzerine çekilmiş kullanıma hazır hale getirilmiş arşiv görüntüleridir.**
+    - B-) Sponsorlar tarafından talep üzerine çekilecek görüntüleridir.
+    - C-) Reklamcılar tarafından talep üzerine çekilecek görüntüleridir.
+    - D-) Sponsorlar tarafından daha önceden belirli konseptler üzerine çekilmiş ama arşivlenmemiş görüntüleridir.
+    - E-) Fotoğrafçılar tarafından talep üzerine çekilecek görüntüleridir.
+    ***
+1. **Stok fotoğrafçılığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?**
+    - A-) İnternet stok fotoğrafçılığının gelişimini doğrudan etkilemiştir.
+    - B-) Dijital kameralar stok fotoğrafçılığının gelişimini doğrudan etkilemiştir.
+    - C-) Stok fotoğrafçılığı ihtiyaç duyulan fotoğraflara ulaşmanın hızlı yoludur.
+    - D-) Stok fotoğrafçılığı ucuz hatta ücretsiz olabilmektedir.
+    - **Cevap E-) Stok fotoğrafçılığı arşiv tutulmadan yapılmadır.**
+    ***
+1. **Reklamın başarısı a****şağıdakilerden hangisine** **bağlı değildir?**
     - A-) Hedef kitlenin doğru analizine
     - B-) Araştırmaya
-    - C-) Hedef kitleye g&ouml;re oluşturulan mesaja
-    - **Cevap D-) Hedef kitle g&ouml;zetmeksizin iletişim kurmaya**
+    - C-) Hedef kitleye göre oluşturulan mesaja
+    - **Cevap D-) Hedef kitle gözetmeksizin iletişim kurmaya**
     - E-) Hedef kitlenin zevkleri ve tercihlerine
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ikna kabiliyeti olan bir reklam fotoğrafını <u>tanımlamaz</u>?</strong>
-    - A-) Reklam fotoğraflarının ilgi merkezinde reklamı yapılan &uuml;r&uuml;n yer almalıdır.
-    - B-) Ana &ouml;ğe belirgin olmalıdır.
-    - C-) Yardımcı &ouml;ğeler reklamı yapılan ana &ouml;ğeyi destekler &ouml;zellikte olmalıdır.
+    ***
+1. **Aşağıdakilerden hangisi ikna kabiliyeti olan bir reklam fotoğrafını tanımlamaz?**
+    - A-) Reklam fotoğraflarının ilgi merkezinde reklamı yapılan ürün yer almalıdır.
+    - B-) Ana öğe belirgin olmalıdır.
+    - C-) Yardımcı öğeler reklamı yapılan ana öğeyi destekler özellikte olmalıdır.
     - **Cevap D-) Reklamda kullanılan başlık, slogan, metin ve fotoğraf birbirlerinden bağımsız olmalıdır.**
-    - E-) G&ouml;rsel g&ouml;stergeler kendinden beklenen anlam iletme g&ouml;revini yerine getirmelidir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yaratıcı insanların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Görsel göstergeler kendinden beklenen anlam iletme görevini yerine getirmelidir.
+    ***
+1. **Aşağıdakilerden hangisi yaratıcı insanların özelliklerinden biri değildir?**
     - A-) Bağımsız fikirlidirler.
-    - B-) Eylem &ouml;zg&uuml;rl&uuml;ğ&uuml;ne sahiptirler.
-    - **Cevap C-) Y&ouml;netilmeyi severler.**
-    - D-) Farklı d&uuml;ş&uuml;n&uuml;rler.
-    - E-) D&uuml;ş&uuml;nmeyi severler.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi etkin bir reklam fotoğrafında bulunması gereken niteliklerdendir?</strong>
-    - A-) Mesaj sade ve a&ccedil;ık olmamalıdır.
-    - **Cevap B-) Verilmek istenen mesaj birka&ccedil; saniye i&ccedil;inde vermelidir.**
-    - C-) Ana &ouml;ge ikinci planda olmalıdır.
-    - D-) Metin ve g&ouml;rsel birbirinden bağımsız mesajlar vermelidir.
+    - B-) Eylem özgürlüğüne sahiptirler.
+    - **Cevap C-) Yönetilmeyi severler.**
+    - D-) Farklı düşünürler.
+    - E-) Düşünmeyi severler.
+    ***
+1. **Aşağıdakilerden hangisi etkin bir reklam fotoğrafında bulunması gereken niteliklerdendir?**
+    - A-) Mesaj sade ve açık olmamalıdır.
+    - **Cevap B-) Verilmek istenen mesaj birkaç saniye içinde vermelidir.**
+    - C-) Ana öge ikinci planda olmalıdır.
+    - D-) Metin ve görsel birbirinden bağımsız mesajlar vermelidir.
     - E-) Tasarım yapılmamalıdır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi reklam fotoğraf&ccedil;ısının yapmaması gerekenler arasında yer alır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi reklam fotoğrafçısının yapmaması gerekenler arasında yer alır?**
     - A-) Yaratıcı olmak
-    - B-) Konuşmayıp sadece fotoğrafını &ccedil;ekmek
-    - **Cevap C-) Ekipten ayrı tek başına &ccedil;alışmak**
+    - B-) Konuşmayıp sadece fotoğrafını çekmek
+    - **Cevap C-) Ekipten ayrı tek başına çalışmak**
     - D-) Ticaretle ilgilenmek
     - E-) Meraklı olmak
-    <hr />
-1. <strong>Reklam ile ilgili olarak a</strong><strong>şağıdakilerden </strong><strong>hangisi <u>yanlıştır</u>?</strong>
-    - A-) Belirli bir bedel karşılığında ger&ccedil;ekleşir.
-    - **Cevap B-) Plansız şekilde, doğa&ccedil;lama ger&ccedil;ekleşir.**
-    - C-) &Uuml;r&uuml;n veya hizmet ya da d&uuml;ş&uuml;nceyi satmak amacıyla tasarlanır.
-    - D-) Mesajların belirlenen iletişim kanalları aracılığıyla t&uuml;keticiye iletilmesidir.
+    ***
+1. **Reklam ile ilgili olarak a****şağıdakilerden** **hangisi yanlıştır?**
+    - A-) Belirli bir bedel karşılığında gerçekleşir.
+    - **Cevap B-) Plansız şekilde, doğaçlama gerçekleşir.**
+    - C-) Ürün veya hizmet ya da düşünceyi satmak amacıyla tasarlanır.
+    - D-) Mesajların belirlenen iletişim kanalları aracılığıyla tüketiciye iletilmesidir.
     - E-) Yer ve zaman satın alınır.
-    <hr />
-1. <strong>Başarılı reklam fotoğrafları oluşturmak ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - **Cevap A-) Fotoğrafın reklam alanının tamamının en az &uuml;&ccedil;te birini kaplaması gerekir.**
-    - B-) G&ouml;r&uuml;nt&uuml;deki diğer nesneler reklamla bağlantılı olmamalıdır.
-    - C-) Mesaj dikkat &ccedil;ekmeden verilmelidir.
+    ***
+1. **Başarılı reklam fotoğrafları oluşturmak ile ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - **Cevap A-) Fotoğrafın reklam alanının tamamının en az üçte birini kaplaması gerekir.**
+    - B-) Görüntüdeki diğer nesneler reklamla bağlantılı olmamalıdır.
+    - C-) Mesaj dikkat çekmeden verilmelidir.
     - D-) Vaad verilmemeli sadece bilgi verilmelidir.
-    - E-) &Uuml;r&uuml;ne yer verilmeden mesaj aktarılmalıdır.
-    <hr />
+    - E-) Ürüne yer verilmeden mesaj aktarılmalıdır.
+    ***
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisi Osman Hamdi&rsquo;nin fotoğraftan yararlanarak yaptığı eseridir?</strong>
-    - A-) Şehzade T&uuml;rbesinde Derviş
+1. **Aşağıdakilerden hangisi Osman Hamdi’nin fotoğraftan yararlanarak yaptığı eseridir?**
+    - A-) Şehzade Türbesinde Derviş
     - B-) Naile Hanım Portresi
     - C-) Kaplumbağa Terbiyecisi
     - D-) Leylak Toplayan Kız
-    - **Cevap E-) Cami &Ouml;n&uuml;nde Konuşan Hocalar**
-    <hr />
-1. <strong>Taşınabilir fotoğraf makinesinin gelişmesi aşağıdaki hangi sanat hareketinde ortaya &ccedil;ıkmıştır?</strong>
+    - **Cevap E-) Cami Önünde Konuşan Hocalar**
+    ***
+1. **Taşınabilir fotoğraf makinesinin gelişmesi aşağıdaki hangi sanat hareketinde ortaya çıkmıştır?**
     - A-) Barok
     - **Cevap B-) İzlenimcilik**
-    - C-) R&ouml;nesans
+    - C-) Rönesans
     - D-) Romantizm
     - E-) Maniyerizm
-    <hr />
-1. <strong>Picasso hangi eserini, geniş a&ccedil;ı objektiflerin yarattığı perspektif bozuklu-ğu ile yapmıştır?</strong>
-    - **Cevap A-) Balık&ccedil;ı**
-    - B-) Avignon&rsquo;lu Kadınlar
+    ***
+1. **Picasso hangi eserini, geniş açı objektiflerin yarattığı perspektif bozuklu-ğu ile yapmıştır?**
+    - **Cevap A-) Balıkçı**
+    - B-) Avignon’lu Kadınlar
     - C-) Mandolinli Kız
     - D-) Guernica
     - E-) Armutlar ve Kadın
-    <hr />
-1. <strong>1918 yılında Christian Schad&rsquo;ın icat ettiği fotoğraf tekniğinin adı nedir?</strong>
+    ***
+1. **1918 yılında Christian Schad’ın icat ettiği fotoğraf tekniğinin adı nedir?**
     - A-) Planografi
     - B-) Fototeknik
     - C-) Siyah-Beyaz
-    - D-) Deklanş&ouml;r
+    - D-) Deklanşör
     - **Cevap E-) Schadograph**
-    <hr />
-1. <strong>19. Y&uuml;zyıl&rsquo;da fotoğraftan yararlanarak heykel yapma Fransa&#39;da kim tarafından icat edilmiştir?</strong>
-    - A-) Heinrich W&ouml;lfflin
+    ***
+1. **19. Yüzyıl’da fotoğraftan yararlanarak heykel yapma Fransa'da kim tarafından icat edilmiştir?**
+    - A-) Heinrich Wölfflin
     - B-) M.Claudet
     - C-) Picasso
     - **Cevap D-) M.Willeme**
     - E-) Salvador Dali
-    <hr />
-1. <strong>Fotoğraf ve heykel arasındaki ilişkiyi ilk olarak aşağıdakilerden hangisi bilimsel makale olarak yayımlamıştır?</strong>
+    ***
+1. **Fotoğraf ve heykel arasındaki ilişkiyi ilk olarak aşağıdakilerden hangisi bilimsel makale olarak yayımlamıştır?**
     - A-) Picasso
-    - **Cevap B-) Heinrich W&ouml;lfflin**
+    - **Cevap B-) Heinrich Wölfflin**
     - C-) M. Willeme
     - D-) M. Claudet
     - E-) Salvador Dali
-    <hr />
-1. <strong>K&uuml;rat&ouml;rl&uuml;ğ&uuml;n&uuml; Peter C. Bunnell&#39;in yaptığı New York Modern Sanat M&uuml;zesi&#39;nde 1970 yılında d&uuml;zenlenen, fotoğraf ve heykel y&ouml;ntemlerini birleştiren serginin ismi nedir?</strong>
+    ***
+1. **Küratörlüğünü Peter C. Bunnell'in yaptığı New York Modern Sanat Müzesi'nde 1970 yılında düzenlenen, fotoğraf ve heykel yöntemlerini birleştiren serginin ismi nedir?**
     - A-) Photography into Paint
     - B-) Photography in Photography
     - **Cevap C-) Photography into Sculpture**
     - D-) Photography in Printmaking
     - E-) Photography into Art
-    <hr />
-1. <strong>Aşağıdakilerden hangisi planografi tekniği arasında yer alır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi planografi tekniği arasında yer alır?**
     - A-) Ofset
     - **Cevap B-) Serigrafi**
     - C-) Flekso
     - D-) Dijital Baskı
     - E-) Tipografi
-    <hr />
-1. <strong>Fotoğraf, Ekslibris baskı &ccedil;eşitleri arasında hangi simge ile ifade edilir?</strong>
+    ***
+1. **Fotoğraf, Ekslibris baskı çeşitleri arasında hangi simge ile ifade edilir?**
     - **Cevap A-) P8**
     - B-) P6
     - C-) P7
     - D-) P5
     - E-) P4
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Ekslibris &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Kitap kapağının i&ccedil; sayfasına yapıştırılır.
-    - B-) Kitap ile sahibi arasındaki ilişkiyi a&ccedil;ıklar.
-    - C-) Kitap sahibinin &ouml;zelliklerini belli g&ouml;stergelerle yansıtır.
+    ***
+1. **Aşağıdakilerden hangisi Ekslibris özellikleri arasında yer almaz?**
+    - A-) Kitap kapağının iç sayfasına yapıştırılır.
+    - B-) Kitap ile sahibi arasındaki ilişkiyi açıklar.
+    - C-) Kitap sahibinin özelliklerini belli göstergelerle yansıtır.
     - D-) Kişisel bir kullanım objesidir.
     - **Cevap E-) Kitap kapağının son sayfasına yapıştırılır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi eserlerinde fotoğraftan yararlanmıştır?</strong>
-    - A-) İbrahim &Ccedil;allı
+    ***
+1. **Aşağıdakilerden hangisi eserlerinde fotoğraftan yararlanmıştır?**
+    - A-) İbrahim Çallı
     - B-) Nuri İyem
     - C-) Abidin Dino
     - D-) Aliye Berger
     - **Cevap E-) Osman Hamdi**
-    <hr />
-1. <strong>17. y&uuml;zyılda hangi Hollandalı bir ressam, soyu t&uuml;kenmiş didus ineptus kuşunu resmetmiştir?</strong>
+    ***
+1. **17. yüzyılda hangi Hollandalı bir ressam, soyu tükenmiş didus ineptus kuşunu resmetmiştir?**
     - A-) Picasso
     - **Cevap B-) Roelant Savery**
     - C-) Salvador Dali
     - D-) Frida Kahlo
     - E-) Osman Hamdi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi son yıllarda yapılan deneysel ekslibris tasarımları arasında <u>yer almaz</u>?</strong>
-    - **Cevap A-) Ağa&ccedil; Baskı Ekslibris**
-    - B-) Artırılmış Ger&ccedil;eklik Ekslibris
+    ***
+1. **Aşağıdakilerden hangisi son yıllarda yapılan deneysel ekslibris tasarımları arasında yer almaz?**
+    - **Cevap A-) Ağaç Baskı Ekslibris**
+    - B-) Artırılmış Gerçeklik Ekslibris
     - C-) Quilling Ekslibris
     - D-) Işıklı Pop-Up Ekslibris
-    - E-) Video Broş&uuml;r Ekslibris
-    <hr />
-1. <strong>Aşağıdaki sanat&ccedil;ılardan hangisi tasarımlarında Ekslibris kullanmıştır?</strong>
+    - E-) Video Broşür Ekslibris
+    ***
+1. **Aşağıdaki sanatçılardan hangisi tasarımlarında Ekslibris kullanmıştır?**
     - A-) Fatih Aksular
     - B-) Hedieh Jafari
     - C-) Oleg Dergachov
     - D-) Ercan Tuna
-    - **Cevap E-) Osman Din&ccedil;**
-    <hr />
+    - **Cevap E-) Osman Dinç**
+    ***
 ## Unite 7
-1. <strong>Aşağıdakilerden hangisi bir tasarım disiplini olan grafik tasarımla ilgili <u>değildir</u>?</strong>
-    - A-) Hedef kitleye &uuml;r&uuml;n ya da hizmet ile ilgili g&ouml;rsel mesajlar verir.
-    - B-) Hedef kitleyi &uuml;r&uuml;n ya da hizmet hakkında bilgilendirir.
-    - **Cevap C-) 3D end&uuml;striyel &uuml;r&uuml;nler geliştirir.**
-    - D-) G&ouml;rsel iletişimle ilgili bir tasarım disiplinidir.
-    - E-) Basılı ve g&ouml;rsel medyaya y&ouml;nelik tasarımlar &uuml;retir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi basılı medyaya y&ouml;nelik grafik tasarım &uuml;r&uuml;nleri arasında <u>yer almaz</u>?</strong>
+1. **Aşağıdakilerden hangisi bir tasarım disiplini olan grafik tasarımla ilgili değildir?**
+    - A-) Hedef kitleye ürün ya da hizmet ile ilgili görsel mesajlar verir.
+    - B-) Hedef kitleyi ürün ya da hizmet hakkında bilgilendirir.
+    - **Cevap C-) 3D endüstriyel ürünler geliştirir.**
+    - D-) Görsel iletişimle ilgili bir tasarım disiplinidir.
+    - E-) Basılı ve görsel medyaya yönelik tasarımlar üretir.
+    ***
+1. **Aşağıdakilerden hangisi basılı medyaya yönelik grafik tasarım ürünleri arasında yer almaz?**
     - A-) Kurumsal kimlik tasarımı
     - B-) Dergi tasarımı
     - C-) Logo tasarımı
-    - **Cevap D-) Aray&uuml;z tasarımı**
+    - **Cevap D-) Arayüz tasarımı**
     - E-) Gazete tasarımı
-    <hr />
-1. <strong>Işıkla yazmak anlamına gelen fotoğraf kavramı, Yunancadaki hangi iki s&ouml;zc&uuml;ğ&uuml;n birleşiminden oluşmaktadır?</strong>
-    - A-) &ldquo;Foto&rdquo; ve &ldquo;Graphy&rdquo;
-    - B-) &ldquo;Photon&rdquo; ve &ldquo;Graphes&rdquo;
-    - C-) &ldquo;Foton&rdquo; ve &ldquo;Graphy&rdquo;
-    - D-) &ldquo;Photos&rdquo; ve &ldquo;Graphy&rdquo;
-    - **Cevap E-) &ldquo;Photos&rdquo; ve &ldquo;Graphes&rdquo;**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi end&uuml;stri fotoğraf&ccedil;ılığına ge&ccedil;işin sebepleri arasında <u>yer almaz</u>?</strong>
-    - **Cevap A-) &Uuml;retimin azalması**
+    ***
+1. **Işıkla yazmak anlamına gelen fotoğraf kavramı, Yunancadaki hangi iki sözcüğün birleşiminden oluşmaktadır?**
+    - A-) “Foto” ve “Graphy”
+    - B-) “Photon” ve “Graphes”
+    - C-) “Foton” ve “Graphy”
+    - D-) “Photos” ve “Graphy”
+    - **Cevap E-) “Photos” ve “Graphes”**
+    ***
+1. **Aşağıdakilerden hangisi endüstri fotoğrafçılığına geçişin sebepleri arasında yer almaz?**
+    - **Cevap A-) Üretimin azalması**
     - B-) Firmalar arası rekabetin artması
-    - C-) &Uuml;r&uuml;n ve hizmette reklam ve tanıtıma olan ihtiyacın artması
+    - C-) Ürün ve hizmette reklam ve tanıtıma olan ihtiyacın artması
     - D-) Fotoğrafın grafik tasarımda kullanımının artması
-    - E-) T&uuml;ketim ekonomisinin hızla gelişmesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarım i&ccedil;erisinde yer alma sebeplerinden biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Tüketim ekonomisinin hızla gelişmesi
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın grafik tasarım içerisinde yer alma sebeplerinden biri değildir?**
     - A-) Mesajın hedef kitleye hızlı aktarılmasını sağlaması
-    - B-) Fotoğrafın ger&ccedil;ek olanı yansıtabilmesi
-    - C-) Fotoğrafın ikna g&uuml;c&uuml;ne sahip olması
+    - B-) Fotoğrafın gerçek olanı yansıtabilmesi
+    - C-) Fotoğrafın ikna gücüne sahip olması
     - **Cevap D-) Maliyetinin ucuz olması**
-    - E-) S&ouml;zle anlatımı m&uuml;mk&uuml;n olmayan d&uuml;ş&uuml;nceleri hedef kitleye kolaylıkla aktarabilmesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 20. y&uuml;zyılın başında grafik tasarımı en &ccedil;ok etkileyen sanat hareketlerinden biri <u>değildir</u>?</strong>
+    - E-) Sözle anlatımı mümkün olmayan düşünceleri hedef kitleye kolaylıkla aktarabilmesi
+    ***
+1. **Aşağıdakilerden hangisi 20. yüzyılın başında grafik tasarımı en çok etkileyen sanat hareketlerinden biri değildir?**
     - A-) De Stijl
     - B-) Suprematizm
     - **Cevap C-) Fauvism**
-    - D-) S&uuml;rrealizm
+    - D-) Sürrealizm
     - E-) Dada
-    <hr />
-1. <strong>İlk fotoğraflı afişler, 1900&rsquo;lerin başlarından itibaren bazı bi&ccedil;imsel sanat hareketleri ile birlikte tasarlanmaya başlanmış olup, Aşağıda verilenlerden hangisi bu d&ouml;nemde tasarımlarında fotoğrafı kullanan sanat&ccedil;ılar arasında <u>yer almaz</u>?</strong>
+    ***
+1. **İlk fotoğraflı afişler, 1900’lerin başlarından itibaren bazı biçimsel sanat hareketleri ile birlikte tasarlanmaya başlanmış olup, Aşağıda verilenlerden hangisi bu dönemde tasarımlarında fotoğrafı kullanan sanatçılar arasında yer almaz?**
     - A-) Aleksander Rodchenko
     - B-) El Lissitzky
     - C-) Moholy-Nagy
     - **Cevap D-) Giotto**
     - E-) Herbert Matter
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 1950&rsquo;lerde savaş sonrası refahla birlikte reklam fotoğraf&ccedil;ılığında geliştirilen yeni konseptin &ouml;zelliklerindendir?</strong>
-    - A-) Fotoğraflar sadece &uuml;r&uuml;n g&ouml;rsellerinden oluşmuştur.
-    - **Cevap B-) Fotoğraflara &uuml;r&uuml;nle birlikte t&uuml;keticiyi temsil eden bir model de eşlik etmiştir.**
-    - C-) Fotoğraflar sadece model &ccedil;ekimlerinden oluşmuştur.
-    - D-) St&uuml;dyo fotoğraf&ccedil;ılığına ge&ccedil;ilmiştir.
-    - E-) Savaş fotoğrafları &ouml;nem kazanmıştır.
-    <hr />
-1. <strong>1960&rsquo;lı yıllarda Batı Almanya&rsquo;da kavramları g&ouml;rselleştirmek amacıyla ortaya &ccedil;ıkan, izleyicide şok etkisi uyandıran &ccedil;arpıcı g&ouml;r&uuml;nt&uuml;lerle dikkat &ccedil;ekmeyi ama&ccedil;layan anlatım dili aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi 1950’lerde savaş sonrası refahla birlikte reklam fotoğrafçılığında geliştirilen yeni konseptin özelliklerindendir?**
+    - A-) Fotoğraflar sadece ürün görsellerinden oluşmuştur.
+    - **Cevap B-) Fotoğraflara ürünle birlikte tüketiciyi temsil eden bir model de eşlik etmiştir.**
+    - C-) Fotoğraflar sadece model çekimlerinden oluşmuştur.
+    - D-) Stüdyo fotoğrafçılığına geçilmiştir.
+    - E-) Savaş fotoğrafları önem kazanmıştır.
+    ***
+1. **1960’lı yıllarda Batı Almanya’da kavramları görselleştirmek amacıyla ortaya çıkan, izleyicide şok etkisi uyandıran çarpıcı görüntülerle dikkat çekmeyi amaçlayan anlatım dili aşağıdakilerden hangisidir?**
     - **Cevap A-) Foto-Grafik**
-    - B-) Foto- K&uuml;bizm
+    - B-) Foto- Kübizm
     - C-) De Stijl
     - D-) Grafik Tasarım
     - E-) Foto-Tasarım
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarımda kullanımının 1980&rsquo;lerde profesyonelleşmesini tetikleyen gelişmelerin en &ouml;nemlilerinden biri <u>değildir</u>?</strong>
-    - A-) Mac Bilgisayarların &uuml;retilmesi
-    - B-) Windows işletim sisteminin piyasaya s&uuml;r&uuml;lmesi
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın grafik tasarımda kullanımının 1980’lerde profesyonelleşmesini tetikleyen gelişmelerin en önemlilerinden biri değildir?**
+    - A-) Mac Bilgisayarların üretilmesi
+    - B-) Windows işletim sisteminin piyasaya sürülmesi
     - C-) Tasarım programlarının geliştirilmesi
-    - D-) G&ouml;r&uuml;nt&uuml; işleme programlarının ortaya &ccedil;ıkması
-    - **Cevap E-) Fotoğraf&ccedil;ı sayılarının artması**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımda hedef kitleye mesaj aktarımında kullanılan g&ouml;r&uuml;nt&uuml;l&uuml; bilgilerden biri&nbsp;<u>değildir</u>?</strong>
+    - D-) Görüntü işleme programlarının ortaya çıkması
+    - **Cevap E-) Fotoğrafçı sayılarının artması**
+    ***
+1. **Aşağıdakilerden hangisi grafik tasarımda hedef kitleye mesaj aktarımında kullanılan görüntülü bilgilerden biri değildir?**
     - A-) Sembol
-    - B-) İll&uuml;strasyon
+    - B-) İllüstrasyon
     - C-) Tipografi
     - **Cevap D-) Fonograf**
     - E-) Fotoğraf
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;graphishe kunst&rdquo; kavramını a&ccedil;ıklar?</strong>
-    - A-) Grafik tasarımda &ccedil;arpıcı imgelerin &uuml;retimi &ldquo;grafik ger&ccedil;ek&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
-    - B-) Grafik tasarımda fotoğrafın kullanılmaya başlandığı ilk d&ouml;nem &ldquo;fotografik d&ouml;nem&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
-    - C-) &Ouml;zg&uuml;n baskı sanatlarında fotoğrafın kullanılmaya başlandığı d&ouml;nem &ldquo;grafik baskı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
-    - **Cevap D-) &Ouml;zg&uuml;n baskı sanatlarında g&ouml;rsellerin bir y&uuml;zey &uuml;zerine kazınarak &ccedil;izilmeleri nedeniyle bu sanat dalı &ldquo;grafik sanatı&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.**
-    - E-) Grafik tasarımda fotoğrafın kullanımıyla elde edilen grafik &ccedil;alışmalar &ldquo;grafik-foto&rdquo; anlamına gelen Almanca &ldquo;graphishe kunts&rdquo; kavramıyla ifade edilmiştir.
-    <hr />
-1. <strong>Fotoğrafta ilk kez negatif-pozitif tekniğin uygulanabildiği g&ouml;r&uuml;nt&uuml;leme tekniğinin adı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “graphishe kunst” kavramını açıklar?**
+    - A-) Grafik tasarımda çarpıcı imgelerin üretimi “grafik gerçek” anlamına gelen Almanca “graphishe kunts” kavramıyla ifade edilmiştir.
+    - B-) Grafik tasarımda fotoğrafın kullanılmaya başlandığı ilk dönem “fotografik dönem” anlamına gelen Almanca “graphishe kunts” kavramıyla ifade edilmiştir.
+    - C-) Özgün baskı sanatlarında fotoğrafın kullanılmaya başlandığı dönem “grafik baskı” anlamına gelen Almanca “graphishe kunts” kavramıyla ifade edilmiştir.
+    - **Cevap D-) Özgün baskı sanatlarında görsellerin bir yüzey üzerine kazınarak çizilmeleri nedeniyle bu sanat dalı “grafik sanatı” anlamına gelen Almanca “graphishe kunts” kavramıyla ifade edilmiştir.**
+    - E-) Grafik tasarımda fotoğrafın kullanımıyla elde edilen grafik çalışmalar “grafik-foto” anlamına gelen Almanca “graphishe kunts” kavramıyla ifade edilmiştir.
+    ***
+1. **Fotoğrafta ilk kez negatif-pozitif tekniğin uygulanabildiği görüntüleme tekniğinin adı aşağıdakilerden hangisidir?**
     - **Cevap A-) Kalotip**
     - B-) Deguerreotype
     - C-) Helyografi
-    - D-) Judea Bit&uuml;m&uuml;
-    - E-) Sel&uuml;loit
-    <hr />
-1. <strong>Bir &uuml;r&uuml;n ya da hizmet ile ilgili hedef kitleye iletilmek istenen mesajı metin ve g&ouml;rsellerle algılanabilir ve g&ouml;r&uuml;lebilir bir d&uuml;zlemde organize ederek sunan tasarım disiplini aşağıdakilerden hangisidir?</strong>
-    - A-) &Ccedil;evre tasarımı
+    - D-) Judea Bitümü
+    - E-) Selüloit
+    ***
+1. **Bir ürün ya da hizmet ile ilgili hedef kitleye iletilmek istenen mesajı metin ve görsellerle algılanabilir ve görülebilir bir düzlemde organize ederek sunan tasarım disiplini aşağıdakilerden hangisidir?**
+    - A-) Çevre tasarımı
     - B-) Web tasarımı
     - **Cevap C-) Grafik tasarımı**
     - D-) Moda tasarımı
-    - E-) End&uuml;stri tasarımı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafın grafik tasarımla olan ilişkisinin ama&ccedil;ları arasında&nbsp;<u>yer almaz</u>?</strong>
-    - A-) Fotoğrafın, hedef kitlenin dikkatini tasarımın konusuna &ccedil;ekmede etkili olması
+    - E-) Endüstri tasarımı
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafın grafik tasarımla olan ilişkisinin amaçları arasında yer almaz?**
+    - A-) Fotoğrafın, hedef kitlenin dikkatini tasarımın konusuna çekmede etkili olması
     - B-) Fotoğrafın; kullanıldığı iletişim aracına estetik boyut katması
-    - C-) Tasarımlarda kullanılan fotoğrafların hedef kitlede ilgi ve merak uyandırıcı g&ouml;rsel g&uuml;ce sahip olması
-    - D-) Fotoğrafın tasarımlarda herkesin anlayabileceği g&ouml;rsel bir dil oluşturarak mesajın iletimini evrenselleştirmesi
-    - **Cevap E-) Fotoğraf olmadan grafik tasarım &uuml;r&uuml;nlerinin tasarlanmasının imk&acirc;n olmaması**
-    <hr />
-1. Somut g&ouml;r&uuml;nt&uuml;n&uuml;n fotoğraf kağıdında b&uuml;y&uuml;k bir netlikle belirlenebilmesi, sanat&ccedil;ıların g&ouml;rd&uuml;kleri somut g&ouml;r&uuml;nt&uuml;y&uuml; tuvale aktarmak yerine yeni bir g&ouml;rsel dil arayışı i&ccedil;erisine girmelerine neden olmuştur.<br />
-<strong>Bi&ccedil;imsel sanat hareketleri diye adlandırılan yeni yaklaşımların isimleri aşağıdakilerin hangisinde doğru olarak verilmiştir?</strong>
-    - **Cevap A-) K&uuml;bizm, Konstr&uuml;ktivizm ve De Stijl**
-    - B-) Fauvism, Konstr&uuml;ktivizm ve De Stijl
-    - C-) Fauvism, K&uuml;bizm ve Konstr&uuml;ktivizm
-    - D-) Alman dışavurumculuğu, Fauvism ve K&uuml;bizm
-    - E-) Alman dışavurumculuğu, K&uuml;bizm ve De Stijl
-    <hr />
-1. <strong>Yepyeni baskı teknikleriyle birlikte 1960&rsquo;larda ortaya &ccedil;ıkan foto-grafik anlatım dilini &ccedil;alışmalarında kullanan sanat&ccedil;ılar arasında aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    - C-) Tasarımlarda kullanılan fotoğrafların hedef kitlede ilgi ve merak uyandırıcı görsel güce sahip olması
+    - D-) Fotoğrafın tasarımlarda herkesin anlayabileceği görsel bir dil oluşturarak mesajın iletimini evrenselleştirmesi
+    - **Cevap E-) Fotoğraf olmadan grafik tasarım ürünlerinin tasarlanmasının imkân olmaması**
+    ***
+1. Somut görüntünün fotoğraf kağıdında büyük bir netlikle belirlenebilmesi, sanatçıların gördükleri somut görüntüyü tuvale aktarmak yerine yeni bir görsel dil arayışı içerisine girmelerine neden olmuştur.<br />**Biçimsel sanat hareketleri diye adlandırılan yeni yaklaşımların isimleri aşağıdakilerin hangisinde doğru olarak verilmiştir?**
+    - **Cevap A-) Kübizm, Konstrüktivizm ve De Stijl**
+    - B-) Fauvism, Konstrüktivizm ve De Stijl
+    - C-) Fauvism, Kübizm ve Konstrüktivizm
+    - D-) Alman dışavurumculuğu, Fauvism ve Kübizm
+    - E-) Alman dışavurumculuğu, Kübizm ve De Stijl
+    ***
+1. **Yepyeni baskı teknikleriyle birlikte 1960’larda ortaya çıkan foto-grafik anlatım dilini çalışmalarında kullanan sanatçılar arasında aşağıdakilerden hangisi yer almaz?**
     - A-) Holger Matthies
     - B-) Micheal van de Sand
-    - C-) G&uuml;nther Kieser
-    - D-) G&uuml;nter Ranbow
+    - C-) Günther Kieser
+    - D-) Günter Ranbow
     - **Cevap E-) Essen Faust**
-    <hr />
-1. I. Dikkat &ccedil;ekmek<br />
-II. İlgi uyandırmak<br />
-III. Hizmet vermek<br />
-<strong>Hedef kitleyle iletişim kurarken grafik tasarımın hizmet ettiği ama&ccedil;lar arasında yukarıdakilerden hangisi ya da hangileri&nbsp;yer alır?</strong>
+    ***
+1. I. Dikkat çekmek<br />II. İlgi uyandırmak<br />III. Hizmet vermek<br />**Hedef kitleyle iletişim kurarken grafik tasarımın hizmet ettiği amaçlar arasında yukarıdakilerden hangisi ya da hangileri yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) Yalnız III
     - **Cevap D-) I ve II**
     - E-) I, II ve III
-    <hr />
+    ***
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi afiş tasarımının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) Afiş tasarımının amacı asıldığı yerleri s&uuml;slemektir.**
-    - B-) Afiş tasarımının amacı g&ouml;ze hitap etmesidir.
+1. **Aşağıdakilerden hangisi afiş tasarımının amaçlarından biri değildir?**
+    - **Cevap A-) Afiş tasarımının amacı asıldığı yerleri süslemektir.**
+    - B-) Afiş tasarımının amacı göze hitap etmesidir.
     - C-) Afiş tasarımının amacı mesajı hedef kitleye iletmektir.
     - D-) Afiş tasarımının amacı mesajı hızlı bir şekilde iletmektir.
     - E-) Afiş tasarımının amacı akılda kalıcı olmasıdır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ana afiş t&uuml;rlerinden biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ana afiş türlerinden biridir?**
     - A-) Duyuru afişi
     - B-) Sanatsal afişler
-    - **Cevap C-) K&uuml;lt&uuml;rel afişler**
+    - **Cevap C-) Kültürel afişler**
     - D-) Yarışma afişleri
     - E-) Konser afişleri
-    <hr />
-1. <strong>&Ouml;zel sekt&ouml;rde bulunan veya ticari ama&ccedil; g&uuml;den kuruluşların &uuml;r&uuml;n servis veya hizmetlerinin ve tanıtımlarının yapılmasını sağlayan hangi afiş t&uuml;r&uuml;d&uuml;r?</strong>
-    - A-) K&uuml;lt&uuml;rel afişler
+    ***
+1. **Özel sektörde bulunan veya ticari amaç güden kuruluşların ürün servis veya hizmetlerinin ve tanıtımlarının yapılmasını sağlayan hangi afiş türüdür?**
+    - A-) Kültürel afişler
     - B-) Film afişleri
     - C-) Sosyal Afişler
     - **Cevap D-) Ticari Afişler**
     - E-) Sanatsal Afişler
-    <hr />
-1. <strong>Propaganda afişleri hangi ana afiş t&uuml;r&uuml;ndedir?</strong>
-    - A-) K&uuml;lt&uuml;rel afişler
+    ***
+1. **Propaganda afişleri hangi ana afiş türündedir?**
+    - A-) Kültürel afişler
     - B-) Ticari Afişler
     - C-) Sanatsal Afişler
     - D-) Reklam afişleri
     - **Cevap E-) Sosyal Afişler**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi afişin temel bileşenlerindendir?</strong>
-    - A-) K&acirc;ğıt
+    ***
+1. **Aşağıdakilerden hangisi afişin temel bileşenlerindendir?**
+    - A-) Kâğıt
     - B-) Boyut
     - **Cevap C-) Tipografi**
     - D-) Resim
     - E-) Yazı
-    <hr />
-1. <strong>Tipografinin ilk amacı ve en &ouml;nemli &ouml;zelliği nedir?</strong>
-    - A-) Dikkat &ccedil;ekmesi
+    ***
+1. **Tipografinin ilk amacı ve en önemli özelliği nedir?**
+    - A-) Dikkat çekmesi
     - B-) Akılda kalıcı olması
     - **Cevap C-) Okunabilmesi**
-    - D-) B&uuml;y&uuml;k olması
+    - D-) Büyük olması
     - E-) Tırnaklı olması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi imge t&uuml;rlerinden biridir?</strong>
-    - A-) &Ouml;l&ccedil;&uuml;
+    ***
+1. **Aşağıdakilerden hangisi imge türlerinden biridir?**
+    - A-) Ölçü
     - B-) Renk
     - C-) Yazı tipi
-    - **Cevap D-) İll&uuml;strasyon**
+    - **Cevap D-) İllüstrasyon**
     - E-) Boşluk
-    <hr />
-1. <strong>Foto manip&uuml;lasyon nedir?</strong>
-    - A-) &Ccedil;izimlerin renklendirilerek kullanılması
-    - **Cevap B-) Birden &ccedil;ok fotoğrafın &ccedil;eşitli yazılımlar aracılığı ile bir araya getirilerek başka bir imgenin oluşturulması**
-    - C-) &Ccedil;eşitli &ouml;gelerin 3 boyutlu yazılımlarla tasarlanarak kullanılması
-    - D-) Fotoğrafların bazı yazılımlar aracılığı ile renkleri &uuml;zerinde oynanması
+    ***
+1. **Foto manipülasyon nedir?**
+    - A-) Çizimlerin renklendirilerek kullanılması
+    - **Cevap B-) Birden çok fotoğrafın çeşitli yazılımlar aracılığı ile bir araya getirilerek başka bir imgenin oluşturulması**
+    - C-) Çeşitli ögelerin 3 boyutlu yazılımlarla tasarlanarak kullanılması
+    - D-) Fotoğrafların bazı yazılımlar aracılığı ile renkleri üzerinde oynanması
     - E-) Yazının renginin belirlenmesi
-    <hr />
-1. <strong>Bulunduğu d&ouml;nemi anlatması bakımından diğer &ouml;gelere g&ouml;re daha belirleyici bir etkiye sahip olan afişin temel bileşeni aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Bulunduğu dönemi anlatması bakımından diğer ögelere göre daha belirleyici bir etkiye sahip olan afişin temel bileşeni aşağıdakilerden hangisidir?**
     - **Cevap A-) Renk**
     - B-) İmge
     - C-) Tipografi
-    - D-) İll&uuml;strasyon
+    - D-) İllüstrasyon
     - E-) Yazıtipi
-    <hr />
-1. <strong>Tırnaklı yazıtipleri &ccedil;oğunlukla nerelerde kullanılır?</strong>
-    - A-) A&ccedil;ık hava reklamlarında
+    ***
+1. **Tırnaklı yazıtipleri çoğunlukla nerelerde kullanılır?**
+    - A-) Açık hava reklamlarında
     - **Cevap B-) Kitap ve gazetelerde**
     - C-) Cep telefonu ve tabletlerde
-    - D-) &Ccedil;ocuk kitaplarında
-    - E-) Broş&uuml;rlerde ve el ilanlarında
-    <hr />
-1. <strong>Konferans, seminer, sinema, tiyatro, konser ve sergi gibi k&uuml;lt&uuml;rel aktiviteler hakkında duyurulması gerekenlerin; fotoğraf, ill&uuml;strasyon ve tipografi kullanılarak tasarlandığı afişlere ne ad verilir?</strong>
+    - D-) Çocuk kitaplarında
+    - E-) Broşürlerde ve el ilanlarında
+    ***
+1. **Konferans, seminer, sinema, tiyatro, konser ve sergi gibi kültürel aktiviteler hakkında duyurulması gerekenlerin; fotoğraf, illüstrasyon ve tipografi kullanılarak tasarlandığı afişlere ne ad verilir?**
     - A-) Sergi Afişi
     - B-) Sanatsal Afişler
     - C-) Ticari Afişler
     - D-) Sosyal Afişler
-    - **Cevap E-) K&uuml;lt&uuml;rel Afişler**
-    <hr />
-1. <strong>Yazı tiplerinin tasnifi aşağıdakilerden hangisidir?</strong>
+    - **Cevap E-) Kültürel Afişler**
+    ***
+1. **Yazı tiplerinin tasnifi aşağıdakilerden hangisidir?**
     - A-) Okunur-okunmaz
     - B-) Vurgulu-vurgusuz
-    - C-) B&uuml;y&uuml;k-k&uuml;&ccedil;&uuml;k
+    - C-) Büyük-küçük
     - **Cevap D-) Tırnaklı-tırnaksız**
     - E-) İnce-kalın
-    <hr />
-1. I. Dikkat &ccedil;ekmesi<br />
-II. G&ouml;ze hitap etmesi<br />
-III. Tasarımda ahengin sağlanması<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri afişte renk kullanımının sağladığı avantajlar arasında yer alır?</strong>
+    ***
+1. I. Dikkat çekmesi<br />II. Göze hitap etmesi<br />III. Tasarımda ahengin sağlanması<br />**Yukarıdakilerden hangisi ya da hangileri afişte renk kullanımının sağladığı avantajlar arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız III
     - C-) I ve II
     - D-) I ve III
     - **Cevap E-) I, II ve III**
-    <hr />
+    ***
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme işlemlerinden biri <u>sayılamaz</u>?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml;de oynamalar yapılması
-    - B-) G&ouml;z renginin değiştirilmesi
-    - C-) Araba g&ouml;rselinin ters &ccedil;evrilmesi
+1. **Aşağıdakilerden hangisi görüntü işleme işlemlerinden biri sayılamaz?**
+    - A-) Görüntüde oynamalar yapılması
+    - B-) Göz renginin değiştirilmesi
+    - C-) Araba görselinin ters çevrilmesi
     - D-) Renklerin soldurulması
     - **Cevap E-) PNG formatında dosyanın kaydedilmesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme i&ccedil;in kullanılabilecek tanımlardan biridir?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml; işleme yapay zek&acirc; temelli bir teknolojidir.
-    - B-) G&ouml;r&uuml;nt&uuml; işleme yapabilmek i&ccedil;in Adobe yazılımlarından birini kullanmak gereklidir.
-    - C-) Adobe Photoshop g&ouml;r&uuml;nt&uuml; işlemek i&ccedil;in PSD formatını kullanmaktadır.
-    - **Cevap D-) G&ouml;r&uuml;nt&uuml; işleme g&ouml;rselde istendik değişiklikler yapmaktır.**
-    - E-) Derin &ouml;ğrenme ve yapay zek&acirc; g&ouml;r&uuml;nt&uuml; işleme i&ccedil;in geliştirilmiştir.
-    <hr />
-1. <strong>Aşağıdaki hangi se&ccedil;enekte yazılımların taban kombinasyonu doğru verilmiştir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi görüntü işleme için kullanılabilecek tanımlardan biridir?**
+    - A-) Görüntü işleme yapay zekâ temelli bir teknolojidir.
+    - B-) Görüntü işleme yapabilmek için Adobe yazılımlarından birini kullanmak gereklidir.
+    - C-) Adobe Photoshop görüntü işlemek için PSD formatını kullanmaktadır.
+    - **Cevap D-) Görüntü işleme görselde istendik değişiklikler yapmaktır.**
+    - E-) Derin öğrenme ve yapay zekâ görüntü işleme için geliştirilmiştir.
+    ***
+1. **Aşağıdaki hangi seçenekte yazılımların taban kombinasyonu doğru verilmiştir?**
     - A-) Photoshop: Piksel / Illustrator: Piksel
-    - B-) Photoshop: Vekt&ouml;rel / Illustrator: Vekt&ouml;rel
-    - **Cevap C-) Photoshop: Piksel / Illustrator: Vekt&ouml;rel**
-    - D-) Photoshop: Vekt&ouml;rel / Illustrator: Piksel
-    - E-) Photoshop: Piksel / Illustrator: G&ouml;r&uuml;nt&uuml;
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Adobe Photoshop yazılımına &ccedil;alışma alanı i&ccedil;in belirlenen renk profillerinden biridir?</strong>
+    - B-) Photoshop: Vektörel / Illustrator: Vektörel
+    - **Cevap C-) Photoshop: Piksel / Illustrator: Vektörel**
+    - D-) Photoshop: Vektörel / Illustrator: Piksel
+    - E-) Photoshop: Piksel / Illustrator: Görüntü
+    ***
+1. **Aşağıdakilerden hangisi Adobe Photoshop yazılımına çalışma alanı için belirlenen renk profillerinden biridir?**
     - A-) GMK
     - **Cevap B-) CMYK**
     - C-) RGD
     - D-) S-TGB
     - E-) C-CMYK
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Adobe Photoshop yazılımı ile <u>ger&ccedil;ekleştirilemez</u>?</strong>
-    - A-) Dijital ve basılı mecralar i&ccedil;in tasarımlar
+    ***
+1. **Aşağıdakilerden hangisi Adobe Photoshop yazılımı ile gerçekleştirilemez?**
+    - A-) Dijital ve basılı mecralar için tasarımlar
     - B-) Kurumsal kimlik tasarımı
     - **Cevap C-) Video montaj**
-    - D-) İll&uuml;strasyon &ccedil;izimi
-    - E-) G&ouml;r&uuml;nt&uuml; işleme ve foto manip&uuml;lasyon
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir dosya formatı <u>değildir</u>?</strong>
+    - D-) İllüstrasyon çizimi
+    - E-) Görüntü işleme ve foto manipülasyon
+    ***
+1. **Aşağıdakilerden hangisi bir dosya formatı değildir?**
     - **Cevap A-) .IM2E**
     - B-) .JPEG
     - C-) .PNG
     - D-) .PSD
     - E-) .PSB
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ara&ccedil; &ccedil;ubuğunda yer alan bir ara&ccedil;tır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi araç çubuğunda yer alan bir araçtır?**
     - A-) Square Feet Selection Tool
     - **Cevap B-) Move Tool**
     - C-) Easy Pick Tool
     - D-) Scrubby Zoom Tool
     - E-) Spray Tool
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Dall-E yapay zek&acirc;sı kullanılarak ger&ccedil;ekleştirilebilir?</strong>
-    - A-) Ses dosyalarını analiz edip en uygun sesin &uuml;retilmesi.
+    ***
+1. **Aşağıdakilerden hangisi Dall-E yapay zekâsı kullanılarak gerçekleştirilebilir?**
+    - A-) Ses dosyalarını analiz edip en uygun sesin üretilmesi.
     - B-) Tasarımcıların sıklıkla kullandığı tercihlerin belirlenmesi.
-    - C-) Video g&ouml;r&uuml;nt&uuml;lerini birleştirip, yeni bir klip &uuml;retilmesi.
-    - **Cevap D-) Detaylı c&uuml;mleler ile istenilen tarzda g&ouml;rsel &uuml;retilmesi.**
-    - E-) Fotoğraf kesme ve d&uuml;zenleme işlemlerinin yapılması.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi katman panelinde <u>yer almaz</u>?</strong>
-    - **Cevap A-) Katman d&ouml;nd&uuml;rme**
+    - C-) Video görüntülerini birleştirip, yeni bir klip üretilmesi.
+    - **Cevap D-) Detaylı cümleler ile istenilen tarzda görsel üretilmesi.**
+    - E-) Fotoğraf kesme ve düzenleme işlemlerinin yapılması.
+    ***
+1. **Aşağıdakilerden hangisi katman panelinde yer almaz?**
+    - **Cevap A-) Katman döndürme**
     - B-) Katman kategorileri
     - C-) Katman stilleri
     - D-) Katman gruplama
     - E-) Katman kilitleme
-    <hr />
-1. <strong>Aşağıdaki işlevlerden hangisi filtreler men&uuml;s&uuml;nde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdaki işlevlerden hangisi filtreler menüsünde yer almaz?**
     - A-) Bulanıklaştırma
     - B-) Keskinleştirme
     - C-) Stilize etme
-    - **Cevap D-) Yapay zek&acirc; d&uuml;zenlemesi**
+    - **Cevap D-) Yapay zekâ düzenlemesi**
     - E-) Işık efektleri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;r&uuml;nt&uuml; işleme ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml; işleme, g&ouml;rsel veri &uuml;zerinde oynanılmasıdır.
-    - B-) G&ouml;r&uuml;nt&uuml; işleme, veri &uuml;zerinde anlamlı ve istendik değişiklik yapmaktır.
-    - C-) G&ouml;r&uuml;nt&uuml;n&uuml;n renk dengesinin d&uuml;zenlenmesi g&ouml;r&uuml;nt&uuml; işleme işlemidir.
-    - D-) G&ouml;r&uuml;nt&uuml;n&uuml;n &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml;n&uuml;n artırılması g&ouml;r&uuml;nt&uuml; işleme işlemidir.
-    - **Cevap E-) G&ouml;r&uuml;nt&uuml;n&uuml;n bir kısmının yazılımda a&ccedil;ılması g&ouml;r&uuml;nt&uuml; işleme işlemidir.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Adobe Photoshop ve Adobe Illustrator yazılımlarının kullanımı i&ccedil;in gerekli olan uygulamadır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi görüntü işleme ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Görüntü işleme, görsel veri üzerinde oynanılmasıdır.
+    - B-) Görüntü işleme, veri üzerinde anlamlı ve istendik değişiklik yapmaktır.
+    - C-) Görüntünün renk dengesinin düzenlenmesi görüntü işleme işlemidir.
+    - D-) Görüntünün çözünürlüğünün artırılması görüntü işleme işlemidir.
+    - **Cevap E-) Görüntünün bir kısmının yazılımda açılması görüntü işleme işlemidir.**
+    ***
+1. **Aşağıdakilerden hangisi Adobe Photoshop ve Adobe Illustrator yazılımlarının kullanımı için gerekli olan uygulamadır?**
     - A-) GIMP
     - B-) Photo Identier
     - **Cevap C-) Creative Cloud**
     - D-) Adobe Express
     - E-) Figma
-    <hr />
-1. <strong>Adobe Photoshop yazılımında aşağıdakilerden hangisi yapılabilmektedir?</strong>
-    - A-) Video d&uuml;zenleme ve kurgu
+    ***
+1. **Adobe Photoshop yazılımında aşağıdakilerden hangisi yapılabilmektedir?**
+    - A-) Video düzenleme ve kurgu
     - B-) Video animasyon
     - **Cevap C-) Kurumsal kimlik tasarımı**
     - D-) Video render
-    - E-) 3D Mimari proje &ccedil;izimi
-    <hr />
-1. <strong>Vekt&ouml;rel tabanlı yazılımlar hakkında aşağıdaki ifadelerden hangisi doğrudur?</strong>
-    - **Cevap A-) &Ccedil;alışma alanının b&uuml;y&uuml;kl&uuml;ğ&uuml; ne olursa olsun bozulma olmaz.**
-    - B-) Derin &ouml;ğrenme teknolojisi ile &ccedil;alışır.
-    - C-) Piksel tabanlı yazılımlara g&ouml;re &ccedil;ok daha verimli ve sağlıklı &ccedil;alışır.
-    - D-) Video &ccedil;alışmaları i&ccedil;in en ideal yazılımlardır.
-    - E-) Piksel tabanlı yazılımlara g&ouml;re kullanımını daha kolaydır.
-    <hr />
-1. <strong>Aşağıdaki işlemlerden hangisi katman stil men&uuml;s&uuml;nde yer alır?</strong>
+    - E-) 3D Mimari proje çizimi
+    ***
+1. **Vektörel tabanlı yazılımlar hakkında aşağıdaki ifadelerden hangisi doğrudur?**
+    - **Cevap A-) Çalışma alanının büyüklüğü ne olursa olsun bozulma olmaz.**
+    - B-) Derin öğrenme teknolojisi ile çalışır.
+    - C-) Piksel tabanlı yazılımlara göre çok daha verimli ve sağlıklı çalışır.
+    - D-) Video çalışmaları için en ideal yazılımlardır.
+    - E-) Piksel tabanlı yazılımlara göre kullanımını daha kolaydır.
+    ***
+1. **Aşağıdaki işlemlerden hangisi katman stil menüsünde yer alır?**
     - **Cevap A-) Kontur ekleme**
     - B-) Katman gruplama
     - C-) Kopyalama
-    - D-) Katman se&ccedil;me
+    - D-) Katman seçme
     - E-) Katmanı kaydetme
-    <hr />
+    ***
 ## Unite 10
-1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın tanımıdır?</strong>
-    - A-) End&uuml;striye y&ouml;nelik &uuml;retim y&ouml;ntemleri geliştirilen bir s&uuml;re&ccedil;tir.
-    - B-) &Uuml;retim yapılan tesislerin verimlilik esasıyla d&uuml;zenlemesini hedefleyen bir s&uuml;re&ccedil;tir.
-    - **Cevap C-) Daha iyi bir yaşam kalitesine yol a&ccedil;an stratejik bir problem &ccedil;&ouml;zme s&uuml;recidir.**
-    - D-) Problemlerin yapı taşlarına ayrılarak incelenip bilimsel veri elde edilmesini sağlayan bir s&uuml;re&ccedil;tir.
-    - E-) End&uuml;stri atıklarının &ccedil;evreye verdiği zararların minimize edilmeye &ccedil;alışılan bir s&uuml;re&ccedil;tir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın &uuml;r&uuml;n aracılığı ile pazarda rakiplere karşı sağladığı bir &uuml;st&uuml;nl&uuml;k <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi endüstriyel tasarımın tanımıdır?**
+    - A-) Endüstriye yönelik üretim yöntemleri geliştirilen bir süreçtir.
+    - B-) Üretim yapılan tesislerin verimlilik esasıyla düzenlemesini hedefleyen bir süreçtir.
+    - **Cevap C-) Daha iyi bir yaşam kalitesine yol açan stratejik bir problem çözme sürecidir.**
+    - D-) Problemlerin yapı taşlarına ayrılarak incelenip bilimsel veri elde edilmesini sağlayan bir süreçtir.
+    - E-) Endüstri atıklarının çevreye verdiği zararların minimize edilmeye çalışılan bir süreçtir.
+    ***
+1. **Aşağıdakilerden hangisi endüstriyel tasarımın ürün aracılığı ile pazarda rakiplere karşı sağladığı bir üstünlük değildir?**
     - **Cevap A-) Kullanıcı lokasyonu**
     - B-) Fiyat
     - C-) Kalite
     - D-) Performans
     - E-) Stil
-    <hr />
-1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın bir adımı <u>değildir</u>?</strong>
-    - A-) G&ouml;revin netleştirilmesi
-    - **Cevap B-) İhtiya&ccedil; tasarımı**
+    ***
+1. **Aşağıdakilerden hangisi endüstriyel tasarımın bir adımı değildir?**
+    - A-) Görevin netleştirilmesi
+    - **Cevap B-) İhtiyaç tasarımı**
     - C-) Kavramsal tasarım
     - D-) Şekillendirme tasarımı
     - E-) Detay tasarımı
-    <hr />
-1. <strong>Fotoğrafın tasarım adımlarında kullanımıyla ilgili olarak&nbsp;aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    ***
+1. **Fotoğrafın tasarım adımlarında kullanımıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Fotoğraf etkili bir sunum aracıdır.
-    - B-) Fotoğraflar ihtiya&ccedil; analizinde kullanılır.
+    - B-) Fotoğraflar ihtiyaç analizinde kullanılır.
     - C-) Maketler tasarım ekibiyle fotoğraflanarak paylaşılabilir.
     - D-) Mood boardlarda fotoğraflar yer alır.
-    - **Cevap E-) Fotoğrafın en &ccedil;ok kullanıldığı adım detay tasarımı adımıdır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n tanıtımında etkili olan fotoğrafların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    - **Cevap E-) Fotoğrafın en çok kullanıldığı adım detay tasarımı adımıdır.**
+    ***
+1. **Aşağıdakilerden hangisi ürün tanıtımında etkili olan fotoğrafların özelliklerinden biri değildir?**
     - A-) Doğru ışıklandırma
-    - B-) Doğru a&ccedil;ılar
-    - C-) Fonksiyona dair d&uuml;zenlemeler
-    - **Cevap D-) Fotoğraftaki tipografik &ouml;ğeler**
+    - B-) Doğru açılar
+    - C-) Fonksiyona dair düzenlemeler
+    - **Cevap D-) Fotoğraftaki tipografik öğeler**
     - E-) Kullanıma dair sahne ve pozlar
-    <hr />
-1. <strong>Fotoğrafın basılarak kullanıldığı &ouml;zelleşmiş &uuml;r&uuml;nlerde fotoğrafın ana işlevi aşağıdakilerden hangisidir?</strong>
-    - A-) Fotoğraf &uuml;r&uuml;ne renk katar.
-    - **Cevap B-) Fotoğraf &uuml;r&uuml;n&uuml;n sahibiyle duygusal bağ kurmasını sağlar.**
-    - C-) &Uuml;r&uuml;n&uuml;n maddi değerini arttırır.
-    - D-) Fotoğraf sayesinde &uuml;r&uuml;n&uuml;n sahibi belli olur.
-    - E-) Fotoğraf &uuml;r&uuml;n&uuml; g&uuml;zel g&ouml;sterir.
-    <hr />
-1. <strong>Fotoğraf&ccedil;ılıkta ihtiya&ccedil; duyulan en temel 2 mod&uuml;l nedir?</strong>
-    - **Cevap A-) Işığın kontroll&uuml; ge&ccedil;işi i&ccedil;in bir sistem ve ışığa duyarlı bir y&uuml;zey**
-    - B-) Doğru ışıklandırma ve doğru fotoğraf makinesi a&ccedil;ısı
-    - C-) Işığı b&uuml;ken bir sistem ve ışığın dalga boyutunu değiştiren bir sistem
+    ***
+1. **Fotoğrafın basılarak kullanıldığı özelleşmiş ürünlerde fotoğrafın ana işlevi aşağıdakilerden hangisidir?**
+    - A-) Fotoğraf ürüne renk katar.
+    - **Cevap B-) Fotoğraf ürünün sahibiyle duygusal bağ kurmasını sağlar.**
+    - C-) Ürünün maddi değerini arttırır.
+    - D-) Fotoğraf sayesinde ürünün sahibi belli olur.
+    - E-) Fotoğraf ürünü güzel gösterir.
+    ***
+1. **Fotoğrafçılıkta ihtiyaç duyulan en temel 2 modül nedir?**
+    - **Cevap A-) Işığın kontrollü geçişi için bir sistem ve ışığa duyarlı bir yüzey**
+    - B-) Doğru ışıklandırma ve doğru fotoğraf makinesi açısı
+    - C-) Işığı büken bir sistem ve ışığın dalga boyutunu değiştiren bir sistem
     - D-) Işığın sıcaklığını ayarlayan bir sistem ve ışığın şiddetini ayarlayan bir sistem
-    - E-) Fotoğraf makinesinin gerekli yerleşimi i&ccedil;in ekipman ve ışıkların d&uuml;zenleyen bir sistem
-    <hr />
-1. <strong>Fotoğraf makinelerinde kullanıcı ile etkileşimde bulunacak kısım nedir?</strong>
+    - E-) Fotoğraf makinesinin gerekli yerleşimi için ekipman ve ışıkların düzenleyen bir sistem
+    ***
+1. **Fotoğraf makinelerinde kullanıcı ile etkileşimde bulunacak kısım nedir?**
     - A-) Objektif
-    - **Cevap B-) G&ouml;vde**
+    - **Cevap B-) Gövde**
     - C-) Diyafram
-    - D-) Film yada sens&ouml;r
+    - D-) Film yada sensör
     - E-) Mekanizma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi objektifin ışığı kontrol eden &ouml;zelliklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi objektifin ışığı kontrol eden özelliklerinden biri değildir?**
     - A-) Sahip olduğu lensler
-    - B-) Objektifin &ouml;l&ccedil;&uuml;leri
-    - C-) Işık ge&ccedil;irgenlik kapasitesi
+    - B-) Objektifin ölçüleri
+    - C-) Işık geçirgenlik kapasitesi
     - **Cevap D-) Objektifin dış kabuk malzemesi**
-    - E-) İmkan tanıdığı a&ccedil;ıklık
-    <hr />
-1. <strong>Mekanizma mod&uuml;l&uuml; tasarımsal a&ccedil;ıdan daha &ccedil;ok ne ile ilişkilidir?</strong>
+    - E-) İmkan tanıdığı açıklık
+    ***
+1. **Mekanizma modülü tasarımsal açıdan daha çok ne ile ilişkilidir?**
     - A-) Fizik bilimi
     - B-) Kimya bilimi
     - C-) Mekanik tasarım
     - D-) Sanatsal tasarımı
-    - **Cevap E-) M&uuml;hendislik tasarım**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın &uuml;r&uuml;n aracılığı ile pazarda rakiplere karşı sağladığı bir &uuml;st&uuml;nl&uuml;k <u>değildir</u>?</strong>
+    - **Cevap E-) Mühendislik tasarım**
+    ***
+1. **Aşağıdakilerden hangisi endüstriyel tasarımın ürün aracılığı ile pazarda rakiplere karşı sağladığı bir üstünlük değildir?**
     - A-) Kalite
     - B-) Performans
     - **Cevap C-) Kullanıcı lokasyonu**
     - D-) Stil
     - E-) Fiyat
-    <hr />
-1. <strong>Aşağıdakilerden hangisi end&uuml;striyel tasarımın bir adımı <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi endüstriyel tasarımın bir adımı değildir?**
     - A-) Detay tasarımı
     - B-) Kavramsal tasarım
-    - C-) G&ouml;revin netleştirilmesi
-    - **Cevap D-) İhtiya&ccedil; tasarımı**
+    - C-) Görevin netleştirilmesi
+    - **Cevap D-) İhtiyaç tasarımı**
     - E-) Şekillendirme tasarımı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &uuml;r&uuml;n tanıtımında etkili olan fotoğrafların &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Fonksiyona dair d&uuml;zenlemeler
-    - B-) Doğru a&ccedil;ılar
+    ***
+1. **Aşağıdakilerden hangisi ürün tanıtımında etkili olan fotoğrafların özelliklerinden biri değildir?**
+    - A-) Fonksiyona dair düzenlemeler
+    - B-) Doğru açılar
     - C-) Kullanıma dair sahne ve pozlar
-    - **Cevap D-) Fotoğraftaki tipografik &ouml;geler**
+    - **Cevap D-) Fotoğraftaki tipografik ögeler**
     - E-) Doğru ışıklandırma
-    <hr />
+    ***
 ## Unite 11
-1. <strong>Moda kavramı ile ilgili olarak aşağıdakilerden hangisi doğrudur?</strong>
-    - A-) G&uuml;n&uuml;m&uuml;zde her an değişen ve gelişen teknolojiler modanın belirleyicisi değildir.
-    - **Cevap B-) Moda kavramı s&uuml;rekli kendini yenileyen, hayatımızın her b&ouml;l&uuml;m&uuml;nde kendini yeniden g&ouml;sterebilen bir kavramdır.**
-    - C-) Moda bir toplumun t&uuml;ketim trendleriyle ilgilenmez.
-    - D-) Moda kavramı sadece makyaj sekt&ouml;r&uuml; ile ilgilidir.
-    - E-) Moda kavramı uzun s&uuml;relidir ve her zaman toplum i&ccedil;inde onay g&ouml;ren bir oluşumdur.
-    <hr />
-1. <strong>Moda fotoğrafının tanımı aşağıdakilerden hangisidir?</strong>
-    - A-) Moda fotoğrafı i&ccedil;in teknik bilgi gereksinimi yoktur.
-    - **Cevap B-) Moda fotoğrafı; fotoğraf&ccedil;ılar tarafından i&ccedil; ve dış &ccedil;ekimlerle dergilere, moda evlerine ve reklam ajanslarına yapılan &ccedil;alışmaların tamamına verilen isimdir.**
-    - C-) Bir moda fotoğrafı, her zaman st&uuml;dyoda olmak zorundadır.
-    - D-) Moda fotoğrafları hi&ccedil;bir zaman bulundukları zamana tanıklık etmemişler ve değişimin&nbsp;bir par&ccedil;ası olamamışlardır.
-    - E-) Moda fotoğrafı g&uuml;ncel modayı&nbsp;takip etmek durumunda değildir.
-    <hr />
-1. <strong>Moda fotoğrafı d&uuml;nyada ilk olarak g&uuml;n&uuml;m&uuml;zde de modanın başkenti olarak bilinen hangi şehirde ortaya &ccedil;ıkmıştır?</strong>
+1. **Moda kavramı ile ilgili olarak aşağıdakilerden hangisi doğrudur?**
+    - A-) Günümüzde her an değişen ve gelişen teknolojiler modanın belirleyicisi değildir.
+    - **Cevap B-) Moda kavramı sürekli kendini yenileyen, hayatımızın her bölümünde kendini yeniden gösterebilen bir kavramdır.**
+    - C-) Moda bir toplumun tüketim trendleriyle ilgilenmez.
+    - D-) Moda kavramı sadece makyaj sektörü ile ilgilidir.
+    - E-) Moda kavramı uzun sürelidir ve her zaman toplum içinde onay gören bir oluşumdur.
+    ***
+1. **Moda fotoğrafının tanımı aşağıdakilerden hangisidir?**
+    - A-) Moda fotoğrafı için teknik bilgi gereksinimi yoktur.
+    - **Cevap B-) Moda fotoğrafı; fotoğrafçılar tarafından iç ve dış çekimlerle dergilere, moda evlerine ve reklam ajanslarına yapılan çalışmaların tamamına verilen isimdir.**
+    - C-) Bir moda fotoğrafı, her zaman stüdyoda olmak zorundadır.
+    - D-) Moda fotoğrafları hiçbir zaman bulundukları zamana tanıklık etmemişler ve değişimin bir parçası olamamışlardır.
+    - E-) Moda fotoğrafı güncel modayı takip etmek durumunda değildir.
+    ***
+1. **Moda fotoğrafı dünyada ilk olarak günümüzde de modanın başkenti olarak bilinen hangi şehirde ortaya çıkmıştır?**
     - A-) Roma
     - B-) Londra
     - C-) Newyork
     - **Cevap D-) Paris**
     - E-) Milano
-    <hr />
-1. <strong>D&uuml;nyada İlk moda fotoğrafı olarak sayılan Fransız soylularından, Kontes de Castiglione&rsquo;nin gardrobunu tanıtan fotoğraf&ccedil;ı asağıdakilerden hangisidir?</strong>
+    ***
+1. **Dünyada İlk moda fotoğrafı olarak sayılan Fransız soylularından, Kontes de Castiglione’nin gardrobunu tanıtan fotoğrafçı asağıdakilerden hangisidir?**
     - **Cevap A-) Adolf de Mayer**
     - B-) Edward Steichen
     - C-) Martin Muncaski
     - D-) Man Ray
-    - E-) Lee&nbsp;Miller
-    <hr />
-1. <strong>Fotoğrafta kullanılan dikey &ccedil;izgiler hangi kavram-kavramların etkisini arttırmaktadır?</strong>
+    - E-) Lee Miller
+    ***
+1. **Fotoğrafta kullanılan dikey çizgiler hangi kavram-kavramların etkisini arttırmaktadır?**
     - A-) Sakinlik ve Dinginlik
     - B-) Devamlılık
     - C-) Yumuşaklık
-    - **Cevap D-) G&uuml;&ccedil; ve Mutlaklık**
+    - **Cevap D-) Güç ve Mutlaklık**
     - E-) Belirsizlik ve Kararsızlık
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir fotoğraf &ccedil;ekiminde komposizyona etki eden ışığın y&ouml;nlerinden biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) &Ccedil;izgisel ışık**
+    ***
+1. **Aşağıdakilerden hangisi bir fotoğraf çekiminde komposizyona etki eden ışığın yönlerinden biri değildir?**
+    - **Cevap A-) Çizgisel ışık**
     - B-) Tepe Işığı
     - C-) Arkadan gelen - Ters Işık
     - D-) Yandan gelen- Yanal Işık
-    - E-) &Ouml;nden gelen -Cephe Işığı
-    <hr />
-1. <strong>Bir moda fotoğraf &ccedil;ekimi sırasında alan kullanımında ana objenin ya da objelerin olduğu, kompozisyonun &ouml;ne &ccedil;ıkan kısmı ne olarak adlandırılmaktadır?</strong>
+    - E-) Önden gelen -Cephe Işığı
+    ***
+1. **Bir moda fotoğraf çekimi sırasında alan kullanımında ana objenin ya da objelerin olduğu, kompozisyonun öne çıkan kısmı ne olarak adlandırılmaktadır?**
     - **Cevap A-) Pozitif alan**
     - B-) Boş alan
     - C-) Gri alan
     - D-) Negatif alan
     - E-) Eksik Alan
-    <hr />
-1. <strong>Renkler, insanlar &uuml;zerinde oluşturdukları etkilerine tanımlandığına g&ouml;re, mavi renk tonları nasıl renkler olarak adlandırılmaktadır?</strong>
+    ***
+1. **Renkler, insanlar üzerinde oluşturdukları etkilerine tanımlandığına göre, mavi renk tonları nasıl renkler olarak adlandırılmaktadır?**
     - A-) Sıcak renkler
     - B-) Kontrast renkler
     - **Cevap C-) Soğuk renkler**
     - D-) Karışık renkler
-    - E-) N&ouml;tr renkler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğraf &ccedil;ekimlerinde st&uuml;dyoda kullanılan teknik ekipmanlardan biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Nötr renkler
+    ***
+1. **Aşağıdakilerden hangisi fotoğraf çekimlerinde stüdyoda kullanılan teknik ekipmanlardan biri değildir?**
     - A-) Şemsiyeler
-    - B-) Reflekt&ouml;rler ve Petekler
+    - B-) Reflektörler ve Petekler
     - C-) Softboxlar
-    - **Cevap D-) Agrandiz&ouml;r**
+    - **Cevap D-) Agrandizör**
     - E-) Pozometre
-    <hr />
-1. <strong>Moda reklam fotoğraflarının ana amacı nedir?</strong>
+    ***
+1. **Moda reklam fotoğraflarının ana amacı nedir?**
     - A-) Sosyal medyada yer almak
-    - B-) Fotoğraf&ccedil;ıyı takdir etmek
+    - B-) Fotoğrafçıyı takdir etmek
     - C-) Dergiye para kazandırmak
     - D-) Modeli beğendirmek
-    - **Cevap E-) &Ccedil;ekilen &uuml;r&uuml;n&uuml;n satışını arttırmak**
-    <hr />
-1. <strong>Moda Fotoğrafında Modernizm&#39;in &ouml;nc&uuml;s&uuml; ve &ldquo;New Objektivity&rdquo; kavramını ortaya koyan aşağıdakilerden hangisidir?</strong>
+    - **Cevap E-) Çekilen ürünün satışını arttırmak**
+    ***
+1. **Moda Fotoğrafında Modernizm'in öncüsü ve “New Objektivity” kavramını ortaya koyan aşağıdakilerden hangisidir?**
     - A-) Adolf de Mayer
     - **Cevap B-) Edward Steichen**
     - C-) Martin Muncaski
     - D-) Man Ray
-    - E-) Lee&nbsp;Miller
-    <hr />
-1. <strong>Aşağıdakilerden hangisi iyi bir moda fotoğraf&ccedil;ısının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Doğru renkleri ve ışığı doğru kullanabilecek estetik bir g&ouml;z terbiyesine sahip olmalıdır.
-    - B-) Modayı yakından takip etmeli, hayal g&uuml;c&uuml; ve yaratıcılığı y&uuml;ksek olmalıdır.
+    - E-) Lee Miller
+    ***
+1. **Aşağıdakilerden hangisi iyi bir moda fotoğrafçısının özelliklerinden biri değildir?**
+    - A-) Doğru renkleri ve ışığı doğru kullanabilecek estetik bir göz terbiyesine sahip olmalıdır.
+    - B-) Modayı yakından takip etmeli, hayal gücü ve yaratıcılığı yüksek olmalıdır.
     - **Cevap C-) Fotoğraf tekniği konusunda bilgisi olmasına gerek yoktur.**
     - D-) Giyim, kuşam ve bunların kuşattığı insan bedenleriyle ilgili temel bilgi sahibi olmalıdır.
-    - E-) &Ccedil;ekim sonrasında ise fotoğraf&ccedil;ının post prod&uuml;ksiyon ekibi ile fotoğraf &uuml;zerinde son r&ouml;t&uuml;şları yapacak yeterli bilgisi olabilmelidir.
-    <hr />
-1. <strong>Aşağıdakilerden hangileri yapay ışık kaynaklarından biri <u>değildir</u>?</strong>
-    - A-) Led amp&uuml;ller
-    - **Cevap B-) G&uuml;neş**
+    - E-) Çekim sonrasında ise fotoğrafçının post prodüksiyon ekibi ile fotoğraf üzerinde son rötüşları yapacak yeterli bilgisi olabilmelidir.
+    ***
+1. **Aşağıdakilerden hangileri yapay ışık kaynaklarından biri değildir?**
+    - A-) Led ampüller
+    - **Cevap B-) Güneş**
     - C-) Florasanlar
     - D-) Sokak lambalar
     - E-) Mum ışığı
-    <hr />
+    ***
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi yapısal &ouml;geler i&ccedil;erisinde yer alır?</strong>
+1. **Aşağıdakilerden hangisi yapısal ögeler içerisinde yer alır?**
     - A-) Işık
     - B-) Keskinlik
     - C-) İlgi merkezi
     - **Cevap D-) Boşluk**
     - E-) Belirginlik
-    <hr />
-1. <strong>Par&ccedil;aların ve tekrarların g&ouml;z&uuml;n takibiyle tamamlanarak sonucu veya b&uuml;t&uuml;n&uuml;n&uuml; oluşturması fotoğrafta Gestalt Algısı&#39;na g&ouml;re nasıl ifade edilmektedir?</strong>
+    ***
+1. **Parçaların ve tekrarların gözün takibiyle tamamlanarak sonucu veya bütününü oluşturması fotoğrafta Gestalt Algısı'na göre nasıl ifade edilmektedir?**
     - A-) Perspektif
     - **Cevap B-) Tamamlama**
     - C-) Şekil zemin ilişkisi
     - D-) Devamlılık
     - E-) Benzerlik
-    <hr />
-1. <strong>Fotoğraflanacak bir mimari unsur veya cadde g&ouml;r&uuml;nt&uuml;s&uuml;nde dikkat edilecek en &ouml;nemli unsur aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Fotoğraflanacak bir mimari unsur veya cadde görüntüsünde dikkat edilecek en önemli unsur aşağıdakilerden hangisidir?**
     - A-) Doku
     - B-) Espas
     - C-) Işık
     - **Cevap D-) Perspektif**
     - E-) Renk
-    <hr />
-1. <strong>Aşağıdakilerden hangisi fotoğrafta kompozisyonun yapısal &ouml;gelerinden biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi fotoğrafta kompozisyonun yapısal ögelerinden biridir?**
     - A-) Perspektif
     - B-) İlgi Merkezi
     - C-) Keskinlik
-    - D-) Bakış A&ccedil;ısı
+    - D-) Bakış Açısı
     - **Cevap E-) Gestalt Algısı**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi, fotoğrafik bir kompozisyon &ouml;ğesidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi, fotoğrafik bir kompozisyon öğesidir?**
     - A-) Leke
     - B-) Doku
     - **Cevap C-) Perspektif**
     - D-) Sadelik
     - E-) Keskinlik
-    <hr />
-1. <strong>Se&ccedil;eneklerden hangi Gestalt kuramı ilkesi, par&ccedil;aların ve tekrarların g&ouml;z&uuml;n takibiyle tamamlanarak sonucu veya b&uuml;t&uuml;n&uuml; oluşturması &ouml;zelliğini barındırır?</strong>
+    ***
+1. **Seçeneklerden hangi Gestalt kuramı ilkesi, parçaların ve tekrarların gözün takibiyle tamamlanarak sonucu veya bütünü oluşturması özelliğini barındırır?**
     - **Cevap A-) Tamamlama**
     - B-) Şekil zemin ilişkisi
     - C-) Devamlılık ve benzerlik
     - D-) Basitlik ve yalınlık
     - E-) Simetri
-    <hr />
-1. <strong>Fotoğrafın temsil &ouml;zelliği en &ccedil;ok hangi işe yaramaktadır?</strong>
-    - A-) Ders s&uuml;re&ccedil;lerinde &ouml;ğrencilerin rahat anlamasını sağlar.
+    ***
+1. **Fotoğrafın temsil özelliği en çok hangi işe yaramaktadır?**
+    - A-) Ders süreçlerinde öğrencilerin rahat anlamasını sağlar.
     - B-) Firmaların geniş kitlelere ulaşmasını sağlar.
     - C-) Belgeleme aracı sağlamaktadır.
-    - **Cevap D-) Yeni bakış a&ccedil;ıları sunmaktadır.**
+    - **Cevap D-) Yeni bakış açıları sunmaktadır.**
     - E-) İzleyicinin analiz yeteneğini geliştirir.
-    <hr />
-1. <strong>Frank Lloyd Wright&rsquo;ın Falling Water House yapısına ait ikonik fotoğraf kim tarafından &ccedil;ekilmiştir?</strong>
+    ***
+1. **Frank Lloyd Wright’ın Falling Water House yapısına ait ikonik fotoğraf kim tarafından çekilmiştir?**
     - **Cevap A-) Bill Hedrich**
     - B-) Le Corbusier
     - C-) Helene Binet
     - D-) Iwan Baan
     - E-) Pierre Koenig
-    <hr />
-1. <strong>Camera Obscura ilk olarak hangi y&uuml;zyılda kullanılmaya başlamıştır?</strong>
-    - A-) 15. y&uuml;zyıl
-    - B-) 19. y&uuml;zyıl
-    - C-) 20. y&uuml;zyıl
-    - **Cevap D-) 17. y&uuml;zyıl**
-    - E-) 18. y&uuml;zyıl
-    <hr />
-1. <strong>Algı t&uuml;rleri arasında aşağıdakilerden hangisi en etkilidir?</strong>
+    ***
+1. **Camera Obscura ilk olarak hangi yüzyılda kullanılmaya başlamıştır?**
+    - A-) 15\. yüzyıl
+    - B-) 19\. yüzyıl
+    - C-) 20\. yüzyıl
+    - **Cevap D-) 17\. yüzyıl**
+    - E-) 18\. yüzyıl
+    ***
+1. **Algı türleri arasında aşağıdakilerden hangisi en etkilidir?**
     - A-) Dokunsal Algı
     - B-) İşitsel Algı
     - C-) Koku Algısı
-    - **Cevap D-) G&ouml;rsel Algı**
+    - **Cevap D-) Görsel Algı**
     - E-) Tat Algısı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi mek&acirc;nın temsilinin &ouml;nemini <u>vurgulamamaktadır</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi mekânın temsilinin önemini vurgulamamaktadır?**
     - A-) Belirli grupların hedeflerini destekleyecek doğrultudadır.
-    - B-) Bize yeni bakış a&ccedil;ıları vermektedir.
-    - C-) Ger&ccedil;eğin yeniden uyarlanmış ve inşa edilmiş h&acirc;lidir.
-    - D-) Temsile dayalı farklı yorumlama bi&ccedil;imleri ger&ccedil;eği yansıtmaz.
-    - **Cevap E-) Temsil, mimarın &ouml;zg&uuml;nl&uuml;ğ&uuml;n&uuml; azaltır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi mek&acirc;nın g&ouml;rsel algısını etkileyen tasarım unsurlarından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Bi&ccedil;im
+    - B-) Bize yeni bakış açıları vermektedir.
+    - C-) Gerçeğin yeniden uyarlanmış ve inşa edilmiş hâlidir.
+    - D-) Temsile dayalı farklı yorumlama biçimleri gerçeği yansıtmaz.
+    - **Cevap E-) Temsil, mimarın özgünlüğünü azaltır.**
+    ***
+1. **Aşağıdakilerden hangisi mekânın görsel algısını etkileyen tasarım unsurlarından biri değildir?**
+    - A-) Biçim
     - B-) Işık
     - C-) Renk
     - D-) Malzeme
     - **Cevap E-) Koku**
-    <hr />
-1. <strong>Kendi tasarımlarını &ccedil;ekmeden &ouml;nce kurgulayan mimar&nbsp;</strong><strong>aşağıdakilerden hangisidir</strong><strong>?</strong>
+    ***
+1. **Kendi tasarımlarını çekmeden önce kurgulayan mimar** **aşağıdakilerden hangisidir****?**
     - A-) Pierre Jeanneret
     - B-) Oscar Niemeyer
     - C-) Ludwig Mies van der Rohe
     - D-) Zaha Hadid
     - **Cevap E-) Le Corbusier**
-    <hr />
-1. <strong>Mek&acirc;ndaki işitsel yansıma aşağıdakilerden hangisi ile &ccedil;&ouml;z&uuml;l&uuml;r?</strong>
-    - A-) İ&ccedil; mek&acirc;n peyzajıyla
-    - B-) Kapalı mek&acirc;n &ccedil;&ouml;z&uuml;mlemesiyle
+    ***
+1. **Mekândaki işitsel yansıma aşağıdakilerden hangisi ile çözülür?**
+    - A-) İç mekân peyzajıyla
+    - B-) Kapalı mekân çözümlemesiyle
     - C-) Teknik ekipmanlarla
     - **Cevap D-) Akustikle**
     - E-) Kalabalık ortam oluşturmayla
-    <hr />
-1. <strong>&lsquo;&rsquo;Vietnamlı &Ccedil;ocuk&rsquo;&rsquo; fotoğrafı kime aittir?</strong>
+    ***
+1. **‘’Vietnamlı Çocuk’’ fotoğrafı kime aittir?**
     - A-) Joachim Schmeisser
     - B-) Steve McCurry
     - C-) Eric Lafforgue
     - **Cevap D-) Nick Ut**
     - E-) Jimmy Nelson
-    <hr />
+    ***
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi seramik malzemenin kullanıldığı alanlardan <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi seramik malzemenin kullanıldığı alanlardan değildir?**
     - A-) Mimari yapılar
     - B-) Savunma sanayi
-    - **Cevap C-) Gıda s&uuml;sleme**
+    - **Cevap C-) Gıda süsleme**
     - D-) Tıp-sağlık
     - E-) Sanat
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ham h&acirc;ldeki seramik y&uuml;zeyler &uuml;zerinde <u>uygulanamaz</u>?</strong>
-    - A-) Lazer aktarım y&ouml;ntemi
-    - **Cevap B-) Direkt fotografik aktarım y&ouml;ntemi**
-    - C-) Fotokopi aktarım y&ouml;ntemi
-    - D-) Dekal aktarım y&ouml;ntemi
-    - E-) Toner aktarım y&ouml;ntemi
-    <hr />
-1. <strong>Serigrafi Aktarım Y&ouml;ntemi&#39;nde kaliteli fotografik etki elde etmek i&ccedil;in tram değeri ne olmalıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ham hâldeki seramik yüzeyler üzerinde uygulanamaz?**
+    - A-) Lazer aktarım yöntemi
+    - **Cevap B-) Direkt fotografik aktarım yöntemi**
+    - C-) Fotokopi aktarım yöntemi
+    - D-) Dekal aktarım yöntemi
+    - E-) Toner aktarım yöntemi
+    ***
+1. **Serigrafi Aktarım Yöntemi'nde kaliteli fotografik etki elde etmek için tram değeri ne olmalıdır?**
     - A-) 300dpi=33tram
     - B-) 1024dpi=102tram
     - C-) 500dpi=57tram
     - **Cevap D-) 112dpi=44tram**
     - E-) 850dpi=44tram
-    <hr />
-1. <strong>Serigrafi aktarım y&ouml;nteminde baskıya hazırlanan g&ouml;rselin renk modu aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Serigrafi aktarım yönteminde baskıya hazırlanan görselin renk modu aşağıdakilerden hangisidir?**
     - A-) LAB
     - B-) Grayscale
     - C-) Index
     - D-) RGB
     - **Cevap E-) CMYK**
-    <hr />
-1. <strong>Bisk&uuml;vi haldeki seramik b&uuml;nye &uuml;zerine dekal ile aktarım işlemi yapıldığında aşağıdakilerden hangisi ile sabitleme yapılmalıdır?</strong>
+    ***
+1. **Bisküvi haldeki seramik bünye üzerine dekal ile aktarım işlemi yapıldığında aşağıdakilerden hangisi ile sabitleme yapılmalıdır?**
     - A-) Cilalama
     - **Cevap B-) Sırlama işlemi ve pişirim**
     - C-) Aharlama
     - D-) Vernikleme
     - E-) Taşlama
-    <hr />
-1. <strong>Sır&uuml;st&uuml; dekal-&ccedil;ıkartma uygulaması yapılırken kullanılan boya aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Sırüstü dekal-çıkartma uygulaması yapılırken kullanılan boya aşağıdakilerden hangisidir?**
     - A-) CMC
-    - B-) Toner m&uuml;rekkebi
-    - **Cevap C-) Sır&uuml;st&uuml; boya**
+    - B-) Toner mürekkebi
+    - **Cevap C-) Sırüstü boya**
     - D-) Oksit
     - E-) Sıraltı boya
-    <hr />
-1. <strong>Lazer-fotokopi aktarım y&ouml;nteminde kullanılan CMC, baskısı alınan k&acirc;ğıdın hangi y&uuml;zeyine tutunur?</strong>
+    ***
+1. **Lazer-fotokopi aktarım yönteminde kullanılan CMC, baskısı alınan kâğıdın hangi yüzeyine tutunur?**
     - A-) Kırmızı
     - B-) Siyah
     - **Cevap C-) Beyaz**
     - D-) Oksitli
     - E-) Aharlı
-    <hr />
-1. <strong>Toner aktarım y&ouml;nteminde, &ccedil;ıktı-fotokopi alınan makinenin toner i&ccedil;eriğinde aşağıdakilerden hangisi bulunmalıdır?</strong>
+    ***
+1. **Toner aktarım yönteminde, çıktı-fotokopi alınan makinenin toner içeriğinde aşağıdakilerden hangisi bulunmalıdır?**
     - A-) Oksalik asit
     - B-) Bakır oksit
     - C-) Sıraltı boya
     - D-) Amonyum dikromat
     - **Cevap E-) Demir oksit**
-    <hr />
-1. <strong>Toner aktarım y&ouml;nteminde aşağıdakilerden hangisi yapılmadığında aktarım işlemi <u>ger&ccedil;ekleşmez</u>?</strong>
-    - **Cevap A-) Baskı alınan k&acirc;ğıdın makine &ccedil;ıkışında ısıl işlem uygulamasının engellenmesi**
+    ***
+1. **Toner aktarım yönteminde aşağıdakilerden hangisi yapılmadığında aktarım işlemi gerçekleşmez?**
+    - **Cevap A-) Baskı alınan kâğıdın makine çıkışında ısıl işlem uygulamasının engellenmesi**
     - B-) Bakır oksit ve demir oksit karışımı yapılması
     - C-) Maskeleme yapılması
     - D-) Toner değişikliği yapılması
     - E-) Pozlama yapılması
-    <hr />
-1. <strong>Cyanotype aktarım y&ouml;nteminde bisk&uuml;vi seramik y&uuml;zeye pozlama yapılabilmesi i&ccedil;in &ouml;ncesinde aşağıdakilerden hangisini yapmak gerekir?</strong>
+    ***
+1. **Cyanotype aktarım yönteminde bisküvi seramik yüzeye pozlama yapılabilmesi için öncesinde aşağıdakilerden hangisini yapmak gerekir?**
     - A-) Işığa maruz bırakma
     - **Cevap B-) Aharlama**
     - C-) Sırlama
     - D-) Isıl işlem uygulama
     - E-) Perdahlama
-    <hr />
-1. <strong>Seramik malzemenin sanat malzemesi olarak kullanımı net olarak aşağıda yer alan hangi hareket ile başlamıştır?</strong>
+    ***
+1. **Seramik malzemenin sanat malzemesi olarak kullanımı net olarak aşağıda yer alan hangi hareket ile başlamıştır?**
     - A-) Sanayi devrimi
-    - B-) Yerleşik d&uuml;zene ge&ccedil;iş
+    - B-) Yerleşik düzene geçiş
     - C-) Milenyum
-    - **Cevap D-) St&uuml;dyo &ccedil;&ouml;mlek&ccedil;iliği**
-    - E-) End&uuml;stri devrimi
-    <hr />
+    - **Cevap D-) Stüdyo çömlekçiliği**
+    - E-) Endüstri devrimi
+    ***
 ## Unite 14
-1. <strong>Sanat eserlerinde fotoğrafın kullanma şekli hangisinde yanlış verilmiştir?</strong>
+1. **Sanat eserlerinde fotoğrafın kullanma şekli hangisinde yanlış verilmiştir?**
     - A-) Orijinal haliyle
     - B-) Transferi
     - **Cevap C-) Objenin yanında**
-    - D-) Objenin i&ccedil;inde
-    - E-) Objenin y&uuml;zeyinde
-    <hr />
-1. <strong>&quot;K&uuml;resel k&ouml;y&quot; kavramını kullanan d&uuml;ş&uuml;n&uuml;r aşağıdakilerden hangisidir?</strong>
+    - D-) Objenin içinde
+    - E-) Objenin yüzeyinde
+    ***
+1. **"Küresel köy" kavramını kullanan düşünür aşağıdakilerden hangisidir?**
     - **Cevap A-) McLuhan**
     - B-) Danto
     - C-) Boltanski
     - D-) Sherman
     - E-) Richter
-    <hr />
-1. <strong>Berlin Duvarı imgesini ipliklerle pikselleştiren Diane Meyer&#39;in vurguladığı kavram hangisidir?</strong>
-    - A-) G&uuml;zellik
+    ***
+1. **Berlin Duvarı imgesini ipliklerle pikselleştiren Diane Meyer'in vurguladığı kavram hangisidir?**
+    - A-) Güzellik
     - **Cevap B-) Anı-bellek**
     - C-) Şehir hayatı
     - D-) Alman disiplini
     - E-) Anıt resim
-    <hr />
-1. <strong>D&ouml;nemin ikonik kişilerin portre serilerini yapan sanat&ccedil;ı kimdir?</strong>
+    ***
+1. **Dönemin ikonik kişilerin portre serilerini yapan sanatçı kimdir?**
     - A-) Kandinsky
     - B-) Pinky MM/Bass
     - C-) MannyRobertson
     - **Cevap D-) Andy Warhol**
     - E-) Shaun Kardinal
-    <hr />
-1. <strong>&Ccedil;ağdaş sanat eserlerine katılan fotoğraflarını fiziksel olarak sağlama kaynakları arasında yer almayan aşağıdakilerden hangisidir?</strong>
-    - A-) Aile alb&uuml;mleri
-    - B-) Fotoğraf st&uuml;dyoları arşivleri
+    ***
+1. **Çağdaş sanat eserlerine katılan fotoğraflarını fiziksel olarak sağlama kaynakları arasında yer almayan aşağıdakilerden hangisidir?**
+    - A-) Aile albümleri
+    - B-) Fotoğraf stüdyoları arşivleri
     - C-) Dergi kapakları
     - D-) Bitpazarları
     - **Cevap E-) Sosyal medya**
-    <hr />
-1. <strong>&quot;Kendine mal etme&quot; stratejisinin sanatında &ouml;nemli bir yeri olan sanat&ccedil;ı kimdir?</strong>
+    ***
+1. **"Kendine mal etme" stratejisinin sanatında önemli bir yeri olan sanatçı kimdir?**
     - **Cevap A-) Sherie Levine**
     - B-) Yoon Ji Seon
     - C-) Elise Wehle
     - D-) Aliza Razell
     - E-) Christian Boltanski
-    <hr />
-1. <strong>&quot;Fotoğraf en m&uuml;kemmel resimdir. Değişmez mutlaktır ve dolayısıyla &ouml;zerktir, koşulsuzdur, &uuml;sluptan yoksundur.&quot; ifadesi aşağıdakilerden hangisine aittir?</strong>
+    ***
+1. **"Fotoğraf en mükemmel resimdir. Değişmez mutlaktır ve dolayısıyla özerktir, koşulsuzdur, üsluptan yoksundur." ifadesi aşağıdakilerden hangisine aittir?**
     - A-) Rauchenberg
     - B-) Perra
     - **Cevap C-) Richter**
     - D-) Zexter
     - E-) Cata
-    <hr />
-1. <strong>Pinhole fotoğraf&ccedil;ılığın &ouml;zellikleri arasında hangisi <u>yanlıştır</u>?</strong>
-    - A-) Pinhole fotoğrafları sonsuz derinliğe sahip olduğu i&ccedil;in her şey odakta g&ouml;r&uuml;nmektedir.
-    - B-) Mercek olmadığından mercek bozulması da yoktur ve geniş a&ccedil;ılı g&ouml;r&uuml;nt&uuml;ler doğrusal kalmaktadır.
-    - C-) Pozlama s&uuml;releri uzun olduğundan, hareketli nesnelerin etrafında bulanıklılık oluşmamaktadır.
-    - **Cevap D-) Pinhole kamerasının i&ccedil;inde olan mercek imgeyi d&uuml;z yansıtmaktadır.**
+    ***
+1. **Pinhole fotoğrafçılığın özellikleri arasında hangisi yanlıştır?**
+    - A-) Pinhole fotoğrafları sonsuz derinliğe sahip olduğu için her şey odakta görünmektedir.
+    - B-) Mercek olmadığından mercek bozulması da yoktur ve geniş açılı görüntüler doğrusal kalmaktadır.
+    - C-) Pozlama süreleri uzun olduğundan, hareketli nesnelerin etrafında bulanıklılık oluşmamaktadır.
+    - **Cevap D-) Pinhole kamerasının içinde olan mercek imgeyi düz yansıtmaktadır.**
     - E-) En basit şekilde pinhole kamerası ev ortamında da oluşturulabilmesi bir avantajdır.
-    <hr />
-1. <strong>Sanat projesinde portreleri avu&ccedil; i&ccedil;lerine iplikle işleyen ve hayatına iz bırakanları fiziksel acıyla bağdaştıran sanat&ccedil;ı hangisidir?</strong>
+    ***
+1. **Sanat projesinde portreleri avuç içlerine iplikle işleyen ve hayatına iz bırakanları fiziksel acıyla bağdaştıran sanatçı hangisidir?**
     - A-) Elise Wehle
     - B-) Diane Meyer
     - C-) Cecile Perra
     - D-) Yoon Ji Seon
     - **Cevap E-) David Cata**
-    <hr />
-1. <strong>Eselerinde &ouml;zlem hissini fotoğraf ve sulu boyayı birlikte kullanan sanat&ccedil;ı kimdir?</strong>
+    ***
+1. **Eselerinde özlem hissini fotoğraf ve sulu boyayı birlikte kullanan sanatçı kimdir?**
     - A-) CindySherman
     - **Cevap B-) AlizaRazell**
     - C-) SherieLevine
     - D-) Lisa Kokin
     - E-) Melisa Zexter.
-    <hr />
-1. <strong>&quot;&Ccedil;ağdaş sanat &quot;havasını soluduğumuz ve hakkında bir s&ouml;yleme yetkimizin olduğu bir zamanı ifade eder.&quot; fikrini paylaşan kimdir?</strong>
+    ***
+1. **"Çağdaş sanat "havasını soluduğumuz ve hakkında bir söyleme yetkimizin olduğu bir zamanı ifade eder." fikrini paylaşan kimdir?**
     - A-) Danto
     - **Cevap B-) Eroğlu**
     - C-) Marshall
     - D-) Engin
-    - E-) Malevi&ccedil;
-    <hr />
-1. <strong>Fotoğrafın &ouml;zellikleri ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    - E-) Maleviç
+    ***
+1. **Fotoğrafın özellikleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - **Cevap A-) Sanat alanın dışındadır.**
-    - B-) K&uuml;lt&uuml;rel bir nesnedir.
-    - C-) Ge&ccedil;mişle kurulan duygusal bağları yansıtır.
+    - B-) Kültürel bir nesnedir.
+    - C-) Geçmişle kurulan duygusal bağları yansıtır.
     - D-) Tarihsel hareketleri yansıtır.
     - E-) Haber değeri vardır.
-    <hr />
-1. <strong>PopArt temsilcileri olan sanat&ccedil;ıların doğru eşleştirilmesi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **PopArt temsilcileri olan sanatçıların doğru eşleştirilmesi aşağıdakilerden hangisidir?**
     - A-) David Cata- Robert Rauchenberg
     - B-) Robert Rauchenberg- Gerhard Richter
     - C-) Andy Warhol- CindySherman
     - **Cevap D-) Robert Rauchenberg- Andy Warhol**
     - E-) Marshall Mcluhan- Andy Warhol
-    <hr />
+    ***

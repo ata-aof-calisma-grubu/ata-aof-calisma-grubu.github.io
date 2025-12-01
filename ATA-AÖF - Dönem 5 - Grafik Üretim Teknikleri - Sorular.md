@@ -1,1557 +1,1542 @@
-# Grafik Üretim Teknikleri
+# Grafik Üretim Teknikleri (Dönem 5) - Tüm Sorular
+
 ## Unite 1
-1. <strong>İlk yazıyı bulan medeniyet hangisidir?</strong>
+1. **İlk yazıyı bulan medeniyet hangisidir?**
     - A-) Asurlular
     - B-) Lidyalılar
-    - **Cevap C-) S&uuml;merler**
+    - **Cevap C-) Sümerler**
     - D-) İyonlar
     - E-) Hitiler
-    <hr />
-1. <strong>En eski grafik &uuml;r&uuml;nler olarak kabul edilen ve ellerin kalıp olarak kullanıldığı eserler hangi mağarada bulunmuştur?</strong>
+    ***
+1. **En eski grafik ürünler olarak kabul edilen ve ellerin kalıp olarak kullanıldığı eserler hangi mağarada bulunmuştur?**
     - A-) Lasceux Mağarası
     - B-) Beldibi Mağarası
     - C-) Axturra Mağarası
     - **Cevap D-) Altamira Mağarası**
-    - E-) &Ccedil;atalh&ouml;y&uuml;k
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;izim ve harita bakımından zengin &ouml;rnekler barındırmaktadır?</strong>
+    - E-) Çatalhöyük
+    ***
+1. **Aşağıdakilerden hangisi çizim ve harita bakımından zengin örnekler barındırmaktadır?**
     - A-) Kutadgu Bilig
-    - **Cevap B-) Cihann&uuml;ma**
-    - C-) Divan&uuml; L&uuml;gati&rsquo;t - T&uuml;rk
+    - **Cevap B-) Cihannüma**
+    - C-) Divanü Lügati’t - Türk
     - D-) Tarih-i Hindi Garbi
     - E-) Altun Yaruk Sutra
-    <hr />
-1. <strong>Aşağıdakilerden hangisi matbaacılıkta yaşanan &ouml;nemli gelişmelerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi matbaacılıkta yaşanan önemli gelişmelerden biri değildir?**
     - A-) Frederic Koenig, ilk baskı makinesini icad etmesi
-    - B-) Gutenberg&rsquo;in tipo baskıyı bulması
-    - C-) William Bullock &lsquo;un rotasyon baskıyı bulması
-    - **Cevap D-) Gutenberg&rsquo;in ilk k&acirc;ğıt baskı makinasını yapması**
-    - E-) Alois Senefelder&rsquo;in cinko baskı makinasını yapması
-    <hr />
-1. <strong>Osmanlı Devleti D&ouml;nemi&#39;nde kurulan İlk Resm&icirc; T&uuml;rk Matbaası hangi yıl nerede kurulmuştur?</strong>
+    - B-) Gutenberg’in tipo baskıyı bulması
+    - C-) William Bullock ‘un rotasyon baskıyı bulması
+    - **Cevap D-) Gutenberg’in ilk kâğıt baskı makinasını yapması**
+    - E-) Alois Senefelder’in cinko baskı makinasını yapması
+    ***
+1. **Osmanlı Devleti Dönemi'nde kurulan İlk Resmî Türk Matbaası hangi yıl nerede kurulmuştur?**
     - A-) 1720 - Selanik
     - B-) 1729 - Edirne
     - C-) 1627 - İstanbul
     - D-) 1519 - Haleb
     - **Cevap E-) 1729 - İstanbul**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi İstanbul&rsquo;da kurulan ilk taş basma at&ouml;lyesinde basılan bir kitap <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi İstanbul’da kurulan ilk taş basma atölyesinde basılan bir kitap değildir?**
     - A-) Top Alayı Talimi
-    - B-) Nuhbetü&rsquo;t - Talim
+    - B-) Nuhbetü’t - Talim
     - C-) Müzekkere-i Zabitan
     - D-) Nefer Talimi
     - **Cevap E-) Tarih-i Hind-i Garbi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi İbrahim M&uuml;teferrika Matbaasının ikinci d&ouml;neminde basılan resimli kitaplardan biridir?</strong>
-    - A-) Tarih-i &Ccedil;elebizade
+    ***
+1. **Aşağıdakilerden hangisi İbrahim Müteferrika Matbaasının ikinci döneminde basılan resimli kitaplardan biridir?**
+    - A-) Tarih-i Çelebizade
     - **Cevap B-) Fen-ni Lağım**
     - C-) Izzi Tarihi
-    - D-) Ferheng-i Şu&ucirc;r&icirc;
-    - E-) Cihann&uuml;ma
-    <hr />
-1. <strong>Osmanlın Devleti&rsquo;nde yaşamış &uuml;nl&uuml; T&uuml;rk taşbaskı ustası kimdir?</strong>
+    - D-) Ferheng-i Şuûrî
+    - E-) Cihannüma
+    ***
+1. **Osmanlın Devleti’nde yaşamış ünlü Türk taşbaskı ustası kimdir?**
     - A-) Kazancı Ahmet
     - B-) Ahmet Efendi
     - **Cevap C-) Mehmet Hulusi**
     - D-) Malik Aksel
     - E-) Mehmet Efendi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi İbrahim M&uuml;teferrika tarafından basılan &ouml;nemli haritalardan biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi İbrahim Müteferrika tarafından basılan önemli haritalardan biridir?**
     - **Cevap A-) Karadeniz Haritası**
     - B-) Ege Haritası
-    - C-) B&uuml;y&uuml;k Okyanus Haritası
+    - C-) Büyük Okyanus Haritası
     - D-) Hazar haritası
-    - E-) D&uuml;nya Haritası
-    <hr />
-1. <strong>K&acirc;ğıt hangi &uuml;lkede keşfedilmiştir?</strong>
-    - **Cevap A-) &Ccedil;in**
+    - E-) Dünya Haritası
+    ***
+1. **Kâğıt hangi ülkede keşfedilmiştir?**
+    - **Cevap A-) Çin**
     - B-) Amerika
     - C-) İran
     - D-) İngiltere
     - E-) Almanya
-    <hr />
-1. <strong>Matbaanın icat edilmesi ve kullanılmasıyla aşağıdakilerden hangisi arasında direkt bağlantı <u>yoktur</u>?</strong>
+    ***
+1. **Matbaanın icat edilmesi ve kullanılmasıyla aşağıdakilerden hangisi arasında direkt bağlantı yoktur?**
     - A-) Okuma-yazma bilen vatandaşların artması
     - B-) Haber ve yayınların daha da hızlı yayılması
-    - **Cevap C-) Monarşiyle y&ouml;netenlerin g&uuml;&ccedil; kazanması**
-    - D-) R&ouml;nesans&rsquo;ın doğması ve gelişmesi
+    - **Cevap C-) Monarşiyle yönetenlerin güç kazanması**
+    - D-) Rönesans’ın doğması ve gelişmesi
     - E-) Reform hareketlerinin yaygınlaşması
-    <hr />
-1. <strong>Osmanlı Devleti&#39;nde ilk matbaa hangi yıl kurulmuştur?</strong>
+    ***
+1. **Osmanlı Devleti'nde ilk matbaa hangi yıl kurulmuştur?**
     - A-) 1360
     - **Cevap B-) 1493**
     - C-) 1554
     - D-) 1650
     - E-) 1710
-    <hr />
-1. <strong>Lale Devri&#39;nde matbaada basılan T&uuml;rk&ccedil;e ilk kitap aşağıdakilerden hangisidir?</strong>
-    - A-) Terceme-i Sıh&acirc;h-ı Cevher&icirc;
-    - **Cevap B-) Vankulu L&uuml;gatı**
-    - C-) Usul&uuml;&#39;l- Hikemi fi-Nizamil &Uuml;mem
-    - D-) Cihann&uuml;ma
+    ***
+1. **Lale Devri'nde matbaada basılan Türkçe ilk kitap aşağıdakilerden hangisidir?**
+    - A-) Terceme-i Sıhâh-ı Cevherî
+    - **Cevap B-) Vankulu Lügatı**
+    - C-) Usulü'l- Hikemi fi-Nizamil Ümem
+    - D-) Cihannüma
     - E-) Tarih-i Hind-i Garbi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi İbrahim M&uuml;teferrika Matbaasının ikinci d&ouml;neminde basılan kitaplardan biri <u>değildir</u>?</strong>
-    - A-) Izz&icirc; Tarihi
+    ***
+1. **Aşağıdakilerden hangisi İbrahim Müteferrika Matbaasının ikinci döneminde basılan kitaplardan biri değildir?**
+    - A-) Izzî Tarihi
     - B-) Fenn-i Lağım
     - C-) Fenn-i Harp
-    - D-) Ferheng-i Şu&ucirc;r&icirc;
-    - **Cevap E-) Cihann&uuml;ma**
-    <hr />
-1. <strong>II. Abd&uuml;lhamit D&ouml;nemi&#39;nde yaşayan ve T&uuml;rk taşbaskı sanatının en &ouml;nemli ismi aşağıdakilerden hangisidir?</strong>
+    - D-) Ferheng-i Şuûrî
+    - **Cevap E-) Cihannüma**
+    ***
+1. **II. Abdülhamit Dönemi'nde yaşayan ve Türk taşbaskı sanatının en önemli ismi aşağıdakilerden hangisidir?**
     - **Cevap A-) Mehmet Hulusi**
     - B-) Ahmet Efendi
     - C-) Kazancı İbrahim
     - D-) Malik Aksel
-    - E-) İbrahim M&uuml;teferrika
-    <hr />
-1. <strong>S&uuml;merlerin uygarlık tarihine en &ouml;nemli katkısı aşağıdakilerden hangisidir?</strong>
+    - E-) İbrahim Müteferrika
+    ***
+1. **Sümerlerin uygarlık tarihine en önemli katkısı aşağıdakilerden hangisidir?**
     - **Cevap A-) Yazıyı icat etmeleri**
     - B-) İlk edebiyat eserlerini vermeleri
-    - C-) İlk hukuk ve adalet d&uuml;ş&uuml;ncesini getirmeleri
+    - C-) İlk hukuk ve adalet düşüncesini getirmeleri
     - D-) İlk takvimi bulmaları
     - E-) Kili, yazı malzemesi olarak kullanmaları
-    <hr />
+    ***
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi T&uuml;rkiye&rsquo;de &ldquo;&Ouml;zg&uuml;n Baskıresim&rdquo; kavramını ilk kullanan sanat&ccedil;ıdır?</strong>
-    - A-) S&uuml;leyman Saim Tekcan
+1. **Aşağıdakilerden hangisi Türkiye’de “Özgün Baskıresim” kavramını ilk kullanan sanatçıdır?**
+    - A-) Süleyman Saim Tekcan
     - B-) Muammer Bakır
     - **Cevap C-) Mustafa Aslıer**
-    - D-) M&uuml;rşide İ&ccedil;meli
+    - D-) Mürşide İçmeli
     - E-) Hayati Misman
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerindendir?</strong>
-    - **Cevap A-) Ağa&ccedil; baskı, linol baskı**
-    - B-) Grav&uuml;r ve teknikleri
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı tekniklerindendir?**
+    - **Cevap A-) Ağaç baskı, linol baskı**
+    - B-) Gravür ve teknikleri
     - C-) Elek baskı/ipek baskı
     - D-) Litografi/taş baskı
     - E-) Mono baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniğinin temel prensiplerinden biridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı tekniğinin temel prensiplerinden biridir?**
     - A-) Su ve yağın birbirini itmesi prensibine dayalı bir baskıdır.
     - B-) Yalnızca bir kez basılabilme prensibine dayalı bir baskıdır.
-    - **Cevap C-) Kalıp y&uuml;zeyinde basılacak alanların y&uuml;ksek olması ilkesine dayalı bir baskıdır.**
-    - D-) Oyma işlemlerinin elle ya da asit aşındırma y&ouml;ntemi ile yapılan baskıdır.
-    - E-) Şablonun elek g&ouml;zlerinden boyanın ge&ccedil;irilerek basılması prensibine dayalı bir baskıdır.
-    <hr />
-1. <strong>MS 869&#39;da Wang Chienh tarafından &Ccedil;in&rsquo;de basılan &ldquo;Diamont &ndash;Sutra&rdquo; adlı kitapta hangi baskı tekniği kullanılmıştır?</strong>
+    - **Cevap C-) Kalıp yüzeyinde basılacak alanların yüksek olması ilkesine dayalı bir baskıdır.**
+    - D-) Oyma işlemlerinin elle ya da asit aşındırma yöntemi ile yapılan baskıdır.
+    - E-) Şablonun elek gözlerinden boyanın geçirilerek basılması prensibine dayalı bir baskıdır.
+    ***
+1. **MS 869'da Wang Chienh tarafından Çin’de basılan “Diamont –Sutra” adlı kitapta hangi baskı tekniği kullanılmıştır?**
     - A-) Linol baskı
-    - **Cevap B-) Tahta/Ağa&ccedil; baskı**
+    - **Cevap B-) Tahta/Ağaç baskı**
     - C-) Serigrafi baskı
-    - D-) Grav&uuml;r baskı
+    - D-) Gravür baskı
     - E-) Taş baskı/Litografi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi matbaanın kurucusu ve g&uuml;n&uuml;m&uuml;zde modern baskı tekniklerinin &ouml;nc&uuml;s&uuml; olarak kabul edilmektedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi matbaanın kurucusu ve günümüzde modern baskı tekniklerinin öncüsü olarak kabul edilmektedir?**
     - A-) Pablo Picasso
     - **Cevap B-) Johannes Gutenberg**
-    - C-) Albrecht D&uuml;rer
+    - C-) Albrecht Dürer
     - D-) Lucas Granach
     - E-) Vincent Van Gogh
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Anadolu&rsquo;da &ouml;rnekleri en erken g&ouml;r&uuml;len baskıresim tekniğidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Anadolu’da örnekleri en erken görülen baskıresim tekniğidir?**
     - A-) Serigrafi
-    - B-) Grav&uuml;r
+    - B-) Gravür
     - C-) Litografi
-    - **Cevap D-) Y&uuml;ksek baskı**
+    - **Cevap D-) Yüksek baskı**
     - E-) Mono baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı teknikleri ile eser veren sanat&ccedil;ılardan biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Nevide G&ouml;kaydın
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı teknikleri ile eser veren sanatçılardan biri değildir?**
+    - A-) Nevide Gökaydın
     - B-) Mustafa Aslıer
     - C-) Nevzat Akoral
     - **Cevap D-) Şeker Ahmet Paşa**
     - E-) Muammer Bakır
-    <hr />
-1. <strong>Ağa&ccedil; baskı tekniğinde baskı kalıbı hazırlamada ka&ccedil; y&ouml;ntem kullanılır?</strong>
+    ***
+1. **Ağaç baskı tekniğinde baskı kalıbı hazırlamada kaç yöntem kullanılır?**
     - A-) 1
     - **Cevap B-) 2**
     - C-) 3
     - D-) 4
     - E-) 5
-    <hr />
-1. <strong>Aşağıdaki baskıresim tekniklerinden hangisinde linolyum, baskı kalıbı olarak kullanılır?</strong>
-    - **Cevap A-) Y&uuml;ksek baskı**
+    ***
+1. **Aşağıdaki baskıresim tekniklerinden hangisinde linolyum, baskı kalıbı olarak kullanılır?**
+    - **Cevap A-) Yüksek baskı**
     - B-) İpek baskı
-    - C-) Grav&uuml;r baskı
+    - C-) Gravür baskı
     - D-) Litografi
     - E-) Mono baskı
-    <hr />
-1. <strong>Aşağıdaki baskı tekniklerinden hangisi, 1890 &lsquo;da Waltan Als Baden Belag tarafından İngiltere&rsquo;de bir baskı t&uuml;r&uuml; olarak uygulanmıştır?</strong>
+    ***
+1. **Aşağıdaki baskı tekniklerinden hangisi, 1890 ‘da Waltan Als Baden Belag tarafından İngiltere’de bir baskı türü olarak uygulanmıştır?**
     - A-) Taşbaskı
     - B-) İpek baskı
-    - C-) Grav&uuml;r baskı
-    - D-) Ağa&ccedil; baskı
+    - C-) Gravür baskı
+    - D-) Ağaç baskı
     - **Cevap E-) Linol baskı**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerinde, baskı kalıbı olarak kullanılan bir malzeme <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı tekniklerinde, baskı kalıbı olarak kullanılan bir malzeme değildir?**
     - **Cevap A-) İpek kalıp**
     - B-) Plastik
     - C-) Sunta
     - D-) Strafor
-    - E-) Al&ccedil;ı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerinde kullanılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Alçı
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı tekniklerinde kullanılan malzemelerden biri değildir?**
     - A-) Merdaneler
-    - B-) Oyma U&ccedil;ları
+    - B-) Oyma Uçları
     - C-) Baskı Presi
     - D-) İnceltici ve Temizleyiciler
     - **Cevap E-) Ragle**
-    <hr />
-1. <strong>Y&uuml;ksek baskı tekniklerinde ka&ccedil; t&uuml;r m&uuml;rekkep kullanılmaktadır?</strong>
+    ***
+1. **Yüksek baskı tekniklerinde kaç tür mürekkep kullanılmaktadır?**
     - A-) 1
     - **Cevap B-) 2**
     - C-) 3
     - D-) 4
     - E-) 5
-    <hr />
-1. I.&nbsp;1890&rsquo;da Waltan Als Baden Belag tarafından İngiltere&rsquo;de uygulanmaya başlanmıştır.<br />
-II. Sanat kurumlarında en &ccedil;ok tercih edilen y&uuml;ksek baskı tekniğidir.<br />
-III. Bu teknik&nbsp;Henri Matisse ve Pablo Picasso gibi d&ouml;nemin &uuml;nl&uuml; sanat&ccedil;ıları tarafından da kullanılmıştır.<br />
-<strong>Yukarıda bazı &ouml;zellikleri verilen baskı resim tekniği hangisidir?</strong>
+    ***
+1. I. 1890’da Waltan Als Baden Belag tarafından İngiltere’de uygulanmaya başlanmıştır.<br />II. Sanat kurumlarında en çok tercih edilen yüksek baskı tekniğidir.<br />III. Bu teknik Henri Matisse ve Pablo Picasso gibi dönemin ünlü sanatçıları tarafından da kullanılmıştır.<br />**Yukarıda bazı özellikleri verilen baskı resim tekniği hangisidir?**
     - A-) Taşbaskı
     - B-) Serigrafi Baskı
-    - C-) Grav&uuml;r Baskı
+    - C-) Gravür Baskı
     - **Cevap D-) Linol Baskı**
     - E-) Mono Baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi y&uuml;ksek baskı tekniklerinde, baskı kalıpları &uuml;zerine boya vermekte kullanılan &uuml;zeri kau&ccedil;ukla kaplı malzemedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi yüksek baskı tekniklerinde, baskı kalıpları üzerine boya vermekte kullanılan üzeri kauçukla kaplı malzemedir?**
     - A-) Baskı presi
     - **Cevap B-) Merdane**
-    - C-) Pres ke&ccedil;esi
-    - D-) Spat&uuml;l
+    - C-) Pres keçesi
+    - D-) Spatül
     - E-) Linolyum
-    <hr />
-1. <strong>Aşağıdaki y&uuml;ksek baskı kalıplarından hangisi lifli bir yapıya sahiptir?</strong>
+    ***
+1. **Aşağıdaki yüksek baskı kalıplarından hangisi lifli bir yapıya sahiptir?**
     - A-) Linol baskı kalıbı
-    - **Cevap B-) Ağa&ccedil; baskı kalıbı**
+    - **Cevap B-) Ağaç baskı kalıbı**
     - C-) Litografi baskı kalıbı
     - D-) Elek baskı kalıbı
-    - E-) Grav&uuml;r baskı kalıbı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ukur baskı tekniklerindendir?</strong>
-    - **Cevap A-) Grav&uuml;r**
+    - E-) Gravür baskı kalıbı
+    ***
+1. **Aşağıdakilerden hangisi çukur baskı tekniklerindendir?**
+    - **Cevap A-) Gravür**
     - B-) Linol baskı
-    - C-) Ağa&ccedil; baskı
+    - C-) Ağaç baskı
     - D-) Elek baskı
     - E-) Litografi
-    <hr />
-1. <strong>Aşağıdaki baskı tekniklerinden hangisi kullanılacak malzemenin &ccedil;eşitliliği ve kolay uygulanabilirliği nedeni ile sanat kurumlarında en &ccedil;ok tercih edilen y&uuml;ksek baskı tekniğidir?</strong>
+    ***
+1. **Aşağıdaki baskı tekniklerinden hangisi kullanılacak malzemenin çeşitliliği ve kolay uygulanabilirliği nedeni ile sanat kurumlarında en çok tercih edilen yüksek baskı tekniğidir?**
     - A-) Litografi
     - B-) Elek baskı
-    - C-) Ağa&ccedil; baskı
+    - C-) Ağaç baskı
     - D-) Mono baskı
     - **Cevap E-) Linol baskı**
-    <hr />
+    ***
 ## Unite 3
-1. <strong>Aşağıdakilerden hangisi &ccedil;ukur baskının tanımında <u>yer almaz</u>?</strong>
+1. **Aşağıdakilerden hangisi çukur baskının tanımında yer almaz?**
     - **Cevap A-) Ahşap gibi maddelerden yararlanılır.**
-    - B-) &Ccedil;ukur baskı, &ccedil;inko, bakır, sa&ccedil; gibi metal ve d&uuml;z y&uuml;zeyli metallerden yararlanılır.
+    - B-) Çukur baskı, çinko, bakır, saç gibi metal ve düz yüzeyli metallerden yararlanılır.
     - C-) Linol, serfloor gibi naylonumsu nesnelerden yararlanılır.
-    - D-) &Ccedil;ukur baskıda delici veya oyucu aletler kullanılır.
-    - E-) Grav&uuml;r k&acirc;ğıdından yararlanılır.
-    <hr />
-1. <strong>Silindir m&uuml;h&uuml;rlerle kil &uuml;zerine bilinen ilk baskı hangi d&ouml;neme aittir?</strong>
-    - A-) Mısırlılar d&ouml;nemine
-    - **Cevap B-) S&uuml;merler d&ouml;nemine**
-    - C-) Yunanlar d&ouml;nemine
-    - D-) Roma d&ouml;nemine
-    - E-) Osmanlı d&ouml;nemine
-    <hr />
-1. <strong>Metal &uuml;zerine yapılmış ilk &ccedil;ukur baskı &ccedil;alışması hangi y&uuml;zyıla aittir?</strong>
-    - A-) 13. y&uuml;zyıla
-    - B-) 14. y&uuml;zyıla
-    - **Cevap C-) 15. y&uuml;zyıla**
-    - D-) 16. y&uuml;zyıla
-    - E-) 17. y&uuml;zyıla
-    <hr />
-1. <strong>Metal oyma baskıları ile tanınan D&uuml;rer hangi &uuml;lke vatandaşıdır?</strong>
+    - D-) Çukur baskıda delici veya oyucu aletler kullanılır.
+    - E-) Gravür kâğıdından yararlanılır.
+    ***
+1. **Silindir mühürlerle kil üzerine bilinen ilk baskı hangi döneme aittir?**
+    - A-) Mısırlılar dönemine
+    - **Cevap B-) Sümerler dönemine**
+    - C-) Yunanlar dönemine
+    - D-) Roma dönemine
+    - E-) Osmanlı dönemine
+    ***
+1. **Metal üzerine yapılmış ilk çukur baskı çalışması hangi yüzyıla aittir?**
+    - A-) 13\. yüzyıla
+    - B-) 14\. yüzyıla
+    - **Cevap C-) 15\. yüzyıla**
+    - D-) 16\. yüzyıla
+    - E-) 17\. yüzyıla
+    ***
+1. **Metal oyma baskıları ile tanınan Dürer hangi ülke vatandaşıdır?**
     - A-) Fransa
     - B-) İtalya
     - C-) Hollanda
     - **Cevap D-) Almanya**
     - E-) İngiltere
-    <hr />
-1. <strong>Aquatinta Tekniği&#39;ni sanatta ilk kullanan sanat&ccedil;ı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Aquatinta Tekniği'ni sanatta ilk kullanan sanatçı aşağıdakilerden hangisidir?**
     - A-) Rembrant
     - B-) G. B. Piranesi
     - **Cevap C-) Francisco Goya**
-    - D-) Albert D&uuml;rer
+    - D-) Albert Dürer
     - E-) Gustave Dore
-    <hr />
-1. <strong>Stanley William Hayter&rsquo;in kurduğu at&ouml;lye aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Stanley William Hayter’in kurduğu atölye aşağıdakilerden hangisidir?**
     - A-) Bauhaus Okulu
-    - B-) At&ouml;lye 37
-    - C-) At&ouml;lye 27
-    - **Cevap D-) At&ouml;lye 17**
+    - B-) Atölye 37
+    - C-) Atölye 27
+    - **Cevap D-) Atölye 17**
     - E-) Der Blau Reiter
-    <hr />
-1. <strong>T&uuml;rkiye&rsquo;de &ccedil;ukur baskı ile ilgili ilk hangi okulda ders yapılmıştır?</strong>
-    - A-) Gazi Eğitim Enstit&uuml;s&uuml;&rsquo;nde
-    - B-) Devlet Tatbiki G&uuml;zel Sanatlar Okulu&rsquo;nda
-    - C-) Hacettepe &Uuml;niversitesi&rsquo;nde
-    - D-) Atat&uuml;rk &Uuml;niversitesi&rsquo;nde
-    - **Cevap E-) Sanayi Nefise Mektebi&rsquo;nde**
-    <hr />
-1. <strong>Kuru kazı tekniklerinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    ***
+1. **Türkiye’de çukur baskı ile ilgili ilk hangi okulda ders yapılmıştır?**
+    - A-) Gazi Eğitim Enstitüsü’nde
+    - B-) Devlet Tatbiki Güzel Sanatlar Okulu’nda
+    - C-) Hacettepe Üniversitesi’nde
+    - D-) Atatürk Üniversitesi’nde
+    - **Cevap E-) Sanayi Nefise Mektebi’nde**
+    ***
+1. **Kuru kazı tekniklerinde aşağıdakilerden hangisi yer almaz?**
     - **Cevap A-) Yumuşak vernik**
-    - B-) &Ccedil;elik kalem (burin) ile oyma
-    - C-) Sivri u&ccedil;, tığ kalemle oyma
+    - B-) Çelik kalem (burin) ile oyma
+    - C-) Sivri uç, tığ kalemle oyma
     - D-) Mezotint, dişli kalem (siyah tarz) ile oyma
     - E-) Kalburlama, noktalama (crible) ile oyma
-    <hr />
-1. <strong>Asitleme tekniklerinde aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
-    - A-) Aquatinta (tozlama, re&ccedil;ine)
-    - B-) Şekerli &ccedil;ini
-    - **Cevap C-) &Ccedil;elik kalem (burin) ile oyma**
+    ***
+1. **Asitleme tekniklerinde aşağıdakilerden hangisi yer almaz?**
+    - A-) Aquatinta (tozlama, reçine)
+    - B-) Şekerli çini
+    - **Cevap C-) Çelik kalem (burin) ile oyma**
     - D-) Yumuşak vernik
-    - E-) Viskozite (tek kalıplı renkli &ccedil;ukur baskı)
-    <hr />
-1. <strong>T&uuml;l, t&uuml;y, yaprak, ip, kumaş ve zımpara gibi malzemeler aşağıdaki tekniklerden hangisinde kullanılır?</strong>
-    - A-) &Ccedil;elik kalem (burin) ile oyma
+    - E-) Viskozite (tek kalıplı renkli çukur baskı)
+    ***
+1. **Tül, tüy, yaprak, ip, kumaş ve zımpara gibi malzemeler aşağıdaki tekniklerden hangisinde kullanılır?**
+    - A-) Çelik kalem (burin) ile oyma
     - B-) Yumuşak vernik
-    - C-) Şekerli &ccedil;ini
-    - **Cevap D-) Doku aktararak &ccedil;ukur baskı**
-    - E-) Aquatinta (tozlama, re&ccedil;ine)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;ukur baskı tanımının &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) &Ccedil;ukur baskıda &ccedil;inko, bakır gibi metallerden yararlanılır.
-    - B-) &Ccedil;ukur baskıda pleksiglas, CD gibi malzemelerden yararlanılır.
-    - C-) &Ccedil;ukur baskıda nemli grav&uuml;r kağıdı kullanılır.
-    - D-) &Ccedil;ukur baskıda &ccedil;ukurlara boya verilir.
-    - **Cevap E-) &Ccedil;ukur baskı elle basılır.**
-    <hr />
-1. <strong>Beşik gibi şekli ve &ccedil;ok sayıda sivri ucu ile &ccedil;ukur baskı yapılan Mezotinta Tekniği ilk hangi sanat&ccedil;ı tarafından uygulanmıştır?</strong>
+    - C-) Şekerli çini
+    - **Cevap D-) Doku aktararak çukur baskı**
+    - E-) Aquatinta (tozlama, reçine)
+    ***
+1. **Aşağıdakilerden hangisi çukur baskı tanımının özelliklerinden biri değildir?**
+    - A-) Çukur baskıda çinko, bakır gibi metallerden yararlanılır.
+    - B-) Çukur baskıda pleksiglas, CD gibi malzemelerden yararlanılır.
+    - C-) Çukur baskıda nemli gravür kağıdı kullanılır.
+    - D-) Çukur baskıda çukurlara boya verilir.
+    - **Cevap E-) Çukur baskı elle basılır.**
+    ***
+1. **Beşik gibi şekli ve çok sayıda sivri ucu ile çukur baskı yapılan Mezotinta Tekniği ilk hangi sanatçı tarafından uygulanmıştır?**
     - A-) Prince Rupert
     - **Cevap B-) Ludwig von Siegen**
     - C-) Rembrandt
     - D-) Hercules Segers
     - E-) Francisco Goya
-    <hr />
-1. <strong>Caprishos (Kaprisler) adlı aquatinta tekniği ile yapılan &ccedil;ukur baskılar aşağıdaki sanat&ccedil;ılardan hangisine aittir?</strong>
+    ***
+1. **Caprishos (Kaprisler) adlı aquatinta tekniği ile yapılan çukur baskılar aşağıdaki sanatçılardan hangisine aittir?**
     - A-) Giovanni-Battista Piranesi
     - B-) Gustave Dore
     - C-) Jacques Villon
     - D-) Ludwig von Siegen
     - **Cevap E-) Francisco Goya**
-    <hr />
-1. <strong>İMOGA (İstanbul Grafik Sanatlar M&uuml;zesi) hangi sanat&ccedil;ı tarafından kurulmuştur?</strong>
-    - **Cevap A-) S&uuml;leyman Saim Tekcan**
+    ***
+1. **İMOGA (İstanbul Grafik Sanatlar Müzesi) hangi sanatçı tarafından kurulmuştur?**
+    - **Cevap A-) Süleyman Saim Tekcan**
     - B-) Devrim Erbil
-    - C-) G&uuml;nd&uuml;z G&ouml;l&ouml;n&uuml;
+    - C-) Gündüz Gölönü
     - D-) Asım İşler
     - E-) Hayati Misman
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kuru kazı tekniklerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kuru kazı tekniklerinden biri değildir?**
     - A-) Elektrikli motorlu aletlerle oyma
     - B-) Kalburlama, noktalama (crible) ile oyma
     - C-) Mezotint dişli kalem (siyah tarz) ile oyma
-    - **Cevap D-) Aquatinta (tozlama, re&ccedil;ine)**
-    - E-) Sivri u&ccedil; tığ kalem ile oyma
-    <hr />
-1. <strong>Kalburlama tekniğinde aşağıdakilerden hangisi yapılır?</strong>
-    - A-) B&uuml;rin ile levhanın &uuml;zerinde &ccedil;izgiler a&ccedil;ılır.
-    - B-) Levha asitte iken &uuml;zerine sert bir fır&ccedil;a s&uuml;r&uuml;l&uuml;r.
-    - C-) Levha re&ccedil;ine dolabına koyulur.
-    - **Cevap D-) Biz veya &ccedil;ivi gibi malzemelere &ccedil;eki&ccedil;le vurularak &ccedil;ukurlar a&ccedil;ılır.**
-    - E-) Levhanın &uuml;zerindeki re&ccedil;ineler ispirto alevi ile eritilir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi asitli oyma tekniği <u>değildir</u>?</strong>
+    - **Cevap D-) Aquatinta (tozlama, reçine)**
+    - E-) Sivri uç tığ kalem ile oyma
+    ***
+1. **Kalburlama tekniğinde aşağıdakilerden hangisi yapılır?**
+    - A-) Bürin ile levhanın üzerinde çizgiler açılır.
+    - B-) Levha asitte iken üzerine sert bir fırça sürülür.
+    - C-) Levha reçine dolabına koyulur.
+    - **Cevap D-) Biz veya çivi gibi malzemelere çekiçle vurularak çukurlar açılır.**
+    - E-) Levhanın üzerindeki reçineler ispirto alevi ile eritilir.
+    ***
+1. **Aşağıdakilerden hangisi asitli oyma tekniği değildir?**
     - **Cevap A-) Kalburlama, noktalama (crible) ile oyma**
     - B-) Aquatintalı mezotinta tekniği ile oyma
     - C-) Derin oyma
-    - D-) Aquatinta (tozlama, re&ccedil;ine)
-    - E-) Viskozite (tek plakalı renkli &ccedil;ukur baskı)
-    <hr />
+    - D-) Aquatinta (tozlama, reçine)
+    - E-) Viskozite (tek plakalı renkli çukur baskı)
+    ***
 ## Unite 4
-1. <strong>Aşağıdakilerden hangisi Serigrafi Baskı i&ccedil;in kullanılan bir isim <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi Serigrafi Baskı için kullanılan bir isim değildir?**
     - A-) Elek baskı
     - B-) İpek baskı
     - C-) Delikli baskı
     - D-) Şablon baskı
     - **Cevap E-) Pad baskı**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi serigrafi baskıda kullanılan bir malzemedir?</strong>
-    - A-) Ke&ccedil;e
+    ***
+1. **Aşağıdakilerden hangisi serigrafi baskıda kullanılan bir malzemedir?**
+    - A-) Keçe
     - B-) Fotoğraf
-    - **Cevap C-) Em&uuml;lsiyon**
+    - **Cevap C-) Emülsiyon**
     - D-) Pres
     - E-) Tekne
-    <hr />
-1. <strong>Serigrafi baskı tekniğinin kullanıldığı sekt&ouml;r hangisidir?</strong>
+    ***
+1. **Serigrafi baskı tekniğinin kullanıldığı sektör hangisidir?**
     - A-) Kalıp sanayii
     - **Cevap B-) Seramik sanayii**
     - C-) Ayakkabı sanayii
     - D-) Plastik sanayii
-    - E-) Geri d&ouml;n&uuml;ş&uuml;m sekt&ouml;r&uuml;
-    <hr />
-1. <strong>Aşağıdakilerden hangisi serigrafide kullanılan bir dokuma t&uuml;r&uuml; <u>değildir</u>?</strong>
+    - E-) Geri dönüşüm sektörü
+    ***
+1. **Aşağıdakilerden hangisi serigrafide kullanılan bir dokuma türü değildir?**
     - A-) Polyester
     - B-) Doğal ipek
     - C-) Sentetik
     - **Cevap D-) Pamuk**
-    - E-) &Ccedil;elik
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir serigrafi baskı makinesidir?</strong>
+    - E-) Çelik
+    ***
+1. **Aşağıdakilerden hangisi bir serigrafi baskı makinesidir?**
     - A-) Pedal makina
     - B-) Rotatif
     - C-) Silindir kazanlı
-    - **Cevap D-) Silindirik y&uuml;zey baskı makinası**
+    - **Cevap D-) Silindirik yüzey baskı makinası**
     - E-) Kasalı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir rakle profili &ccedil;eşidi <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir rakle profili çeşidi değildir?**
     - A-) Kenarları yumuşatılmış profil
-    - **Cevap B-) Bir kenarı i&ccedil;e doğru kavisli profil**
+    - **Cevap B-) Bir kenarı içe doğru kavisli profil**
     - C-) V tipi profil
-    - D-) Her iki kenarı dik a&ccedil;ılı profil
+    - D-) Her iki kenarı dik açılı profil
     - E-) Tam yuvarlak profil
-    <hr />
-1. <strong>Elek tekrar kullanılmak istenirse y&uuml;zeyindeki em&uuml;lsiyon hangi malzeme ile temizlenir?</strong>
-    - **Cevap A-) &Ccedil;amaşır suyu**
+    ***
+1. **Elek tekrar kullanılmak istenirse yüzeyindeki emülsiyon hangi malzeme ile temizlenir?**
+    - **Cevap A-) Çamaşır suyu**
     - B-) Yumuşak bez
     - C-) Sentetik tiner
     - D-) Geciktirici tiner
     - E-) Hızlandırıcı tiner
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir kurutma elemanıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir kurutma elemanıdır?**
     - A-) Askı
     - B-) Kurutma dolabı
     - **Cevap C-) Kurutma rafı**
-    - D-) Kurutma &ccedil;ekmecesi
+    - D-) Kurutma çekmecesi
     - E-) Kurutma masası
-    <hr />
-1. <strong>Serigrafi eleği temizlenirken &uuml;zerindeki su bazlı boyaların temizlenmesinde aşağıdaki hangi kimyasal madde kullanılır?</strong>
+    ***
+1. **Serigrafi eleği temizlenirken üzerindeki su bazlı boyaların temizlenmesinde aşağıdaki hangi kimyasal madde kullanılır?**
     - **Cevap A-) Su**
     - B-) Geciktirici tiner
     - C-) Gaz yağı
     - D-) Hızlandırıcı tiner
-    - E-) Sel&uuml;lozik tiner
-    <hr />
-1. <strong>Aşağıdakilerden hangisi serigrafi baskıda kullanılan bir kimyasal madde <u>değildir</u>?</strong>
-    - A-) Sel&uuml;lozik tiner
+    - E-) Selülozik tiner
+    ***
+1. **Aşağıdakilerden hangisi serigrafi baskıda kullanılan bir kimyasal madde değildir?**
+    - A-) Selülozik tiner
     - B-) Pat boya
     - C-) Akrilik boya
     - D-) Sentetik tiner
     - **Cevap E-) Metal gaze**
-    <hr />
-1. <strong>Serigrafi baskı i&ccedil;in kullanılan isim aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Serigrafi baskı için kullanılan isim aşağıdakilerden hangisidir?**
     - A-) Linol Baskı
     - **Cevap B-) Elek Baskı**
     - C-) Litografi
-    - D-) Grav&uuml;r
+    - D-) Gravür
     - E-) Pad Baskı
-    <hr />
-1. <strong>Aşağıdaki ara&ccedil; gere&ccedil;lerden hangisi serigrafi baskıda <u>kullanılmaz</u>?</strong>
-    - A-) &Ccedil;er&ccedil;eve
+    ***
+1. **Aşağıdaki araç gereçlerden hangisi serigrafi baskıda kullanılmaz?**
+    - A-) Çerçeve
     - B-) İpek
     - C-) Rakle
     - **Cevap D-) Pres**
-    - E-) Em&uuml;lsiyon
-    <hr />
-1. <strong>Aşağıda rakle i&ccedil;in kullanılan ifadelerden hangisi doğrudur?</strong>
-    - A-) Serigrafi m&uuml;rekkebini kutusundan &ccedil;ıkarmak i&ccedil;in kullanılır.
+    - E-) Emülsiyon
+    ***
+1. **Aşağıda rakle için kullanılan ifadelerden hangisi doğrudur?**
+    - A-) Serigrafi mürekkebini kutusundan çıkarmak için kullanılır.
     - B-) Rakle lastikleri sert plastikten yapılıdır.
     - C-) Rakleler baskı aşamasında dik tutularak kullanılır.
-    - **Cevap D-) Tekstil &uuml;r&uuml;nlerinde yuvarlak u&ccedil;lu rakle tercih edilir.**
-    - E-) Bir kenarı dik profil cam ve seramik y&uuml;zeylerde kullanılmaz.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi serigrafi baskı makinesi <u>değildir</u>?</strong>
+    - **Cevap D-) Tekstil ürünlerinde yuvarlak uçlu rakle tercih edilir.**
+    - E-) Bir kenarı dik profil cam ve seramik yüzeylerde kullanılmaz.
+    ***
+1. **Aşağıdakilerden hangisi serigrafi baskı makinesi değildir?**
     - A-) Otomatik serigrafi baskı makinası
-    - B-) Yarı otomatik serigrafi tezg&acirc;hı
-    - **Cevap C-) &Ccedil;evirmeli serigrafi baskı makinası**
-    - D-) Silindirik y&uuml;zey baskı makinası
-    - E-) Manuel serigrafi baskı tezg&acirc;hı
-    <hr />
-1. <strong>İpek gerilmiş &ccedil;er&ccedil;eveye em&uuml;lsiyon uygulama işleminde at&ouml;lyede ortam nasıl olmalıdır?</strong>
-    - A-) İşlemin yapılacağın ortamın a&ccedil;ık alanda olması
-    - **Cevap B-) Direkt ışık almayan karartılmış bir mek&acirc;n olması**
-    - C-) Direkt ışık alan bir mek&acirc;n olması
+    - B-) Yarı otomatik serigrafi tezgâhı
+    - **Cevap C-) Çevirmeli serigrafi baskı makinası**
+    - D-) Silindirik yüzey baskı makinası
+    - E-) Manuel serigrafi baskı tezgâhı
+    ***
+1. **İpek gerilmiş çerçeveye emülsiyon uygulama işleminde atölyede ortam nasıl olmalıdır?**
+    - A-) İşlemin yapılacağın ortamın açık alanda olması
+    - **Cevap B-) Direkt ışık almayan karartılmış bir mekân olması**
+    - C-) Direkt ışık alan bir mekân olması
     - D-) Yandan ışık alan bir yer olması
     - E-) Doğal ışık alan bir ortam olması
-    <hr />
-1. <strong>Serigrafi eleği temizlenirken &uuml;zerindeki sel&uuml;lozik boyaların temizlenmesinde aşağıdaki hangi kimyasal madde kullanılır?</strong>
+    ***
+1. **Serigrafi eleği temizlenirken üzerindeki selülozik boyaların temizlenmesinde aşağıdaki hangi kimyasal madde kullanılır?**
     - A-) Su
     - B-) Geciktirici tiner
     - C-) Sentetik tiner
     - D-) Hızlandırıcı tiner
-    - **Cevap E-) Sel&uuml;lozik tiner**
-    <hr />
-1. <strong>Aşağıdaki malzemelerden hangisi gaze / ipek &uuml;retiminde <u>kullanılmaz</u>?</strong>
+    - **Cevap E-) Selülozik tiner**
+    ***
+1. **Aşağıdaki malzemelerden hangisi gaze / ipek üretiminde kullanılmaz?**
     - A-) Polyaster
     - B-) Organik ipek
     - **Cevap C-) Pamuk**
     - D-) Polyamid
     - E-) Metal
-    <hr />
+    ***
 ## Unite 5
-1. <strong>Johannes Gutenberg&rsquo;in 1440&rsquo;lı yıllarda geliştirdiği baskı sisteminin adı nedir?</strong>
+1. **Johannes Gutenberg’in 1440’lı yıllarda geliştirdiği baskı sisteminin adı nedir?**
     - **Cevap A-) Tipo baskı**
     - B-) Ofset baskı
     - C-) Serigrafi baskı
     - D-) Tifdruk baskı
     - E-) Dijital baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi basmayan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi basmayan malzemelerden biri değildir?**
     - A-) Esbaslar
     - **Cevap B-) Hurufatlar**
-    - C-) Garnit&uuml;rler
+    - C-) Garnitürler
     - D-) Anterlinler
     - E-) Kadratlar
-    <hr />
-1. <strong>Dizilen satırların birbirine karışmamasını sağlayan ve satır aralarını a&ccedil;mak i&ccedil;in konulan, basmayan malzemenin adı nedir?</strong>
+    ***
+1. **Dizilen satırların birbirine karışmamasını sağlayan ve satır aralarını açmak için konulan, basmayan malzemenin adı nedir?**
     - A-) Esbas
     - B-) Kadrat
     - **Cevap C-) Anterlin**
     - D-) Vizo
-    - E-) Garnit&uuml;r
-    <hr />
-1. <strong>Kartvizit, davetiye, mektup zarfı, yarım başlıklı k&acirc;ğıt gibi baskılar yapılabilen ve pres g&uuml;c&uuml; d&uuml;ş&uuml;k olan baskı makinesi aşağıdakilerden hangisidir?</strong>
+    - E-) Garnitür
+    ***
+1. **Kartvizit, davetiye, mektup zarfı, yarım başlıklı kâğıt gibi baskılar yapılabilen ve pres gücü düşük olan baskı makinesi aşağıdakilerden hangisidir?**
     - A-) Sallama pedallılar
     - B-) Kazanlı makineler
-    - C-) El tezg&acirc;hları
+    - C-) El tezgâhları
     - **Cevap D-) El pedallar**
     - E-) Maşalı makineler
-    <hr />
-1. <strong>&Ccedil;ok y&uuml;ksek hızda ve s&uuml;rekli baskı yapmaya uygun, baskı kazanı ve kalıp kazanı silindirik olan tipo baskı makinesi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Çok yüksek hızda ve sürekli baskı yapmaya uygun, baskı kazanı ve kalıp kazanı silindirik olan tipo baskı makinesi aşağıdakilerden hangisidir?**
     - A-) Kazanlı tipolar
     - B-) Maşalı tipolar
     - C-) Sallama pedallılar
-    - D-) El baskı tezg&acirc;hları
+    - D-) El baskı tezgâhları
     - **Cevap E-) Rotatif tipolar**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tipo baskı sisteminin avantajlarından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi tipo baskı sisteminin avantajlarından biri değildir?**
     - **Cevap A-) Kalıpların kurşun ağırlıklı olması**
     - B-) Hurufat ve klişelerle kalıbın hızlı yapılıyor olması
     - C-) Baskı maliyetinin ucuz olması
-    - D-) Son anda kalıpta d&uuml;zeltme imk&acirc;nı
-    - E-) Baskıda &ccedil;ok y&ouml;nl&uuml;l&uuml;k
-    <hr />
-1. <strong>Tipo baskı sistemiyle g&uuml;n&uuml;m&uuml;zde trigromi baskılar yapılmamasının en b&uuml;y&uuml;k nedeni aşağıdakilerden hangisidir?</strong>
+    - D-) Son anda kalıpta düzeltme imkânı
+    - E-) Baskıda çok yönlülük
+    ***
+1. **Tipo baskı sistemiyle günümüzde trigromi baskılar yapılmamasının en büyük nedeni aşağıdakilerden hangisidir?**
     - A-) Kalıp hazırlığının uzun zaman alması
     - **Cevap B-) Baskıların kalitesiz olması**
-    - C-) Maliyetinin y&uuml;ksek olması
+    - C-) Maliyetinin yüksek olması
     - D-) Kalıplarının ağır olması
-    - E-) Makinelerin baskı hızlarının d&uuml;ş&uuml;k olması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi keski baskı ile <u>yapılamaz</u>?</strong>
-    - A-) Separat&ouml;r (ayırıcı)
+    - E-) Makinelerin baskı hızlarının düşük olması
+    ***
+1. **Aşağıdakilerden hangisi keski baskı ile yapılamaz?**
+    - A-) Separatör (ayırıcı)
     - B-) Etiket
     - **Cevap C-) Kitap**
     - D-) Karton kutu
     - E-) Conta
-    <hr />
-1. <strong>Kartonların kolay ve d&uuml;zg&uuml;n katlanması i&ccedil;in &ouml;zel bir bı&ccedil;akla iz a&ccedil;ma işlemine ne ad verilir?</strong>
+    ***
+1. **Kartonların kolay ve düzgün katlanması için özel bir bıçakla iz açma işlemine ne ad verilir?**
     - A-) Kırma
-    - B-) &Ccedil;izme
+    - B-) Çizme
     - C-) Gofraj
     - **Cevap D-) Pilyaj**
     - E-) Perforaj
-    <hr />
-1. <strong>K&acirc;ğıda basılması gereken b&uuml;t&uuml;n g&ouml;rsel unsurları, baskı kalıbında basmayan b&ouml;l&uuml;mlere g&ouml;re daha y&uuml;ksek olan&nbsp;baskı sistemi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Kâğıda basılması gereken bütün görsel unsurları, baskı kalıbında basmayan bölümlere göre daha yüksek olan baskı sistemi aşağıdakilerden hangisidir?**
     - **Cevap A-) Tipo Baskı**
     - B-) Tabaka Ofset Baskı
     - C-) Web Ofset Baskı
     - D-) Serigrafi Baskı
     - E-) Dijital Baskı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 1970&#39;li yıllardan &ouml;nce kitap, dergi, gazete gibi işlerin basımında yaygın olarak kullanılan tipo baskının, g&uuml;n&uuml;m&uuml;zde yerini ofset baskıya bırakmasının nedenlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi 1970'li yıllardan önce kitap, dergi, gazete gibi işlerin basımında yaygın olarak kullanılan tipo baskının, günümüzde yerini ofset baskıya bırakmasının nedenlerinden biri değildir?**
     - A-) Ofset baskının kaliteli olması
-    - B-) Ofset baskının s&uuml;resinin hızlı olması
-    - **Cevap C-) Ofset baskıda yağ bazlı m&uuml;rekkep kullanılması**
-    - D-) Ofset baskının maliyetinin d&uuml;ş&uuml;k olması
-    - E-) Ofset baskıda baskı &ouml;ncesinin bilgisayarda yapılıyor olması
-    <hr />
-1. <strong>Tipo baskı sisteminde, hurufat kasasından kumpasa dizgi yapan elemana ne ad verilir?</strong>
+    - B-) Ofset baskının süresinin hızlı olması
+    - **Cevap C-) Ofset baskıda yağ bazlı mürekkep kullanılması**
+    - D-) Ofset baskının maliyetinin düşük olması
+    - E-) Ofset baskıda baskı öncesinin bilgisayarda yapılıyor olması
+    ***
+1. **Tipo baskı sisteminde, hurufat kasasından kumpasa dizgi yapan elemana ne ad verilir?**
     - A-) Dizgici
     - B-) Linotipci
-    - C-) Operat&ouml;r
-    - **Cevap D-) M&uuml;rettip**
+    - C-) Operatör
+    - **Cevap D-) Mürettip**
     - E-) Daktilocu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi k&acirc;ğıt ve kartonlara, baskılı-baskısız yapılan kabartmalardır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kâğıt ve kartonlara, baskılı-baskısız yapılan kabartmalardır?**
     - **Cevap A-) Gofre baskı**
     - B-) Varak baskı
-    - C-) &Ouml;zel baskı
+    - C-) Özel baskı
     - D-) Yaldız baskı
     - E-) Soğuk baskı
-    <hr />
-1. <strong>K&acirc;ğıt ve kartonlara, baskılı baskısız yapılan kabartmalara ne ad verilir?</strong>
+    ***
+1. **Kâğıt ve kartonlara, baskılı baskısız yapılan kabartmalara ne ad verilir?**
     - **Cevap A-) Gofre baskı**
     - B-) Varak baskı
-    - C-) &Ouml;zel baskı
+    - C-) Özel baskı
     - D-) Yaldız baskı
     - E-) Soğuk baskı
-    <hr />
-1. <strong>Tipoda keski ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    ***
+1. **Tipoda keski ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Tipoda kesim işleminden sonra ayıklama elle yapılır.
-    - **Cevap B-) Kesim kalıbının &uuml;zerinde sadece kesim i&ccedil;in bı&ccedil;ak bulunur.**
+    - **Cevap B-) Kesim kalıbının üzerinde sadece kesim için bıçak bulunur.**
     - C-) Karton ambalajlar ofsette basıldıktan sonra, tipoda kesimi yapılır.
-    - D-) Keski baskı kalıpları i&ccedil;in katmanlı suntalar kullanılır.
+    - D-) Keski baskı kalıpları için katmanlı suntalar kullanılır.
     - E-) Keski işlemi kazanlı ve maşalı makinelerde yapılır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yaldız &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi yaldız çeşitlerinden biri değildir?**
     - A-) Pigment yaldızlar
     - B-) Metalik yaldızlar
     - C-) Desenli yaldızlar
     - **Cevap D-) Sıcak yaldızlar**
     - E-) Hologram yaldızlar
-    <hr />
+    ***
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisi tabaka ofsetin &uuml;nitelerinden biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi tabaka ofsetin ünitelerinden biri değildir?**
     - **Cevap A-) Bobin standı**
-    - B-) M&uuml;rekkep &uuml;nitesi
+    - B-) Mürekkep ünitesi
     - C-) Poza tertibatı
-    - D-) K&acirc;ğıt verici asans&ouml;r
+    - D-) Kâğıt verici asansör
     - E-) Hazne suyu sistemi
-    <hr />
-1. <strong>Baskıya giren k&acirc;ğıtların yana doğru &ccedil;ekilerek, yan d&uuml;zg&uuml;nl&uuml;ğ&uuml;n&uuml; sağlayan aparata ne ad verilir?</strong>
+    ***
+1. **Baskıya giren kâğıtların yana doğru çekilerek, yan düzgünlüğünü sağlayan aparata ne ad verilir?**
     - A-) Emniyet tertibatı
     - **Cevap B-) Poza tertibatı**
-    - C-) K&acirc;ğıt d&uuml;zeltme tertibatı
+    - C-) Kâğıt düzeltme tertibatı
     - D-) Aparat tablası
-    - E-) Salınga&ccedil; makası
-    <hr />
-1. <strong>Aşağıdakilerden hangisi web ofsetin &uuml;nitelerinden biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Salıngaç makası
+    ***
+1. **Aşağıdakilerden hangisi web ofsetin ünitelerinden biri değildir?**
     - A-) Bobin standı
-    - B-) Baskı &uuml;nitesi
-    - **Cevap C-) K&acirc;ğıt istif asans&ouml;r&uuml;**
-    - D-) Kurutma &uuml;nitesi
-    - E-) Katlama ve kesim &uuml;nitesi
-    <hr />
-1. <strong>G&uuml;n ışığında &ccedil;alışılabilen, g&uuml;m&uuml;ş halojen&uuml;r em&uuml;lsiyonlu, bilgisayardan kalıba sistemiyle pozlanan kalıp t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    - B-) Baskı ünitesi
+    - **Cevap C-) Kâğıt istif asansörü**
+    - D-) Kurutma ünitesi
+    - E-) Katlama ve kesim ünitesi
+    ***
+1. **Gün ışığında çalışılabilen, gümüş halojenür emülsiyonlu, bilgisayardan kalıba sistemiyle pozlanan kalıp türü aşağıdakilerden hangisidir?**
     - A-) Ozasol kalıplar
     - B-) Termal kalıplar
     - C-) Tif kalıplar
     - **Cevap D-) Violet kalıplar**
-    - E-) &Ccedil;ok metalli kalıplar
-    <hr />
-1. <strong>Kalıp plakalarına, mekanik ve kimyasal etkilere karşı diren&ccedil; kazandırmak i&ccedil;in yapılan işlemin adı nedir?</strong>
-    - A-) Elektroliz y&ouml;ntemle gren işlemi
-    - B-) Mekanik y&ouml;ntemle matlaştırma işlemi
-    - C-) Em&uuml;lsiyon s&uuml;rerek plakayı ışığa karşı duyarlı yapma
+    - E-) Çok metalli kalıplar
+    ***
+1. **Kalıp plakalarına, mekanik ve kimyasal etkilere karşı direnç kazandırmak için yapılan işlemin adı nedir?**
+    - A-) Elektroliz yöntemle gren işlemi
+    - B-) Mekanik yöntemle matlaştırma işlemi
+    - C-) Emülsiyon sürerek plakayı ışığa karşı duyarlı yapma
     - D-) Plakayı alkali banyoda temizleme işlemi
     - **Cevap E-) Anodlama işlemi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi hazne sularına ilave edilen katkı maddelerinin ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) Az su harcaması yaparak su giderini d&uuml;ş&uuml;rme**
-    - B-) Suyun y&uuml;zey gerilimini d&uuml;ş&uuml;rme
-    - C-) Hazne suyunun &ccedil;amurlaşmasını &ouml;nleme
+    ***
+1. **Aşağıdakilerden hangisi hazne sularına ilave edilen katkı maddelerinin amaçlarından biri değildir?**
+    - **Cevap A-) Az su harcaması yaparak su giderini düşürme**
+    - B-) Suyun yüzey gerilimini düşürme
+    - C-) Hazne suyunun çamurlaşmasını önleme
     - D-) Baskı kalıplarını paslanmaya karşı koruma
-    - E-) pH&rsquo;nı ayarlama
-    <hr />
-1. <strong>Konvansiyonel nemlendirme &uuml;nitesinde aldığı suyu, plaka nemlendirme merdanelerine veren merdane aşağıdakilerden hangisidir?</strong>
+    - E-) pH’nı ayarlama
+    ***
+1. **Konvansiyonel nemlendirme ünitesinde aldığı suyu, plaka nemlendirme merdanelerine veren merdane aşağıdakilerden hangisidir?**
     - A-) Taşıyıcı su merdanesi
     - **Cevap B-) Vargel merdanesi**
     - C-) Hazne merdanesi
     - D-) Kalıp nemlendirme merdanesi
-    - E-) &Ouml;l&ccedil;&uuml; merdanesi
-    <hr />
-1. <strong>Baskıda &ccedil;iftleme kayma, k&acirc;ğıdın a&ccedil;ması gibi baskı problemleri aşağıdaki kau&ccedil;uklardan hangisinde daha az olur?</strong>
-    - A-) Sert kau&ccedil;uklar
-    - B-) QR kau&ccedil;uklar
-    - **Cevap C-) Havalı kau&ccedil;uklar**
-    - D-) S&uuml;rekli form kau&ccedil;ukları
-    - E-) K&uuml;&ccedil;&uuml;k ofset kau&ccedil;ukları
-    <hr />
-1. <strong>Ultraviyole ve enfraruj ışık enerjileri yardımıyla m&uuml;rekkebin baskı y&uuml;zeyinde kurumasına ne ad verilir?</strong>
+    - E-) Ölçü merdanesi
+    ***
+1. **Baskıda çiftleme kayma, kâğıdın açması gibi baskı problemleri aşağıdaki kauçuklardan hangisinde daha az olur?**
+    - A-) Sert kauçuklar
+    - B-) QR kauçuklar
+    - **Cevap C-) Havalı kauçuklar**
+    - D-) Sürekli form kauçukları
+    - E-) Küçük ofset kauçukları
+    ***
+1. **Ultraviyole ve enfraruj ışık enerjileri yardımıyla mürekkebin baskı yüzeyinde kurumasına ne ad verilir?**
     - A-) Evaporasyon kuruma
     - B-) Oksidasyon kuruma
     - C-) Kimyasal kuruma
     - **Cevap D-) Radyasyon kuruma**
     - E-) Penetrasyon kuruma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi, tabaka ofset m&uuml;rekkep &uuml;nitesinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi, tabaka ofset mürekkep ünitesinden biri değildir?**
     - A-) Vargel merdanesi
-    - B-) M&uuml;rekkep s&uuml;rme merdanesi
+    - B-) Mürekkep sürme merdanesi
     - C-) Alıcı-verici merdane
-    - D-) Kalıba m&uuml;rekkep veren merdaneler
+    - D-) Kalıba mürekkep veren merdaneler
     - **Cevap E-) Kalıp nemlendirme merdanesi**
-    <hr />
-1. <strong>Durgun h&acirc;ldeki m&uuml;rekkep katıdır ve kolay akmaz. Biraz karıştırınca akmaya başlar.&nbsp;M&uuml;rekkebin bu &ouml;zelliğine ne ad verilir?</strong>
+    ***
+1. **Durgun hâldeki mürekkep katıdır ve kolay akmaz. Biraz karıştırınca akmaya başlar. Mürekkebin bu özelliğine ne ad verilir?**
     - **Cevap A-) Tiksotropi**
     - B-) Tack
     - C-) Viskozite
     - D-) Kalınlık
     - E-) Akıcılık
-    <hr />
-1. <strong>M&uuml;rekkebi oluşturan&nbsp;</strong><strong>aşağıdaki&nbsp;</strong><strong>maddelerden hangisi m&uuml;rekkebin ışık haslığını belirler?</strong>
+    ***
+1. **Mürekkebi oluşturan** **aşağıdaki** **maddelerden hangisi mürekkebin ışık haslığını belirler?**
     - A-) Bağlayıcılar
     - B-) İncelticiler
     - **Cevap C-) Pigmentler**
     - D-) Kurumayı hızlandırıcılar
     - E-) Kurumayı geciktiriciler
-    <hr />
-1. <strong>M&uuml;rekkebin sıvı fazının baskı y&uuml;zeyi tarafından emilmesi yoluyla oluşan kuruma şekline ne denir?</strong>
+    ***
+1. **Mürekkebin sıvı fazının baskı yüzeyi tarafından emilmesi yoluyla oluşan kuruma şekline ne denir?**
     - A-) Buharlaşarak kuruma
     - B-) Radyasyon kuruma
     - C-) Oksidasyon kuruma
-    - **Cevap D-) N&uuml;fuz ederek kuruma**
+    - **Cevap D-) Nüfuz ederek kuruma**
     - E-) Kimyasal kuruma
-    <hr />
-1. <strong>Baskıda suyun azaldığı ve m&uuml;rekkebin ağır bastığı h&acirc;llerde aşağıdakilerden hangisi meydana gelir?</strong>
-    - A-) Baskılar yıkanmış gibi g&ouml;r&uuml;n&uuml;r.
+    ***
+1. **Baskıda suyun azaldığı ve mürekkebin ağır bastığı hâllerde aşağıdakilerden hangisi meydana gelir?**
+    - A-) Baskılar yıkanmış gibi görünür.
     - **Cevap B-) Tramlar dolar, işsiz alanlarda ton oluşur.**
-    - C-) K&acirc;ğıtlar kau&ccedil;uğa yapışır zor ayrılır.
-    - D-) Baskı makinesi sesli &ccedil;alışır.
-    - E-) Baskıda k&acirc;ğıtların etek kısmı deforme olur.
-    <hr />
-1. <strong>Aşağıdaki baskı sistemlerinin hangisinde baskıda kalıpla k&acirc;ğıt y&uuml;z y&uuml;ze <u>gelmez</u>?</strong>
+    - C-) Kâğıtlar kauçuğa yapışır zor ayrılır.
+    - D-) Baskı makinesi sesli çalışır.
+    - E-) Baskıda kâğıtların etek kısmı deforme olur.
+    ***
+1. **Aşağıdaki baskı sistemlerinin hangisinde baskıda kalıpla kâğıt yüz yüze gelmez?**
     - A-) Tipo baskı
     - B-) Serigrafi baskı
     - C-) Tifdruk baskı
     - D-) Flekso baskı
     - **Cevap E-) Ofset baskı**
-    <hr />
+    ***
 ## Unite 7
-1. <strong>Aşağıdakilerden hangisi tifdruk baskı tekniğinin T&uuml;rk&ccedil;e karşılığıdır?</strong>
-    - A-) Y&uuml;ksek Baskı
-    - B-) D&uuml;z Baskı
-    - **Cevap C-) &Ccedil;ukur Baskı**
+1. **Aşağıdakilerden hangisi tifdruk baskı tekniğinin Türkçe karşılığıdır?**
+    - A-) Yüksek Baskı
+    - B-) Düz Baskı
+    - **Cevap C-) Çukur Baskı**
     - D-) Sonsuz Baskı
     - E-) Derin Baskı
-    <hr />
-1. <strong>Grav&uuml;r silindir &uuml;retiminde kullanılan 3 adet y&ouml;ntem aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) İnce Tabaka &ndash; Ballardskin &ndash; Ağır Bakır Kaplama**
-    - B-) D&uuml;z Tabaka &ndash; Eğri Tabaka &ndash; Hafif Kaplama
-    - C-) &Ccedil;ukur Tabaka &ndash; Ballardskin &ndash; Kalın Tabaka
-    - D-) Sert Tabaka &ndash; İnce Tabaka &ndash; Ağır Bakır Kaplama
-    - E-) Ballardskin &ndash; Derin Tabaka &ndash; İnce Bakır Kaplama
-    <hr />
-1. <strong>Aşağıdakilerden hangisi grav&uuml;r silindiri hazırlamak i&ccedil;in işlem aşamalarından biri <u>değildir</u>?</strong>
-    - A-) Krom tabakanın &ccedil;ıkarılması
+    ***
+1. **Gravür silindir üretiminde kullanılan 3 adet yöntem aşağıdakilerden hangisidir?**
+    - **Cevap A-) İnce Tabaka – Ballardskin – Ağır Bakır Kaplama**
+    - B-) Düz Tabaka – Eğri Tabaka – Hafif Kaplama
+    - C-) Çukur Tabaka – Ballardskin – Kalın Tabaka
+    - D-) Sert Tabaka – İnce Tabaka – Ağır Bakır Kaplama
+    - E-) Ballardskin – Derin Tabaka – İnce Bakır Kaplama
+    ***
+1. **Aşağıdakilerden hangisi gravür silindiri hazırlamak için işlem aşamalarından biri değildir?**
+    - A-) Krom tabakanın çıkarılması
     - B-) Elektro kaplama
     - C-) Test baskısı
     - D-) Krom kaplama
-    - **Cevap E-) &Ccedil;elik kaplama**
-    <hr />
-1. <strong>Elektromekanik grav&uuml;r kazıma makinelerinin kafası kazıma işlemi sırasında u&ccedil; olarak aşağıdakilerden hangisini kullanır?</strong>
-    - A-) G&uuml;m&uuml;ş
+    - **Cevap E-) Çelik kaplama**
+    ***
+1. **Elektromekanik gravür kazıma makinelerinin kafası kazıma işlemi sırasında uç olarak aşağıdakilerden hangisini kullanır?**
+    - A-) Gümüş
     - B-) Lazer
     - **Cevap C-) Elmas**
     - D-) İğne
     - E-) Altın
-    <hr />
-1. <strong>Tifdruk baskı tekniğinde grav&uuml;r b&ouml;l&uuml;m&uuml; silindir &uuml;retimi i&ccedil;in &ccedil;alışmaları hazırlarken aşağıdaki sıralamalardan hangisini <u>dikkate alınmaz</u>?</strong>
-    - A-) Bobin Eni &ndash; Fotosel &ouml;l&ccedil;&uuml;s&uuml;
+    ***
+1. **Tifdruk baskı tekniğinde gravür bölümü silindir üretimi için çalışmaları hazırlarken aşağıdaki sıralamalardan hangisini dikkate alınmaz?**
+    - A-) Bobin Eni – Fotosel ölçüsü
     - B-) Renk sıralaması
-    - C-) Kazıma a&ccedil;ıları
-    - D-) Renk Sıralamasına g&ouml;re kros yerleştirme
+    - C-) Kazıma açıları
+    - D-) Renk Sıralamasına göre kros yerleştirme
     - **Cevap E-) Elmas Kalitesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi baskı makineleri &uuml;zerindeki y&uuml;k&uuml; azaltmada kullanılır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi baskı makineleri üzerindeki yükü azaltmada kullanılır?**
     - A-) Tifdruk Baskı Makinesi
     - **Cevap B-) Prova Baskı Makinesi**
-    - C-) Dijital Renkli &Ccedil;ıkış Makinesi
+    - C-) Dijital Renkli Çıkış Makinesi
     - D-) Flekso Baskı Makinesi
-    - E-) Siyah-Beyaz &Ccedil;ıkış Makinesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tifdruk baskı makinelerinin normal olarak kullanılan genişlik &ouml;l&ccedil;&uuml;lerinin t&uuml;m&uuml;d&uuml;r?</strong>
-    - **Cevap A-) 110 &ndash; 120 &ndash; 140 &ndash; 160 cm**
-    - B-) 110 &ndash; 130 &ndash; 150 &ndash; 170 cm
-    - C-) 120 &ndash; 140 &ndash; 160&nbsp;&ndash; 180 cm
-    - D-) 130 &ndash; 140 &ndash; 150&nbsp;&ndash;190 cm
-    - E-) 120 &ndash; 150 &ndash; 170&nbsp;&ndash; 190 cm
-    <hr />
-1. Temel &ouml;zelliği m&uuml;rekkep tabakasının kalınlığının (miktarının) ayarlanmasına yardımcı olan merdanedir.<br />
-<strong>Yukarıda belirtilen tanıma g&ouml;re flekso baskı tekniğinin de kullanılan merdanenin adı nedir?</strong>
+    - E-) Siyah-Beyaz Çıkış Makinesi
+    ***
+1. **Aşağıdakilerden hangisi tifdruk baskı makinelerinin normal olarak kullanılan genişlik ölçülerinin tümüdür?**
+    - **Cevap A-) 110 – 120 – 140 – 160 cm**
+    - B-) 110 – 130 – 150 – 170 cm
+    - C-) 120 – 140 – 160 – 180 cm
+    - D-) 130 – 140 – 150 –190 cm
+    - E-) 120 – 150 – 170 – 190 cm
+    ***
+1. Temel özelliği mürekkep tabakasının kalınlığının (miktarının) ayarlanmasına yardımcı olan merdanedir.<br />**Yukarıda belirtilen tanıma göre flekso baskı tekniğinin de kullanılan merdanenin adı nedir?**
     - A-) Seramik Merdane
     - B-) Krom Merdane
     - **Cevap C-) Aniloks Merdane**
     - D-) Plastik Merdane
-    - E-) &Ccedil;elik Merdane
-    <hr />
-1. <strong>Aşağıdakilerden hangisi flekso baskıda kullanılan m&uuml;rekkeplerin &ouml;zelliklerinden biri <u>değildir</u>?</strong>
-    - A-) Vizkozitesi d&uuml;ş&uuml;k
-    - B-) Rotograv&uuml;r m&uuml;rekkepler
-    - C-) Solventlerden dolayı u&ccedil;ucu
-    - D-) &Ccedil;abuk kuruyan
+    - E-) Çelik Merdane
+    ***
+1. **Aşağıdakilerden hangisi flekso baskıda kullanılan mürekkeplerin özelliklerinden biri değildir?**
+    - A-) Vizkozitesi düşük
+    - B-) Rotogravür mürekkepler
+    - C-) Solventlerden dolayı uçucu
+    - D-) Çabuk kuruyan
     - **Cevap E-) Plastik boya**
-    <hr />
-1. I. Sırt pozlandırması<br />
-II. Negatif ile temas<br />
-III. &Ouml;n pozlandırma<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri flekso baskı klişesinin pozlandırılma aşamaları arasında yer alır?</strong>
+    ***
+1. I. Sırt pozlandırması<br />II. Negatif ile temas<br />III. Ön pozlandırma<br />**Yukarıdakilerden hangisi ya da hangileri flekso baskı klişesinin pozlandırılma aşamaları arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi esnek ambalaj baskı tekniklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi esnek ambalaj baskı tekniklerinden biri değildir?**
     - A-) Tifdruk Baskı
     - B-) Flekso Baskı
     - **Cevap C-) Dijital Baskı**
-    - D-) Grav&uuml;r Baskı
+    - D-) Gravür Baskı
     - E-) Flexible Ambalaj Baskı
-    <hr />
-1. <strong>Grav&uuml;r baskı yani tifdruk baskının en &ouml;nemli tercih nedeni aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Gravür baskı yani tifdruk baskının en önemli tercih nedeni aşağıdakilerden hangisidir?**
     - **Cevap A-) Uzun metrajlı baskı yapılabilmesi**
     - B-) Kısa metrajlı baskı yapılabilmesi
     - C-) Hızlı baskı yapılması
     - D-) Yavaş baskı yapılması
     - E-) İstenilen metraj baskısı
-    <hr />
-1. <strong>İlk olarak 15. y&uuml;zyılda Almanya&#39;da uygulanmaya başlanan ve &ouml;zellikle esnek (flexible) ambalaj sekt&ouml;r&uuml;nde aktif olarak kullanılan baskı t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İlk olarak 15. yüzyılda Almanya'da uygulanmaya başlanan ve özellikle esnek (flexible) ambalaj sektöründe aktif olarak kullanılan baskı türü aşağıdakilerden hangisidir?**
     - A-) Flekso Baskı
     - B-) Ofset Baskı
     - C-) Dijital Baskı
     - **Cevap D-) Tifdruk Baskı**
     - E-) Krom Baskı
-    <hr />
-1. <strong>Kazımalı silindir, bir taşlama ve temizleme işleminden sonra aşağıdakilerden hangisi ile kaplanır?</strong>
+    ***
+1. **Kazımalı silindir, bir taşlama ve temizleme işleminden sonra aşağıdakilerden hangisi ile kaplanır?**
     - A-) Bakır
-    - B-) &Ccedil;elik
+    - B-) Çelik
     - C-) Demir
     - D-) Nikel
     - **Cevap E-) Krom**
-    <hr />
-1. <strong>Flekso baskı klişesinin pozlandırma aşamalarının doğru sıralaması aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Sırt Pozlandırma - Negatif ile temas &ndash; &Ouml;n pozlandırma &ndash; Yıkama &ndash; Son Poz**
-    - B-) İlk Pozlandırma - Negatif ile temas &ndash; Orta pozlandırma &ndash; Son Poz
-    - C-) Sırt Pozlandırma - Pozitif ile temas &ndash; Pozlandırma &ndash; Yıkama
-    - D-) Dış Pozlandırma - Pozitif ile temas &ndash; İlk pozlandırma &ndash; Yıkama &ndash; Son Poz
-    - E-) Pozlandırma - Son pozlandırma &ndash; Yıkama &ndash; Son Poz
-    <hr />
-1. <strong>Flekso baskı tekniğinde alkol bazlı m&uuml;rekkep kullanılması durumunda viskozite değeri aşağıdaki hangi aralıklar arasında kullanılır?</strong>
-    - **Cevap A-) 14&rdquo;-18&rdquo;**
-    - B-) 20&rdquo;-22&rdquo;
-    - C-) 12&rdquo;-16&rdquo;
-    - D-) 15&rdquo;-17&rdquo;
-    - E-) 25&rdquo;-30&rdquo;
-    <hr />
+    ***
+1. **Flekso baskı klişesinin pozlandırma aşamalarının doğru sıralaması aşağıdakilerden hangisidir?**
+    - **Cevap A-) Sırt Pozlandırma - Negatif ile temas – Ön pozlandırma – Yıkama – Son Poz**
+    - B-) İlk Pozlandırma - Negatif ile temas – Orta pozlandırma – Son Poz
+    - C-) Sırt Pozlandırma - Pozitif ile temas – Pozlandırma – Yıkama
+    - D-) Dış Pozlandırma - Pozitif ile temas – İlk pozlandırma – Yıkama – Son Poz
+    - E-) Pozlandırma - Son pozlandırma – Yıkama – Son Poz
+    ***
+1. **Flekso baskı tekniğinde alkol bazlı mürekkep kullanılması durumunda viskozite değeri aşağıdaki hangi aralıklar arasında kullanılır?**
+    - **Cevap A-) 14”-18”**
+    - B-) 20”-22”
+    - C-) 12”-16”
+    - D-) 15”-17”
+    - E-) 25”-30”
+    ***
 ## Unite 8
-1. <strong>Esnek ambalaj baskı tekniğinde grafik tasarımcılar aşağıdaki programlardan hangisini <u>kullanmazlar</u>?</strong>
+1. **Esnek ambalaj baskı tekniğinde grafik tasarımcılar aşağıdaki programlardan hangisini kullanmazlar?**
     - A-) Adobe Illustrator
     - B-) Artpro
     - **Cevap C-) Indesign**
     - D-) Hybrid Packs
     - E-) Adobe Photoshop
-    <hr />
-1. <strong>Tasarıma başlamadan &ouml;nce mutlaka tasarımcının elinde olması gereken aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Yaka teknik &ccedil;izim planı**
-    - B-) Ambalajlama bi&ccedil;imi
+    ***
+1. **Tasarıma başlamadan önce mutlaka tasarımcının elinde olması gereken aşağıdakilerden hangisidir?**
+    - **Cevap A-) Yaka teknik çizim planı**
+    - B-) Ambalajlama biçimi
     - C-) Renk bilgisi
     - D-) Kullanacağı program bilgisi
     - E-) Renk tonlaması
-    <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden oturan ambalajların yatay veya dikey yapışma bi&ccedil;imi aşağıda hangi se&ccedil;enekte doğrudur?</strong>
+    ***
+1. **Ambalajlama biçimlerinden oturan ambalajların yatay veya dikey yapışma biçimi aşağıda hangi seçenekte doğrudur?**
     - A-) A/A
     - B-) A/B
     - C-) B/B
     - **Cevap D-) A/A veya A/B**
     - E-) B/A
-    <hr />
-1. I. Ofset<br />
-II. Flekso<br />
-III. Tifdruk<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri matbaacılıkta kullanılan baskı tekniklerindendir?</strong>
+    ***
+1. I. Ofset<br />II. Flekso<br />III. Tifdruk<br />**Yukarıdakilerden hangisi ya da hangileri matbaacılıkta kullanılan baskı tekniklerindendir?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Ambalajlama bi&ccedil;imlerinden doypack ambalaj diğer adı ile neler olarak adlandırılır?</strong>
+    ***
+1. **Ambalajlama biçimlerinden doypack ambalaj diğer adı ile neler olarak adlandırılır?**
     - A-) Basit Poşet - Kilitsiz
     - B-) Oturan Ambalaj
     - C-) Yastık Ambalaj
     - D-) Pouch Ambalaj
-    - **Cevap E-) Hazır Poşet &ndash; Kilitli Poşet**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tifdruk ya da flekso baskı ambalaj t&uuml;r&uuml;ne verilen isimdir?</strong>
-    - A-) Rotograv&uuml;r Ambalaj
+    - **Cevap E-) Hazır Poşet – Kilitli Poşet**
+    ***
+1. **Aşağıdakilerden hangisi tifdruk ya da flekso baskı ambalaj türüne verilen isimdir?**
+    - A-) Rotogravür Ambalaj
     - **Cevap B-) Esnek Ambalaj**
     - C-) Ofset Ambalaj
     - D-) Flekso Ambalaj
     - E-) Plastik ambalaj
-    <hr />
-1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de ka&ccedil; rakamlı barkod numarası kullanılmaktadır?</strong>
+    ***
+1. **Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında Türkiye’de kaç rakamlı barkod numarası kullanılmaktadır?**
     - **Cevap A-) 13**
     - B-) 8
     - C-) 12
     - D-) 11
     - E-) 14
-    <hr />
-1. <strong>Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında T&uuml;rkiye&rsquo;de kullanılan barkodların ilk 3 rakamı ne anlam ifade eder?</strong>
+    ***
+1. **Tifdruk ve Flekso baskı tekniğinde yapılan ambalaj tasarımlarında Türkiye’de kullanılan barkodların ilk 3 rakamı ne anlam ifade eder?**
     - A-) Firma Kodu
     - B-) Kontrol Kodu
-    - **Cevap C-) &Uuml;lke Kodu**
-    - D-) &Uuml;r&uuml;n Kodu
+    - **Cevap C-) Ülke Kodu**
+    - D-) Ürün Kodu
     - E-) Firma Adı
-    <hr />
-1. <strong>Esnek ambalaj tasarımlarında kullanılan photoshop belgelerinin &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; minimum ka&ccedil; dpi ve hangi formatta olmalıdır?</strong>
+    ***
+1. **Esnek ambalaj tasarımlarında kullanılan photoshop belgelerinin çözünürlüğü minimum kaç dpi ve hangi formatta olmalıdır?**
     - A-) 200 dpi ve psd format
     - B-) 150 dpi ve psd format
     - C-) 300 dpi ve tiff format
     - D-) 200 dpi ve jpeg format
     - **Cevap E-) 300 dpi ve psd format**
-    <hr />
-1. <strong>Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne ama&ccedil; ile yapılmaktadır?</strong>
-    - A-) Renklerin daha d&uuml;zg&uuml;n &ccedil;ıkması i&ccedil;in
-    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının &ouml;n&uuml;ne ge&ccedil;mek i&ccedil;in**
-    - C-) Renk kombinasyonu yaratmak i&ccedil;in
-    - D-) G&ouml;rsel etkiyi artırmak i&ccedil;in
-    - E-) Renk tonlaması oluşturmak i&ccedil;in
-    <hr />
-1. <strong>Esnek ambalaj &uuml;reticileri renk y&ouml;netim sisteminde aşağıdakilerden hangisini oluştururlar?</strong>
+    ***
+1. **Esnek ambalaj tasarımlarında kullanılan şişirme tekniği ne amaç ile yapılmaktadır?**
+    - A-) Renklerin daha düzgün çıkması için
+    - **Cevap B-) Baskıda oluşacak ayar kayıklıklarının önüne geçmek için**
+    - C-) Renk kombinasyonu yaratmak için
+    - D-) Görsel etkiyi artırmak için
+    - E-) Renk tonlaması oluşturmak için
+    ***
+1. **Esnek ambalaj üreticileri renk yönetim sisteminde aşağıdakilerden hangisini oluştururlar?**
     - **Cevap A-) Baskı CMYK profillerini**
-    - B-) Silindir a&ccedil;ılarını
-    - C-) Baskı Set-up s&uuml;relerini
+    - B-) Silindir açılarını
+    - C-) Baskı Set-up sürelerini
     - D-) Tasarım renklerini
-    - E-) Tasarım renk &ouml;l&ccedil;&uuml;mlerini
-    <hr />
-1. <strong>Tasarımlarda &ouml;zel renk uygulaması var ise baskıya g&ouml;nderirken renk ne olarak tanımlanmalıdır?</strong>
+    - E-) Tasarım renk ölçümlerini
+    ***
+1. **Tasarımlarda özel renk uygulaması var ise baskıya gönderirken renk ne olarak tanımlanmalıdır?**
     - A-) Baskı Kodu
     - B-) Rakam Kodu
     - C-) Renk Kodu
     - D-) CMYK Kodu
     - **Cevap E-) Pantone Kodu**
-    <hr />
-1. <strong>Tasarımlarda kullanılan yazı ve logo b&uuml;y&uuml;kl&uuml;kleri aşağıdakilerden hangisine g&ouml;re uyumlu olmalıdır?</strong>
-    - A-) Esnek ambalaj &uuml;retici kurallarına
+    ***
+1. **Tasarımlarda kullanılan yazı ve logo büyüklükleri aşağıdakilerden hangisine göre uyumlu olmalıdır?**
+    - A-) Esnek ambalaj üretici kurallarına
     - B-) Grafik tasarım kurallarına
-    - C-) Birleşmiş Milletler t&uuml;z&uuml;klerine
+    - C-) Birleşmiş Milletler tüzüklerine
     - D-) Avrupa kurallarına
-    - **Cevap E-) T&uuml;rk Gıda Kodeksi T&uuml;z&uuml;klerine**
-    <hr />
-1. <strong>Tasarımın T&uuml;rk Gıda Kodeksi&#39;ne g&ouml;re uygun olması i&ccedil;in aşağıdakilerden hangisine dikkat edilmelidir?</strong>
+    - **Cevap E-) Türk Gıda Kodeksi Tüzüklerine**
+    ***
+1. **Tasarımın Türk Gıda Kodeksi'ne göre uygun olması için aşağıdakilerden hangisine dikkat edilmelidir?**
     - A-) Yazı rengine
-    - **Cevap B-) Yazı b&uuml;y&uuml;kl&uuml;ğ&uuml; ve y&uuml;ksekliğine**
+    - **Cevap B-) Yazı büyüklüğü ve yüksekliğine**
     - C-) Yazının karakterine
     - D-) Yazının konumuna
     - E-) Yazının hizasına
-    <hr />
-1. <strong>Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı, renk ayrımı olarak Illustrator programında nereden inceleyebilir?</strong>
+    ***
+1. **Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı, renk ayrımı olarak Illustrator programında nereden inceleyebilir?**
     - A-) Layer
     - B-) Renk Katmanı
-    - **Cevap C-) &Uuml;st Men&uuml; &ndash; window &ndash; seperations preview**
+    - **Cevap C-) Üst Menü – window – seperations preview**
     - D-) Renk Skalası
-    - E-) &Uuml;st Men&uuml;
-    <hr />
-1. <strong>Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı overprint uygulaması kontrol&uuml;n&uuml; ne i&ccedil;in yapar?</strong>
-    - **Cevap A-) Renk ayrım, şişirme ve overprint kontrol&uuml;**
-    - B-) Baskı kontrol&uuml;
-    - C-) Renk sayı kontrol&uuml;
-    - D-) Renk uyum kontrol&uuml;
-    - E-) Renk tonlama kontrol&uuml;
-    <hr />
+    - E-) Üst Menü
+    ***
+1. **Esnek ambalaj tasarımlarında grafik tasarımcı hazırladığı bir tasarımı overprint uygulaması kontrolünü ne için yapar?**
+    - **Cevap A-) Renk ayrım, şişirme ve overprint kontrolü**
+    - B-) Baskı kontrolü
+    - C-) Renk sayı kontrolü
+    - D-) Renk uyum kontrolü
+    - E-) Renk tonlama kontrolü
+    ***
 ## Unite 9
-1. <strong>Aşağıdakilerden hangisi &ldquo;Dijital Baskı Teknikleri&rdquo;nin &ldquo;Geleneksel Baskı Teknikleri&rdquo; ile kıyaslanması durumunda karşımıza &ccedil;ıkan belirgin avantajlarından biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi “Dijital Baskı Teknikleri”nin “Geleneksel Baskı Teknikleri” ile kıyaslanması durumunda karşımıza çıkan belirgin avantajlarından biri değildir?**
     - A-) Daha az kimyasal kullanımı
     - B-) Daha az fire oranı
     - **Cevap C-) Daha az baskı kalıbı kullanımı**
-    - D-) Daha hızlı kuruma imk&acirc;nı
-    - E-) Kişiselleştirilmiş i&ccedil;erik ve değişken veri baskısı uygulanabilmesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Bobin Beslemeli Dijital Baskı Tekniği&rdquo; ile ilgili donanımların genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Bobinden bobine &uuml;retim yapabilme &ouml;zelliği ile esnek ambalaj uygulamaları yapabilir.
-    - B-) &Uuml;reticileri ve hizmet alan marka sahiplerini, tedarik zinciri ve stok maliyet risklerinden kurtarır.
-    - C-) Az tirajlı, y&uuml;ksek kaliteli baskı sunma avantajı ile, sezonluk tasarım yeniliklerine imk&acirc;n sunar.
-    - **Cevap D-) Her t&uuml;rl&uuml; baskı altı malzemesine, hatta 200 mm y&uuml;ksekliğine kadar &uuml;&ccedil; boyutlu objelere de direkt baskı yapılabilir.**
-    - E-) Baskı s&uuml;recinde 7 ve &uuml;zeri renk kullanım ile talep edilen en katı ihtiya&ccedil;lar bile karşılanabilir.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;B&uuml;y&uuml;k (geniş) Format Dijital Baskı Teknikleri&rdquo; ile ilgili donanımların genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) B&uuml;y&uuml;k ebat i&ccedil; ve dış cephe giydirmelerinde tek par&ccedil;a, y&uuml;ksek kalitede baskı yapabilir.
-    - B-) İ&ccedil; ve dış mekanlarda solamayan UV ve su bazlı m&uuml;rekkep kullanabilir.
-    - C-) K&acirc;ğıt dahil, kumaş, branda, plastik, metal, ahşap ve cam gibi &ccedil;ok &ccedil;eşitli baskı altı malzemesine baskı yapabilir
+    - D-) Daha hızlı kuruma imkânı
+    - E-) Kişiselleştirilmiş içerik ve değişken veri baskısı uygulanabilmesi
+    ***
+1. **Aşağıdakilerden hangisi “Bobin Beslemeli Dijital Baskı Tekniği” ile ilgili donanımların genel özellikleri arasında yer almaz?**
+    - A-) Bobinden bobine üretim yapabilme özelliği ile esnek ambalaj uygulamaları yapabilir.
+    - B-) Üreticileri ve hizmet alan marka sahiplerini, tedarik zinciri ve stok maliyet risklerinden kurtarır.
+    - C-) Az tirajlı, yüksek kaliteli baskı sunma avantajı ile, sezonluk tasarım yeniliklerine imkân sunar.
+    - **Cevap D-) Her türlü baskı altı malzemesine, hatta 200 mm yüksekliğine kadar üç boyutlu objelere de direkt baskı yapılabilir.**
+    - E-) Baskı sürecinde 7 ve üzeri renk kullanım ile talep edilen en katı ihtiyaçlar bile karşılanabilir.
+    ***
+1. **Aşağıdakilerden hangisi “Büyük (geniş) Format Dijital Baskı Teknikleri” ile ilgili donanımların genel özellikleri arasında yer almaz?**
+    - A-) Büyük ebat iç ve dış cephe giydirmelerinde tek parça, yüksek kalitede baskı yapabilir.
+    - B-) İç ve dış mekanlarda solamayan UV ve su bazlı mürekkep kullanabilir.
+    - C-) Kâğıt dahil, kumaş, branda, plastik, metal, ahşap ve cam gibi çok çeşitli baskı altı malzemesine baskı yapabilir
     - D-) Tabaka ve bobin baskı altı malzemesi kullanılabilir
-    - **Cevap E-) Tarama ve faks işlevlerine sahip &ldquo;hepsi bir arada&rdquo; yazıcı &ouml;zelliği ile bir&ccedil;ok problemi kısa s&uuml;rede &ccedil;&ouml;zebilir**
-    <hr />
-1. <strong>Net &ouml;l&ccedil;&uuml;s&uuml; 100 mm kare ve y&uuml;ksekliği 10 mm, traverten mermer baskı altı malzemesine, 500 adet, 6&rsquo;lı takım 5 renk baskı talebi olan bir grafik tasarım &uuml;r&uuml;n&uuml;, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
+    - **Cevap E-) Tarama ve faks işlevlerine sahip “hepsi bir arada” yazıcı özelliği ile birçok problemi kısa sürede çözebilir**
+    ***
+1. **Net ölçüsü 100 mm kare ve yüksekliği 10 mm, traverten mermer baskı altı malzemesine, 500 adet, 6’lı takım 5 renk baskı talebi olan bir grafik tasarım ürünü, aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
     - A-) Web ofset baskı tekniği donanımları
     - B-) Tifdruk baskı tekniği donanımları
-    - **Cevap C-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları**
+    - **Cevap C-) Büyük format inkjet dijital baskı tekniği donanımları**
     - D-) Bobin beslemeli dijital baskı tekniği donanımları
     - E-) Flekso baskı tekniği donanımları
-    <hr />
-1. <strong>Hizmet &uuml;rettiğiniz m&uuml;şterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 &ccedil;eşit, 25 000&rsquo;er adet, 6 renk) kurutulmuş dondurma &uuml;r&uuml;n&uuml; i&ccedil;in ambalaj (koruyucu kilitli esnek ambalaj) &uuml;retim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve adedine g&ouml;re ekonomik &uuml;retim yaptırabilirsiniz?</strong>
-    - A-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları
+    ***
+1. **Hizmet ürettiğiniz müşterilerinizden biri, pazara yeni sunacağı sınırlı sayıdaki (3 çeşit, 25 000’er adet, 6 renk) kurutulmuş dondurma ürünü için ambalaj (koruyucu kilitli esnek ambalaj) üretim takibi ile kalite kontrol sorumluluğunu size verdiğinde, aşağıdaki hangi baskı tekniğinin donanımları ile kısa sürede ve adedine göre ekonomik üretim yaptırabilirsiniz?**
+    - A-) Büyük format inkjet dijital baskı tekniği donanımları
     - **Cevap B-) Bobin beslemeli dijital baskı tekniği donanımları**
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
-    - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
+    - D-) Ofis tipi masaüstü çoğaltma tekniği donanımları
     - E-) Web ofset baskı tekniği donanımları
-    <hr />
-1. <strong>Dış mek&acirc;n afişi olarak tasarlanan grafik tasarım &uuml;r&uuml;nlerinden megalight i&ccedil;ten aydınlatmalı, baskı altı malzemesi ışık ge&ccedil;irgen vinil &uuml;zerine baskısı yapılarak şehir mobilyası megalight mekanizmasına sabitlenmektedir. Standart olarak 320 x 220 cm &ouml;l&ccedil;&uuml;lerindeki toplam 7 m&sup2; olan bu grafik tasarım &uuml;r&uuml;n&uuml;, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
-    - **Cevap A-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları**
+    ***
+1. **Dış mekân afişi olarak tasarlanan grafik tasarım ürünlerinden megalight içten aydınlatmalı, baskı altı malzemesi ışık geçirgen vinil üzerine baskısı yapılarak şehir mobilyası megalight mekanizmasına sabitlenmektedir. Standart olarak 320 x 220 cm ölçülerindeki toplam 7 m² olan bu grafik tasarım ürünü, aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
+    - **Cevap A-) Büyük format inkjet dijital baskı tekniği donanımları**
     - B-) Tabaka beslemeli dijital baskı tekniği donanımları
     - C-) Bobin beslemeli dijital baskı tekniği donanımları
-    - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
+    - D-) Ofis tipi masaüstü çoğaltma tekniği donanımları
     - E-) Tampon baskı tekniği donanımları
-    <hr />
-1. <strong>Talep edilmesi durumunda, grafik &uuml;retim teknikleri dersi kapsamında hazırlayacağınız yaklaşık 64 sayfalık (A4) baskısı yapılacak &ouml;deviniz / proje raporunuz aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
+    ***
+1. **Talep edilmesi durumunda, grafik üretim teknikleri dersi kapsamında hazırlayacağınız yaklaşık 64 sayfalık (A4) baskısı yapılacak ödeviniz / proje raporunuz aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
     - A-) Ofset baskı tekniği donanımları ile
     - B-) Web ofset baskı tekniği donanımları ile
     - C-) Flekso baskı tekniği donanımları ile
-    - **Cevap D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları ile**
+    - **Cevap D-) Ofis tipi masaüstü çoğaltma tekniği donanımları ile**
     - E-) Bobin beslemeli dijital baskı tekniği donanımları ile
-    <hr />
-1. <strong>Okulunuz mezuniyet t&ouml;reninde yeni mezunlara verilmek &uuml;zere kişiye &ouml;zel hazırlanacak mezuniyet yıllığı ve teşekk&uuml;r belgesi, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
+    ***
+1. **Okulunuz mezuniyet töreninde yeni mezunlara verilmek üzere kişiye özel hazırlanacak mezuniyet yıllığı ve teşekkür belgesi, aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
     - A-) Serigrafi baskı tekniği donanımları
     - B-) Ofset baskı tekniği donanımları
     - C-) Flekso baskı tekniği donanımları
-    - D-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları
+    - D-) Büyük format inkjet dijital baskı tekniği donanımları
     - **Cevap E-) Tabaka beslemeli dijital baskı tekniği donanımları**
-    <hr />
-1. <strong>İ&ccedil; mimar bir m&uuml;şteriniz bir projesinde duvar k&acirc;ğıdı olarak kullanmak &uuml;zere, toplamda 130 m&sup2; ke&ccedil;e baskı altı malzemesi &uuml;zerine bir tasarım ve &uuml;retim takibi talebi ile gelmesi durumunda, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retim yaptırabilirsiniz?</strong>
+    ***
+1. **İç mimar bir müşteriniz bir projesinde duvar kâğıdı olarak kullanmak üzere, toplamda 130 m² keçe baskı altı malzemesi üzerine bir tasarım ve üretim takibi talebi ile gelmesi durumunda, aşağıdaki hangi baskı tekniğinin donanımları ile üretim yaptırabilirsiniz?**
     - A-) Tampon baskı tekniği donanımları
-    - B-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
-    - **Cevap C-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları**
+    - B-) Ofis tipi masaüstü çoğaltma tekniği donanımları
+    - **Cevap C-) Büyük format inkjet dijital baskı tekniği donanımları**
     - D-) Tabaka beslemeli dijital baskı tekniği donanımları
     - E-) Bobin beslemeli dijital baskı tekniği donanımları
-    <hr />
-1. <strong>Kişiselleştirilmiş i&ccedil;erik ve değişken veri baskısı uygulaması gerektiren bir grafik tasarım &uuml;r&uuml;n&uuml;, aşağıdaki hangi baskı tekniği donanımları ile kısa s&uuml;rede, kaliteli ve ekonomik olarak &uuml;retilebilir?</strong>
+    ***
+1. **Kişiselleştirilmiş içerik ve değişken veri baskısı uygulaması gerektiren bir grafik tasarım ürünü, aşağıdaki hangi baskı tekniği donanımları ile kısa sürede, kaliteli ve ekonomik olarak üretilebilir?**
     - A-) Ofset baskı tekniği donanımları
     - B-) Flekso baskı tekniği donanımları
     - C-) Tifdruk baskı tekniği donanımları
     - **Cevap D-) Dijital baskı tekniği donanımları**
     - E-) Serigrafi baskı tekniği donanımları
-    <hr />
-1. <strong>24 sayfa A4 &ouml;l&ccedil;&uuml;s&uuml;nde 80 g beyaz k&acirc;ğıda baskı talep edilen bir proje raporu, aşağıdaki hangi baskı tekniğinin donanımları ile kısa s&uuml;rede ve ekonomik &uuml;retilebilir?</strong>
+    ***
+1. **24 sayfa A4 ölçüsünde 80 g beyaz kâğıda baskı talep edilen bir proje raporu, aşağıdaki hangi baskı tekniğinin donanımları ile kısa sürede ve ekonomik üretilebilir?**
     - A-) Serigrafi baskı tekniği donanımları
     - B-) Ofset baskı tekniği donanımları
     - C-) Flekso baskı tekniği donanımları
-    - **Cevap D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları**
+    - **Cevap D-) Ofis tipi masaüstü çoğaltma tekniği donanımları**
     - E-) Bobin beslemeli dijital baskı tekniği donanımları
-    <hr />
-1. <strong>M&uuml;şteri tarafından bir bayi toplantısında kullanılmak &uuml;zere talep edilen 6 adet i&ccedil; mek&acirc;n x banner (80 x 200 cm) i&ccedil;in kumaş &uuml;zeri baskı, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
+    ***
+1. **Müşteri tarafından bir bayi toplantısında kullanılmak üzere talep edilen 6 adet iç mekân x banner (80 x 200 cm) için kumaş üzeri baskı, aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
     - A-) Web ofset baskı tekniği donanımları
     - B-) Tifdruk baskı tekniği donanımları
-    - **Cevap C-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları**
+    - **Cevap C-) Büyük format inkjet dijital baskı tekniği donanımları**
     - D-) Bobin beslemeli dijital baskı tekniği donanımları
     - E-) Flekso baskı tekniği donanımları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi “Bobin Beslemeli Dijital Baskı Tekniği” ile ilgili donanımların genel &#246;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) Az tirajlı, y&#252;ksek kaliteli baskı sunma avantajı ile sezonluk tasarım yeniliklerine imk&#226;n sunar.
-    - B-) Bobinden bobine &#252;retim yapabilme &#246;zelliği ile esnek ambalaj uygulamaları yapabilir.
-    - **Cevap C-) &#220;&#231; boyutlu objelere direkt baskı yapılabilir.**
-    - D-) Talebe y&#246;nelik &#246;zel baskı altı malzemesi kullanabilir.
-    - E-) &#220;reticileri ve hizmet alan marka sahiplerini, tedarik zinciri ve stok maliyet risklerinden kurtarır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;B&uuml;y&uuml;k (geniş) Format Dijital Baskı Teknikleri&rdquo; ile ilgili donanımların genel &ouml;zellikleri arasında <u>yer almaz</u>?</strong>
-    - A-) K&acirc;ğıt d&acirc;hil, kumaş, branda, plastik, metal, ahşap ve cam gibi &ccedil;ok &ccedil;eşitli baskı altı malzemesine baskı yapabilmekte
-    - **Cevap B-) Bobinden bobine &uuml;retim yapabilme &ouml;zelliği ile esnek ambalaj uygulamaları yapabilir**
+    ***
+1. **Aşağıdakilerden hangisi “Bobin Beslemeli Dijital Baskı Tekniği” ile ilgili donanımların genel özellikleri arasında yer almaz?**
+    - A-) Az tirajlı, yüksek kaliteli baskı sunma avantajı ile sezonluk tasarım yeniliklerine imkân sunar.
+    - B-) Bobinden bobine üretim yapabilme özelliği ile esnek ambalaj uygulamaları yapabilir.
+    - **Cevap C-) Üç boyutlu objelere direkt baskı yapılabilir.**
+    - D-) Talebe yönelik özel baskı altı malzemesi kullanabilir.
+    - E-) Üreticileri ve hizmet alan marka sahiplerini, tedarik zinciri ve stok maliyet risklerinden kurtarır.
+    ***
+1. **Aşağıdakilerden hangisi “Büyük (geniş) Format Dijital Baskı Teknikleri” ile ilgili donanımların genel özellikleri arasında yer almaz?**
+    - A-) Kâğıt dâhil, kumaş, branda, plastik, metal, ahşap ve cam gibi çok çeşitli baskı altı malzemesine baskı yapabilmekte
+    - **Cevap B-) Bobinden bobine üretim yapabilme özelliği ile esnek ambalaj uygulamaları yapabilir**
     - C-) Tabaka ve bobin baskı altı malzemesi kullanılabilmekte
-    - D-) İ&ccedil; ve dış mek&acirc;nlarda solmayan UV ve su bazlı m&uuml;rekkep kullanabilmekte
-    - E-) B&uuml;y&uuml;k ebat i&ccedil; ve dış cephe giydirmelerinde tek par&ccedil;a, y&uuml;ksek kalitede baskı yapabilmekte
-    <hr />
-1. <strong>Bir fuar stant tasarımı projenizde ahşap, cam ve kumaş baskı altı malzemeleri kullanarak &ccedil;eşitli g&ouml;rsellere ihtiyacınız olması durumunda, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retim yaptırabilirsiniz?</strong>
+    - D-) İç ve dış mekânlarda solmayan UV ve su bazlı mürekkep kullanabilmekte
+    - E-) Büyük ebat iç ve dış cephe giydirmelerinde tek parça, yüksek kalitede baskı yapabilmekte
+    ***
+1. **Bir fuar stant tasarımı projenizde ahşap, cam ve kumaş baskı altı malzemeleri kullanarak çeşitli görsellere ihtiyacınız olması durumunda, aşağıdaki hangi baskı tekniğinin donanımları ile üretim yaptırabilirsiniz?**
     - A-) Flekso baskı tekniği donanımları
     - B-) Tabaka beslemeli dijital baskı tekniği donanımları
     - C-) Bobin beslemeli dijital baskı tekniği donanımları
-    - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
-    - **Cevap E-) B&uuml;y&uuml;k format inkjet dijital baskı tekniği donanımları**
-    <hr />
+    - D-) Ofis tipi masaüstü çoğaltma tekniği donanımları
+    - **Cevap E-) Büyük format inkjet dijital baskı tekniği donanımları**
+    ***
 ## Unite 10
-1. <strong>Aşağıdakilerden hangisi Elektronik sayfaların hedefidir?</strong>
+1. **Aşağıdakilerden hangisi Elektronik sayfaların hedefidir?**
     - A-) Ofset Baskı
-    - B-) P&uuml;sk&uuml;rtmeli Yazıcılar
+    - B-) Püskürtmeli Yazıcılar
     - C-) Dijital Baskı
     - D-) Sıcak Baskı
     - **Cevap E-) Dijital dağıtım**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi sanal sayfaların hedefidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi sanal sayfaların hedefidir?**
     - **Cevap A-) Baskı**
-    - B-) &Ccedil;evrimi&ccedil;i Broş&uuml;r
+    - B-) Çevrimiçi Broşür
     - C-) Dijital Dağıtım
     - D-) Dijital Dolaşım
-    - E-) WEB Aray&uuml;zleri
-    <hr />
-1. <strong>Yazı karakterlerinin y&uuml;ksekliğini ve et kalınlığını azaltmadan (inceltmeden) daha k&uuml;&ccedil;&uuml;k bir alana sığacak bi&ccedil;imde dar hale gelmiş karakterler aşağıdaki terimlerden hangisi ile ifade edilir?</strong>
+    - E-) WEB Arayüzleri
+    ***
+1. **Yazı karakterlerinin yüksekliğini ve et kalınlığını azaltmadan (inceltmeden) daha küçük bir alana sığacak biçimde dar hale gelmiş karakterler aşağıdaki terimlerden hangisi ile ifade edilir?**
     - A-) Bitmap
     - **Cevap B-) Condensed**
     - C-) PPI
     - D-) Gutter
     - E-) Alley
-    <hr />
-1. <strong>Harfler, sayılar, semboller ve şekiller gibi sayısal veya baskıdaki yazı tiplerinde bir karakter kodunu temsil etmek i&ccedil;in kullanılan bir şekiller aşağıdaki terimlerden hangisi ile ifade edilir?</strong>
+    ***
+1. **Harfler, sayılar, semboller ve şekiller gibi sayısal veya baskıdaki yazı tiplerinde bir karakter kodunu temsil etmek için kullanılan bir şekiller aşağıdaki terimlerden hangisi ile ifade edilir?**
     - A-) Gutter
     - **Cevap B-) Glyph**
     - C-) Halftone
     - D-) Orphan
     - E-) Widow
-    <hr />
-1. <strong>Matematiksel form&uuml;llere dayalı eğriler ve bu eğrilerden oluşan kapalı alanlardan oluşan nesne y&ouml;nelimli (odaklı) grafiklerin t&uuml;r&uuml; aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Vekt&ouml;r Grafikler**
+    ***
+1. **Matematiksel formüllere dayalı eğriler ve bu eğrilerden oluşan kapalı alanlardan oluşan nesne yönelimli (odaklı) grafiklerin türü aşağıdakilerden hangisidir?**
+    - **Cevap A-) Vektör Grafikler**
     - B-) Raster Grafikler
     - C-) Bitmap Grafikler
     - D-) Biteşlem Grafikler
     - E-) BMP Grafikler
-    <hr />
-1. <strong>Aşağıdaki grafik t&uuml;rlerinden hangisinde &ouml;l&ccedil;ek bağımsızdır?</strong>
-    - **Cevap A-) Vekt&ouml;r Grafikler**
+    ***
+1. **Aşağıdaki grafik türlerinden hangisinde ölçek bağımsızdır?**
+    - **Cevap A-) Vektör Grafikler**
     - B-) Raster Grafikler
     - C-) Bitmap Grafikler
     - D-) Biteşlem Grafikler
     - E-) BMP Grafikler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kodeks formatındaki kitaplarda sayfanın &ouml;n y&uuml;z&uuml;, bir diğer deyişle yerleşimdeki sağ sayfa anlamına gelmektedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kodeks formatındaki kitaplarda sayfanın ön yüzü, bir diğer deyişle yerleşimdeki sağ sayfa anlamına gelmektedir?**
     - A-) Sans Serif
     - B-) Serif
     - C-) Torso
     - D-) Verso
     - **Cevap E-) Recto**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Kodeks formatındaki kitaplarda sayfanın arka y&uuml;z&uuml;, bir diğer deyişle yerleşimdeki sol sayfa anlamına gelmektedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi Kodeks formatındaki kitaplarda sayfanın arka yüzü, bir diğer deyişle yerleşimdeki sol sayfa anlamına gelmektedir?**
     - A-) Sans Serif
     - B-) Serif
     - C-) Torso
     - **Cevap D-) Verso**
     - E-) Recto
-    <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık alanında kullanılan bir yazılım <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılık alanında kullanılan bir yazılım değildir?**
     - A-) Adobe InDesign
     - B-) QuarkXPress
     - C-) Microsoft Publisher
     - D-) Scribus
     - **Cevap E-) Visual Basic**
-    <hr />
-1. <strong>D&uuml;ş&uuml;k kaliteli k&acirc;ğıda y&uuml;ksek hızlarda baskı yapıldığında m&uuml;rekkep yayılmasının &ouml;n&uuml;ne ge&ccedil;mek i&ccedil;in yazıtipleri &uuml;zerinde uygulanan teknik aşağıdakilerden hangisidir?</strong>
-    - A-) M&uuml;rekkep Kurutması
-    - **Cevap B-) M&uuml;rekkep Kapanları**
+    ***
+1. **Düşük kaliteli kâğıda yüksek hızlarda baskı yapıldığında mürekkep yayılmasının önüne geçmek için yazıtipleri üzerinde uygulanan teknik aşağıdakilerden hangisidir?**
+    - A-) Mürekkep Kurutması
+    - **Cevap B-) Mürekkep Kapanları**
     - C-) Boya Yoğunlaştırma
-    - D-) M&uuml;rekkep Sıvılaştırma
+    - D-) Mürekkep Sıvılaştırma
     - E-) Boya Sıvılaştırma
-    <hr />
-1. <strong>Bilgisayar belleğinde bir ızgara d&uuml;zenindeki satır ve s&uuml;tun halinde dizilmiş noktalardan oluşan g&ouml;r&uuml;nt&uuml;ye ne ad verilir?</strong>
+    ***
+1. **Bilgisayar belleğinde bir ızgara düzenindeki satır ve sütun halinde dizilmiş noktalardan oluşan görüntüye ne ad verilir?**
     - A-) Alley
     - B-) Gutter
     - **Cevap C-) Bitmap**
     - D-) Bleed
     - E-) Blueprint
-    <hr />
-1. <strong>Sayfa a&ccedil;ıklama dili olarak tanımlanan PostScript yazılımı hangi firma tarafından piyasaya s&uuml;r&uuml;lm&uuml;şt&uuml;r?</strong>
+    ***
+1. **Sayfa açıklama dili olarak tanımlanan PostScript yazılımı hangi firma tarafından piyasaya sürülmüştür?**
     - **Cevap A-) Adobe Systems**
     - B-) Corel Enterprise
     - C-) Palo Alto Araştırma Merkezi
     - D-) IBM
     - E-) CERN
-    <hr />
-1. <strong>CMYK renk modelindeki &ldquo;K&rdquo; harfi aşağıdakilerden hangisini temsil etmektedir?</strong>
+    ***
+1. **CMYK renk modelindeki “K” harfi aşağıdakilerden hangisini temsil etmektedir?**
     - A-) Kırmızı
     - **Cevap B-) Siyah**
     - C-) Mavi
     - D-) Yeşil
     - E-) Beyaz
-    <hr />
-1. <strong>İki s&uuml;tun veya metin bloğu arasındaki boşluk veya s&uuml;tun oluğu veya s&uuml;tun marjini olarak da bilinen terim aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İki sütun veya metin bloğu arasındaki boşluk veya sütun oluğu veya sütun marjini olarak da bilinen terim aşağıdakilerden hangisidir?**
     - **Cevap A-) Alley**
     - B-) Glyph
     - C-) Halftone
     - D-) HTML
     - E-) Condensed
-    <hr />
+    ***
 ## Unite 11
-1. <strong>Bug&uuml;n kullanmakta olduğumuz k&acirc;ğıdın ilk &ouml;rnekleri nerede &uuml;retilmiştir?</strong>
-    - **Cevap A-) &Ccedil;in**
+1. **Bugün kullanmakta olduğumuz kâğıdın ilk örnekleri nerede üretilmiştir?**
+    - **Cevap A-) Çin**
     - B-) Arabistan
     - C-) İtalya
     - D-) Fransa
     - E-) Mısır
-    <hr />
-1. <strong>K&acirc;ğıt yapımında re&ccedil;inesinden dolayı sel&uuml;loz &uuml;retiminde sorunlu olan ağa&ccedil; hangisidir?</strong>
+    ***
+1. **Kâğıt yapımında reçinesinden dolayı selüloz üretiminde sorunlu olan ağaç hangisidir?**
     - A-) Meşe
-    - **Cevap B-) &Ccedil;am**
+    - **Cevap B-) Çam**
     - C-) Kayın
     - D-) Ladin
-    - E-) K&ouml;knar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi k&acirc;ğıt &uuml;retiminde kullanılan hammaddelerden <u>değildir</u>?</strong>
-    - A-) Atık k&acirc;ğıtlar
-    - B-) Pa&ccedil;avra atıkları
+    - E-) Köknar
+    ***
+1. **Aşağıdakilerden hangisi kâğıt üretiminde kullanılan hammaddelerden değildir?**
+    - A-) Atık kâğıtlar
+    - B-) Paçavra atıkları
     - **Cevap C-) Atık plastikler**
-    - D-) Hazır sel&uuml;loz
+    - D-) Hazır selüloz
     - E-) Sap saman
-    <hr />
-1. <strong>K&acirc;ğıt hamuruna katılan dolgu maddeleri aşağıdaki se&ccedil;eneklerden hangi faydayı <u>sağlamaz</u>?</strong>
+    ***
+1. **Kâğıt hamuruna katılan dolgu maddeleri aşağıdaki seçeneklerden hangi faydayı sağlamaz?**
     - A-) Lifler arasındaki boşlukları doldurur
-    - B-) K&acirc;ğıdın y&uuml;zeyini d&uuml;zg&uuml;nleştirir
-    - C-) K&acirc;ğıdın opaklığını artırır
-    - **Cevap D-) K&acirc;ğıdın d&uuml;zg&uuml;n katlanmasını sağlar**
+    - B-) Kâğıdın yüzeyini düzgünleştirir
+    - C-) Kâğıdın opaklığını artırır
+    - **Cevap D-) Kâğıdın düzgün katlanmasını sağlar**
     - E-) Baskı kalitesini artırır
-    <hr />
-1. <strong>Aşağıdaki tabaka k&acirc;ğıt ebatlarından hangisi standart dışıdır?</strong>
+    ***
+1. **Aşağıdaki tabaka kâğıt ebatlarından hangisi standart dışıdır?**
     - A-) 57 cm x 82 cm
     - B-) 59,4 cm x 84 cm
     - C-) 64 cm x 90 cm
     - D-) 70,7 cm x 100 cm
     - **Cevap E-) 43 cm x 63 cm**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi k&acirc;ğıdın su y&ouml;n&uuml; &ouml;zelliklerinden <u>değildir</u>?</strong>
-    - **Cevap A-) K&acirc;ğıt su y&ouml;n&uuml;ne d&uuml;zg&uuml;n yırtılmaz**
-    - B-) K&acirc;ğıt su y&ouml;n&uuml;ne daha dik durur
-    - C-) K&acirc;ğıt su y&ouml;n&uuml;ne kolay katlanır
-    - D-) K&acirc;ğıt su y&ouml;n&uuml;ne daha diren&ccedil;lidir
-    - E-) K&acirc;ğıt su y&ouml;n&uuml;ne daha az a&ccedil;ar
-    <hr />
-1. <strong>70 cm x 100 cm ebadında, 170 g/m2 gramajında bir tabak kuşe k&acirc;ğıdın ağırlığı ka&ccedil; gramdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kâğıdın su yönü özelliklerinden değildir?**
+    - **Cevap A-) Kâğıt su yönüne düzgün yırtılmaz**
+    - B-) Kâğıt su yönüne daha dik durur
+    - C-) Kâğıt su yönüne kolay katlanır
+    - D-) Kâğıt su yönüne daha dirençlidir
+    - E-) Kâğıt su yönüne daha az açar
+    ***
+1. **70 cm x 100 cm ebadında, 170 g/m2 gramajında bir tabak kuşe kâğıdın ağırlığı kaç gramdır?**
     - A-) 11,90 gram
     - **Cevap B-) 119 gram**
     - C-) 1,19 gram
     - D-) 1190 gram
     - E-) 700 gram
-    <hr />
-1. <strong>Y&uuml;zeyi kaolin, tebeşir ve kazein gibi maddelerle d&uuml;zeltilip parlatılan beyaz renkli k&acirc;ğıtlara ne ad verilir?</strong>
-    - A-) Birinci hamur k&acirc;ğıtlar
-    - B-) Pelur k&acirc;ğıtlar
-    - **Cevap C-) Kuşe k&acirc;ğıtları**
-    - D-) Ozalit k&acirc;ğıtlar
-    - E-) Otokopi k&acirc;ğıtlar
-    <hr />
-1. <strong>Bir tabaka 59,4 cm x 84 cm ebadındaki k&acirc;ğıttan ka&ccedil; adet A4 k&acirc;ğıt &ccedil;ıkar?</strong>
+    ***
+1. **Yüzeyi kaolin, tebeşir ve kazein gibi maddelerle düzeltilip parlatılan beyaz renkli kâğıtlara ne ad verilir?**
+    - A-) Birinci hamur kâğıtlar
+    - B-) Pelur kâğıtlar
+    - **Cevap C-) Kuşe kâğıtları**
+    - D-) Ozalit kâğıtlar
+    - E-) Otokopi kâğıtlar
+    ***
+1. **Bir tabaka 59,4 cm x 84 cm ebadındaki kâğıttan kaç adet A4 kâğıt çıkar?**
     - A-) 4
     - B-) 5
     - C-) 6
     - **Cevap D-) 8**
     - E-) 10
-    <hr />
-1. <strong>Kutu ambalajlarında, takvim aynalıklarında kullanılan, bir y&uuml;z&uuml; d&uuml;zg&uuml;n beyaz ve yarı parlak, diğer y&uuml;z&uuml; mat ve grenli olan kartonun adı nedir?</strong>
+    ***
+1. **Kutu ambalajlarında, takvim aynalıklarında kullanılan, bir yüzü düzgün beyaz ve yarı parlak, diğer yüzü mat ve grenli olan kartonun adı nedir?**
     - A-) Kaplık karton
     - B-) Dosyalık karton
     - C-) Kuşe karton
     - D-) Japon kartonu
     - **Cevap E-) Krome karton**
-    <hr />
-1. <strong>K&acirc;ğıdın ilk bi&ccedil;imi olarak kabul edilen papir&uuml;s k&acirc;ğıdını ilk olarak aşağıdakilerden hangisi bulmuş ve kullanmıştır?</strong>
+    ***
+1. **Kâğıdın ilk biçimi olarak kabul edilen papirüs kâğıdını ilk olarak aşağıdakilerden hangisi bulmuş ve kullanmıştır?**
     - **Cevap A-) Eski Mısırlılar**
-    - B-) S&uuml;merler
+    - B-) Sümerler
     - C-) Finikeliler
-    - D-) &Ccedil;inliler
+    - D-) Çinliler
     - E-) Uygurlar
-    <hr />
-1. <strong>K&acirc;ğıt hamuru tabaka h&acirc;linde d&ouml;k&uuml;ld&uuml;ğ&uuml; sırada liflerin izlediği y&ouml;n k&acirc;ğıdın hangi &ouml;zelliğini belirtir?</strong>
-    - A-) K&acirc;ğıdın yoğunluğunu
-    - B-) K&acirc;ğıdın y&uuml;zey yapısını
-    - C-) K&acirc;ğıdın opaklığını
-    - **Cevap D-) K&acirc;ğıdın su y&ouml;n&uuml;n&uuml;**
-    - E-) K&acirc;ğıdın dayanıklılığını
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kendinden karbonlu (otokopi) k&acirc;ğıtların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) Otokopi k&acirc;ğıtlar, fotokopi k&acirc;ğıtları olarak da kullanılır.**
-    - B-) &Ccedil;ok n&uuml;shalı makbuz, fatura gibi işlerde otokopi k&acirc;ğıtları kullanılır.
-    - C-) Birinci n&uuml;sha k&acirc;ğıtların arka y&uuml;z&uuml;, i&ccedil;inde (renksiz olan) renklendirici &ccedil;&ouml;zeltiler bulunan mikro kaps&uuml;llerle sıvalıdır.
-    - D-) Alıcı n&uuml;shanın &ouml;n y&uuml;z&uuml; aktifleştirilmiş kil tozuyla kaplıdır.
-    - E-) Ortadaki n&uuml;shaların&nbsp;arka y&uuml;z&uuml; mikro kaps&uuml;llerle kaplıdır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yırtılmayan k&acirc;ğıtların &ouml;zelliklerinden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Her t&uuml;rl&uuml; tipo, ofset, flekso ve serigrafi baskı sistemleriyle basılabilir.
-    - **Cevap B-) Bu k&acirc;ğıtların emiciliği y&uuml;ksek olduğundan m&uuml;rekkepler daha hızlı kurur.**
-    - C-) Bu k&acirc;ğıtlar perfore edilebilir, dikilip yapıştırılabilir.
-    - D-) Bu k&acirc;ğıtlar doğada yok olabilir, &ccedil;evre kirliliğine neden olmaz.
-    - E-) Bu k&acirc;ğıtlar yırtılmaya ve delinmeye karşı &ccedil;ok dayanıklıdır.
-    <hr />
-1. <strong>64 cm x 90 cm ebadında bir tabaka k&acirc;ğıt firesiz olarak 9 eşit par&ccedil;aya kesilirse ebadı ne olur?</strong>
+    ***
+1. **Kâğıt hamuru tabaka hâlinde döküldüğü sırada liflerin izlediği yön kâğıdın hangi özelliğini belirtir?**
+    - A-) Kâğıdın yoğunluğunu
+    - B-) Kâğıdın yüzey yapısını
+    - C-) Kâğıdın opaklığını
+    - **Cevap D-) Kâğıdın su yönünü**
+    - E-) Kâğıdın dayanıklılığını
+    ***
+1. **Aşağıdakilerden hangisi kendinden karbonlu (otokopi) kâğıtların özelliklerinden biri değildir?**
+    - **Cevap A-) Otokopi kâğıtlar, fotokopi kâğıtları olarak da kullanılır.**
+    - B-) Çok nüshalı makbuz, fatura gibi işlerde otokopi kâğıtları kullanılır.
+    - C-) Birinci nüsha kâğıtların arka yüzü, içinde (renksiz olan) renklendirici çözeltiler bulunan mikro kapsüllerle sıvalıdır.
+    - D-) Alıcı nüshanın ön yüzü aktifleştirilmiş kil tozuyla kaplıdır.
+    - E-) Ortadaki nüshaların arka yüzü mikro kapsüllerle kaplıdır.
+    ***
+1. **Aşağıdakilerden hangisi yırtılmayan kâğıtların özelliklerinden biri değildir?**
+    - A-) Her türlü tipo, ofset, flekso ve serigrafi baskı sistemleriyle basılabilir.
+    - **Cevap B-) Bu kâğıtların emiciliği yüksek olduğundan mürekkepler daha hızlı kurur.**
+    - C-) Bu kâğıtlar perfore edilebilir, dikilip yapıştırılabilir.
+    - D-) Bu kâğıtlar doğada yok olabilir, çevre kirliliğine neden olmaz.
+    - E-) Bu kâğıtlar yırtılmaya ve delinmeye karşı çok dayanıklıdır.
+    ***
+1. **64 cm x 90 cm ebadında bir tabaka kâğıt firesiz olarak 9 eşit parçaya kesilirse ebadı ne olur?**
     - A-) 25 cm x 30 cm
     - B-) 20,5 cm x 28,5 cm
     - C-) 23 cm x 32 cm
     - **Cevap D-) 21,3 cm x 30 cm**
     - E-) 17,5 cm x 25 cm
-    <hr />
+    ***
 ## Unite 12
-1. <strong>Fizyolojik bakımdan rengi en doğru a&ccedil;ıklayan ifade hangisidir?</strong>
-    - A-) Renk insan hayatının bir par&ccedil;asıdır.
+1. **Fizyolojik bakımdan rengi en doğru açıklayan ifade hangisidir?**
+    - A-) Renk insan hayatının bir parçasıdır.
     - B-) Işığın olmadığı yerde renkten bahsedilemez.
-    - C-) Renk ışık demeti i&ccedil;inde enerji yayılımıdır.
+    - C-) Renk ışık demeti içinde enerji yayılımıdır.
     - D-) Renk nesnelerden yansıyan ışıktır.
     - **Cevap E-) Gözümüze giren dalgaların bıraktığı etki renktir.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Eklemeli Karışım Teorisi&rdquo;nin saf ana renkleridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Eklemeli Karışım Teorisi”nin saf ana renkleridir?**
     - **Cevap A-) Kırmızı, yeşil, koyu mavi**
     - B-) Yeşil, kırmızı, sarı
     - C-) Sarı, mavi, yeşil
     - D-) Sarı, kırmızı, mavi
     - E-) Turuncu, mor, yeşil
-    <hr />
-1. <strong>Biri koyu mavi, diğeri yoğun kırmızı iki ışık renginin karışımı aşağıdaki renklerden hangisini oluşturur?</strong>
+    ***
+1. **Biri koyu mavi, diğeri yoğun kırmızı iki ışık renginin karışımı aşağıdaki renklerden hangisini oluşturur?**
     - A-) Siyan mavisi
     - B-) Yeşil
     - C-) Mor
     - **Cevap D-) Macenta**
     - E-) Lacivert
-    <hr />
-1. <strong>Aşağıdakilerden hangileri &ldquo;sıcak renkler&rdquo;dir?</strong>
+    ***
+1. **Aşağıdakilerden hangileri “sıcak renkler”dir?**
     - A-) Macenta, kırmızı, mavi
     - B-) Mor, turuncu, yeşil
     - C-) Kımızı, sarı, siyan mavi
     - **Cevap D-) Macenta, sarı, turuncu**
     - E-) Siyan mavi, yeşil, lacivert
-    <hr />
-1. <strong>Aşağıdakilerden hangileri birbirlerinin &ldquo;Tamamlayıcı Renkler&rdquo;i dir?</strong>
+    ***
+1. **Aşağıdakilerden hangileri birbirlerinin “Tamamlayıcı Renkler”i dir?**
     - A-) Sarı, mavi
     - **Cevap B-) Macenta, yeşil**
     - C-) Sarı, kırmızı
     - D-) Siyan mavi, mor
     - E-) Yeşil, mavi
-    <hr />
-1. Gamut, belirli bir model, ara&ccedil; veya işlemin &uuml;retebileceği .................&nbsp;ifade eder.<br />
-<strong>Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Gamut, belirli bir model, araç veya işlemin üretebileceği ................. ifade eder.<br />**Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?**
     - A-) Renk modelini
-    - B-) Renk &ouml;z&uuml;n&uuml;
+    - B-) Renk özünü
     - **Cevap C-) Renk tayfını**
     - D-) Renk doygunluğunu
     - E-) Renk kombinasyonlarını
-    <hr />
-1. <strong>Basılan g&ouml;rseller farklı sıklıklarda ve boyutta noktalardan oluşan, siyah ve beyaz arasındaki değerlere sahip gri alanlar i&ccedil;eren baskı tekniğine ne denir?</strong>
+    ***
+1. **Basılan görseller farklı sıklıklarda ve boyutta noktalardan oluşan, siyah ve beyaz arasındaki değerlere sahip gri alanlar içeren baskı tekniğine ne denir?**
     - A-) Tampon baskı
-    - B-) &Ouml;zel renk baskı
+    - B-) Özel renk baskı
     - C-) Tek ton baskı
     - D-) Altı renk baskı
     - **Cevap E-) Yarım ton baskı**
-    <hr />
-1. <strong>Tramlar la oluşturulmayan direkt olarak basıldıkları i&ccedil;in daha canlı ve parlak olan renklere ne ad verilir?</strong>
+    ***
+1. **Tramlar la oluşturulmayan direkt olarak basıldıkları için daha canlı ve parlak olan renklere ne ad verilir?**
     - A-) Floresan renkler
-    - **Cevap B-) &Ouml;zel renkler**
+    - **Cevap B-) Özel renkler**
     - C-) Metalik renkler
     - D-) Tamamlayıcı renkler
     - E-) Ana renkler
-    <hr />
-1. <strong>&Uuml;retimi yapılacak işin kenarına basılarak matbaacının &uuml;r&uuml;ndeki renk tutarlılığını &ouml;l&ccedil;mek &uuml;zere standart eklemeli ve &ccedil;ıkarmalı renk modellerinde bulunan renklerin ve onların tram ton değerlerinin bulunduğu &ouml;geye ne denir?</strong>
-    - **Cevap A-) Renk kontrol &ccedil;ubuğu**
+    ***
+1. **Üretimi yapılacak işin kenarına basılarak matbaacının üründeki renk tutarlılığını ölçmek üzere standart eklemeli ve çıkarmalı renk modellerinde bulunan renklerin ve onların tram ton değerlerinin bulunduğu ögeye ne denir?**
+    - **Cevap A-) Renk kontrol çubuğu**
     - B-) Renk baskı sırası
     - C-) Renk ayarı
     - D-) Renk tonu
     - E-) Renk şişirme
-    <hr />
-1. <strong>Renklerin &uuml;st &uuml;ste basılmaları sonrasında formlar arasında oluşan beyaz &ccedil;izgilerin ayarlanmasına ne ad verilir?</strong>
-    - A-) Renk &ccedil;ubuğu
+    ***
+1. **Renklerin üst üste basılmaları sonrasında formlar arasında oluşan beyaz çizgilerin ayarlanmasına ne ad verilir?**
+    - A-) Renk çubuğu
     - B-) Renk ayarı
-    - C-) Renk kontrol&uuml;
+    - C-) Renk kontrolü
     - D-) Renk baskı ayarı
     - **Cevap E-) Renk şişirme**
-    <hr />
-1. <strong>G&ouml;zde hangi renklere duyarlı alıcılar vardır?</strong>
+    ***
+1. **Gözde hangi renklere duyarlı alıcılar vardır?**
     - A-) San, mor, turuncu
     - **Cevap B-) Kırmızı, yeşil, mavi**
     - C-) Turuncu, yeşil, mor
     - D-) Kırmızı, mavi, sarı
-    - E-) B&uuml;t&uuml;n renkler
-    <hr />
-1. <strong>Tayfta (spektrumda) birbirine en g&uuml;&ccedil;l&uuml; zıtlık oluşturan renkler aşağıdakilerden hangisidir?</strong>
+    - E-) Bütün renkler
+    ***
+1. **Tayfta (spektrumda) birbirine en güçlü zıtlık oluşturan renkler aşağıdakilerden hangisidir?**
     - **Cevap A-) Tamamlayıcı renkler**
     - B-) Sıcak renkler
-    - C-) Siyah &ndash; beyaz
+    - C-) Siyah – beyaz
     - D-) Soğuk renkler
-    - E-) A&ccedil;ık koyu renkler
-    <hr />
-1. <strong>Pigment (boya) renklerinden siyan mavisinin tamamlayıcısı aşağıdaki renklerden hangisidir?</strong>
+    - E-) Açık koyu renkler
+    ***
+1. **Pigment (boya) renklerinden siyan mavisinin tamamlayıcısı aşağıdaki renklerden hangisidir?**
     - A-) Turuncu
     - B-) Macenta kırmızısı
     - C-) Yeşil
     - **Cevap D-) Kırmızı**
     - E-) Mor
-    <hr />
-1. <strong>Televizyonlardan bilgisayarlara, fotoğraf makinaları, tabletler, cep telefonları ve dış mek&acirc;n ekranlarına kadar t&uuml;m elektronik renkli ekranlar renk &uuml;retimini hangi renk modelini kullanarak elde eder?</strong>
+    ***
+1. **Televizyonlardan bilgisayarlara, fotoğraf makinaları, tabletler, cep telefonları ve dış mekân ekranlarına kadar tüm elektronik renkli ekranlar renk üretimini hangi renk modelini kullanarak elde eder?**
     - A-) CMYK renk modeli
     - B-) CMYK0G renk modeli
     - **Cevap C-) RGB renk modeli**
     - D-) CMY renk modeli
     - E-) RGBK renk modeli
-    <hr />
-1. <strong>D&ouml;rt renk veya altı renk baskılarda bir g&ouml;rselin basılabilmesi i&ccedil;in her rengin farklı a&ccedil;ılara karşılık hangi eylemin yapılması gerekir?</strong>
+    ***
+1. **Dört renk veya altı renk baskılarda bir görselin basılabilmesi için her rengin farklı açılara karşılık hangi eylemin yapılması gerekir?**
     - A-) Renk şişirme
-    - B-) Renk kontrol&uuml;
+    - B-) Renk kontrolü
     - C-) Renk ayarı
     - **Cevap D-) Tramlama**
-    - E-) Renk &ccedil;ubuğu
-    <hr />
+    - E-) Renk çubuğu
+    ***
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi dış mek&acirc;n grafik tasarım &uuml;r&uuml;nleri uygulama/yayınlama mecralarından biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi dış mekân grafik tasarım ürünleri uygulama/yayınlama mecralarından biri değildir?**
     - A-) Billboard
     - B-) Giantboard
     - **Cevap C-) Gazete**
     - D-) Megalight
     - E-) Megaboard
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Bobin Beslemeli B&uuml;y&uuml;k (Geniş) Dijital Baskı Tekniği&rdquo; donanımları tarafından yapılan baskı işlemi katkısı ile &uuml;retilen grafik tasarım &uuml;r&uuml;nleri i&ccedil;erisinde <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Bobin Beslemeli Büyük (Geniş) Dijital Baskı Tekniği” donanımları tarafından yapılan baskı işlemi katkısı ile üretilen grafik tasarım ürünleri içerisinde yer almaz?**
     - A-) Flama ve Bayrak
     - B-) Billboard ve CLP (Işıklı Şehir Posteri)
     - C-) Megalight ve Megaboard
     - **Cevap D-) Dergi ve Gazete**
-    - E-) Taşıt &uuml;zeri grafik tasarım ve fuar standı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı (Flatbed) Baskı Tekniği Donanımları&rdquo; tarafından yapılan baskı işlemi katkısı ile &uuml;retilebilmektedir?</strong>
+    - E-) Taşıt üzeri grafik tasarım ve fuar standı
+    ***
+1. **Aşağıdakilerden hangisi “Düz Yataklı (Flatbed) Baskı Tekniği Donanımları” tarafından yapılan baskı işlemi katkısı ile üretilebilmektedir?**
     - A-) Billboard ve Megalight
     - B-) Bayrak ve Flama
     - C-) X Banner ve Roll Up Banner
     - **Cevap D-) Masa ve Duvar Saati**
     - E-) Gazete ve Dergi
-    <hr />
-1. <strong>Dış mek&acirc;n grafik tasarım &uuml;r&uuml;nlerinin &uuml;retimi ile ilgili ticari işletmelerin kendilerini aşağıdakilerden hangisi ile tanımladığı g&ouml;r&uuml;lmektedir?</strong>
-    - A-) Grafik At&ouml;lye
-    - **Cevap B-) A&ccedil;ıkhava Reklam**
+    ***
+1. **Dış mekân grafik tasarım ürünlerinin üretimi ile ilgili ticari işletmelerin kendilerini aşağıdakilerden hangisi ile tanımladığı görülmektedir?**
+    - A-) Grafik Atölye
+    - **Cevap B-) Açıkhava Reklam**
     - C-) Reklam Ajansı
     - D-) Tanıtım Hizmetleri
     - E-) Tam Hizmet Reklam Ajansı
-    <hr />
-1. <strong>Tasarım hizmeti verilen bir m&uuml;şteri ara&ccedil; filosuna yeni kattığı tırı i&ccedil;in dorse &ccedil;adırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir?</strong>
-    - **Cevap A-) Bobin beslemeli B&uuml;y&uuml;k format dijital baskı tekniği donanımları**
+    ***
+1. **Tasarım hizmeti verilen bir müşteri araç filosuna yeni kattığı tırı için dorse çadırına imaj tasarımı istemektedir. Yapılacak tasarım aşağıda sunulan hangi teknik donanım ile basılabilir?**
+    - **Cevap A-) Bobin beslemeli Büyük format dijital baskı tekniği donanımları**
     - B-) Bobin beslemeli dijital baskı tekniği donanımları
     - C-) Tabaka beslemeli dijital baskı tekniği donanımları
-    - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
+    - D-) Ofis tipi masaüstü çoğaltma tekniği donanımları
     - E-) Web ofset baskı tekniği donanımları
-    <hr />
-1. <strong>Dış mek&acirc;n afişi olarak tasarlanan grafik tasarım &uuml;r&uuml;nlerinden CLP (ışıklı şehir posteri / afişi) i&ccedil;ten aydınlatmalı, baskı altı malzemesi ışık ge&ccedil;irgen &ouml;zel k&acirc;ğıt &uuml;zerine baskısı yapılarak şehir mobilyası CLP mekanizmasına sabitlenmektedir. Standart olarak 118 x 170 cm &ouml;l&ccedil;&uuml;lerindeki bu grafik tasarım &uuml;r&uuml;n&uuml;, aşağıdaki hangi baskı tekniğinin donanımları ile &uuml;retilebilir?</strong>
-    - **Cevap A-) Bobin beslemeli b&uuml;y&uuml;k format dijital baskı tekniği donanımları**
+    ***
+1. **Dış mekân afişi olarak tasarlanan grafik tasarım ürünlerinden CLP (ışıklı şehir posteri / afişi) içten aydınlatmalı, baskı altı malzemesi ışık geçirgen özel kâğıt üzerine baskısı yapılarak şehir mobilyası CLP mekanizmasına sabitlenmektedir. Standart olarak 118 x 170 cm ölçülerindeki bu grafik tasarım ürünü, aşağıdaki hangi baskı tekniğinin donanımları ile üretilebilir?**
+    - **Cevap A-) Bobin beslemeli büyük format dijital baskı tekniği donanımları**
     - B-) Tabaka beslemeli dijital baskı tekniği donanımları
     - C-) Bobin beslemeli dijital baskı tekniği donanımları
-    - D-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
-    - E-) D&uuml;z yataklı dijital baskı tekniği donanımları
-    <hr />
-1. <strong>&Ccedil;ok &ccedil;eşitli &ouml;l&ccedil;&uuml;lerde, i&ccedil; ve dış mek&acirc;nlarda diğer m&uuml;rekkep t&uuml;rlerine g&ouml;re daha dayanıklı, solmayan UV ve su bazlı m&uuml;rekkep kullanabilen&nbsp;baskı tekniğinin donanımları aşağıdakilerden hangisidir?</strong>
+    - D-) Ofis tipi masaüstü çoğaltma tekniği donanımları
+    - E-) Düz yataklı dijital baskı tekniği donanımları
+    ***
+1. **Çok çeşitli ölçülerde, iç ve dış mekânlarda diğer mürekkep türlerine göre daha dayanıklı, solmayan UV ve su bazlı mürekkep kullanabilen baskı tekniğinin donanımları aşağıdakilerden hangisidir?**
     - A-) Ofset baskı tekniği donanımları
     - B-) Flekso baskı tekniği donanımları
-    - C-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
-    - **Cevap D-) D&uuml;z yataklı dijital baskı tekniği donanımları**
-    - E-) Bobin beslemeli b&uuml;y&uuml;k format dijital baskı tekniği donanımları
-    <hr />
-1. <strong>Aşağıdakilerden hangisi, genel olarak CNC Router makineleri tarafından işlem yapılabilen malzemelerden <u>değildir</u>?</strong>
+    - C-) Ofis tipi masaüstü çoğaltma tekniği donanımları
+    - **Cevap D-) Düz yataklı dijital baskı tekniği donanımları**
+    - E-) Bobin beslemeli büyük format dijital baskı tekniği donanımları
+    ***
+1. **Aşağıdakilerden hangisi, genel olarak CNC Router makineleri tarafından işlem yapılabilen malzemelerden değildir?**
     - A-) Masif Ahşap
     - **Cevap B-) Security Cam**
     - C-) Pleksiglass
-    - D-) Al&uuml;minyum Kompozit
+    - D-) Alüminyum Kompozit
     - E-) Dekota
-    <hr />
-1. <strong>Taşıtın &uuml;zerindeki tampon, ayna, kapı, taşıt tavanına ge&ccedil;iş kıvrımının durumu gibi taşıt tasarımının genel hatları g&ouml;z &ouml;n&uuml;ne alınarak değerlendirildiğinde uygulama yapılacak zemindeki kıvrımlar &ccedil;ok ve keskin ise hangi baskı altı malzemesinin kullanılması tercih edilir?</strong>
-    - A-) CLP k&acirc;ğıdı
-    - B-) Blueback k&acirc;ğıt
+    ***
+1. **Taşıtın üzerindeki tampon, ayna, kapı, taşıt tavanına geçiş kıvrımının durumu gibi taşıt tasarımının genel hatları göz önüne alınarak değerlendirildiğinde uygulama yapılacak zemindeki kıvrımlar çok ve keskin ise hangi baskı altı malzemesinin kullanılması tercih edilir?**
+    - A-) CLP kâğıdı
+    - B-) Blueback kâğıt
     - C-) Pleksiglass
     - D-) EPS Strafor
     - **Cevap E-) Cast Folyo**
-    <hr />
-1. <strong>48 adet 60 x 80 cm &ouml;l&ccedil;&uuml;s&uuml;nde masanın ahşap &uuml;zeri beyaz akrilik boyalı tablası &uuml;zerine tasarım g&ouml;rseli, aşağıdaki hangi baskı tekniğinin donanımları ile ekonomik ve kısa s&uuml;rede uygulanır?</strong>
+    ***
+1. **48 adet 60 x 80 cm ölçüsünde masanın ahşap üzeri beyaz akrilik boyalı tablası üzerine tasarım görseli, aşağıdaki hangi baskı tekniğinin donanımları ile ekonomik ve kısa sürede uygulanır?**
     - A-) Ofset baskı tekniği donanımları
     - B-) Flekso baskı tekniği donanımları
-    - C-) Ofis tipi masa&uuml;st&uuml; &ccedil;oğaltma tekniği donanımları
+    - C-) Ofis tipi masaüstü çoğaltma tekniği donanımları
     - D-) Tabaka beslemeli dijital baskı tekniği donanımları
-    - **Cevap E-) D&uuml;z yataklı (tabaka / fladbed) dijital baskı tekniği donanımları**
-    <hr />
-1. I. Bayrak ve flamalarda kullanılan kumaş t&uuml;revi baskı altı malzemelerine baskılar<br />
-II.&nbsp;Billboard ve clp gibi şehir mobilyalarında kullanılan &ccedil;ok farklı &ouml;zellikteki k&acirc;ğıt t&uuml;revi baskı altı malzemelerine baskılar<br />
-III. Renkli gazete ve dergilerde tam sayfa reklam i&ccedil;in yapılan baskılar<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri bobin beslemeli b&uuml;y&uuml;k format dijital baskı teknikleri ile yapılabilen baskılardır?</strong>
+    - **Cevap E-) Düz yataklı (tabaka / fladbed) dijital baskı tekniği donanımları**
+    ***
+1. I. Bayrak ve flamalarda kullanılan kumaş türevi baskı altı malzemelerine baskılar<br />II. Billboard ve clp gibi şehir mobilyalarında kullanılan çok farklı özellikteki kâğıt türevi baskı altı malzemelerine baskılar<br />III. Renkli gazete ve dergilerde tam sayfa reklam için yapılan baskılar<br />**Yukarıdakilerden hangisi ya da hangileri bobin beslemeli büyük format dijital baskı teknikleri ile yapılabilen baskılardır?**
     - A-) Yalnız II
     - B-) Yalnız III
     - C-) I, II ve III
     - D-) II ve III
     - **Cevap E-) I ve II**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;CNC Router Makinaları&rdquo; tarafından işlem yapılan malzemelerden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “CNC Router Makinaları” tarafından işlem yapılan malzemelerden biri değildir?**
     - **Cevap A-) Cam**
     - B-) Plastik
     - C-) MDF lam
     - D-) Polikarbon
-    - E-) Al&uuml;minyum levha
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;D&uuml;z Yataklı Dijital Baskı Tekniği&rdquo; donanımlarının diğer baskı tekniklerine g&ouml;re avantajlı genel &ouml;zellikleri arasında yer alır?</strong>
-    - A-) Bobin ışıklı vinil branda &uuml;zerine basar ve keser.
-    - B-) Bobinden bobine &uuml;retim yapabilme &ouml;zelliği ile esnek ambalaj uygulamaları yapabilir.
-    - **Cevap C-) Y&uuml;ksekliği 200 mm olan &uuml;&ccedil; boyutlu objelere direkt baskı yapılabilir.**
-    - D-) Bobin kumaşı vekt&ouml;rel olarak hazırlanmış &ccedil;izim referansı ile keser.
-    - E-) Bobin cast folyo &uuml;zeri basar ve keser.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Kutu Harf ve &Uuml;&ccedil; Boyutlu Simge &Uuml;retim Teknikleri&rdquo; ile ilgili yaygın olarak kullanılan donanımlar arasında <u>yer almaz</u>?</strong>
+    - E-) Alüminyum levha
+    ***
+1. **Aşağıdakilerden hangisi “Düz Yataklı Dijital Baskı Tekniği” donanımlarının diğer baskı tekniklerine göre avantajlı genel özellikleri arasında yer alır?**
+    - A-) Bobin ışıklı vinil branda üzerine basar ve keser.
+    - B-) Bobinden bobine üretim yapabilme özelliği ile esnek ambalaj uygulamaları yapabilir.
+    - **Cevap C-) Yüksekliği 200 mm olan üç boyutlu objelere direkt baskı yapılabilir.**
+    - D-) Bobin kumaşı vektörel olarak hazırlanmış çizim referansı ile keser.
+    - E-) Bobin cast folyo üzeri basar ve keser.
+    ***
+1. **Aşağıdakilerden hangisi “Kutu Harf ve Üç Boyutlu Simge Üretim Teknikleri” ile ilgili yaygın olarak kullanılan donanımlar arasında yer almaz?**
     - A-) 3D CNC Router Kesim Makinaları
-    - B-) Kutu Harf B&uuml;kme Makinaları
+    - B-) Kutu Harf Bükme Makinaları
     - C-) Metal Lazer Kesim Makinaları
     - D-) Punto Kaynak Makinaları
-    - **Cevap E-) Etriye B&uuml;k&uuml;m Kuşg&ouml;z&uuml; Delme Makinaları**
-    <hr />
+    - **Cevap E-) Etriye Büküm Kuşgözü Delme Makinaları**
+    ***
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi hareketli grafik tasarımı alanını ve tanımını &ouml;zetleyen c&uuml;mle <u>olamaz</u>?</strong>
-    - A-) G&ouml;rsel &ouml;gelere hayat veren bir alandır.
-    - B-) Animasyon, ill&uuml;strasyon, tipografi, fotoğraf, m&uuml;zik, film ve video yapımı gibi alanların birleşimi nedeniyle &ccedil;oklu disipline dayalıdır.
-    - **Cevap C-) Hareketli grafik &uuml;r&uuml;nleri sadece televizyon ve sinemaya hizmet eden bir alandır.**
-    - D-) Hareketli grafik &uuml;r&uuml;nleri televizyondan, sinema, internet gibi etkileşimli medyaya kadar bir&ccedil;ok ortamda g&ouml;sterime girmektedir&nbsp;.
-    - E-) Hareketli grafik tasarımı bilgilendirmek &uuml;zere bir fikri, mesajı iletmek i&ccedil;in animasyon ve grafik tasarımı birleştiren bir alandır.
-    <hr />
-1. <strong>Ekranda durağan g&ouml;r&uuml;nen bir yazının renk veya saydamlığının değişmesi, ne olarak kabul edilmektedir?</strong>
+1. **Aşağıdakilerden hangisi hareketli grafik tasarımı alanını ve tanımını özetleyen cümle olamaz?**
+    - A-) Görsel ögelere hayat veren bir alandır.
+    - B-) Animasyon, illüstrasyon, tipografi, fotoğraf, müzik, film ve video yapımı gibi alanların birleşimi nedeniyle çoklu disipline dayalıdır.
+    - **Cevap C-) Hareketli grafik ürünleri sadece televizyon ve sinemaya hizmet eden bir alandır.**
+    - D-) Hareketli grafik ürünleri televizyondan, sinema, internet gibi etkileşimli medyaya kadar birçok ortamda gösterime girmektedir .
+    - E-) Hareketli grafik tasarımı bilgilendirmek üzere bir fikri, mesajı iletmek için animasyon ve grafik tasarımı birleştiren bir alandır.
+    ***
+1. **Ekranda durağan görünen bir yazının renk veya saydamlığının değişmesi, ne olarak kabul edilmektedir?**
     - A-) Algı karmaşıklığı olarak kabul edilir.
     - B-) Teknik hata olarak kabul edilir.
     - C-) Hareketsiz grafik olarak kabul edilir.
     - **Cevap D-) Hareketli grafik olarak kabul edilir.**
     - E-) 3 boyutlu olarak kabul edilir.
-    <hr />
-1. <strong>Tarihin ilk d&ouml;nemlerinden kalmış &ccedil;ok bacaklı hayvan resimleri g&uuml;n&uuml;m&uuml;z&uuml;n hangi tasarım alanını &ccedil;ağrıştırmaktadır?</strong>
-    - A-) Korkmuş bir hayvanı &ccedil;ağrıştırmaktadır.
-    - B-) &Ccedil;ift başlı kartalları &ccedil;ağrıştırmaktadır.
-    - C-) İnsanların avlamak &uuml;zere tercih ettikleri hayvanları &ccedil;ağrıştırmaktadır.
-    - D-) Renkli fotoğrafları &ccedil;ağrıştırmaktadır.
-    - **Cevap E-) Hareketli g&ouml;r&uuml;nt&uuml;y&uuml; &ccedil;ağrıştırmaktadır.**
-    <hr />
-1. <strong>Dairesel mekanizmada i&ccedil; i&ccedil;e olan iki diskin aynı y&ouml;nde birlikte d&ouml;nd&uuml;r&uuml;lmesi ve ayna tutulmasıyla g&ouml;r&uuml;nt&uuml;lerin hareket ediyormuş gibi g&ouml;r&uuml;nmesini sağlayan aracın adı nedir?</strong>
+    ***
+1. **Tarihin ilk dönemlerinden kalmış çok bacaklı hayvan resimleri günümüzün hangi tasarım alanını çağrıştırmaktadır?**
+    - A-) Korkmuş bir hayvanı çağrıştırmaktadır.
+    - B-) Çift başlı kartalları çağrıştırmaktadır.
+    - C-) İnsanların avlamak üzere tercih ettikleri hayvanları çağrıştırmaktadır.
+    - D-) Renkli fotoğrafları çağrıştırmaktadır.
+    - **Cevap E-) Hareketli görüntüyü çağrıştırmaktadır.**
+    ***
+1. **Dairesel mekanizmada iç içe olan iki diskin aynı yönde birlikte döndürülmesi ve ayna tutulmasıyla görüntülerin hareket ediyormuş gibi görünmesini sağlayan aracın adı nedir?**
     - **Cevap A-) Phenakistoscope**
     - B-) Zoetrope
     - C-) Thaumatrope
     - D-) Praxinoscope
     - E-) Flipbook
-    <hr />
-1. <strong>Aşağıdakilerden hangisi hareketli grafik &uuml;r&uuml;nlerin kullanım alanı <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi hareketli grafik ürünlerin kullanım alanı değildir?**
     - A-) Bilgisayar ve konsol oyunları
     - **Cevap B-) Basılı yayınlar**
     - C-) Sinema
     - D-) Televizyon
     - E-) Web siteleri
-    <hr />
-1. <strong>İnsanlığın hayatına girmiş olan akıllı telefonlar, tabletler, kablosuz uzaktan veri aktarımını sağlayabilen teknolojik aletler hangi kapsamda değerlendirilmektedir?</strong>
+    ***
+1. **İnsanlığın hayatına girmiş olan akıllı telefonlar, tabletler, kablosuz uzaktan veri aktarımını sağlayabilen teknolojik aletler hangi kapsamda değerlendirilmektedir?**
     - **Cevap A-) Yeni medya**
     - B-) Medya
-    - C-) &Ccedil;oklu ortam
+    - C-) Çoklu ortam
     - D-) Yeni teknoloji
     - E-) Multimedya
-    <hr />
-1. <strong>Aşağıdakilerden hangisi hareketli grafiği oluşturan unsurlardan biri&nbsp;<u>değildir</u>?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml;
+    ***
+1. **Aşağıdakilerden hangisi hareketli grafiği oluşturan unsurlardan biri değildir?**
+    - A-) Görüntü
     - B-) Tipografi
     - **Cevap C-) Duygu**
     - D-) Zaman
     - E-) Kurgu
-    <hr />
-1. <strong>Aşağıdaki tasarım programlarından hangisi ile hareketli grafik &uuml;r&uuml;n&uuml; <u>oluşturulamaz</u>?</strong>
+    ***
+1. **Aşağıdaki tasarım programlarından hangisi ile hareketli grafik ürünü oluşturulamaz?**
     - A-) Adobe After Effect
     - B-) Maxon Cinema 4D
     - C-) Autodesk Maya
     - **Cevap D-) Corel Draw**
     - E-) Blender
-    <hr />
-1. <strong>&ldquo;.............&nbsp;............., tasarım &ouml;ğelerinin zaman i&ccedil;inde nasıl değişmesi gerektiğini g&ouml;steren &ouml;nemli &ouml;rnek noktalardır ve bu nedenle hareketli grafiklerin en &ouml;nemli unsurlarından biridir.&rdquo; C&uuml;mlesindeki boş alanı en doğru dolduracak se&ccedil;enek hangisidir?</strong>
+    ***
+1. **“............. ............., tasarım öğelerinin zaman içinde nasıl değişmesi gerektiğini gösteren önemli örnek noktalardır ve bu nedenle hareketli grafiklerin en önemli unsurlarından biridir.” Cümlesindeki boş alanı en doğru dolduracak seçenek hangisidir?**
     - A-) Zaman
     - **Cevap B-) Anahtar kareler**
     - C-) Değişim
     - D-) Ses
     - E-) Tipografi
-    <hr />
-1. <strong>İzleyiciye bir sahnenin perspektifinin g&ouml;rsel olarak anlatılması ve şekillendirilmesi amacıyla gerekli olan se&ccedil;enek aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İzleyiciye bir sahnenin perspektifinin görsel olarak anlatılması ve şekillendirilmesi amacıyla gerekli olan seçenek aşağıdakilerden hangisidir?**
     - A-) Işık
     - B-) Odaklanma
-    - C-) Geniş a&ccedil;ı
-    - D-) Dar a&ccedil;ı
+    - C-) Geniş açı
+    - D-) Dar açı
     - **Cevap E-) Kamera hareketliliği**
-    <hr />
-1. <strong>&ldquo;G&ouml;r&uuml;nt&uuml;leri, sesi, hareketi ve &ouml;yk&uuml;y&uuml; birleştirerek film jenerikleri, m&uuml;zik videosu, web, televizyon, etkileşimli medya ve taşınabilir telefonlar i&ccedil;in ardışık canlandırma sahneleri oluşturur.&rdquo; tanımı aşağıdakilerden hangisine aittir?</strong>
+    ***
+1. **“Görüntüleri, sesi, hareketi ve öyküyü birleştirerek film jenerikleri, müzik videosu, web, televizyon, etkileşimli medya ve taşınabilir telefonlar için ardışık canlandırma sahneleri oluşturur.” tanımı aşağıdakilerden hangisine aittir?**
     - A-) Reklam tasarımı
     - B-) Yeni medya
-    - C-) G&ouml;sterme bi&ccedil;imi
-    - D-) G&ouml;rsel, işitsel kombinasyon
+    - C-) Gösterme biçimi
+    - D-) Görsel, işitsel kombinasyon
     - **Cevap E-) Hareketli grafik tasarımı**
-    <hr />
-1. <strong>D&ouml;nd&uuml;r&uuml;ld&uuml;k&ccedil;e hareket ediyormuş izlenimi oluşturan antik buluntu aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Döndürüldükçe hareket ediyormuş izlenimi oluşturan antik buluntu aşağıdakilerden hangisidir?**
     - A-) Phenakistoscope
     - B-) Zoetrope
     - C-) Mağara resmi
-    - **Cevap D-) &Ccedil;&ouml;mlek**
+    - **Cevap D-) Çömlek**
     - E-) Kolon
-    <hr />
-1. ..................., film veya programın anlatım s&uuml;recine katkı yaparken kanalların g&ouml;rsel kimliğini destekleyici, tamamlayıcı rol &uuml;stlenirler.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. ..................., film veya programın anlatım sürecine katkı yaparken kanalların görsel kimliğini destekleyici, tamamlayıcı rol üstlenirler.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) Reklamlar
     - **Cevap B-) Jenerikler**
     - C-) Film yorumları
     - D-) Fragmanlar
     - E-) Grafik tasarımlar
-    <hr />
-1. Tipografinin planlanmış hareket bi&ccedil;imleri ve boyutları ile oluşturulan duygular, grafik etki olarak iletilir. &Ccedil;oğu durumda yazı artık metin olarak okunmaz, ancak ............. ... ............. yoluyla karmaşık g&ouml;stergebilim&nbsp;deneyimleri oluşturan fiziksel şekil olarak algılanır.<br />
-<strong>C&uuml;mlede boş bırakılan yerlere aşağıdakilerden hangileri getirilmelidir?</strong>
+    ***
+1. Tipografinin planlanmış hareket biçimleri ve boyutları ile oluşturulan duygular, grafik etki olarak iletilir. Çoğu durumda yazı artık metin olarak okunmaz, ancak ............. ... ............. yoluyla karmaşık göstergebilim deneyimleri oluşturan fiziksel şekil olarak algılanır.<br />**Cümlede boş bırakılan yerlere aşağıdakilerden hangileri getirilmelidir?**
     - **Cevap A-) metafor ve hareket**
-    - B-) semiyoloji ve g&ouml;sterge
+    - B-) semiyoloji ve gösterge
     - C-) hareket ve semiyoloji
-    - D-) g&ouml;sterge ve metafor
+    - D-) gösterge ve metafor
     - E-) metafor ve semiyoloji
-    <hr />
+    ***

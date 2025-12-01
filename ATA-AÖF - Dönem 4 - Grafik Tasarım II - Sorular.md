@@ -1,1459 +1,1444 @@
-# Grafik Tasarım II
+# Grafik Tasarım II (Dönem 4) - Tüm Sorular
+
 ## Unite 1
-1. <strong>İll&uuml;strasyonun temel işlevi nedir?</strong>
+1. **İllüstrasyonun temel işlevi nedir?**
     - A-) Sayfayı doldurmak
     - B-) Reklam
     - C-) Satışı artırmak
-    - D-) Dikkat &ccedil;ekmek
+    - D-) Dikkat çekmek
     - **Cevap E-) Bir metni açıklamak**
-    <hr />
-1. <strong>İnsanın iletişim kaygısı sonucu gelişen yazı aşağıdaki hangi aşamalara sahiptir?</strong>
-    - **Cevap A-) Resim-s&ouml;z-yazı**
-    - B-) Yazı-s&ouml;z-resim
-    - C-) S&ouml;z-resim-yazı
-    - D-) Resim-yazı-s&ouml;z
-    - E-) Yazı-resim-s&ouml;z
-    <hr />
-1. <strong>Kitap ve kitap resimlemenin gelişim merkezi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İnsanın iletişim kaygısı sonucu gelişen yazı aşağıdaki hangi aşamalara sahiptir?**
+    - **Cevap A-) Resim-söz-yazı**
+    - B-) Yazı-söz-resim
+    - C-) Söz-resim-yazı
+    - D-) Resim-yazı-söz
+    - E-) Yazı-resim-söz
+    ***
+1. **Kitap ve kitap resimlemenin gelişim merkezi aşağıdakilerden hangisidir?**
     - A-) Asya
     - B-) Amerika
     - **Cevap C-) Avrupa**
     - D-) Rusya
     - E-) Mısır
-    <hr />
-1. <strong>Orta &Ccedil;ağ, 11. ve 13. y&uuml;zyıllarda el yazmalarında yer alan resimlemelerde meydana gelen değişiklikler aşağıdakilerden hangidir?</strong>
+    ***
+1. **Orta Çağ, 11. ve 13. yüzyıllarda el yazmalarında yer alan resimlemelerde meydana gelen değişiklikler aşağıdakilerden hangidir?**
     - A-) Nesnenin asıl rengi kullanılmıştır.
-    - B-) Olayın ge&ccedil;tiği mek&acirc;n &ouml;nem kazanmıştır.
-    - **Cevap C-) Kutsal &ouml;yk&uuml;y&uuml; anlatmak ve mesaj vermek &ouml;nem kazanmıştır.**
-    - D-) Amaca y&ouml;nelik detay &ouml;nem kazanmıştır.
+    - B-) Olayın geçtiği mekân önem kazanmıştır.
+    - **Cevap C-) Kutsal öyküyü anlatmak ve mesaj vermek önem kazanmıştır.**
+    - D-) Amaca yönelik detay önem kazanmıştır.
     - E-) Renk kullanımı azalmıştır.
-    <hr />
-1. <strong>Matbaanın bulunuşunun doğurduğu olumlu sonu&ccedil;lar aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Matbaanın bulunuşunun doğurduğu olumlu sonuçlar aşağıdakilerden hangisidir?**
     - A-) Kitap basımının sınırlı sayıda yapılması
     - B-) Basım işleminin uzun zaman gerektirmesi
     - **Cevap C-) Bilginin toplumun her kesimine daha ucuz ve hızlı bir şekilde ulaşması**
     - D-) Sadece kilise ve manastırlarda basılması
     - E-) Halkın erişimine ulaşmaması
-    <hr />
-1. <strong>19. y&uuml;zyılda Avrupa sanatını etkileyen sanat akımı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **19. yüzyılda Avrupa sanatını etkileyen sanat akımı aşağıdakilerden hangisidir?**
     - **Cevap A-) Art Nouveau**
     - B-) Empresyonizm
     - C-) Soyut sanat
     - D-) Ekspresyonizm
-    - E-) K&uuml;bizm
-    <hr />
-1. <strong>20. Y&uuml;zyılda afiş tasarımına yeni bir yaklaşım getiren sanat&ccedil;ı kimdir?</strong>
-    - A-) &Eacute;douard Manet
-    - B-) Honor&eacute; Daumier
+    - E-) Kübizm
+    ***
+1. **20. Yüzyılda afiş tasarımına yeni bir yaklaşım getiren sanatçı kimdir?**
+    - A-) Édouard Manet
+    - B-) Honoré Daumier
     - **Cevap C-) Saul Bass**
     - D-) Toulouse Lautrec
-    - E-) Meng&uuml; Ertel
-    <hr />
-1. <strong>Reklam ill&uuml;strasyonu kapsamına giren alanlar hangileridir?</strong>
+    - E-) Mengü Ertel
+    ***
+1. **Reklam illüstrasyonu kapsamına giren alanlar hangileridir?**
     - **Cevap A-) Moda, afiş, ambalaj**
     - B-) Kitap, dergi, gazete
     - C-) Tıp, botanik, mimari
     - D-) Ambalaj, dergi, kitap
     - E-) Moda, tıp, kitap
-    <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi ill&uuml;strasyon teriminin tanımlarından biri <u>değildir</u>?</strong>
-    - A-) İll&uuml;strasyon bir metni, bir olguyu, bir durumu g&ouml;rsel yolla a&ccedil;ıklamaya y&ouml;nelik resimlemelerdir.
-    - B-) İll&uuml;strasyon kitap i&ccedil;indeki yazıyı a&ccedil;ıklayan ve s&uuml;sleyen bir &ouml;gedir.
-    - C-) İll&uuml;strasyon artık canlı ve s&uuml;rekli gelişmekte olan g&uuml;&ccedil;l&uuml; bir uygulamalı sanat bi&ccedil;imidir.
-    - D-) İll&uuml;strasyon, izah edici resim anlamına gelmektedir.
+    ***
+1. **Aşağıdaki ifadelerden hangisi illüstrasyon teriminin tanımlarından biri değildir?**
+    - A-) İllüstrasyon bir metni, bir olguyu, bir durumu görsel yolla açıklamaya yönelik resimlemelerdir.
+    - B-) İllüstrasyon kitap içindeki yazıyı açıklayan ve süsleyen bir ögedir.
+    - C-) İllüstrasyon artık canlı ve sürekli gelişmekte olan güçlü bir uygulamalı sanat biçimidir.
+    - D-) İllüstrasyon, izah edici resim anlamına gelmektedir.
     - **Cevap E-) İllustrasyon geleneksel sanatlardan biri olarak ifade edilmektedir.**
-    <hr />
-1. <strong>Aşağıdaki sanat akımlarından hangisi 20. y&uuml;zyılın başlarında ortaya &ccedil;ıkmış ve modern boyutta bir tarza d&ouml;n&uuml;şm&uuml;şt&uuml;r?</strong>
+    ***
+1. **Aşağıdaki sanat akımlarından hangisi 20. yüzyılın başlarında ortaya çıkmış ve modern boyutta bir tarza dönüşmüştür?**
     - A-) Lale Devri Sanatı
     - **Cevap B-) Art Deco Sanat Akımı**
     - C-) Art Nouveau Sanat Akımı
-    - D-) R&ouml;nesans D&ouml;nemi Sanatı
-    - E-) Barok D&ouml;nemi Sanatı
-    <hr />
-1. <strong>İll&uuml;strasyonun uygulama alanlarından biri aşağıdakilerden hangisidir?</strong>
+    - D-) Rönesans Dönemi Sanatı
+    - E-) Barok Dönemi Sanatı
+    ***
+1. **İllüstrasyonun uygulama alanlarından biri aşağıdakilerden hangisidir?**
     - A-) Geleneksel El Sanatları
     - B-) Dokuma Sanayii
-    - **Cevap C-) Teknik ve Bilimsel İll&uuml;strasyon**
+    - **Cevap C-) Teknik ve Bilimsel İllüstrasyon**
     - D-) Eğitim Bilimleri
     - E-) Sosyal Bilimler Eğitimi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ill&uuml;strasyon malzeme ve tekniklerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi illüstrasyon malzeme ve tekniklerinden biri değildir?**
     - A-) Kuru Boya Teknikleri
     - B-) Su Bazlı Teknikler
     - **Cevap C-) Karakalem Tekniği**
-    - D-) M&uuml;rekkepler
+    - D-) Mürekkepler
     - E-) Dijital Uygulama Teknikleri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi İspanya&rsquo;da bulunan bir mağaradır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi İspanya’da bulunan bir mağaradır?**
     - A-) Magura mağarası
     - B-) Lascaux Mağarası
     - **Cevap C-) Altamira Mağarası**
     - D-) Bhimbetka Mağarası
     - E-) Eller Mağarası
-    <hr />
-1. <strong>Toplumcu Yaklaşım hangi d&ouml;nemde &ouml;nem kazanmaya başlamıştır?</strong>
-    - A-) Orta &Ccedil;ağ
-    - **Cevap B-) R&ouml;nesans**
+    ***
+1. **Toplumcu Yaklaşım hangi dönemde önem kazanmaya başlamıştır?**
+    - A-) Orta Çağ
+    - **Cevap B-) Rönesans**
     - C-) Aydınlanma
     - D-) Postmodernizm
     - E-) Modernizm
-    <hr />
-1. <strong>Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının &ouml;zelliklerinden biridir?</strong>
-    - A-) Yoğun &ccedil;izgiler
+    ***
+1. **Aşağıdakilerden hangisi afiş tasarımında Plakatstil tarzının özelliklerinden biridir?**
+    - A-) Yoğun çizgiler
     - B-) Karışık renkler
-    - C-) Ayrıntılı &ccedil;izgiler
+    - C-) Ayrıntılı çizgiler
     - **Cevap D-) Minimal etkiler**
     - E-) Karışık desenler
-    <hr />
+    ***
 ## Unite 2
-1. <strong>Aşağıdakilerden hangisi bilgisayarın gelişim s&uuml;recine ait d&ouml;nemlerden biridir?</strong>
-    - **Cevap A-) Mekanik &Ccedil;ağ**
-    - B-) Paleolitik &Ccedil;ağ
-    - C-) Mezolitik &Ccedil;ağ
-    - D-) Neolitik &Ccedil;ağ
-    - E-) Kalkolitik &Ccedil;ağ
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı ara&ccedil;lardan biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi bilgisayarın gelişim sürecine ait dönemlerden biridir?**
+    - **Cevap A-) Mekanik Çağ**
+    - B-) Paleolitik Çağ
+    - C-) Mezolitik Çağ
+    - D-) Neolitik Çağ
+    - E-) Kalkolitik Çağ
+    ***
+1. **Aşağıdakilerden hangisi bilgisayarın tasarımda kullanılmadığı zamanlarda grafik tasarımcıların kullandığı araçlardan biri değildir?**
     - A-) Letraset
     - B-) Kretuar
     - C-) Yapıştırıcı
     - D-) Asetat
     - **Cevap E-) Grafik Tablet**
-    <hr />
-1. <strong>1984&rsquo;te lansmanı yapılan Macintosh bilgisayarın masa&uuml;st&uuml; yayıncılık i&ccedil;in uygun bir sistem olmasının başlıca nedeni aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Grafiksel kullanıcı aray&uuml;z&uuml;ne (GUI) sahip olması**
-    - B-) Renkli monit&ouml;r&uuml;n&uuml;n olması
-    - C-) Disket s&uuml;r&uuml;c&uuml;ye sahip olması
+    ***
+1. **1984’te lansmanı yapılan Macintosh bilgisayarın masaüstü yayıncılık için uygun bir sistem olmasının başlıca nedeni aşağıdakilerden hangisidir?**
+    - **Cevap A-) Grafiksel kullanıcı arayüzüne (GUI) sahip olması**
+    - B-) Renkli monitörünün olması
+    - C-) Disket sürücüye sahip olması
     - D-) Ethernet bağlantısına sahip olması
     - E-) All-in-one sistemine sahip olması
-    <hr />
-1. <strong>Paul Brainerd&rsquo;in kurucusu olduğu yazılım firması ismini aşağıdaki yayıncıların hangisinden almıştır?</strong>
+    ***
+1. **Paul Brainerd’in kurucusu olduğu yazılım firması ismini aşağıdaki yayıncıların hangisinden almıştır?**
     - A-) Aldus Freehand
     - B-) Aldus Corporation
     - C-) Aldus Gutenberg
     - **Cevap D-) Aldus Manutius**
     - E-) Aldus Publisher
-    <hr />
-1. <strong>&quot;Masa&uuml;st&uuml; Yayıncılık&quot; kavramı tasarımın aşağıdaki hangi aşamasını kapsar?</strong>
+    ***
+1. **"Masaüstü Yayıncılık" kavramı tasarımın aşağıdaki hangi aşamasını kapsar?**
     - A-) Tasarım fikri geliştirme
     - B-) İletişim problemini belirleme
-    - C-) Tasarım ve iletişim s&uuml;recinden beklenen &ccedil;ıktıları belirleme
+    - C-) Tasarım ve iletişim sürecinden beklenen çıktıları belirleme
     - D-) Hedef kitle analizi
-    - **Cevap E-) Karar verilen tasarımın yayına hazır h&acirc;le getirilmesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir masa&uuml;st&uuml; yayıncılık aracı <u>değildir</u>?</strong>
+    - **Cevap E-) Karar verilen tasarımın yayına hazır hâle getirilmesi**
+    ***
+1. **Aşağıdakilerden hangisi bir masaüstü yayıncılık aracı değildir?**
     - A-) Bilgisayar
     - B-) Yazılım
     - C-) Tarayıcı
     - **Cevap D-) Ofset baskı makinesi**
     - E-) Veri nakil, depolama sistemleri
-    <hr />
-1. <strong>Masa&uuml;st&uuml; yayıncılıkta bilgisayar teknolojisinin birincil işlevi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Masaüstü yayıncılıkta bilgisayar teknolojisinin birincil işlevi aşağıdakilerden hangisidir?**
     - A-) Bir iletişim problemini tespit etmek
-    - B-) İletişim probleminin &ccedil;&ouml;z&uuml;m&uuml;ne y&ouml;nelik fikir geliştirmek
-    - C-) G&ouml;z alıcı ve estetik tasarımı &uuml;retmek
-    - D-) Tek başına iletişim probleminin &ccedil;&ouml;z&uuml;m&uuml;n&uuml; ger&ccedil;ekleştirmek
-    - **Cevap E-) Tasarımcının fikrini &uuml;r&uuml;ne d&ouml;n&uuml;şt&uuml;rmesinde yardımcı olmak**
-    <hr />
-1. <strong>Grafik tasarım uygulaması yapılan bilgisayarda aşağıdaki &ouml;zelliklerden hangisine sahip olması &ouml;ncelikle <u>beklenmez</u>?</strong>
-    - **Cevap A-) Kayıt &ouml;zellikli &ccedil;ift DVD s&uuml;r&uuml;c&uuml;**
-    - B-) Y&uuml;ksek kapasiteli sabit disk
-    - C-) B&uuml;y&uuml;k monit&ouml;r
-    - D-) Y&uuml;ksek kapasiteli RAM
+    - B-) İletişim probleminin çözümüne yönelik fikir geliştirmek
+    - C-) Göz alıcı ve estetik tasarımı üretmek
+    - D-) Tek başına iletişim probleminin çözümünü gerçekleştirmek
+    - **Cevap E-) Tasarımcının fikrini ürüne dönüştürmesinde yardımcı olmak**
+    ***
+1. **Grafik tasarım uygulaması yapılan bilgisayarda aşağıdaki özelliklerden hangisine sahip olması öncelikle beklenmez?**
+    - **Cevap A-) Kayıt özellikli çift DVD sürücü**
+    - B-) Yüksek kapasiteli sabit disk
+    - C-) Büyük monitör
+    - D-) Yüksek kapasiteli RAM
     - E-) Gelişmiş ekran kartı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık uygulamalarında kullanılabilecek bir &ccedil;ıktı cihazı <u>değildir</u>?</strong>
-    - A-) M&uuml;rekkep p&uuml;sk&uuml;rtmeli yazıcı
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılık uygulamalarında kullanılabilecek bir çıktı cihazı değildir?**
+    - A-) Mürekkep püskürtmeli yazıcı
     - **Cevap B-) Nokta vuruşlu yazıcı**
     - C-) Lazer yazıcı
-    - D-) Kalıp &ccedil;ıkış cihazı
-    - E-) Film &ccedil;ıkış cihazı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgisayarda kullanılan sistem yazılımlardan biri <u>değildir</u>?</strong>
+    - D-) Kalıp çıkış cihazı
+    - E-) Film çıkış cihazı
+    ***
+1. **Aşağıdakilerden hangisi bilgisayarda kullanılan sistem yazılımlardan biri değildir?**
     - **Cevap A-) Resim işletim sistemi**
     - B-) MacOs işletim sistemi
     - C-) Windows işletim sistemi
     - D-) Pardus işletim sistemi
     - E-) Linux işletim sistemi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi 1950&rsquo;lerin sonundan itibaren sayısız afiş ve grafik &uuml;r&uuml;n&uuml; tasarlayan, T&uuml;rk Grafik Tasarım tarihinin &ouml;nemli tasarımcılarından biridir?</strong>
-    - **Cevap A-) Meng&uuml; Ertel**
-    - B-) Albert D&uuml;rer
+    ***
+1. **Aşağıdakilerden hangisi 1950’lerin sonundan itibaren sayısız afiş ve grafik ürünü tasarlayan, Türk Grafik Tasarım tarihinin önemli tasarımcılarından biridir?**
+    - **Cevap A-) Mengü Ertel**
+    - B-) Albert Dürer
     - C-) Michelangelo
-    - D-) İbrahim &Ccedil;allı
-    - E-) Matrak&ccedil;ı Nasuh
-    <hr />
-1. <strong>Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Y&uuml;ksek &ccedil;ıkış hızı
-    - B-) Kaliteli renkli baskı imk&acirc;nı
-    - C-) Kaliteli siyah-beyaz baskı imk&acirc;nı
-    - **Cevap D-) &Ccedil;ok b&uuml;y&uuml;k ebatlı baskı imk&acirc;nı**
-    - E-) D&uuml;ş&uuml;k &ccedil;ıkış maliyeti
-    <hr />
-1. <strong>Aşağıdakilerden hangisi masa&uuml;st&uuml; yayıncılık amacıyla kullanılan bilgisayarın monit&ouml;r&uuml;nden beklenen &ouml;zelliklerden biri <u>değildir</u>?</strong>
-    - A-) B&uuml;y&uuml;k olması
-    - B-) Hızlı tepki s&uuml;resine sahip olması
-    - C-) Y&uuml;ksek &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahip olması
-    - **Cevap D-) &Ccedil;ok y&uuml;ksek kontrastlı olması**
+    - D-) İbrahim Çallı
+    - E-) Matrakçı Nasuh
+    ***
+1. **Aşağıdakilerden hangisi lazer yazıcının avantajlarından biri değildir?**
+    - A-) Yüksek çıkış hızı
+    - B-) Kaliteli renkli baskı imkânı
+    - C-) Kaliteli siyah-beyaz baskı imkânı
+    - **Cevap D-) Çok büyük ebatlı baskı imkânı**
+    - E-) Düşük çıkış maliyeti
+    ***
+1. **Aşağıdakilerden hangisi masaüstü yayıncılık amacıyla kullanılan bilgisayarın monitöründen beklenen özelliklerden biri değildir?**
+    - A-) Büyük olması
+    - B-) Hızlı tepki süresine sahip olması
+    - C-) Yüksek çözünürlüğe sahip olması
+    - **Cevap D-) Çok yüksek kontrastlı olması**
     - E-) Renk tutarlılığına sahip olması
-    <hr />
-1. <strong>Bilgisayarın kullanılmadığı manuel grafik tasarım d&ouml;neminde, tasarımda kullanılacak g&ouml;rselleri ve diğer tasarım elemanlarını tasarım planına g&ouml;re sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?</strong>
-    - A-) Agrandiz&ouml;r
-    - **Cevap B-) Pikaj&ouml;r**
-    - C-) Viz&ouml;r
-    - D-) Grafik&ccedil;i
-    - E-) Desinat&ouml;r
-    <hr />
+    ***
+1. **Bilgisayarın kullanılmadığı manuel grafik tasarım döneminde, tasarımda kullanılacak görselleri ve diğer tasarım elemanlarını tasarım planına göre sayfalara (veya astrolona) yapıştıran meslek elemanı aşağıdakilerden hangisidir?**
+    - A-) Agrandizör
+    - **Cevap B-) Pikajör**
+    - C-) Vizör
+    - D-) Grafikçi
+    - E-) Desinatör
+    ***
 ## Unite 3
-1. <strong>Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?</strong>
+1. **Alfabeyi ilk bulan uygarlık aşağıdakilerden hangisidir?**
     - A-) Romalılar
     - **Cevap B-) Fenikeliler**
     - C-) Yunanlılar
-    - D-) T&uuml;rkler
+    - D-) Türkler
     - E-) Mısırlılar
-    <hr />
-1. <strong>İlk alfabenin okuma y&ouml;n&uuml; aşağıdakilerden hangisidir?</strong>
+    ***
+1. **İlk alfabenin okuma yönü aşağıdakilerden hangisidir?**
     - **Cevap A-) Sağdan sola**
     - B-) Soldan Sağa
     - C-) Yukarıdan aşağıya
     - D-) Aşağıdan yukarıya
     - E-) Karışık
-    <hr />
-1. <strong>Gutenberg neyi icat etmiştir?</strong>
+    ***
+1. **Gutenberg neyi icat etmiştir?**
     - A-) Yazı
     - **Cevap B-) Matbaa**
     - C-) Kalem
     - D-) Kağıt
-    - E-) Papir&uuml;s
-    <hr />
-1. <strong>&ldquo;Boustrophedon&rdquo; nedir?</strong>
+    - E-) Papirüs
+    ***
+1. **“Boustrophedon” nedir?**
     - A-) Antik geminin adı
-    - **Cevap B-) Soldan sağa veya sağdan sola karışık okuma bi&ccedil;imi**
+    - **Cevap B-) Soldan sağa veya sağdan sola karışık okuma biçimi**
     - C-) Kağıt yapımında bir teknik
-    - D-) Matbaa i&ccedil;in gerekli bir alet
-    - E-) &Ouml;zel bir m&uuml;rekkebin ismi
-    <hr />
-1. <strong>Uluburun batığında yazı tarihi i&ccedil;in &ouml;nemi olan ne bulunmuştur?</strong>
+    - D-) Matbaa için gerekli bir alet
+    - E-) Özel bir mürekkebin ismi
+    ***
+1. **Uluburun batığında yazı tarihi için önemi olan ne bulunmuştur?**
     - A-) Antik yazıtlar
     - B-) Antik paralar
     - **Cevap C-) Tarihteki ilk balmumu yazı takımı**
-    - D-) Papir&uuml;sler
-    - E-) Parş&ouml;men bir kitap
-    <hr />
-1. <strong>Papir&uuml;s nerede yetişmektedir?</strong>
+    - D-) Papirüsler
+    - E-) Parşömen bir kitap
+    ***
+1. **Papirüs nerede yetişmektedir?**
     - A-) İtalya, Roma kıyısında
-    - B-) T&uuml;rkiye, Uluburun kıyısında
-    - C-) T&uuml;rkiye, Bergama kıyısında
+    - B-) Türkiye, Uluburun kıyısında
+    - C-) Türkiye, Bergama kıyısında
     - **Cevap D-) Mısır, Nil kıyısında**
     - E-) Akdeniz ikliminde
-    <hr />
-1. <strong>Parş&ouml;men nerede icat edilmiştir?</strong>
+    ***
+1. **Parşömen nerede icat edilmiştir?**
     - A-) Fenike
     - B-) Kapadokya
     - **Cevap C-) Bergama**
     - D-) Perge
     - E-) Side
-    <hr />
-1. <strong>Aşağıdakilerden hangisi parş&ouml;menin papir&uuml;se kıyasla olumlu bir y&ouml;n&uuml;n&uuml; ifade etmektedir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi parşömenin papirüse kıyasla olumlu bir yönünü ifade etmektedir?**
     - A-) Kırılganlığının fazla olması
     - B-) Yapışkan istememesi
     - C-) Tek taraflı yazılabilmesi
-    - D-) Yumuşak fır&ccedil;a kullanılması
+    - D-) Yumuşak fırça kullanılması
     - **Cevap E-) Katlanabilmesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi parş&ouml;menin icadı i&ccedil;in sebep olmuştur?</strong>
-    - **Cevap A-) Firavunun Bergama&rsquo;ya papir&uuml;s ithalatını durdurması**
-    - B-) Uzun s&uuml;ren savaşlar
-    - C-) Ekonominin k&ouml;t&uuml; olması
-    - D-) Bambu&rsquo;nun pop&uuml;ler olması
+    ***
+1. **Aşağıdakilerden hangisi parşömenin icadı için sebep olmuştur?**
+    - **Cevap A-) Firavunun Bergama’ya papirüs ithalatını durdurması**
+    - B-) Uzun süren savaşlar
+    - C-) Ekonominin kötü olması
+    - D-) Bambu’nun popüler olması
     - E-) Kağıdın icadı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir tipografi terimi <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir tipografi terimi değildir?**
     - A-) Ligature
     - B-) Serif
-    - **Cevap C-) Papir&uuml;s**
+    - **Cevap C-) Papirüs**
     - D-) Crotch
     - E-) Terminal
-    <hr />
-1. <strong>Yazı tipinin se&ccedil;ilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisi <u>kullanılmaz</u>?</strong>
+    ***
+1. **Yazı tipinin seçilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisi kullanılmaz?**
     - A-) Fotoğraf
-    - B-) G&ouml;rsel imgeler
+    - B-) Görsel imgeler
     - C-) Diğer yazı elemanları
     - D-) Renk
     - **Cevap E-) Doku**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;alfabe&quot; s&ouml;zc&uuml;ğ&uuml;n&uuml;n anlamını ifade eder?</strong>
-    - **Cevap A-) Alpha ve Beta s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.**
-    - B-) Alpha ve Tetra s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
-    - C-) Alpha ve Delta s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
-    - D-) Beta ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
-    - E-) Tetra ve Gama s&ouml;zc&uuml;klerinin bir araya gelmesinden t&uuml;remiştir.
-    <hr />
-1. <strong>Gutenberg aşağıdakilerden hangisini icat etmiştir?</strong>
-    - A-) K&acirc;ğıt
+    ***
+1. **Aşağıdakilerden hangisi "alfabe" sözcüğünün anlamını ifade eder?**
+    - **Cevap A-) Alpha ve Beta sözcüklerinin bir araya gelmesinden türemiştir.**
+    - B-) Alpha ve Tetra sözcüklerinin bir araya gelmesinden türemiştir.
+    - C-) Alpha ve Delta sözcüklerinin bir araya gelmesinden türemiştir.
+    - D-) Beta ve Gama sözcüklerinin bir araya gelmesinden türemiştir.
+    - E-) Tetra ve Gama sözcüklerinin bir araya gelmesinden türemiştir.
+    ***
+1. **Gutenberg aşağıdakilerden hangisini icat etmiştir?**
+    - A-) Kâğıt
     - B-) Yapışkan
-    - **Cevap C-) M&uuml;rekkep**
-    - D-) Bı&ccedil;ak
+    - **Cevap C-) Mürekkep**
+    - D-) Bıçak
     - E-) Kalem
-    <hr />
+    ***
 ## Unite 4
-1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği alanlarından biri <u>değildir</u>?</strong>
-    - A-) Y&ouml;n grafiği
+1. **Aşağıdakilerden hangisi çevre grafiği alanlarından biri değildir?**
+    - A-) Yön grafiği
     - **Cevap B-) Ambalaj grafiği**
     - C-) Kimlik grafiği
-    - D-) A&ccedil;ıklayıcı grafik
-    - E-) D&uuml;zenleyici grafik
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden <u>değildir</u>?</strong>
+    - D-) Açıklayıcı grafik
+    - E-) Düzenleyici grafik
+    ***
+1. **Aşağıdakilerden hangisi çevresel grafik tasarımının işlevlerinden değildir?**
     - A-) Bilgi vermek
-    - B-) Y&ouml;n bulmak
+    - B-) Yön bulmak
     - C-) Satış yapmak
     - D-) Aidiyet duygusu yaratmak
-    - **Cevap E-) Mek&acirc;nı tanımak**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap E-) Mekânı tanımak**
+    ***
+1. **Aşağıdakilerden hangisi çevresel grafik tasarımının işlevlerinden biri değildir?**
     - A-) Bilgi vermek
-    - B-) Y&ouml;n bulmak
+    - B-) Yön bulmak
     - **Cevap C-) Satış yapmak**
     - D-) Aidiyet duygusu yaratmak
-    - E-) Mek&acirc;nı tanımak
-    <hr />
-1. <strong>Hangisi d&uuml;zenleyici &ccedil;evre grafiğine &ouml;rnek olabilir?</strong>
+    - E-) Mekânı tanımak
+    ***
+1. **Hangisi düzenleyici çevre grafiğine örnek olabilir?**
     - **Cevap A-) Kural piktogramları**
     - B-) Site haritası
-    - C-) M&uuml;ze kataloğu
+    - C-) Müze kataloğu
     - D-) Apartman numarası
     - E-) Otel kat bilgilendirmesi
-    <hr />
-1. <strong>Hangisi &ccedil;evresel grafik tasarımcının g&ouml;revlerinden <u>değildir</u>?</strong>
+    ***
+1. **Hangisi çevresel grafik tasarımcının görevlerinden değildir?**
     - A-) Oryantasyon
     - B-) Navigasyon
     - C-) Bilgilendirme
     - **Cevap D-) Her yeri renklendirme**
     - E-) Bellek oluşturma
-    <hr />
-1. <strong>&Ccedil;evresel grafik tasarımının işlevini aşağıdakilerden hangisi <u>a&ccedil;ıklamaz</u>?</strong>
-    - A-) Mek&acirc;na kimlik kazandırmak
+    ***
+1. **Çevresel grafik tasarımının işlevini aşağıdakilerden hangisi açıklamaz?**
+    - A-) Mekâna kimlik kazandırmak
     - B-) Ben neredeyim sorusuna cevap bulmak
-    - C-) Mek&acirc;nı tanımlamak
-    - **Cevap D-) Mek&acirc;na satış sağlamak**
-    - E-) Mek&acirc;nı yaşanır kılmak
-    <hr />
-1. I. Yalın işaretler<br />
-II. Doğru noktalara konmuş bilgilendirmeler<br />
-III. Mek&acirc;nla uyum sağlayan grafikler<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri &ccedil;evre tasarımının grafik tasarım kapsamındaki işlevleri arasında yer alır?</strong>
+    - C-) Mekânı tanımlamak
+    - **Cevap D-) Mekâna satış sağlamak**
+    - E-) Mekânı yaşanır kılmak
+    ***
+1. I. Yalın işaretler<br />II. Doğru noktalara konmuş bilgilendirmeler<br />III. Mekânla uyum sağlayan grafikler<br />**Yukarıdakilerden hangisi ya da hangileri çevre tasarımının grafik tasarım kapsamındaki işlevleri arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>&Ccedil;evresel grafik tasarım elemanları kullanıcıya aşağıdakilerden hangisini <u>vermez</u>?</strong>
-    - A-) A&ccedil;ıklayıcı bilgisi
-    - B-) Y&ouml;n bilgisi
+    ***
+1. **Çevresel grafik tasarım elemanları kullanıcıya aşağıdakilerden hangisini vermez?**
+    - A-) Açıklayıcı bilgisi
+    - B-) Yön bilgisi
     - C-) Kural bilgisi
     - **Cevap D-) Zaman bilgisi**
     - E-) Kimlik bilgisi
-    <hr />
-1. <strong>Hangisi bir &ccedil;evre grafiği &ouml;rneği <u>değildir</u>?</strong>
-    - A-) Antik &ccedil;ağlardaki duvar resimleri
+    ***
+1. **Hangisi bir çevre grafiği örneği değildir?**
+    - A-) Antik çağlardaki duvar resimleri
     - B-) Kent haritaları
     - **Cevap C-) Sinema afişleri**
-    - D-) M&uuml;ze bilgilendirme panoları
+    - D-) Müze bilgilendirme panoları
     - E-) Otoban tabelaları
-    <hr />
-1. <strong>&Ccedil;evresel grafik tasarım aşağıdaki hangi tasarım alanı kapsamına girer?</strong>
+    ***
+1. **Çevresel grafik tasarım aşağıdaki hangi tasarım alanı kapsamına girer?**
     - **Cevap A-) Bilgilendirme Tasarımı**
     - B-) Ambalaj Tasarımı
-    - C-) Reklam Fotoğraf&ccedil;ılığı
+    - C-) Reklam Fotoğrafçılığı
     - D-) Web Tasarımı
     - E-) Font Tasarımı
-    <hr />
-1. <strong>&nbsp;Aşağıdakilerden hangisi grafik tasarımcının g&ouml;revlerinden biri <u>değildir</u>?</strong>
-    - A-) D&uuml;zenli ya da d&uuml;zensiz yerleşke yapısı i&ccedil;erisinde insanların akışını kolaylaştırmak
-    - B-) D&uuml;zenli ya da d&uuml;zensiz yerleşke yapısı i&ccedil;erisinde insanların y&ouml;nelişini ve aradığını bulmasını kolaylaştırmak
-    - C-) &Ccedil;evreye bir kimlik vermek, dokusuna uygun tasarımlar &uuml;retmek
-    - D-) Grafik tasarımcısı &ccedil;evre tasarımı yaparken&nbsp;en &ouml;nemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek
-    - **Cevap E-) &Ccedil;evre tasarım &ccedil;alışmalarında yer almamak**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evre grafiği &ccedil;eşitlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi grafik tasarımcının görevlerinden biri değildir?**
+    - A-) Düzenli ya da düzensiz yerleşke yapısı içerisinde insanların akışını kolaylaştırmak
+    - B-) Düzenli ya da düzensiz yerleşke yapısı içerisinde insanların yönelişini ve aradığını bulmasını kolaylaştırmak
+    - C-) Çevreye bir kimlik vermek, dokusuna uygun tasarımlar üretmek
+    - D-) Grafik tasarımcısı çevre tasarımı yaparken en önemli hedefi izleyiciye/kullanıcıya gerekli bilgiyi doğru yerde ve doğru zamanda iletmek
+    - **Cevap E-) Çevre tasarım çalışmalarında yer almamak**
+    ***
+1. **Aşağıdakilerden hangisi çevre grafiği çeşitlerinden biri değildir?**
     - **Cevap A-) Deprem grafikleri**
     - B-) Kimlik grafikleri
-    - C-) Y&ouml;n grafikleri
-    - D-) A&ccedil;ıklayıcı grafikler
-    - E-) D&uuml;zenleyici (kural) grafikler
-    <hr />
-1. <strong>D&uuml;zenleyici grafikler&nbsp;&ccedil;evreye ait kuralları g&ouml;steren tasarım elemanlarını i&ccedil;erir. Bu ifadeye g&ouml;re yola &ccedil;ıkılarak&nbsp;aşağıdakilerden hangisi &quot;Kural (D&uuml;zenleyici) Grafikler / İşaretler&quot; arasında <u>yer almaz</u>?</strong>
+    - C-) Yön grafikleri
+    - D-) Açıklayıcı grafikler
+    - E-) Düzenleyici (kural) grafikler
+    ***
+1. **Düzenleyici grafikler çevreye ait kuralları gösteren tasarım elemanlarını içerir. Bu ifadeye göre yola çıkılarak aşağıdakilerden hangisi "Kural (Düzenleyici) Grafikler / İşaretler" arasında yer almaz?**
     - A-) Uyarıcı
     - B-) Bilgi verici
     - **Cevap C-) Herhangi bir kuraldan bağımsız**
     - D-) Yasakları vurgulayıcı
-    - E-) Mek&acirc;nı d&uuml;zenleyici
-    <hr />
-1. <strong>Kimlik grafikleri i&ccedil;in aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Mek&acirc;nların kimliğini ortaya &ccedil;ıkarır.
-    - **Cevap B-) &Ccedil;evreyi g&uuml;zelleştirir.**
-    - C-) Mek&acirc;nın karakterini ortaya &ccedil;ıkarır.
-    - D-) Tarihsel s&uuml;recini ortaya &ccedil;ıkarır.
-    - E-) Ge&ccedil;mişini iletişim yoluyla kullanıcıya aktarmayı ama&ccedil;lar.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ccedil;evresel grafik tasarım olarak da adlandırdığımız &ccedil;evre grafiği işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
+    - E-) Mekânı düzenleyici
+    ***
+1. **Kimlik grafikleri için aşağıdakilerden hangisi yanlıştır?**
+    - A-) Mekânların kimliğini ortaya çıkarır.
+    - **Cevap B-) Çevreyi güzelleştirir.**
+    - C-) Mekânın karakterini ortaya çıkarır.
+    - D-) Tarihsel sürecini ortaya çıkarır.
+    - E-) Geçmişini iletişim yoluyla kullanıcıya aktarmayı amaçlar.
+    ***
+1. **Aşağıdakilerden hangisi çevresel grafik tasarım olarak da adlandırdığımız çevre grafiği işlevlerinden biri değildir?**
     - A-) Kimlik Grafikleri
-    - B-) Y&ouml;n Grafikleri
-    - **Cevap C-) A&ccedil;ı Grafikleri**
-    - D-) A&ccedil;ıklayıcı Grafikler
-    - E-) D&uuml;zenleyici Grafikler
-    <hr />
+    - B-) Yön Grafikleri
+    - **Cevap C-) Açı Grafikleri**
+    - D-) Açıklayıcı Grafikler
+    - E-) Düzenleyici Grafikler
+    ***
 ## Unite 5
-1. <strong>Aşağıdakilerden hangisi &Ccedil;ukur Baskı Teknikleri&#39;nden biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi Çukur Baskı Teknikleri'nden biri değildir?**
     - A-) Asite yedirme (Etching)
     - **Cevap B-) Linol baskı**
     - C-) Leke baskı (Aquatint )
     - D-) Kabartma (Embossing)
     - E-) Yumuşak yedirme (Soft ground)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi serigrafi baskının &ouml;nceki isimlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi serigrafi baskının önceki isimlerinden biri değildir?**
     - A-) Elek baskı
     - B-) İpek baskı
     - C-) Stencil baskı
     - **Cevap D-) Leke baskı (Aquatint)**
     - E-) Screen printing
-    <hr />
-1. <strong>Aşağıdaki tekniklerden hangisinde kalıp oluşturulurken asit kullanılır?</strong>
+    ***
+1. **Aşağıdaki tekniklerden hangisinde kalıp oluşturulurken asit kullanılır?**
     - **Cevap A-) Leke baskı (Aquatint)**
-    - B-) Ağa&ccedil; baskı
+    - B-) Ağaç baskı
     - C-) Linol baskı
-    - D-) Ağa&ccedil; grav&uuml;r
+    - D-) Ağaç gravür
     - E-) Serigrafi baskı
-    <hr />
-1. <strong>Aşağıdaki tekniklerden hangisinde edisyonlu (&ccedil;ok kopyalı) baskı <u>alınamaz </u>?</strong>
+    ***
+1. **Aşağıdaki tekniklerden hangisinde edisyonlu (çok kopyalı) baskı alınamaz ?**
     - A-) Linol baskı
     - **Cevap B-) Mono baskı**
     - C-) Serigrafi baskı
     - D-) Litografi / Taş baskı
     - E-) Dijital baskı
-    <hr />
-1. <strong>Ukio-e tekniği i&ccedil;in aşağıda verilen ifadelerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Bu teknik Japonya&rsquo;da geliştirilmiştir.
-    - B-) Ağa&ccedil; baskının bir t&uuml;r&uuml;d&uuml;r.
-    - C-) Fır&ccedil;a ile uygulanan t&uuml;rleri vardır.
-    - **Cevap D-) Litografi / taş baskı dan d&ouml;n&uuml;şm&uuml;şt&uuml;r.**
-    - E-) &Ccedil;ok renkli baskılar yapılabilmektedir.
-    <hr />
-1. <strong>Aşağıdaki baskı tekniklerinden hangisinde kalıp olarak yumuşak ağa&ccedil; kullanılır?</strong>
+    ***
+1. **Ukio-e tekniği için aşağıda verilen ifadelerden hangisi söylenemez?**
+    - A-) Bu teknik Japonya’da geliştirilmiştir.
+    - B-) Ağaç baskının bir türüdür.
+    - C-) Fırça ile uygulanan türleri vardır.
+    - **Cevap D-) Litografi / taş baskı dan dönüşmüştür.**
+    - E-) Çok renkli baskılar yapılabilmektedir.
+    ***
+1. **Aşağıdaki baskı tekniklerinden hangisinde kalıp olarak yumuşak ağaç kullanılır?**
     - A-) Linol baskı
-    - **Cevap B-) Ağa&ccedil; baskı**
+    - **Cevap B-) Ağaç baskı**
     - C-) Leke baskı (Aquatint)
     - D-) Ofset baskı
-    - E-) Ağa&ccedil; Grav&uuml;r
-    <hr />
-1. <strong>Yumuşak yedirme (soft ground) baskı tekniği aşağıdakilerden hangi gruba girer?</strong>
-    - **Cevap A-) &Ccedil;ukur baskı / Asitli teknikler**
-    - B-) &Ccedil;ukur baskı / Asitsiz teknikler
-    - C-) D&uuml;z baskı
+    - E-) Ağaç Gravür
+    ***
+1. **Yumuşak yedirme (soft ground) baskı tekniği aşağıdakilerden hangi gruba girer?**
+    - **Cevap A-) Çukur baskı / Asitli teknikler**
+    - B-) Çukur baskı / Asitsiz teknikler
+    - C-) Düz baskı
     - D-) Şablon baskı
     - E-) Ukio-e tekniği
-    <hr />
-1. <strong>Serigrafi / Elek baskı tekniği aşağıdakilerden hangi gruba girer?</strong>
-    - A-) &Ccedil;ukur baskı / Asitli teknikler
-    - B-) &Ccedil;ukur baskı / Asitsiz teknikler
-    - C-) D&uuml;z baskı
+    ***
+1. **Serigrafi / Elek baskı tekniği aşağıdakilerden hangi gruba girer?**
+    - A-) Çukur baskı / Asitli teknikler
+    - B-) Çukur baskı / Asitsiz teknikler
+    - C-) Düz baskı
     - **Cevap D-) Şablon baskı**
     - E-) Ukio-e tekniği
-    <hr />
-1. <strong>Mezzotint baskı tekniği aşağıdakilerden hangi gruba girer?</strong>
-    - A-) &Ccedil;ukur baskı / Asitli teknikler
-    - **Cevap B-) &Ccedil;ukur baskı / Asitsiz teknikler**
-    - C-) D&uuml;z baskı
+    ***
+1. **Mezzotint baskı tekniği aşağıdakilerden hangi gruba girer?**
+    - A-) Çukur baskı / Asitli teknikler
+    - **Cevap B-) Çukur baskı / Asitsiz teknikler**
+    - C-) Düz baskı
     - D-) Şablon baskı
     - E-) Ukio-e tekniği
-    <hr />
-1. <strong>Aşağıdakilerden hangisi baskı tekniklerinden biri <u>değildir</u>?</strong>
-    - A-) Y&uuml;ksek baskı (Tipo)
-    - B-) D&uuml;z baskı (Ofset)
+    ***
+1. **Aşağıdakilerden hangisi baskı tekniklerinden biri değildir?**
+    - A-) Yüksek baskı (Tipo)
+    - B-) Düz baskı (Ofset)
     - **Cevap C-) Yatay baskı (Horizontal)**
-    - D-) &Ccedil;ukur baskı (Tifdruk)
+    - D-) Çukur baskı (Tifdruk)
     - E-) Serigrafi baskı (Elek)
-    <hr />
-1. <strong>Budizm i&ccedil;in &ouml;nemli kaynaklardan biri olan &quot;Diamond Sutra &Ouml;ğretisi&quot; adlı kitap aşağıdakilerden hangisinde bulunmuştur?</strong>
-    - **Cevap A-) Doğu T&uuml;rkistan&#39;da bir mağarada**
+    ***
+1. **Budizm için önemli kaynaklardan biri olan "Diamond Sutra Öğretisi" adlı kitap aşağıdakilerden hangisinde bulunmuştur?**
+    - **Cevap A-) Doğu Türkistan'da bir mağarada**
     - B-) Orta Asya steplerinde
-    - C-) Mısır Piramitleri&#39;nde
+    - C-) Mısır Piramitleri'nde
     - D-) Mezopotamya topraklarında
-    - E-) Fransa Lascaux Mağarası&#39;nda
-    <hr />
-1. <strong>Aşağıdakilerden hangisi linol baskı aşamalarından biri&nbsp;<u>değildir</u>?</strong>
-    - A-) Basımı yapılacak tasarımın k&acirc;ğıda &ccedil;izilmesi
-    - B-) Tasarımın linol blok &uuml;zerine aktarılması
-    - **Cevap C-) Baskı sonrası k&acirc;ğıt kalıptan dikkatlice ayrılarak kurutulmak &uuml;zere kuruma rafına yerleştirilmesi**
-    - D-) Linol blok &uuml;zerindeki negatif alanların oyulması
-    - E-) Baskı m&uuml;rekkebinin d&uuml;z bir y&uuml;zey &uuml;zerine spatula ile s&uuml;r&uuml;lmesi
-    <hr />
-1. <strong>Aşağıdaki baskı tekniklerinden hangisinde sadece bir eser basılabilir?</strong>
+    - E-) Fransa Lascaux Mağarası'nda
+    ***
+1. **Aşağıdakilerden hangisi linol baskı aşamalarından biri değildir?**
+    - A-) Basımı yapılacak tasarımın kâğıda çizilmesi
+    - B-) Tasarımın linol blok üzerine aktarılması
+    - **Cevap C-) Baskı sonrası kâğıt kalıptan dikkatlice ayrılarak kurutulmak üzere kuruma rafına yerleştirilmesi**
+    - D-) Linol blok üzerindeki negatif alanların oyulması
+    - E-) Baskı mürekkebinin düz bir yüzey üzerine spatula ile sürülmesi
+    ***
+1. **Aşağıdaki baskı tekniklerinden hangisinde sadece bir eser basılabilir?**
     - **Cevap A-) Mono baskı**
     - B-) Linol baskı
     - C-) Serigrafi baskı
     - D-) Ofset baskı
     - E-) Litografi (taş) baskı
-    <hr />
-1. <strong>Aşağıdaki tekniklerin hangisinde oluşturulan g&ouml;r&uuml;nt&uuml; baskıda pozitif olarak &ccedil;ıkar?</strong>
+    ***
+1. **Aşağıdaki tekniklerin hangisinde oluşturulan görüntü baskıda pozitif olarak çıkar?**
     - A-) Leke baskı
-    - **Cevap B-) Y&uuml;ksek yedirme**
+    - **Cevap B-) Yüksek yedirme**
     - C-) Yumuşak yedirme
     - D-) Kabartma
     - E-) Asite yedirme
-    <hr />
-1. <strong>Yağ ile suyun birbirini itmesi temel ilkesine g&ouml;re &ccedil;alışan baskı tekniği aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Yağ ile suyun birbirini itmesi temel ilkesine göre çalışan baskı tekniği aşağıdakilerden hangisidir?**
     - A-) Mono baskı
     - B-) Linol baskı
     - C-) Serigrafi baskı
     - D-) Şablon baskı
     - **Cevap E-) Litografi (taş) baskı**
-    <hr />
+    ***
 ## Unite 6
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri&nbsp;<u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi kurumsal kimlik tasarımı bileşenlerinden biri değildir?**
     - A-) Logo
     - B-) Yazı tipi
-    - C-) Stil y&ouml;nergesi
-    - D-) G&ouml;rseller
-    - **Cevap E-) B&uuml;t&ccedil;e d&uuml;zenlemesi**
-    <hr />
-1. <strong>Tanımlayıcı logo tasarımında kurumun kimliğini oluşturan ana unsurlar aşağıdakilerden hangisine <u>uymaz</u>?</strong>
+    - C-) Stil yönergesi
+    - D-) Görseller
+    - **Cevap E-) Bütçe düzenlemesi**
+    ***
+1. **Tanımlayıcı logo tasarımında kurumun kimliğini oluşturan ana unsurlar aşağıdakilerden hangisine uymaz?**
     - A-) Kurumun ne iş yaptığı
     - B-) Kurumun hedef kitlesi
     - **Cevap C-) Kurumun sembolik olarak vizyonu**
     - D-) Kurumun hangi alanda iş yaptığı
     - E-) Kurumun misyonunu anlatan imgeler
-    <hr />
-1. <strong>Yazı Tipi&rsquo;nin Kurumsal Kimlik tasarımındaki &ouml;nemi aşağıdakilerden hangisinden en &ccedil;ok kaynaklanır?</strong>
-    - **Cevap A-) Tipografinin d&uuml;zg&uuml;n tasarlanmasıyla kurumun kimliğini yansıtması ve okunurluk**
+    ***
+1. **Yazı Tipi’nin Kurumsal Kimlik tasarımındaki önemi aşağıdakilerden hangisinden en çok kaynaklanır?**
+    - **Cevap A-) Tipografinin düzgün tasarlanmasıyla kurumun kimliğini yansıtması ve okunurluk**
     - B-) Yazışmalarda estetik bir duruş sağlaması
-    - C-) Kurumlar arası yazışmalarda &uuml;st&uuml;nl&uuml;k sağlanması
+    - C-) Kurumlar arası yazışmalarda üstünlük sağlanması
     - D-) Diğer kurumlarla rekabeti ortaya koymak
-    - E-) &Uuml;r&uuml;nlerini tasarlarken m&uuml;hendislere yardımcı olmak
-    <hr />
-1. I. Bir kuruma ait &uuml;r&uuml;nler, &uuml;r&uuml;n ambalajları<br />
-II.&nbsp;Hizmet veya markanın ismi<br />
-III.&nbsp;Tabelalar, y&ouml;nlendirme elemanları<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri&nbsp;kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?</strong>
+    - E-) Ürünlerini tasarlarken mühendislere yardımcı olmak
+    ***
+1. I. Bir kuruma ait ürünler, ürün ambalajları<br />II. Hizmet veya markanın ismi<br />III. Tabelalar, yönlendirme elemanları<br />**Yukarıdakilerden hangisi ya da hangileri kurumsal kimliği oluşturabilecek elemanlar arasında yer alır?**
     - A-) Yalnız I
     - B-) Yalnız II
     - C-) I ve II
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>Sembolik Logo tasarımında yapılmak istenen aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Sembolik Logo tasarımında yapılmak istenen aşağıdakilerden hangisidir?**
     - A-) Kurumun ne yaptığı irdelenir
     - B-) Kurumun bulunduğu şehre mutlaka vurgu yapılır
     - C-) Tasarım yapılırken serifli karakter kullanılması şarttır
-    - **Cevap D-) Tanımlayıcı &ouml;zellikler kullanılmadan ifade etme bi&ccedil;imi**
-    - E-) Kurumun i&ccedil; işleri anlatılır
-    <hr />
-1. <strong>G&ouml;rsellerin kullanımı kurumsal kimlik i&ccedil;in neden &ouml;nemlidir?</strong>
-    - A-) Logoyu her G&ouml;rselde kullanmak gerekir
-    - B-) Yazı tipi &ccedil;ekici olmalıdır
-    - C-) G&ouml;rsellerin pastel renklerde olması gerekir
-    - **Cevap D-) Diğer tasarım &ouml;geleri ile b&uuml;t&uuml;nl&uuml;k sağlayacak şekilde tasarlanmalıdır**
-    - E-) G&ouml;rsellerde kontrast y&uuml;ksek olmalıdır
-    <hr />
-1. <strong>Aşağıdakilerden hangisi Apple şirketinin logosunda bulunmayan bir unsurdur?</strong>
+    - **Cevap D-) Tanımlayıcı özellikler kullanılmadan ifade etme biçimi**
+    - E-) Kurumun iç işleri anlatılır
+    ***
+1. **Görsellerin kullanımı kurumsal kimlik için neden önemlidir?**
+    - A-) Logoyu her Görselde kullanmak gerekir
+    - B-) Yazı tipi çekici olmalıdır
+    - C-) Görsellerin pastel renklerde olması gerekir
+    - **Cevap D-) Diğer tasarım ögeleri ile bütünlük sağlayacak şekilde tasarlanmalıdır**
+    - E-) Görsellerde kontrast yüksek olmalıdır
+    ***
+1. **Aşağıdakilerden hangisi Apple şirketinin logosunda bulunmayan bir unsurdur?**
     - A-) Logonun zamanla değişmiş olması
     - B-) Son tasarlanan logonun sembolik olması
-    - C-) Son tasarlanan logodaki elmanın sembolik &ouml;zellikleriyle kurumu &ouml;zdeşleştirmesi
+    - C-) Son tasarlanan logodaki elmanın sembolik özellikleriyle kurumu özdeşleştirmesi
     - D-) Son tasarlanan logonun basit ve akılda kalıcı olması olması
-    - **Cevap E-) Logonun Orwell&rsquo;in romanındaki baskıcı anlayışı savunuyor**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir Stil Y&ouml;nergesinde <u>bulunmaz</u>?</strong>
+    - **Cevap E-) Logonun Orwell’in romanındaki baskıcı anlayışı savunuyor**
+    ***
+1. **Aşağıdakilerden hangisi bir Stil Yönergesinde bulunmaz?**
     - A-) Logo kullanımı
-    - B-) Siyah ve beyaz y&uuml;zeyde logo kullanımı
+    - B-) Siyah ve beyaz yüzeyde logo kullanımı
     - C-) Yazı Tipi
     - D-) Renkler
     - **Cevap E-) Fiyat listesi**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;Kurumsal Kimlik Tasarımı Bileşenleri&quot; arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi "Kurumsal Kimlik Tasarımı Bileşenleri" arasında yer alan ve kurum kimliğini oluşturan elemanların alt başlıklardan biri değildir?**
     - A-) Kurum davranışı
     - B-) Kurum iletişimi
-    - C-) G&ouml;rsel kimlik / tasarım
+    - C-) Görsel kimlik / tasarım
     - D-) Kişilik
-    - **Cevap E-) &Ccedil;evre**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rsel tasarım a&ccedil;ısından, kurumsal kimlik tasarımının işlev g&ouml;receği farklı elemanlar arasında <u>yer almaz</u>?</strong>
+    - **Cevap E-) Çevre**
+    ***
+1. **Aşağıdakilerden hangisi görsel tasarım açısından, kurumsal kimlik tasarımının işlev göreceği farklı elemanlar arasında yer almaz?**
     - A-) Logo
     - B-) Yazı tipi
-    - **Cevap C-) &Ouml;n &ccedil;alışma**
-    - D-) Stil Y&ouml;nergeleri (Style guides)
-    - E-) G&ouml;rseller
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri&nbsp;<u>değildir</u>?</strong>
-    - **Cevap A-) Resim &ccedil;izme**
-    - B-) &Ouml;n &ccedil;alışma
+    - **Cevap C-) Ön çalışma**
+    - D-) Stil Yönergeleri (Style guides)
+    - E-) Görseller
+    ***
+1. **Aşağıdakilerden hangisi kurumsal kimlik tasarım aşamalarından biri değildir?**
+    - **Cevap A-) Resim çizme**
+    - B-) Ön çalışma
     - C-) Tasarım aşaması
-    - D-) Revizyon-d&uuml;zeltme aşaması
+    - D-) Revizyon-düzeltme aşaması
     - E-) Tasarımın onaylanması ve teslim
-    <hr />
-1. Kurumsal kimlik tasarımında tipografi &ouml;nemli bir rol oynamaktadır.<br />
-<strong>Buna g&ouml;re &ouml;zellikle yazı tipinin se&ccedil;ilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisine <u>dikkat edilmez</u>?</strong>
+    ***
+1. Kurumsal kimlik tasarımında tipografi önemli bir rol oynamaktadır.<br />**Buna göre özellikle yazı tipinin seçilmesinde ve tasarımın oluşturulmasında aşağıdakilerden hangisine dikkat edilmez?**
     - A-) Fotoğraf
-    - **Cevap B-) B&uuml;t&ccedil;e**
-    - C-) G&ouml;rsel imgeler
+    - **Cevap B-) Bütçe**
+    - C-) Görsel imgeler
     - D-) Diğer yazı elemanları
     - E-) Renk
-    <hr />
-1. <strong>Aşağıdakilerden hangisi logo tasarımı yapılırken g&ouml;z &ouml;n&uuml;ne <u>alınmaz</u>?</strong>
-    - **Cevap A-) Kurumun &uuml;rettiği &uuml;r&uuml;n ve hizmetlerin maliyeti**
+    ***
+1. **Aşağıdakilerden hangisi logo tasarımı yapılırken göz önüne alınmaz?**
+    - **Cevap A-) Kurumun ürettiği ürün ve hizmetlerin maliyeti**
     - B-) Kurumun felsefesi
-    - C-) Kurumun diğer kurumlardan farklı &ouml;zellikleri
+    - C-) Kurumun diğer kurumlardan farklı özellikleri
     - D-) Kurumun misyonu
     - E-) Kurumun vizyonu
-    <hr />
-1. <strong>Kurumsal Kimlik tasarımında yer almayan unsur aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Kurumsal Kimlik tasarımında yer almayan unsur aşağıdakilerden hangisidir?**
     - A-) Renk
     - B-) Logo
     - C-) Kurum felsefesi
     - **Cevap D-) Ar-ge başvuru dosyaları**
     - E-) Yazı tipi
-    <hr />
-1. <strong>Stil y&ouml;nergesinde <u>bulunmaması </u>gereken unsur aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Stil yönergesinde bulunmaması gereken unsur aşağıdakilerden hangisidir?**
     - A-) Logo
     - B-) Renk
     - C-) Yazı Tipi
-    - D-) G&ouml;rsel Standartlar
-    - **Cevap E-) B&uuml;t&ccedil;e**
-    <hr />
-1. <strong>ToysRUs firmasının a&ccedil;tığı dava kurumsal kimlik tasarımı ile ilgili aşağıdakilerden hangisini anlatmaktadır?</strong>
-    - **Cevap A-) Tasarım yapılırken t&uuml;m &ouml;geler &ouml;zg&uuml;n olmalıdır.**
-    - B-) Tasarım yapılırken m&uuml;d&uuml;rden izin alınmalıdır.
+    - D-) Görsel Standartlar
+    - **Cevap E-) Bütçe**
+    ***
+1. **ToysRUs firmasının açtığı dava kurumsal kimlik tasarımı ile ilgili aşağıdakilerden hangisini anlatmaktadır?**
+    - **Cevap A-) Tasarım yapılırken tüm ögeler özgün olmalıdır.**
+    - B-) Tasarım yapılırken müdürden izin alınmalıdır.
     - C-) Tasarım yapılırken sulu boya kullanılması şarttır.
-    - D-) Tasarım yapılırken kurumun b&uuml;t&ccedil;esi yazılmalıdır.
+    - D-) Tasarım yapılırken kurumun bütçesi yazılmalıdır.
     - E-) Tasarım yapılırken pastel renk kullanılması şarttır.
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yazı tipi se&ccedil;iminde &ouml;nemli <u>değildir</u>?</strong>
-    - A-) Kurumsal kimliğin diğer &ouml;geleri ile uyumu
+    ***
+1. **Aşağıdakilerden hangisi yazı tipi seçiminde önemli değildir?**
+    - A-) Kurumsal kimliğin diğer ögeleri ile uyumu
     - B-) Okunurluk
-    - C-) Kurumun vizyonunu g&ouml;stermesi
+    - C-) Kurumun vizyonunu göstermesi
     - D-) Kurumun felsefesini yansıtması
-    - **Cevap E-) Serif i&ccedil;ermeyen bir font olması zorunluluğu**
-    <hr />
+    - **Cevap E-) Serif içermeyen bir font olması zorunluluğu**
+    ***
 ## Unite 7
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı dallarından biridir?</strong>
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımı dallarından biridir?**
     - A-) Semboller
     - B-) Ambalaj Tasarımı
     - **Cevap C-) İnfografikler**
     - D-) Logo Tasarımı
-    - E-) Aray&uuml;z tasarımı
-    <hr />
-1. <strong>Bilginin tasarlanmasında ilk adım aşağıdakilerden hangisi olmalıdır?</strong>
-    - A-) Renk se&ccedil;imi
-    - B-) Tipografik d&uuml;zen
+    - E-) Arayüz tasarımı
+    ***
+1. **Bilginin tasarlanmasında ilk adım aşağıdakilerden hangisi olmalıdır?**
+    - A-) Renk seçimi
+    - B-) Tipografik düzen
     - C-) Şemaların kararlaştırılması
     - **Cevap D-) Analiz ve hiyerarşik yapıyı oluşturma**
     - E-) Format boyutunun kararlaştırılması
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımının işlevlerinden biri değildir?**
     - A-) Bilgi vermek
     - B-) Mesajı iletmek
     - C-) Hedef kitleye ulaşmak
     - **Cevap D-) Tasarım eğitimi vermek**
-    - E-) Y&ouml;n bulmak
-    <hr />
-1. <strong>Bilgi tasarımının insan deneyimini &ouml;znel olarak tasarlamaya y&ouml;nelik en eski &ccedil;abalardan biri olduğunu savunan aşağıdakilerden hangisidir?</strong>
+    - E-) Yön bulmak
+    ***
+1. **Bilgi tasarımının insan deneyimini öznel olarak tasarlamaya yönelik en eski çabalardan biri olduğunu savunan aşağıdakilerden hangisidir?**
     - A-) Edward R. Tufte
     - B-) David Gibson
     - **Cevap C-) Robert Jacobson**
     - D-) Per Mollerup
     - E-) Chris Calori
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri&nbsp;<u>değildir</u>?</strong>
-    - A-) D&uuml;zen
+    ***
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımcısının kullanması gereken ilkelerden biri değildir?**
+    - A-) Düzen
     - B-) Vurgu
     - C-) Zıtlık
     - D-) Hiyerarşi
     - **Cevap E-) Tekrar**
-    <hr />
-1. <strong>Bilgilendirme tasarımı kavramı grafik tasarımın hangi alt başlıklarını <u>kapsamaz</u>?</strong>
+    ***
+1. **Bilgilendirme tasarımı kavramı grafik tasarımın hangi alt başlıklarını kapsamaz?**
     - A-) Eğitim Materyalleri
-    - B-) &Ccedil;evre Grafikleri
-    - C-) Dok&uuml;man Tasarımları
-    - **Cevap D-) Ara&ccedil; Giydirme Tasarımları**
-    - E-) Şema ve &Ccedil;izelgeler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı ara&ccedil;larından biri <u>değildir</u>?</strong>
+    - B-) Çevre Grafikleri
+    - C-) Doküman Tasarımları
+    - **Cevap D-) Araç Giydirme Tasarımları**
+    - E-) Şema ve Çizelgeler
+    ***
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımı araçlarından biri değildir?**
     - A-) Form tasarımı
-    - B-) &Ccedil;evresel grafik tasarımı
+    - B-) Çevresel grafik tasarımı
     - **Cevap C-) Web tasarımı**
     - D-) Kullanım kılavuzu tasarımı
     - E-) Haritalar
-    <hr />
-1. <strong>Bilgilendirme tasarımı kapsamında Londra metrosunu 1933 tarihinde haritalayarak alana katkı sağlayan tasarımcı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Bilgilendirme tasarımı kapsamında Londra metrosunu 1933 tarihinde haritalayarak alana katkı sağlayan tasarımcı aşağıdakilerden hangisidir?**
     - **Cevap A-) Harry Beck**
     - B-) Paul Rand
     - C-) Edward R. Tufte
     - D-) David Gibson
     - E-) Robert Jacobson
-    <hr />
-1. <strong>Hangisi bir infografik &ccedil;eşidi <u>değildir</u>?</strong>
+    ***
+1. **Hangisi bir infografik çeşidi değildir?**
     - A-) İstatistiksel grafik
-    - B-) S&uuml;re&ccedil; grafiği
+    - B-) Süreç grafiği
     - C-) Hiyerarşik grafik
     - **Cevap D-) Kitap grafiği**
     - E-) Karşılaştırma grafiği
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımı uygulamaları kapsamına <u>girmez</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımı uygulamaları kapsamına girmez?**
     - **Cevap A-) Antetli dosya tasarımı**
     - B-) Park haritası
-    - C-) Engelli &ouml;ğrenciler i&ccedil;in eğitim kiti
+    - C-) Engelli öğrenciler için eğitim kiti
     - D-) Başvuru Belgesi
-    - E-) Ders Ge&ccedil;me &Ccedil;izelgesi
-    <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarım ara&ccedil;larından biri <u>değildir</u>?</strong>
+    - E-) Ders Geçme Çizelgesi
+    ***
+1. **Aşağıdakilerden hangisi grafik tasarım araçlarından biri değildir?**
     - A-) Kimlik tasarımı
     - B-) Web tasarımı
-    - C-) Y&ouml;nlendirme tasarımı
+    - C-) Yönlendirme tasarımı
     - **Cevap D-) Harita tasarımı**
     - E-) Kitap tasarımı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgiyi <u>tanımlamaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bilgiyi tanımlamaz?**
     - A-) İnsan aklının erebileceği olgu
-    - B-) &Ouml;ğrenme, araştırma veya g&ouml;zlem yolu ile elde edilen ger&ccedil;ek
-    - C-) İnsan zek&acirc;sının &ccedil;alışması sonucu ortaya &ccedil;ıkan d&uuml;ş&uuml;nce &uuml;r&uuml;n&uuml;
-    - **Cevap D-) Zihinde canlandırılan bi&ccedil;im**
-    - E-) Kurallardan yararlanarak kişinin veriye y&ouml;nelttiği anlam
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarım kavramını <u>a&ccedil;ıklamaz</u>?</strong>
-    - A-) Zihinde canlandırılan bi&ccedil;im
-    - B-) Bir araştırma s&uuml;recinin &ccedil;eşitli d&ouml;nemlerinde izlenecek yol
-    - C-) Daha &ouml;nce algılanmış olan bir nesne veya olayın bilin&ccedil;te sonradan ortaya &ccedil;ıkan kopyası
-    - D-) Bir sanat eserinin, yapının veya teknik &uuml;r&uuml;n&uuml;n ilk taslağı
+    - B-) Öğrenme, araştırma veya gözlem yolu ile elde edilen gerçek
+    - C-) İnsan zekâsının çalışması sonucu ortaya çıkan düşünce ürünü
+    - **Cevap D-) Zihinde canlandırılan biçim**
+    - E-) Kurallardan yararlanarak kişinin veriye yönelttiği anlam
+    ***
+1. **Aşağıdakilerden hangisi tasarım kavramını açıklamaz?**
+    - A-) Zihinde canlandırılan biçim
+    - B-) Bir araştırma sürecinin çeşitli dönemlerinde izlenecek yol
+    - C-) Daha önce algılanmış olan bir nesne veya olayın bilinçte sonradan ortaya çıkan kopyası
+    - D-) Bir sanat eserinin, yapının veya teknik ürünün ilk taslağı
     - **Cevap E-) İnsan aklının erebileceği olgu**
-    <hr />
-1. <strong>&Ccedil;evresel grafik tasarım kapsamında faaliyet g&ouml;steren &Ccedil;evresel Grafik Tasarım Kurumu (Society for Environmental Graphic Design/SEGD) merkezi nerededir?</strong>
+    ***
+1. **Çevresel grafik tasarım kapsamında faaliyet gösteren Çevresel Grafik Tasarım Kurumu (Society for Environmental Graphic Design/SEGD) merkezi nerededir?**
     - **Cevap A-) Amerika Birleşik Devletleri**
     - B-) İtalya
-    - C-) T&uuml;rkiye
+    - C-) Türkiye
     - D-) Avusturya
     - E-) Almanya
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bilgilendirme tasarımının ama&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bilgilendirme tasarımının amaçlarından biri değildir?**
     - A-) Bilgi sağlamak
     - B-) Mesaj iletmek
     - C-) Karşılaştırma yapmak
-    - D-) Yer-y&ouml;n bulmayı sağlamak
+    - D-) Yer-yön bulmayı sağlamak
     - **Cevap E-) Rahat taşınabilir olmak**
-    <hr />
-1. <strong>Bilgi &ccedil;ağında tasarım ortamlarının da gelişimiyle, bilgi yoğunluğunun artmasıyla bilgi kirliliğinin de yoğun bir bi&ccedil;imde kendini g&ouml;stermesi beraberinde aşağıdakilerden hangisini getirmektedir?</strong>
+    ***
+1. **Bilgi çağında tasarım ortamlarının da gelişimiyle, bilgi yoğunluğunun artmasıyla bilgi kirliliğinin de yoğun bir biçimde kendini göstermesi beraberinde aşağıdakilerden hangisini getirmektedir?**
     - A-) Bilgilendirme tasarımının tanımı değişmiştir.
-    - B-) Şemalara g&ouml;sterilen ilgi azalmıştır.
-    - C-) Web tasarımına ihtiya&ccedil; olmuştur.
-    - **Cevap D-) Bilgilendirme tasarımı &ouml;nem kazanmıştır.**
-    - E-) &Ccedil;ok renkli haritalar tasarlamıştır.
-    <hr />
+    - B-) Şemalara gösterilen ilgi azalmıştır.
+    - C-) Web tasarımına ihtiyaç olmuştur.
+    - **Cevap D-) Bilgilendirme tasarımı önem kazanmıştır.**
+    - E-) Çok renkli haritalar tasarlamıştır.
+    ***
 ## Unite 8
-1. <strong>Aşağıdakilerden hangisi elektromanyetik tayf i&ccedil;erisindeki G&ouml;r&uuml;n&uuml;r Işık Tayfı i&ccedil;in doğru aralıktır?</strong>
+1. **Aşağıdakilerden hangisi elektromanyetik tayf içerisindeki Görünür Işık Tayfı için doğru aralıktır?**
     - A-) 120 ile 180 nm
     - B-) 340 ile 450 nm
     - **Cevap C-) 380 ile 740 nm**
     - D-) 450 ile 850 nm
     - E-) 740 ile 1000 nm
-    <hr />
-1. <strong>Aşağıdakilerden hangisi CMYK renk modelinde <u>yer almaz</u>?</strong>
-    - A-) Camg&ouml;beği
+    ***
+1. **Aşağıdakilerden hangisi CMYK renk modelinde yer almaz?**
+    - A-) Camgöbeği
     - B-) Sarı
     - C-) Magenta
     - D-) Siyah
     - **Cevap E-) Yeşil**
-    <hr />
-1. <strong>Aşağıdakilerden hangi ikisi hem RGB hem de RYB modelinde yer almaktadır?</strong>
+    ***
+1. **Aşağıdakilerden hangi ikisi hem RGB hem de RYB modelinde yer almaktadır?**
     - A-) Kırmızı - Yeşil
     - **Cevap B-) Kırmızı - Mavi**
-    - C-) Yeşil &ndash; Sarı
+    - C-) Yeşil – Sarı
     - D-) Yeşil - Mavi
-    - E-) Sarı &ndash; Kırmızı
-    <hr />
-1. <strong>Aşağıdaki renk &ccedil;iftlerinden hangisi sıcak renklerden oluşmamıştır?</strong>
+    - E-) Sarı – Kırmızı
+    ***
+1. **Aşağıdaki renk çiftlerinden hangisi sıcak renklerden oluşmamıştır?**
     - **Cevap A-) Kırmızı- Sarı**
     - B-) Turuncu - Sarı
     - C-) Mavi - Kırmızı
     - D-) Sarı - Turuncu
     - E-) Kırmızı - Turuncu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &ldquo;Işık Renk Modeli&rdquo; olarak da anılan renk modelidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi “Işık Renk Modeli” olarak da anılan renk modelidir?**
     - A-) HSV
     - B-) HSL
     - C-) RYB
     - D-) RGB
     - **Cevap E-) CMYK**
-    <hr />
-1. <strong>Aşağıdaki renk uyumlarından hangisi &ldquo;renkler: renk &ccedil;emberinden se&ccedil;ilen ilk renk ve bu ilk rengin karşısına denk gelen zıt rengin iki yanındaki diğer iki renktir&rdquo; tanımında verilen renk armonisidir?</strong>
+    ***
+1. **Aşağıdaki renk uyumlarından hangisi “renkler: renk çemberinden seçilen ilk renk ve bu ilk rengin karşısına denk gelen zıt rengin iki yanındaki diğer iki renktir” tanımında verilen renk armonisidir?**
     - A-) Benzer Renkler (Analogous)
     - B-) Tamamlayıcı veya Zıt Renkler (Complementary)
-    - C-) B&ouml;l&uuml;nm&uuml;ş-Tamamlayıcı Renkler (Split Complementary)
-    - D-) &Uuml;&ccedil;l&uuml; (Triad) Renk Uyumu
-    - **Cevap E-) D&ouml;rtl&uuml; (Tetrad) Renk Uyumu**
-    <hr />
-1. <strong>Aşağıdakilerden hangileri Sir Isaac Newton&rsquo;un Renk &Ccedil;emberinde bulunan renklerin doğru listesidir?</strong>
-    - A-) Pembe, turuncu, yeşil, mavi, &ccedil;ivit / indigo, mor
-    - B-) Kırmızı, siyah, yeşil, mavi, &ccedil;ivit / indigo, mor
-    - C-) Kırmızı, turuncu, yeşil, mavi, &ccedil;ivit / indigo, mor
+    - C-) Bölünmüş-Tamamlayıcı Renkler (Split Complementary)
+    - D-) Üçlü (Triad) Renk Uyumu
+    - **Cevap E-) Dörtlü (Tetrad) Renk Uyumu**
+    ***
+1. **Aşağıdakilerden hangileri Sir Isaac Newton’un Renk Çemberinde bulunan renklerin doğru listesidir?**
+    - A-) Pembe, turuncu, yeşil, mavi, çivit / indigo, mor
+    - B-) Kırmızı, siyah, yeşil, mavi, çivit / indigo, mor
+    - C-) Kırmızı, turuncu, yeşil, mavi, çivit / indigo, mor
     - **Cevap D-) Kırmızı, turuncu, yeşil, mavi, beyaz, mor**
-    - E-) Magenta, turuncu, yeşil, mavi, &ccedil;ivit / indigo, mor
-    <hr />
-1. <strong>HSL ve HSV renk modelinde renk &ouml;z&uuml;n&uuml; (Hue) belirleyen H harfi i&ccedil;in değer aralığı ve birimi aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) 0 &ndash; 360 - derece**
-    - B-) 0 &ndash; 100 - derece
-    - C-) 0 &ndash; 100 - y&uuml;zde
-    - D-) 0 &ndash; 50 - y&uuml;zde
-    - E-) 0 &ndash; 50 - derece
-    <hr />
-1. <strong>RGB renk modelinde t&uuml;m renklerin birleşimi aşağıdakilerden hangisini verir?</strong>
+    - E-) Magenta, turuncu, yeşil, mavi, çivit / indigo, mor
+    ***
+1. **HSL ve HSV renk modelinde renk özünü (Hue) belirleyen H harfi için değer aralığı ve birimi aşağıdakilerden hangisidir?**
+    - **Cevap A-) 0 – 360 - derece**
+    - B-) 0 – 100 - derece
+    - C-) 0 – 100 - yüzde
+    - D-) 0 – 50 - yüzde
+    - E-) 0 – 50 - derece
+    ***
+1. **RGB renk modelinde tüm renklerin birleşimi aşağıdakilerden hangisini verir?**
     - A-) Siyah
     - B-) Kırmızı
     - C-) Yeşil
     - **Cevap D-) Beyaz**
     - E-) Pembe
-    <hr />
-1. <strong>CMYK renk modelinde t&uuml;m renklerin birleşimi aşağıdakilerden hangisini verir?</strong>
+    ***
+1. **CMYK renk modelinde tüm renklerin birleşimi aşağıdakilerden hangisini verir?**
     - A-) Siyah
     - B-) Kırmızı
     - **Cevap C-) Yeşil**
     - D-) Beyaz
     - E-) Pembe
-    <hr />
-1. Bir rengin saflık ve yoğunluk d&uuml;zeyi doygunluk olarak ifade edilir. G&ouml;kkuşağının t&uuml;m saf renkleri tam doygundur. Bir renk i&ccedil;ine ........... eklenmediyse %100 saftır ve canlı g&ouml;r&uuml;n&uuml;r.<br />
-<strong>Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. Bir rengin saflık ve yoğunluk düzeyi doygunluk olarak ifade edilir. Gökkuşağının tüm saf renkleri tam doygundur. Bir renk içine ........... eklenmediyse %100 saftır ve canlı görünür.<br />**Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) sarı
     - B-) mavi
     - **Cevap C-) gri**
     - D-) kırmızı
     - E-) turuncu
-    <hr />
-1. <strong>G&ouml;r&uuml;n&uuml;r ışık tayfındaki dalga boyları i&ccedil;inde baskın olan renklerden birini ifade etmek kullanılan terim aşağıdakilerden hangisidir?</strong>
-    - **Cevap A-) Renk &Ouml;z&uuml; (Hue)**
+    ***
+1. **Görünür ışık tayfındaki dalga boyları içinde baskın olan renklerden birini ifade etmek kullanılan terim aşağıdakilerden hangisidir?**
+    - **Cevap A-) Renk Özü (Hue)**
     - B-) Doygunluk (Saturation / Chroma)
     - C-) Akromatik
-    - D-) Değer (Value / Val&ouml;r)
+    - D-) Değer (Value / Valör)
     - E-) Ton (Tone)
-    <hr />
-1. <strong>Renkler ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
+    ***
+1. **Renkler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
     - A-) Sıcak renkler daha yakındaymış hissi verirler.
-    - B-) Soğuk renkler h&uuml;z&uuml;n ruh h&acirc;li ile bağlantılıdır.
-    - C-) Soğuk renkler saygı ve g&uuml;venilirlik hissine hitap ederler.
-    - D-) Sıcak renkler harekete ge&ccedil;irici bir etki taşırlar.
-    - **Cevap E-) Soğuk renkler sıcak renklere nazaran daha &ccedil;abuk fark edilirler.**
-    <hr />
+    - B-) Soğuk renkler hüzün ruh hâli ile bağlantılıdır.
+    - C-) Soğuk renkler saygı ve güvenilirlik hissine hitap ederler.
+    - D-) Sıcak renkler harekete geçirici bir etki taşırlar.
+    - **Cevap E-) Soğuk renkler sıcak renklere nazaran daha çabuk fark edilirler.**
+    ***
 ## Unite 9
-1. <strong>Bilgisayar ortamında yazım işleminin basım yayın terminolojisindeki karşılığı aşağıdakilerden hangisidir?</strong>
+1. **Bilgisayar ortamında yazım işleminin basım yayın terminolojisindeki karşılığı aşağıdakilerden hangisidir?**
     - A-) Sayısal yazım
     - B-) Dijital yazım
     - **Cevap C-) Dizgi**
     - D-) Sezgi
     - E-) Bilgi yazım
-    <hr />
-1. <strong>Tasarımda boşluk doldurmak i&ccedil;in kullanılan ve anlamı olmayan metin bloğuna ne ad verilir?</strong>
-    - **Cevap A-) K&ouml;r yazı**
+    ***
+1. **Tasarımda boşluk doldurmak için kullanılan ve anlamı olmayan metin bloğuna ne ad verilir?**
+    - **Cevap A-) Kör yazı**
     - B-) Boş yazı
-    - C-) &Ouml;n yazı
+    - C-) Ön yazı
     - D-) Blok metin
     - E-) Tam metin
-    <hr />
-1. <strong>Aşağıdakilerden bilgisayar yazılımlarından hangisi bir dergi tasarımında kullanılacak metinlerin yazımı i&ccedil;in en uygun yazılımdır?</strong>
+    ***
+1. **Aşağıdakilerden bilgisayar yazılımlarından hangisi bir dergi tasarımında kullanılacak metinlerin yazımı için en uygun yazılımdır?**
     - A-) Adobe Photoshop
     - B-) Adobe Illustrator
     - C-) Corel Draw
     - D-) Paint
     - **Cevap E-) MS Word**
-    <hr />
-1. <strong>Boşluk (Space) karakterinin dizgide kullanımı ile ilgili olarak aşağıdakilerden hangisi <u>yanlıştır</u>?</strong>
-    - A-) Boşluk, metinleri soldan hizalamak i&ccedil;in kullanılmalıdır.
-    - B-) Boşluk, metinleri sağdan hizalamak i&ccedil;in kullanılmalıdır.
-    - C-) Boşluk, metinleri tam hizalamak i&ccedil;in kullanılmalıdır.
+    ***
+1. **Boşluk (Space) karakterinin dizgide kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?**
+    - A-) Boşluk, metinleri soldan hizalamak için kullanılmalıdır.
+    - B-) Boşluk, metinleri sağdan hizalamak için kullanılmalıdır.
+    - C-) Boşluk, metinleri tam hizalamak için kullanılmalıdır.
     - D-) Boşluk, kelimeler arasında sadece bir kez bırakılmalıdır.
-    - **Cevap E-) Boşluk, noktalama işaretlerinden &ouml;nce bırakılmalıdır.**
-    <hr />
-1. <strong>Tasarımda kullanılacak metnin d&uuml;zeltmelerinin (tashih) hangi aşamada yapılması daha doğrudur?</strong>
-    - **Cevap A-) Tasarımdan &ouml;nce**
+    - **Cevap E-) Boşluk, noktalama işaretlerinden önce bırakılmalıdır.**
+    ***
+1. **Tasarımda kullanılacak metnin düzeltmelerinin (tashih) hangi aşamada yapılması daha doğrudur?**
+    - **Cevap A-) Tasarımdan önce**
     - B-) Tasarım sırasında
     - C-) Tasarım sonrasında
     - D-) Prova baskı sonrasında
-    - E-) Baskı s&uuml;recinden hemen &ouml;nce
-    <hr />
-1. <strong>İlk kez g&ouml;r&uuml;nt&uuml;y&uuml; sabitlemeyi ger&ccedil;ekleştiren (fotoğraf) kişi aşağıdakilerden hangisidir?</strong>
+    - E-) Baskı sürecinden hemen önce
+    ***
+1. **İlk kez görüntüyü sabitlemeyi gerçekleştiren (fotoğraf) kişi aşağıdakilerden hangisidir?**
     - A-) Johannes Gutenberg
     - **Cevap B-) Nicephore Niepce**
     - C-) Isaac Newton
     - D-) Leonardo Da Vinci
     - E-) Aristoteles
-    <hr />
-1. <strong>&Ccedil;ok sayfalı grafik tasarım &uuml;r&uuml;nlerinde ardı ardına gelen sayfaların g&ouml;rsel birliğinin sağlanmasına temel oluşturan ve tasarımcıya uygulamada kolaylık sağlayan tasarım iskeleti olarak ta tanımlanan ızgara sistemi aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Çok sayfalı grafik tasarım ürünlerinde ardı ardına gelen sayfaların görsel birliğinin sağlanmasına temel oluşturan ve tasarımcıya uygulamada kolaylık sağlayan tasarım iskeleti olarak ta tanımlanan ızgara sistemi aşağıdakilerden hangisidir?**
     - A-) Skid
     - B-) Skeleton
     - C-) Ratio
     - **Cevap D-) Grid**
     - E-) Treed
-    <hr />
-1. <strong>Basım yoluyla &ccedil;oğaltılacak tasarımlarda kontrol ama&ccedil;lı alınan prova baskıdan aşağıdakilerden hangisi beklenir?</strong>
-    - A-) Renklerin doygunluğunun y&uuml;ksek olması
-    - B-) Prova baskının matbaa baskısındaki sonu&ccedil; ile uyumlu olması
+    ***
+1. **Basım yoluyla çoğaltılacak tasarımlarda kontrol amaçlı alınan prova baskıdan aşağıdakilerden hangisi beklenir?**
+    - A-) Renklerin doygunluğunun yüksek olması
+    - B-) Prova baskının matbaa baskısındaki sonuç ile uyumlu olması
     - **Cevap C-) Kuşe kağıda alınmış bir baskı olması**
     - D-) Prova baskıdan sonra selefon kaplama yapılmış olması
     - E-) Laser yazıcıdan alınmış bir prova olması
-    <hr />
-1. <strong>Basım yayıncılık terminolojisinde &ldquo;forma&rdquo; olarak &ccedil;oklu sayfa grubu ka&ccedil; sayfadan oluşmaktadır?</strong>
+    ***
+1. **Basım yayıncılık terminolojisinde “forma” olarak çoklu sayfa grubu kaç sayfadan oluşmaktadır?**
     - A-) 4
     - B-) 8
     - C-) 12
     - **Cevap D-) 16**
     - E-) 32
-    <hr />
-1. <strong>Baskıya y&ouml;nelik tasarımlarda kullanılan bitmap grafiklerin en kaliteli şekilde basılabilmesi i&ccedil;in kullanılan sıkıştırmasız dosya formatı aşağıdakilerden hangisidir?</strong>
+    ***
+1. **Baskıya yönelik tasarımlarda kullanılan bitmap grafiklerin en kaliteli şekilde basılabilmesi için kullanılan sıkıştırmasız dosya formatı aşağıdakilerden hangisidir?**
     - A-) Jpeg
     - **Cevap B-) Tiff**
     - C-) Gif
     - D-) BMP
     - E-) SVG
-    <hr />
-1. Temel bilgi birikimi isteyen dizgi işleminde dikkat edilmesi gereken diğer bazı &ouml;nemli hususlar bulunmaktadır.<br />
-<strong>Aşağıdakilerden hangisi bu hususlardan biri&nbsp;<u>değildir</u>?</strong>
+    ***
+1. Temel bilgi birikimi isteyen dizgi işleminde dikkat edilmesi gereken diğer bazı önemli hususlar bulunmaktadır.<br />**Aşağıdakilerden hangisi bu hususlardan biri değildir?**
     - A-) Dizgi işlemini kelime işlemci programlar kullanarak yapmak
-    - B-) Dizgi işleminde boşluk (space) karakterini, yerlerinde ve doğru bi&ccedil;imde kullanmak
-    - C-) Metin hizalamalarını &ldquo;TAB&rdquo; tuşu kullanılarak yapmak
-    - D-) Paragraf başı girintilerini artırmak i&ccedil;in &ldquo;boşluk&rdquo; veya &ldquo;tab&rdquo; tuşu kullanmamak
-    - **Cevap E-) Paragraf arası boşluk bırakmak i&ccedil;in birden fazla &quot;delete&quot; boşluğu kullanmak**
-    <hr />
-1. G&ouml;rsel iletişim &uuml;r&uuml;n&uuml;nde kullanılacak dijital g&ouml;r&uuml;nt&uuml;ler &ccedil;eşitli y&ouml;ntemlerle temin edilir.<br />
-<strong>Aşağıdakilerden hangisi bu y&ouml;ntemlerden biri <u>değildir</u>?</strong>
-    - A-) Tarayıcı ile bilgisayara g&ouml;r&uuml;nt&uuml; aktarılabilir.
-    - B-) İnternetten g&ouml;rsel temin edilebilir.
-    - C-) Tanıtım ve bilgi ama&ccedil;lı web sayfalarından g&ouml;rsel indirilebileceği gibi internet ortamında kaliteli g&ouml;r&uuml;nt&uuml;ler satan &ldquo;Stock Photography&rdquo; (Arşiv fotoğraf) sitelerinden daha nitelikli g&ouml;r&uuml;nt&uuml;ler elde edilebilir.
-    - **Cevap D-) Dijital fotoğraf makinesi ile yapılan &ccedil;ekimler kullanılmaz.**
-    - E-) Bu y&ouml;ntemlerin dışında hareketli bir g&ouml;r&uuml;nt&uuml;den video capture card kullanılarak sabit g&ouml;r&uuml;nt&uuml;ler elde edilebilir.
-    <hr />
-1. <strong>Metin gruplarını hizalarken sekmeler (duraklar) i&ccedil;in boşluk bırakmada klavyeden hangi tuşa basılır?</strong>
+    - B-) Dizgi işleminde boşluk (space) karakterini, yerlerinde ve doğru biçimde kullanmak
+    - C-) Metin hizalamalarını “TAB” tuşu kullanılarak yapmak
+    - D-) Paragraf başı girintilerini artırmak için “boşluk” veya “tab” tuşu kullanmamak
+    - **Cevap E-) Paragraf arası boşluk bırakmak için birden fazla "delete" boşluğu kullanmak**
+    ***
+1. Görsel iletişim ürününde kullanılacak dijital görüntüler çeşitli yöntemlerle temin edilir.<br />**Aşağıdakilerden hangisi bu yöntemlerden biri değildir?**
+    - A-) Tarayıcı ile bilgisayara görüntü aktarılabilir.
+    - B-) İnternetten görsel temin edilebilir.
+    - C-) Tanıtım ve bilgi amaçlı web sayfalarından görsel indirilebileceği gibi internet ortamında kaliteli görüntüler satan “Stock Photography” (Arşiv fotoğraf) sitelerinden daha nitelikli görüntüler elde edilebilir.
+    - **Cevap D-) Dijital fotoğraf makinesi ile yapılan çekimler kullanılmaz.**
+    - E-) Bu yöntemlerin dışında hareketli bir görüntüden video capture card kullanılarak sabit görüntüler elde edilebilir.
+    ***
+1. **Metin gruplarını hizalarken sekmeler (duraklar) için boşluk bırakmada klavyeden hangi tuşa basılır?**
     - **Cevap A-) Tab**
     - B-) Space
     - C-) Backspace
     - D-) Enter
     - E-) Ctrl
-    <hr />
-1. <strong>Uzun metin i&ccedil;eren grafik tasarım &uuml;r&uuml;nlerindeki yazıların dizgisi i&ccedil;in aşağıdaki yazılım t&uuml;rlerinden hangisi uygundur?</strong>
-    - A-) Vekt&ouml;rel &ccedil;izim yazılımları
+    ***
+1. **Uzun metin içeren grafik tasarım ürünlerindeki yazıların dizgisi için aşağıdaki yazılım türlerinden hangisi uygundur?**
+    - A-) Vektörel çizim yazılımları
     - **Cevap B-) Kelime işlemci yazılımlar**
-    - C-) G&ouml;r&uuml;nt&uuml; işleme yazılımları
+    - C-) Görüntü işleme yazılımları
     - D-) Sistem yazılımları
-    - E-) Sayfa d&uuml;zenleme yazılımları
-    <hr />
-1. <strong>Baskı aşamasında sıklıkla g&ouml;r&uuml;len&nbsp;kayıpların en aza indirilmesi ve &uuml;r&uuml;n&uuml;n beklendiği gibi basılması i&ccedil;in baskıdan &ouml;nce ve matbaacıya kılavuz olması amacıyla işin kopyasının hazırlanması işine ne ad verilir?</strong>
+    - E-) Sayfa düzenleme yazılımları
+    ***
+1. **Baskı aşamasında sıklıkla görülen kayıpların en aza indirilmesi ve ürünün beklendiği gibi basılması için baskıdan önce ve matbaacıya kılavuz olması amacıyla işin kopyasının hazırlanması işine ne ad verilir?**
     - A-) Son aşama
     - **Cevap B-) Prova**
     - C-) Kopya
-    - D-) &Ouml;n aşama
+    - D-) Ön aşama
     - E-) Eskiz
-    <hr />
+    ***
 ## Unite 10
-1. <strong>Aşağıdakilerden hangisi &ccedil;alışmanın &ccedil;&ouml;z&uuml;mlenebilmesini ama&ccedil;layan kısa s&uuml;reli &ccedil;izimlerden biridir?</strong>
+1. **Aşağıdakilerden hangisi çalışmanın çözümlenebilmesini amaçlayan kısa süreli çizimlerden biridir?**
     - A-) Resmetmek
     - B-) Karalama
     - C-) Modelleme
     - D-) İnfografi
     - **Cevap E-) Eskiz**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi yapılan araştırmalar sonucu kalıcı &ouml;ğrenmenin sağlanmasında en &ouml;nemli paya sahiptir?</strong>
-    - **Cevap A-) G&ouml;rselleştirme**
+    ***
+1. **Aşağıdakilerden hangisi yapılan araştırmalar sonucu kalıcı öğrenmenin sağlanmasında en önemli paya sahiptir?**
+    - **Cevap A-) Görselleştirme**
     - B-) Seslendirme
     - C-) Metin
     - D-) Eskiz hazırlama
     - E-) Anlatma
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rselleştirme metotlarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi görselleştirme metotlarından biri değildir?**
     - A-) Grafikler
     - B-) Resmetmek
     - C-) Sembol Tasarlamak
     - **Cevap D-) Senaryolaştırmak**
     - E-) İnfografikler
-    <hr />
-1. <strong>Aşağıdaki grafiklerden hangisi birden fazla seri i&ccedil;in değişkenleri karşılaştırır?</strong>
-    - A-) S&uuml;tun ve &ccedil;ubuk grafikler
+    ***
+1. **Aşağıdaki grafiklerden hangisi birden fazla seri için değişkenleri karşılaştırır?**
+    - A-) Sütun ve çubuk grafikler
     - **Cevap B-) Radar grafikler**
     - C-) Halka grafikler
     - D-) Pasta grafikler
     - E-) Alan grafikleri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi tasarımcının kendi tasarlama s&uuml;reciyle ilgili olan kategoridir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi tasarımcının kendi tasarlama süreciyle ilgili olan kategoridir?**
     - A-) Kurallı eskiz
     - B-) Konuşma eskizi
     - C-) Yazma eskizi
-    - **Cevap D-) D&uuml;ş&uuml;nme eskizi**
+    - **Cevap D-) Düşünme eskizi**
     - E-) Kuralsız eskiz
-    <hr />
-1. <strong>Verilen mesajlar, kullanılan renklerin insan psikolojisi &uuml;zerindeki etkisi, &ccedil;izgilerin şekli vb. imgelerin taşıdığı anlamlar tasarımın hangi planında etkili olarak kullanılır?</strong>
-    - A-) Işık-g&ouml;lge
-    - B-) &Ccedil;izgi
-    - C-) &Ouml;n plan
+    ***
+1. **Verilen mesajlar, kullanılan renklerin insan psikolojisi üzerindeki etkisi, çizgilerin şekli vb. imgelerin taşıdığı anlamlar tasarımın hangi planında etkili olarak kullanılır?**
+    - A-) Işık-gölge
+    - B-) Çizgi
+    - C-) Ön plan
     - D-) Leke
     - **Cevap E-) Arka plan**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi eskiz hazırlarken kullanılan malzemeler arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi eskiz hazırlarken kullanılan malzemeler arasında yer almaz?**
     - **Cevap A-) Palet**
-    - B-) Eskiz k&acirc;ğıdı
-    - C-) F&uuml;zen
+    - B-) Eskiz kâğıdı
+    - C-) Füzen
     - D-) Karakalem
     - E-) Renkli kalem
-    <hr />
-1. <strong>Bir anlatım dili olan g&ouml;rselleştirmenin temel elemanları aşağıdakilerden hangisi <u>değildir</u>?</strong>
+    ***
+1. **Bir anlatım dili olan görselleştirmenin temel elemanları aşağıdakilerden hangisi değildir?**
     - A-) Kalem
     - B-) Renkli Boya
-    - C-) F&uuml;zen
+    - C-) Füzen
     - **Cevap D-) Tuval**
     - E-) Eskiz defteri
-    <hr />
-1. <strong>Aşağıdakilerden hangisi etkin bir iletişimin temel kavramlarındandır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi etkin bir iletişimin temel kavramlarındandır?**
     - A-) Resim
     - **Cevap B-) Kanal**
     - C-) Fotoğraf
     - D-) Eskiz
     - E-) Renklendirme
-    <hr />
-1. <strong>Aşağıdakilerden hangisi eskiz yaparken dikkat edilmesi gereken bir durum <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi eskiz yaparken dikkat edilmesi gereken bir durum değildir?**
     - A-) Konuyu beyinde tasarlamak
     - B-) Hata yapmaktan korkmamak
-    - **Cevap C-) Kurallara ve tekniğe uygun &ccedil;izim yapmak**
+    - **Cevap C-) Kurallara ve tekniğe uygun çizim yapmak**
     - D-) Renk kullanmak
-    - E-) &Ouml;zg&uuml;n taslaklar ortaya &ccedil;ıkarmak
-    <hr />
-1. <strong>Aşağıdakilerden hangisi eskizin kullanım ama&ccedil;larından biridir?</strong>
+    - E-) Özgün taslaklar ortaya çıkarmak
+    ***
+1. **Aşağıdakilerden hangisi eskizin kullanım amaçlarından biridir?**
     - **Cevap A-) Kurallı eskiz**
     - B-) Amblem tasarımı
     - C-) Grafik
-    - D-) İll&uuml;strasyon
+    - D-) İllüstrasyon
     - E-) Sembol tasarımı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi eskiz hazırlama malzemelerinden biri <u>değildir</u>?</strong>
-    - A-) K&acirc;ğıt
+    ***
+1. **Aşağıdakilerden hangisi eskiz hazırlama malzemelerinden biri değildir?**
+    - A-) Kâğıt
     - B-) Kalem
     - **Cevap C-) Defter**
-    - D-) &Ccedil;izim ara&ccedil;ları
+    - D-) Çizim araçları
     - E-) Renklendirme
-    <hr />
-1. <strong>Aşağıdakilerden hangisi g&ouml;rselleştirme anlatım dilinin temel elemanlarından biri <u>değildir</u>?</strong>
-    - A-) &Ccedil;izgi
+    ***
+1. **Aşağıdakilerden hangisi görselleştirme anlatım dilinin temel elemanlarından biri değildir?**
+    - A-) Çizgi
     - B-) Leke
     - C-) Renk
     - **Cevap D-) Dizgi**
     - E-) İmge
-    <hr />
-1. <strong>Bir tasarımcı tasarıma hangi evreden başlar?</strong>
+    ***
+1. **Bir tasarımcı tasarıma hangi evreden başlar?**
     - A-) Modelleme
     - B-) Resmetme
-    - **Cevap C-) Eskiz &ccedil;izme**
+    - **Cevap C-) Eskiz çizme**
     - D-) Sembol tasarlama
     - E-) Grafik oluşturma
-    <hr />
-1. I. Tasarım d&uuml;ş&uuml;ncesini etkiler.<br />
-II. Tasarıma y&ouml;n verir.<br />
-III. Tasarımcının hayal g&uuml;c&uuml;n&uuml; geliştirir.<br />
-<strong>Yukarıdakilerden hangisi ya da hangileri eskiz &ccedil;izimin &ouml;zelliklerindendir?</strong>
+    ***
+1. I. Tasarım düşüncesini etkiler.<br />II. Tasarıma yön verir.<br />III. Tasarımcının hayal gücünü geliştirir.<br />**Yukarıdakilerden hangisi ya da hangileri eskiz çizimin özelliklerindendir?**
     - A-) Yalnız I
     - B-) I ve II
     - C-) I ve III
     - D-) II ve III
     - **Cevap E-) I, II ve III**
-    <hr />
-1. <strong>G&ouml;rsel tasarımla ilgili olarak aşağıdakilerden hangisi s&ouml;ylenebilir?</strong>
-    - A-) G&ouml;rsel tasarım g&uuml;zel sanatların temelidir.
-    - B-) G&ouml;rsel tasarım yazıdan sonra bulunmuştur.
-    - **Cevap C-) G&ouml;rsel tasarım bir iletişim dilidir.**
-    - D-) G&ouml;rsel tasarım aynı dili konuşan insanların iletişim aracıdır.
-    - E-) G&ouml;rsel tasarım renklerin dile gelmesidir.
-    <hr />
+    ***
+1. **Görsel tasarımla ilgili olarak aşağıdakilerden hangisi söylenebilir?**
+    - A-) Görsel tasarım güzel sanatların temelidir.
+    - B-) Görsel tasarım yazıdan sonra bulunmuştur.
+    - **Cevap C-) Görsel tasarım bir iletişim dilidir.**
+    - D-) Görsel tasarım aynı dili konuşan insanların iletişim aracıdır.
+    - E-) Görsel tasarım renklerin dile gelmesidir.
+    ***
 ## Unite 11
-1. <strong>Bitmap grafiklerde g&ouml;r&uuml;nt&uuml;y&uuml; oluşturan en k&uuml;&ccedil;&uuml;k g&ouml;r&uuml;nt&uuml; elemanı aşağıdakilerden hangisidir?</strong>
+1. **Bitmap grafiklerde görüntüyü oluşturan en küçük görüntü elemanı aşağıdakilerden hangisidir?**
     - A-) Tram
     - B-) Dia
     - **Cevap C-) Piksel**
-    - D-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k
-    - E-) Vekt&ouml;r
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir bitmap grafik <u>değildir</u>?</strong>
-    - A-) Profesyone fotoğraf makinesi ile &ccedil;ekilen dijital fotoğraf
-    - B-) Tarayıcı (scanner) ile dijitalize edilmiş g&ouml;r&uuml;nt&uuml;
-    - C-) Bilgisayar ekranındaki g&ouml;r&uuml;nt&uuml;n&uuml;n ekran g&ouml;r&uuml;nt&uuml;s&uuml; alarak (printscreen) elde edilen belge
-    - **Cevap D-) Adobe Illustrator yazılımı ile &ccedil;izilmiş ve pdf formatında kaydedilmiş bir daire g&ouml;r&uuml;nt&uuml;s&uuml;**
-    - E-) İnternette bir arama motoru ile yapılan g&ouml;rsel arama sonucu bilgisayara kaydedilen g&ouml;r&uuml;nt&uuml;
-    <hr />
-1. <strong>Bilgisayarda veri depolamada en k&uuml;&ccedil;&uuml;k dosya birimi aşağıdakilerden hangisidir?</strong>
+    - D-) Çözünürlük
+    - E-) Vektör
+    ***
+1. **Aşağıdakilerden hangisi bir bitmap grafik değildir?**
+    - A-) Profesyone fotoğraf makinesi ile çekilen dijital fotoğraf
+    - B-) Tarayıcı (scanner) ile dijitalize edilmiş görüntü
+    - C-) Bilgisayar ekranındaki görüntünün ekran görüntüsü alarak (printscreen) elde edilen belge
+    - **Cevap D-) Adobe Illustrator yazılımı ile çizilmiş ve pdf formatında kaydedilmiş bir daire görüntüsü**
+    - E-) İnternette bir arama motoru ile yapılan görsel arama sonucu bilgisayara kaydedilen görüntü
+    ***
+1. **Bilgisayarda veri depolamada en küçük dosya birimi aşağıdakilerden hangisidir?**
     - A-) Megabyte
     - **Cevap B-) Bit**
     - C-) Depth
     - D-) Mono
     - E-) Inch
-    <hr />
-1. <strong>&Uuml;&ccedil; bit renk derinliğine sahip bir bitmap grafikte her pikselin saklayabileceği renk sayısı ka&ccedil;tır?</strong>
+    ***
+1. **Üç bit renk derinliğine sahip bir bitmap grafikte her pikselin saklayabileceği renk sayısı kaçtır?**
     - A-) 1
     - B-) 3
     - C-) 6
     - **Cevap D-) 8**
     - E-) 13
-    <hr />
-1. <strong>Bitmap grafiğin &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğ&uuml; arttık&ccedil;a g&ouml;r&uuml;nt&uuml;de oluşacak değişim aşağıdakilerden hangisidir?</strong>
-    - A-) G&ouml;r&uuml;nt&uuml; daha detaylı olur.
-    - B-) G&ouml;r&uuml;nt&uuml;deki toplam piksel sayısı azalır.
+    ***
+1. **Bitmap grafiğin çözünürlüğü arttıkça görüntüde oluşacak değişim aşağıdakilerden hangisidir?**
+    - A-) Görüntü daha detaylı olur.
+    - B-) Görüntüdeki toplam piksel sayısı azalır.
     - **Cevap C-) Birim alandaki piksel sayısı artar.**
-    - D-) G&ouml;r&uuml;nt&uuml;n&uuml;n keskinliği artar.
-    - E-) G&ouml;r&uuml;nt&uuml; daha kaliteli olur.
-    <hr />
-1. <strong>Bir &ldquo;inch&rdquo; ka&ccedil; cm&rsquo;dir?</strong>
-    - **Cevap A-) 2.54 cm**
-    - B-) 3.24 cm
-    - C-) 3.54 cm
-    - D-) 4.24 cm
-    - E-) 4.54 cm
-    <hr />
-1. <strong>Dijital fotoğraf makinesi ile &ccedil;ekim yaparken aşağıdakilerden hangisini yapmak g&ouml;r&uuml;nt&uuml;de İnterpolasyon hatasına neden olur?</strong>
-    - A-) &Ccedil;ekilen konuya &ccedil;ok yaklaşmak
-    - B-) &Ccedil;ekilen konunun arkasında yoğun ters ışık olması
+    - D-) Görüntünün keskinliği artar.
+    - E-) Görüntü daha kaliteli olur.
+    ***
+1. **Bir “inch” kaç cm’dir?**
+    - **Cevap A-) 2\.54 cm**
+    - B-) 3\.24 cm
+    - C-) 3\.54 cm
+    - D-) 4\.24 cm
+    - E-) 4\.54 cm
+    ***
+1. **Dijital fotoğraf makinesi ile çekim yaparken aşağıdakilerden hangisini yapmak görüntüde İnterpolasyon hatasına neden olur?**
+    - A-) Çekilen konuya çok yaklaşmak
+    - B-) Çekilen konunun arkasında yoğun ters ışık olması
     - C-) Fotoğraf makinesinin objektifinin temiz olmaması
-    - D-) &Ccedil;ekim sırasında makinenin titremesi
-    - **Cevap E-) Dijital zoom &ouml;zelliği ile konuya yaklaşmak**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bitmap tabanlı bir g&ouml;r&uuml;nt&uuml; işleme yazılımıdır?</strong>
+    - D-) Çekim sırasında makinenin titremesi
+    - **Cevap E-) Dijital zoom özelliği ile konuya yaklaşmak**
+    ***
+1. **Aşağıdakilerden hangisi bitmap tabanlı bir görüntü işleme yazılımıdır?**
     - A-) Adobe InDesign
     - B-) Adobe Illustrator
     - **Cevap C-) Adobe Photoshop**
     - D-) Adobe XD
     - E-) Adobe Acrobat
-    <hr />
-1. <strong>Aşağıdakilerden hangisi bir bitmap grafik dosya formatıdır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi bir bitmap grafik dosya formatıdır?**
     - A-) Ai
     - **Cevap B-) Jpeg**
     - C-) SVG
     - D-) EPS
     - E-) CDR
-    <hr />
-1. <strong>1 Megapiksel &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe sahip bitmap grafikte kaş piksel bulunmaktadır?</strong>
+    ***
+1. **1 Megapiksel çözünürlüğe sahip bitmap grafikte kaş piksel bulunmaktadır?**
     - A-) 100
-    - B-) 1.000
-    - C-) 10.000
-    - D-) 100.000
-    - **Cevap E-) 1.000.000**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi &quot;bitmap grafikleri&quot; i&ccedil;in <u>yanlıştır</u>?</strong>
+    - B-) 1\.000
+    - C-) 10\.000
+    - D-) 100\.000
+    - **Cevap E-) 1\.000.000**
+    ***
+1. **Aşağıdakilerden hangisi "bitmap grafikleri" için yanlıştır?**
     - **Cevap A-) EPS, SVG, PDF, Aİ, CDR en yaygın bitmap grafik formatlarıdır.**
-    - B-) &Ccedil;&ouml;z&uuml;n&uuml;rl&uuml;ğe bağımlıdır, &ouml;l&ccedil;eklendirme ve bi&ccedil;im bozma işlemlerinde g&ouml;r&uuml;nt&uuml;de detay kaybı oluşur.
-    - C-) G&ouml;r&uuml;nt&uuml; farklı renkteki k&uuml;&ccedil;&uuml;k karelerden (piksellerden) oluşur.
-    - D-) Dosya ebadı (&ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k, &ouml;l&ccedil;&uuml;, renk derinliği gibi değişkenlere bağımlı olarak) b&uuml;y&uuml;kt&uuml;r.
-    - E-) G&ouml;r&uuml;nt&uuml; fotoğrafik ve ger&ccedil;ek&ccedil;i g&ouml;r&uuml;n&uuml;mdedir.
-    <hr />
-1. <strong>Bitmap grafiklerin diğer adı aşağıdakilerden hangisidir?</strong>
+    - B-) Çözünürlüğe bağımlıdır, ölçeklendirme ve biçim bozma işlemlerinde görüntüde detay kaybı oluşur.
+    - C-) Görüntü farklı renkteki küçük karelerden (piksellerden) oluşur.
+    - D-) Dosya ebadı (çözünürlük, ölçü, renk derinliği gibi değişkenlere bağımlı olarak) büyüktür.
+    - E-) Görüntü fotoğrafik ve gerçekçi görünümdedir.
+    ***
+1. **Bitmap grafiklerin diğer adı aşağıdakilerden hangisidir?**
     - A-) Tramlı grafik
     - **Cevap B-) Raster grafik**
     - C-) Anchor grafik
     - D-) İnter grafik
     - E-) Bilinear grafik
-    <hr />
-1. <strong>Piksel başına 2 bit veri bulunan bitmap grafikte her pikselin sahip olabileceği renk sayısı ka&ccedil; olur?</strong>
+    ***
+1. **Piksel başına 2 bit veri bulunan bitmap grafikte her pikselin sahip olabileceği renk sayısı kaç olur?**
     - A-) 1
     - B-) 2
     - **Cevap C-) 4**
     - D-) 16
     - E-) 256
-    <hr />
+    ***
 ## Unite 12
-1. <strong>Aşağıdakilerden hangisi metal konserve kutunun icadına sebep olmuştur?</strong>
+1. **Aşağıdakilerden hangisi metal konserve kutunun icadına sebep olmuştur?**
     - **Cevap A-) Fransız ordusunun yiyecekleri taşıma ihtiyacı**
     - B-) Demiryollarının yaygınlaşması
-    - C-) T&uuml;ketilenden fazla &uuml;retim y&uuml;z&uuml;nden saklama ihtiyacı
+    - C-) Tüketilenden fazla üretim yüzünden saklama ihtiyacı
     - D-) Deniz aşırı ticaretin yaygınlaşması
-    - E-) Avrupa&rsquo;da yaşanan kıtlık korkusu
-    <hr />
-1. <strong>Aşağıdaki kişilerden hangisi konserve ambalajların geliştiricisidir?</strong>
+    - E-) Avrupa’da yaşanan kıtlık korkusu
+    ***
+1. **Aşağıdaki kişilerden hangisi konserve ambalajların geliştiricisidir?**
     - A-) James Quaker Oats
     - **Cevap B-) Nicholas Appert**
     - C-) Simon Junghans
     - D-) Sir Isaac Mendeley
     - E-) Jack Aplin
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın işlevleri arasında <u>yer almaz</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ambalajın işlevleri arasında yer almaz?**
     - A-) Koruma
     - B-) Taşıma
     - C-) Bilgi verme
     - **Cevap D-) Yenileme**
     - E-) Tutundurma
-    <hr />
-1. &ldquo;Ambalaj tasarımında tasarım i&ccedil;inde kullanılacak tipografik elemanlar, raflara birka&ccedil; metre mesafedeki bir t&uuml;ketici tarafından &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.&rdquo;<strong> ifadesinde noktalı yere aşağıdakilerden hangisi gelmelidir?</strong>
+    ***
+1. “Ambalaj tasarımında tasarım içinde kullanılacak tipografik elemanlar, raflara birkaç metre mesafedeki bir tüketici tarafından ……………….” **ifadesinde noktalı yere aşağıdakilerden hangisi gelmelidir?**
     - **Cevap A-) Sorunsuz okunabilmelidir**
-    - B-) Dokusu g&ouml;zle se&ccedil;ilebilmelidir
+    - B-) Dokusu gözle seçilebilmelidir
     - C-) Kabartma dokusu hissedilebilmelidir
-    - D-) &Ccedil;ukur baskısı el ile hissedilebilir olmalıdır
-    - E-) Y&uuml;zey dokusu dokunmadan algılanabilmelidir
-    <hr />
-1. <strong>Ambalajın m&uuml;şteri ile girdiği ilişkideki ilk temas anı i&ccedil;in aşağıdakilerden hangisi işlevlerinden biri <u>değildir</u>?</strong>
-    - A-) Rakiplerin &ouml;n&uuml;ne ge&ccedil;mek
+    - D-) Çukur baskısı el ile hissedilebilir olmalıdır
+    - E-) Yüzey dokusu dokunmadan algılanabilmelidir
+    ***
+1. **Ambalajın müşteri ile girdiği ilişkideki ilk temas anı için aşağıdakilerden hangisi işlevlerinden biri değildir?**
+    - A-) Rakiplerin önüne geçmek
     - B-) Dikkati yakalamak
     - C-) Kalite imajı yaratmak
     - D-) Satın almaya ikna etmek
     - **Cevap E-) Kullanıcı deneyimini sağlamak / tatmin etmek**
-    <hr />
-1. <strong>Tamamen veya kısmen saydam ambalajlar i&ccedil;in aşağıdakilerden hangisi <u>s&ouml;ylenemez</u>?</strong>
-    - A-) İ&ccedil;eriği hakkında doğrudan bilgi verir.
-    - B-) &Uuml;r&uuml;n&uuml; g&ouml;sterir.
-    - C-) Ambalajın baskılı alanları dışında ambalajın i&ccedil;i izlenebilir.
+    ***
+1. **Tamamen veya kısmen saydam ambalajlar için aşağıdakilerden hangisi söylenemez?**
+    - A-) İçeriği hakkında doğrudan bilgi verir.
+    - B-) Ürünü gösterir.
+    - C-) Ambalajın baskılı alanları dışında ambalajın içi izlenebilir.
     - D-) Kullanım, koruma, saklama koşulları hakkında bilgi verir.
-    - **Cevap E-) M&uuml;şterinin fikir sahibi olması i&ccedil;in ambalajda &uuml;r&uuml;n g&ouml;rseli kullanılır.**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalaj tasarımında kullanım kolaylığı işlevi <u>değildir</u>?</strong>
+    - **Cevap E-) Müşterinin fikir sahibi olması için ambalajda ürün görseli kullanılır.**
+    ***
+1. **Aşağıdakilerden hangisi ambalaj tasarımında kullanım kolaylığı işlevi değildir?**
     - A-) Kolayca boşaltılabilmesi
-    - B-) A&ccedil;ma-kapama i&ccedil;in alete ihtiya&ccedil; duyulmaması
-    - C-) &Uuml;r&uuml;n&uuml; porsiyonlara ayıran bir ambalaj tasarımı
+    - B-) Açma-kapama için alete ihtiyaç duyulmaması
+    - C-) Ürünü porsiyonlara ayıran bir ambalaj tasarımı
     - **Cevap D-) Tutundurma işlevi**
     - E-) Taşıma ve depolama kolaylığı
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın işlevlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi ambalajın işlevlerinden biri değildir?**
     - **Cevap A-) Yarılama işlevi**
     - B-) İletişim işlevi
     - C-) Fiyat ayarlama işlevi
     - D-) Koruma işlevi
     - E-) Bilgi verme işlevi
-    <hr />
-1. ....................... tarafından k&acirc;ğıt katlama makinesinin icadı, taş baskının (litography) keşfi, k&acirc;ğıdın daha hızlı ve ucuz &uuml;retilmesini sağlayan k&acirc;ğıt makinasının &uuml;retilmesi, kutuların &uuml;zerine baskı yapılmaya başlanması gibi ambalaj a&ccedil;ısından &ouml;nemli gelişmelere perde olmuştur.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
-    - A-) &Ccedil;inliler
+    ***
+1. ....................... tarafından kâğıt katlama makinesinin icadı, taş baskının (litography) keşfi, kâğıdın daha hızlı ve ucuz üretilmesini sağlayan kâğıt makinasının üretilmesi, kutuların üzerine baskı yapılmaya başlanması gibi ambalaj açısından önemli gelişmelere perde olmuştur.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
+    - A-) Çinliler
     - B-) Hintli rahipler
     - C-) Fenikeliler
     - D-) Nicholas Appert
     - **Cevap E-) Simon Junghans**
-    <hr />
-1. 17. y&uuml;zyılda tuz, şeker, un gibi gıda maddeleri &ccedil;uvallarla d&uuml;kkanlara ulaşmakta, &hellip;&hellip;&hellip;&hellip;&hellip;. gibi ambalajlar i&ccedil;inde m&uuml;şterilere sunulmaktaydı.<br />
-<strong>C&uuml;mlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?</strong>
+    ***
+1. 17\. yüzyılda tuz, şeker, un gibi gıda maddeleri çuvallarla dükkanlara ulaşmakta, ……………. gibi ambalajlar içinde müşterilere sunulmaktaydı.<br />**Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?**
     - A-) metal kutular
     - B-) polystren torbalar
-    - **Cevap C-) kese k&acirc;ğıdı**
-    - D-) &ccedil;&ouml;z&uuml;nebilen plastikler
-    - E-) polimer &ccedil;uvallar
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajlamada kullanılan k&acirc;ğıt malzemelerden biri <u>değildir</u>?</strong>
-    - A-) Kraft k&acirc;ğıdı
-    - **Cevap B-) Resim k&acirc;ğıdı**
-    - C-) S&uuml;lfik k&acirc;ğıdı
-    - D-) Yağ ge&ccedil;irmez k&acirc;ğıt
-    - E-) Neme dayanıklı k&acirc;ğıtlar
-    <hr />
-1. <strong>Ambalajların temel işlevleri ve iletişim g&ouml;revi dışında farklı kullanımları da mevcuttur. Aşağıdakilerden hangisi bu işlevlerden biri <u>değildir</u>?</strong>
-    - A-) Dikkat &ccedil;ekme
-    - B-) Bilgi verme satış i&ccedil;in ikna etme
+    - **Cevap C-) kese kâğıdı**
+    - D-) çözünebilen plastikler
+    - E-) polimer çuvallar
+    ***
+1. **Aşağıdakilerden hangisi ambalajlamada kullanılan kâğıt malzemelerden biri değildir?**
+    - A-) Kraft kâğıdı
+    - **Cevap B-) Resim kâğıdı**
+    - C-) Sülfik kâğıdı
+    - D-) Yağ geçirmez kâğıt
+    - E-) Neme dayanıklı kâğıtlar
+    ***
+1. **Ambalajların temel işlevleri ve iletişim görevi dışında farklı kullanımları da mevcuttur. Aşağıdakilerden hangisi bu işlevlerden biri değildir?**
+    - A-) Dikkat çekme
+    - B-) Bilgi verme satış için ikna etme
     - **Cevap C-) Mikrobiyolojik koruma**
     - D-) Kıyafeti muhafaza etme
-    - E-) Yiyeceğin ısıtılması i&ccedil;in tava g&ouml;revi g&ouml;ren bir konserve kutusu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi ambalajın fiyat ayarlama işlevleri arasında <u>yer almaz</u>?</strong>
-    - A-) Aynı ambalajı kullanıp i&ccedil;erik azaltarak
-    - B-) Ambalajı b&uuml;y&uuml;t&uuml;p fiyatı artırarak
-    - C-) Ambalajı k&uuml;&ccedil;&uuml;lt&uuml;p birim fiyatı artırarak
-    - D-) Ambalajı b&uuml;y&uuml;t&uuml;p birim fiyatı artırarak
-    - **Cevap E-) Ambalajı b&uuml;y&uuml;t&uuml;p fiyatı değiştirmeyerek**
-    <hr />
-1. <strong>M&Ouml; 6000 yıllarında Mısırlılar tarafından saklama ve taşıma i&ccedil;in kullanılmaya başlayan malzeme aşağıdakilerden hangisidir?</strong>
+    - E-) Yiyeceğin ısıtılması için tava görevi gören bir konserve kutusu
+    ***
+1. **Aşağıdakilerden hangisi ambalajın fiyat ayarlama işlevleri arasında yer almaz?**
+    - A-) Aynı ambalajı kullanıp içerik azaltarak
+    - B-) Ambalajı büyütüp fiyatı artırarak
+    - C-) Ambalajı küçültüp birim fiyatı artırarak
+    - D-) Ambalajı büyütüp birim fiyatı artırarak
+    - **Cevap E-) Ambalajı büyütüp fiyatı değiştirmeyerek**
+    ***
+1. **MÖ 6000 yıllarında Mısırlılar tarafından saklama ve taşıma için kullanılmaya başlayan malzeme aşağıdakilerden hangisidir?**
     - A-) Toprak malzeme
     - **Cevap B-) Cam malzeme**
     - C-) Taş malzeme
     - D-) Ahşap malzeme
     - E-) Plastik malzeme
-    <hr />
+    ***
 ## Unite 13
-1. <strong>Aşağıdakilerden hangisi ekranın boyutuna g&ouml;re i&ccedil;eriğin otomatik olarak yeniden boyutlanıp konumlandığı sayfa d&uuml;zenidir?</strong>
+1. **Aşağıdakilerden hangisi ekranın boyutuna göre içeriğin otomatik olarak yeniden boyutlanıp konumlandığı sayfa düzenidir?**
     - A-) Embed layout
     - B-) Fixed layout
     - **Cevap C-) Reflowable layout**
     - D-) Widget layout
     - E-) DRM layout
-    <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi azw formatı i&ccedil;in doğrudur?</strong>
+    ***
+1. **Aşağıdaki ifadelerden hangisi azw formatı için doğrudur?**
     - A-) Adobe firmasına aittir.
-    - B-) A&ccedil;ık standartta bir formattır.
+    - B-) Açık standartta bir formattır.
     - C-) Nook ve Kobo e-okuyucuları ile okunabilir.
-    - **Cevap D-) Ses ve video i&ccedil;erikleri destekler.**
-    - E-) iOS ve Android platformları &uuml;zerinde okunamaz.
-    <hr />
-1. <strong>Aşağıdaki ifadelerden hangisi ePub formatı i&ccedil;in <u>s&ouml;ylenemez</u>?</strong>
-    - A-) Open eBook &ndash; OEB formatından t&uuml;remiştir
-    - B-) A&ccedil;ık standartta bir formattır
+    - **Cevap D-) Ses ve video içerikleri destekler.**
+    - E-) iOS ve Android platformları üzerinde okunamaz.
+    ***
+1. **Aşağıdaki ifadelerden hangisi ePub formatı için söylenemez?**
+    - A-) Open eBook – OEB formatından türemiştir
+    - B-) Açık standartta bir formattır
     - C-) Scroll ve Swipe (dikey ve yatay) kaydırmayı destekler
     - D-) Amazon Kindle 2 ve DX modelleri ile uyumlu değildir
-    - **Cevap E-) Amazon firması i&ccedil;in tescilli bir formattır**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi doğru e-kitap formatını se&ccedil;mekle ilgili temel ipu&ccedil;larından biri&nbsp;<u>değildir</u>?</strong>
+    - **Cevap E-) Amazon firması için tescilli bir formattır**
+    ***
+1. **Aşağıdakilerden hangisi doğru e-kitap formatını seçmekle ilgili temel ipuçlarından biri değildir?**
     - A-) Taşınabilirlik / Yaygınlık
-    - B-) G&uuml;venlik
-    - C-) Zengin i&ccedil;erik desteği
+    - B-) Güvenlik
+    - C-) Zengin içerik desteği
     - D-) Maliyet
     - **Cevap E-) Renk Modeli**
-    <hr />
-1. <strong>Akan sayfa d&uuml;zenlerinde sayfanın g&ouml;r&uuml;n&uuml;m&uuml; aşağıdakilerden hangisine bağlı <u>değildir</u>?</strong>
-    - A-) Ekran y&ouml;n&uuml;
+    ***
+1. **Akan sayfa düzenlerinde sayfanın görünümü aşağıdakilerden hangisine bağlı değildir?**
+    - A-) Ekran yönü
     - B-) Metin boyutu
     - C-) Ekran boyutu
-    - **Cevap D-) Sesli okuma &ouml;zelliği**
-    - E-) Yatay veya dikey yerleşim y&ouml;n&uuml;
-    <hr />
-1. <strong>Aşağıdaki terimlerden hangisi dijital g&ouml;r&uuml;nt&uuml;leri oluşturan en k&uuml;&ccedil;&uuml;k birimdir?</strong>
+    - **Cevap D-) Sesli okuma özelliği**
+    - E-) Yatay veya dikey yerleşim yönü
+    ***
+1. **Aşağıdaki terimlerden hangisi dijital görüntüleri oluşturan en küçük birimdir?**
     - **Cevap A-) Piksel**
     - B-) Dot
     - C-) Matris
     - D-) DPI (Dot Per Inch)
     - E-) DPCM (Dot Per Centimeter)
-    <hr />
-1. <strong>Aşağıdaki terimlerden hangisi baskıda g&ouml;r&uuml;nt&uuml;leri oluşturan en k&uuml;&ccedil;&uuml;k birimdir?</strong>
+    ***
+1. **Aşağıdaki terimlerden hangisi baskıda görüntüleri oluşturan en küçük birimdir?**
     - A-) Piksel
     - **Cevap B-) Dot**
     - C-) Matris
     - D-) DPI
     - E-) DPCM
-    <hr />
-1. <strong>Aşağıdakilerden hangisi in&ccedil;2 başına &ccedil;izgi anlamına gelen &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k birimidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi inç2 başına çizgi anlamına gelen çözünürlük birimidir?**
     - A-) DPI
     - B-) DPCM
     - C-) LPCM
     - **Cevap D-) LPI**
     - E-) PPI
-    <hr />
-1. <strong>Aşağıdakilerden hangisi in&ccedil;2 başına nokta anlamına gelen &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k birimidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi inç2 başına nokta anlamına gelen çözünürlük birimidir?**
     - **Cevap A-) DPI**
     - B-) DPCM
     - C-) LPCM
     - D-) LPI
     - E-) PPI
-    <hr />
-1. <strong>Aşağıdakilerden hangisi cm<sup>2 </sup>başına nokta anlamına gelen &ccedil;&ouml;z&uuml;n&uuml;rl&uuml;k birimidir?</strong>
+    ***
+1. **Aşağıdakilerden hangisi cm<sup>2 </sup>başına nokta anlamına gelen çözünürlük birimidir?**
     - A-) DPI
     - **Cevap B-) DPCM**
     - C-) LPCM
     - D-) LPI
     - E-) PPI
-    <hr />
-1. <strong>Aşağıdakilerden hangisi kullanıcılar arasında pop&uuml;ler e-kitap formatlarından biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi kullanıcılar arasında popüler e-kitap formatlarından biri değildir?**
     - A-) ePub formatı (.epub)
     - B-) Mobipocket formatı (.mobi, .prc)
-    - C-) D&uuml;z Metin formatı (.txt)
-    - **Cevap D-) Sayfa sayısı d&uuml;zeni**
+    - C-) Düz Metin formatı (.txt)
+    - **Cevap D-) Sayfa sayısı düzeni**
     - E-) Amazon Kindle eReader formatı (.azw, .azw3)
-    <hr />
-1. <strong>Aşağıdakilerden hangisi dijital ekranlarda okunabilirliğe katkı sağlamak i&ccedil;in yapılması gerekenlerden biri <u>değildir</u>?</strong>
-    - A-) Font boyutu ve stil se&ccedil;eneklerinin e-kitap dosyasına d&acirc;hil edilmesi
-    - B-) Tırnaksız (sans-serif) yazı karakterlerinin k&uuml;&ccedil;&uuml;k boyutlarda kullanılmaması
-    - C-) İtalik &ouml;zelliği kullanılmaması
-    - **Cevap D-) A&ccedil;ık standartta i&ccedil;erik kullanılması**
-    - E-) Yazı ile arka planın yeterince zıt renklerden se&ccedil;ilmesi
-    <hr />
-1. <strong>E-kitaplar farklı formatlarda &uuml;retilmektedir. Farklı cihazlar ve uygulamalar &uuml;zerinden okunabilen birbirlerinden farklı &ouml;zelliklere sahip olan bu formatların &ccedil;eşitliliği g&uuml;n&uuml;m&uuml;zde rakamsal olarak ka&ccedil;a ulaşmıştır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi dijital ekranlarda okunabilirliğe katkı sağlamak için yapılması gerekenlerden biri değildir?**
+    - A-) Font boyutu ve stil seçeneklerinin e-kitap dosyasına dâhil edilmesi
+    - B-) Tırnaksız (sans-serif) yazı karakterlerinin küçük boyutlarda kullanılmaması
+    - C-) İtalik özelliği kullanılmaması
+    - **Cevap D-) Açık standartta içerik kullanılması**
+    - E-) Yazı ile arka planın yeterince zıt renklerden seçilmesi
+    ***
+1. **E-kitaplar farklı formatlarda üretilmektedir. Farklı cihazlar ve uygulamalar üzerinden okunabilen birbirlerinden farklı özelliklere sahip olan bu formatların çeşitliliği günümüzde rakamsal olarak kaça ulaşmıştır?**
     - A-) 10
     - B-) 17
     - C-) 23
     - **Cevap D-) 27**
     - E-) 33
-    <hr />
+    ***
 ## Unite 14
-1. <strong>Aşağıdakilerden hangisi tasarımın tanımında kullanılan eş anlamlı ifadelerinden biri <u>değildir</u>?</strong>
+1. **Aşağıdakilerden hangisi tasarımın tanımında kullanılan eş anlamlı ifadelerinden biri değildir?**
     - **Cevap A-) Resim**
-    - B-) Bi&ccedil;im
+    - B-) Biçim
     - C-) Tasavvur
     - D-) İlk taslak
     - E-) Dizayn
-    <hr />
-1. <strong>Aşağıdakilerden hangisi s&uuml;rd&uuml;r&uuml;lebilir tasarımlarda kullanılan malzemelerden <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi sürdürülebilir tasarımlarda kullanılan malzemelerden değildir?**
     - A-) Cam
     - B-) Bambu
     - C-) Yosun
     - D-) Kağıt
     - **Cevap E-) Plastik**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi sanal ger&ccedil;eklik uygulaması i&ccedil;in kullanılan bir kısaltmadır?</strong>
+    ***
+1. **Aşağıdakilerden hangisi sanal gerçeklik uygulaması için kullanılan bir kısaltmadır?**
     - **Cevap A-) VR**
     - B-) PC
     - C-) ARGE
     - D-) PVC
     - E-) SR
-    <hr />
-1. <strong>Aşağıdakilerden hangisi klasik &ouml;ğrenmenin yanı sıra okuyucunun s&uuml;re&ccedil;te aktif m&uuml;dahalesine imkan tanımış ve kitap tasarımında sadece g&ouml;rsel ve yazıyla sınırlı kalınmamasını sağlayarak eğitimde başarılı bir materyal olmuştur</strong>
+    ***
+1. **Aşağıdakilerden hangisi klasik öğrenmenin yanı sıra okuyucunun süreçte aktif müdahalesine imkan tanımış ve kitap tasarımında sadece görsel ve yazıyla sınırlı kalınmamasını sağlayarak eğitimde başarılı bir materyal olmuştur**
     - A-) PC
     - **Cevap B-) E-kitap**
     - C-) VR (Virtual Reality)
     - D-) Karekod
     - E-) Grafik Tasarım
-    <hr />
-1. <strong>Aşağıdakilerden hangisi s&uuml;rd&uuml;r&uuml;lebilir tasarım &uuml;r&uuml;nlerinden biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi sürdürülebilir tasarım ürünlerinden biri değildir?**
     - A-) VR
-    - B-) Sanal ger&ccedil;eklik
+    - B-) Sanal gerçeklik
     - **Cevap C-) Tuval resmi**
     - D-) E-kitap
-    - E-) E-broş&uuml;r
-    <hr />
-1. <strong>We Are Social&rsquo;in t&uuml;m d&uuml;nya ile 2021 Ocak ayı itibari ile T&uuml;rkiye&#39;nin internet ve sosyal medya kullanım alışkanlıkları raporlama &ccedil;alışmasına g&ouml;re; g&uuml;nde yaklaşık 7,5 saatimiz interette, bunun neredeyse 3 saati sosyal medyada ge&ccedil;mektedir. Buna g&ouml;re internette en &ccedil;ok hangi cihaz ile vakit ge&ccedil;irilmektedir?</strong>
+    - E-) E-broşür
+    ***
+1. **We Are Social’in tüm dünya ile 2021 Ocak ayı itibari ile Türkiye'nin internet ve sosyal medya kullanım alışkanlıkları raporlama çalışmasına göre; günde yaklaşık 7,5 saatimiz interette, bunun neredeyse 3 saati sosyal medyada geçmektedir. Buna göre internette en çok hangi cihaz ile vakit geçirilmektedir?**
     - **Cevap A-) Akıllı telefonlar**
-    - B-) Masa&uuml;st&uuml; bilgisayarlar
+    - B-) Masaüstü bilgisayarlar
     - C-) Tabletler
     - D-) Oyun konsolları
-    - E-) Sanal ger&ccedil;eklik cihazları
-    <hr />
-1. <strong>Bilgisayarlarda oluşturulan grafik tasarımlar temel olarak nelerden oluşmaktadır?</strong>
+    - E-) Sanal gerçeklik cihazları
+    ***
+1. **Bilgisayarlarda oluşturulan grafik tasarımlar temel olarak nelerden oluşmaktadır?**
     - A-) Resimler
     - **Cevap B-) Algoritmalar**
     - C-) Yağlı boyalar
     - D-) Videolar
     - E-) Fotoğraflar
-    <hr />
-1. <strong>Grafik tasarım uygulamalarının başlangıcı kabul edilen tarihteki ilk &ccedil;alışmalar nelerdir?</strong>
-    - A-) Parş&ouml;menler &uuml;zerine &ccedil;izilmiş resimler
-    - **Cevap B-) Mağara duvarlarına kazınmış hayvan fig&uuml;rleri**
+    ***
+1. **Grafik tasarım uygulamalarının başlangıcı kabul edilen tarihteki ilk çalışmalar nelerdir?**
+    - A-) Parşömenler üzerine çizilmiş resimler
+    - **Cevap B-) Mağara duvarlarına kazınmış hayvan figürleri**
     - C-) Kayalarla yapılmış heykeller
     - D-) Tuvallere yapılmış yağlı boyalar
-    - E-) Filmler i&ccedil;in tasarlanmış afişler
-    <hr />
-1. <strong>Aşağıdakilerden hangisi grafik tasarımın temelini oluşturan unsurlardan biri <u>değildir</u>?</strong>
+    - E-) Filmler için tasarlanmış afişler
+    ***
+1. **Aşağıdakilerden hangisi grafik tasarımın temelini oluşturan unsurlardan biri değildir?**
     - A-) Afiş
     - B-) Fotoğraf
     - C-) Tasarım
     - D-) Eskiz
     - **Cevap E-) Heykel**
-    <hr />
-1. <strong>Aşağıdakilerden hangisi sanal ger&ccedil;eklik gibi uygulamaların sunduğu faydalardan biri <u>değildir</u>?</strong>
+    ***
+1. **Aşağıdakilerden hangisi sanal gerçeklik gibi uygulamaların sunduğu faydalardan biri değildir?**
     - A-) Hedef kitleye hızlı ulaşım
-    - B-) S&uuml;rd&uuml;r&uuml;lebilir tasarımlar
+    - B-) Sürdürülebilir tasarımlar
     - C-) Grafik olarak zenginleştirilmiş uygulamalar
     - D-) Farklı duyulara hitap etmesi
-    - **Cevap E-) &Ouml;zg&uuml;n taslaklar ortaya &ccedil;ıkarmak**
-    <hr />
-1. S&uuml;rd&uuml;r&uuml;lebilirlik kavramının &uuml;&ccedil; boyutu bulunmaktadır.<br />
-<strong>Aşağıdakilerden hangisi bu boyutlardan biridir?</strong>
+    - **Cevap E-) Özgün taslaklar ortaya çıkarmak**
+    ***
+1. Sürdürülebilirlik kavramının üç boyutu bulunmaktadır.<br />**Aşağıdakilerden hangisi bu boyutlardan biridir?**
     - **Cevap A-) Ekonomik boyutu**
     - B-) Sağlık boyutu
     - C-) Ambalaj boyutu
     - D-) Vergi boyutu
-    - E-) İ&ccedil;erik boyutu
-    <hr />
-1. <strong>Aşağıdakilerden hangisi e-kitapların tasarımında&nbsp;g&ouml;rsel ve yazının dışında kullanılan &ouml;gelerden biri <u>değildir</u>?</strong>
+    - E-) İçerik boyutu
+    ***
+1. **Aşağıdakilerden hangisi e-kitapların tasarımında görsel ve yazının dışında kullanılan ögelerden biri değildir?**
     - A-) Seslendirmeler
     - B-) Animasyonlar
-    - C-) M&uuml;zikler
+    - C-) Müzikler
     - D-) Videolar
     - **Cevap E-) Derlemeler**
-    <hr />
-1. <strong>Tasarımda dijital ortamların kullanılmasının sebepleri aşağıdakilerden hangisi <u>yer almaz</u>?</strong>
+    ***
+1. **Tasarımda dijital ortamların kullanılmasının sebepleri aşağıdakilerden hangisi yer almaz?**
     - **Cevap A-) Geleneksel olması**
-    - B-) S&uuml;rd&uuml;r&uuml;lebilir olması
+    - B-) Sürdürülebilir olması
     - C-) Erişilebilir olması
     - D-) Ekonomik olması
-    - E-) Yenilik&ccedil;i olması
-    <hr />
-1. <strong>İnsanın nesnelerle kurduğu en temel iletişim modeli aşağıdakilerden hangisidir?</strong>
+    - E-) Yenilikçi olması
+    ***
+1. **İnsanın nesnelerle kurduğu en temel iletişim modeli aşağıdakilerden hangisidir?**
     - **Cevap A-) Tasarım**
     - B-) Resim
     - C-) Dil
     - D-) Felsefe
     - E-) İşaret
-    <hr />
-1. <strong>G&uuml;n&uuml;m&uuml;zde tasarım hangi teknoloji &uuml;r&uuml;n&uuml;n&uuml;n dijital bir ger&ccedil;ekliğidir?</strong>
+    ***
+1. **Günümüzde tasarım hangi teknoloji ürününün dijital bir gerçekliğidir?**
     - **Cevap A-) Bilgisayar**
     - B-) Tablet
     - C-) Telefon
     - D-) Televizyon
     - E-) Radyo
-    <hr />
+    ***

@@ -2,19 +2,6 @@
 
 ## Ünite 1
 
-### Alfabe Tanımı
-
-1. alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Latin
-    - **Cevap B-) Fonetik**
-    - C-) Göktürk
-    - D-) Uygur
-    - E-) Piktogramik
-
-    > **Açıklama:** Piktogramik alfabelerden ayrılan, sesleri yazılı olarak gösteren semboller bütününe 'alfabe' denir. Metin, Ünite 1'de 'Günümüzde alfabe, bir dildeki harflerin sıraya dizilmiş bütünü (TDK, 2021) olarak tanımlanmaktadır. Piktogramik alfabelerde ise harfler yerine piktogramlar yer almıştır. Tüm alfabelerde önemli olan, yazı sisteminin kurulmuş olmasıdır.' ifadesiyle bu ayrımı netleştirir. Sesçil alfabe olarak da bilinen klasik alfabeler, sesleri temsil eder.
-
-    <hr />
-
 ### Anıtsal Yazılar
 
 1. Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir? *(2 kez soruldu)*
@@ -41,6 +28,32 @@
 
     <hr />
 
+### Eski Çağ Yüzeyleri
+
+1. M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+    - A-) papirüs
+    - B-) tablet
+    - C-) hasır
+    - D-) kağıt
+    - **Cevap E-) parşömen**
+
+    > **Açıklama:** M.Ö 2000'lerde icat edilen ve kağıda benzer özellik taşıyan, Bergama'dan gelen özel yöntemlerle hazırlanan hayvan derisi parşömendir. Metin, Ünite 1'de '...papirüs, parşömen, bambu, deri, ipek ise sıklıkla kullanılmış olan organik yüzeylerdir.' denilerek bu malzemelerden bahsedilir. Daha spesifik olarak, kağıda benzerliği vurgulanan, M.Ö. 2000'lerde kullanılan malzeme parşömendir.
+
+    <hr />
+
+### Gutenberg ve Matbaa
+
+1. Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?
+    - A-) Tahta baskı yapılabilmesi
+    - B-) Döküm yapabilmesi
+    - C-) Mühür ve silindir yapabilmesi
+    - D-) Kâğıt üretebilmesi
+    - **Cevap E-) Metal baskıyı hareketli hurufat ile yapabilmesi**
+
+    > **Açıklama:** Ünite 1'deki "Gutenberg ve Matbaa" bölümünde açıkça belirtildiği üzere, Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik, metal baskının hareketli hurufat (movable type) ile yapılabilmesidir. Hareketli hurufat sayesinde harfler, farklı dizilimlerle bir araya getirilerek istenilen kelime ve metinler oluşturulabilmiş, bu da basım sürecine büyük bir hız ve esneklik kazandırmıştır. Bu teknoloji, Tipografi teriminin de ortaya çıkmasına neden olan temel gelişmedir.
+
+    <hr />
+
 ### Lidyalılar ve Ticaret
 
 1. Madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlayan ilk uygarlık aşağıdakilerden hangisidir?
@@ -54,22 +67,9 @@
 
     <hr />
 
-### Yazı Yüzeyleri
-
-1. M.Ö 2000'lerde icat edildiği Bergama'dan gelen özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) kağıt
-    - **Cevap B-) parşömen**
-    - C-) hasır
-    - D-) papirüs
-    - E-) tablet
-
-    > **Açıklama:** Ünite 1'de, Lidyalılar madeni sikkeleri icat etmeden önce ticarette kullanılan materyallerden bahsedilmiştir. Daha eski dönemlerde ise Papirüs ve parşömen gibi organik yüzeyler kullanılmıştır. Parşömen, hayvan derisinin özel işlemlerden geçirilmesiyle elde edilen ve kağıda benzer özellikler gösteren bir yüzeydir. Metinde geçen MÖ 2000'lerde icat edildiği ve Bergama'dan geldiği bilgisi Parşömen'i işaret etmektedir, ancak metinde Parşömen'in icadı veya bu özellikler tam olarak verilmemiştir. Fakat, genel olarak hayvan derisinden elde edilen ve kağıda benzer bir yüzey olarak bahsettiği en yakın materyal Parşömen'dir (veya Vellum). Metinde bu tanıma tam uyan bir ifade bulunmasa da, genel olarak eski çağlarda kullanılan yüzeyler arasında Parşömen (Pergamen) mevcuttur ve genellikle hayvan derisinden yapılır. Ancak, metinde (Sayfa 1) organik yüzeyler olarak palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek sıralanmıştır. Parşömen, hayvan derisinden yapılır ve M.Ö 4000'lerden itibaren kil tabletlerden sonra kullanılan sert malzemelerden farklıdır. Metinde özellikle bu tanıma uyan bir ibare olmadığı için, en yakın olası aday olarak parşömen kabul edilebilir.
-
-    <hr />
-
 ### Yazının Keşfi
 
-1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
+1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir? *(2 kez soruldu)*
     - A-) Logogram
     - **Cevap B-) Yazı**
     - C-) Simge
@@ -212,16 +212,16 @@
 
     <hr />
 
-### Modern Tipografi Hareketi
+### Uluslararası Tipografik Stil
 
-1. Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde "Uluslararası Tipografik Stil Hareketi" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır? *(2 kez soruldu)*
-    - A-) Hollanda
-    - B-) İrlanda
+1. Grafik tasarımda 1950'lilerde yeni teknolojilerin sunduğu olanaklarla ifade edilen yaklaşımların hakim olduğu bir dönemde "Uluslararası Tipografik Stil hareketi" aşağıdaki ülkelerden hangisinde ortaya çıkmıştır? *(2 kez soruldu)*
+    - A-) ABD
+    - B-) Hollanda
     - **Cevap C-) İsviçre**
-    - D-) İtalya
-    - E-) ABD
+    - D-) İrlanda
+    - E-) İtalya
 
-    > **Açıklama:** Uluslararası Tipografik Stil Hareketi (İsviçre Stili), bilgiyi net ve evrensel biçimde aktarma çabasıyla İsviçre'de gün yüzüne çıkmıştır. Bu hareket 20. yüzyılın ortalarında etkin olmuştur.
+    > **Açıklama:** Uluslararası Tipografik Stil (İsviçre Stili), 1950'lerde ve sonrasında netlik ve nesnellik arayışıyla ortaya çıkmıştır. Ünite 2'de, bu hareketin İsviçre'de ortaya çıktığı ve De Stijl, Konstrüktivizm, Bauhaus ve Yeni Tipografi akımlarından etkilendiği belirtilmektedir.
 
     <hr />
 
@@ -499,7 +499,7 @@
 
 ### Sayısal Font Tasarımcıları
 
-1. Aşağıdakilerden hangisi Max Kismian'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?
+1. Aşağıdakilerden hangisi Max Kismian'ı sayısal font tasarımında öncü yapan çalışmalarından biridir? *(2 kez soruldu)*
     - A-) Blur
     - B-) Berliner Grotesk
     - C-) FF Meta
@@ -507,16 +507,6 @@
     - E-) Harlem
 
     > **Açıklama:** Ünite 3'te Max Kisman'ın sayısal font tasarımında öncü yapan asıl çalışmalarından birinin 'Fudoni' olduğu belirtilmiştir.
-
-    <hr />
-1. Aşağıdakilerden hangisi Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biridir?
-    - A-) Blur
-    - B-) FF Meta
-    - **Cevap C-) Fudoni**
-    - D-) Berliner Grotesk
-    - E-) Harlem
-
-    > **Açıklama:** Max Kisman'ı sayısal font tasarımında öncü yapan çalışmalarından biri 'Fudoni'dir. Fudoni, modernitenin bir görüngüsü olan Futura yazı tasarımı ile 18. yüzyıl sonu ve 19. yüzyıl başındaki Modern yazı tasarımlarından Bodoni'nin ustaca bir araya getirilmesine dayanmaktadır.
 
     <hr />
 
@@ -807,7 +797,7 @@
 
 ### Yazı Sistemleri Sınıflandırması
 
-1. -----, alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki seçeneklerden hangisi tamamlar?
+1. -----, alfabe, piktogramik alfabelerden farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdaki seçeneklerden hangisi tamamlar? *(2 kez soruldu)*
     - A-) Uygur
     - **Cevap B-) Fonetik**
     - C-) Piktogramik
@@ -843,19 +833,6 @@
     - E-) Modüler yazılar
 
     > **Açıklama:** Boşluklar (beyaz alan), bir tasarımdaki grafik öğeleri çevreleyen ve onlara nefes alma alanı sağlayan alanlardır. Uzun metinlerde, özellikle gövde metinlerinde, 'mıgır dolgu' (placeholder text) olarak kullanılan, anlamı olmayan, ancak görsel düzeni göstermek için kullanılan metin blokları, genellikle 'beyaz alan' ihtiyacını göstermek için kullanılır. Metinlerin okunurluğunu sağlamak için denge ve kontrastla birlikte boşluk kullanımı önemlidir (Ünite 5).
-
-    <hr />
-
-### Bütünlük İlkesi
-
-1. tasarıma yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Izgara sistemi**
-    - B-) Altın dikdörtgen
-    - C-) Fibonacci
-    - D-) Modül
-    - E-) Tam blok
-
-    > **Açıklama:** Bütünlük ilkesi, tasarım yüzeyi üzerinde yer alan her bir görsel elemanın, diğer görsel elemanlarla bağlantılı olması, tasarımın tüm parçalarının birlikte uyum içerisinde olması anlamına gelir. Bütünlük ilkesi aynı zamanda 'Birlik' veya 'Uyum' olarak da bilinir ve gerektiğinde kuralları ihlal edilerek (örneğin, Ray Gun dergisinde olduğu gibi) dinamizm yaratılabilir, ancak temel amacı tasarımdaki parçaları birbirine bağlamaktır.
 
     <hr />
 
@@ -962,7 +939,7 @@
 
 ### Simetrik Denge
 
-1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangisidir?
+1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Vurgu
     - B-) Ritim
     - C-) Görsel hiyerarşi
@@ -970,16 +947,6 @@
     - E-) Oran-orantı
 
     > **Açıklama:** Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafının ağırlık ve ton bakımından eşit olduğu denge türü simetrik dengedir. Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' şeklinde tanımlanmıştır.
-
-    <hr />
-1. Tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olduğu tasarım ilkesi aşağıdakilerden hangsidir? *(2 kez soruldu)*
-    - A-) Görsel hiyerarşi
-    - B-) Oran-orantı
-    - **Cevap C-) Simetrik denge**
-    - D-) Ritim
-    - E-) Vurgu
-
-    > **Açıklama:** Tasarım yüzeyinde dengeyi sağlamak için, yatay veya dikey eksenin her iki tarafının görsel ağırlık ve ton bakımından eşit olması simetrik dengeyi ifade eder. Metin, Ünite 5'te 'Simetrik dengede, tasarım yüzeyi üzerinde yatay ya da dikey eksenin her iki tarafı, ağırlık ve ton bakımından eşit olmalıdır.' olarak belirtilmiştir.
 
     <hr />
 
@@ -1044,6 +1011,19 @@
     - E-) Broşür
 
     > **Açıklama:** Ünite 6'ya göre, basılı ortamlar afiş, billboard, dergi ve gazete gibi kağıt veya benzer formatlardaki yüzeylerdir. Dış Mekân grafikleri ise çevresel grafik tasarımın bir alt dalı olup, kâğıt dışındaki (branda baskı gibi) ortamlarda kullanılan tasarımları kapsar. Bu nedenle dış mekân grafikleri, basılı ortamların sınırlarının dışına çıkan uygulamalardır ve 'Dış Mekânda Kullanımı' başlığı altında incelenmiştir.
+
+    <hr />
+
+### Dijital Ortam Fontları
+
+1. Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir? *(2 kez soruldu)*
+    - **Cevap A-) Helvetica Condensed Black Italic**
+    - B-) Helvetica Condensed Italic
+    - C-) Helvetica Narrow Condensed
+    - D-) Helvetica Narrow Bold
+    - E-) Helvetica Condensed Black
+
+    > **Açıklama:** Ünite 6'da Nike logosunun tipografisi konusunda doğrudan bir bilgi verilmemiştir. Ancak, dijital tipografi ve font tasarımcıları bölümünde, Zuzana Licko ve David Carson gibi isimlerden bahsedilir. Nike logosu, genellikle kalın (Bold/Black) ve daraltılmış (Condensed) bir Helvetica varyasyonu kullanır. Verilen şık 'Helvetica Condensed Black Italic', bu tür güçlü, dış mekân reklamlarında kullanılan karakteristik bir tondur.
 
     <hr />
 
@@ -1119,19 +1099,6 @@
     - E-) Tipografi
 
     > **Açıklama:** Form ile oluşturulan kurumsal simgeye 'Amblem' denir. Amblem, bir kurumun akılda kalıcı ve benzersiz bir görselleştirme ile temsilidir ve nesnel ya da soyut formlar içerebilir. Logotayp ise sadece yazıyla oluşturulan logonun kendisidir.
-
-    <hr />
-
-### Logo Tipografisi
-
-1. Aşağıdakilerden hangisi Nike Logosunda kullanılan yazı karakteridir? *(2 kez soruldu)*
-    - A-) Helvetica Narrow Bold
-    - B-) Helvetica Narrow Condensed
-    - C-) Helvetica Condensed Italic
-    - D-) Helvetica Condensed Black
-    - **Cevap E-) Helvetica Condensed Black Italic**
-
-    > **Açıklama:** Ünite 6'da, Nike logosunda kullanılan yazı karakterinin genellikle Helvetica Condensed Black Italic olduğu bilgisinden yola çıkılarak, verilen doğru şık işaretlenmiştir. Bu font, genellikle logotype ve dış mekân uygulamalarında güçlü etki yaratmak için tercih edilen bir varyasyondur.
 
     <hr />
 
@@ -1243,7 +1210,7 @@
 
 ### Bloklama (Hizalama) Türleri
 
-1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri değildir?
+1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri değildir? *(2 kez soruldu)*
     - A-) Soldan blok
     - **Cevap B-) Dikey blok**
     - C-) Ortadan blok
@@ -1251,32 +1218,6 @@
     - E-) Sağdan blok
 
     > **Açıklama:** Ünite 7'ye göre, yatay bloklama biçimleri soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olarak dört gruba ayrılır. Optik hizalama (Hizalı/Sağlı-Sollu), dikey kenar hizalaması için kullanılan bir tekniktir ve bu dört temel yatay hizalama biçiminden biri değildir; aslında daha çok özel bir dikey hizalama/düzenleme yöntemidir.
-
-    <hr />
-
-### Bloklama Türleri
-
-1. Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden değildir?
-    - A-) Tam blok
-    - B-) Soldan blok
-    - C-) Sağdan blok
-    - D-) Ortadan blok
-    - **Cevap E-) Dikey blok**
-
-    > **Açıklama:** Ünite 7'de Bloklama (Hizalama) başlığı altında, yatay bloklama biçimlerinin soldan blok, ortadan blok, sağdan blok ve her iki tarafa yaslı (tam blok) olduğu belirtilmiştir. Dikey bloklama biçimleri ise üste, ortaya, alta ve tam blok şeklinde ifade edilir. Dikey bloklama, metin yazı alanındaki dikey konumunu belirtir; yatay/sütun düzenlemesi ile ilgili değildir. Dolayısıyla, 'Dikey blok' yatay hizalama biçimlerinden biri değildir.
-
-    <hr />
-
-### Boşluk Düzenleme Biçimleri
-
-1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ad verilir?
-    - A-) Ascender
-    - **Cevap B-) Leading**
-    - C-) Kerning
-    - D-) Descender
-    - E-) Tracking
-
-    > **Açıklama:** İki satır arasındaki boşluğa satır arası espası (leading) denir. Bu boşluk, alttaki satırın zemin çizgisinden (baseline) üstteki satırın zemin çizgisine (baseline) kadar olan yüksekliği tanımlar ve metin bloklarının okuturluğunu doğrudan etkiler.
 
     <hr />
 
@@ -1295,7 +1236,7 @@
 
 ### Izgara Mimarisi
 
-1. tasarlama yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. tasarlama yardımcı olmak ve rehberlik etmek için kullanılıp, gerekli durumda bozulabilen bir yapıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Tam blok
     - B-) Modül
     - C-) Fibonacci
@@ -1409,7 +1350,7 @@
 
 ### Satır Arası Boşluk Terimi
 
-1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ne ad verilir?
+1. Bir metni oluşturan satırların arasındaki boşluk/mesafeye ne ad verilir? *(2 kez soruldu)*
     - A-) Ascender
     - B-) Descender
     - C-) Kerning
@@ -1417,19 +1358,6 @@
     - **Cevap E-) Leading**
 
     > **Açıklama:** Geleneksel baskıda metnin daha kolay okunabilmesi için satırlar arasına eklenen boşluğa 'leading' (lead kelimesinden gelir) adı verilir. Günümüzde ise bu, satır arası boşluk düzeni olarak tanımlanır (Ünite 7, Sayfa 2).
-
-    <hr />
-
-### Sayfa Yapısı Oranları
-
-1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?
-    - A-) Gestalt kuramı prensibi
-    - B-) Punto prensibi
-    - **Cevap C-) Altın oran prensibi**
-    - D-) Grid sistemi
-    - E-) Kağıt ölçüsü
-
-    > **Açıklama:** Altın Oran prensibi, 'a:b b:(a+b)' şeklinde formüle edilir ve 'Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranının eşit olduğu ilkesine dayanır'. Bu prensip, sayfa tasarımı ve ızgara sistemlerinde de temel alınır.
 
     <hr />
 
@@ -1448,7 +1376,7 @@
 
 ### Sayfa Yapısı ve Oranlar
 
-1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir?
+1. Bütünü oluşturan parçalardan küçüğün büyüğe olan oranının, büyüğün bütüne oranına eşit olduğu ilkesine dayanan prensip aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Gestalt kuramı prensibi
     - B-) Punto prensibi
     - **Cevap C-) Altın oran prensibi**
@@ -1469,19 +1397,6 @@
     - E-) Orta Çizgi
 
     > **Açıklama:** Metni düzenli bir bütün olarak dizebilmek için hayali kılavuz çizgiler üzerine konumlandırma gereklidir. Satır çizgisi (baseline), tüm harflerin aynı hizaya gelerek kelimeleri ve cümleleri oluşturmasını sağlayan temel çizgidir ve metnin algılanabilir düzenini öncelikli olarak sağlar.
-
-    <hr />
-
-### Yazı/İletişim Tanımı
-
-1. Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ne ad verilir?
-    - A-) Simge
-    - **Cevap B-) Yazı**
-    - C-) Logogram
-    - D-) Fonetik
-    - E-) Piktogram
-
-    > **Açıklama:** Ünite 7'de, tipografinin tanımından önce, yazı insanlık tarihinin başlangıç noktası olarak tanımlanır ve duygu, düşünce ve fikirlerin karşılıklı alışverişine dayalı iletişimin kalıcı hale getirilmesinde önemli bir araç olduğu belirtilir. Soru, 'Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere' ne ad verildiğini soruyor. Ünite 1'de, yazının genel tanımı ile birlikte, piktogramik çizimler de bu genel iletişimin parçasıdır. Ancak, sorunun cevabı 'Yazı' olarak işaretlendiğinden, bu, iletişim kurmak için kullanılan her türlü sembolik sistemin en genel adı olarak kabul edilir.
 
     <hr />
 
@@ -1706,15 +1621,5 @@
 
     > **Açıklama:** Ünite 8'de İç Boşluklar başlığı altında, 'Bir yazı karakterinin iç boşlukları ne kadar küçükse okunurluğu o kadar zor olabilir. İç boşlukları ne kadar büyükse okunurluğu artar' denilmektedir. Bu, 'küçükse - büyükse' şeklinde sıralanması gerektiğini gösterir.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Gutenberg'in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?
-    - A-) Tahta baskı yapılabilmesi
-    - B-) Döküm yapabilmesi
-    - C-) Mühür ve silindir yapabilmesi
-    - D-) Kâğıt üretebilmesi
-    - **Cevap E-) Metal baskıyı hareketli hurufat ile yapabilmesi**
     <hr />
 

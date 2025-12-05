@@ -15,7 +15,10 @@
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 1,
+            "UniteNo": 1,
+            "topic": "Lidya Uygarlığı ve Para",
+            "explanation": "Lidya Uygarlığı, Anadolu'da Neolitik Çağ'a kadar uzanan bir yerleşime sahiptir ve en çok parayı icat etmiş olmaları ile bilinirler. Ünite 1 özetinde belirtildiği üzere, Lidya krallığında altın ve gümüş karışımı olan elektron adı verilen madenden basılan ilk sikkeler kullanılmıştır. Bu nedenle doğru cevap Lidya'dır."
         },
         {
             "id": 2,
@@ -31,11 +34,11 @@
             "exam_question_number": 2,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618",
-            "UniteNo": 1,
-            "topic": "Eski Mısır Sfenksleri",
-            "explanation": "Giza üçlüsü olarak bilinen piramitler (Keops, Kefren, Menkare) arasında Kefren'e ait olduğu düşünülen insan başlı, aslan vücutlu anıtsal sfenksin başında, kral/firavun başlığı olan Nemes bulunmaktadır. Nemes, iki kulağı açıkta bırakan, yaka ve alın bantlı bir baş örtüsüdür (Ünite 1, Mısır Mimarisi).",
+            "UniteNo": 3,
+            "topic": "Klasik Dönem Heykeltıraşları",
+            "explanation": "Klasik Dönem heykel sanatının önemli isimlerinden olan Praxiteles, Geç Klasik Dönem sanatçıları arasında yer alır. Ünite 3 özetinde belirtildiği gibi, Praxiteles hikaye niteliği taşıyan heykeller yapmış ve insan vücuduna S biçimini kazandırmıştır. Knidos kenti için yaptığı ünlü çıplak tanrıça heykeli olan Aphrodite, onun en bilinen eserlerindendir ve sanatçının bu dönemdeki yumuşak ve zarif üslubunu yansıtır. Bu heykelleri yapan sanatçı Praxiteles'tir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 3,
@@ -52,8 +55,8 @@
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618",
             "UniteNo": 5,
-            "topic": "İran İslam Resim Sanatı",
-            "explanation": "Japonya'da resim sanatı, Çin'de olduğu gibi yazı sanatından gelişmiştir. Japon resimlerinde Çin resimlerine benzer şekilde ışık, gölge ve perspektif bulunmaz (Ünite 5, Japon Sanatı).",
+            "topic": "Delhi İslam Mimarisi",
+            "explanation": "Hint İslam Devri Sanatı bölümünde, Kutbiddin Aybek'in Delhi'de yaptırdığı Cuma Camii (Kutbü'l-İslam Camii) en ünlü eserlerdendir. Bu caminin yanında bulunan, kırmızı kum taşı ve beyaz mermer kullanılarak inşa edilen, aşağıdan yukarıya doğru daralan ve dilimli gövdeli, beş şerefeli minare, **Kutub Minar** olarak adlandırılır.",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -71,9 +74,9 @@
             "exam_question_number": 4,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618",
-            "UniteNo": 2,
-            "topic": "Eski İran Sanatı",
-            "explanation": "Eski İran sanatı, İran-İslam sanatı ile birlikte başlıca iki büyük devre ayrılır. İlk dönem olan Eski İran sanatı, Pers döneminden itibaren takip edilebilmektedir. İran sanatı, Elam uygarlığına (2300'lü yıllar) tarihlenen en erken eserlerle başlar (Ünite 2, İran Sanatı).",
+            "UniteNo": 5,
+            "topic": "Fatımi Dönemi Camileri",
+            "explanation": "Ünite 5'teki \"Fatımi Sanatı\" bölümünde, Fatımi Devleti'nin başkentini Mehdiye'den Kahire'ye taşıdığı belirtilmektedir. Kahire'de inşa edilen ilk yapı ise **el-Ezher Camii**'dir. El-Ezher Camii aynı zamanda Fatımi Dönemi'nin önemli eğitim merkezlerinden biridir.",
             "occurrence_count": 3,
             "is_duplicate": false
         },
@@ -91,9 +94,9 @@
             "exam_question_number": 5,
             "source": "Yaz Okulu 2020-2021",
             "material_id": "428618",
-            "UniteNo": 3,
-            "topic": "Yunan Heykeltıraşlığı Evreleri",
-            "explanation": "Klasik Dönem heykel sanatı; erken, olgun ve geç olarak üçe ayrılır. Arkaik Dönem heykelleri (Kuros ve Kore) stilize ve katıdır. Helenistik Dönem heykelleri ise dramatik ve duygusaldır. Etrüsk etkisindeki heykeller, Roma sanatı ile ilişkilidir. Dolayısıyla, Etrüsk merkezlerinde bulunmuş heykeller Klasik Dönem Yunan heykel evrelemesine dahil değildir (Ünite 3, Yunan Heykel).",
+            "UniteNo": 5,
+            "topic": "Emevi Çöl Sarayları",
+            "explanation": "Ünite 5'teki \"Suriye Emevi Dönemi Sanatı\" bölümünde, Şam dışında inşa edilen ve kale görünümlü korunaklı saray yapılarına değinilmiştir. Bu yapılar genellikle hükümdarlara ait, yüksek duvarlar ve burçlarla tahkim edilmiş, şato benzeri özellikler taşıyan yapılar olup, **kasır** olarak adlandırılmaktadır (Örn: Kusayr-ı Amra, Kasrü'l Hayri el-Şarki).",
             "is_duplicate": false,
             "occurrence_count": 1
         },
@@ -275,7 +278,7 @@
             "topic": "İslam Minyatür Sanatı",
             "explanation": "10. yüzyılda İbnü'l-Mütekaddim'in (el-Mesudi) eserleri arasında sayılan ve 956'da yapılmış olan 'Kitâbü Suveri'l-Kevâkibi's-Sâbite' adlı el yazması eser, Ebü'l Kasım İbnü's-Saffar'a aittir. Bu eser, yıldız tasvirlerini içerir (Ünite 5, El Sanatları).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 15,
@@ -414,9 +417,8 @@
             "UniteNo": 1,
             "topic": "Mezopotamya Tarih Öncesi Kültürleri",
             "explanation": "Mezopotamya Tarih Öncesi başlığı altında, Hassuna kültürünün kerpiçli mimari yapının en geliştiği dönem olduğu, mezarlarda heykelcikler ve süs eşyaları bulunduğu ve bakırdan takılara rastlandığı belirtilmiştir. Bu kültür, Kuzey Irak ve Musul civarında yaşamıştır ve metinde kerpiçli mimari ve maden eserlerinden bahsedilmektedir.",
-            "is_duplicate": true,
-            "duplicate_of": 159,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 22,
@@ -435,8 +437,10 @@
             "UniteNo": 5,
             "topic": "İslam Sanatı El Yazmaları",
             "explanation": "Kitâbü Suveri'l-Kevâkibi's-Sâbite (Sabit Yıldızların Resimleri Kitabı), 956'da yazılmış olup, Abbasi dönemi sanatçısı Abdurrahman es-Sufi'ye aittir. (Sayfa 3, El Sanatları, Tezhip Sanatı altında: 'Kuran-ı Kerim'in yazımında kullanılan ... kağıt da kullanılmıştır.')",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 14,
+            "duplication_reason": "İki sorunun metni de aynı eserin (Kitâbü Suveri'l-Kevâkibi's-Sâbite) yazarını sormaktadır; aralarındaki tek fark (\"olan\" yerine \"yazılmış olan\") anlamsal bütünlüğü bozmamaktadır. Şıklar ve doğru cevap (Abdurrahman es-Sufi) tamamen aynıdır."
         },
         {
             "id": 23,
@@ -456,7 +460,7 @@
             "topic": "Fatımi Dönemi Camileri",
             "explanation": "Fatımi Dönemi'nde Kahire'de inşa edilen ilk önemli cami El-Ezher Camii'dir. Bu cami, Kahire'deki ilk yapı olup, sonradan genişletilmiştir. (Sayfa 2, Fatımi Sanatı, Kahire'deki ilk yapı ise el-Ezher Camii'dir.)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 24,
@@ -476,7 +480,7 @@
             "topic": "Yeni Sanat Teknikleri",
             "explanation": "Georges Seurat'un geliştirdiği, renkleri küçük noktalar halinde kullanarak renklerin birbiri üzerindeki etkilerinden yola çıkan teknik, noktacılık (puantizm) veya divizyonizm olarak adlandırılır. Bu teknik, Yeni Ticari Kültür başlığı altındaki Pop Sanatın ardından gelişen tekniklerdendir. (Sayfa 2, Yeni Ticari Kültürün Yeni Akımları başlığı altında: 'Ressam Georges Seurat'in geliştirdiği divizyonizm, noktacılık ya da puantizm tekniğinde...') Ayrıca 'Yeni Plastisizm' başlığı altında 'Yeni Plastisizm'in de benzer bir teknik olduğu belirtilmiştir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 25,
@@ -495,9 +499,8 @@
             "UniteNo": 4,
             "topic": "Erken Bizans Fresko Konuları",
             "explanation": "Efes Yamaç evleri freskolarında (Erken Bizans Dönemi) İsa ve diğer figürlerin tasvir edildiği belirtilmiştir. Ancak, hayvan figürleri daha çok maden sanatında ve seramiklerde öne çıkar. (Sayfa 2, Anıtsal Resim Sanatı: 'Büyük Saray'da rastlanır. ... Kanakaria Kilisesi ve Aziz Demetrios Kilisesi diğer örnekleridir. ...') (Ayrıca Sayfa 3'te cam sanatında 'hayvan figürleri'nden bahsedilir, ancak freskolarda ana konu dinseldir.)",
-            "is_duplicate": true,
-            "duplicate_of": 88,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 26,
@@ -516,9 +519,8 @@
             "UniteNo": 7,
             "topic": "Orta Çağ Üniversiteleri",
             "explanation": "1158'de kurulan Bologna Üniversitesi, Orta Çağ'da din, felsefe ve hukuk alanlarında eğitim veren ilk üniversitedir. (Sayfa 2, Romanesk Dönem Sanatı başlığı altında: 'Bu dönemde tarikatlar, dinî vakıflar ve bağışlar kiliseyi zenginleştirmiş, Haçlı Seferleri'nin etkisiyle manastır ve kiliseler çoğalmıştır.')",
-            "is_duplicate": true,
-            "duplicate_of": 158,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 27,
@@ -557,9 +559,8 @@
             "UniteNo": 1,
             "topic": "Mezopotamya Tarih Öncesi",
             "explanation": "Mezopotamya, Yunanca'da 'ırmaklar arasındaki ülke' anlamına gelir ve günümüz Irak topraklarına denk gelen alandır. Sümer, Akkad, Babil ve Asur gibi uygarlıkların birleşik kültürünü kapsar. Hint uygarlığı bu coğrafi bölgenin dışında yer alır. (Sayfa 3, Mezopotamya'da Tarih Öncesi: 'Yunancada ırmaklar arasındaki ülke anlamına gelen Mezopotamya günümüz Irak topraklarına denk gelen alana verilen isimdir.')",
-            "is_duplicate": true,
-            "duplicate_of": 84,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 29,
@@ -578,9 +579,8 @@
             "UniteNo": 3,
             "topic": "Rönesans Mimari İlkeleri",
             "explanation": "Roma mimarisinde, Vitruvius'un bahsettiği, plan tasarımında değişmeyen bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi Polykleitos'tur. Bu anlayış Klasik Dönem'de geliştirilmiş, Roma'da da etkili olmuştur. (Sayfa 1, Yunan Sanatı, Klasik Dönem başlığı altında: 'Dönemde oranlar matematiksel formüllere dayanmıştır. Bunu ilk uygulayan Polykleitos'tur.')",
-            "is_duplicate": true,
-            "duplicate_of": 160,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 30,
@@ -620,7 +620,7 @@
             "topic": "Türk Heykel Sanatı",
             "explanation": "Köln Katedrali'nde bulunan ve 970 tarihli olan heykel, Türk heykel sanatının en erken örneklerinden biri olan ve bir dinî ritüel eseri olarak kabul edilen Balbal'ın devamı niteliğindedir. (Sayfa 3, Türk Heykel Sanatı: 'Göktürkler günümüze ulaşan en eski yazılı eserleri vermişlerdir... Balbal denilen bu heykeller, Türk heykel sanatının en erken örnekleri olarak değerlendirilirler.')",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 32,
@@ -639,9 +639,8 @@
             "UniteNo": 5,
             "topic": "İslam Din Kuralları",
             "explanation": "Bir dinin ibadet biçimlerine ve ritüellerine ilişkin kuralların tümüne, İslamiyet özelinde, Şeriat adı verilir. (Sayfa 1, Dört Halife Dönemi Sanatı: 'İslam Devleti'nin başındaki devleti dinsel bir siyasetle yöneten kişiye halife denir.')",
-            "is_duplicate": true,
-            "duplicate_of": 143,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 33,
@@ -680,9 +679,8 @@
             "UniteNo": 2,
             "topic": "Cayna Mimari Üslubu",
             "explanation": "MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve yoğun çileciliği esas alan Cayna mezhebine bağlı mimari üslup, Cayna üslubu olarak adlandırılır. (Sayfa 3, Budacılığa ait Mimari başlığı altında: 'Cayna üslubu: MÖ 6. yüzyılda Hindistan'da ortaya çıkan, Brahman sınıfı olmayan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören Cayna mezhebine bağlı olarak oluşan üslup.')",
-            "is_duplicate": true,
-            "duplicate_of": 97,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 35,
@@ -741,9 +739,8 @@
             "UniteNo": 6,
             "topic": "Büyük Selçuklu Camileri",
             "explanation": "Eyvanlı cami tipinin en gelişmiş örneği olan ve mihrap önü kubbesi, dört eyvanlı avlusu ile karakterize edilen yapı, İsfahan Mescidi Cuma'dır (1135). Bu yapı Büyük Selçuklu dönemine aittir. (Sayfa 1, Gazneli Mimarisi altında: 'Büyük Selçuklu Mimarisi (1040-1157): ... mihrap önünün bir kubbe ile vurgulandığı, dört eyvanlı avlulu plan şemasına sahip çok destekli büyük camiler yapılmıştır. Melikşah zamanında inşa edilen Isfahan Mescidi Cuması İran'dan Anadolu'ya kadar uzanacak olan bir mimari biçimin başlangıcı olarak kabul edilmektedir.')",
-            "is_duplicate": true,
-            "duplicate_of": 154,
-            "original_source": "Dönem Sonu 2021-2022"
+            "original_source": "Dönem Sonu 2021-2022",
+            "occurrence_count": 3
         },
         {
             "id": 38,
@@ -764,7 +761,9 @@
             "explanation": "Endüstri Devrimi'nin sanatsal karmaşasına tepki olarak, William Morris önderliğinde XIX. yüzyıl sonunda İngiltere'de ortaya çıkan ve el sanatlarını ön plana çıkaran akım Arts and Crafts (Sanat ve El Sanatları) hareketidir. (Sayfa 3, Yeni Ticari Kültürün Yeni Akımları altında: 'Bu akımla modernizm ve ona karşı bir tutum olan postmodernizm kavramları doğmuştur.')",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 39,
@@ -783,9 +782,8 @@
             "UniteNo": 3,
             "topic": "Roma Tapınak Mimarisi",
             "explanation": "Roma mimarisinde Etrüsk etkisinin görüldüğü ilk önemli tapınak örneği, Roma'nın resmi tanrısı Jüpiter için yapılan Jupiter Tapınağı'dır. (Sayfa 1, Cumhuriyet Dönemi Mimarisi: 'Tapınak mimarisinde Etrüsk etkisi görülür. Bunun ilk örneği Jupiter Tapınağı'dır.')",
-            "is_duplicate": true,
-            "duplicate_of": 90,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 40,
@@ -826,7 +824,9 @@
             "explanation": "Otto Dönemi Sanatı başlığı altında, \"Kutsal-Roma Germen İmparatorluğu'nun başına I. Otto'nun geçmesiyle Avrupa'da Otto Dönemi başlamıştır. 936-1024 yılları arasını (I. Otto, II. Otto ve III. Otto devirleri) kapsayan bu dönemin sanatı, Otto Rönesansı olarak adlandırılır. Erken Romanesk özellikleri gösteren Otto Dönemi mimarisi...\" ifadesi yer almaktadır. Bu dönem, Erken Romanesk dönem olarak tanımlanmaktadır.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 42,
@@ -905,9 +905,8 @@
             "UniteNo": 5,
             "topic": "İran Mimari Terimleri",
             "explanation": "Ünite 5'te İran Sanatı terimleri açıklanmıştır. \"Revak: Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere revak denir.\" ifadesi tam olarak sorunun tanımını karşılamaktadır.",
-            "is_duplicate": true,
-            "duplicate_of": 94,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "occurrence_count": 2
         },
         {
             "id": 46,
@@ -1067,7 +1066,7 @@
             "topic": "Anadolu Tarih Öncesi",
             "explanation": "Ünite 1'de Anadolu'da Tarih Öncesi sanat anlatılırken Hitit Uygarlığı'ndan bahsedilmiştir. Metinde: \"Hitit Uygarlığı: Kafkasya'dan MÖ 3000'lerin başlarında göçtükleri düşünülen bir topluluk olan Hititler başkenti Çorum sınırları içerisindeki Hattuşa (Boğazköy) merkezli bir devlettir.\" ifadesi yer almaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 54,
@@ -1147,8 +1146,10 @@
             "topic": "Bizans Fresk Konuları",
             "explanation": "Ünite 4'te Anıtsal Resim Sanatı anlatılırken, Erken Bizans Dönemi'nde İstanbul'da Büyük Saray'da rastlanan fresklerdeki temalardan bahsedilir: \"İstanbul'da günümüze ulaşan Erken Bizans Dönemi'ne ait ilk örneklere Büyük Saray'da rastlanır. ... metanorphosis tasviriyle dikkat çeker.\" Ayrıca Orta Bizans döneminde: \"İsa'nın Göğe Yükseliş tasviri Selanik Ayasofya Kilisesi'nde ilk kez tasvir edilmiştir.\" ve Geç Bizans döneminde: \"Pammakaristos Manastırı Güney Kilisesi'ndeki Yahya'nın İsa'yı Vaftiz edişi ve Göğe Çıkış sahneleri ile Pantokrator İsa ve bemadaki Deesis birer örnektir.\" denilmiştir. Anadolu'da ise Kapadokya freskoları arasında \"Üç Müneccim Kralın Tapınması\" ve \"Su Deneyi\" tasvirleri yer alır. Metinde \"Balık, aslan, ejder\" gibi hayvan tasvirleri Anadolu Selçuklu dönemine (Ünite 6) veya diğer kültürlere atfedilebilir, ancak Bizans freskoları için doğrudan listelenmemiştir. (Efes'teki freskoda tavus kuşları tasvir edildiği bilgisi var, bu hayvan türüdür.) Şıklar verilmediğinden, diğer şıklara göre arama yapmalıyız. Yukarıdaki listede olmayan bir tema doğru cevaptır. Metinde geçen temalar: Metamorphosis, İsa'nın Göğe Yükselişi, İsa'yı Vaftiz Ediş, Göğe Çıkış, Deesis, Üç Müneccim Kralın Tapınması, Su Deneyi.",
             "is_duplicate": true,
-            "duplicate_of": 88,
-            "original_source": "Ara Sınav 2021-2022"
+            "duplicate_of": 25,
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 58,
@@ -1247,8 +1248,10 @@
             "UniteNo": 1,
             "topic": "Mısır Sfenks Başlığı",
             "explanation": "Soru, Giza'daki Kefren'e ait olduğu düşünülen sfenksin başlığındaki bir unsuru sormaktadır. Metinde, Mısır mimarisi bölümünde sfenkslerden bahsedilmekte, ancak başlığın detayları verilmemektedir. Ancak, Mısır sanatında firavunların başlarında giydikleri baş örtülerine 'nemes' adı verilirken, kraliyet sembolü olarak 'ureus' (kobra) kullanılır. Metinde firavun başlıklarına dair detaylı bir bilgi yer almamaktadır, ancak başlıkların genel olarak kraliyet sembollerini taşıdığı ima edilir. Sorunun cevabının metin içinde açıkça bulunmadığı varsayılırsa, bu sorunun zenginleştirilmesi yapılamaz. Ancak, metinde 'anitıtsal heykel sanatının Hititler ile başlamıştır' bilgisi verilirken, Mısır'da heykelin genel özelliklerine değinilir. Sfenksle ilgili detay verilmemiştir. Sorunun bağlamı Ünite 1'dir. Metin içinde bu detayın bulunmaması nedeniyle bu soru için uygun bir zenginleştirme sağlanamıyor.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 2,
+            "duplication_reason": "Soru metni ve şık listesi tamamen aynıdır (şıkların sırası farklıdır). Her iki soru da aynı bilgiyi test etmekte ve aynı doğru cevaba ('nemes') sahiptir."
         },
         {
             "id": 63,
@@ -1347,8 +1350,10 @@
             "UniteNo": 8,
             "topic": "Seurat Tekniği",
             "explanation": "Soru, Georges Seurat'ın empresyonizmden yola çıkarak geliştirdiği, renk sayısını azaltıp noktalar halinde kullandığı tekniği sormaktadır. Metinde, 19. Yüzyıl Sanat Akımları başlığı altında, Yeni Ticari Kültürün Yeni Akımları başlığı altında Pop Sanat anlatılırken, ondan önce 'Yeni Ticari Kültürün Yeni Akımları'ndan önce 'Soyut Sanat Akımları' başlığında Yeni Empresyonizm (Yeni İzlenimcilik) anlatılmıştır. Burada, ressam Georges Seurat'ın geliştirdiği 'divizyonizm, noktacılık ya da puantizm tekniğinde' renklerin birbiri üzerindeki etkilerinden yola çıkarak, renk sayısını azaltmış ve bunları küçük noktalar hâlinde kullandığı belirtilmiştir (Sayfa 2, Ünite 8).",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 24,
+            "duplication_reason": "Sorular, Georges Seurat'ın bilimsel çalışmaların etkisiyle geliştirdiği tekniği (Puantizm) sormaktadır. Soru kökleri (gerçekleşen/geliştirdiği) ve şıkların içeriği tamamen aynıdır. Sadece şıkların sıralaması farklıdır."
         },
         {
             "id": 68,
@@ -1409,7 +1414,9 @@
             "explanation": "Soru, İsa'nın sağında Meryem, solunda Vaftizci Yahya ile birlikte tasvir edildiği sahneyi sormaktadır. Metinde, Bizans Anıtsal Resim Sanatı bölümünde, Anadolu'da günümüze ulaşan Erken Bizans Dönemi mozaiklerinden bahsedilirken, İznik Ayasofya Kilisesi'ndeki 'Deesis sahnesi'nin erken dönem antik resim örneklerinden olduğu belirtilmektedir (Sayfa 3, Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 8,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 71,
@@ -1489,7 +1496,7 @@
             "topic": "İlk Fatımi Cami Planı",
             "explanation": "Soru, Kahire'deki ilk Fatımi yapısını sormaktadır: harimde mihrap duvarına paralel beş sahın, mihrap önü kubbesi ve orta sahının iki ucunda iki kubbe (Kayravan etkisi). Metinde, Fatımi Sanatı başlığı altında, Kahire'deki camilerin plan şemalarından bahsedilir. 'Kahire'deki ilk yapı ise el-Ezher Camii'dir. ... El-Akmer Camii (1125)'nin mihrap önünde bir kubbe yer alır. Mihrap duvarının her iki ucunda da T planı meydana getiren birer kubbe bulunuyordu. Bu plan tipi 12. yüzyılda sık kullanılmıştır.' denir. Ayrıca El-Cuyuşi Camii'nden bahsedilir (Sayfa 2, Ünite 5). Sorudaki tarif, özellikle beş sahın ve iki yanda kubbe detayları ile, metinde belirtilen El-Akmer Camii'nin T planlı yapısına ve genel Fatımi plan şemasına yakındır, ancak metinde bu detayların tamamı bir arada tek bir cami için verilmemiştir (El-Akmer'de sadece mihrap önü ve iki yanda birer kubbe belirtiliyor). Ancak, Kayravan etkisinden bahsedilmesi ve Kahire'deki camiler arasında ayrım yapılması nedeniyle, en yakın eşleşme El-Ezher veya El-Akmer'dir. Metinde bu detayların tamamını içeren cami adı doğrudan verilmemiştir. Ancak Fatımi camilerinin genel karakteristiği Kayravan etkisidir. Bu sorunun cevabı metin içinde net olarak bulunmamaktadır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 75,
@@ -1508,8 +1515,10 @@
             "UniteNo": 7,
             "topic": "Orta Çağ Heykeli",
             "explanation": "Soru, Köln Katedrali'nde bulunan, 970 tarihli, anıtsal ölçülerde yapılmış, bağımsız ahşap heykellerin bilinen ilk örneği olan yapıyı sormaktadır. Metinde, Romanesk Dönem Heykel Sanatı anlatılırken, heykellerin genellikle kilise/manastır mimarisine bağlı olduğu belirtilir. 'Romanesk üsluplu kabartmalar... Üç boyut kaygısı olmadan betimlenmiştir.' denir. Fransa'daki St. Sernin Kilisesi örnek verilir (Sayfa 2, Ünite 7). Ancak Köln Katedrali'ndeki '970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykeller' bilgisi metinde bulunmamaktadır. Cevabın metin içinde açıkça bulunmadığı varsayılırsa, bu sorunun zenginleştirilmesi yapılamaz.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 31,
+            "duplication_reason": "Soru kökleri ve metinleri tamamen aynıdır. Şık listeleri aynı maddelerden oluşmakta ancak sıralamaları farklıdır. Her iki sorunun da doğru cevabı aynıdır (Gero Haçı)."
         },
         {
             "id": 76,
@@ -1550,7 +1559,9 @@
             "explanation": "Soru, Türk Yakut adı verilen Yakutu Müstasemi'nin oluşturduğu altı çeşit yazıyı (nesih, sülüs, reyhani, muhakkak, tevki ve rika) sormaktadır. Metinde, Emevi Dönemi Sanatı altında Hat (Yazı) Sanatı anlatılırken, Abbasi halifesi Mu'tasım'ın 'Aklam-ı Sitte adı verilen nesih, sülüs, reyhani, muhakkak, tevki ve rika olarak adlandırılan 6 çeşit yazı oluşturulmuştur' bilgisi verilmektedir (Sayfa 2, Ünite 5). Bu altı yazı türü Aklam-ı Sitte olarak adlandırılır.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 78,
@@ -1689,8 +1700,10 @@
             "UniteNo": 1,
             "topic": "Mezopotamya Uygarlıkları",
             "explanation": "Mezopotamya, Yunancada 'ırmaklar arasındaki ülke' anlamına gelir ve günümüz Irak topraklarına denk gelir. Bu coğrafyada Sümer, Akkad, Babil ve Asur gibi uygarlıklar birleşik bir kültür oluşturmuştur. Metinde Hitit Uygarlığı Mezopotamya uygarlıkları arasında sayılmamıştır; Hititler Anadolu merkezli bir uygarlıktır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 28,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 85,
@@ -1769,8 +1782,10 @@
             "UniteNo": 4,
             "topic": "Erken Bizans Fresk Konuları",
             "explanation": "Erken Bizans Dönemi'nde İstanbul'da Büyük Saray'da rastlanan ilk fresklerde metinde 'kantharonun etrafındaki tavus kuşları' tasvir edilmiştir. Ayrıca Katherina Manastırı Kilisesi'nde 'metamorphosis' tasviri ve Kanakaria Kilisesi'nde de fresk örnekleri mevcuttur. Metinde Efes Yamaç evlerinde bulunan freskolarda 'dinî konular' ve 'tavus kuşları' tasvirinden bahsedilirken, 'savaş anıları' veya 'dini ritüeller' (bunlar Asur kabartmalarında daha baskındır) ana tema olarak geçmemektedir.",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 25,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 89,
@@ -1809,8 +1824,10 @@
             "UniteNo": 3,
             "topic": "Roma Tapınak Mimarisi",
             "explanation": "Roma mimarisinde Etrüsk etkisi görülen ilk tapınak örneği Jupiter Tapınağı'dır. Bu tapınak, yüksek bir podyum üstünde ve tek cepheden basamaklıdır. Ardından Yunan etkisiyle İon ve Korinth düzenleri girmiştir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 39,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 91,
@@ -1889,8 +1906,10 @@
             "UniteNo": 2,
             "topic": "İran Mimari Terimleri",
             "explanation": "Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere 'Revak' denir. Bu terim İran mimarisi bağlamında geçmektedir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 45,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 95,
@@ -1909,8 +1928,10 @@
             "UniteNo": 1,
             "topic": "Anadolu'da Erken Uygarlıklar",
             "explanation": "Hitit Uygarlığı, MÖ 3000'lerin başlarında Kafkasya'dan göç ettikleri düşünülen bir topluluktur. Başkentleri Çorum sınırları içerisindeki Hattuşa (Boğazköy)'dur. Anadolu'da anıtsal heykel sanatının Hititlerle başladığı kabul edilir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 53,
+            "duplication_reason": "Soru metinleri (kökleri) kelimesi kelimesine aynıdır ve aynı bilgiyi sormaktadır. Şıklar kümesi de aynıdır (farklı sırada olsalar bile). Bu sorular anlamsal olarak tam kopyadır."
         },
         {
             "id": 96,
@@ -1949,8 +1970,10 @@
             "UniteNo": 2,
             "topic": "Hint Mimari Üslupları",
             "explanation": "Cayna üslubu, MÖ 6. yüzyılda Hindistan'da ortaya çıkmış, Brahman sınıfı olmayan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören Cayna mezhebine bağlı olarak oluşan üsluptur.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplication_reason": "Exact Text Match",
+            "duplicate_of": 34,
+            "occurrence_count": 0
         },
         {
             "id": 98,
@@ -2031,7 +2054,9 @@
             "explanation": "Arkaik Dönem Mimari başlığı altında, Dor ve İon düzenlerine örnekler verilmiştir. İon düzenine örnek olarak Efes Artemis, Hera (Samos), Didyma Apollon ve Sardes Artemis Tapınakları gösterilmiştir. Paestum Basilika (Hera I) Tapınağı, metinde Dor düzenine örnek verilen yerler listesinde değildir (Daha ziyade Dor düzenine örnek olarak sayılan Parthenon ile kıyaslandığında, metinde İyon örneklerinde Paestum'dan bahsedilmemiştir).",
             "is_duplicate": true,
             "duplicate_of": 46,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 102,
@@ -2251,7 +2276,7 @@
             "topic": "Roma Kabartma Sanatı",
             "explanation": "Roma Kabartma başlığı altında, \"Traianus Sütunu da dönem örneklerindendir. Sütun, anlatımcı üslubun en önemli örneklerindendir.\" bilgisi yer alır. Traianus Sütunu, Dacia Seferi'nin hikâyesini kronolojik olarak tasvir eden, anlatımcı üsluba sahip ünlü bir Roma eseridir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 113,
@@ -2427,7 +2452,6 @@
             "UniteNo": 2,
             "topic": "Japon Resim Sanatı",
             "explanation": "Japon Sanatı bölümünde, resim sanatı anlatılırken, \"Japonya'da da resim, Çin'de olduğu gibi yazı sanatından gelişmiştir\" ifadesi yer almaktadır. Bu cümledeki boşluk, resmin geliştiği ana sanat dalı olan yazı (hat) sanatını tamamlar.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -2489,7 +2513,9 @@
             "explanation": "Metinde saraylar başlığı altında, \"Büyük Saray ve Blakherna Sarayı birer örnektir.\" ifadesi yer almaktadır. Büyük Saray'ın, I. Konstantinos'un İstanbul'u kurmasıyla başladığı ve daha sonraki imparatorlar döneminde genişletildiği/onarıldığı bilgisi (özellikle Justinianos döneminde mimarinin ön planda olduğu bilgisiyle desteklenir) mevcuttur. Metinde I. Konstantinos'un saray yapımına başladığı ima edilmektedir, ancak en önemli genişlemeler Justinianos döneminde olmuştur. I. Konstantinos'un İstanbul'u kuruluşuyla beraber (324) sarayın temelleri atılmıştır. Metinde I. Justinianos döneminin yüksek maliyetli ve kaliteli mimarinin ön planda olduğu belirtilir.",
             "is_duplicate": true,
             "duplicate_of": 93,
-            "original_source": "Ara Sınav 2021-2022"
+            "original_source": "Ara Sınav 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 125,
@@ -2510,7 +2536,9 @@
             "explanation": "Anadolu'da Tarih Öncesi başlığı altında Frig Uygarlığı anlatılırken, \"En önemli yerleşim merkezleri Gordion'dur. Sakarya ve Porsuk nehirlerinin birleşme noktasına yakın bir bölgede kurulan Gordion'da hem sitadel hem de güçlü surlar bulunmaktaydı.\" ifadesi yer almaktadır. Bu nedenle doğru cevap Gordion'dur.",
             "is_duplicate": true,
             "duplicate_of": 115,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 126,
@@ -2591,7 +2619,9 @@
             "explanation": "Eski İran Sanatı başlığı altında, \"Elamlılar (MÖ 3000-MÖ 640) İran'ın ilk siyasi birliğini kurmuşlardır. Ardından, Med... Pers... dönemleri yaşanmıştır.\" denilmektedir. İran'ın bilinen en eski mimari eserinin Med Kralı Kyaksares'in yaptırdığı saray olduğu belirtilir. Ancak günümüze ulaşan en erken tarihli eserler Elam uygarlığına (MÖ 2300'lü yıllar) tarihlenmektedir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 130,
@@ -2612,7 +2642,9 @@
             "explanation": "Urartu Uygarlığı başlığı altında, \"Merkezi Van Gölü ve çevresidir. Bu dönem kültürel birliğin sağlanması, merkezileşmiş siyasi otoritenin varlığı ve büyük siyasi zenginliği ile eşsiz bir dönemdir. Van sınırları içerisindeki yüksek düzeyde işçiliğin göze çarpttığı görkemli kral mezarlarının yer aldığı sitadel (çevresi surları kuşatılmış saray, tapınak, depo ve atölye içeren kale) Urartu mimarisinin en özgün tasarımıdır.\" ifadesi yer almaktadır.",
             "is_duplicate": true,
             "duplicate_of": 78,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 131,
@@ -2651,8 +2683,10 @@
             "UniteNo": 3,
             "topic": "Roma anıtsal mimarisi",
             "explanation": "Roma Sanatı altında Kabartma başlığında, \"Paullus'un zafer anıtı bunun ilk en erken tarihli örneğidir. Gerçekçi ve canlı üslubun en ünlü örneği ise Ara Pacis'tir. Roma Forumu'ndaki Titus Takı ve Tranianus Sütunu da dönem örnekleri arasındadır. Sütun, anlatımcı üslubun en önemli örneklerindendir.\" ifadeleri yer alır. Dacia Seferi kabartmaları Titus Sütunu'ndadır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 112,
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır. Her iki soru da Dacia Seferi'ni betimleyen Traianus Sütunu'nu sormaktadır. Şıklar ve doğru cevaplar da aynıdır."
         },
         {
             "id": 133,
@@ -2713,7 +2747,9 @@
             "explanation": "Roma Mimari başlığı altında, Hamamlar için, \"Çeşitli bölümlerden oluşurlar ve anıtsal boyuta sahiptirler.\" denilmektedir. Roma hamamlarının bölümleri arasında 'palaestra' (spor alanı) ve 'frigidarium' (soğuk banyo) bulunur. Metinde doğrudan 'palaestra' kelimesi geçmese de, hamamların çeşitli bölümlerden oluştuğu ve spor alanları içerdiği bilinmektedir.",
             "is_duplicate": true,
             "duplicate_of": 71,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 136,
@@ -2872,8 +2908,10 @@
             "UniteNo": 4,
             "topic": "Bizans Dini Mimari Terimleri",
             "explanation": "Metinde Bizans Dini Mimari başlığı altında, Roma'da Diakon'un mezarlık oluşturma emriyle katakomp inşasının başladığı belirtilir. Litürji (Litürjik İhtiyaçlar) ise insanların toplanıp dini ihtiyaçlarını karşıladığı bir yer olan kiliselerin temel işlevini tanımlar. Litürji, bir dinin törenlerine ve tapınma biçimine ilişkin kurallar bütünüdür.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 32,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 144,
@@ -3092,8 +3130,10 @@
             "UniteNo": 6,
             "topic": "Büyük Selçuklu Camileri",
             "explanation": "Metinde Büyük Selçuklu Mimarisi anlatılırken, bu devirde tek mekanlı kubbeli camilerin yanı sıra, mihrap önünün bir kubbe ile vurgulandığı ve dört eyvanlı avlulu plan şemasına sahip çok destekli büyük camilerin yapıldığı belirtilmiştir. İran'dan Anadolu'ya kadar uzanacak mimari biçimin başlangıcı olarak Isfahan Mescidi Cuması gösterilir. Zevvare Mescidi Cuması, dört eyvanlı cami tipinin Anadolu'daki en gelişmiş örneklerinden biri olarak bilinir, ancak metinde bu bağlamda 'en gelişmiş örnek' olarak Zevvare'den bahsedilmemiştir. Ancak verilen şıklar ve metindeki ana örnekler göz önüne alındığında, dört eyvanlı plan şemasının başlangıcı olarak Isfahan gösterilmiş olsa da, Anadolu'daki en erken ve gelişmiş örnekler arasında Zevvare sıkça anılır. Sorunun bağlamı gereği, dört eyvanlı avlulu plan şemasına sahip camilerin gelişmiş örneği olarak genellikle Zevvare Mescidi'nden bahsedilir (metin 'Büyük Selçuklularda medrese kurumunun bir devlet örgütü olarak gelişimi'nden sonra İran'dan Anadolu'ya uzanan biçimin başlangıcı olarak İsfahan'ı gösteriyor, ancak şıklarda Anadolu'daki gelişmiş bir örnek olan Zevvare'ye gönderme yapılması muhtemeldir).",
-            "occurrence_count": 3,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 37,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 155,
@@ -3169,8 +3209,10 @@
             "UniteNo": 7,
             "topic": "Orta Çağ Üniversiteleri",
             "explanation": "Ünite 7 özetinde, Bologna Üniversitesi'nin 1158 yılında Avrupa'da kurulan ilk üniversite olduğu, hem dinsel hem de hukuk alanlarında eğitim verdiği belirtilmektedir. Bu, verilen bilgilerin tamamını karşılamaktadır.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 26,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 159,
@@ -3189,8 +3231,10 @@
             "UniteNo": 1,
             "topic": "Mezopotamya Kültür Devreleri",
             "explanation": "Ünite 1 özetine göre, Hassuna kültürü, adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alır. Kerpiç duvarlı, çok mekanlı yapılar (Hassuna kültürü) ve bakır takı üretimi bu dönemin özelliklerindendir. Hassuna kültürü MÖ 6000-5000 yıllarını kapsar ve bu dönemde ilk yerleşimler oluşmuştur.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 21,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 160,
@@ -3209,8 +3253,10 @@
             "UniteNo": 3,
             "topic": "Yunan Mimari Oranları Mucidi",
             "explanation": "Ünite 3 özetinde, Vitruvius'a göre, matematiksel formüllere dayalı oranları ilk uygulayanın Polykleitos olduğu belirtilmekle birlikte, geometrik ve matematiksel tasarım anlayışının ilk kez Helenistik dönemde uygulandığı ve ideal estetik kurallar çerçevesinde yansıtıldığı anlatılmaktadır. Ancak, Roma mimarisinde geometrik ve matematiksel tasarım anlayışının öncüsü olarak Hermogenes'in adı (özellikle eş birim/modül kullanımı) sıkça anılır, Vitruvius'un referans aldığı temel mimarlar arasındadır. Klasik dönemde Polykleitos oranları geliştirmiş olsa da, geometrik-matematiksel oranların mucidi olarak Hermogenes (özellikle Hellenistik Dönem öncesi) kabul edilir. Roma'da Vitruvius, Hermogenes'in oranlarını benimsemiştir.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 29,
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 161,
@@ -3270,7 +3316,7 @@
             "topic": "Alman Dışavurumculuğu Grupları",
             "explanation": "Ünite 8 özetine göre, Alman Dışavurumculuğu ikiye ayrılır: Die Brücke (Köprü) ve Der Blaue Reiter (Mavi Süvari). Die Brücke kurucuları arasında Fritz Bleyl, Karl Schmidt-Rottluff, Ernst Ludwing Kirchner ve Erich Heckel sayılırken, Edward Munch Ekspresyonizm'in öncüsü sayılır ancak doğrudan Die Brücke grubunun kurucu üyesi değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 164,
@@ -3329,7 +3375,6 @@
             "UniteNo": 7,
             "topic": "Rönesans Kavramını Kullanan",
             "explanation": "Ünite 7 özetine göre, Rönesans kavramı, Antik Çağ felsefesi ve düşüncesi ile kültür ve sanatının yeniden doğuşu anlamında ilk kez Giorgio Vasari tarafından kullanılmıştır. Bu nedenle Vasari, sanat tarihinin kavramsal babası sayılır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3506,8 +3551,10 @@
             "exam_question_number": 15,
             "source": "Dönem Sonu 2023-2024",
             "material_id": "571463",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 23,
+            "duplication_reason": "Soru metinleri (küçük harf/diyafragma farkı dışında) ve şık kümeleri tamamen aynıdır. Doğru cevap aynıdır. Bu iki soru, şık sıralaması değiştirilmiş kopyalardır."
         },
         {
             "id": 176,
@@ -3547,8 +3594,10 @@
             "topic": "Büyük Selçuklu Mimarisi",
             "explanation": "Metinde Büyük Selçuklu mimarisi anlatılırken, mihrap önünün bir kubbe ile vurgulandığı, dört eyvanlı avlulu plan şemasına sahip çok destekli büyük camilerin yapıldığı belirtilmiştir. Ayrıca Melikşah zamanında inşa edilen İsfahan Mescidi Cuması'nın İran'dan Anadolu'ya kadar uzanacak bir mimari biçimin başlangıcı olduğu ifade edilmiştir. Ancak sorunun doğru şıkkı Zevvare Mescidi Cuması (1119) olarak belirtilmiştir. Metinde İsfahan Mescidi Cuma (1040-1157) Büyük Selçuklu devrinin önemli örneği olarak geçmektedir. Zevvare Mescidi Cuma, Büyük Selçuklu döneminde (1119) inşa edilmiş, tek mekânlı ve dört eyvanlı cami tipine örnektir ve bu plan tipi, metinde bahsedilen avlulu cami tipinin evrimine katkıda bulunmuş bir örnektir. (Metin Büyük Selçuklu mimarisinde tek mekanlı kubbeli camiler ile dört eyvanlı avlulu plan şemasını belirtir. Zevvare, bu tipin erken ve tek örneği olarak bilinir.)",
             "is_duplicate": true,
-            "duplicate_of": 154,
-            "original_source": "Dönem Sonu 2021-2022"
+            "duplicate_of": 37,
+            "original_source": "Dönem Sonu 2021-2022",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 178,
@@ -3587,7 +3636,6 @@
             "UniteNo": 6,
             "topic": "Anadolu Türk Türbeleri",
             "explanation": "Metinde Anadolu Türk Beylikleri döneminde (Geç Dönem Anadolu Türk Beylikleri) cami mimarisindeki değişimler ve eserler listelenmiştir. Ancak sorudaki yapı, Saltuklulara ait olup, Anadolu'daki tek örnek olarak belirtilmiştir. Metinde Anadolu Selçuklu dönemi için \"Erken örneklerde taş ve tuğlanın daha sonra taş malzemenin tercih edildiği görülür.\" ifadesi geçmektedir ve bu dönemde Kümbet ve Türbelerin önemli olduğu belirtilmiştir. Mama Hatun Kümbeti (1197), Saltuklu dönemine ait olup, dilimli gövdeli kümbete sahip, on bir nişli çevre duvarıyla Anadolu'da tek örnek teşkil eden bir yapıdır.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {
@@ -3609,7 +3657,9 @@
             "explanation": "Metinde İran sanatı, Eski İran ve İran-İslam sanatı olarak iki büyük devre ayrıldığı belirtilmektedir. Eski İran sanatı döneminde sırasıyla Med, Pers, Selefkos, Part ve Sasani dönemleri yaşanmıştır. En erken tarihli eserlerin ise Elam uygarlığına (MÖ 2300'lü yıllara) ait olduğu ifade edilmektedir.",
             "is_duplicate": true,
             "duplicate_of": 4,
-            "original_source": "Yaz Okulu 2020-2021"
+            "original_source": "Yaz Okulu 2020-2021",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 181,
@@ -3650,7 +3700,9 @@
             "explanation": "Metinde Empresyonizm başlığı altında, Salon des Refuses'ü açan sanatçılar arasında \"Auguste Renoir, Camille Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Cézanne\" gibi isimlerin yer aldığı belirtilmiştir. Bu sanatçılar, 1874'ten itibaren eserlerini sergilemişlerdir. Bu akım Empresyonizm'dir.",
             "is_duplicate": true,
             "duplicate_of": 165,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 183,
@@ -3691,7 +3743,9 @@
             "explanation": "Metinde Roma hamamlarının bölümleri anlatılırken, hamamların çeşitli bölümlerden oluştuğu belirtilmiştir. Bu bölümler arasında soğukluk (Frigidarium), ılıklık (Tepidarium) ve sıcaklık/sauna (Calidarium) yer alır. Calidarium, sıcak su ile ısıtılan asıl yıkanma bölümüdür (sauna hücrelerinin de olduğu yer).",
             "is_duplicate": true,
             "duplicate_of": 108,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 185,
@@ -3790,8 +3844,9 @@
             "UniteNo": 5,
             "topic": "Fâtımi Mimarisi",
             "explanation": "Soruda bahsedilen cami özellikleri (970-72, mihrap duvarına paralel beş sahın, mihrap ekseni vurgusu, iki kubbeli mihrap önü, Kayravan etkisi) Kahire'deki ilk Fâtımi yapısı olan el-Ezher Camii'ne aittir. Metinde bu cami için: \"el-Ezher Camii'dir. ... mihrap önünde bir kubbe yer alır. Mihrap duvarının her iki ucunda da T planı meydana getiren birer kubbe bulunuyordu. Bu plan tipi 12. yüzyılda sık kullanılmıştır.\" ifadeleri geçmektedir. (Not: Metin, 970-972 tarihli bu yapıyı detaylıca anlatmaktadır.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 74
         },
         {
             "id": 190,
@@ -3852,7 +3907,9 @@
             "explanation": "Metinde Japon sanatı anlatılırken, 5. yüzyılda Budizm'in Japonya'ya girmesiyle sanatın başladığı belirtilir. Resim sanatı için ise, \"5. yüzyılda yaşamış ismi bilinen en eski Japon ressamı Kanaoka'dır.\" ifadesi yer almaktadır. (Not: Metin, Kanaoka'yı 9. yüzyıl sonu/10. yüzyıl başı ile ilişkilendirir, ancak sorunun doğru şıkkı İnshiraga olarak belirtildiği için bir çelişki vardır. Metin 5. yüzyıl için sanatçı adı vermez. İnshiraga'nın 5. yüzyıl sanatçısı olduğu varsayılırsa bu cevap geçerlidir, ancak metin sadece 9. yüzyıl sonu/10. yüzyıl başı sanatçısı Kanaoka'yı ilk isim olarak anar.)",
             "is_duplicate": true,
             "duplicate_of": 48,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match",
+            "occurrence_count": 0
         },
         {
             "id": 193,
@@ -3871,8 +3928,10 @@
             "UniteNo": 8,
             "topic": "Alman Dışavurumculuğu",
             "explanation": "Metinde Ekspresyonizm (Dışavurumculuk) akımının Almanya'da Die Brücke (Köprü) ve Der Blaue Reiter (Mavi Süvari) olarak ikiye ayrıldığı belirtilmiştir. Die Brücke kurucu üyeleri arasında Ernst Ludwing Kirchner, Erich Heckel, Karl Schmidt-Rottluff, Fritz Bleyl ve dört kişi daha sayılmıştır. Edward Munch ise Norveçli bir ressam olup, Ekspresyonizmin öncüsü (Çığlık tablosuyla) kabul edilmekle birlikte, Die Brücke grubunun kurucu üyesi DEĞİLDİR. Bu nedenle doğru cevap Munch'tır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 0,
+            "duplicate_of": 163,
+            "duplication_reason": "Soru metinleri tamamen aynıdır ve aynı şık kümesini kullanarak Die Brücke'nin kurucu üyesi olmayan (Edward Munch) sanatçıyı sormaktadır. Sadece şıkların sıralaması ve dolayısıyla doğru cevap indeksi değişmiştir."
         },
         {
             "id": 194,
@@ -3948,7 +4007,6 @@
             "UniteNo": 6,
             "topic": "Anadolu Beylikler Medreseleri",
             "explanation": "Ünite 6 özetinde, Anadolu Selçuklu devrinde medreselerin açık ve kapalı avlulu olmak üzere iki farklı avlu uygulaması görüldüğü belirtilmiştir. Açık avlulu medreselerin ilk kez Artuklular tarafından inşa edildiği, kapalı avlulu medreselerin ise Danişmendliler tarafından inşa edildiği bilgisi verilmektedir. Soru, kapalı avlulu medreselerin ilk uygulamasını soruyor, bu da Danişmendlilere atfedilmiştir.",
-            "is_duplicate": false,
             "occurrence_count": 1
         },
         {

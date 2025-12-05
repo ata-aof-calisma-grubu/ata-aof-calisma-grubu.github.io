@@ -51,9 +51,22 @@
 
     <hr />
 
+### Rus Biçimciliği ve Algı
+
+1. İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir? *(2 kez soruldu)*
+    - A-) Çıkarım
+    - B-) Öncül
+    - C-) Safsata
+    - D-) Sonuç
+    - **Cevap E-) Tasım**
+
+    > **Açıklama:** Soruda bahsedilen temel görüş, sanatın alışkanlık haline gelen algıyı kırması gerektiğidir. Ünite 1'deki 'Rus Biçimciliği Kuramı' başlığı altında bu durum açıklanmaktadır: Rus Biçimcilerine göre, insanoğlu sürekli bakarak ve yaşayarak olaylara alışır ve bu durum "alışkanlığa dönüşen algılama" ile sonuçlanır. Bunun sonucunda artık şeyleri gerçek anlamda görmeyiz. Sanatın işlevi, bu alışkanlıkları kırmak ve gerçekliği alışılmadık, değişik bir biçimde, yani sanatsal 'Biçim' aracılığıyla yeniden sunmak ve algılatmaktır. Bu yöntem, gerçekliği yansıtmayı amaçlayan diğer kuramların aksine, formun ve sunuş biçiminin önemini vurgular. Bu bağlamda, alışkanlıkları Biçim yoluyla kırmayı savunan kuram Rus Biçimciliği'dir.
+
+    <hr />
+
 ### Spor Eleştirisi
 
-1. Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(2 kez soruldu)*
+1. Spor eleştiri genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(4 kez soruldu)*
     - A-) Alkış ve tezahürat
     - B-) Beceri ve performans
     - C-) Rekor ve başarı
@@ -63,22 +76,25 @@
     > **Açıklama:** Ünite 1'de Spor Eleştirisi başlığı altında, spor eleştirisinin genel olarak beceri ve performans değerlendirmesi olduğu belirtilir. Spor eleştirisinde rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinlikleri saptanarak değerlendirilir.
 
     <hr />
-1. Spor eleştirisi genel olarak aşağıdakilerden hangisinin değerlendirmesidir? *(2 kez soruldu)*
-    - A-) Alkış ve tezahürat
-    - B-) Süre ve zaman
-    - C-) Sayı ve gol
-    - **Cevap D-) Beceri ve performans**
-    - E-) Rekor ve başarı
-
-    > **Açıklama:** Spor eleştirisinin tanımı, Ünite 1'de açıkça verilmiştir: "Spor eleştirisi genel olarak beceri ve performans değerlendirmesidir" (Ünite 1, Sayfa 2). Ayrıca, rekabet karşılaşmalarındaki sporcuların estetik, uyum, beceri, yetenek gibi temel yetkinliklerinin saptanarak değerlendirildiği belirtilir.
-
-    <hr />
 
 ## Ünite 2
 
+### Akıl Yürütme Kuralları
+
+1. P veya Q<br />Değil-P<br />Öyleyse, Q<br />Yukarıdaki akıl yürütme formuna ne ad verilir? *(2 kez soruldu)*
+    - A-) Modus Ponens
+    - B-) Modus Tollens
+    - C-) Önbileşenin Değillenmesi
+    - D-) Artbileşenin Evetlenmesi
+    - **Cevap E-) Modus Tollendo Ponens**
+
+    > **Açıklama:** Ünite 2'de 'Çıkarım Kuralları' başlığı altında bu formlar listelenmiştir. P veya Q; Değil-P; Öyleyse Q formülü, Modus Tollendo Ponens (MTP) kuralının formudur.
+
+    <hr />
+
 ### Akıl Yürütme Türleri
 
-1. Öncüllerin sonucunu desteklediği akıl yürütme biçimlerine ne ad verilir?
+1. Öncüllerin sonucunu desteklediği akıl yürütme biçimlerine ne ad verilir? *(2 kez soruldu)*
     - A-) Öncül
     - **Cevap B-) Safsata**
     - C-) Tasım
@@ -104,16 +120,6 @@
 
 ### Akıl Yürütme ve Çıkarım
 
-1. İki öncülü ve bir sonucu bulunan; küçük terim, orta terim ve büyük terim olmak üzere üç terimden oluşan akıl yürütme formlarına ne ad verilir? *(2 kez soruldu)*
-    - A-) Çıkarım
-    - B-) Öncül
-    - C-) Safsata
-    - D-) Sonuç
-    - **Cevap E-) Tasım**
-
-    > **Açıklama:** Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne 'çıkarım' (uslamlama) denir. Ünite 2'de, çıkarımların bir veya daha çok elemana sahip bir öncül kümesinden ve bir sonuçtan oluştuğu belirtilmektedir.
-
-    <hr />
 1. Akıl yürütmenin gözlemlenebildiği, öncül ve sonuçlardan oluşan bütüne ne ad verilir?
     - **Cevap A-) Çıkarım**
     - B-) Geçerlilik
@@ -151,22 +157,9 @@
 
     <hr />
 
-### Dogmacılık ve Ilımlı Muhafazakârlık
-
-1. Bir kişi kendisine yeterli nedenler verildiği halde fikrini değiştirmemekte direniyorsa, aşağıdakilerden hangisini benimsediği söylenebilir?
-    - A-) Gerçekçilik
-    - B-) İdealizm
-    - **Cevap C-) Dogmacılık**
-    - D-) Eleştirel Düşünme
-    - E-) Ilımlı Muhafazakârlık
-
-    > **Açıklama:** Fikirlerini eleştiri süzgecinden geçirmeyen, sorgulamadan kabul eden ve fikirlerini hemen değiştirmeyen yaklaşıma 'dogmacılık' denir. Metinde, 'Fikirlerini hemen değiştirmeye meyilli olmasa da düzgün temellendirilmiş karşıt görüşler karşısında fikir değiştirmekten kaçınmayan tavra ılımlı muhafazakârlık denir' ifadesi yer almaktadır. Soru, yeterli nedenlere rağmen fikrini değiştirmemeyi sorduğu için dogmacılık en uygun cevaptır.
-
-    <hr />
-
 ### Dogmatik tutum
 
-1. Bir kişi kendisine yeterli nedenler verildiği halde fikrini değiştirmemekte direniyorsa, aşağıdaki tutumlardan hangisini benimsediği söylenebilir?
+1. Bir kişi kendisine yeterli nedenler verildiği halde fikrini değiştirmemekte direniyorsa, aşağıdaki tutumlardan hangisini benimsediği söylenebilir? *(2 kez soruldu)*
     - **Cevap A-) Dogmacılık**
     - B-) Eleştirel Düşünme
     - C-) Gerçekçilik
@@ -190,19 +183,6 @@
 
     <hr />
 
-### Hatalı Akıl Yürütme (Geçersiz Çıkarım)
-
-1. Öncüllerin sonucu desteklemediği akıl yürütme biçimlerine ne ad verilir?
-    - A-) Sonuç
-    - B-) Çıkarım
-    - C-) Tasım
-    - D-) Öncül
-    - **Cevap E-) Safsata**
-
-    > **Açıklama:** Öncüllerin sonucu desteklemediği çıkarımlara 'geçersiz' veya 'zayıf çıkarım' denir. Geçersiz çıkarımlar, hatalı akıl yürütme biçimleri kullanılarak yapılmışlardır.
-
-    <hr />
-
 ### Hatalı Akıl Yürütme (Safsatalar)
 
 1. "Ya benimle evlenirsin ya da ömür boyu mutsuz olursun." diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?
@@ -213,19 +193,6 @@
     - **Cevap E-) Yanlış İkilem Safsatası**
 
     > **Açıklama:** Verilen ifade, iki seçenekten birini seçmek zorunda bırakma ve diğerini seçmenin olumsuz sonuçlarını ima etme üzerine kuruludur. Bu, seçeneklerin kısıtlı olduğunu öne süren Yanlış İkilem Safsatası'nın (False Dilemma) bir örneğidir. Metne göre bu safsata, 'Başka seçenekler de bulunduğu halde iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilerek gerçekleştirilen safsatadır.'
-
-    <hr />
-
-### Mantık Çıkarım Kuralları
-
-1. P veya Q<br />Değil-P<br />Öyleyse, Q<br />Yukarıdaki akıl yürütme formuna ne ad verilir? *(2 kez soruldu)*
-    - A-) Modus Tollens
-    - B-) Önbileşenin Değillenmesi
-    - **Cevap C-) Modus Tollendo Ponens**
-    - D-) Artbileşenin Evetlenmesi
-    - E-) Modus Ponens
-
-    > **Açıklama:** Verilen form (P veya Q, Değil-P, Öyleyse Q), Modus Tollendo Ponens (Ayrık Yüklemli Kıyas) kuralıdır. Ünite 2'de bu kural şu şekilde ifade edilmiştir: "Modus Tollendo Ponens: Bu çıkarım kuralı aşağıdaki formla gösterilir: P veya Q, Değil-P, Öyleyse, Q."
 
     <hr />
 
@@ -309,7 +276,7 @@
 
 ### Yanlış İkilem Safsatası
 
-1. "Site yönetici seçiminde ya bana oy verirsiniz ya da çok kötü hizmet alırsınız." diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?
+1. "Site yönetici seçiminde ya bana oy verirsiniz ya da çok kötü hizmet alırsınız." diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur? *(2 kez soruldu)*
     - A-) Kişi Karalama Safsatası
     - B-) Dağıtılmamış Orta Terim
     - C-) Korkuluk Safsatası
@@ -402,7 +369,7 @@
 
 ### Edebiyat kuramları
 
-1. Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşılanı, "görülmeyeni görmeye" çağıran edebiyat anlayışını ifade eder? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşılanı, "görülmeyeni görmeye" çağıran edebiyat anlayışını ifade eder? *(3 kez soruldu)*
     - A-) Klasisizm
     - B-) Doğalcılık (Natüralizm)
     - C-) Gerçekçilik (Realizm)
@@ -543,19 +510,6 @@
 
     <hr />
 
-### Sembolizm
-
-1. Aşağıdakilerden hangisi, hem gerçeği göstermek hem de gerçekliğin sınırlarını aşmak isteyen alternatif bir gerçeklik arayışı olarak da tanımlanan; betimlemeyle değil, çağrışımlarla, benzeşimlerle, sezgi ile anlaşıl anı, "görülmeyeni görmeye çağıran edebiyat anlayışını ifade eder?
-    - **Cevap A-) Sembolizm**
-    - B-) Klasisizm
-    - C-) Doğalcılık (Natüralizm)
-    - D-) Gerçekçilik (Realizm)
-    - E-) Postmodernizm
-
-    > **Açıklama:** Sembolizm, gerçeğin sınırlarını aşmayı amaçlayan, doğrudan anlatım yerine simgeler, mecazlar ve çağrışımlarla anlaşılmayı hedefleyen bir edebiyat anlayışıdır. Metinde Sembolizm, 'çağrışımlarla, benzeşimlerle, sezgi ile anlaşıl anı, 'görülmeyeni görmeye çağıran edebiyat anlayışını ifade eder' olarak tanımlanır.
-
-    <hr />
-
 ### Yansıtma Kuramları
 
 1. Aristoteles'in Platon ve Aristoteles'in eleştirel yaklaşımlarını geliştirmeye çalışarak sanat ve özerklikle konusunda birçok kitap kaleme alan aşağıdakilerden hangisidir?
@@ -594,22 +548,9 @@
 
 ## Ünite 4
 
-### Barok Dönem ve Opera
-
-1. Müzik tarihinde, Barok dönemin de başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan tür aşağıdakilerden hangisidir?
-    - **Cevap A-) Opera**
-    - B-) Rastlamsal müzik
-    - C-) Senfoni
-    - D-) Senfonik şiir
-    - E-) Gregoriyen ezgisi
-
-    > **Açıklama:** Operanın doğuşu müzik tarihinde Barok dönemin de başlangıcı olarak kabul edilir. Barok üslup, sanatların (müzik, tiyatro, dekor, kostüm vb.) birlikteliğini hedefler ve 17. yüzyılın başında ortaya çıkmıştır.
-
-    <hr />
-
 ### Barok müzik dönemi
 
-1. Müzik tarihinde, Barok dönemin başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan tür aşağıdakilerden hangisidir?
+1. Müzik tarihinde, Barok dönemin başlangıcı kabul edilen ve 17. yüzyılın başlarında ortaya çıkan tür aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Gregoryan ezgisi
     - **Cevap B-) Opera**
     - C-) Rastlamsal müzik
@@ -648,27 +589,14 @@
 
 ### Besteci Sözleri ve Yaklaşımları
 
-1. “Para, alkış falan gözümde yok. Öğle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile." Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir?
+1. "Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile." Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir? *(3 kez soruldu)*
     - A-) Ahmet Adnan Saygun
     - B-) Cemal Reşit Rey
     - C-) Fazıl Say
     - **Cevap D-) İlhan Usmanbaş**
     - E-) Ulvi Cemal Erkin
 
-    > **Açıklama:** Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile.) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).
-
-    <hr />
-
-### Besteci İdeolojisi
-
-1. "Para, alkış falan gözümde yok. Öyle bir şey yazayım ki şunlara, hiç alışmadıkları, duymadıkları bir şey olsun. Alkış bir yana, rahatsız olsunlar. Olsunlar da beni bu yönüyle tanısınlar. Getireceğim ses dünyası alt üst etsin onları. [...] Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni. Kimsenin görmediği duymadığı şeyler görürler, duyarlar, bununla da kalmazlar, duyurmak da isterler. Zorla değil tabii, ama birkaç kişinin aklını çeldiler mi, yeter de artar bile." Yukarıdaki bu sözler aşağıdaki Türk bestecilerinden hangisine aittir? *(2 kez soruldu)*
-    - A-) Cemal Reşit Rey
-    - B-) Fazıl Say
-    - C-) Ulvi Cemal Erkin
-    - D-) Ahmet Adnan Saygun
-    - **Cevap E-) İlhan Usmanbaş**
-
-    > **Açıklama:** Verilen sözler, sanatın toplumsal düzeni bozma, şaşırtma ve yeni ifade yolları arama amacını vurgulamaktadır. Bu, 20. yüzyıl başındaki Avangart akımların ve ilerlemeci bestecilerin (Liszt, Wagner çizgisindeki) yaklaşımıyla örtüşmektedir. Özellikle, "bir müzik yapıtı çoğu zaman besteci-icracı arasındaki etkileşimle doğar. Benzer şekilde bir tiyatro oyunu da yazar-oyuncu etkileşimiyle şekillenir" bağlamında, yenilikçi ve sınırları aşan bir tavrı sergileyen besteciye işaret edilmektedir. Bu türden radikal yenilikçi ve toplumsal eleştiri içeren yaklaşımlar, Ünite 4'te özellikle Debussy'nin de bahsedildiği, geleneksel müziğin kalıplarını aşma çabasıyla paraleldir; ancak bu tarz isyankar bir manifestoya en yakın olanlar genellikle Avangartlardır. Verilen metinlerde, bu tarz radikal ifadelerin tam olarak hangi besteciye atfedildiğine dair kesin bir bilgi olmamakla birlikte, 20. yüzyılda tonaliteyi aşma eğilimi gösteren (Ünite 4, Sayfa 5: "Tonaliteden Atonaliteye") ve yenilikçi tavrıyla tanınan besteciler bu ruh halini yansıtır. Ancak, Türk bestecileriyle ilgili spesifik bir alıntı sorulduğunda ve Avangartlar bağlamında değerlendirildiğinde, bu tür isyankar ifadeler, bestecinin toplumsal/etik konulardaki eleştirel duruşunu gösterir. Genellikle bu tarz radikal ifadeler, modern dönem bestecilerinin (Ünite 4, Sayfa 4'te geçen Avangartlar) manifestolarında yer alır. Kaynaklarda bu sözlerin Igor Stravinsky veya Paul Hindemith gibi Batılı bestecilere atfedilen Avangart düşünce tarzıyla uyumlu olduğu görülür. Ancak, verilen özetlerde doğrudan bu cümlenin kime ait olduğu belirtilmemiştir. Eğer bu, bir Türk bestecisi sorusu ise, Ünite 4'te bahsedilen Türk bestecileri (örneğin Ulvi Cemal Erkin, Necil Kazım Akses vb.) bağlamında değerlendirilmelidir. Ancak verilen metinde Türk bestecileri hakkında bu tarz spesifik ve radikal bir alıntıya rastlanmamaktadır. Metinde, 19. yüzyılda bestecilerin sanatsal yaratıcılığını ispatlama çabasından bahsedilmektedir (Ünite 4, Sayfa 3). Bu tarz radikal söylemler genellikle 20. yüzyıl Avangart müziğiyle ilişkilendirilir. Eğer bu soru, müfredattaki bir özel bilgiye dayanıyorsa, verilen metinler arasında direkt bir eşleşme yoktur. Ancak, Ünite 4'teki 'Rönesans'tan 19. Yüzyıla Uzanan Süreçte Tiyatro'da' anlatılan (bestecinin/yazarın toplumsal düzene karşı duruşu) ruh haliyle en uyumlu olan, avangartların estetik tavrıdır. Verilen ünite metinlerinde, bu sözlerin genellikle Batı'da avangart bestecilere atfedilen bir düşünce yapısını yansıttığı kabul edilir. Verilen kaynak materyal, bu spesifik Türk bestecisi sorusuna doğrudan yanıt vermemektedir, ancak genel olarak 20. yüzyılın yenilikçi bestecilerinin estetik tavrını yansıtır. Türk bestecileri arasında, modern müziğin ilk kuşağının (örneğin Cemal Reşit Rey, Ulvi Cemal Erkin) erken dönemlerinde Batı'daki modern akımların etkisiyle benzer bir isyan ruhu taşıyan yaklaşımları mevcuttu. Bu sorunun doğru yanıtı, genellikle bu tarz radikal ifadeleriyle tanınan bir besteciye aittir. Kaynaklarda bu sözler genellikle, yenilikçi Türk bestecilerinden birine atfedilir. Genellikle bu türden isyankar ifadelerin, Türk müziğinde batılılaşma çabalarının en radikal olduğu dönemlerde öne çıkan bestecilere atfedildiği bilinir. Verilen ünite metinleri, Türk besteciler hakkında bu kadar spesifik bir alıntı sunmamaktadır. Ancak, eğer bu soru içeriğin bağlamına dayanarak (Avangart estetik, sınırları aşma) sorulmuşsa, bu tavır, Türk modern müziğinin yenilikçi kanadına aittir. (Bu sorunun cevabı, verilen metinlerde net bir şekilde yer almamaktadır, ancak bağlamı 4. Ünite'nin yenilikçi/avangart bestecilik ruhuna dayanmaktadır.)
+    > **Açıklama:** Bu sözler (Para, alkış falan gözümde yok... Sanatçılar böyle işte, her şey doğru dürüst mü gidiyor, illa bozmak isterler düzeni...) eskilere başkaldıran, yenilikçi ve toplumsal düzeni sorgulayan bir tutumu ifade eder. Ünite 4'te, 19. yüzyılın ilerlemeci bestecileri (Liszt ve Wagner öncülüğünde) ile gelenekçiler arasındaki çekişme anlatılır. İlhan Usmanbaş, müziğin toplumsal işlevi ve yenilikçi arayışları ile tanınan, geleneksel yapıları sorgulayan bir bestecidir. Bu sözler, özellikle yenilikçi ve geleneksel kalıpları kırma isteğini vurguladığı için İlhan Usmanbaş'a atfedilir (veya bu ruh halini en iyi yansıtanlardan biridir).
 
     <hr />
 
@@ -804,7 +732,7 @@
 
 ### Tiyatro Eleştirisi ve Kuramları
 
-1. Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı, "Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir." görüşü ile tiyatro sanatına güçlü bir eleştiri getiren kuramcı ve aynı zamanda yönetmen aşağıdakilerden hangisidir? *(2 kez soruldu)*
+1. Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı, "Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir." görüşü ile tiyatro sanatına güçlü bir eleştiri getiren kuramcı ve aynı zamanda yönetmen aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Beckett
     - B-) Brecht
     - C-) Çehov
@@ -830,19 +758,6 @@
 
     <hr />
 
-### Barok Resim Anlatımı
-
-1. Resim sanatında parlaklık ile karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?
-    - A-) Genre
-    - B-) Asimetri
-    - C-) Sfumato
-    - **Cevap D-) Chiaroscuro**
-    - E-) Çizgisel perspektif
-
-    > **Açıklama:** Barok sanat, Rönesans'ın durağan yapısı yerine hareketi getirir. Ünite 5'te, Barok sanatın biçimsel özelliklerinden bahsederken, "Işık ve gölge ise anlatımı güçlendiren ögelerdir." ifadesi yer alır. Bu, ışık ve karanlık arasındaki vurgulu kontrastın (chiaroscuro/tenebrizm) Barok resmin temelini oluşturduğunu gösterir.
-
-    <hr />
-
 ### Barok Sanat Üslubu
 
 1. Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu olarak başlayan kaba gülünçlüklerden, tuhaf ve olmayacak şakalaşmalardan yararlanan, karşıt görüntüleri, bağdaşmaz durumları şaşırtıcı biçimde birleştiren güldürü üslup biçimine ne ad verilir?
@@ -853,19 +768,6 @@
     - E-) Mozaik
 
     > **Açıklama:** Ünite 5'te Barok sanatın, Rönesans'ın durağan yapısı yerine hareketi getirdiği, figürlerin iç içe geçtiği, derinlik duygusunun ön planda olduğu bir akım olduğu belirtilmektedir. Ancak soruda geçen 'kaba gülünçlüklerden, tuhaf ve olmayacak şakalaşmalardan yararlanan, karşıt görüntüleri, bağdaşmaz durumları şaşırtıcı biçimde birleştiren güldürü üslup biçimi' ifadesi daha çok daha sonraki bir dönem olan Dadaizm'e veya genel olarak hicve atıf yapıyor olabilir. Ancak verilen seçenekler arasında, Eski Çağ Roma yapılarında başlayan, tuhaf, gülünç figürlerle süsleme üslubu ve 'gülünç üslup' ifadesine en yakın terim, karikatürün kökeniyle ilişkili olabilir. Grafik tasarımda karikatürün tanımı ise mizah, hiciv ve taşlama şekillerini içerir. Sorunun bahsettiği 'Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu' ile en ilişkili olan terim, genellikle Barok dönemde de görülebilen abartılı ve teatral anlatımın hicivli formları olabilir. Ancak, verilen tanıma tam olarak uyan terim olmaması durumunda, Roma'daki süsleme üslubu olarak 'Grotesk' (çoklu, tuhaf ve hayali figürlerin birleşimi) düşünülebilir. Grafik tasarımda ise bu, abartma (grotesk) veya çelişkidir (saçmalık) olarak karikatürün tekniklerinde geçer. Sorudaki tanımlama, Roma'daki süsleme üslubu olan 'Grotesk' terimine işaret etmektedir.
-
-    <hr />
-
-### Barok Sanatın Özellikleri
-
-1. Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrastı, keskin karşıtlar yaratarak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir?
-    - A-) Çizgisel perspektif
-    - B-) Sfumato
-    - C-) Genre
-    - **Cevap D-) Chiaroscuro**
-    - E-) Asimetri
-
-    > **Açıklama:** Barok sanatın özelliklerinin anlatıldığı bölümde, Barok'un Rönesans'ın dingin yapısı yerine hareketi getirdiği, figürlerin iç içe geçtiği ve hareketli figürlerle güçlendirilmiş derinlik duygusunun ön planda olduğu belirtilir. Işık ve gölge (karanlık) kullanımı, anlatımı güçlendiren ögeler olarak vurgulanır. Parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratarak biçimde düzenlenmiş ışık-gölge dağılımını ifade eder. Caravaggio bu akımın öncülerindendir.
 
     <hr />
 
@@ -884,7 +786,7 @@
 
 ### Işık ve gölge kullanımı
 
-1. Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir? *(2 kez soruldu)*
+1. Resim sanatında parlaklık ve karanlık arasındaki vurgulu kontrast, keskin karşıtlar yaratacak biçimde düzenlenmiş ışık-gölge dağılımına ne ad verilir? *(4 kez soruldu)*
     - A-) Çizgisel perspektif
     - **Cevap B-) Chiaroscuro**
     - C-) Asimetri
@@ -1131,35 +1033,9 @@
 
     <hr />
 
-### Çağdaş Heykel Sanatçıları
-
-1. Damien Hirst'in ünlendiği aşağıdaki eserlerden hangisidir?
-    - A-) Sürünen Yılan
-    - B-) Kanatsız Kuş
-    - C-) Ağaca Çıkan Kedi
-    - **Cevap D-) Ölü Köpekbalığı**
-    - E-) Gezinen Fare
-
-    > **Açıklama:** Damien Hirst'in öne çıkan teması ölümdür ve ünlü eseri, hayvanları formaldehit içinde sergilediği yerleştirmelerdir. Ünite 6'da Damien Hirst'in "ölüm temalarıyla ortaya çıktığı" ve "özellikle ölü hayvanları kullanarak yaptığı yerleştirme ve düzenlemeler" ile heykel sanatına katkı sunduğu belirtilmiştir.
-
-    <hr />
-
-### Çağdaş Heykel ve Eleştiri
-
-1. Tiyatronun sadece sahnede yapılan bir etkinlik şeklinde sınırlanmasına karşı "Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir." görüşü doğrultusunda güçlü bir eleştiri getiren sanatçı aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Schechner**
-    - B-) Meyerhold
-    - C-) Brecht
-    - D-) Çehov
-    - E-) Beckett
-
-    > **Açıklama:** Tiyatronun sadece sahnede yapılan bir etkinlik olmasından ziyade, "Tiyatro herhangi bir yerde olabilir ve herhangi bir şeyi içerebilir" görüşünü savunan, avangartlar döneminin önemli sanatçılarından biri Marcel Duchamp'tır (Fountain/Çeşme eseri ile). Bu, geleneksel heykel anlayışına (ki burada tiyatro bağlamında soruluyor, ancak Duchamp görsel sanatlarda bu radikal değişimi başlattı) karşı bir eleştiri getirmiştir. Sorunun odak noktası tiyatroda radikal eleştiri getiren avangartlar ise, Duchamp'ın temsil ettiği kavramsal sanatın kökenine bakılmalıdır. (Not: Materyalde 6. Ünite'de Duchamp'ın 'Fountain' eseri "yapısökümcü bir realite" olarak anlatılıyor ve bu, heykelde eleştirel mantığın gelişimi bağlamında sunuluyor.)
-
-    <hr />
-
 ### Çağdaş heykel sanatçıları
 
-1. Damien Hirst'in ünlendiği heykeli aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Damien Hirst'in ünlendiği heykeli aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - **Cevap A-) Ölü Köpekbalığı**
     - B-) Gezinen Fare
     - C-) Kanatsız Kuş
@@ -1329,20 +1205,10 @@
     > **Açıklama:** Lucian Bernhard, poster stilinin öncülerindendir. Bu stil, metin ve görsellerin en temel ögeleriyle sade, yalın, vurgulu ve kitlelere kolayca ulaşılabilir bir iletişim sağlamayı amaçlar. Ünite 8'de Lucian Bernhard'ın 'posters'ları anlatılırken, kavramsal yalın içeriklerin kullanıldığı belirtilmiştir.
 
     <hr />
-1. 1930'ların Almanya'sında Nazizm propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir?
-    - A-) Aleksander Mikhailovich Rodchenko
-    - B-) El Lissitzky
-    - C-) Eugène Samuel Grasset
-    - D-) Lucian Bernhard
-    - **Cevap E-) John Heartfield**
-
-    > **Açıklama:** 1930'larda Nazizm'e karşı mücadele eden ve bu yüzden en çok arananlardan biri olan tasarımcı John Heartfield'dır (Hans Haack değil, çünkü Haack daha çok propaganda afişleri yaptı). Ünite 8'de doğrudan bir isim verilmemiştir, ancak karikatürün sosyal hiciv ve propaganda işlevi vurgulanmıştır. Bu bağlamda, grafik tasarımda anti-Nazi mücadele ile en ünlü isim John Heartfield'dır (Ünite 8 metninde geçmese de, karikatür/grafik tasarım bağlamında bu bilgi 8. ünitenin konusuyla doğrudan ilişkilidir). Ancak, ünite özetlerinde spesifik isim yoksa, en yakın konuya odaklanılmalıdır: Karikatürün sosyal hiciv, siyaset/propaganda işlevi (Ünite 8). (Bu sorunun cevabı doğrudan metinde yok, ancak bağlam (Grafik/Karikatür ve Eleştirel Düşünce) ve tarih bilgisi gerektirir. John Heartfield doğru tarihi cevaptır. Eğer metinden cevap aranırsa, bu bağlamda protesto afişlerinden bahsedildiği için bu cevabın beklendiği düşünülebilir.)
-
-    <hr />
 
 ### Grafik Tasarımda Eleştirel Düşünce
 
-1. 1930'ların Almanya'sında Nazi propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. 1930'ların Almanya'sında Nazi propagandasıyla mücadele etmek için afiş tasarlayan ve bu yüzden Gestapo'nun en çok arananlar listesine aldığı tasarımcı aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Lucian Bernhard
     - B-) El Lissitzky
     - **Cevap C-) John Heartfield**
@@ -1353,29 +1219,16 @@
 
     <hr />
 
-### Hatalı Akıl Yürütme (Safsata)
-
-1. "Site yöneticisi seçiminde ya bana oy verirsiniz ya da çok kötü hizmet alırsınız." diyen bir kişi aşağıdaki safsatalardan hangisinin bir örneğini vermiş olur?
-    - A-) Dağıtılmamış Orta Terim
-    - B-) Kişi Karalama Safsatası
-    - C-) Korkuluk Safsatası
-    - D-) Önbileşenin Değillenmesi
-    - **Cevap E-) Yanlış İkilem Safsatası**
-
-    > **Açıklama:** Verilen ifade, 'ya bana oy verirsiniz ya da kötü hizmet alırsınız' şeklinde iki seçenek sunarak başka seçeneklerin varlığını yok saymaktadır. Bu, 'Yanlış İkilem Safsatası (False Dilemma)'nın bir örneğidir, çünkü iki seçenekten birinin seçilmek zorunda olduğu izlenimi verilmektedir.
-
-    <hr />
-
-### Karikatür Tanımı
+### Karikatür Tanımı ve İşlevi
 
 1. Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatür tanımı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Tortuları dibe çökmüş bir kavanozun güçlü bir şekilde çalkalanmış etkisidir.
-    - B-) Ahlak ve akademik temsil kurallarını bozarak, düzenin gizlediklerini görünür kılmaktır.
-    - **Cevap C-) Gülünç veya hoş olmayan yüklemeler yapan grafik hicivdir.**
+    - **Cevap B-) Ahlak ve akademik temsil kurallarını bozarak, düzenin gizlediklerini görünür kılmaktır.**
+    - C-) Gülünç veya hoş olmayan yüklemeler yapan grafik hicivdir.
     - D-) Bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır.
     - E-) İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde veren, düşündürücü ve güldürücü resimdir.
 
-    > **Açıklama:** Ünite 8'de Karikatür Sanatı başlığı altında, Fransız yazar, eleştirmen Jules Barbey d'Aurevilly'in karikatürü “bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı” olarak tanımladığı belirtilir. A şıkkı ise 'bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığıdır' ifadesini içerir ve D şıkkında da A şıkkının ifadesi yer almaktadır. Soruda A şıkkı doğru kabul edildiğinden, bu tanımın doğru olduğu anlaşılır.
+    > **Açıklama:** Özetlere göre, Fransız eleştirmen Jules Barbey d'Aurevilly karikatürü, 'bir gerçeğin, çarpıtılmış ve öfkeli bir aşırılığı' olarak tanımlamıştır. Ancak sorunun doğru şıkkı B olarak belirtilmiştir. Metinde B şıkkındaki tanım, 'Karikatür çoğu zaman ahlak ve akademik temsil kurallarını bozarak, var olan düzenin gizlediklerini görünür kılmayı, siyasi iktidara karşı bir direniş kültürü geliştirmeyi, sosyal kurumlarla alay etmeyi amaçlar' şeklinde verilmiştir. Sorudaki doğru kabul edilen şık (B) karikatürün sosyal ve politik eleştirel işlevini vurgulayan bir tanımdır ve özet metninde bu işlevler arasında sayılmıştır.
 
     <hr />
 
@@ -1394,7 +1247,7 @@
 
 ### Karikatür Teknikleri
 
-1. Aşağıdakilerden hangisi karikatürcüler tarafından kullanılan ele alma tekniklerinden biri değildir?
+1. Aşağıdakilerden hangisi karikatürcüler tarafından kullanılan ele alma tekniklerinden biri değildir? *(2 kez soruldu)*
     - A-) Aşağılama
     - **Cevap B-) Gizleme**
     - C-) Abartma
@@ -1402,16 +1255,6 @@
     - E-) Çelişki
 
     > **Açıklama:** Ünite 8'de, karikatüristlerin kullandığı temel ele alma teknikleri arasında aşağılama (şakacılık), abartma (grotesk) veya çelişki (saçmalık) sayılmıştır. Bu teknikler, otoriteye ve baskın yönetime karşı eleştirel bir karşı görüş oluşturmayı amaçlar. 'Gizleme', bu eleştirel ve açık ifadelere zıt bir eylemdir ve bu listede yer almaz.
-
-    <hr />
-1. Aşağıdakilerden hangisi karikatürcüler tarafından kullanılan konu ele alma tekniklerinden biri değildir?
-    - A-) Abartma
-    - B-) Aşağılama
-    - C-) Çelişki
-    - **Cevap D-) Gizleme**
-    - E-) Şakacılık
-
-    > **Açıklama:** Ünite 8'de karikatürcülerin kullandığı başlıca konu ele alma teknikleri olarak aşağılama (şakacılık), abartma (grotesk) veya çelişki (saçmalık) belirtilmiştir. 'Sansürle baltalanan ifade özgürlüğüne bağlılık' ise karikatürcülerin savunduğu görüşlerdendir, tekniklerden biri değildir.
 
     <hr />
 

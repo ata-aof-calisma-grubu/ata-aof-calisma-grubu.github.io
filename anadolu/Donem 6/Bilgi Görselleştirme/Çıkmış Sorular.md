@@ -41,19 +41,6 @@
 
     <hr />
 
-### Bilgi Görselleştirme Süreci
-
-1. Aşağıdakilerden hangisi bilgiyi görselleştirme sürecinde yer almaz?
-    - A-) Problemin tanımlanması
-    - **Cevap B-) Verici**
-    - C-) Kullanıcı
-    - D-) Tasarımda ortam
-    - E-) Planlama
-
-    > **Açıklama:** Ünite 1'in 'Bilgi Görselleştirme' başlığı altında bilgi görselleştirmenin bir tasarım disiplini olduğu belirtilmiştir. 'Bilgi Görselleştirme Tasarımı' başlığı altında sürecin temel adımları: Problemin Tanımlanması, Kullanıcı, Tasarımda Ortam ve Planlama olarak sıralanmıştır. Ardından Biçimlendirme aşaması gelir. 'Verici' (kaynağı) ise sürecin tanımlanmış bir adımı olarak listelenmemiştir. Bilgi görselleştirme tasarımcısı (verici/kaynak değil) bu süreci tasarlayan kişidir, ancak süreç adımları içinde doğrudan 'verici' unsuru yer almaz.
-
-    <hr />
-
 ### Bilgi Görselleştirme Tasarımcısı
 
 1. Bilgi görselleştirme tasarımcısı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
@@ -64,6 +51,19 @@
     - E-) Hem yenilikçi hem de sistematik düşünceye sahip olmalıdır.
 
     > **Açıklama:** Ünite 1'deki 'Bilgi Görselleştirme Tasarımcısı' başlığına göre, tasarımcının sahip olması gereken nitelikler listelenmiştir. Bu listede, tasarımcının teknik gerekliliklere 'aşina olması' gerektiği belirtilir (madde 5). İfade (B) ise tasarımcının bu gerekliliklere 'ihtiyaç duymaması' gerektiğini belirtmektedir ki bu, metindeki 'teknik gerekliliklere aşina olmalı' ifadesiyle çelişir ve yanlıştır.
+
+    <hr />
+
+### Bilgi Görselleştirme Özellikleri
+
+1. Aşağıdakilerden hangisi bilgiyi görselleştirme sürecinde yer almaz?
+    - A-) Problemin tanımlanması
+    - **Cevap B-) Verici**
+    - C-) Kullanıcı
+    - D-) Tasarımda ortam
+    - E-) Planlama
+
+    > **Açıklama:** Bilgi görselleştirmenin temel amacı, karmaşık verilerin ilgili kitle tarafından daha kolay ve etkin bir şekilde anlaşılmasını sağlamaktır (Ünite 1). Bu amaç doğrultusunda, görselleştirilen bilginin Kullanışlı, Erişilebilir, Anlamlı ve Bilgilendirici olması hedeflenir. Bilginin 'Sınırlı' olması ise bu amaçlarla çelişir, zira görselleştirme disiplini büyük ve karmaşık bilgi yığınlarını düzenleyip sunarak erişilebilir kılmayı amaçlar. Bu nedenle, 'Sınırlı' olmak bilgi görselleştirmenin amaçlarıyla ilişkilendirilemez.
 
     <hr />
 
@@ -287,6 +287,19 @@
 
     <hr />
 
+### Sanayi Devrimi ve Bilgi
+
+1. Bilgi'nin hızla çoğalması ve insanların bilgiye kolay ulaşabilmesi aşağıdaki dönemlerden hangisinin sonucunda gerçekleşmiştir? *(3 kez soruldu)*
+    - A-) Rönesans döneminde
+    - B-) Antik Yunan'da
+    - C-) Demir Çağında
+    - D-) Orta Çağ'da
+    - **Cevap E-) Sanayi Devrimi dönemi**
+
+    > **Açıklama:** Sanayi Devrimi dönemi (18. yüzyıl sonu - 19. yüzyıl) üretim, iletişim ve ulaşım teknolojilerinde köklü değişikliklere yol açmıştır. Ünite 2'de belirtildiği gibi, Sanayi Devrimi'nin etkileri ve demir yolu ağları gibi teknolojik gelişmeler (Ünite 2, s. 2), bilginin üretimini ve daha geniş coğrafyalara aktarılmasını hızlandırmıştır. Her ne kadar bilginin bugünkü devasa çoğalması dijital çağa ait olsa da, Sanayi Devrimi, bilginin kitlesel olarak erişilebilirliğini ve hızla artışını sağlayan altyapıyı kurarak bu büyük dönüşümün başlangıcı olarak kabul edilir.
+
+    <hr />
+
 ### Tufte Okuma Deneyimi
 
 1. Makro okuma seviyesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?<br />A) Her günün satış rakamlarını incelemek amacı ile kullanılır.<br />B) Hangi ürünün hangi günlerde daha fazla talep gördüğünü belirlemek için tercih edilir.<br />C) Belirli bir müşteri grubunun en yüksek satın alma potansiyeline sahip olduğunu analiz etmek için kullanılır.<br />D) Verinin genel yapısını anlamayı sağlar ve uzun vadeli stratejik kararların temelini oluşturur.<br />E) Belirli bir ürünün günlük performansını saat saat değerlendirmek için kullanılır.
@@ -490,22 +503,9 @@
 
     <hr />
 
-### Bilgi Hiyerarşisi Modelleri
-
-1. Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer almaz? *(2 kez soruldu)*
-    - A-) Bilgi
-    - **Cevap B-) Süreç**
-    - C-) Bilgi birikimi
-    - D-) Veri
-    - E-) Bilgelik
-
-    > **Açıklama:** Ünite 4'te Bilgi Hiyerarşisi başlığı altında, Ackoff'un DIKW piramidi (Data, Information, Knowledge, Wisdom) sıralaması ele alınmıştır. Veri ve Bilgi arasındaki ilişki tartışılmış, ancak bu hiyerarşinin katları arasındaki sınırların kesin olmadığı belirtilmiştir. 'Sayısal veri' terimi, hiyerarşideki 'Veri' katmanını niteler ancak hiyerarşinin kendisinin bir parçası olarak geçmez ve 'Yüzdeler ve Riskler' bölümü bu hiyerarşinin kendisi değildir.
-
-    <hr />
-
 ### DIKW Hiyerarşisi
 
-1. Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer almaz?
+1. Aşağıdakilerden hangisi ilk kez Ackoff (1989), tarafından literatüre alınan bilgiye hiyerarşik yaklaşımda yer almaz? *(3 kez soruldu)*
     - A-) Bilgelik
     - B-) Bilgi birikimi
     - C-) Veri
@@ -624,7 +624,7 @@
 
 ### Renk Kullanımı
 
-1. Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında kullanılan unsurlarından biri değildir? *(2 kez soruldu)*
+1. Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında kullanılan unsurlarından biri değildir? *(3 kez soruldu)*
     - A-) Kategorizasyon
     - B-) Vurgu
     - C-) Zaman ve değişim betimlenmesi
@@ -632,16 +632,6 @@
     - **Cevap E-) Estetik**
 
     > **Açıklama:** Ünite 5'te renk kullanımının bileşenleri (Vurgu, Kategorizasyon, Zaman ve değişim betimlenmesi, Uyum ve zıtlık) listelenmiştir. Estetik (E şıkkı), renk kullanımının bir amacı olarak geçmemektedir; renklerin estetik sunuşa katkıda bulunduğu ima edilse de, spesifik bir unsur olarak bu listede yer almaz.
-
-    <hr />
-1. Aşağıdakilerden hangisi renk kullanımının bilgigrafi tasarımında unsurlarından biri değildir?
-    - A-) Vurgu
-    - **Cevap B-) Estetik**
-    - C-) Kategorizasyon
-    - D-) Zaman ve değişim betimlenmesi
-    - E-) Uyum ve zıtlık
-
-    > **Açıklama:** Ünite 5'te renk kullanımının bileşenleri Vurgu (A), Kategorizasyon (C), Zaman ve değişim betimlenmesi (D) ve Uyum ve zıtlık (E) olarak sıralanmıştır. Estetik (B şıkkı) renklerin genel bir niteliği olsa da, bu listede kullanılan spesifik bir unsur olarak yer almamaktadır.
 
     <hr />
 
@@ -776,22 +766,9 @@
 
     <hr />
 
-### Görsel Bilginin Avantajı
-
-1. Aşağıdakilerden hangisi görsel iletişimin diğer iletişim biçimlerine göre sağladığı avantajllardan biridir?
-    - **Cevap A-) Akılda kalıcı, evrensel anlam ve algı boyutlarına sahip olması**
-    - B-) Sıklıkla değişken ve ölçülebilir bir yöntem olması
-    - C-) Yavaş anlamlandırabilme ve yavaş anlamaya yönelik olması
-    - D-) Sınırlı ve çoğaltılabilmeden uzak bir yöntem olması
-    - E-) Zaman içinde unutulma eğilimine sahip olması
-
-    > **Açıklama:** Ünite 7'de, görselleştirmenin bilişsel bir öneme sahip olduğu ve iyi tasarlanmış bir veri görselleştirmenin izleyiciye çabuk ve derin bir kavrayış olanağı sağladığı belirtilmiştir. Görsel bilgiler, fotoğraf ve videoya göre daha az duygulanım içerirken, gerçek olguları ifade ederek tarafgirlikten uzak bir anlatı sunar.
-
-    <hr />
-
 ### Görselleştirme Avantajları
 
-1. Aşağıdakilerden hangisi görsel iletişimin diğer iletişim biçimlerine göre sağladığı avantajlardan biridir?
+1. Aşağıdakilerden hangisi görsel iletişimin diğer iletişim biçimlerine göre sağladığı avantajlardan biridir? *(2 kez soruldu)*
     - **Cevap A-) Akılda kalıcı, evrensel anlam ve algı boyutlarına sahip olması**
     - B-) Sıklıkla değişken ve ölçülebilir bir yöntem olması
     - C-) Yavaş anlamlandırabilme ve yavaş anlamaya yönelik olması
@@ -817,7 +794,7 @@
 
 ### Nicel Veri Görselleştirme Araçları
 
-1. Nicel veri görselleştirilmesinde hesap tabloları yeterli gelmediğinde sıklıkla kullanılan, bilimsel amaçlı veri işleme dilleri hangileridir?
+1. Nicel veri görselleştirilmesinde hesap tabloları yeterli gelmediğinde sıklıkla kullanılan, bilimsel amaçlı veri işleme dilleri hangileridir? *(2 kez soruldu)*
     - **Cevap A-) R ve Python**
     - B-) HTML ve CSS
     - C-) JavaScript ve PHP
@@ -828,22 +805,9 @@
 
     <hr />
 
-### Nicel Veri İşleme Dilleri
-
-1. Nicel veri görselleştirilmesinde hesap tabloları yeterli gelmediğinde sıklıkla kullanılan bilimsel amaçlı diller genellikle aşağıdakilerden hangisidir?
-    - A-) SQL ve Ruby
-    - **Cevap B-) R ve Python**
-    - C-) Java ve C++
-    - D-) JavaScript ve PHP
-    - E-) HTML ve CSS
-
-    > **Açıklama:** Ünite 7'de, nicel veriye dayalı gazetecilikte hesap tablolarının yetersiz kaldığı noktalarda \*\*R ve Python\*\* gibi bilimsel amaçlı veri işleme dillerinin kullanıldığı belirtilmiştir.
-
-    <hr />
-
 ### Veri Gazeteciliği Değişimi
 
-1. Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin sonucu gelişen önemli değişim aşağıdakilerden hangisidir?
+1. Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin sonucu gelişen önemli değişim aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - A-) Haber metninin uzunluğunu arttırması
     - **Cevap B-) Veri görselleştirmesinin haber metninin önüne geçmesi**
     - C-) Habercilerin iş yükünü azaltması
@@ -864,19 +828,6 @@
     - E-) Hedefsel veri ve güçlü kaynak
 
     > **Açıklama:** Gazetecilikte veri görselleştirmenin amacı; zaman içindeki değişimi göstermek, değerleri kıyaslamak ve ilişkileri/akışları göstermektir (Ünite 7). Ayrıca, haberin kaynağının güvenilirliği (resmi kurumlar, anketler vb.) ve hedef kitlenin algısı önemlidir. Şıklar incelendiğinde: A şıkkı (Veri ekonomisi ve görsel sunum) genel bir konudur. B şıkkı (Sistematik düşünce) Bilgi Görselleştirme Tasarımcısı niteliklerinde geçmektedir ancak gazetecilikte temel sunum amacı değildir. C şıkkı (Hareketli/durağan yazı) tipografik bir unsurdur. D şıkkı (Veri tekrarı) genellikle kaçınılması gereken bir durumdur. E şıkkı (Hedefsel veri ve güçlü kaynak), haberin güvenilirliği (kaynak) ve hedeflenen kitleye (hedefsel veri) hitap etme gerekliliğini kapsar ve bu, haberin kabul edilebilirliği için temeldir (Ünite 7).
-
-    <hr />
-
-### Veri Gazeteciliğinde Değişim
-
-1. Veri gazeteciliğinin habercilik uygulamalarında bazı değişimler ve zorlukları beraberinde getirmesinin en önemli sonucu aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Veri analistlerinin görevlerini değiştirmesi
-    - B-) Tasarımcıların görselleştirme sürecine dahil olmaması
-    - C-) Habercilerin iş yükünü azaltması
-    - D-) Haber metninin uzunluğunu arttırması
-    - **Cevap E-) Veri görselleştirmesinin haber metninin önüne geçmesi**
-
-    > **Açıklama:** Ünite 7'de Değişen Gazetecilik başlığı altında, en önemli değişimin, veri görselleştirmenin, haber metninin önüne geçerek anlatının temel unsuru hâline gelmesi olduğu belirtilmiştir.
 
     <hr />
 
@@ -960,19 +911,6 @@
 
     <hr />
 
-### Artırılmış Gerçeklik Teknolojileri
-
-1. Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeniden sunulması anlamına gelen kavram aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Dijital Sunum
-    - **Cevap B-) Arttırılmış Gerçeklik**
-    - C-) Karma Gerçeklik
-    - D-) Sanal Gerçeklik
-    - E-) Teknolojik Gerçeklik
-
-    > **Açıklama:** Ünite 8'de Arttırılmış ve Karma Gerçeklik Teknolojileri başlığı altında, bu teknolojilerin temel prensibinin, 'gerçek zamanlı görüntünün teknoloji yardımıyla zenginleştirilmesi' olduğu ve karma/arttırılmış gerçeklik teknolojileriyle 'veri hem bilgi aktarma işlevi görürken aynı zamanda içinde dolaşılan bir yere dönüşür' şeklinde ifade edildiği belirtilmiştir.
-
-    <hr />
-
 ### Bilgi Deneyimleme Değişimleri
 
 1. Aşağıdakilerden hangisi "veri sızıntısı"nın tanımıdır?
@@ -1001,7 +939,7 @@
 
 ### Deneyimsel Tasarım Süreci
 
-1. \_\_\_\_\_\_: Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. \_\_\_\_\_\_: Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
     - A-) Başlangıç yaklaşımı
     - B-) Kullanıcı test tasarım süreci
     - C-) Tasarım günlüğü
@@ -1038,22 +976,9 @@
 
     <hr />
 
-### Yeni Açılımlarda Süreç
-
-1. Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir.
-    - A-) Sabit verilerin kullanımı yaklaşım
-    - B-) Kullanıcı test tasarım süreci
-    - C-) Tasarım günlüğü
-    - D-) Başlangıç yaklaşımı
-    - **Cevap E-) Yinelemeli tasarım yaklaşımı**
-
-    > **Açıklama:** Ünite 8'de Bilgi Görselleştirmede Çağdaş Bir Yaklaşım başlığı altında, normun bilgiyi davranışa dönüştürmesi ve bu dönüşümün sürekli iyileştirilmesiyle (etkileşim ve deneyim) zenginleştiği ima edilir. Ancak metinde bu tanıma doğrudan karşılık gelen bir ifade bulunmamaktadır. Bu soru, Ünite 8'deki deneyim odaklı yaklaşımın (STRAVA örneği) bir sonucu olarak kabul edilebilir; burada 'akış' kavramı ve 'deneyim' önemlidir.
-
-    <hr />
-
 ### Yeni Teknolojilerle Görselleştirme
 
-1. Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeni yeniden anlamına aşağıdakilerden hangisidir?
+1. Çeşitli teknolojik cihazlar aracılığıyla çevrede görülen fiziksel unsurların veri ve grafikler aracılığıyla zenginleştirilerek yeni yeniden anlamına aşağıdakilerden hangisidir? *(3 kez soruldu)*
     - **Cevap A-) Arttırılmış Gerçeklik**
     - B-) Sanal Gerçeklik
     - C-) Karma Gerçeklik
@@ -1062,28 +987,5 @@
 
     > **Açıklama:** Ünite 8'de, bilginin görsel deneyimlenmesinde tasarım araçları ve teknolojilerindeki gelişmelerin etkili olduğu belirtilmiştir. Özellikle 'arttırılmış gerçeklik (AR) ve karma gerçeklik (MR) teknolojileri'nin fiziksel dünyayı yeni bir görsel katmanla zenginleştirdiği ve karmaşık verileri gerçek zamanlı olarak aktarmanın verimli bir yolu olduğu ifade edilmiştir. Bu teknoloji, fiziksel unsurların veri ile zenginleştirilmesini ifade eder.
 
-    <hr />
-
-### Yinelemeli Tasarım Süreci
-
-1. ------ Tasarım sürecinin hedefe yönelik belirlenen kullanıcılardan alınan test verileri ile sürekli biçimde iyileştirilmesi ve yenilenmesi anlamına gelmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) Başlangıç yaklaşımı
-    - B-) Sabit verilerin kullanımı yaklaşım
-    - C-) Kullanıcı test tasarım süreci
-    - **Cevap D-) Yinelemeli tasarım yaklaşımı**
-    - E-) Tasarım günlüğü
-
-    > **Açıklama:** Ünite 8'de, 'Bilgi Deneyimleme Biçimimizdeki Dönüşümler' başlığında, güncel tasarım yaklaşımlarının deneyim yaratmaya odaklandığı belirtilmiştir. Bu bağlamda, test verileriyle sürekli iyileştirme süreci genellikle \*\*Yinelemeli Tasarım Yaklaşımı\*\* (Iterative Design) olarak adlandırılır, ancak metinde bu terim doğrudan bu şekilde tanımlanmamıştır. Seçenekler arasında en uygun kavram \*\*Kullanıcı Odaklı Tasarım\*\*dır, çünkü yeni açılımlarda kullanıcı deneyimi (etkileşim, zaman, geri bildirim) ön plana çıkar.
-
-    <hr />
-
-## Ünite Diğer
-
-1. Bilgi'nin hızla çoğalması ve insanların bilgiye kolay ulaşabilmesi aşağıdaki dönemlerden hangisinin sonucunda gerçekleşmiştir? *(3 kez soruldu)*
-    - A-) Rönesans döneminde
-    - B-) Antik Yunan'da
-    - C-) Demir Çağında
-    - D-) Orta Çağ'da
-    - **Cevap E-) Sanayi Devrimi dönemi**
     <hr />
 

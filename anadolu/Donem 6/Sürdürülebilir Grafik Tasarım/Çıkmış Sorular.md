@@ -4,7 +4,7 @@
 
 ### Ekolojik Denge
 
-1. -----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+1. -----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
     - A-) İnovasyon
     - **Cevap B-) Ardıllık**
     - C-) Etkileşim
@@ -12,19 +12,6 @@
     - E-) Reaksiyon
 
     > **Açıklama:** Ekolojik ardıllık (Succession), zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Bu tanım, verilen cümleyi en uygun şekilde tamamlar.
-
-    <hr />
-
-### Ekolojik Değişim Süreci
-
-1. -----, Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir.<br />Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Reaksiyon
-    - B-) Etkileşim
-    - **Cevap C-) Ardıllık**
-    - D-) İnovasyon
-    - E-) Metafor
-
-    > **Açıklama:** Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecine 'Ardıllık' (Succession) denir. Ünite 1'de Ekolojik Faktörler bağlamında, ekolojik faktörlerin canlı türleri üzerinde dinamik değişikliklere neden olduğundan bahsedilir. Ardıllık bu sıralı değişimi ifade eder.
 
     <hr />
 
@@ -38,6 +25,19 @@
     - **Cevap E-) Ekosistem**
 
     > **Açıklama:** Belli bir bölgede yaşayan ve birbirleriyle devamlı etkileşim hâlinde olan canlılar ile bunların cansız çevrelerinin oluşturduğu ve ekolojik faktörler bakımından farklılıklara sahip olan bütüne ekosistem denir. Ekosistem, biyotik (üreticiler, tüketiciler, ayrıştırıcılar) ve abiyotik (cansız) ögelerden meydana gelir.
+
+    <hr />
+
+### Ekolojik Kavramlar
+
+1. Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biridir? *(2 kez soruldu)*
+    - **Cevap A-) Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.**
+    - B-) Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.
+    - C-) Genetik çeşitlilik çok yüksektir.
+    - D-) Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.
+    - E-) Canlılar arası besin zincirleri uzun ve karmaşıktır.
+
+    > **Açıklama:** Ardıllık (Succession), zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecini ifade eder. Bu süreç, ekosistemin dinamik yapısının ve çevresel değişkenlere adaptasyonunun temel bir göstergesidir. Bu kavram, ekoloji bilimi (Ünite 1) çerçevesinde incelenir, çünkü ekoloji canlıların çevreleriyle olan karmaşık ve sürekli değişen ilişkilerini ele alır.
 
     <hr />
 
@@ -97,34 +97,11 @@
 
     <hr />
 
-### Yapay/Yarı Doğal Ekosistemler
-
-1. Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biridir?
-    - **Cevap A-) Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.**
-    - B-) Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.
-    - C-) Genetik çeşitlilik çok yüksektir.
-    - D-) Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.
-    - E-) Canlılar arası besin zincirleri uzun ve karmaşıktır.
-
-    > **Açıklama:** Ünite 1'de Yarı Doğal ve Yapay Ekosistemler başlığı altında, bu ekosistemlerin insan müdahalesi sonucu oluştuğu belirtilir. Soruda verilen A seçeneğindeki 'Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir' ifadesi, doğal ekosistemlerin özelliklerine atıfta bulunsa da, yapay/yarı doğal ekosistemlerin insan desteği olmadan dengeli süreklilik gösteremeyeceği bağlamında, insan müdahalesi kalktığında ekolojik dengeye dönme sürecinin (ardıllık) gerçekleşeceği ima edilir. Diğer seçenekler (B, C, D, E) genellikle doğal ekosistemlerin özellikleridir (örneğin, insan desteği olmaksızın döngülerin gerçekleşmesi D seçeneği). Yarı doğal ekosistemler insan desteği olmaksızın dengeli süreklilik göstermezler.
-
-    <hr />
-1. Aşağıdakilerden hangisi yapay/yarı doğal ekosistemlerin temel yapısını oluşturan ögelerden biridür?
-    - A-) Çok sayıda canlı türü ve yeterli ekolojik faktörleri içerir.
-    - B-) Genetik çeşitlilik çok yüksektir.
-    - C-) Tüm enerji ve biyolojik döngüler insan desteği olmaksızın gerçekleşir.
-    - D-) Canlılar arası besin zincirleri uzun ve karmaşıktır.
-    - **Cevap E-) Ekolojik ardıllık ancak insan etkisi kalktıktan sonra ve yavaş gerçekleşir.**
-
-    > **Açıklama:** Ünite 1'de Yarı Doğal ve Yapay Ekosistemler başlığı altında, bu ekosistemlerin insan müdahalesi sonucu oluştuğu belirtilir. Yarı doğal ekosistemler (örneğin tarım alanları), insan desteği olmaksızın dengeli bir yapıda süreklilik gösteremezler. Bu bağlamda, insan etkisi kalktıktan sonra ekolojik ardıllık (doğal döngülere dönüş) sürecinin yavaşça gerçekleşeceği beklenir, bu da onları doğal sistemlerden ayırır. Diğer seçenekler (A, B, C, D) doğal ekosistemlerin özellikleridir.
-
-    <hr />
-
 ## Ünite 2
 
 ### 3 Boyutlu Sanat Teknikleri
 
-1. 3 boyutlu sanat objesinin, heykelin, görsel sanatçılardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir?
+1. 3 boyutlu sanat objesinin, heykelin, görsel sanatçılardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Akümülasyon sanatı
     - B-) Dekolaj sanatı
     - C-) Asamblaj sanatı
@@ -132,16 +109,6 @@
     - **Cevap E-) Junk sanatı**
 
     > **Açıklama:** Ünite 2'de Görsel Sanatlarda Sürdürülebilirlik başlığı altında, 'Asamblaj' tekniği tanımlanırken, Jean Dubuffet'in bu terimi kullanmaya başladığı ve bir form oluşturacak biçimde kullanılmayan objelerin birleştirilerek heykele dönüştürülmesi anlamına geldiği belirtilmiştir. Bu tanım, soruda bahsedilen 3 boyutlu sanat objesinin atık malzemelerle oluşturulması tanımına uymaktadır. Junk Sanatı (E seçeneği), asamblajın atık materyallerle yapılan bir türü olsa da, sorunun tanımı doğrudan 'Asamblaj' tekniğini tanımlamaktadır. Ancak, soruda 'Junk sanatı' şıkkının doğru kabul edilmesi istendiğinden, Asamblajın atık materyallerle yapılan hali Junk Sanatı olarak da adlandırılabileceği ve bu bağlamda doğru kabul edilebileceği belirtilmelidir. (Not: Metinde Asamblaj, 'heykele dönüştürülmesi' olarak tanımlanır; Junk Sanatı, Asamblajın bir alt türüdür ve soruda Junk sanatı doğru kabul edildiği için bu terim tercih edilmiştir.)
-
-    <hr />
-1. 3 boyutlu sanat objesinin, heykelin, görsel sanatlardaki geleneksel malzemeler yerine artıklar, kullanılmayan objeler ve hurdaların bir araya getirilmesiyle oluşturulan sanat türü aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) Dekolaj sanatı
-    - B-) Asamblaj sanatı
-    - C-) Akümülasyon sanatı
-    - **Cevap D-) Junk sanatı**
-    - E-) Kolaj sanatı
-
-    > **Açıklama:** Asamblaj sanatı, heykelin üç boyutlu hâli olup, genellikle atık, kullanılmayan objeler veya hurdaların bir araya getirilmesiyle oluşturulur. Ünite 2'de Asamblaj tekniğinin kolajın üç boyutlu hâli olduğu ve heykele dönüştürülmesi anlamına geldiği belirtilmiştir. 'Junk sanatı' terimi, atık materyallerle yapılan çalışmaları kapsar ve Asamblaj ile yakından ilişkilidir; bu bağlamda, hurda/atık kullanımını vurgulayan şık doğru kabul edilmiştir.
 
     <hr />
 
@@ -155,6 +122,19 @@
     - E-) Montaj
 
     > **Açıklama:** Akümülasyon, atık malzemelerle sanat objesi oluşturmak için kullanılan tekniktir ve atık objelerin istiflenerek, asılarak, bantlanarak, birleştirilerek sanat eseri oluşturulmasını ifade eder. Fransız sanatçı Armand Pierre Fernandez bu teknikle tanınır.
+
+    <hr />
+
+### Ambalaj Malzemeleri
+
+1. Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır? *(3 kez soruldu)*
+    - A-) Metal
+    - B-) Kağıt
+    - C-) Plastik
+    - **Cevap D-) Cam**
+    - E-) Ahşap
+
+    > **Açıklama:** Cam, en eski ambalaj malzemelerindendir ve özellikle gıda ve ilaç ambalajlarında tercih edilmesinin nedeni, içeriğin tadını ve kokusunu etkilememesi, görünür olmasıdır (Ünite 2, Cam başlığı).
 
     <hr />
 
@@ -184,22 +164,9 @@
 
     <hr />
 
-### Montaj Tekniği
-
-1. Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Akümülasyon
-    - B-) Dekolaj
-    - C-) Kolaj
-    - D-) Asamblaj
-    - **Cevap E-) Montaj**
-
-    > **Açıklama:** Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasına Montaj yöntemi adı verilir (Sayfa 2). Kolaj (birleştirme/yapıştırma), Dekolaj (sökülme), Asamblaj (üç boyutlu kolaj/heykel), Akümülasyon (yığma/biriktirme) diğer tekniklerdir.
-
-    <hr />
-
 ### Sanat Teknikleri Tanımları
 
-1. ----: Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ----: Atık nesnelerin doğrudan ya da dönüştürülerek üç boyutlu sanat objesi oluşturmak için kullanılmasıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Dekolaj
     - B-) Asamblaj
     - C-) Kolaj
@@ -237,19 +204,6 @@
     <hr />
 
 ## Ünite 3
-
-### Ambalaj Malzemesi Sağlığı
-
-1. Gıda ambalajı kullanımda aşağıdaki malzemelerden hangisi sağlıklıdır? *(3 kez soruldu)*
-    - A-) Kağıt
-    - B-) Plastik
-    - C-) Metal
-    - D-) Ahşap
-    - **Cevap E-) Cam**
-
-    > **Açıklama:** Ünite 3'te Cam başlığı altında, camın yüksek sıcaklıklarda şekillendirilmesiyle elde edildiği ve 'Camın gıda ve ilaç ambalajlarında tercih nedenlerinin başında gelir' denilmiştir, çünkü cam, içine konan ürünün tadını veya kokusunu etkilemez ve kimyasal etkileşime girmez.
-
-    <hr />
 
 ### Geri Dönüşüm Tanımı
 
@@ -333,7 +287,7 @@
 
 ### Eko Etiket (EkoLabel)
 
-1. Eko etiketin tüketicinin bilinçlendirilmesindeki önemli ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. Eko etiketin tüketicinin bilinçlendirilmesindeki önemli ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
     - A-) Eko etiket, tüketiciye ürünün rengini belirten bir etikettir.
     - B-) Eko etiket, tüketiciye ürünün hammaddelerini listeyen bir etikettir.
     - C-) Eko etiket, tüketiciye ürünün kokusunu tanıtan bir etikettir.
@@ -341,19 +295,6 @@
     - E-) Eko etiket, tüketiciye ürünün ağırlığını gösteren bir etikettir.
 
     > **Açıklama:** Eko etiket, tüketicinin bilinçlenmesi amacıyla yürütülen çalışmalardan biridir. Eko etiket sayesinde tüketici, satın aldığı ürünün çevresel faktörler göz önünde tutularak üretildiğini öğrenir. Bu, üreticilerin de çevre korumaya katkıda bulunmasını sağlar (Sayfa 2).
-
-    <hr />
-
-### Eko Etiket Anlamı
-
-1. Eko etiket, tüketicinin ürün ile ilgili bilinçlendirilmesindeki önemli ifadelerden hangisi doğrudur?
-    - A-) Eko etiket, tüketiciye ürünün ağırlığını gösteren bir etikettir.
-    - B-) Eko etiket, tüketiciye ürünün rengini belirten bir etikettir.
-    - C-) Eko etiket, tüketiciye ürünün hammaddelerini listeyen bir etikettir.
-    - **Cevap D-) Eko etiket, tüketiciye ürünün çevresel etkilerini belirten bir etikettir.**
-    - E-) Eko etiket, tüketiciye ürünün kokusunu tanıtan bir etikettir.
-
-    > **Açıklama:** Ünite 4'te Eko Etiket başlığı altında, eko etiketlerin (yeşil etiket/çevresel etiket) günlük yaşamda kullanılan ürünlerin çevreye etkilerini ve sürdürülebilirliğini gösteren işaretler olduğu belirtilmiştir. Ayrıca, eko etiketlemenin üretici ve tüketiciyi bilinçlendirerek, çevresel faktörlerin göz önünde tutularak üretilen ürünleri ayırt etmeye yaradığı ifade edilmiştir.
 
     <hr />
 
@@ -473,7 +414,7 @@
 
 ### Yeşil Badana (Greenwashing)
 
-1. Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir? *(3 kez soruldu)*
+1. Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - A-) Ekolojik yanılgı
     - B-) Ekolojik yanılsama
     - C-) Yeşil yalan
@@ -481,29 +422,6 @@
     - E-) Çevre cilası
 
     > **Açıklama:** Ünite 4'te 'Yeşil Badana (Greenwashing)' kavramı, işletmelerin çevre dostu olduklarını iddia veya ima etmelerine rağmen, bunu politikaları veya uygulamalarıyla desteklememeleri, yani tüketicileri yanıltmaları durumu olarak tanımlanmıştır. Sorudaki tanım, bu kavramın tanımıyla birebir örtüşmektedir. 'Yeşil' (D) tek başına bu anlamı karşılamaz.
-
-    <hr />
-1. Çevre dostu olduğunu iddia veya ima eden, ancak aslında tüketicileri yanıltmaya yönelik uygulamaları ifade eden kavram aşağıdakilerden hangisidir?
-    - **Cevap A-) Yeşil badana**
-    - B-) Ekolojik yanılgı
-    - C-) Ekolojik yanılsama
-    - D-) Yeşil yalan
-    - E-) Çevre cilası
-
-    > **Açıklama:** Ünite 4'te 'Yeşil Badana (Greenwashing)' kavramı, çevre dostu olduğunu iddia eden ancak bu iddiayı desteklemeyen, dolayısıyla tüketicileri yanıltmaya yönelik uygulamaları ifade eder. Sorudaki tanım bu kavramı açıklamaktadır.
-
-    <hr />
-
-### Yeşil Tasarım Amaçları
-
-1. Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridür?
-    - A-) Kaynak tasarrufu için tasarım
-    - B-) Güvenli imha için tasarım
-    - **Cevap C-) En az tüketim için tasarım**
-    - D-) Yeniden kullanım için tasarım
-    - E-) Demontaj için tasarım
-
-    > **Açıklama:** Yeşil tasarım, malzeme veya enerji kullanımını en aza indirme, yeniden kullanımı teşvik etme ve geri dönüştürme gibi yöntemlerle çevresel etkileri azaltmaya yöneliktir. Ürün yaşam döngüsü içinde 'kullanım' aşaması, ürünün kullanım süresi boyunca çevresel etkileri dikkate almayı içerir; bu da 'günde daha az atık çıkarmak' veya 'daha az enerji/malzeme kullanmak' gibi amaçlarla ilişkilidir. Sorudaki 'kullanım' amacı, genel olarak ürünün kullanım süresi boyunca kaynak verimliliğiyle ilgilidir.
 
     <hr />
 
@@ -576,27 +494,14 @@
 
 ### Dijital Dosya Türleri
 
-1. -----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar?
+1. -----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar? *(3 kez soruldu)*
     - A-) Hibrit
-    - B-) İnkjet
+    - B-) Akordeon
     - C-) Selefon
     - **Cevap D-) Raster grafik**
-    - E-) Akordeon
+    - E-) İnkjet
 
-    > **Açıklama:** Boş bırakılan yer, piksellerden oluşan ve fotoğraf gibi ayrıntılı görüntüleri oluşturabilen dijital dosya türünü tanımlamaktadır. Ünite 5'te Dijital Dosya Türleri başlığı altında, bit map (raster) dosyaların, piksellerden oluştuğu ve çok büyük miktarda küçük renkli karelerden meydana geldiği belirtilmiştir. Bu tanım, Bit Map (Raster) dosyaları için geçerlidir.
-
-    <hr />
-
-### Dijital Grafik Dosya Türleri
-
-1. -----, dosyaları piksellerden oluşturulan görüntülerdir. Pikseller bir araya gelerek fotoğraf gibi çok ayrıntılı görüntüleri oluşturabilen, çok büyük miktarda küçük renkli karelerdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) Hibrit
-    - B-) İnkjet
-    - C-) Selefon
-    - **Cevap D-) Raster grafik**
-    - E-) Akordeon
-
-    > **Açıklama:** Piksellerden oluşan ve fotoğraf gibi ayrıntılı görüntüleri oluşturabilen grafik dosya türlerine Raster grafik denir. Ünite 5'te, dijital grafik ürünlerde dosya türlerinin önemli olduğu belirtilmiş, ancak bu terimin spesifik tanımı Ünite 5 özetinde doğrudan yer almamaktadır. Ancak dijital grafiklerin doğası gereği piksellerle çalıştığı bilgisi (tipik olarak raster grafikler) göz önüne alındığında, bu tanım raster grafiğe uyar.
+    > **Açıklama:** Piksellerden oluşan, fotoğraf gibi ayrıntılı görüntüleri oluşturabilen dijital dosya türleri 'Raster' (Piksel tabanlı) görüntülerdir. Ünite 5'te, dijital grafik ürünlerin dosya türlerinden bahsedilirken, bu tanım Raster dosya türlerine uymaktadır (ancak şıklar verilmediği için, en uygun terim 'Raster' veya 'Piksel Tabanlı'dır).
 
     <hr />
 
@@ -795,7 +700,7 @@
 
 ### Ambalaj Sınıflandırması
 
-1. Satış ambalajı ya da ----- olarak da adlandırılan birincil ambalaj, bir ürünle doğrudan temas hâlinde olan ve ürünün kendini kapsayan ----- bırakılan yeri hangisi doğru şekilde tamamlar?
+1. Satış ambalajı ya da ----- olarak da adlandırılan birincil ambalaj, bir ürünle doğrudan temas hâlinde olan ve ürünün kendini kapsayan ----- bırakılan yeri hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) ambalaj
     - B-) hedef ambalajı
     - C-) dış ambalajı
@@ -805,20 +710,10 @@
     > **Açıklama:** Ambalajlar birincil, ikincil ve üçüncül olarak sınıflandırılır. Birincil ambalaj, ürünle doğrudan temas eden ve ürünü saran ambalajdır (satış ambalajı). İkincil ambalaj (dış ambalaj) ise birincil ambalajın içine girdiği veya birden çok birincil ambalajı bir arada tuttuğu ambalajdır. Ünite 7'de, birincil ambalajın 'Satış ambalajı ya da iç ambalaj' olarak adlandırıldığı belirtilmiştir.
 
     <hr />
-1. Satış ambalajı ya da ----- olarak da adlandırılan birincil ambalaj, bir ürünle doğrudan temas hâlinde olan ve ürünün kendini kapsayan ambalajdır.<br />Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) ambalaj
-    - B-) nature ambalajı
-    - C-) dış ambalajı
-    - **Cevap D-) iç ambalaj**
-    - E-) kompozit ambalaj
-
-    > **Açıklama:** Ünite 7'de Ambalajların Sınıflandırılması başlığı altında, 'Satış ambalajı ya da iç ambalaj olarak da adlandırılan birincil ambalaj', bir ürünle doğrudan temas hâlinde olan ve ürünü kapsayan ambalaj olarak tanımlanmıştır.
-
-    <hr />
 
 ### Ambalaj İşlevleri
 
-1. Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridir? *(3 kez soruldu)*
+1. Aşağıdakilerden hangisi yeşil tasarımın ürün yaşam döngüsü aşamalarından biri olan 'kullanım'ın amaçlarından biridir? *(4 kez soruldu)*
     - A-) Güvenli imha için tasarım
     - B-) Kaynak tasarrufu için tasarım
     - **Cevap C-) En az tüketim için tasarım**
@@ -905,7 +800,7 @@
 
 ### Tasarım Etiği ve İntihal
 
-1. Aşağıdakilerden hangisi intihal teriminin tanımıdır? *(3 kez soruldu)*
+1. Aşağıdakilerden hangisi intihal teriminin tanımıdır? *(4 kez soruldu)*
     - A-) Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.
     - B-) Bir kişinin eserini başka biriyle paylaşmasıdır.
     - **Cevap C-) Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır.**
@@ -940,28 +835,5 @@
 
     > **Açıklama:** Ünite 8'de Grafik Tasarımda Etik başlığı altında, AIGA'nın maddeleri arasında Tasarımcının Halka Karşı Sorumluluğu ve Tasarımcının Topluma ve Çevreye Karşı Sorumluluğu yer alır. I ve II. maddeler doğrudan etik ve halka karşı sorumlulukla ilgilidir. IV. madde de adaleti ve dengeyi teşvik etme sorumluluğunu kapsar. III. madde (adil rekabet) ise mesleki etik kurallarının bir parçasıdır. Dolayısıyla bu dört ilke de genel olarak grafik tasarımcının halka karşı sorumlulukları çerçevesinde değerlendirilebilir.
 
-    <hr />
-
-### İntihal Tanımı
-
-1. Aşağıdakilerden hangisi intihal teriminin tanımıdır?
-    - A-) Bir kişinin eserini başka biriyle paylaşmasıdır.
-    - B-) Bir kişinin eserini yasal yollarla koruma altına alması kullanımı engellemesidir.
-    - C-) Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kullanmasıdır.
-    - D-) Bir kişinin eserini daha önce yayımlanmış bir esere dayanarak oluşturması, örnek ve emsal göstermesidir.
-    - **Cevap E-) Bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır.**
-
-    > **Açıklama:** İntihal (TDK: aşırma), bir kişinin eserinde başka kişilerin ifade, buluş veya düşüncelerini kaynak göstermeksizin kendisine aitmiş gibi kullanmasıdır. Bu, etik dışı bir davranış olarak kabul edilir (Ünite 8).
-
-    <hr />
-
-## Ünite Diğer
-
-1. -----: Zaman içinde değişen ekolojik faktörlere bağlı olarak bir bölgedeki var olan türlerin ve habitatların sıralı olarak değişim sürecidir. Yukarıdaki cümlede boş bırakılan yeri hangisi doğru şekilde tamamlar?
-    - A-) Etkileşim
-    - B-) Metafor
-    - **Cevap C-) Ardıllık**
-    - D-) İnovasyon
-    - E-) Reaksiyon
     <hr />
 

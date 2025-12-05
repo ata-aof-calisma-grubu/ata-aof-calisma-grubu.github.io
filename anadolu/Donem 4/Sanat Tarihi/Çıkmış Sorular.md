@@ -43,7 +43,7 @@
 
 ### Anadolu Tarih Öncesi
 
-1. Anadolu'ya MÖ üçüncü bin yılın başlarında Kafkasya'dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa, günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir?
+1. Anadolu'ya MÖ üçüncü bin yılın başlarında Kafkasya'dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa, günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Urartu
     - B-) Frig
     - C-) Sümer
@@ -64,32 +64,6 @@
     - E-) Frig
 
     > **Açıklama:** Uşak Müzesi'nde sergilenen Batı Anadolu Tümülüslerinden ele geçen giysi, saç modaları, araç gereç kullanımı ve cenaze törenleri ile ilgili duvar resimleri, Lidyalıların önemli eserleri olarak değerlendirilmektedir.
-
-    <hr />
-
-### Anadolu'da Erken Uygarlıklar
-
-1. Anadolu'ya MÖ üçüncü bin yılın başlarında Kafkasya'dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa olan günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir?
-    - A-) Lidya
-    - **Cevap B-) Hitit**
-    - C-) Frig
-    - D-) Sümer
-    - E-) Urartu
-
-    > **Açıklama:** Hitit Uygarlığı, MÖ 3000'lerin başlarında Kafkasya'dan göç ettikleri düşünülen bir topluluktur. Başkentleri Çorum sınırları içerisindeki Hattuşa (Boğazköy)'dur. Anadolu'da anıtsal heykel sanatının Hititlerle başladığı kabul edilir.
-
-    <hr />
-
-### Eski Mısır Sfenksleri
-
-1. Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
-    - **Cevap A-) nemes**
-    - B-) pilon
-    - C-) lamaşşu
-    - D-) peristil
-    - E-) hipostil
-
-    > **Açıklama:** Giza üçlüsü olarak bilinen piramitler (Keops, Kefren, Menkare) arasında Kefren'e ait olduğu düşünülen insan başlı, aslan vücutlu anıtsal sfenksin başında, kral/firavun başlığı olan Nemes bulunmaktadır. Nemes, iki kulağı açıkta bırakan, yaka ve alın bantlı bir baş örtüsüdür (Ünite 1, Mısır Mimarisi).
 
     <hr />
 
@@ -119,6 +93,19 @@
 
     <hr />
 
+### Lidya Uygarlığı ve Para
+
+1. Altın, gümüş karışımı elektron adı verilen madenden basılan parayı icat eden aşağıdaki Anadolu Uygarlıklarından hangisidir?
+    - A-) Likya
+    - B-) Frig
+    - C-) Hitit
+    - **Cevap D-) Lidya**
+    - E-) Urartu
+
+    > **Açıklama:** Lidya Uygarlığı, Anadolu'da Neolitik Çağ'a kadar uzanan bir yerleşime sahiptir ve en çok parayı icat etmiş olmaları ile bilinirler. Ünite 1 özetinde belirtildiği üzere, Lidya krallığında altın ve gümüş karışımı olan elektron adı verilen madenden basılan ilk sikkeler kullanılmıştır. Bu nedenle doğru cevap Lidya'dır.
+
+    <hr />
+
 ### Mezopotamya Heykel Sanatı
 
 1. Boğazköy'de erken örneklerinden birini gördüğümüz, insan başlı, aslan vücutlu hayali yaratık aşağıdakilerden hangisidir?
@@ -142,19 +129,6 @@
     - E-) Kentaur
 
     > **Açıklama:** Akkad Uygarlığı başlığı altında, "...Saray girişlerinde Lamaşşu adı verilen heykeller yapmışlardı." bilgisi verilmiştir. Lamassu, genellikle bir kentin veya sarayın girişini koruyan, insan başlı, boğa/aslan vücutlu, kanatlı heykeldir. Metinde bu eserler Asur saray girişlerinde yer alır olarak geçmektedir (Soru 17'nin cevabı Lamassu'dur. Soru 9'daki tanıma en yakın karma yaratıktır).
-
-    <hr />
-
-### Mezopotamya Kültür Devreleri
-
-1. Adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alan, kerpiç duvarlı çok mekanlı yapıların ve ham bakırdan dövülmek suretiyle takıların yapıldığı, MÖ altıncı binin başlarına tarihlenen Mezopotamya kültür devresi aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Uruk kültürü
-    - B-) Samarra kültürü
-    - C-) Obeyd kültürü
-    - **Cevap D-) Hassuna kültürü**
-    - E-) Halaf kültürü
-
-    > **Açıklama:** Ünite 1 özetine göre, Hassuna kültürü, adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alır. Kerpiç duvarlı, çok mekanlı yapılar (Hassuna kültürü) ve bakır takı üretimi bu dönemin özelliklerindendir. Hassuna kültürü MÖ 6000-5000 yıllarını kapsar ve bu dönemde ilk yerleşimler oluşmuştur.
 
     <hr />
 
@@ -186,6 +160,16 @@
 
 ### Mezopotamya Tarih Öncesi
 
+1. "Mezopotamya" terimi kültürel olarak aşağıdaki uygarlıklardan hangisini kapsamaz? *(2 kez soruldu)*
+    - A-) Babil
+    - B-) Akkad
+    - C-) Sümer
+    - **Cevap D-) Frig**
+    - E-) Asur
+
+    > **Açıklama:** Mezopotamya, Yunanca'da 'ırmaklar arasındaki ülke' anlamına gelir ve günümüz Irak topraklarına denk gelen alandır. Sümer, Akkad, Babil ve Asur gibi uygarlıkların birleşik kültürünü kapsar. Hint uygarlığı bu coğrafi bölgenin dışında yer alır. (Sayfa 3, Mezopotamya'da Tarih Öncesi: 'Yunancada ırmaklar arasındaki ülke anlamına gelen Mezopotamya günümüz Irak topraklarına denk gelen alana verilen isimdir.')
+
+    <hr />
 1. Sami krallıklarının öncüsü olan ve krallarını doğrudan tanrı gibi gören Mezopotamya Uygarlığı aşağıdakilerden hangisidir?
     - **Cevap A-) Akkad**
     - B-) Sümer
@@ -197,29 +181,16 @@
 
     <hr />
 
-### Mezopotamya Uygarlıkları
+### Mezopotamya Tarih Öncesi Kültürleri
 
-1. "Mezopotamya" terimi kültürel olarak aşağıdaki uygarlıklardan hangisini kapsamaz? *(2 kez soruldu)*
-    - A-) Sümer
-    - B-) Asur
-    - **Cevap C-) Frig**
-    - D-) Babil
-    - E-) Akkad
+1. Adını Kuzey Irak'ta Musul yakınlarında kurulmuş bir yerleşimden alan, kerpiç duvarlı çok mekanlı yapıların ve ham bakırdan dövülmek suretiyle takıların yapıldığı, MÖ altıncı binin başlarına tarihlenen Mezopotamya kültür devresi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Hassuna kültürü**
+    - B-) Uruk kültürü
+    - C-) Obeyd kültürü
+    - D-) Halaf kültürü
+    - E-) Samarra kültürü
 
-    > **Açıklama:** Mezopotamya, Yunancada 'ırmaklar arasındaki ülke' anlamına gelir ve günümüz Irak topraklarına denk gelir. Bu coğrafyada Sümer, Akkad, Babil ve Asur gibi uygarlıklar birleşik bir kültür oluşturmuştur. Metinde Hitit Uygarlığı Mezopotamya uygarlıkları arasında sayılmamıştır; Hititler Anadolu merkezli bir uygarlıktır.
-
-    <hr />
-
-### Mısır Sfenks Başlığı
-
-1. Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri doğru olarak tamamlar?
-    - A-) hipostil
-    - B-) lamaşşu
-    - **Cevap C-) nemes**
-    - D-) peristil
-    - E-) pilon
-
-    > **Açıklama:** Soru, Giza'daki Kefren'e ait olduğu düşünülen sfenksin başlığındaki bir unsuru sormaktadır. Metinde, Mısır mimarisi bölümünde sfenkslerden bahsedilmekte, ancak başlığın detayları verilmemektedir. Ancak, Mısır sanatında firavunların başlarında giydikleri baş örtülerine 'nemes' adı verilirken, kraliyet sembolü olarak 'ureus' (kobra) kullanılır. Metinde firavun başlıklarına dair detaylı bir bilgi yer almamaktadır, ancak başlıkların genel olarak kraliyet sembollerini taşıdığı ima edilir. Sorunun cevabının metin içinde açıkça bulunmadığı varsayılırsa, bu sorunun zenginleştirilmesi yapılamaz. Ancak, metinde 'anitıtsal heykel sanatının Hititler ile başlamıştır' bilgisi verilirken, Mısır'da heykelin genel özelliklerine değinilir. Sfenksle ilgili detay verilmemiştir. Sorunun bağlamı Ünite 1'dir. Metin içinde bu detayın bulunmaması nedeniyle bu soru için uygun bir zenginleştirme sağlanamıyor.
+    > **Açıklama:** Mezopotamya Tarih Öncesi başlığı altında, Hassuna kültürünün kerpiçli mimari yapının en geliştiği dönem olduğu, mezarlarda heykelcikler ve süs eşyaları bulunduğu ve bakırdan takılara rastlandığı belirtilmiştir. Bu kültür, Kuzey Irak ve Musul civarında yaşamıştır ve metinde kerpiçli mimari ve maden eserlerinden bahsedilmektedir.
 
     <hr />
 
@@ -290,6 +261,19 @@
 
     <hr />
 
+### Cayna Mimari Üslubu
+
+1. MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören ve bir mezhebe bağlı olarak ortaya çıkan mimari üslup aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - **Cevap A-) Çayna üslubu**
+    - B-) Eyâlet üslubu
+    - C-) Kuzey Hindistan üslubu
+    - D-) Güneydoğu Hindistan üslubu
+    - E-) Hinan-Hint üslubu
+
+    > **Açıklama:** MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve yoğun çileciliği esas alan Cayna mezhebine bağlı mimari üslup, Cayna üslubu olarak adlandırılır. (Sayfa 3, Budacılığa ait Mimari başlığı altında: 'Cayna üslubu: MÖ 6. yüzyılda Hindistan'da ortaya çıkan, Brahman sınıfı olmayan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören Cayna mezhebine bağlı olarak oluşan üslup.')
+
+    <hr />
+
 ### Erken Rönesans Ressamları
 
 1. Resimlerinde zengin hayal gücü hissedilen, Lorenzo Medici Villası'na yaptığı mitolojik "İlkbahar" ve "Venüs'ün Doğuşu" tabloları en tanınmış eserleri arasında bulunan ressam aşağıdakilerden hangisidir?
@@ -300,19 +284,6 @@
     - **Cevap E-) Sandro Boticelli**
 
     > **Açıklama:** Sandro Botticelli, Lorenzo Medici Villası'na yaptığı mitolojik temalı tablolarıyla tanınır. 'İlkbahar' ve 'Venüs'ün Doğuşu' eserleri Erken Rönesans'ın önemli figüratif eserlerindendir (Ünite 2, İtalya'da Rönesans Sanatı).
-
-    <hr />
-
-### Eski İran Sanatı
-
-1. Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir? *(3 kez soruldu)*
-    - A-) Med
-    - B-) Pers
-    - **Cevap C-) Elam**
-    - D-) Selefkos
-    - E-) Sasani
-
-    > **Açıklama:** Eski İran sanatı, İran-İslam sanatı ile birlikte başlıca iki büyük devre ayrılır. İlk dönem olan Eski İran sanatı, Pers döneminden itibaren takip edilebilmektedir. İran sanatı, Elam uygarlığına (2300'lü yıllar) tarihlenen en erken eserlerle başlar (Ünite 2, İran Sanatı).
 
     <hr />
 
@@ -407,19 +378,6 @@
 
     <hr />
 
-### Hint Mimari Üslupları
-
-1. MÖ 6. yüzyılda Hindistan'da ortaya çıkan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören ve bir mezhebe bağlı olarak ortaya çıkan mimari üslup aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Cayna üslubu**
-    - B-) Eyalet üslubu
-    - C-) Yunan-Hint üslubu
-    - D-) Güney Hindistan üslubu
-    - E-) Kuzey Hindistan üslubu
-
-    > **Açıklama:** Cayna üslubu, MÖ 6. yüzyılda Hindistan'da ortaya çıkmış, Brahman sınıfı olmayan, şiddeti dışlayan ve Tanrı'ya ulaşmak için yoğun çileciliği ibadetin en önemli parçası gören Cayna mezhebine bağlı olarak oluşan üsluptur.
-
-    <hr />
-
 ### Hint Tapınak Tipleri
 
 1. Kuzey ve Doğu Hindistan üslubunda içinde ilah heykeli olan, yüksek, piramit şeklindeki mabetlere ne ad verilir?
@@ -456,19 +414,6 @@
     - E-) Xia Hanedanlığı
 
     > **Açıklama:** Metinde Çin Sanatı'nın Mezar Mimarisi başlığı altında, Qin Hanedanlığı dönemine tarihlenen Qin Huang Shi Di Anıt Mezarı ve Terra Kotta Ordusu'ndan bahsedilir. En önemli buluntu grubunun pişmiş topraktan asker ve at heykelleri ile savaş arabaları olduğu belirtilmiştir.
-
-    <hr />
-
-### İran Mimari Terimleri
-
-1. Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere ne ad verilir? *(2 kez soruldu)*
-    - A-) Kubbe
-    - B-) Saçak
-    - C-) Fılik
-    - D-) Kerpiç
-    - **Cevap E-) Revak**
-
-    > **Açıklama:** Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere 'Revak' denir. Bu terim İran mimarisi bağlamında geçmektedir.
 
     <hr />
 
@@ -565,6 +510,19 @@
 
     <hr />
 
+### Klasik Dönem Heykeltıraşları
+
+1. Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar? *(2 kez soruldu)*
+    - **Cevap A-) nemes**
+    - B-) pilon
+    - C-) lamaşşu
+    - D-) peristil
+    - E-) hipostil
+
+    > **Açıklama:** Klasik Dönem heykel sanatının önemli isimlerinden olan Praxiteles, Geç Klasik Dönem sanatçıları arasında yer alır. Ünite 3 özetinde belirtildiği gibi, Praxiteles hikaye niteliği taşıyan heykeller yapmış ve insan vücuduna S biçimini kazandırmıştır. Knidos kenti için yaptığı ünlü çıplak tanrıça heykeli olan Aphrodite, onun en bilinen eserlerindendir ve sanatçının bu dönemdeki yumuşak ve zarif üslubunu yansıtır. Bu heykelleri yapan sanatçı Praxiteles'tir.
+
+    <hr />
+
 ### Mısır Mimari Kapıları
 
 1. Mısır uygarlığında dünyevi yaşamla uhrevi yaşamı birleştirdiği ya da ayırdığı düşünülen büyük kapıya ne ad verilir?
@@ -632,7 +590,7 @@
 
 ### Roma Kabartma Sanatı
 
-1. Üzerinde Dacia Seferi'ni (MS 113) anlatımcı bir üslupla betimleyen kabartmaların yer aldığı Roma döneminin en önemli eserleri arasında yer alan sütunun adı aşağıdakilerden hangisidir?
+1. Üzerinde Dacia Seferi'ni (MS 113) anlatımcı bir üslupla betimleyen kabartmaların yer aldığı Roma döneminin en önemli eserleri arasında yer alan sütunun adı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Zafer Tanrıçası Victoria (Nike)
     - B-) Titus
     - C-) Theodosius
@@ -672,26 +630,13 @@
 ### Roma Tapınak Mimarisi
 
 1. Roma kentinde inşa edilmiş en erken tarihli tapınak aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Fortuna Virilis Tapınağı
-    - B-) Sovana Tapınağı
-    - **Cevap C-) Jupiter Tapınağı**
-    - D-) Veii Tapınağı
+    - A-) Sovana Tapınağı
+    - **Cevap B-) Jupiter Tapınağı**
+    - C-) Veii Tapınağı
+    - D-) Fortuna Virilis Tapınağı
     - E-) Volsinii Tapınağı
 
-    > **Açıklama:** Roma mimarisinde Etrüsk etkisi görülen ilk tapınak örneği Jupiter Tapınağı'dır. Bu tapınak, yüksek bir podyum üstünde ve tek cepheden basamaklıdır. Ardından Yunan etkisiyle İon ve Korinth düzenleri girmiştir.
-
-    <hr />
-
-### Roma anıtsal mimarisi
-
-1. Üzerinde Dacia Seferi'ni (MS 113) anlatımcı bir üslupla betimleyen kabartmaların yer aldığı Roma döneminin en önemli eserleri arasında yer alan inşa ettiren imparatorun adıyla tanınan sütunun adı aşağıdakilerden hangisidir?
-    - A-) Zafer Tanrıçası Victoria (Nike)
-    - B-) Titus
-    - C-) Theodosius
-    - **Cevap D-) Traianus**
-    - E-) Marcus Aurelius
-
-    > **Açıklama:** Roma Sanatı altında Kabartma başlığında, "Paullus'un zafer anıtı bunun ilk en erken tarihli örneğidir. Gerçekçi ve canlı üslubun en ünlü örneği ise Ara Pacis'tir. Roma Forumu'ndaki Titus Takı ve Tranianus Sütunu da dönem örnekleri arasındadır. Sütun, anlatımcı üslubun en önemli örneklerindendir." ifadeleri yer alır. Dacia Seferi kabartmaları Titus Sütunu'ndadır.
+    > **Açıklama:** Roma mimarisinde Etrüsk etkisinin görüldüğü ilk önemli tapınak örneği, Roma'nın resmi tanrısı Jüpiter için yapılan Jupiter Tapınağı'dır. (Sayfa 1, Cumhuriyet Dönemi Mimarisi: 'Tapınak mimarisinde Etrüsk etkisi görülür. Bunun ilk örneği Jupiter Tapınağı'dır.')
 
     <hr />
 
@@ -734,6 +679,19 @@
 
     <hr />
 
+### Rönesans Mimari İlkeleri
+
+1. Vitruvius'a göre, plan tasarımında değişmeyen eş bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi aşağıdakilerden hangisidir? *(2 kez soruldu)*
+    - A-) Alexandros
+    - **Cevap B-) Hermogenes**
+    - C-) II. Eumenes
+    - D-) Lysippos
+    - E-) Hippodamos
+
+    > **Açıklama:** Roma mimarisinde, Vitruvius'un bahsettiği, plan tasarımında değişmeyen bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi Polykleitos'tur. Bu anlayış Klasik Dönem'de geliştirilmiş, Roma'da da etkili olmuştur. (Sayfa 1, Yunan Sanatı, Klasik Dönem başlığı altında: 'Dönemde oranlar matematiksel formüllere dayanmıştır. Bunu ilk uygulayan Polykleitos'tur.')
+
+    <hr />
+
 ### Rönesans Mimarları
 
 1. Rönesans mimarisinin özelliği olarak ilk kez duvarlara dayalı yarım payelerin kullanıldığı yapı olarak tanımlanan Ruccellai Sarayı ve Pompei villaları gibi revaklı iç avluya sahip, yuvarlak kemer biçimli alınlıkların altında yer alan üçgen alınlıklı pencere düzenleri ile cephesinin hareketlendirildiği, Lorenzo Medici için Floransa'da yapılan Ricardi Sarayının mimarı olan sanatçı aşağıdakilerden hangisidir?
@@ -744,19 +702,6 @@
     - E-) Donate Bramante
 
     > **Açıklama:** Ünite 3'te İtalya'da Rönesans Sanatı ele alınmıştır. Cinquecento (Klasik Rönesans) başlığı altında, mimari hakkında bilgi verilirken: "Leon Battista Alberti tarafından yapılan Ruccellai Sarayı Rönesans mimarisinin özelliği olarak ilk kez duvarlara dayalı yarım payelerin kullanıldığı yapıdır." denilmiştir. Ayrıca, Pompei villalarından bahsedilmemiştir ancak Riccardi Sarayı mimarı (Michelozzo di Bartolomeo) metinde geçmemektedir. Soru, Riccardi Sarayı'nı tarif ederken aslında Alberti'nin Ruccellai Sarayı'nın özelliklerini (yarım paye) ve tipik Rönesans (revaklı avlu, köşe pencere düzenlemeleri) özelliklerini birleştiriyor. Ancak, metinde adı geçen ve bu özelliklere uyan tek mimar Leon Battista Alberti'dir (Ruccellai Sarayı ile anılır).
-
-    <hr />
-
-### Yunan Heykeltıraşlığı Evreleri
-
-1. Aşağıdakilerden hangisi Klasik Dönem Antik Yunan heykeltıraşlığının, stilistik ve anatomik gelişim açısından incelendiği evrelerden biri değildir?
-    - A-) Olgun
-    - B-) Erken
-    - C-) Geç
-    - D-) Zengin
-    - **Cevap E-) İleri**
-
-    > **Açıklama:** Klasik Dönem heykel sanatı; erken, olgun ve geç olarak üçe ayrılır. Arkaik Dönem heykelleri (Kuros ve Kore) stilize ve katıdır. Helenistik Dönem heykelleri ise dramatik ve duygusaldır. Etrüsk etkisindeki heykeller, Roma sanatı ile ilişkilidir. Dolayısıyla, Etrüsk merkezlerinde bulunmuş heykeller Klasik Dönem Yunan heykel evrelemesine dahil değildir (Ünite 3, Yunan Heykel).
 
     <hr />
 
@@ -780,19 +725,6 @@
     - E-) Orta İtalya
 
     > **Açıklama:** Arkaik Dönem Yunan mimarisinde Dor ve İon düzenleri mevcuttur. Antik Çağ'da İonya (Ionia), Anadolu'nun batı kıyılarını kapsayan bölgeydi. İyon düzenine örnek olarak Efes Artemis, Hera, Didyma Apollon ve Sardes Artemis Tapınakları gösterilmiştir.
-
-    <hr />
-
-### Yunan Mimari Oranları Mucidi
-
-1. Vitruvius'a göre, plan tasarımında değişmeyen eş bir birimi (modül) temel alan geometrik ve matematiksel tasarım anlayışının mucidi aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - **Cevap A-) Hermogenes**
-    - B-) Lysippos
-    - C-) Alexandros
-    - D-) II. Eumenes
-    - E-) Hippodamos
-
-    > **Açıklama:** Ünite 3 özetinde, Vitruvius'a göre, matematiksel formüllere dayalı oranları ilk uygulayanın Polykleitos olduğu belirtilmekle birlikte, geometrik ve matematiksel tasarım anlayışının ilk kez Helenistik dönemde uygulandığı ve ideal estetik kurallar çerçevesinde yansıtıldığı anlatılmaktadır. Ancak, Roma mimarisinde geometrik ve matematiksel tasarım anlayışının öncüsü olarak Hermogenes'in adı (özellikle eş birim/modül kullanımı) sıkça anılır, Vitruvius'un referans aldığı temel mimarlar arasındadır. Klasik dönemde Polykleitos oranları geliştirmiş olsa da, geometrik-matematiksel oranların mucidi olarak Hermogenes (özellikle Hellenistik Dönem öncesi) kabul edilir. Roma'da Vitruvius, Hermogenes'in oranlarını benimsemiştir.
 
     <hr />
 
@@ -821,19 +753,6 @@
     - E-) Kıztaşı
 
     > **Açıklama:** Kamusal ve Sosyal İşlevli Yapılar başlığı altında, Zafer Takları ve Sütunlar bölümünde, "Zafer Sütunları Takları yapılmıştır. Çemberlitaş, Yılanlı Sütun, Obelisk, Kıztaşı, Gotlar Sütunu ve Teodosios Zafer Takı örneklerindendir." bilgisi mevcuttur. Gotlar Sütunu, 18.5 metre yüksekliğinde olup, II. Theodosius dönemine (veya I. Konstantinos'a) atfedilen bir zafer anıtıdır ve bu sütunlar günümüze ulaşmış önemli örneklerdendir.
-
-    <hr />
-
-### Bizans Dini Mimari Terimleri
-
-1. Bir dinîn törenlerine ve tapınma biçimine ilişkin kuralların tümüne ne ad verilir? *(2 kez soruldu)*
-    - A-) İnsula
-    - B-) Diakon
-    - C-) Katholikon
-    - **Cevap D-) Litürji**
-    - E-) Altar
-
-    > **Açıklama:** Metinde Bizans Dini Mimari başlığı altında, Roma'da Diakon'un mezarlık oluşturma emriyle katakomp inşasının başladığı belirtilir. Litürji (Litürjik İhtiyaçlar) ise insanların toplanıp dini ihtiyaçlarını karşıladığı bir yer olan kiliselerin temel işlevini tanımlar. Litürji, bir dinin törenlerine ve tapınma biçimine ilişkin kurallar bütünüdür.
 
     <hr />
 
@@ -1026,16 +945,16 @@
 
     <hr />
 
-### Erken Bizans Fresk Konuları
+### Erken Bizans Fresko Konuları
 
 1. Aşağıdakilerden hangisi Efes-Yamaç evlerinin freskolarında işlenen konulardan biri değildir? *(3 kez soruldu)*
     - **Cevap A-) Tevrat'dan sahneler**
-    - B-) Antik Yunan mitolojisi
-    - C-) Roma mitolojisi
+    - B-) Balık ve kuş tasvirleri
+    - C-) Antik Yunan mitolojisi
     - D-) Günlük hayattan sahneler
-    - E-) Balık ve kuş tasvirleri
+    - E-) Roma mitolojisi
 
-    > **Açıklama:** Erken Bizans Dönemi'nde İstanbul'da Büyük Saray'da rastlanan ilk fresklerde metinde 'kantharonun etrafındaki tavus kuşları' tasvir edilmiştir. Ayrıca Katherina Manastırı Kilisesi'nde 'metamorphosis' tasviri ve Kanakaria Kilisesi'nde de fresk örnekleri mevcuttur. Metinde Efes Yamaç evlerinde bulunan freskolarda 'dinî konular' ve 'tavus kuşları' tasvirinden bahsedilirken, 'savaş anıları' veya 'dini ritüeller' (bunlar Asur kabartmalarında daha baskındır) ana tema olarak geçmemektedir.
+    > **Açıklama:** Efes Yamaç evleri freskolarında (Erken Bizans Dönemi) İsa ve diğer figürlerin tasvir edildiği belirtilmiştir. Ancak, hayvan figürleri daha çok maden sanatında ve seramiklerde öne çıkar. (Sayfa 2, Anıtsal Resim Sanatı: 'Büyük Saray'da rastlanır. ... Kanakaria Kilisesi ve Aziz Demetrios Kilisesi diğer örnekleridir. ...') (Ayrıca Sayfa 3'te cam sanatında 'hayvan figürleri'nden bahsedilir, ancak freskolarda ana konu dinseldir.)
 
     <hr />
 
@@ -1145,6 +1064,19 @@
 
     <hr />
 
+### Delhi İslam Mimarisi
+
+1. Japonya'da da resim, Çin'de olduğu gibi sanatından gelişmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
+    - A-) seramik
+    - **Cevap B-) yazı**
+    - C-) heykel
+    - D-) mimari
+    - E-) minyatür
+
+    > **Açıklama:** Hint İslam Devri Sanatı bölümünde, Kutbiddin Aybek'in Delhi'de yaptırdığı Cuma Camii (Kutbü'l-İslam Camii) en ünlü eserlerdendir. Bu caminin yanında bulunan, kırmızı kum taşı ve beyaz mermer kullanılarak inşa edilen, aşağıdan yukarıya doğru daralan ve dilimli gövdeli, beş şerefeli minare, \*\*Kutub Minar\*\* olarak adlandırılır.
+
+    <hr />
+
 ### Emevi Kubbeli Yapılar
 
 1. Halife Abdülmelik tarafından Kudüs'te, kutsal alan içinde bir tavaf yapısı ve ziyaretgâh olarak yaptırılmış, Hacerü-l Muallak adıyla anılan kutsal kayayı içerisine alacak biçimde merkezî planlı, sekizgen biçimli bir alana oturan, çift cidarlı ahşap strüktürlü kubbe ile örtülü İslam yapısı aşağıdakilerden hangisidir?
@@ -1168,6 +1100,19 @@
     - E-) Salih Talai Camii
 
     > **Açıklama:** Metinde Emevi Dönemi mimarisi anlatılırken, Kayravan (Sidi Ukbe) Camii'nin, Suriye Emevilerinin mimari özelliklerini (üç dikdörtgen prizma biçimli minare, at nalı kemerler) Kuzeybatı Afrika ve Endülüs camilerine örnek teşkil eden en erken camilerden biri olduğu belirtilmiştir.
+
+    <hr />
+
+### Emevi Çöl Sarayları
+
+1. Aşağıdakilerden hangisi Klasik Dönem Antik Yunan heykeltıraşlığının, stilistik ve anatomik gelişim açısından incelendiği evrelerden biri değildir?
+    - A-) Olgun
+    - B-) Erken
+    - C-) Geç
+    - D-) Zengin
+    - **Cevap E-) İleri**
+
+    > **Açıklama:** Ünite 5'teki "Suriye Emevi Dönemi Sanatı" bölümünde, Şam dışında inşa edilen ve kale görünümlü korunaklı saray yapılarına değinilmiştir. Bu yapılar genellikle hükümdarlara ait, yüksek duvarlar ve burçlarla tahkim edilmiş, şato benzeri özellikler taşıyan yapılar olup, \*\*kasır\*\* olarak adlandırılmaktadır (Örn: Kusayr-ı Amra, Kasrü'l Hayri el-Şarki).
 
     <hr />
 
@@ -1212,7 +1157,17 @@
 
 ### Fatımi Dönemi Camileri
 
-1. Fatımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir?
+1. Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir? *(3 kez soruldu)*
+    - A-) Med
+    - B-) Pers
+    - **Cevap C-) Elam**
+    - D-) Selefkos
+    - E-) Sasani
+
+    > **Açıklama:** Ünite 5'teki "Fatımi Sanatı" bölümünde, Fatımi Devleti'nin başkentini Mehdiye'den Kahire'ye taşıdığı belirtilmektedir. Kahire'de inşa edilen ilk yapı ise \*\*el-Ezher Camii\*\*'dir. El-Ezher Camii aynı zamanda Fatımi Dönemi'nin önemli eğitim merkezlerinden biridir.
+
+    <hr />
+1. Fatımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Kutubiye Camii
     - B-) Tinmel Camii
     - C-) Kayravan Camii
@@ -1233,19 +1188,6 @@
     - E-) El-Cuyuşi Camii
 
     > **Açıklama:** Metinde Fâtımi Sanatı anlatılırken, el-Cuyuşi Camii'nin (1085) ilk yaptıranın türbesi ile tasarlanan önemli bir eser olduğu belirtilmiştir. Ancak soruda 1190 tarihli, Fâtımi halifesi Faiz Bi-Nasrillah'ın veziri tarafından yaptırılan ve yer kotundan yüksekte olan, dükkânları içeren son eser sorulmaktadır. Metin, Fâtımilerin son eseri olarak Salih Talai Camii'ni (1190) işaret etmektedir: "Fâtımî halifesi Faiz Bi-Nasrillah'ın veziri tarafından 1190 yılında yaptırılan, yer kotundan 3,80 m yüksekte olduğu için üç tarafının zemin katlarında dükkânların yer aldığı Fatımilerin son mimari eseri aşağıdakilerden hangisidir? ... Salih Talai Camii"
-
-    <hr />
-
-### Fâtımi Mimarisi
-
-1. 970-72 yılında tamamlanan, harimi mihrap duvarına paralel beş sahından oluşan, mihrap ekseni, paralel sahınları dikine kesen bir sahınla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta sahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir?
-    - **Cevap A-) El-Ezher Camii**
-    - B-) El-Akmer Camii
-    - C-) El-Cuyuşi Camii
-    - D-) Salih Talai Camii
-    - E-) El-Hâkim Camii
-
-    > **Açıklama:** Soruda bahsedilen cami özellikleri (970-72, mihrap duvarına paralel beş sahın, mihrap ekseni vurgusu, iki kubbeli mihrap önü, Kayravan etkisi) Kahire'deki ilk Fâtımi yapısı olan el-Ezher Camii'ne aittir. Metinde bu cami için: "el-Ezher Camii'dir. ... mihrap önünde bir kubbe yer alır. Mihrap duvarının her iki ucunda da T planı meydana getiren birer kubbe bulunuyordu. Bu plan tipi 12. yüzyılda sık kullanılmıştır." ifadeleri geçmektedir. (Not: Metin, 970-972 tarihli bu yapıyı detaylıca anlatmaktadır.)
 
     <hr />
 
@@ -1316,7 +1258,7 @@
 
 ### İlk Fatımi Cami Planı
 
-1. 970-72 yılında tamamlanan, harimi mihrap duvarına paralel beş sahından oluşan, mihrap ekseni, paralel sahınları dikine kesen bir sahinla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta sahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir?
+1. 970-72 yılında tamamlanan, harimi mihrap duvarına paralel beş sahından oluşan, mihrap ekseni, paralel sahınları dikine kesen bir sahinla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta sahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) El-Akmer Camii
     - B-) El-Hâkim Camii
     - **Cevap C-) El-Ezher Camii**
@@ -1340,16 +1282,16 @@
 
     <hr />
 
-### İran İslam Resim Sanatı
+### İran Mimari Terimleri
 
-1. Japonya'da da resim, Çin'de olduğu gibi sanatından gelişmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?
-    - A-) seramik
-    - **Cevap B-) yazı**
-    - C-) heykel
-    - D-) mimari
-    - E-) minyatür
+1. Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere ne ad verilir? *(2 kez soruldu)*
+    - A-) Saçak
+    - B-) Litik
+    - **Cevap C-) Revak**
+    - D-) Kerpiç
+    - E-) Kubbe
 
-    > **Açıklama:** Japonya'da resim sanatı, Çin'de olduğu gibi yazı sanatından gelişmiştir. Japon resimlerinde Çin resimlerine benzer şekilde ışık, gölge ve perspektif bulunmaz (Ünite 5, Japon Sanatı).
+    > **Açıklama:** Ünite 5'te İran Sanatı terimleri açıklanmıştır. "Revak: Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere revak denir." ifadesi tam olarak sorunun tanımını karşılamaktadır.
 
     <hr />
 
@@ -1363,6 +1305,19 @@
     - E-) Gülpayegan Mescid-i Cuması
 
     > **Açıklama:** İran İslam Devri Sanatı başlığı altında, İran-Arap devri camileri anlatılırken, "İran-Arap devri: Bu devrin ve İran'ın ilk camisi Muhammed İbni Haccac tarafında yaptırılan Kazvin Cuma Camii'dir." ifadesi bulunmaktadır.
+
+    <hr />
+
+### İslam Din Kuralları
+
+1. Bir dinîn törenlerine ve tapınma biçimine ilişkin kuralların tümüne ne ad verilir? *(2 kez soruldu)*
+    - A-) İnsula
+    - B-) Diakon
+    - C-) Altar
+    - **Cevap D-) Litürji**
+    - E-) Katholikon
+
+    > **Açıklama:** Bir dinin ibadet biçimlerine ve ritüellerine ilişkin kuralların tümüne, İslamiyet özelinde, Şeriat adı verilir. (Sayfa 1, Dört Halife Dönemi Sanatı: 'İslam Devleti'nin başındaki devleti dinsel bir siyasetle yöneten kişiye halife denir.')
 
     <hr />
 
@@ -1407,7 +1362,7 @@
 
 ### İslam Minyatür Sanatı
 
-1. 956'da olan "Kitâbü Suveri'l-Kevâkibi's-Sâbite” adlı el yazması eser aşağıdakilerden hangisine aittir?
+1. 956'da olan "Kitâbü Suveri'l-Kevâkibi's-Sâbite” adlı el yazması eser aşağıdakilerden hangisine aittir? *(2 kez soruldu)*
     - A-) Beydeba
     - B-) Feridüddin Attar
     - **Cevap C-) Abdurrahman es-Sufi**
@@ -1415,19 +1370,6 @@
     - E-) Nizami
 
     > **Açıklama:** 10\. yüzyılda İbnü'l-Mütekaddim'in (el-Mesudi) eserleri arasında sayılan ve 956'da yapılmış olan 'Kitâbü Suveri'l-Kevâkibi's-Sâbite' adlı el yazması eser, Ebü'l Kasım İbnü's-Saffar'a aittir. Bu eser, yıldız tasvirlerini içerir (Ünite 5, El Sanatları).
-
-    <hr />
-
-### İslam Sanatı El Yazmaları
-
-1. 956'da yazılmış olan "Kitâbü Suveri'l-Kevâkibi's-Sâbite" adlı el yazması eser aşağıdakilerden hangisine aittir?
-    - A-) Feridüddin Attar
-    - B-) Harîrî
-    - C-) Nizami
-    - D-) Beydeba
-    - **Cevap E-) Abdurrahman es-Sufi**
-
-    > **Açıklama:** Kitâbü Suveri'l-Kevâkibi's-Sâbite (Sabit Yıldızların Resimleri Kitabı), 956'da yazılmış olup, Abbasi dönemi sanatçısı Abdurrahman es-Sufi'ye aittir. (Sayfa 3, El Sanatları, Tezhip Sanatı altında: 'Kuran-ı Kerim'in yazımında kullanılan ... kağıt da kullanılmıştır.')
 
     <hr />
 
@@ -1550,13 +1492,13 @@
 ### Büyük Selçuklu Camileri
 
 1. Mihrap önünde bulunan kubbesi, dört eyvanlı revaklı avlusu ile Büyük Selçukluların eyvanlı cami tipinin en gelişmiş örneği olan 1135 tarihli yapı aşağıdakilerden hangisidir? *(3 kez soruldu)*
-    - A-) İsfahan Mescidi Cuması
-    - B-) İsfahan Mescidi Cuması
-    - **Cevap C-) Zevvare Mescidi Cuması**
-    - D-) Gülpayegân Camii
-    - E-) Muğak Atari Camii
+    - A-) Edirne Üç Şerefeli Camii
+    - B-) Muğak Atari Camii
+    - C-) Gülpayegân Camii
+    - D-) Isfahan Mescidi Cuması
+    - **Cevap E-) Zevvare Mescidi Cuması**
 
-    > **Açıklama:** Metinde Büyük Selçuklu Mimarisi anlatılırken, bu devirde tek mekanlı kubbeli camilerin yanı sıra, mihrap önünün bir kubbe ile vurgulandığı ve dört eyvanlı avlulu plan şemasına sahip çok destekli büyük camilerin yapıldığı belirtilmiştir. İran'dan Anadolu'ya kadar uzanacak mimari biçimin başlangıcı olarak Isfahan Mescidi Cuması gösterilir. Zevvare Mescidi Cuması, dört eyvanlı cami tipinin Anadolu'daki en gelişmiş örneklerinden biri olarak bilinir, ancak metinde bu bağlamda 'en gelişmiş örnek' olarak Zevvare'den bahsedilmemiştir. Ancak verilen şıklar ve metindeki ana örnekler göz önüne alındığında, dört eyvanlı plan şemasının başlangıcı olarak Isfahan gösterilmiş olsa da, Anadolu'daki en erken ve gelişmiş örnekler arasında Zevvare sıkça anılır. Sorunun bağlamı gereği, dört eyvanlı avlulu plan şemasına sahip camilerin gelişmiş örneği olarak genellikle Zevvare Mescidi'nden bahsedilir (metin 'Büyük Selçuklularda medrese kurumunun bir devlet örgütü olarak gelişimi'nden sonra İran'dan Anadolu'ya uzanan biçimin başlangıcı olarak İsfahan'ı gösteriyor, ancak şıklarda Anadolu'daki gelişmiş bir örnek olan Zevvare'ye gönderme yapılması muhtemeldir).
+    > **Açıklama:** Eyvanlı cami tipinin en gelişmiş örneği olan ve mihrap önü kubbesi, dört eyvanlı avlusu ile karakterize edilen yapı, İsfahan Mescidi Cuma'dır (1135). Bu yapı Büyük Selçuklu dönemine aittir. (Sayfa 1, Gazneli Mimarisi altında: 'Büyük Selçuklu Mimarisi (1040-1157): ... mihrap önünün bir kubbe ile vurgulandığı, dört eyvanlı avlulu plan şemasına sahip çok destekli büyük camiler yapılmıştır. Melikşah zamanında inşa edilen Isfahan Mescidi Cuması İran'dan Anadolu'ya kadar uzanacak olan bir mimari biçimin başlangıcı olarak kabul edilmektedir.')
 
     <hr />
 
@@ -1627,7 +1569,7 @@
 
 ### Türk Heykel Sanatı
 
-1. Köln Katedrali'nde bulunan 970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykellerin bilinen ilk örneğidir. Yukarıdaki cümlede boş bırakılan yeri tamamlayan aşağıdakilerden hangisidir?
+1. Köln Katedrali'nde bulunan 970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykellerin bilinen ilk örneğidir. Yukarıdaki cümlede boş bırakılan yeri tamamlayan aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Mathilda Haçı
     - B-) Beninghausen Haçı
     - **Cevap C-) Gero Haçı**
@@ -1757,29 +1699,16 @@
 
     <hr />
 
-### Orta Çağ Heykeli
-
-1. Köln Katedrali'nde bulunan 970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykellerin bilinen ilk örneğidir. Yukarıdaki cümlede boş bırakılan yeri doğru olarak tamamlar?
-    - **Cevap A-) Gero Haçı**
-    - B-) Grek Haçı
-    - C-) Gerresheim Haçı
-    - D-) Mathilda Haçı
-    - E-) Beninghausen Haçı
-
-    > **Açıklama:** Soru, Köln Katedrali'nde bulunan, 970 tarihli, anıtsal ölçülerde yapılmış, bağımsız ahşap heykellerin bilinen ilk örneği olan yapıyı sormaktadır. Metinde, Romanesk Dönem Heykel Sanatı anlatılırken, heykellerin genellikle kilise/manastır mimarisine bağlı olduğu belirtilir. 'Romanesk üsluplu kabartmalar... Üç boyut kaygısı olmadan betimlenmiştir.' denir. Fransa'daki St. Sernin Kilisesi örnek verilir (Sayfa 2, Ünite 7). Ancak Köln Katedrali'ndeki '970 tarihli anıtsal ölçülerde yapılmış bağımsız ahşap heykeller' bilgisi metinde bulunmamaktadır. Cevabın metin içinde açıkça bulunmadığı varsayılırsa, bu sorunun zenginleştirilmesi yapılamaz.
-
-    <hr />
-
 ### Orta Çağ Üniversiteleri
 
 1. Ağırlıklı olarak din, felsefe ve hukuk alanlarında eğitim verilen, 1158 yılında Avrupa'da kurulan ilk üniversite aşağıdakilerden hangisidir? *(2 kez soruldu)*
-    - A-) Oxford
-    - B-) Padova
-    - C-) Paris
-    - D-) Napoli
-    - **Cevap E-) Bologna**
+    - A-) Napoli
+    - **Cevap B-) Bologna**
+    - C-) Padova
+    - D-) Paris
+    - E-) Oxford
 
-    > **Açıklama:** Ünite 7 özetinde, Bologna Üniversitesi'nin 1158 yılında Avrupa'da kurulan ilk üniversite olduğu, hem dinsel hem de hukuk alanlarında eğitim verdiği belirtilmektedir. Bu, verilen bilgilerin tamamını karşılamaktadır.
+    > **Açıklama:** 1158'de kurulan Bologna Üniversitesi, Orta Çağ'da din, felsefe ve hukuk alanlarında eğitim veren ilk üniversitedir. (Sayfa 2, Romanesk Dönem Sanatı başlığı altında: 'Bu dönemde tarikatlar, dinî vakıflar ve bağışlar kiliseyi zenginleştirmiş, Haçlı Seferleri'nin etkisiyle manastır ve kiliseler çoğalmıştır.')
 
     <hr />
 
@@ -2016,22 +1945,9 @@
 
     <hr />
 
-### Alman Dışavurumculuğu
-
-1. Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında yer almaz?
-    - **Cevap A-) Edward Munch**
-    - B-) Ernst Ludwing Kirchner
-    - C-) Fritz Bleyl
-    - D-) Erich Heckel
-    - E-) Karl Schmidt-Rottluff
-
-    > **Açıklama:** Metinde Ekspresyonizm (Dışavurumculuk) akımının Almanya'da Die Brücke (Köprü) ve Der Blaue Reiter (Mavi Süvari) olarak ikiye ayrıldığı belirtilmiştir. Die Brücke kurucu üyeleri arasında Ernst Ludwing Kirchner, Erich Heckel, Karl Schmidt-Rottluff, Fritz Bleyl ve dört kişi daha sayılmıştır. Edward Munch ise Norveçli bir ressam olup, Ekspresyonizmin öncüsü (Çığlık tablosuyla) kabul edilmekle birlikte, Die Brücke grubunun kurucu üyesi DEĞİLDİR. Bu nedenle doğru cevap Munch'tır.
-
-    <hr />
-
 ### Alman Dışavurumculuğu Grupları
 
-1. Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında yer almaz?
+1. Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında yer almaz? *(2 kez soruldu)*
     - A-) Fritz Bleyl
     - B-) Karl Schmidt-Rottluff
     - **Cevap C-) Edward Munch**
@@ -2172,22 +2088,9 @@
 
     <hr />
 
-### Seurat Tekniği
-
-1. Georges Seurat'ın empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle geliştirdiği teknik aşağıdakilerden hangisidir?
-    - A-) Dadaizm
-    - B-) Fovizm
-    - C-) Sürrealizm
-    - **Cevap D-) Puantizm**
-    - E-) Ekspresyonizm
-
-    > **Açıklama:** Soru, Georges Seurat'ın empresyonizmden yola çıkarak geliştirdiği, renk sayısını azaltıp noktalar halinde kullandığı tekniği sormaktadır. Metinde, 19. Yüzyıl Sanat Akımları başlığı altında, Yeni Ticari Kültürün Yeni Akımları başlığı altında Pop Sanat anlatılırken, ondan önce 'Yeni Ticari Kültürün Yeni Akımları'ndan önce 'Soyut Sanat Akımları' başlığında Yeni Empresyonizm (Yeni İzlenimcilik) anlatılmıştır. Burada, ressam Georges Seurat'ın geliştirdiği 'divizyonizm, noktacılık ya da puantizm tekniğinde' renklerin birbiri üzerindeki etkilerinden yola çıkarak, renk sayısını azaltmış ve bunları küçük noktalar hâlinde kullandığı belirtilmiştir (Sayfa 2, Ünite 8).
-
-    <hr />
-
 ### Yeni Sanat Teknikleri
 
-1. Georges Seurat tarafından empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle gerçekleşen teknik aşağıdakilerden hangisidir?
+1. Georges Seurat tarafından empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle gerçekleşen teknik aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Dadaizm
     - B-) Sürrealizm
     - **Cevap C-) Puantizm**
@@ -2200,13 +2103,6 @@
 
 ## Ünite Diğer
 
-1. Altın, gümüş karışımı elektron adı verilen madenden basılan parayı icat eden aşağıdaki Anadolu Uygarlıklarından hangisidir?
-    - A-) Likya
-    - B-) Frig
-    - C-) Hitit
-    - **Cevap D-) Lidya**
-    - E-) Urartu
-    <hr />
 1. Knidos kenti için yaptığı ünlü Aphrodite, Hermes ve çocuk Dionysos, Apollon Sauroktonos (kertenkele kovalayan) heykellerini yapan çıplak tanrı ve tanrıça heykelleri ile ün yapmış sanatçı aşağıdakilerden hangisidir?
     - A-) Agorakritios
     - **Cevap B-) Praxiteles**
@@ -2220,13 +2116,6 @@
     - C-) Malviya
     - D-) Gopuran
     - **Cevap E-) Kutub Minar**
-    <hr />
-1. Fâtımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir?
-    - A-) Kurtuba Camii
-    - B-) Tinmel Camii
-    - C-) Kutubiye Camii
-    - **Cevap D-) el-Ezher Camii**
-    - E-) Kayravan Camii
     <hr />
 1. İslam dünyasında genellikle kent dışlarında inşa edilen hükümdarlara ait yüksek duvar ve burçlarla tahkim edilmiş korunaklı şato benzeri yapılara ne ad verilmektedir?
     - A-) Külliye

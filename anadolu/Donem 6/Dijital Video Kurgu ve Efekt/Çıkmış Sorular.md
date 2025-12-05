@@ -14,16 +14,6 @@
     > **Açıklama:** Edwin S. Porter, günümüzde izlemeye alışık olduğumuz, belli bir anlatı dizisi olan filmler üretmeyi amaçlayan Amerikalı film yapımcısıdır. Metinde 'Büyük Tren Soygunu' (1903) ve 'Amerikalı İtfaiyecinin Hayatı' (1903) filmleri Edwin Porter'a atfedilmiştir. (Metin Sayfa 2)
 
     <hr />
-1. Aşağıdakilerden hangisi Lumiere Kardeşler'in yönettiği filmlerden biridir?
-    - A-) Büyük Tren Soygunu
-    - **Cevap B-) İşçilerin Fabrikadan Çıkışı**
-    - C-) Yurttaş Kane
-    - D-) Bisiklet Hırsızı
-    - E-) Ay'a Seyahat
-
-    > **Açıklama:** Lumière kardeşler, gerçek zaman ve mekana bağlı, tek çekimden oluşan, içerik kurgusuna (iç hareket) odaklanan filmler üretmişlerdir. Metinde onların 'Trenin Gara Girişi' ve 'İşçilerin Fabrikadan Çıkışı' gibi tek çekimden oluşan filmlerinden bahsedilmiştir. (Metin Sayfa 1)
-
-    <hr />
 
 ### Çekim Ölçekleri
 
@@ -78,16 +68,6 @@
     > **Açıklama:** Metinde Thomas Edison'un da bir dönem kameramanlığını yapmış olan Edwin S. Porter'dan bahsedilmektedir. Ancak bu sorunun cevabını bulmak için Thomas Edison'un 'kinetografı' ilk kullananlardan biri olduğu bilgisi gereklidir. Kinetograf, Thomas Edison'un 1891'de geliştirdiği, filmin ilk görsel kayıt cihazıdır (sözlü kaynaklarda bu bilgi teyit edilmektedir, özetlerde Edison'un adı geçmektedir). Metinde Edison'dan bahsedilmesi ve kinetografın ilk hareketli görüntü cihazı olması nedeniyle D şıkkı doğrudur.
 
     <hr />
-1. Aşağıdakilerden hangisi bilinen ilk hareketli görüntü cihazıdır?
-    - A-) Stenograf
-    - B-) Kinema
-    - C-) Gramofon
-    - D-) Gearofon
-    - **Cevap E-) Kinetograf**
-
-    > **Açıklama:** Metinde, sinema tarihinde 1920'lerden itibaren ses kaydı için kullanılan manyetik bantların 1950'lerde görüntüleri de kaydedebilecek seviyeye ulaşmasıyla televizyon endüstrisinin ihtiyaçlarını karşılayabilmeye başladığı belirtilmektedir. Ancak, ilk hareketli görüntü cihazı 'Kinetograf'tır. Kinetograf, Thomas Edison tarafından geliştirilmiştir ve bu bilgi bağlamında E şıkkı doğrudur. (Not: Metin 2'de Kinetograf kelimesi geçmektedir.)
-
-    <hr />
 
 ### Film Yapım Aşamaları
 
@@ -99,6 +79,19 @@
     - E-) Pre prodüksiyon
 
     > **Açıklama:** Kurgu süreci, yapım (prodüksiyon) aşamasından sonra başlayan ve filmin son haline getirilmesini içeren post prodüksiyon aşamasının kritik bir kısmıdır.
+
+    <hr />
+
+### Georges Méliès Filmleri
+
+1. Aşağıdakilerden hangisi Georges Melies'in filmlerinden biridir?
+    - **Cevap A-) Kaybolan Kadın**
+    - B-) Büyük Tren Soygunu
+    - C-) Trenin Gara Girişi
+    - D-) Bisiklet Hırsızları
+    - E-) Kuşlar
+
+    > **Açıklama:** Georges Méliès, Lumière kardeşlerin gerçekçi yaklaşımlarının ötesinde, kendi hayal dünyasını yansıtmayı amaçlayan biçimci bir yönetmendir. Kurguyu sihirbazlığı andıran numaralar ve anlatımlar için bir araç olarak kullanmıştır. 'Aya Seyahat' (1902) veya 'Kaybolan Kadın' (1896) gibi filmleri, kurgu aracılığıyla filmik zaman ve mekan üreterek bu çabalarını ortaya koymuştur (Ünite 2).
 
     <hr />
 
@@ -130,7 +123,7 @@
 
 ### Video Kurgu Tarihçesi
 
-1. Aşağıdakilerden hangisi ilk hareketli görüntü cihazıdır?
+1. Aşağıdakilerden hangisi ilk hareketli görüntü cihazıdır? *(2 kez soruldu)*
     - A-) Gearofon
     - B-) Kinema
     - C-) Stenograf
@@ -142,19 +135,6 @@
     <hr />
 
 ## Ünite 3
-
-### Ani Pan Tekniği
-
-1. Siyah ekrandan beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniğine ne ad verilir?
-    - A-) Netleşme
-    - B-) Kararma
-    - C-) Açılma
-    - D-) Bindirme
-    - **Cevap E-) İris-in**
-
-    > **Açıklama:** Siyah ekrandan beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniği, genellikle 'Dissolve' (Zincirleme) veya 'Wipe' (Silme) geçişlerinin bir çeşidiyle ilişkilidir. Ancak, metinlerdeki geçiş teknikleri arasında bu tanıma tam olarak uyan bir teknik yoktur. Ancak, Soru 16'da bahsedilen ses köprüsü (ses geçişi) gibi bir geçiş tekniği kurguda da mevcuttur. Ünite 3'teki 'Ani Pan Tekniği (Whip Pan/Flash Pan/Swish Pan)' başlığı, hızlı pan hareketiyle iki konuyu birbirine bağladığını belirtir, ancak dairenin genişlemesiyle ilgili değildir. 'Fade-in' ve 'Fade-out' ise ses için tanımlanmıştır (Ünite 3, Ünite 8). 'Fade-in' genelde bir sahnenin başlangıcında görüntünün yavaşça açılmasıdır ve bir dairenin genişlemesi gibi görsel bir açılma hissi yaratır. Ünite 3'te Sıçramalı Kesme Tekniği'nde Jean-Luc Godard'ın filmi örnek verilmiştir. Ani Pan Tekniği ise hızlı panlama ile yapılır. Zincirleme (Dissolve) geçişi, iki görüntünün yavaşça birbirinin üzerine gelmesi ve birinin diğerini yavaşça yok etmesidir. Soru, görsel bir açılma/genişleme efekti soruyor; bu da genellikle 'Fade-in' ile ilgilidir. Ünite 3'te 'Fade-in' ses için tanımlanmıştır, ancak görsel geçişlerde de uygulanır. Seçenekler verilmediği için, görsel bir açılma hissi veren en temel geçiş türü olan Fade-in (görüntüde yavaşça açılma) en yakın cevaptır. Ancak bu teknik görsel geçişler başlığı altında doğrudan ismen verilmemiştir (sadece ses için Fade-in/Fade-out geçişleri geçmiştir). Ani Pan tekniği hızlı bir hareket içerir, daire genişlemesi ise yavaş bir açılmayı/geçişi ifade eder. En yakın görsel geçiş türlerinden biri olarak Dissolve (zincirleme) veya Fade-in (görüntüde) kabul edilebilir. Şıklar olmadan en doğru varsayım, görsel bir açılma tekniği olan 'Fade-in'in görsel karşılığıdır. Ani Pan (Whip Pan) hızlıdır. Bu soruyu cevaplamak için verilen metinlerdeki geçiş tekniklerinden birine atıf yapılmalıdır. Ünite 3'te 'Fade-in' geçişi görsel olarak bir açılma/genişleme hissi verir ve bu, siyah ekrandan yavaşça açılan bir daireye benzetilebilir (genellikle görsel 'Fade-in' siyah-beyaz filmde yapılır).
-
-    <hr />
 
 ### Devamlılık Kurgusu
 
@@ -266,20 +246,10 @@
     > **Açıklama:** Ünite 3'teki 'Kesmenin Zamanı ve Nedeni' başlığı altında, 'Film kurgusunun sağlıklı ilerleyebilmesi için kesmenin zamanlamasını anlatı bağlamında yanıtlayabilecek daha doğru ve her zaman sorulması gereken bir soru vardır: “Kesmenin nedeni nedir?”' ifadesi geçmektedir. Bu, kurgu kararlarının arkasındaki temel motivasyonu ve gerekçeyi sorgular. Bu nedenle doğru cevap C şıkkıdır.
 
     <hr />
-1. Aşağıdakilerden hangisi ".'çağrışımlar ile aktarılmasını" ifade eden kavram aşağıdakilerden hangisidir?
-    - A-) Sembolizm
-    - **Cevap B-) Leit-motif**
-    - C-) Zıtlıklar
-    - D-) Signifier
-    - E-) Montage
-
-    > **Açıklama:** Sorunun doğru kabul edilen cevabı 'Leit-motif'tir. Leit-motif, bir karakteri, temayı, mekanı veya duyguyu temsil eden ve tekrar eden müzikal veya görsel bir temadır. Bu tekrar eden unsur, izleyicide o temanın çağrışımını (imply) yaratır. Bu, 'temanın çağrışımlar ile aktarılması' tanımına en uygun kuramsal yaklaşımdır.
-
-    <hr />
 
 ### Kurgu Teknikleri
 
-1. Aşağıdakilerden hangisi "temanın çağrışımları ile aktarılmasını" ifade eden kavram aşağıdakilerden hangisidir?
+1. Aşağıdakilerden hangisi "temanın çağrışımları ile aktarılmasını" ifade eden kavram aşağıdakilerden hangisidir? *(4 kez soruldu)*
     - **Cevap A-) Leit-motif**
     - B-) Signifier
     - C-) Montage
@@ -310,35 +280,9 @@
 
     <hr />
 
-### Kurgu ve Anlam
-
-1. Aşağıdakilerden hangisi "temanın çağrışımlar ile aktarılmasını" ifade eden kurgu aşağıdakilerden hangisidir?
-    - A-) Zıtlıklar
-    - B-) Signifier
-    - C-) Sembolizm
-    - D-) Montage
-    - **Cevap E-) Leit-motif**
-
-    > **Açıklama:** Sergei Eisenstein'ın kurgu anlayışı, A görüntüsünün arkasından eklenen B görüntüsü ile izleyicinin C anlamı/sonucu çıkarması esası üzerine kuruludur. Bu, kurgu ile sağlanan çarpışmaların (diyalektik anlayış) sonucunda asıl görüntünün izleyicinin kafasında oluşmasını amaçlar, bu da temaların çağrışımlarla aktarılması anlamına gelir.
-
-    <hr />
-
-### Kurgu ve Anlatı
-
-1. Aşağıdakilerden hangisi "temanın çağrışımlar ile aktarılmasını" ifade eden kavram aşağıdakilerden hangisidir?
-    - A-) Sembolizm
-    - **Cevap B-) Leit-motif**
-    - C-) Zıtlıklar
-    - D-) Signifier
-    - E-) Montage
-
-    > **Açıklama:** Soru 4 ve Soru 5 aynı sorunun farklı formatlarda yazılmış halleridir ve Ünite 3'te kurgu kuramları arasında bahsedilen kavramlarla ilgilidir. Özetlerde doğrudan 'Leit-motif' tanımı yer almamasına rağmen, Ünite 3'te D. W. Griffith'in çalışmalarından bahsedilirken; Georges Méliès'in kurgudan faydalanma çabası 'biçimci' olarak tanımlanmış, Lumière kardeşlerin yaklaşımı 'gerçekçi' olarak tanımlanmıştır. Ancak, 'Leit-motif' kavramı müzik ve sinemada belirli bir karakteri, duyguyu veya temayı tekrar eden müzikal veya görsel bir unsuru ifade eder ki bu, bir temanın çağrışımlarla aktarılması için kullanılan bir kuramsal yaklaşımdır. Sorunun doğru cevabı D seçeneği yerine B şıkkı olarak kabul edildiğinden, açıklamayı buna göre yapmalıyız. 'Leit-motif', bir müzik veya dramatik temayı temsil eden tekrarlayan müzikal veya görsel bir unsur (temayı çağrıştıran) anlamına gelir, bu da temanın çağrışımlarla aktarılmasını ifade eder.
-
-    <hr />
-
 ### Kurguda Geçiş Türleri
 
-1. Siyah ekranda beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniğine ne ad verilir?
+1. Siyah ekranda beliren küçük bir dairenin gittikçe genişleyerek tüm ekranı kaplaması tekniğine ne ad verilir? *(2 kez soruldu)*
     - A-) Netleşme
     - **Cevap B-) İris-in**
     - C-) Bindirme
@@ -390,19 +334,6 @@
 
     <hr />
 
-### Dijital Kurgu Yazılımları
-
-1. Adobe Premiere Pro'nun 2023 sürümü olan 24.0.3'te aşağıdaki yapay zeka platformlarından hangisi ile zenginleştirilmiş özellikler sunmuştur?
-    - A-) Adobe Creative Suite
-    - B-) Adobe Cloud AI
-    - C-) Adobe Smart Edit
-    - D-) Adobe Intelligence
-    - **Cevap E-) Adobe Sensei**
-
-    > **Açıklama:** Ünite 4'te, gelişen teknolojilerle birlikte yapay zeka (AI) kavramının ortaya çıkmasından ve sinema filmlerinin kurgulanmasında kendine yer edinmeye başlamasından bahsedilmiştir. Adobe Premiere Pro'nun 2023 sürümü (23.x serisi) ile 'Firefly' entegrasyonu ve yeni AI özellikleri gelmiştir. Soruda geçen 2023 sürümü yerine 2024 sürümünden (Ünite 4 metninde 2024 geçti) bahsedilmiş olsa da, yapay zeka vurgusu geçerlidir.
-
-    <hr />
-
 ### Dijital Veri Sıkıştırma
 
 1. Bir görüntüde kare içindeki uzamsal fazlalıkları saptayıp onları azaltmayı amaçlayan sıkıştırma yöntemi aşağıdakilerden hangisidir? *(2 kez soruldu)*
@@ -444,7 +375,7 @@
 
 ### Kurgu İş Akışı
 
-1. Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılmasına ne ad verilir?
+1. Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılmasına ne ad verilir? *(2 kez soruldu)*
     - A-) Seçmeli format
     - B-) Bilgisayar (computer) format
     - C-) Kurgu (editing) format
@@ -467,7 +398,7 @@
 
 ### Program Monitörü
 
-1. Aşağıdakilerden hangisi zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı izlenmesini sağlar?
+1. Aşağıdakilerden hangisi zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı izlenmesini sağlar? *(2 kez soruldu)*
     - **Cevap A-) Program Monitörü**
     - B-) Kaynak Monitörü
     - C-) Efekt Kontrolleri
@@ -477,33 +408,10 @@
     > **Açıklama:** Program Monitörü (Program Monitor), zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı olarak izlenmesini sağlayan bileşendir. (Metin Sayfa 3)
 
     <hr />
-1. Aşağıdakilerden hangisi zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin zamanlı izlenmesini sağlar?
-    - **Cevap A-) Program Monitörü**
-    - B-) Kaynak Monitörü
-    - C-) Efekt Kontrolleri
-    - D-) Araçlar Paneli
-    - E-) Ses Mikseri
-
-    > **Açıklama:** Program monitörü (Program Monitor), zaman çizelgesi (timeline) üzerinde yapılan tüm düzenlemelerin ve değişikliklerin gerçek zamanlı olarak izlenmesini sağlayan bileşendir.
-
-    <hr />
-
-### Proxy İş Akışı
-
-1. Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılmasına ne ad verilir?
-    - A-) Büyük (big) format
-    - **Cevap B-) Vekil (proxy) format**
-    - C-) Küçük (little) format
-    - D-) Kurgu (editing) format
-    - E-) Bilgisayar (computer) format
-
-    > **Açıklama:** Kurguda işleyişin hızlanması için görüntülerin daha az yer kaplayan düşük kalitede kopyalarının çıkarılması işlemine 'Proxy' adı verilir. Ünite 4'te 'Dijital Post Prodüksiyon İş Akışı' başlığı altında, 'Bu görüntülerle önceki bölümlerde bahsedilen Ön Kurgu (Off-line editing) sürecine girilir' denilerek, 'Bu görüntülerin daha az yer kaplayan düşük kalitede kopyaları çıkarılır. Bu görüntüler vekil (proxy) format olarak adlandırılır' bilgisi verilmektedir.
-
-    <hr />
 
 ### Sekans Ayarları
 
-1. Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) karşılığıdır?
+1. Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) karşılığıdır? *(3 kez soruldu)*
     - A-) Geçişe içindeki yatay ve dikey kare sayısıdır.
     - B-) Bir filmin boyunca ekranda görünen kare sayısıdır.
     - **Cevap C-) Bir saniyede başına düşen kare sayısıdır.**
@@ -511,16 +419,6 @@
     - E-) Kare ve çerçeve arasındaki hızdır.
 
     > **Açıklama:** Sekans Ayarları bölümünde, zaman tabanı (Timebase) ayarının, bir saniye içerisinde gösterilecek olan kare sayısını (FPS değeri olarak da bilinir) belirttiği açıklanmaktadır. (Metin Sayfa 2)
-
-    <hr />
-1. Aşağıdakilerden hangisi görüntüde kare hızının (frame rate) tanımıdır? *(2 kez soruldu)*
-    - A-) Çerçeve içindeki yatay ve dikey kare sayılarıdır.
-    - B-) Kare ve çerçeve arasındaki hızdır.
-    - **Cevap C-) Bir saniye başına düşen kare sayısıdır.**
-    - D-) Bir film boyunca ekranda görünen kare açısıdır.
-    - E-) Karelerin aralarındaki hız durumudur.
-
-    > **Açıklama:** Metinde, Sekans Ayarları başlığı altında Timebase'in FPS değeri olarak da bilindiği ve bir saniye içerisinde gösterilecek olan kare sayısını belirttiği ifade edilmiştir. Bu, kare hızının (frame rate) tanımıdır.
 
     <hr />
 
@@ -539,7 +437,7 @@
 
 ### Yapay Zeka
 
-1. Adobe Premiere Pro'nun 2023 sürümü olan 24.0.3'te aşağıdaki yapay zeka platformlarından hangisi ile zenginleştirilmiş özellikler sunulmuştur?
+1. Adobe Premiere Pro'nun 2023 sürümü olan 24.0.3'te aşağıdaki yapay zeka platformlarından hangisi ile zenginleştirilmiş özellikler sunulmuştur? *(2 kez soruldu)*
     - A-) Adobe Creative Suite
     - B-) Adobe Smart Edit
     - C-) Adobe Cloud Al
@@ -588,22 +486,9 @@
 
 ## Ünite 5
 
-### Belgesel Kurgu İş Akışı
-
-1. Akışlı ve B-Roll çekimlerin devreye girdiği iş akışı aşağıdakilerden hangisidir?
-    - **Cevap A-) Belgesel röportaj kurgusu**
-    - B-) Kamu spotu kurgusu
-    - C-) Reklam filmi kurgusu
-    - D-) Müzik videosu kurgusu
-    - E-) Ses kurgusu
-
-    > **Açıklama:** Metinde, Belgesel Kurgusu İş Akışı başlığı altında, belgesel uzun bir zaman aralığını konu alabileceği ve bu nedenle A-Roll (konuşma/ana çekim) ve B-Roll (destekleyici çekimler) devreye girdiği belirtilmiştir. Röportajlara dayalı belgesel kurgusunda bu iki çekim türünün kullanıldığı ifade edilmiştir.
-
-    <hr />
-
 ### Belgesel Kurgusu İş Akışı
 
-1. A-roll ve B-Roll çekimlerin devreye girdiği iş akışı aşağıdakilerden hangisidir?
+1. A-roll ve B-Roll çekimlerin devreye girdiği iş akışı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Müzik videosu kurgusu
     - B-) Reklam filmi kurgusu
     - **Cevap C-) Belgesel röportaj kurgusu**
@@ -644,7 +529,7 @@
 
 ### Doygunluk (Saturation)
 
-1. Vectorscope üzerindeki bir renk, merkez noktadan uzaklaşmaya başladıkça o rengin aşağıdaki temel bileşenlerinden hangisi değişir? *(2 kez soruldu)*
+1. Vectorscope üzerindeki bir renk, merkez noktadan uzaklaşmaya başladıkça o rengin aşağıdaki temel bileşenlerinden hangisi değişir? *(4 kez soruldu)*
     - **Cevap A-) Doygunluğu**
     - B-) Beyaz dengesi
     - C-) Siyah dengesi
@@ -655,29 +540,16 @@
 
     <hr />
 
-### Renk Analiz Araçları
-
-1. Vectorscope üzerindeki bir renk, merkez noktasıyla uzaklaşmaya başladıkça o renk aşağıdakilerden hangisi değişir?
-    - A-) Tonu
-    - B-) Renk ayarı
-    - C-) Siyah dengesi
-    - D-) Beyaz dengesi
-    - **Cevap E-) Doygunluğu**
-
-    > **Açıklama:** Metinde, Renk Düzenlemenin İş Akışı Mimarisi başlığı altında (Ünite 6'da renk bileşenleri anlatılırken) renk çarkından bahsedilmiştir. Vectorscope, renklerin tonunu (Hue) gösterir. Bir rengin merkezden uzaklaşması, doygunluğunun (Saturation) artması anlamına gelir. Eğer bir renk merkezden uzaklaşıyorsa (daha saf hale geliyorsa), merkezden uzaklaştığı için 'Doygunluğu' artar. Metinde renk tonu (Hue) renk çarkındaki konumdur, parlaklık ise beyaz veya siyah eklenmesidir. Doygunluk ise renk tonunun saflığıdır. Merkezden uzaklaşmak, saflığın artması demektir.
-
-    <hr />
-
 ### Renk Bileşenleri
 
-1. Vectorscope üzerindeki bir renk, merkez noktasından uzaklaşmaya başladığında o rengin aşağıdaki temel bileşenlerinden hangisi değişir?
-    - A-) Tonu
-    - B-) Renk ayarı
-    - C-) Siyah dengesi
-    - D-) Beyaz dengesi
-    - **Cevap E-) Doygunluğu**
+1. Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farka ne ad verilir? *(3 kez soruldu)*
+    - A-) Gama
+    - B-) Siyah ve beyaz dengesi
+    - C-) Renk dengesi
+    - D-) Piksel yoğunluğu
+    - **Cevap E-) Kontrast oranı**
 
-    > **Açıklama:** Ünite 6'da renk bileşenleri açıklanırken, 'Doygunluk (Saturation)' terimi 'Bir rengi tanımlamak için kullanılan üçüncü terim doygunluktur. Doygunluk, renk tonunun saflığını ifade eder' şeklinde tanımlanmıştır. Vectorscope'ta renk merkezden uzaklaştıkça (yani saflığı azaldıkça/bozuldukça), bu, o rengin doygunluğunun azaldığı anlamına gelir.
+    > **Açıklama:** Ünite 6'daki 'Kontrast Oranı' tanımı şöyledir: 'Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farktır.' Bu, doğrudan sorunun tanımını karşılamaktadır.
 
     <hr />
 
@@ -720,19 +592,6 @@
 
     <hr />
 
-### Renk Kavramları - Kontrast
-
-1. Bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki farka ne ad verilir? *(3 kez soruldu)*
-    - **Cevap A-) Kontrast oranı**
-    - B-) Gama
-    - C-) Siyah ve beyaz dengesi
-    - D-) Renk dengesi
-    - E-) Piksel yoğunluğu
-
-    > **Açıklama:** Metinde, Renk Düzenlemede Temel Kavramlar başlığı altında, Kontrast Oranı'nın, bir çekimdeki en açık pikseller ile en koyu pikseller arasındaki fark olduğu açıkça belirtilmiştir.
-
-    <hr />
-
 ### Renk Tonu (Hue)
 
 1. Tek bir renk tonunun tüm varyasyonlarının kullanıldığı renk şeması aşağıdakilerden hangisidir?
@@ -743,19 +602,6 @@
     - **Cevap E-) Monokromatik**
 
     > **Açıklama:** Tek bir renk tonunun tüm varyasyonlarının (parlaklık ve doygunluk eklenerek/çıkarılarak) kullanıldığı renk şeması, Ton (Hue) bileşenini ifade eder. Ünite 6'da 'Renk Tonu (Hue)' başlığı altında, 'Ton, bir rengin renk çarkındaki konumudur: kırmızı, turuncu, sarı, yeşil, camgöbeği, mavi, menekşe (veya mor) ve macenta' şeklinde tanımlanmıştır. Diğer bileşenler (Parlaklık ve Doygunluk) tonun varyasyonlarıdır.
-
-    <hr />
-
-### Renk ve Çerçeve Oranı
-
-1. Mevcut çekimlerden daha panoramik bir en boy oranına (aspect ratio) ihtiyaç duyulduğunda aşağıdaki yöntemlerden hangisi uygulanmalıdır? *(3 kez soruldu)*
-    - **Cevap A-) Set genişletme**
-    - B-) Kamera takibi
-    - C-) Hareket takibi
-    - D-) Mat boyama
-    - E-) Kalabalık kopyalama
-
-    > **Açıklama:** Metinde, Renk Düzenlemede Temel Araçlar başlığı altında, çekimler arasında dengeleme yapılırken, eğer iki çekimi aynı anda göreceğimiz 'wipe' özelliğini kullandığımız ve bu çekimlerin farklı en boy oranlarına sahip olması durumunda, bu uyumsuzluğu gidermek için referans noktalarının kullanıldığı belirtilmiştir. Ancak daha panoramik bir en boy oranı ihtiyacı (daha geniş görüntü) için genellikle 'set genişletme' veya 'dijital mat boyama' teknikleri kullanılır. Metinde 'Sayısal Birleştirme' başlığı altında, 'set genişletme'nin maddi/fiziksel imkansızlıklar nedeniyle yapılamayan mekânsal genişletmeyi sağladığı belirtilmiştir. Bu da istenilen en boy oranını elde etmede dolaylı yoldan yardımcı olur.
 
     <hr />
 
@@ -789,6 +635,16 @@
 
 ### Görsel Efekt Teknikleri
 
+1. Mevcut çekimlerden daha panoramik bir en boy oranına (aspect ratio) ihtiyaç duyulduğunda aşağıdaki yöntemlerden hangisi uygulanmalıdır? *(3 kez soruldu)*
+    - **Cevap A-) Set genişletme**
+    - B-) Kalabalık kopyalama
+    - C-) Hareket takibi
+    - D-) Mat boyama
+    - E-) Kamera takibi
+
+    > **Açıklama:** Ünite 7'de 'Set Genişletme (Set Extension)' tanımı verilmiştir: 'Set genişletme, mevcut maddi ya da fiziksel imkansızlıklar nedeniyle prodüksiyon ile elde edilemeyecek mekânsal genişletmenin, mat boyama, canlı aksiyon ya da CGI olarak üretilmiş ögeleri kullanarak, birleştirme yöntemleri ile genişletilmesi anlamına gelir.' Bu teknik, daha geniş (panoramik) bir en boy oranı elde etmek için kullanılır. Diğer teknikler (Kalabalık Kopyalama, Hareket Takibi, Mat Boyama, Kamera Takibi) bu amaca doğrudan hizmet etmez.
+
+    <hr />
 1. Gerçekçi bir görüntü oluşturabilmek için her bir karenin canlı aksiyondaki karakterler ya da nesneler üzerinden çizilmesine ne ad verilir?
     - A-) Extrude
     - B-) Keying
@@ -957,6 +813,16 @@
 
 ### Sesin Temel Ögeleri
 
+1. Aşağıdakilerden hangisi Lumiere Kardeşler'in yönettiği filmlerden biridir?
+    - A-) Büyük Tren Soygunu
+    - **Cevap B-) İşçilerin Fabrikadan Çıkışı**
+    - C-) Yurttaş Kane
+    - D-) Bisiklet Hırsızı
+    - E-) Ay'a Seyahat
+
+    > **Açıklama:** Sinema, televizyon ve diğer işitsel yapımların ses tasarımında üç temel öge bulunur: Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik. Bu üç temel ögeye ek olarak, bir filmin anlatısında ritim, atmosfer ve duygusal yoğunluk oluşturmak amacıyla dördüncü bir temel öge olarak "sessizlik" de eklenmelidir (Ünite 8).
+
+    <hr />
 1. Film sesini oluşturan üç temel ögeye dördüncü olarak ----- ögesini de eklemek gerekir.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
     - A-) Ses efektleri
     - B-) Ortam sesi
@@ -967,17 +833,7 @@
     > **Açıklama:** Ünite 8'de 'Sesin Temel Ögeleri' başlığı altında sesin üç temel ögesi Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik olarak sıralanmıştır. Ardından, bu üç temel ögeye dördüncü olarak 'sessizlik' ögesini eklemek gerektiği belirtilmiştir. Bu nedenle boş bırakılan yer 'sessizlik' (C) ile tamamlanmalıdır.
 
     <hr />
-1. Film sesini oluşturan üç temel ögeye dördüncü olarak \_\_\_\_\_\_ ögesini de eklemek gerekir.
-    - A-) müzik
-    - B-) diyalog
-    - **Cevap C-) sessizlik**
-    - D-) ortam sesi
-    - E-) ses efektleri
-
-    > **Açıklama:** Ünite 8'de 'Sesin Temel Ögeleri' başlığı altında sesin üç temel ögesi Konuşma sesleri (diyalog, anlatıcı ses), ses efektleri (ortam sesi) ve müzik olarak sıralanmıştır. Ardından, bu üç temel ögeye dördüncü olarak 'sessizlik' ögesini eklemek gerektiği belirtilmiştir. Bu nedenle boş bırakılan yer 'sessizlik' (C) ile tamamlanmalıdır.
-
-    <hr />
-1. Film sesini oluşturan üç temel ögeye dördüncü olarak \_\_\_\_\_\_\_\_\_\_ ögesini de eklemek gerekir.
+1. Film sesini oluşturan üç temel ögeye dördüncü olarak \_\_\_\_\_\_ ögesini de eklemek gerekir. *(2 kez soruldu)*
     - A-) müzik
     - B-) diyalog
     - **Cevap C-) sessizlik**
@@ -1016,13 +872,6 @@
 
 ## Ünite Diğer
 
-1. Aşağıdakilerden hangisi Georges Melies'in filmlerinden biridir?
-    - **Cevap A-) Kaybolan Kadın**
-    - B-) Büyük Tren Soygunu
-    - C-) Trenin Gara Girişi
-    - D-) Bisiklet Hırsızları
-    - E-) Kuşlar
-    <hr />
 1. Film sesini oluşturan üç temel ögeye dördüncü olarak ögesini de eklemek gerekir. Yukarıdaki cümlede boş bırakılan yeri hangi seçenek doğru şekilde tamamlar?
     - A-) ortam sesi
     - B-) ses aksı

@@ -2,19 +2,6 @@
 
 ## Ünite 1
 
-### Dijital Animasyon Tarihi
-
-1. Aşağıdakilerden hangisi dijital animasyon filmin ilk örneklerinden biridir? *(2 kez soruldu)*
-    - A-) Toy Story
-    - B-) Aya Seyehat
-    - C-) Uçan Ev
-    - D-) Oz Büyücüsü
-    - **Cevap E-) Sinek Kuşu**
-
-    > **Açıklama:** Ünite 1'de Charles Csuri'nin 1967'de yaptığı "Hummingbird" (Sinek Kuşu) isimli çalışmasının dijital animasyonun ilk örneklerinden biri olduğu ve New York'taki Museum of Modern Art (MoMa) tarafından satın alındığı belirtilmektedir. Bu nedenle doğru şık E'dir.
-
-    <hr />
-
 ### Dijital Görüntü Birimleri
 
 1. Aşağıdakilerden hangisi dijital görüntünün elde edilmesini sağlayan ve kontrol edilebilen en küçük birimidir?
@@ -42,7 +29,7 @@
 
 ### Dijital Görüntü Tarihi
 
-1. \_\_\_\_\_\_ ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. \_\_\_\_\_\_ ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - **Cevap A-) Bartlane sistemi**
     - B-) Daguerreotype sistem
     - C-) Heliografik işlem
@@ -50,16 +37,6 @@
     - E-) Stereoskopik sistem
 
     > **Açıklama:** Soru 2, Ünite 1'de Bartlane Sistemi'nin dijital görüntünün ilk ilkel örneklerinden biri olduğu belirtilmiştir. Bu sistemde görüntüler Baudot Bandı adı verilen telgraf bandı ile kodlanarak iletilmekteydi ve dijital ortama aktarılmalarına rağmen bilgisayar kullanılmamıştı (bilgisayarların gelişimi daha sonraki aşamalardadır).
-
-    <hr />
-1. ile aktarılan görüntüler, dijital görüntünün ilk ilkel örneği olsa da sayısallaştırılmış görüntülerdir ve dijital görüntülerin oluşturulmasında bilgisayarlar kullanılmamıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Heliografik işlem
-    - B-) Daguerreotype sistem
-    - **Cevap C-) Bartlane sistemi**
-    - D-) Cyanotype süreci
-    - E-) Stereoskopik sistem
-
-    > **Açıklama:** Ünite 1'de Dijital Görüntü İşlemenin Kökeni başlığı altında, ilk dijital görüntü transferinin 1920'de Amerika ve Avrupa arasında deniz altından görüntü aktarımı için telgraf kablolarının kullanılmasıyla başladığı ve bunun ilk ilkel örneği olan Bartlane Sistemi'nin Baudot Bandı adı verilen telgraf bandı ile görüntülerin kodlanarak iletilmesi temelinde çalıştığı belirtilmiştir. Bu görüntüler telgraf bandı ile kodlanmış dijital görüntülerdir, ancak modern anlamdaki sayısal fotoğrafçılıktan önce gelmektedir.
 
     <hr />
 
@@ -91,7 +68,7 @@
 
 ### Dijital Renk Sistemleri
 
-1. \_\_\_\_\_\_ baskı süreçlerinde kullanılan çıkarımsal bir renk alanıken, bilgisayar ekranlarında kullanılan toplamsal bir renk alanıdır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
+1. \_\_\_\_\_\_ baskı süreçlerinde kullanılan çıkarımsal bir renk alanıken, bilgisayar ekranlarında kullanılan toplamsal bir renk alanıdır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar? *(2 kez soruldu)*
     - A-) RIP - RGB
     - B-) RGB - RIP
     - C-) RIP - CMYK
@@ -172,32 +149,19 @@
 ### Basılı Görsel Tasarım Ürünleri
 
 1. Aşağıdaki görüntü uygulamalarından hangisi genellikle dijital yayıncılık uygulamalarında ve büyük boyutlu tasarımların hazırlanmasında kullanılır? *(4 kez soruldu)*
-    - A-) Piksel tabanlı dijital görüntü
-    - **Cevap B-) Vektör tabanlı dijital görüntü**
-    - C-) Montaj tabanlı dijital görüntü
-    - D-) Al tabanlı dijital görüntü
-    - E-) 3D tabanlı dijital görüntü
+    - A-) Al tabanlı dijital görüntü
+    - B-) Piksel tabanlı dijital görüntü
+    - **Cevap C-) Vektör tabanlı dijital görüntü**
+    - D-) 3D tabanlı dijital görüntü
+    - E-) Montaj tabanlı dijital görüntü
 
-    > **Açıklama:** Soru 1, Ünite 2'de basılı görsel tasarım ürünleri kategorize edilmiştir. "Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları..." gibi ürünler Reklam ve Pazarlama Tasarım Ürünleri başlığı altında listelenmiştir. Bu ürünler genellikle büyük boyutlu tasarımlar ve kitle iletişimi amaçlıdır. Bristol kartonlar daha çok davetiye, kutu ambalaj, kitap kapağı gibi işlerde kullanılırken, ambalaj malzemeleri karton, cam, metal, plastik vb. şeklindedir.
-
-    <hr />
-
-### Kurumsal Kimlik Tasarımı
-
-1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçığa ne ad verilir? *(2 kez soruldu)*
-    - A-) Kurumsal mesaj kılavuzu
-    - B-) Kurumsal hedef kılavuzu
-    - C-) Kurumsal kimlik broşürü
-    - **Cevap D-) Kurumsal görsel kimlik kılavuzu**
-    - E-) Kurumsal mevzuat kılavuzu
-
-    > **Açıklama:** Kurumsal Görsel Kimlik Tasarım Ürünleri (Kartvizit, Zarflar, Dosyalar, Antetli Kâğıt vb.), bir kurumun vizyon ve misyonu doğrultusunda oluşturulan ve kurumsal imajını yansıtan görsel tasarım ürünleridir. Bu ürünlerin kullanım standartlarını ve kurallarını belirleyen kılavuz, kurumsal kimlik kılavuzudur.
+    > **Açıklama:** Ambalaj Tasarım Ürünleri, karton, cam, metal, plastik gibi farklı malzemelerden yapılan ve ürün hakkında bilgi veren, beğenisini sağlayan tasarımlardır. Genellikle reklam ve pazarlama ürünleri arasında sayılırlar. Bu ürünlerin temelinde afiş bulunur (Ünite 2). Ancak soru, 'dijital yayıncılık uygulamaları ve büyük boyutlu tasarımlar'ı soruyor. Afiş ve diğer reklam ürünleri (Billboard, Branda) büyük boyutlu tasarımlardır ve dijital ortamda da hazırlanabilirler, ancak bağlam (Ünite 2) basılı görsel tasarım ürünlerini kapsar. Bu bağlamda, reklam ve pazarlama ürünleri (Afiş, Branda) büyük boyutlu tasarımlar içerdiği için en uygun kategoridir.
 
     <hr />
 
 ### Kurumsal Kimlik Ürünleri
 
-1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçığa ne ad verlir?
+1. Bir kurum ya da kuruluşun vizyon ve misyon ekseninde tasarlanmış: logo, amblem gibi tanıtıcı işaretleri ve kurumla ilgili diğer tasarım ürünlerinin kullanım standartlarını açıklayan kitapçığa ne ad verlir? *(3 kez soruldu)*
     - **Cevap A-) Kurumsal görsel kimlik kılavuzu**
     - B-) Kurumsal mevzuat kılavuzu
     - C-) Kurumsal kimlik broşürü
@@ -210,7 +174,7 @@
 
 ### Kâğıt Türleri ve Baskı
 
-1. Aşağıdakilerden hangisi standart bir tabaka kâğıdın, üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel birimlerinden biridir?
+1. Aşağıdakilerden hangisi standart bir tabaka kâğıdın, üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel birimlerinden biridir? *(3 kez soruldu)*
     - A-) Cilt
     - B-) Gofre
     - C-) Kaolin
@@ -221,22 +185,9 @@
 
     <hr />
 
-### Kâğıt Türleri ve Ölçüleri
-
-1. Aşağıdakilerden hangisi standart bir tabaka kâğıdın, üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel hesaplama birimlerinden biridir? *(2 kez soruldu)*
-    - A-) Cilt
-    - B-) Gofre
-    - C-) Kaolin
-    - D-) Pelur
-    - **Cevap E-) Forma**
-
-    > **Açıklama:** Metinde kâğıt türlerinden bahsedilmektedir ancak bir kâğıdın üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel hesaplama birimi olarak belirtilen birim veya terim bulunmamaktadır. Ancak, kâğıt ölçüleri (bobin/tabaka) ve kâğıt türleri (Kuşe, Bristol, Kraft vb.) anlatılmıştır. Soru, bağlamı tam olarak karşılamasa da, kâğıt türleri Ünite 2'nin kapsamındadır. Eğer soru, Bristol kartonların (genellikle davetiye, kutu ambalaj vb. için kullanılan) bir yüzü parlak ve diğer yüzü mat olan bir karton türü olduğu bilgisini çağrıştırıyorsa, bu Ünite 2'de geçmektedir. Ancak sorunun yapısı spesifik bir ölçü birimini sorduğu için, metin içeriğinde bu spesifik birimin tanımı doğrudan yer almamaktadır. Yine de en uygun ünite 2'dir. (Not: Baskı terminolojisinde böyle bir birim olabilir ancak metinde yok. Bristol karton bu bağlamda uygun bir kâğıt türüdür.)
-
-    <hr />
-
 ### Masaüstü Yayıncılık
 
-1. Aşağıdaki masaüstü yayıncılık programlarından hangisi kullanılarak sıfırdan görsel üretimi yapılır?
+1. Aşağıdaki masaüstü yayıncılık programlarından hangisi kullanılarak sıfırdan görsel üretimi yapılır? *(2 kez soruldu)*
     - A-) Adobe Acrobat Pro
     - **Cevap B-) Adobe Illustrator**
     - C-) Adobe XD
@@ -257,19 +208,6 @@
     - **Cevap E-) ICC**
 
     > **Açıklama:** CIE Renk Modeli, insan gözünün RGB modeline verdiği tepkiye dayanır ve insanın renk algılayışını düzgün bir biçimde gösterebilmek amacıyla tasarlanmıştır. Bu, renklerin birbiri arasındaki dönüşümlerini yapmak için kullanılan standartlaştırılmış bir modeldir (Ünite 2).
-
-    <hr />
-
-### Renk Modelleri Baskı/Ekran
-
-1. baskı süreçlerinde kullanılan çıkarımsal bir renk alanıyken, bilgisayar ekranlarında kullanılan toplamsal bir renk alanıdır. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
-    - A-) RGB - RIP
-    - **Cevap B-) CMYK - RGB**
-    - C-) RGB - CMYK
-    - D-) RIP - RGB
-    - E-) RIP - CMYK
-
-    > **Açıklama:** Ünite 2'de Dijital Renk başlığı altında: 'RGB bilgisayar ekranlarında kullanılan toplamsal bir renk alanıyken, CMYK dört renkli baskı süreçlerinde kullanılan çıkarımsal bir renk alanıdır' ifadesi yer almaktadır. Buna göre boşluklar sırasıyla CMYK (çıkarımsal, baskı) ve RGB (toplamsal, ekran) olmalıdır. Bu nedenle doğru şık B'dir.
 
     <hr />
 
@@ -342,7 +280,7 @@
 
 ### Tasarım Kâğıtları ve İfadeler
 
-1. genel sayfa tasarımını, de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir. Yukarıdaki cümlede boş bırakılan yerleri aşadıdakilerden hangisi sırasıyla ve doğru olarak tamamlar? *(2 kez soruldu)*
+1. genel sayfa tasarımını, de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir. Yukarıdaki cümlede boş bırakılan yerleri aşadıdakilerden hangisi sırasıyla ve doğru olarak tamamlar? *(3 kez soruldu)*
     - A-) Eskiz-prototip
     - **Cevap B-) Layout-wireframe**
     - C-) Prototip-wireframe
@@ -350,19 +288,6 @@
     - E-) Figma-eskiz
 
     > **Açıklama:** Dijital tasarımda, Taslak Çizimler (Wireframe) sayfalar arası bağlantıyı ve ilişkiyi ifade ederken, Sayfa Düzeni (Layout) genel sayfa tasarımını ifade eder. Cümledeki boşluklar sırasıyla 'wireframe' (bağlantı/ilişki) ve 'layout' (genel sayfa tasarımı) olmalıdır. Ancak verilen boşluk sırasına göre, ilk boşluk genel sayfa tasarımını (Layout), ikinci boşluk ise sayfalar arası bağlantıyı (Wireframe) ifade etmelidir. Metinde geçen ifade: "Layout genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir." Bu nedenle boşluklar 'Layout' ve 'Wireframe' olmalıdır. Soruda verilen sıralama, metindeki ifadenin tersine olabilir: "...genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir." Eğer ilk boşluk 'Layout' ise, ikinci boşluk 'Wireframe' olmalıdır. Verilen şıklarda bu sıra tam tersine verilmiş olabilir. Metindeki bilgiye göre: Layout (genel sayfa tasarımı), Wireframe (sayfalar arası bağlantı). Şıklarda bu sırayı tam olarak karşılayanı seçmeliyiz. Eğer şıklar 'Layout' ve 'Wireframe' ise, ilk boşluk Layout ile tamamlanmalıdır.
-
-    <hr />
-
-### Taslak Çizimler ve Layout
-
-1. \_\_\_\_\_\_ genel sayfa tasarımını, \_\_\_\_\_\_ de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir. Yukarıdaki cümlede boş bırakılan yerleri aşadıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?
-    - A-) Figma-eskiz
-    - **Cevap B-) Layout-wireframe**
-    - C-) Prototip-wireframe
-    - D-) Eskiz-figma
-    - E-) Eskiz-prototip
-
-    > **Açıklama:** Ünite 3'te Taslak Çizimler (Wireframe) ve Sayfa Düzeni (Layout) tanımlanır. Metinde, 'Layout genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir' bilgisi yer almaktadır. Bu, boşlukları sırasıyla Layout ve wireframe ile doldurur. Bu nedenle doğru şık B'dir.
 
     <hr />
 
@@ -383,7 +308,7 @@
 
 ### 3B Animasyon Yazılımları
 
-1. Aşağıdakilerden hangisi üç boyutlu (3B) animasyon yazılımlarından biri değildir?
+1. Aşağıdakilerden hangisi üç boyutlu (3B) animasyon yazılımlarından biri değildir? *(2 kez soruldu)*
     - **Cevap A-) Audacity**
     - B-) Maya
     - C-) Blender
@@ -391,16 +316,6 @@
     - E-) Houdini
 
     > **Açıklama:** Üç boyutlu (3B) animasyon yazılımları arasında 3Ds Max Studio, Cinema 4D, Blender, Maya gibi yazılımlar sayılmıştır. Adobe After Effects ise post prodüksiyon yazılımları arasında sayılmaktadır ve 3B modelleme yazılımı değildir.
-
-    <hr />
-1. Aşağıdakilerden hangisi üç boyutlu (3B) animasyon yönteminde kullanılan yazılımlardan biri değildir?
-    - A-) Houdini
-    - **Cevap B-) Audacity**
-    - C-) Cinema 4D
-    - D-) Maya
-    - E-) Blender
-
-    > **Açıklama:** Ünite 4'te, Üç Boyutlu (3B) Animasyon Yöntemi başlığı altında kullanılan yazılımlar şunlardır: '3Ds Max Studio, Maya, Cinema 4D, Blender, Houdini bu yazılımlardan bazılarıdır.' Şıklarda verilen Adobe Premiere Pro, video düzenleme/montaj yazılımıdır, 3B modelleme/animasyon yazılımı değildir. (Adobe Premiere Pro, Montaj ve Kurgu başlığında geçmektedir.)
 
     <hr />
 
@@ -456,22 +371,9 @@
 
     <hr />
 
-### Hareketli Grafik Proje Dosyası
-
-1. Adobe after effects yazılımında hareketli grafikler için gerçekleşen tüm çalışmalar dosya uzantısı olan bir proje dosyası içinde gerçekleşmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
-    - A-) png
-    - B-) gif
-    - **Cevap C-) aep**
-    - D-) psd
-    - E-) eps
-
-    > **Açıklama:** Adobe After Effects, hareketli grafik oluşturma, düzenleme ve canlandırma için kullanılan bir post prodüksiyon yazılımıdır. Bu yazılımla yapılan çalışmalar, render (görüntü üretimi) aşamasından önce proje dosyası içinde saklanır. Bu proje dosyalarının uzantısı genellikle .aep'tir (Adobe After Effects Project). Metinde spesifik olarak uzantı verilmemiştir, ancak 'hareketli grafikler ve görsel efektler için gerekli bir yazılım olarak bilinir' denmektedir (Ünite 4'teki After Effects tanımına göre). Ünite 4'te, After Effects'in 'post prodüksiyon yazılımlarından' olduğu belirtilmiştir. Render alınmadan önceki tüm işlemler proje dosyasında tutulur. Proje dosyaları genellikle .aep uzantılıdır. (Not: Metinde direkt uzantı verilmemiştir ancak bağlam en yakın .aep uzantısına işaret eder. Şıklarda uzantı belirtilmemişse, 'Proje Dosyası' bağlamı doğrudur.)
-
-    <hr />
-
 ### Hareketli Grafik Yazılımları
 
-1. Adobe after effects yazılımında hareketli grafikler için gerçekleşen tüm çalışmalar dosya uzantısı olan bir proje dosyası içinde gerçekleşmektedir.
+1. Adobe after effects yazılımında hareketli grafikler için gerçekleşen tüm çalışmalar dosya uzantısı olan bir proje dosyası içinde gerçekleşmektedir. *(3 kez soruldu)*
     - A-) gif
     - B-) eps
     - **Cevap C-) aep**
@@ -481,7 +383,7 @@
     > **Açıklama:** After Effects yazılımı, 2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımıdır. Bu program hareketli grafik tasarımında sıkça kullanılan bir post prodüksiyon yazılımıdır.
 
     <hr />
-1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımların üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?
+1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımların üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir? *(2 kez soruldu)*
     - A-) Adobe Illustrator
     - **Cevap B-) Adobe After Effects**
     - C-) Adobe Firefly
@@ -499,16 +401,6 @@
     - E-) Adobe Premiere
 
     > **Açıklama:** Ünite 4'te Hareketli Grafik Yazılımları başlığı altında Maxon Cinema 4D, Adobe After Effects ve Adobe Premiere'in yaygın kullanılanlar olduğu belirtilmiştir. Ayrıca 3ds Max Studio, Maya, LightWave 3D, Blender, Softimage ve Houdini gibi üç boyutlu yazılımlar da anılmıştır. Ancak, 'Dijital Fotoğraf Sanatı' yazılımı olan Adobe Photoshop, hareketli grafik oluşturma yerine (temel olarak) piksel tabanlı görüntü işleme ve düzenlemede kullanılır. Bu nedenle Photoshop, hareketli grafik oluşturmada kullanılan temel yazılımlardan biri değildir.
-
-    <hr />
-1. 2 ve 3 boyutlu (element 3D vb eklenti veya 3D kamera) tasarımları üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren görüntü işleme yazılımı aşağıdakilerden hangisidir?
-    - A-) Adobe Firefly
-    - B-) SLAM
-    - C-) Adobe bridge
-    - D-) Adobe Illustrator
-    - **Cevap E-) Adobe After Effects**
-
-    > **Açıklama:** Ünite 4'te Adobe After Effects yazılımı, '2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımı olarak tanımlanmıştır.
 
     <hr />
 
@@ -566,7 +458,7 @@
 
 ### Video Formatları
 
-1. Aşağıdakilerden hangisi en fazla kullanılan video formatlarından biri değildir?
+1. Aşağıdakilerden hangisi en fazla kullanılan video formatlarından biri değildir? *(2 kez soruldu)*
     - A-) Mpeg
     - B-) Mp4
     - **Cevap C-) Psd**
@@ -574,16 +466,6 @@
     - E-) Avi
 
     > **Açıklama:** Ünite 4'te Hareketli Grafik Üretimi başlığı altında bahsedilen render aşamasından sonra sonlandırılan videonun formatları arasında mp4, mov, avi, mpeg gibi formatlar sayılmıştır. DOCX formatı bir metin dosyası formatıdır ve video formatı değildir.
-
-    <hr />
-1. Aşağıdakilerden hangisi video formatlarından biri değildir?
-    - A-) Avi
-    - B-) Mp4
-    - C-) Mov
-    - D-) Mpeg
-    - **Cevap E-) Psd**
-
-    > **Açıklama:** Hareketli grafik üretimi sonucunda videonun son hâli için istenilen formatta render alındığı belirtilmiştir. Metinde geçen video formatları mp4, mov, avi, mpeg vb. olarak listelenmiştir. Verilen seçeneklerde (PSD, AI, EPS) ise genellikle dijital görüntü formatları (statik) veya vektörel formatlardır, video formatı değillerdir.
 
     <hr />
 
@@ -625,6 +507,19 @@
     - **Cevap E-) Dijital sanat**
 
     > **Açıklama:** Ünite 5'te, Dijital Sanat başlığı altında, 'Dijital sanat bilgisayar ve yardımcı araçlarının yanı sıra mobil teknolojiler aracılığıyla üretilen tüm sanatsal ifade biçimlerini kapsayan çatı bir kavramdır.' ifadesi yer alır. Ayrıca, 'Yeni medya sanatı, dijital kavramsal sanat, veri sanatı, internet ve etkileşimli sanat formları ve performatif dijital sanat olarak da adlandırılan bu yeni ifade biçimleri her geçen gün genişleyerek geleneksel sanata alternatif olarak karşımıza çıkmaktadır.' denmektedir. Bu bağlamda, sanatçının hayal gücüne bağlı, dijital veriyle üretilen tüm sanat biçimleri dijital sanattır.
+
+    <hr />
+
+### Dijital Sanat Türleri
+
+1. Aşağıdakilerden hangisi dijital animasyon filmin ilk örneklerinden biridir? *(2 kez soruldu)*
+    - A-) Toy Story
+    - B-) Aya Seyehat
+    - C-) Uçan Ev
+    - D-) Oz Büyücüsü
+    - **Cevap E-) Sinek Kuşu**
+
+    > **Açıklama:** Doğru kabul edilen A şıkkı olan Raster Sanatı, Ünite 5'teki metinde tam olarak tanımlanmaktadır. Metinde, Raster'ın, "yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kullanılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türü" olduğu belirtilmektedir. Bu tanım, soruda geçen tanıma birebir uymaktadır. Vektör sanatı ise piksel tabanlı değil, matematiksel koordinatlar üzerine kuruludur ve çözünürlükten bağımsızdır.
 
     <hr />
 
@@ -690,19 +585,6 @@
     - **Cevap E-) Arbaro**
 
     > **Açıklama:** Arbaro, Java programlama diliyle yazılan, ağaç ve bitki tasarımına ilişkin hazır algoritmalar yoluyla kolaylaştırılmış süreçlere sahip bir generatif tasarım uygulamasıdır. Bu, generatif kodlama ile çevresel tasarım uygulamasına bir örnektir.
-
-    <hr />
-
-### Sıfırdan Görsel Üretimi
-
-1. Aşağıdaki programlarından hangisi kullanılarak sıfırdan görsel üretimi yapılır?
-    - A-) Adobe Acrobat Pro
-    - **Cevap B-) Adobe Illustrator**
-    - C-) Flame
-    - D-) Maya
-    - E-) Adobe XD
-
-    > **Açıklama:** Dijital sanat eserleri üretilirken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi barındıran programlar kullanılır. Bu programlar, sıfırdan görsel üretimi için kullanılır. Photoshop, Illustrator gibi programlar durağan görüntüleri işlerken, After Effects gibi programlar hareketli görüntüleri işler. Soruda 'sıfırdan görsel üretimi'nden bahsedildiği için durağan görsellerin temel üretim yazılımlarından Illustrator (vektör tabanlı çizimler ve formlar) veya Photoshop (piksel tabanlı görseller) kullanılabilir. Ancak metinde 'boyama, çizim' denildiğinde Illustrator daha uygun olabilir, ancak bu programların hepsi temel görsel üretimi için kullanılır. Fakat, eğer bir programın temel amacı sıfırdan görsel oluşturmak ise, örneğin bir illüstrasyon çizmek için Illustrator veya vektör tabanlı bir tasarım yapmak için en uygun yazılımlardan biri Illustrator'dur.
 
     <hr />
 
@@ -814,7 +696,7 @@
 
 ### Nesnelerin İnterneti (IoT)
 
-1. Birbiriyle ilişki kurabilen, dijital makina, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere ne ad verilir?
+1. Birbiriyle ilişki kurabilen, dijital makina, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, veri aktarabilen sistemlere ne ad verilir? *(2 kez soruldu)*
     - A-) UT
     - B-) UI
     - C-) UX
@@ -892,7 +774,7 @@
 
 ### Unreal Engine 5 Geometri
 
-1. Unreal Engine 5'in aşağıdaki özelliklerinden hangisi nesnelerin yüzeyindeki ayrıntıların kamera mesafesine göre en maksimum ayrıntı düzeyinde çalışmasını sağlar?
+1. Unreal Engine 5'in aşağıdaki özelliklerinden hangisi nesnelerin yüzeyindeki ayrıntıların kamera mesafesine göre en maksimum ayrıntı düzeyinde çalışmasını sağlar? *(2 kez soruldu)*
     - A-) Megascans asset library
     - B-) Ses işleme teknikleri
     - **Cevap C-) Nanite**
@@ -900,19 +782,6 @@
     - E-) Dinamik ışıklandırma
 
     > **Açıklama:** Unreal Engine 5'in dinamik 'sanallaştırılmış geometri' sistemi sayesinde, nesnelerin yüzeyindeki ayrıntılar kamera mesafesine göre gereken maksimum ayrıntı düzeyine göre çalışmaktadır. Bu, nesnelerin detay seviyesini dinamik olarak ayarlamasını sağlar.
-
-    <hr />
-
-### Unreal Engine 5 Özellikleri
-
-1. Unreal Engine 5'in aşağıdaki özelliklerinden hangisi nesnelerin yüzeyindeki ayrıntıların kamera mesafesine göre maksimum ayrıntı düzeyinde çalışmasını sağlar?
-    - A-) İleri düzey animasyon
-    - **Cevap B-) Nanite**
-    - C-) Megascans asset library
-    - D-) Dinamik ışıklandırma
-    - E-) Ses işleme teknikleri
-
-    > **Açıklama:** Ünite 6'da, Unreal Engine 5 başlığı altında, dinamik "sanallaştırılmış geometri” sistemi şu şekilde tanımlanmıştır: 'Unreal Engine 5'in dinamik "sanallaştırılmış geometri” sistemi sayesinde nesnelerin yüzeyindeki ayrıntılar kamera mesafesi için gereken maksimum ayrıntı düzeyine göre çalışmaktadır.'
 
     <hr />
 
@@ -926,16 +795,6 @@
     - E-) Web 5.0
 
     > **Açıklama:** Ünite 6'da Yeni Medya Teknolojileri anlatılırken, 'Tek yönlü iletişim sağlayan geleneksel medyada... hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir' denilir. Sorudaki tanım, Web 4.0'ın özelliklerine uymaktadır: "İnsanların cihazlarına herhangi bir program kurma ihtiyacı olmadan, cihazlarında herhangi bir veri depolamak zorunda kalmadan tüm işlemlerin bulut sistemler üzerinden gerçekleştiği bir altyapı kullanacaktır." Ancak, Web 2.0 etkileşim ve sosyal medyayı, Web 4.0 ise genellikle Nesnelerin İnterneti (IoT) ve akıllı sistemlerle ilişkilendirilir (Ünite 3). Verilen tanım, bulut bilişim ve cihaz bağımsızlığını vurgulamaktadır ki bu, genellikle Web 4.0'ın kapsamına giren bir ifadedir (Web 4.0'ın tanımı metinde doğrudan verilmemiştir, ancak genel teknolojik ilerleme bağlamında 'Web 4.0' en uygunudur, özellikle 'yeni medya' bağlamında ve 'etkileşimli' olmasının ötesinde merkeziyetsizlik ve dağıtık sistemlere vurgu yapıyorsa).
-
-    <hr />
-1. Birbiriyle ilişki kurabilen, dijital makina, nesne veya tanımlayıcılar sayesinde ağa gerek duymaksızın, sistemlere ne ad verilir?
-    - **Cevap A-) IoT**
-    - B-) UI
-    - C-) RIP
-    - D-) ID
-    - E-) UX
-
-    > **Açıklama:** Ünite 6'da, Yeni Medya Teknolojileri başlığı altında, yeni medyanın temel özelliklerinden biri olarak, 'Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir. Yani iletişim interaktif olarak sağlanmaktadır.' Bu bağlamda, 'ağa gerek duymaksızın, sistemlere' yerine, temel yeni medya özelliği olan 'etkileşim' (interaction) temel alınır. Ancak şıklara bakıldığında, Nesnelerin İnterneti (IoT) kavramı (Ünite 6) 'nesnelerin birbirleri arasında ya da daha büyük sistemler arasındaki veri aktarımını ve bağlı olduğu iletişim ağını tanımlamak için kullanılmaktadır' şeklinde geçer. Ancak sorunun 'dijital makina, nesne veya tanımlayıcılar sayesinde' ifadesi IoT'yi işaret eder. Şıklarda IoT doğrudan yok, ancak Ünite 6'da 3B Haritalama'dan sonra gelen 'Nesnelerin İnterneti' tanımı bu sorunun anahtar kelimelerine en yakındır.
 
     <hr />
 
@@ -1031,7 +890,7 @@
 
 ### Veri Görselleştirme Tanımı
 
-1. Verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasına ne ad verlir?
+1. Verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasına ne ad verlir? *(2 kez soruldu)*
     - A-) Veri haritalandırma
     - **Cevap B-) Veri görselleştirme**
     - C-) Veri şekillendirme
@@ -1039,16 +898,6 @@
     - E-) Veri modelleme
 
     > **Açıklama:** Veri görselleştirme, ham verilerin analitikler aracılığıyla analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır. Bu tanım, verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasıdır. (Ünite 7, sayfa 3)
-
-    <hr />
-1. Verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasına ne ad verilir?
-    - A-) Veri şekillendirme
-    - B-) Veri haritalandırma
-    - C-) Veri somutlaştırma
-    - **Cevap D-) Veri görselleştirme**
-    - E-) Veri modelleme
-
-    > **Açıklama:** Ünite 7'de, Veri Görselleştirme Tanımı başlığı altında, Veri görselleştirme şu şekilde tanımlanmıştır: 'Veri görselleştirme, ham verilerin analitikler aracılığıyla gerçekleştirilen analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.' Ayrıca, 'Veri madenciliği sürecinin sonunda oluşan enformasyonun görsel olarak sunulmasıdır.' ifadesi de geçmektedir.
 
     <hr />
 

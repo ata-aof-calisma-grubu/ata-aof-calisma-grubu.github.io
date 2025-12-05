@@ -14,9 +14,9 @@
             "exam_question_number": 1,
             "source": "Yaz Okulu 2022-2023",
             "material_id": "548649",
-            "UniteNo": 1,
-            "topic": "Dijital Animasyon Tarihi",
-            "explanation": "Ünite 1'de Charles Csuri'nin 1967'de yaptığı \"Hummingbird\" (Sinek Kuşu) isimli çalışmasının dijital animasyonun ilk örneklerinden biri olduğu ve New York'taki Museum of Modern Art (MoMa) tarafından satın alındığı belirtilmektedir. Bu nedenle doğru şık E'dir.",
+            "UniteNo": 5,
+            "topic": "Dijital Sanat Türleri",
+            "explanation": "Doğru kabul edilen A şıkkı olan Raster Sanatı, Ünite 5'teki metinde tam olarak tanımlanmaktadır. Metinde, Raster'ın, \"yatay ve dikey piksel sıralarından oluşan dijital görsel sanat eserlerinin üretilmesinde kullanılan hem bir dosyalama formatı hem de bu yolla üretilen eserleri niteleyen dijital bir sanat türü\" olduğu belirtilmektedir. Bu tanım, soruda geçen tanıma birebir uymaktadır. Vektör sanatı ise piksel tabanlı değil, matematiksel koordinatlar üzerine kuruludur ve çözünürlükten bağımsızdır.",
             "occurrence_count": 2,
             "is_duplicate": false
         },
@@ -58,7 +58,7 @@
             "topic": "Kâğıt Türleri ve Baskı",
             "explanation": "Pelur kâğıtlar; mat, kumlu ve yarı saydam özelliklere sahip bir kâğıttır. Genellikle, ambalaj sektöründe kırılacak malzemeleri sarmak ve basım sektöründe de nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı için kullanılır. Bu, standart bir tabaka kâğıdın üç kez katlanmasıyla elde edilen 'nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı' ile ilişkilendirilebilecek bir kullanım alanıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 4,
@@ -78,7 +78,7 @@
             "topic": "Kurumsal Kimlik Ürünleri",
             "explanation": "Bir kurum ya da kuruluşun hedef kitlesine ulaşabilmesi için kullanmış olduğu ürünlerinde misyon ve vizyonu doğrultusunda oluşturulan görsel tasarım ürünlerine Kurumsal Görsel Kimlik Tasarım Ürünleri denir. Bu ürünler arasında kartvizit, zarflar, dosyalar, antetli kâğıt, masa bayrağı, makbuz, davetiye gibi unsurlar yer alır ve bu ürünlerin kullanım standartları Kurumsal Kimlik Kılavuzunda belirlenir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 5,
@@ -118,7 +118,7 @@
             "topic": "Hareketli Grafik Yazılımları",
             "explanation": "After Effects yazılımı, 2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımıdır. Bu program hareketli grafik tasarımında sıkça kullanılan bir post prodüksiyon yazılımıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 3
         },
         {
             "id": 7,
@@ -158,7 +158,7 @@
             "topic": "Hareketli Grafik Yazılımları",
             "explanation": "After Effects yazılımı, 2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımıdır. Bu, hareketli grafik oluşturmada yaygın olarak kullanılan bir post prodüksiyon yazılımıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 9,
@@ -275,7 +275,7 @@
             "topic": "Veri Görselleştirme Tanımı",
             "explanation": "Veri görselleştirme, ham verilerin analitikler aracılığıyla analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır. Bu tanım, verilerin analizi süreci sonunda ham verilerin gruplandırılması, ilişkilendirilmesi, karşılaştırılması sonucu oluşan enformasyonun görsel olarak sunulmasıdır. (Ünite 7, sayfa 3)",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 15,
@@ -416,7 +416,8 @@
             "explanation": "Vektör, matematiksel koordinatlar üzerine yapılandırılmış, çözünürlük bozulmaksızın büyütülebilen, piksel yapısı yerine nokta ve eğrilerle oluşturulmuş dijital bir görüntü türüdür. Bu özellikleri dolayısıyla tasarımcıların yoğun olarak kullandığı bir yapıdır (Ünite 1).",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 22,
@@ -435,8 +436,9 @@
             "UniteNo": 2,
             "topic": "Kâğıt Türleri ve Ölçüleri",
             "explanation": "Metinde kâğıt türlerinden bahsedilmektedir ancak bir kâğıdın üç kez katlanmasıyla elde edilen ve matbaacılıkta kullanılan temel hesaplama birimi olarak belirtilen birim veya terim bulunmamaktadır. Ancak, kâğıt ölçüleri (bobin/tabaka) ve kâğıt türleri (Kuşe, Bristol, Kraft vb.) anlatılmıştır. Soru, bağlamı tam olarak karşılamasa da, kâğıt türleri Ünite 2'nin kapsamındadır. Eğer soru, Bristol kartonların (genellikle davetiye, kutu ambalaj vb. için kullanılan) bir yüzü parlak ve diğer yüzü mat olan bir karton türü olduğu bilgisini çağrıştırıyorsa, bu Ünite 2'de geçmektedir. Ancak sorunun yapısı spesifik bir ölçü birimini sorduğu için, metin içeriğinde bu spesifik birimin tanımı doğrudan yer almamaktadır. Yine de en uygun ünite 2'dir. (Not: Baskı terminolojisinde böyle bir birim olabilir ancak metinde yok. Bristol karton bu bağlamda uygun bir kâğıt türüdür.)",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 3
         },
         {
             "id": 23,
@@ -455,9 +457,8 @@
             "UniteNo": 2,
             "topic": "Basılı Görsel Tasarım Ürünleri",
             "explanation": "Ambalaj Tasarım Ürünleri, karton, cam, metal, plastik gibi farklı malzemelerden yapılan ve ürün hakkında bilgi veren, beğenisini sağlayan tasarımlardır. Genellikle reklam ve pazarlama ürünleri arasında sayılırlar. Bu ürünlerin temelinde afiş bulunur (Ünite 2). Ancak soru, 'dijital yayıncılık uygulamaları ve büyük boyutlu tasarımlar'ı soruyor. Afiş ve diğer reklam ürünleri (Billboard, Branda) büyük boyutlu tasarımlardır ve dijital ortamda da hazırlanabilirler, ancak bağlam (Ünite 2) basılı görsel tasarım ürünlerini kapsar. Bu bağlamda, reklam ve pazarlama ürünleri (Afiş, Branda) büyük boyutlu tasarımlar içerdiği için en uygun kategoridir.",
-            "is_duplicate": true,
-            "duplicate_of": 62,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "occurrence_count": 4
         },
         {
             "id": 24,
@@ -476,8 +477,9 @@
             "UniteNo": 2,
             "topic": "Kurumsal Kimlik Tasarımı",
             "explanation": "Kurumsal Görsel Kimlik Tasarım Ürünleri (Kartvizit, Zarflar, Dosyalar, Antetli Kâğıt vb.), bir kurumun vizyon ve misyonu doğrultusunda oluşturulan ve kurumsal imajını yansıtan görsel tasarım ürünleridir. Bu ürünlerin kullanım standartlarını ve kurallarını belirleyen kılavuz, kurumsal kimlik kılavuzudur.",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Fuzzy Match (>90%)",
+            "is_duplicate": true,
+            "duplicate_of": 4
         },
         {
             "id": 25,
@@ -496,7 +498,7 @@
             "UniteNo": 3,
             "topic": "Tasarım Kâğıtları ve İfadeler",
             "explanation": "Dijital tasarımda, Taslak Çizimler (Wireframe) sayfalar arası bağlantıyı ve ilişkiyi ifade ederken, Sayfa Düzeni (Layout) genel sayfa tasarımını ifade eder. Cümledeki boşluklar sırasıyla 'wireframe' (bağlantı/ilişki) ve 'layout' (genel sayfa tasarımı) olmalıdır. Ancak verilen boşluk sırasına göre, ilk boşluk genel sayfa tasarımını (Layout), ikinci boşluk ise sayfalar arası bağlantıyı (Wireframe) ifade etmelidir. Metinde geçen ifade: \"Layout genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir.\" Bu nedenle boşluklar 'Layout' ve 'Wireframe' olmalıdır. Soruda verilen sıralama, metindeki ifadenin tersine olabilir: \"...genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir.\" Eğer ilk boşluk 'Layout' ise, ikinci boşluk 'Wireframe' olmalıdır. Verilen şıklarda bu sıra tam tersine verilmiş olabilir. Metindeki bilgiye göre: Layout (genel sayfa tasarımı), Wireframe (sayfalar arası bağlantı). Şıklarda bu sırayı tam olarak karşılayanı seçmeliyiz. Eğer şıklar 'Layout' ve 'Wireframe' ise, ilk boşluk Layout ile tamamlanmalıdır.",
-            "occurrence_count": 2,
+            "occurrence_count": 3,
             "is_duplicate": false
         },
         {
@@ -536,8 +538,9 @@
             "UniteNo": 4,
             "topic": "Hareketli Grafik Proje Dosyası",
             "explanation": "Adobe After Effects, hareketli grafik oluşturma, düzenleme ve canlandırma için kullanılan bir post prodüksiyon yazılımıdır. Bu yazılımla yapılan çalışmalar, render (görüntü üretimi) aşamasından önce proje dosyası içinde saklanır. Bu proje dosyalarının uzantısı genellikle .aep'tir (Adobe After Effects Project). Metinde spesifik olarak uzantı verilmemiştir, ancak 'hareketli grafikler ve görsel efektler için gerekli bir yazılım olarak bilinir' denmektedir (Ünite 4'teki After Effects tanımına göre). Ünite 4'te, After Effects'in 'post prodüksiyon yazılımlarından' olduğu belirtilmiştir. Render alınmadan önceki tüm işlemler proje dosyasında tutulur. Proje dosyaları genellikle .aep uzantılıdır. (Not: Metinde direkt uzantı verilmemiştir ancak bağlam en yakın .aep uzantısına işaret eder. Şıklarda uzantı belirtilmemişse, 'Proje Dosyası' bağlamı doğrudur.)",
-            "occurrence_count": 2,
-            "is_duplicate": false
+            "duplication_reason": "Semantic Similarity (0.94)",
+            "is_duplicate": true,
+            "duplicate_of": 6
         },
         {
             "id": 28,
@@ -598,7 +601,8 @@
             "explanation": "Ünite 5'te, basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan yazılımın Mandelbulb olduğu belirtilmiştir. Mandelbulb, generatif sanat alanında sanatçılar tarafından tercih edilen ve şaşırtıcı generatif sanat eserleri üretilmesini sağlayan bir araçtır. Bu, Yinelenen Fonksiyon Sistemleri (IFS) üzerine kurulu deneysel bir yaklaşıma karşılık gelir.",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 31,
@@ -699,7 +703,8 @@
             "explanation": "Soru, 'belirli bir olay meydana geldiğinde araştırılan diğer olayın oluşma olasılığı nedir' sorusunu sormayı ima etmektedir. Bu, genellikle tahmine dayalı algoritmaların temelini oluşturur. Makine öğrenmesi, verilerden ilişkiler ve örüntüler bularak tahmin yapma sürecidir. Derin öğrenme, bu sürecin sinir ağları tabanlı karmaşık bir alt kümesidir. Bayes teoremi, olasılıksal çıkarım için kullanılan klasik bir algoritmadır ve bir olayın meydana gelmesi koşulu altında diğer olayın gerçekleşme olasılığını hesaplar (koşullu olasılık). Bu, yapay zekanın tahmin ve sınıflandırma amaçlarında kullanılan temel algoritmalarındandır (Ünite 7, Yapay Zekâ ve Makine Öğrenimi).",
             "is_duplicate": true,
             "duplicate_of": 18,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 36,
@@ -720,7 +725,8 @@
             "explanation": "Ünite 7'de büyük verinin sahip olması gereken 5 özellik Hacim (Volume), Hız (Velocity), Çeşitlilik (Variety), Doğrulama (Verification) ve Değer (Value) olarak listelenmiştir. Karmaşıklık (complexity) bu listede yer almamaktadır. Bu nedenle doğru şık A'dır.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 37,
@@ -781,7 +787,8 @@
             "explanation": "İletişim sistemleri, gönderici, mesaj, kanal, alıcı, geri bildirim ve gürültü bileşenlerinden oluşur. Kodlar, göstergelerin alıcı ile verici öznelerin belleğinde öncelikli tanınırlığı kabul görmüş her şeydir; alıcıların ve vericilerin aynı kod sistemini kullanmasını gerektirir. Kodlar, anlamın çözümlenmesini destekleyen ve kurallar içerisinde bütünlüğü sağlayan bir düzen getirir. Bu, Saussure'ün göstergebilimsel çözümlemesinde 'Dizimsel Boyut' (Syntagm) ile doğrudan ilişkilidir, çünkü dizim, birimlerin sıralanmasıyla anlamlı bir bütün oluşturur. Ancak burada kodlar sorulmuştur. Kodlar, iletişimin kodlanması ve çözümlenmesiyle ilgili olduğundan, iletişim sisteminin temel bileşenlerinden biri olarak kabul edilir (Ünite 8, İletişim Sistemleri, Kodlar).",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 40,
@@ -822,7 +829,8 @@
             "explanation": "Vektör, matematiksel koordinatlar üzerine yapılandırılmış, çözünürlük bozulmaksızın büyütülebilen, piksel yapısı yerine nokta ve eğrilerle oluşturulmuş dijital bir görüntü türüdür. Bu özellikleri dolayısıyla tasarımcıların yoğun olarak kullandığı bir yapıdır (Ünite 1).",
             "is_duplicate": true,
             "duplicate_of": 2,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 42,
@@ -843,7 +851,8 @@
             "explanation": "Forma, baskılı formaların çeşitli teknikler uygulanarak bir araya getirilmesi işlemine (ciltleme) hazırlık aşamasında kullanılan bir birimdir, ancak bu soruda 'Forma' şıkkı, kâğıt türleri bağlamında bir hesaplama birimi olarak ima edilmiştir. Ancak, kâğıt türleri arasında 'Pelur' (nüshalı işlerin ikinci ve üçüncü nüshalarının baskısı için kullanılır) veya 'Bristol karton' (davetiye, kutu ambalaj vb. için kullanılır) gibi türler mevcuttur. Verilen özetlere göre 'Forma' terimi, daha çok baskı sonrası işlemlerle (ciltleme) ilişkilidir. Ancak, verilen cevap anahtarına göre, formanın bir hesaplama birimi olarak (basılacak işin adedi ile ilgili) kabul edildiğini varsayarak doğru kabul edilmiştir. (Ünite 2, 'Basılı Görsel Tasarım Ürünlerinin Üretim Süreci' başlığı altında forma kavramına atıf yapılabilir, ancak doğrudan kağıt türü olarak geçmez. Ancak sorunun bağlamı, baskı terminolojisini işaret ediyor olmalıdır. Forma, baskılı formaların bir araya getirilmesi aşamasıdır, bu bağlamda en uygun şık olarak işaretlenmiştir.)",
             "is_duplicate": true,
             "duplicate_of": 22,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 43,
@@ -863,8 +872,9 @@
             "topic": "Dijital Görüntü Türleri",
             "explanation": "Vektör Sanatı, çözünürlükten bağımsız olarak oluşturulan dijital sanat türüdür. Bu özelliği sayesinde küçük illüstrasyonlardan büyük panolara kadar çeşitli şekillerde sergilenebilir ve genellikle dijital yayıncılık ve büyük boyutlu tasarımlarda tercih edilir (Ünite 5).",
             "is_duplicate": true,
-            "duplicate_of": 62,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 23,
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 44,
@@ -885,7 +895,8 @@
             "explanation": "Kurumsal Görsel Kimlik Tasarım Ürünleri başlığı altında; antetli kâğıt, zarf, kartvizit, tebrik kartı, fatura, sevk irsaliyesi, evrak dosyası, promosyon ürünleri ve daha birçok basılı görsel tasarım ürününün yer aldığı kurumsal kimlik kılavuzundan bahsedilmektedir (Ünite 2).",
             "is_duplicate": true,
             "duplicate_of": 24,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 45,
@@ -906,7 +917,8 @@
             "explanation": "Dijital taslak çizimi araçlarının ileri seviyede gelişimine rağmen, birçok tasarımcı projeyi kâğıt üzerine çizerek planlamaktadır. Dijital görsel tasarım ürünlerinde \"eskiz\" teriminden çok \"wireframe, layout\" gibi terimler tercih edilir. Layout genel sayfa tasarımını, wireframe ise bu sayfalar arası bağlantıyı ve ilişkiyi ifade eder (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 25,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 46,
@@ -927,7 +939,8 @@
             "explanation": "Web siteleri veya mobil uygulamalarda mesajın açık ve kolay algılanabilir olması, Yalınlık ilkesiyle doğrudan ilişkilidir. Yalınlık, arayüz tasarımının estetik açıdan dikkat çekici olmasını sağlamanın temel unsurlarından biridir (Ünite 3).",
             "is_duplicate": true,
             "duplicate_of": 26,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 47,
@@ -948,7 +961,8 @@
             "explanation": "After Effects yazılımında, hareketli grafikler için gerçekleştirilen tüm çalışmalar, 'aep' uzantılı bir proje dosyası içinde saklanır ve düzenlenir. Bu, Ünite 4'te belirtilen yazılımların kullanım bağlamında doğru uzantıdır.",
             "is_duplicate": true,
             "duplicate_of": 27,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 48,
@@ -969,7 +983,8 @@
             "explanation": "Cinema 4D, Adobe After Effects ve Adobe Premiere, Hareketli Grafik oluşturmada en çok kullanılan yazılımlardır. Adobe Lightroom ise genellikle fotoğraf düzenleme ve renk derecelendirme için kullanılır, hareketli grafik oluşturmada ana yazılımlardan biri değildir (Ünite 4).",
             "is_duplicate": true,
             "duplicate_of": 28,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 49,
@@ -990,7 +1005,8 @@
             "explanation": "Dijital kolaj, fotoğraf işleme yazılımlarının izin verdiği pek çok işlevle birlikte pek çok farklı görüntüyü bir araya getirerek oluşturulur. Bu süreçte görüntülerin katmanlı çalışma mantığı (layer) esastır (Ünite 5).",
             "is_duplicate": true,
             "duplicate_of": 29,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 50,
@@ -1011,7 +1027,8 @@
             "explanation": "Mandelbulb, basit matematiksel denklemlerden yararlanarak iki ve üç boyutlu fraktallar oluşturmak için kullanılan ve generatif sanat alanında pek çok sanatçı tarafından tercih edilen bir görüntü oluşturma yazılımıdır. IFS (Yinelenen Fonksiyon Sistemleri) ile ilişkilidir (Ünite 5).",
             "is_duplicate": true,
             "duplicate_of": 9,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 51,
@@ -1032,7 +1049,8 @@
             "explanation": "Bu soru, Soru 31 ile aynıdır. Ünite 6'da LED Duvarlar başlığı altında, bu teknolojinin ambiyansa uygun ışık ve renkleri doğrudan oyuncuların üzerine yansıtarak sahnenin gerçekliğini arttırdığı ve post prodüksiyon işlemlerini azalttığı belirtilir. Verilen şıklar arasında, anlık ve gerçekçi ışıklandırma bağlamında 'Işık haritası' (D) en uygunudur (Ünite 4'teki 'Render' başlığı ile de desteklenir).",
             "is_duplicate": true,
             "duplicate_of": 31,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 52,
@@ -1053,7 +1071,8 @@
             "explanation": "Silk, tarayıcı aracılığıyla gerçek zamanlı generatif sanat tasarımları üretilebilen bir yazılımdır. Bu araçta temel girdileri anında çok daha ayrıntılı, karmaşık ve sofistike biçimlere dönüştüren simetrik yansıtma kuralları vardır. Ancak, Silk, 'hareketli görüntü (video)' ürünü oluşturma sürecindeki standart adımları (Kamera, Modelleme, Hareketlendirme, Render vb.) uygulayan bir araç değil, daha çok tasarımın kendisine odaklanan bir generatif araçtır. Özellikle 'Kamera' veya 'Render' gibi adımlara doğrudan atıf yapılmaz; bu, onu diğer hareketli grafik yazılımlarından (After Effects, Cinema 4D) ayırır. Metinde Silk'in 'gerçek zamanlı generatif sanat tasarımlarının üretilebildiği' ve 'simetrik olarak yansıtılması gibi basit kurallar ile temel girdileri anında çok daha ayrıntılı, karmaşık ve sofistike biçimlere dönüştürebildiği' belirtilmiştir. Bu bağlamda, hareketli grafik üretiminin standart aşamalarına odaklanan bir ifade yanlış olacaktır (Ünite 4, sayfa 2).",
             "is_duplicate": true,
             "duplicate_of": 32,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 53,
@@ -1074,7 +1093,8 @@
             "explanation": "Paragrafta, insanların cihazlarına program kurma veya veri depolama ihtiyacı olmadan tüm işlemlerin bulut sistemleri üzerinden gerçekleştiği altyapıdan bahsedilmektedir. Yeni Medya Teknolojilerinin temel özelliklerinden biri 'Etkileşim (Interaction)'dir, ancak burada bahsedilen, cihazdan bağımsız çalışma ve sınırsız erişilebilirlik 'Eşzamansızlık (Asekron)' veya genel olarak dijital mecraların doğası ile ilgilidir. Metinde Yeni Medya'nın üç temel özelliği 'Etkileşim', 'Kitlesizleştirme' ve 'Eşzamansızlık (Asekron)' olarak listelenmiştir. Sorudaki tanım, özellikle bulut tabanlı iş akışı ve depolama gereksiniminin olmamasına odaklanmaktadır ki bu, yeni medyanın (internet teknolojisinin yaygınlaşmasıyla) merkezsiz ve sınırsız doğasıyla yakından ilişkilidir. Ancak bu tanıma en uygun ana başlık, 'Eşzamansızlık (Asekron)' özelliği altında bahsedilen, 'Aynı andalık gerekliliğini ortadan kaldırır' ifadesinin genişletilmiş halidir; yani fiziksel mekana ve depolamaya bağlı olmamaktır (Ünite 6, sayfa 1).",
             "is_duplicate": true,
             "duplicate_of": 33,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 54,
@@ -1095,7 +1115,8 @@
             "explanation": "Sanal konserler, Fortnite, Roblox gibi platformlarda gerçekleştirilir ve organizasyon açısından maliyetleri düşürür, lojistik ve güvenlik gibi problemleri ortadan kaldırır. Ancak, sanal konserler, fiziksel konserlerin sunduğu 'birlikte sinemaya gidemeyen insanların bu sosyalleşme aktivitelerini online olarak... yaşamalarına olanak sağlayan' yönünün dijital ortama taşınmış halidir. Fiziksel konserlerdeki en büyük sosyal avantaj olan toplu katılım hissinin ve gerçek zamanlı deneyimin (örneğin, seyircinin birbirleriyle etkileşimi) sanal ortamda tam olarak yakalanamaması dezavantajdır. Metin, sanal konserlerin maliyetleri düşürdüğünü söyler; ancak bir dezavantajdan bahsetmez. Ancak, dijital platformlardaki etkileşimli içeriklerin (örneğin Bandersnatch'in hikaye dallanması) bile 'hikayenin akışı içerisinde, karakterin önemli bir karar vermesi gereken belirli anlarında, ekran ikiye bölünerek karakterin seçimi izleyiciye bırakılmaktadır' denilerek, tek yönlü anlatıdan ayrılmaya çalışılsa da, fiziksel deneyimin kaybı her zaman bir dezavantajdır. Verilen metinlerde sanal konserlerin spesifik bir dezavantajı açıkça belirtilmemiştir. Ancak, diğer bir dijital deneyim olan Netflix Bandersnatch örneğinde 'hikâyenin ilerleyişine dair karar vermesini bekleyen, diğer içeriklerin aksine tek yönlü olmayıp interaktif olan böylece kullanıcıyı sürece dâhil ederek bir deneyim yaşamasını sağlayan yapımlardır' denilerek etkileşim vurgulanır. Genellikle, sanal konserlerin sosyal etkileşim ve fiziki ortam deneyimi eksikliği dezavantajlarıdır (Ünite 6, sayfa 1 ve 2).",
             "is_duplicate": true,
             "duplicate_of": 34,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 55,
@@ -1116,7 +1137,8 @@
             "explanation": "Soruda bahsedilen durum, 'belirli bir olay meydana geldiğinde araştırılan diğer olayın oluşma olasılığı nedir' sorusunu sormak yerine, mevcut verilere dayanarak tahminlerde bulunmakla ilgilidir. Metinde Makine Öğrenmesi'nin iki türü belirtilmiştir: Denetimli Öğrenme ve Denetimsiz Öğrenme. Denetimli Öğrenme, girdi ve çıktı (doğru sınıflandırma) bilgisi verilerek modelin eğitildiği süreçtir. Denetimsiz Öğrenme ise, çıktı bilgisi olmadan, verilerin kendiliğinden organize olduğu kümeleri bulmaya odaklanır. Veri Madenciliği süreci, veriden bilgi elde etmek için analizler yaparken, Yapay Zekâ (YZ) uygulamaları da bu bağlamda yer alır. Sorudaki 'olasıdır' kelimesi, bir çıktı etiketi olmadan, verilerin yapısını keşfetme ve gruplama mantığına işaret eder. Bu, Denetimsiz Öğrenme'nin temel özelliğidir; yani etiketlenmemiş giriş verisindeki gizlenen modelleri tanımlamak için kullanılır (Ünite 7, sayfa 2 ve 3).",
             "is_duplicate": true,
             "duplicate_of": 18,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 56,
@@ -1137,7 +1159,8 @@
             "explanation": "Bu soru, Soru 15 ile aynıdır. Ünite 7'de büyük verinin sahip olması gereken 5 özellik (Hacim, Hız, Çeşitlilik, Doğrulama, Değer) listelenmiştir. Karmaşıklık (complexity) bu listede yer almaz. Bu nedenle doğru şık A'dır.",
             "is_duplicate": true,
             "duplicate_of": 15,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 57,
@@ -1158,7 +1181,8 @@
             "explanation": "Ünite 8'de S. Pierce göstergeleri üçe ayrılmıştır: görüntüsel gösterge, belirti ve simge. Simgesel göstergeler (Simge), kültürel ve toplumsal uzlaşı ile anlam kazanan, temsil ettiği nesneyle doğrudan fiziksel benzerliği olmayan göstergelerdir. Balık görseli, kültürel bağlamda (örneğin Hristiyanlıkta) veya genel olarak anlam taşıyorsa (örneğin beslenme/avlanma), bu bir simgesel göstergedir. Ünite 8'de Simge (Sembol) için: 'Sembol; toplumsal katmanların üzerinde yoğun bir uzlaşı sağlayarak kavramlara veya nesnelere hatta işaretlere bir anlam sorumluluğu yüklediği şeylerdir' denilmektedir. Simgesel göstergeler, toplumun daha geniş bir kısmı tarafından kolaylıkla anlamlandırılabilir, bu da balık görselinin bir simge olarak kabul edilmesini destekler. Bu nedenle doğru şık D'dir.",
             "is_duplicate": true,
             "duplicate_of": 37,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 58,
@@ -1179,7 +1203,8 @@
             "explanation": "Bu soru, Soru 38 ile aynıdır. Ünite 7'de Derin Öğrenme başlığı altında, makinenin insanlar gibi deneyimleyerek verilen örnekler üzerinden çıkarım yapmasını ve böylece en iyi sonucu üretmesini sağlama sürecine derin öğrenme adı verildiği belirtilmektedir. Bu, A şıkkını doğrular.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 59,
@@ -1200,7 +1225,8 @@
             "explanation": "Ünite 8'de İletişim Sistemleri başlığı altında bir sınıflandırma yapılmıştır (Tablo 8.1'e atıf yapılır). Bu sınıflandırmada 'Sözsüz iletişim' (Görme ve Görsel İletişim, Algı ve Algılama başlıklarıyla ilişkilidir) yer almaktadır. Diğer şıklar (Uzaktan, Örgütsel, Yapay araçlarla) bu sınıflandırmanın diğer kategorilerinde veya ilgili olsa da doğrudan kod bazlı sınıflandırma içinde yer almazlar. Sözsüz iletişim, dil dışı bildirimleri kapsar.",
             "is_duplicate": true,
             "duplicate_of": 19,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 60,
@@ -1221,7 +1247,8 @@
             "explanation": "Göstergelerin anlamları iki temel boyutta incelenir: Düzanlam (denotasyon) ve Yananlam (konotasyon). Düzanlam, göstergenin doğrudan ve nesnel anlamı iken, Yananlam, göstergenin kültürel veya kişisel algılamalar sonucu ortaya çıkan, göreceli ve zenginleşmiş anlam katmanıdır. Sanat ve tasarımda göstergeleri kültürel, toplumsal veya kişisel bağlamda çözümlemek, tasarımın anlam katmanlarını derinleştirir. Metinde, Yananlamın, kültürel ve toplumsal farklılıklar bağlamında anlam sızmalarına yol açabileceği ve bu analizin Sanat ve Tasarım kültürü için önemli olduğu belirtilmiştir (Ünite 8, sayfa 1 ve 4).",
             "is_duplicate": true,
             "duplicate_of": 40,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 61,
@@ -1242,7 +1269,8 @@
             "explanation": "Amerikalı sanatçı Charles Csuri'nin 1967 tarihli \"Hummingbird\" (Sinek Kuşu) isimli çalışması, dijital animasyonun ilk örneklerinden biri olarak kabul edilir ve MoMa'nın kalıcı koleksiyonuna alınmıştır (Ünite 1).",
             "is_duplicate": true,
             "duplicate_of": 1,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 62,
@@ -1261,8 +1289,9 @@
             "UniteNo": 2,
             "topic": "Basılı Görsel Tasarım Ürünleri",
             "explanation": "Soru 1, Ünite 2'de basılı görsel tasarım ürünleri kategorize edilmiştir. \"Afiş, El İlanı, Folyo, Branda, Billboard, Raket, Durak Reklamları...\" gibi ürünler Reklam ve Pazarlama Tasarım Ürünleri başlığı altında listelenmiştir. Bu ürünler genellikle büyük boyutlu tasarımlar ve kitle iletişimi amaçlıdır. Bristol kartonlar daha çok davetiye, kutu ambalaj, kitap kapağı gibi işlerde kullanılırken, ambalaj malzemeleri karton, cam, metal, plastik vb. şeklindedir.",
-            "occurrence_count": 4,
-            "is_duplicate": false
+            "is_duplicate": true,
+            "duplicate_of": 23,
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 63,
@@ -1282,7 +1311,7 @@
             "topic": "Dijital Görüntü Tarihi",
             "explanation": "Soru 2, Ünite 1'de Bartlane Sistemi'nin dijital görüntünün ilk ilkel örneklerinden biri olduğu belirtilmiştir. Bu sistemde görüntüler Baudot Bandı adı verilen telgraf bandı ile kodlanarak iletilmekteydi ve dijital ortama aktarılmalarına rağmen bilgisayar kullanılmamıştı (bilgisayarların gelişimi daha sonraki aşamalardadır).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 64,
@@ -1302,7 +1331,7 @@
             "topic": "Dijital Renk Sistemleri",
             "explanation": "Soru 3, Ünite 1'de dijital renk elde etmenin iki yöntemi olan toplamsal (RGB) ve çıkarımsal (CMYK) renk alanları açıklanmıştır. RGB (Red, Green, Blue) renkleri bilgisayar ekranlarında kullanılan toplamsal renk alanıdır. CMYK (Cyan, Magenta, Yellow, Black) ise dört renkli baskı süreçlerinde kullanılan çıkarımsal renk alanıdır.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 65,
@@ -1422,7 +1451,8 @@
             "explanation": "Soru 9, Ünite 7'de Bilgi Grafiği (İnfografik) tanımı verilmiştir. İnfografik, bir durumu, olayı ya da bir konuyu anlatan karmaşık bilgilerin/verilerin kolay algılanabilir bir biçimde organize edilerek, izleyiciye görsel olarak sunulmasıdır. Metin, grafik, tipografi gibi görsel ögelerin yanı sıra işitsel ögeleri de içerebilir (Ünite 4'te hareketli grafiklerde de benzer bir kavram geçmektedir, ancak buradaki odak karmaşık bilginin görsel/işitsel sunumudur, bu da infografiğe daha yakındır).",
             "is_duplicate": true,
             "duplicate_of": 7,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 71,
@@ -1462,7 +1492,7 @@
             "topic": "Nesnelerin İnterneti (IoT)",
             "explanation": "Nesnelerin İnterneti (IoT), fiziksel nesnelerin birbirleri arasında ya da daha büyük sistemler arasındaki veri aktarımını ve bağlı olduğu iletişim ağını tanımlar. Bu sistemler genellikle ağa gerek duymadan veri aktarabilir (Ünite 6).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 73,
@@ -1521,8 +1551,10 @@
             "UniteNo": 3,
             "topic": "Taslak Çizimler ve Layout",
             "explanation": "Ünite 3'te Taslak Çizimler (Wireframe) ve Sayfa Düzeni (Layout) tanımlanır. Metinde, 'Layout genel sayfa tasarımını, wireframe de bu sayfalar arası bağlantıyı ve ilişkiyi ifade etmektedir' bilgisi yer almaktadır. Bu, boşlukları sırasıyla Layout ve wireframe ile doldurur. Bu nedenle doğru şık B'dir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 45,
+            "duplication_reason": "Soru metni tamamen aynıdır. Şıklar aynı setten oluşmaktadır ve doğru cevap (Layout-wireframe) her iki soruda da aynıdır. Bu sorular, şık sıralaması dışında hiçbir fark içermeyen mutlak kopyalardır."
         },
         {
             "id": 76,
@@ -1542,7 +1574,7 @@
             "topic": "Video Formatları",
             "explanation": "Ünite 4'te Hareketli Grafik Üretimi başlığı altında bahsedilen render aşamasından sonra sonlandırılan videonun formatları arasında mp4, mov, avi, mpeg gibi formatlar sayılmıştır. DOCX formatı bir metin dosyası formatıdır ve video formatı değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 77,
@@ -1562,7 +1594,7 @@
             "topic": "3B Animasyon Yazılımları",
             "explanation": "Üç boyutlu (3B) animasyon yazılımları arasında 3Ds Max Studio, Cinema 4D, Blender, Maya gibi yazılımlar sayılmıştır. Adobe After Effects ise post prodüksiyon yazılımları arasında sayılmaktadır ve 3B modelleme yazılımı değildir.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 78,
@@ -1621,8 +1653,9 @@
             "UniteNo": 4,
             "topic": "Hareketli Grafik Yazılımları",
             "explanation": "Ünite 4'te Adobe After Effects yazılımı, '2 ve 3 boyutlu (element 3D vb. eklenti veya 3D kamera) tasarımlar üretilmesine, değiştirilmesine, birleştirilmesine ve canlandırılmasına izin veren bir görüntü işleme yazılımı olarak tanımlanmıştır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 8
         },
         {
             "id": 81,
@@ -1641,8 +1674,10 @@
             "UniteNo": 2,
             "topic": "Renk Modelleri Baskı/Ekran",
             "explanation": "Ünite 2'de Dijital Renk başlığı altında: 'RGB bilgisayar ekranlarında kullanılan toplamsal bir renk alanıyken, CMYK dört renkli baskı süreçlerinde kullanılan çıkarımsal bir renk alanıdır' ifadesi yer almaktadır. Buna göre boşluklar sırasıyla CMYK (çıkarımsal, baskı) ve RGB (toplamsal, ekran) olmalıdır. Bu nedenle doğru şık B'dir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Her iki soru da baskı (CMYK) ve ekran (RGB) renk alanlarının tanımını yaparak, aynı iki terimi aynı sırada (CMYK - RGB) istemektedir. Soru metinleri ve şık setleri tamamen aynıdır, sadece şıkların dizilimi farklıdır.",
+            "duplicate_of": 64
         },
         {
             "id": 82,
@@ -1662,8 +1697,9 @@
             "topic": "Dijital Görüntü Türleri",
             "explanation": "Ünite 2'de Vektör başlığı altında, 'Vektörler, tasarımcıların yoğun olarak kullandığı, piksel tabanlı dijital görüntülere göre sonsuz büyütülebilen, bu özellikleri dolayısıyla tercih edilen bir dijital görüntü yapısıdır' denilmektedir. Sonsuz büyütülebilirlik ve çözünürlük bozulmaması özelliği, genellikle dijital yayıncılıkta (ve büyük tasarımlarda) tercih edilme sebebidir. Piksel tabanlı görüntüler (raster) büyütüldüğünde bozulur. Bu nedenle Vektör tabanlı dijital görüntü (B şıkkı) doğrudur.",
             "is_duplicate": true,
-            "duplicate_of": 62,
-            "original_source": "Ara Sınav 2023-2024"
+            "duplicate_of": 23,
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 83,
@@ -1722,8 +1758,10 @@
             "UniteNo": 1,
             "topic": "Dijital Görüntü Tarihi",
             "explanation": "Ünite 1'de Dijital Görüntü İşlemenin Kökeni başlığı altında, ilk dijital görüntü transferinin 1920'de Amerika ve Avrupa arasında deniz altından görüntü aktarımı için telgraf kablolarının kullanılmasıyla başladığı ve bunun ilk ilkel örneği olan Bartlane Sistemi'nin Baudot Bandı adı verilen telgraf bandı ile görüntülerin kodlanarak iletilmesi temelinde çalıştığı belirtilmiştir. Bu görüntüler telgraf bandı ile kodlanmış dijital görüntülerdir, ancak modern anlamdaki sayısal fotoğrafçılıktan önce gelmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Soru metni ve doğru cevap (Bartlane sistemi) tamamen aynıdır. Şık listeleri de sadece sıralama farkıyla birebir örtüşmektedir. Bu iki soru anlamsal olarak kopyadır.",
+            "duplicate_of": 63
         },
         {
             "id": 86,
@@ -1763,7 +1801,7 @@
             "topic": "Masaüstü Yayıncılık",
             "explanation": "Ünite 2'de Photoshop'un piksel tabanlı görüntü oluşturmak ve dijital görüntüler oluşturmak için kullanıldığı, bu işlemlerin sonrasında kâğıt çıktının alınabildiği belirtilmiştir. Photoshop, bir masaüstü yayıncılık programı olarak görsel üretimi için kullanılır (Baskı Öncesi İşlemler altındaki Yazılım bölümüne atıf yapılabilir).",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 88,
@@ -1784,7 +1822,8 @@
             "explanation": "Ünite 2'de Yarımton (Tramlı) Baskı başlığı altında, 'Bu gri bölgeler “tram”lar sayesinde oluşturulur. Tramlar, ara tonlar oluşturmak için kullanılan küçük noktacıklardır' ifadesi yer almaktadır. Dolayısıyla küçük noktacıklara tram adı verilir.",
             "is_duplicate": true,
             "duplicate_of": 69,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 89,
@@ -1825,7 +1864,8 @@
             "explanation": "Ünite 5'te Monitör Kalibrasyonu başlığı altında, monitörün renk profilinin ayarlanması için 'yardımcı uygulamalar ile renk doğrulunun manuel olarak tespiti' veya 'profesyonel bir renk ölçer cihaz alarak' kalibrasyon yapılabileceği belirtilmiştir. 'Renk profili' bu bağlamda kullanılan terimdir.",
             "is_duplicate": true,
             "duplicate_of": 71,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 91,
@@ -1866,7 +1906,8 @@
             "explanation": "Ünite 3'te Arayüz Tasarımı (UI) İlkeleri altında, bir arayüzün hem işlevsel hem de estetik açıdan kullanıcı beklentilerini cevaplaması gerektiği, dikkat çekici ve görüşü kısıtlamayacak bir arayüz tasarımı için renk seçimi, görseller ve tipografinin önemli olduğu belirtilmiştir. 'Yalınlık' ilkesi, mesajın açık ve kolay algılanabilir olmasını, karmaşık detaylardan kaçınılmasını içerir, bu da 'mesaj açık ve kolay algılanabilir olmalıdır' ifadesiyle doğrudan ilişkilidir.",
             "is_duplicate": true,
             "duplicate_of": 26,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 93,
@@ -1907,7 +1948,8 @@
             "explanation": "Ünite 5'te e-Kitap başlığı altında, e-Kitapların 'binlerce kitabın taşınabilir hale gelmesi' ve 'fiziki mekândan bağımsız bir biçimde her an ulaşılabilir olması' kolaylıklarından bahsedilmiştir. Bu kolaylıkları sağlayan platformlar ve okuyucular genellikle e-Kitap okuma cihazları ve uygulamalarıdır. Metinde spesifik bir yazılım adı verilmemiştir, ancak e-Kitapların yaygınlaşması bu teknolojiyle ilişkilendirilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 73,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 95,
@@ -2026,8 +2068,10 @@
             "UniteNo": 4,
             "topic": "Video Formatları",
             "explanation": "Hareketli grafik üretimi sonucunda videonun son hâli için istenilen formatta render alındığı belirtilmiştir. Metinde geçen video formatları mp4, mov, avi, mpeg vb. olarak listelenmiştir. Verilen seçeneklerde (PSD, AI, EPS) ise genellikle dijital görüntü formatları (statik) veya vektörel formatlardır, video formatı değillerdir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 76,
+            "duplication_reason": "Soru kökleri (anlamsal olarak) aynı şeyi sormaktadır, şıklar aynıdır ve doğru cevap içeriği ('Psd') her iki soruda da aynıdır. Sadece şıkların sırası farklıdır."
         },
         {
             "id": 101,
@@ -2088,7 +2132,8 @@
             "explanation": "Bir arayüz tasarımının hem işlevsel hem de estetik açıdan son kullanıcının tüm beklentilerine cevap verebiliyor olması önemlidir. Arayüz tasarım ilkeleri arasında Denge, Yalınlık, Bütünlük, Hiyerarşi ve Vurgu sayılmıştır. Ancak, başarılı bir arayüz tasarımı için dikkat çekici ve görüşü kısıtlamayacak renk seçimi, doğru görsellerin ve tipografinin kullanımı gereklidir. Bu bağlamda, tasarımın estetik ve işlevsel beklentilere cevap vermesi temel hedeftir.",
             "is_duplicate": true,
             "duplicate_of": 5,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 104,
@@ -2107,8 +2152,10 @@
             "UniteNo": 5,
             "topic": "Sıfırdan Görsel Üretimi",
             "explanation": "Dijital sanat eserleri üretilirken boyama, çizim, renk, kadraj, oranlama, kırpma, birleştirme, efekt uygulama gibi yüzlerce işlevi barındıran programlar kullanılır. Bu programlar, sıfırdan görsel üretimi için kullanılır. Photoshop, Illustrator gibi programlar durağan görüntüleri işlerken, After Effects gibi programlar hareketli görüntüleri işler. Soruda 'sıfırdan görsel üretimi'nden bahsedildiği için durağan görsellerin temel üretim yazılımlarından Illustrator (vektör tabanlı çizimler ve formlar) veya Photoshop (piksel tabanlı görseller) kullanılabilir. Ancak metinde 'boyama, çizim' denildiğinde Illustrator daha uygun olabilir, ancak bu programların hepsi temel görsel üretimi için kullanılır. Fakat, eğer bir programın temel amacı sıfırdan görsel oluşturmak ise, örneğin bir illüstrasyon çizmek için Illustrator veya vektör tabanlı bir tasarım yapmak için en uygun yazılımlardan biri Illustrator'dur.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplication_reason": "Soru kökleri (masaüstü yayıncılık ifadesi haricinde) aynı şeyi sormaktadır, şık listeleri (sadece sıralama farkıyla) ve doğru cevap tamamen aynıdır. Bu, bir sınav veritabanı için anlamsal olarak kopyadır ve tek bir soru olarak tutulmalıdır.",
+            "duplicate_of": 87
         },
         {
             "id": 105,
@@ -2168,7 +2215,7 @@
             "topic": "Unreal Engine 5 Geometri",
             "explanation": "Unreal Engine 5'in dinamik 'sanallaştırılmış geometri' sistemi sayesinde, nesnelerin yüzeyindeki ayrıntılar kamera mesafesine göre gereken maksimum ayrıntı düzeyine göre çalışmaktadır. Bu, nesnelerin detay seviyesini dinamik olarak ayarlamasını sağlar.",
             "is_duplicate": false,
-            "occurrence_count": 1
+            "occurrence_count": 2
         },
         {
             "id": 108,
@@ -2229,7 +2276,8 @@
             "explanation": "Üç boyutlu hareketli grafik yapılacaksa kullanılacak nesnelerin üç boyutlu olarak çizildiği aşama Modelleme aşamasıdır. Bu aşamada 3ds Max Studio, Cinema 4D, Blender, Maya gibi yazılımlar kullanılır.",
             "is_duplicate": true,
             "duplicate_of": 12,
-            "original_source": "Yaz Okulu 2022-2023"
+            "original_source": "Yaz Okulu 2022-2023",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 111,
@@ -2388,8 +2436,10 @@
             "UniteNo": 7,
             "topic": "Veri Görselleştirme Tanımı",
             "explanation": "Ünite 7'de, Veri Görselleştirme Tanımı başlığı altında, Veri görselleştirme şu şekilde tanımlanmıştır: 'Veri görselleştirme, ham verilerin analitikler aracılığıyla gerçekleştirilen analiz sürecinin sonucunda verilerden üretilen enformasyonun anlaşılmasını kolaylaştırmak için enformasyonu harita veya grafik gibi görsel içeriğe dönüştürme uygulamasıdır.' Ayrıca, 'Veri madenciliği sürecinin sonunda oluşan enformasyonun görsel olarak sunulmasıdır.' ifadesi de geçmektedir.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 14,
+            "duplication_reason": "Soru metinleri (ufak bir yazım hatası dışında) tamamen aynıdır. Şıkların tamamı ve doğru cevap aynıdır; sadece şıkların sıralaması değiştirilmiştir. Bu iki soru kesinlikle kopyadır."
         },
         {
             "id": 119,
@@ -2470,7 +2520,8 @@
             "explanation": "Ünite 2'de, Basılı Görsel Tasarım Ürünlerinde Renk ve Ton Yapısı Bakımından Baskı Türleri başlığı altında Hexachrome Baskı şöyle tanımlanmıştır: 'Hexachrome Baskı: CMYK renklerine ek olarak turuncu ve yeşil renklerin de basıldığı altı renkten oluşan yüksek kaliteli baskı yöntemidir.'",
             "is_duplicate": true,
             "duplicate_of": 66,
-            "original_source": "Ara Sınav 2023-2024"
+            "original_source": "Ara Sınav 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 123,
@@ -2489,8 +2540,10 @@
             "UniteNo": 6,
             "topic": "Yeni Medya Teknolojileri",
             "explanation": "Ünite 6'da, Yeni Medya Teknolojileri başlığı altında, yeni medyanın temel özelliklerinden biri olarak, 'Tek yönlü iletişim sağlayan geleneksel medyada (gazete radyo televizyon) hedef kitle pasif durumdayken dijital olarak üretilen ve tüketilen yeni medyada hedef kitle aktif duruma geçmiştir. Yani iletişim interaktif olarak sağlanmaktadır.' Bu bağlamda, 'ağa gerek duymaksızın, sistemlere' yerine, temel yeni medya özelliği olan 'etkileşim' (interaction) temel alınır. Ancak şıklara bakıldığında, Nesnelerin İnterneti (IoT) kavramı (Ünite 6) 'nesnelerin birbirleri arasında ya da daha büyük sistemler arasındaki veri aktarımını ve bağlı olduğu iletişim ağını tanımlamak için kullanılmaktadır' şeklinde geçer. Ancak sorunun 'dijital makina, nesne veya tanımlayıcılar sayesinde' ifadesi IoT'yi işaret eder. Şıklarda IoT doğrudan yok, ancak Ünite 6'da 3B Haritalama'dan sonra gelen 'Nesnelerin İnterneti' tanımı bu sorunun anahtar kelimelerine en yakındır.",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 72,
+            "duplication_reason": "İki sorunun soru kökleri (IoT tanımı) neredeyse kelimesi kelimesine aynıdır ve her ikisinin de doğru cevabı 'IoT'dir. Soru 2'den 'veri aktarabilen' kelimesinin çıkarılması anlamsal fark yaratmamaktadır."
         },
         {
             "id": 124,
@@ -2511,7 +2564,8 @@
             "explanation": "Ünite 5'te, Vektör Sanatı başlığı altında şu ifade yer almaktadır: 'Çözünürlükten bağımsız olarak oluşturulan vektör sanat görüntüleri, küçük illüstrasyonlardan sergi salonlarındaki büyük panolara kadar çeşitli şekillerde sergilenebilir.'",
             "is_duplicate": true,
             "duplicate_of": 106,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 125,
@@ -2530,8 +2584,10 @@
             "UniteNo": 4,
             "topic": "3B Animasyon Yazılımları",
             "explanation": "Ünite 4'te, Üç Boyutlu (3B) Animasyon Yöntemi başlığı altında kullanılan yazılımlar şunlardır: '3Ds Max Studio, Maya, Cinema 4D, Blender, Houdini bu yazılımlardan bazılarıdır.' Şıklarda verilen Adobe Premiere Pro, video düzenleme/montaj yazılımıdır, 3B modelleme/animasyon yazılımı değildir. (Adobe Premiere Pro, Montaj ve Kurgu başlığında geçmektedir.)",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 77,
+            "duplication_reason": "Soru kökleri anlamsal olarak tamamen aynıdır. Şıklar kümesi ve doğru cevap (Audacity) aynıdır; sadece şıkların sıralaması farklıdır. Bu iki soru bir veritabanında kopya olarak işaretlenmelidir."
         },
         {
             "id": 126,
@@ -2552,7 +2608,8 @@
             "explanation": "Ünite 4'te, Hareketli Grafik Yazılımları altında, montaj yazılımları olarak Adobe Premiere, Final Cut Pro, Edius, Avid Video Composer'ın yaygın kullanıldığı belirtilmiştir. Adobe Premiere Pro, profesyonel bir araçtır. Ücretsiz ve kişisel kullanıma yönelik spesifik bir yazılım (örneğin 'Microsoft Paint' gibi basit bir çizim programının video karşılığı) belirtilmemiştir. Ancak verilen seçenekler arasında After Effects (genellikle post prodüksiyon/efekt odaklıdır) ve Cinema 4D (3B modelleme) profesyonel yazılımlardır. Adobe Premiere ise video düzenleme yazılımıdır. Genellikle bu tür yazılımlar ücretlidir. Eğer soruda 'kişisel kullanıcılara yönelik' ve 'ücretsiz' olan soruluyorsa, verilen profesyonel yazılımların (Premiere, After Effects, Cinema 4D) hiçbiri bu kritere tam olarak uymaz. Ancak, Premiere Pro bir düzenleme yazılımı iken, After Effects daha çok efekt/animasyona odaklanır. Premiere Pro, ücretli ve profesyonel bir araçtır.",
             "is_duplicate": true,
             "duplicate_of": 105,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 127,
@@ -2613,7 +2670,8 @@
             "explanation": "Ünite 6'da, LED Duvarlar başlığı altında, bu tekniğin yeşil ekrana göre avantajları şöyle sıralanmıştır: 'Maliyeti yeşil ekrana göre çok daha düşük olduğu için, çekim sonrası yapılan post prodüksiyon işlemlerini büyük ölçüde azalttığı için... LED duvar kullanıldığında görüntü eş zamanlı olarak arka plandan yansıtıldığı için aynı görüntü parlak yüzeylerde yansıma olarak belirmektedir ve ambiyansa uygun ışık ve renkler doğrudan oyuncuların üzerine yansımaktadır.' Bu, ışık ve renklerin doğru algılanmasını sağlar.",
             "is_duplicate": true,
             "duplicate_of": 31,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 130,
@@ -2652,8 +2710,10 @@
             "UniteNo": 6,
             "topic": "Unreal Engine 5 Özellikleri",
             "explanation": "Ünite 6'da, Unreal Engine 5 başlığı altında, dinamik \"sanallaştırılmış geometri” sistemi şu şekilde tanımlanmıştır: 'Unreal Engine 5'in dinamik \"sanallaştırılmış geometri” sistemi sayesinde nesnelerin yüzeyindeki ayrıntılar kamera mesafesi için gereken maksimum ayrıntı düzeyine göre çalışmaktadır.'",
-            "is_duplicate": false,
-            "occurrence_count": 1
+            "is_duplicate": true,
+            "occurrence_count": 1,
+            "duplicate_of": 107,
+            "duplication_reason": "Soru kökleri (anlamsal olarak), şık listeleri ve doğru cevaplar tamamen aynıdır. 'En maksimum' ifadesi ile 'maksimum' ifadesi arasındaki fark ve şık sıralamasındaki değişiklik önemsizdir."
         },
         {
             "id": 132,
@@ -2714,7 +2774,8 @@
             "explanation": "Ünite 2'de, RGB Renk Modeli şu şekilde tanımlanmıştır: 'Toplamsal renk modeli ve ışık renk modeli gibi farklı isimlerle de literatürde yer alan RGB renk modeli, elektronik cihazların ışık kullanılarak oluşturulması prensibine dayanır.' RGB modeli ışık renk modeli olarak da bilinir.",
             "is_duplicate": true,
             "duplicate_of": 38,
-            "original_source": "Yaz Okulu 2023-2024"
+            "original_source": "Yaz Okulu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 135,
@@ -2755,7 +2816,8 @@
             "explanation": "S. Pierce göstergeleri üç ana başlık altında ele almaktadır: görüntüsel gösterge (benzeyen), belirti (etki bırakan) ve simge (uzlaşım ile anlam kazanan). Bu sınıflandırma, Ünite 8'deki \"Benzetge\" başlığı altında net bir şekilde belirtilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 117,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 137,
@@ -2776,7 +2838,8 @@
             "explanation": "Ağ verilerine dayalı bibliyometrik veri haritaları oluşturmak, keşfetmek ve görselleştirmek için kullanılan araçlardan biri olarak VOSviewer'dan bahsedilmektedir. VOSviewer, ders kitabınızın 204-211 sayfalarında kısaca tanıtılan görselleştirme araçları arasındadır.",
             "is_duplicate": true,
             "duplicate_of": 114,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 138,
@@ -2817,7 +2880,8 @@
             "explanation": "Algı terimi; görme, tatma, koklama, işitme ve dokunma duyularıyla alınan uyarıların bellekte anlam oluşturma süreci olarak tanımlanır. Bu tanım, Ünite 8'deki \"Algı ve Algılama\" başlığı altında açıkça verilmiştir.",
             "is_duplicate": true,
             "duplicate_of": 116,
-            "original_source": "Dönem Sonu 2023-2024"
+            "original_source": "Dönem Sonu 2023-2024",
+            "duplication_reason": "Exact Text Match"
         },
         {
             "id": 140,

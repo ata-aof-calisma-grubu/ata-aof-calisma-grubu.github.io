@@ -4,7 +4,7 @@
 
 ### Bitmap ve Vektörel Çizim
 
-1. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?
+1. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir? *(2 kez soruldu)*
     - A-) Renk zenginliği ve detay düzeylerinin düşük olması
     - B-) Düzenleme seçeneklerinin kısıtlı olması
     - C-) Katman kullanımının desteklenmemesi
@@ -14,14 +14,17 @@
     > **Açıklama:** Vektörel çizim, ölçeklenebilirlik ve küçük dosya boyutları avantajlarına sahipken; bitmap görüntü işleme, piksel tabanlı olduğu için ölçeklendirme (büyütme/küçültme) sorunları yaşayabilir ve genellikle büyük dosya boyutlarına sahip olabilir. Dolayısıyla, ölçeklendirme sorunları bitmap görüntü işlemenin vektörel çizime göre dezavantajıdır.
 
     <hr />
-1. 3\. Aşağıdakilerden hangisi vektörel çizim ile karşılaştırıldığında bitmap görüntü işlemenin dezavantajlarından biridir?
-    - A-) Yüksek çözünürlükte çalışmanın mümkün olmaması
-    - B-) Renk zenginliği ve detay düzeylerinin düşük olması
-    - **Cevap C-) Görüntü ölçeklendirmedeki olası kalite kayıpları**
-    - D-) Düzenleme seçeneklerinin kısıtlı olması
-    - E-) Katman kullanımının desteklenmemesi
 
-    > **Açıklama:** Vektörel çizim ölçeklenebilirlik ve küçük dosya boyutları sunarken, bitmap görüntü işlemenin dezavantajları büyük dosya boyutları ve ölçeklendirme sorunlarıdır. Metinde bitmap görüntülerin dezavantajları olarak büyük dosya boyutları ve ölçeklendirme sorunları belirtilmiştir.
+### Dijital Ses Düzenleme
+
+1. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir? *(4 kez soruldu)*
+    - A-) Rush
+    - B-) Premier Pro
+    - C-) Lightroom
+    - **Cevap D-) Adobe Audition**
+    - E-) InDesign
+
+    > **Açıklama:** Dijital ses, arayüz (UI) ve kullanıcı deneyimi (UX) tasarımında önem kazanmaktadır. Ses içeriklerini oluşturmak ve düzenlemek için kullanılan yazılımlardan biri Adobe Audition'dur. Ünite 1'de belirtildiği üzere, ses içerikleri oluşturmak ve düzenlemek için Audacity, Adobe Audition gibi ses editörleri kullanılır. Diğer şıklar (Premier Pro, Rush, InDesign, Lightroom) ise sırasıyla video düzenleme, video düzenleme ve grafik/tasarım alanlarında kullanılan yazılımlardır.
 
     <hr />
 
@@ -53,7 +56,7 @@
 
 ### Renk Armonileri
 
-1. 5\. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?
+1. 5\. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir? *(2 kez soruldu)*
     - A-) Pastel renkler
     - B-) Anolog renkler
     - C-) Triadic renkler
@@ -61,19 +64,6 @@
     - E-) Ana renkler
 
     > **Açıklama:** Renk çemberinde birbirinin karşısındaki renkler, birlikte kullanıldığında yüksek kontrast oluşturan Tamamlayıcı Renklerdir. Analog renkler yan yana, Triadic eşit aralıklı üç renk, Tetrad eşit aralıklı dört renktir.
-
-    <hr />
-
-### Renk Çemberi ve Armoniler
-
-1. Birlikte yüksek kontrast oluşturan ve renk çemberinde birbirinin karşısında yer alan renklere ne ad verilir?
-    - **Cevap A-) Tamamlayıcı renkler**
-    - B-) Triadic renkler
-    - C-) Pastel renkler
-    - D-) Analog renkler
-    - E-) Ana renkler
-
-    > **Açıklama:** Renk çemberinde birbirinin karşısındaki renklere 'Tamamlayıcı Renkler' denir. Bu renkler, birlikte kullanıldıklarında yüksek kontrast oluşturarak dikkat çekici ve uyumlu kombinasyonlar yaratır.
 
     <hr />
 
@@ -87,19 +77,6 @@
     - E-) Üçüncül Renkler
 
     > **Açıklama:** Renk çemberinde birbirlerinin karşısındaki renklere Tamamlayıcı Renkler denir. Bu renkler, birlikte kullanıldıklarında yüksek kontrast oluştururlar ve renk harmonisi oluşturmada önemli bir rol oynarlar.
-
-    <hr />
-
-### Ses Formatları ve Düzenleme
-
-1. 4\. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir?
-    - **Cevap A-) Adobe Audition**
-    - B-) InDesign
-    - C-) Premier Pro
-    - D-) Rush
-    - E-) Lightroom
-
-    > **Açıklama:** Metinde ses içerikleri oluşturmak ve düzenlemek için Audacity ve Adobe Audition gibi ses editörlerinin kullanıldığı belirtilmiştir. MP3, AAC, WAV gibi formatlar ise ses dosyası formatlarıdır, yazılım değildir.
 
     <hr />
 
@@ -133,7 +110,7 @@
 
 ### Form Bileşenleri
 
-1. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir?
+1. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir? *(2 kez soruldu)*
     - A-) Düğme (Button)
     - B-) Onay Kutusu (Checkbox)
     - C-) Liste Kutusu (Listbox)
@@ -141,16 +118,6 @@
     - E-) Metin Alanı (Textfield)
 
     > **Açıklama:** Form Bileşenleri, kullanıcıdan veri toplamak için kullanılır ve etkileşimin temelini oluşturur. Arayüz tasarımında Form Bileşenleri arasında Düğme, Metin Alanı, Onay Kutusu, Radyo Düğmesi, Açılır Liste, Liste Kutusu, Geçiş Düğmesi ve Tarih Alanı sayılmıştır. 'Bağlantı (Link)' ise bir Gezinti Bileşenidir, Form Bileşeni değildir.
-
-    <hr />
-1. 6\. Aşağıdakilerden hangisi arayüz tasarımında kullanılan form bileşenlerinden biri değildir?
-    - A-) Liste Kutusu (Listbox)
-    - B-) Düğme (Button)
-    - C-) Onay Kutusu (Checkbox)
-    - D-) Metin Alanı (Textfield)
-    - **Cevap E-) İpucu (Tooltip)**
-
-    > **Açıklama:** Form Bileşenleri, kullanıcıdan veri toplamak için kullanılırken; Düğme, Metin Alanı, Onay Kutusu, Radyo Düğmesi gibi ögeler form bileşenleridir. İlerleme Çubuğu (Progress Bar) ise Bilgilendirme Bileşenleri grubuna aittir, veri toplamaz.
 
     <hr />
 
@@ -169,7 +136,7 @@
 
 ### Tasarım İlkeleri
 
-1. Arayüz tasarımında ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.
+1. Arayüz tasarımında ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular. *(2 kez soruldu)*
     - A-) estetik
     - **Cevap B-) sezgisellik**
     - C-) karşıtlık
@@ -177,16 +144,6 @@
     - E-) erişilebilirlik
 
     > **Açıklama:** Arayüz tasarım ilkeleri arasında, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve alışkanlıklarıyla çelişmeyecek şekilde keşfetmelerini sağlayan ilke 'Sezgisellik'tir. Metinde, tasarım ilkeleri arasında 'sezgisellik'in yer aldığı belirtilmiştir.
-
-    <hr />
-1. 9\. Arayüz tasarımında ---- ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve var olan alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular.
-    - A-) erişilebilirlik
-    - **Cevap B-) sezgisellik**
-    - C-) karşıtlık
-    - D-) ritim ve tekrar
-    - E-) estetik
-
-    > **Açıklama:** Arayüz tasarımında 'sezgisellik' ilkesi, kullanıcıların arayüzü en az çabayla, hızlı, kolay ve mevcut alışkanlıklarıyla çelişmeyecek şekilde keşfedebilmeleri gerektiğini vurgular. Metinde sezgiselliğin bu şekilde tanımlandığı belirtilmiştir.
 
     <hr />
 
@@ -290,19 +247,6 @@
 
     <hr />
 
-### Kullanıcı Deneyimi (UX)
-
-1. 11\. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ---- ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) altbilgi (footer)
-    - B-) kenar çubuğu (aside/)
-    - C-) içerik haritası (breadcrumb)
-    - **Cevap D-) başlık (header)**
-    - E-) ana içerik (body)
-
-    > **Açıklama:** Kullanıcı deneyimi (UX), dijital teknoloji kullanımının bir sonucu olarak kullanıcının bir ürün ya da hizmeti kullanırken yaşadığı her türlü etkileşimi, duyguyu, düşünceyi ve tepkiyi içeren kavramdır. Başarılı bir UX tasarımı, kullanıcı deneyimini iyileştirerek marka sadakatini güçlendirir.
-
-    <hr />
-
 ### Kullanıcı Hikâyesi Haritalama
 
 1. 14\. Gestalt İlkeleri, görsel iletişim bağlamında tasarımcılara kılavuzluk eden temel bir rehber niteliğindedir. Yukarıdaki ifadeye göre, aşağıdakilerden hangisi Gestalt İlkelerinin temel prensiplerinden biri değildir?
@@ -318,7 +262,7 @@
 
 ### Kullanılabilirlik Testleri
 
-1. ---------- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ---------- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) Anova
     - B-) T-Test
     - C-) Göz İzleme Testi
@@ -331,7 +275,7 @@
 
 ### Tasarım Düşüncesi Süreci
 
-1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir? *(2 kez soruldu)*
+1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verilir? *(3 kez soruldu)*
     - A-) Mükemmelleştirme
     - **Cevap B-) Beyin Fırtınası (Brainstorming)**
     - C-) Teknoloji Analizi (Benchmarking)
@@ -339,19 +283,6 @@
     - E-) Storyboard
 
     > **Açıklama:** Beyin Fırtınası (Brainstorming), kullanıcı deneyimi tasarım sürecinde, özellikle 'Fikir Üretme (Ideate)' aşamasında, her türlü kısıtlama olmaksızın fikirlerin paylaşılması için kullanılan temel bir yaratıcı düşünme tekniğidir. Metinde bu tekniğin, Tasarım Fikrinin Oluşumu başlığı altında sıralandığı görülmektedir.
-
-    <hr />
-
-### Tasarım Düşüncesi Teknikleri
-
-1. Her türlü düşünceye açık bir ortamda ekip üyelerinin herhangi bir kural olmaksızın fikirlerini paylaşmasını öngören yaratıcı düşünme tekniğine ne ad verlir?
-    - A-) Storyboard
-    - B-) Teknoloji Analizi (Benchmarking)
-    - C-) Mükemmelleştirme
-    - D-) Moodboard
-    - **Cevap E-) Beyin Fırtınası (Brainstorming)**
-
-    > **Açıklama:** Beyin Fırtınası (Brainstorming), tasarım odaklı düşünme sürecinde, kullanıcıların odak noktası olmaksızın fikirlerini serbestçe paylaşmasını sağlayan kreatif düşünme tekniklerinden biridir.
 
     <hr />
 
@@ -372,7 +303,7 @@
 
 ### CSS Tanımı
 
-1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(3 kez soruldu)*
     - **Cevap A-) CSS**
     - B-) JavaScript
     - C-) JSS
@@ -422,19 +353,6 @@
 
     <hr />
 
-### Mobil İşletim Sistemleri
-
-1. 17\. ---- iki veya daha fazla değişkenin karşılaştırılması amacıyla kullanılan istatistiksel bir deney tasarımıdır. Genellikle web siteleri, mobil uygulamalar veya pazarlama materyalleri gibi dijital ortamlarda kullanılan farklı versiyonların performanslarını ölçmek için uygulanır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Göz İzleme Testi
-    - B-) Anova
-    - **Cevap C-) A/B Testi**
-    - D-) Metrix
-    - E-) T-Test
-
-    > **Açıklama:** Metinde Android ve iOS'un mobil işletim sistemleri pazarının hakim oyuncuları olduğu belirtilmiştir. Apple'ın Human Interface Guidelines (HIG) ise iOS ve macOS için tasarım prensiplerini belirler. Android, Google tarafından geliştirilmiştir.
-
-    <hr />
-
 ### Video Yükleme Optimizasyonu
 
 1. Web ve mobil uygulama arayüzlerinde video içeriği kullanırken uygulanan "Tembel Yükleme (Lazy Loading)" tekniği aşağıdaki sorunlardan hangisini çözmeye yardımcı olur? *(2 kez soruldu)*
@@ -476,7 +394,7 @@
 
 ### Web Arayüzü Anatomisi
 
-1. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. Duyarlı (responsive) tasarıma uygun olarak oluşturulan web arayüzlerinde ziyaretçilere platformun temel içeriği ve işlevleri hakkında hızlı bir özet sağlar; logo, gezinme menüsü, arama fonksiyonu ve kullanıcı girişi gibi bileşenleri barındırır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - A-) içerik haritası (breadcrumb)
     - B-) ana içerik (body)
     - **Cevap C-) başlık (header)**
@@ -489,7 +407,7 @@
 
 ### Web Teknolojileri
 
-1. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?
+1. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz? *(2 kez soruldu)*
     - A-) C#
     - B-) Python
     - C-) SQL
@@ -509,46 +427,10 @@
     > **Açıklama:** Web sitelerinin tasarım ve geliştirme hızını artırmak için kullanılan tasarım sistemleri arasında Ant Design, Bootstrap, Tailwind ve Foundation yer alır. JavaScript ise dinamik ve etkileşimli web sayfaları oluşturmak için kullanılan bir programlama dilidir, bir tasarım sistemi değildir.
 
     <hr />
-1. 20\. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
-    - A-) İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.
-    - **Cevap B-) İnternet, dünya genelinde milyonlarca bilgisayarın birbirine bağlı olduğu geniş bir ağdır, web ise bu ağ üzerindeki dijital içeriklere erişim sağlar.**
-    - C-) Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.
-    - D-) Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.
-    - E-) HTTP üzerinde çalışan ağ yapılarına internet, HTTPS üzerinde çalışanlara ise web adı verilir.
-
-    > **Açıklama:** Ön uç (front-end) geliştirmede HTML, CSS ve JavaScript kullanılır. Arka uç (back-end) ise sunucu tarafı işlemleriyle ilgilenir. Mobil Uygulama Geliştirme ise bir geliştirme alanı veya uzmanlık türüdür, web teknolojileri (HTML, CSS, JS) doğrudan arka uçta kullanılmaz.
-
-    <hr />
-
-### Web Teknolojileri (CSS)
-
-1. HTML ögelerinin görsel sunumunu düzenlemek için geliştirilmiş bir betik dilidir, web sayfalarının nasıl görüneceğini ve kullanıcı deneyiminin nasıl olacağını yönetmeye imkân verir. *(2 kez soruldu)*
-    - **Cevap A-) CSS**
-    - B-) JavaScript
-    - C-) JSS
-    - D-) Web
-    - E-) CES
-
-    > **Açıklama:** CSS (Cascading Style Sheets), HTML ögelerinin görsel sunumunu düzenlemek, web sayfalarının görünümünü ve kullanıcı deneyimini yönetmek için geliştirilmiş bir betik dilidir.
-
-    <hr />
-
-### Web Çalışma Adımları
-
-1. 19\. Aşağıdaki web teknolojilerinden hangisi arka uç (back-end) geliştirmede kullanılmaz?
-    - A-) Python
-    - B-) C#
-    - C-) SQL
-    - **Cevap D-) CSS**
-    - E-) PHP
-
-    > **Açıklama:** Web'deki iletişimin temeli sunucu ve istemci arasında gerçekleşen veri akışıdır. Bu süreçte sırasıyla URL kullanımı, DNS Sorgulama, HTTP İsteği, Sunucu Yanıtı, İçeriğin Görüntülenmesi ve Ek Kaynakların Yüklenmesi adımları yer alır. Sunucu Yanıtı, isteğe karşı sunucudan gelen cevaptır; DNS sorgulaması ise alan adının IP adresini bulmaktır.
-
-    <hr />
 
 ### İnternet ve Web Farkı
 
-1. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+1. İnternet ile web arasındaki fark ile ilgili aşağıdaki ifadelerden hangisi doğrudur? *(2 kez soruldu)*
     - A-) İnternet ve web aynı şeydir; her ikisi de dijital içeriklerin paylaşılmasını sağlar.
     - B-) Web, internetin bir parçası olup e-posta ve dosya transferi gibi hizmetleri içerir.
     - C-) Web, global bilgisayar ağ yapısının genel adıdır, internet ise webin altında çalışan popüler bir servistir.
@@ -571,19 +453,6 @@
     - **Cevap E-) Uygulamalar veya web siteleri için daha hızlı yükleme sürelerini sağlaması**
 
     > **Açıklama:** Arayüz animasyonları; ilgi çekme, hikâye anlatımını güçlendirme, kullanıcı deneyimini iyileştirme ve deneyime konu olan öznenin kişiliğini ifade etme gibi avantajlar sunar. Ancak metin ile dolu bir arayüzü karmaşık olmaktan kurtarması, metin olmadan iletişim kurmayı sağlaması ve estetik değer sunması birer avantajdır. Ancak metnin kendisi, animasyonun sunduğu bir avantajdan ziyade, animasyonun iyileştirdiği bir unsur olarak düşünülebilir. Metin, animasyonun olmadığı bir durumda da bilgi aktarımı için temeldir. Soruda 'değildir' istendiği için, animasyonun temel faydası olmayan bir seçenek aranmalıdır. Metin; görsel algılama/bilişsel yükü azaltma gibi faydaları destekler, ancak metin yerine geçmekten ziyade tamamlayıcıdır. Verilen seçenekler arasında, animasyonun birincil amacı olmayan (metnin işlevini üstlenmekten ziyade metni desteklemek) bir ifade aranmalıdır. Animasyonun temel amacı; akıcı geçişler, anlık geri bildirimler, estetik değer katmak ve dikkati yönlendirmektir. 'Metin ile dolu bir kullanıcı arayüzünü karmaşık olmaktan kurtarmak' değil, metin olmadan iletişim kurmayı sağlamaktır. Metin, arayüzün temelidir. Animasyonun temel amacı, kullanıcı deneyimini iyileştirmek ve estetik değer sunmaktır. Metin olmadan iletişim kurma imkanı sunması, metnin olmadığı bir durumda bile iletişimi mümkün kılmak anlamına gelmez, aksine metnin zorlayıcı olduğu yerde iletişimi kolaylaştırır. Bu bağlamda, 'Metin ile dolu bir arayüzü karmaşık olmaktan kurtarma' ifadesi en zayıf avantajdır veya diğer seçenekler kadar doğrudan bir fayda değildir.
-
-    <hr />
-
-### Animasyon Tanımı
-
-1. ----- cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar.<br />Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kısa Film
-    - B-) Video
-    - **Cevap C-) Animasyon**
-    - D-) Sunum
-    - E-) Efekt
-
-    > **Açıklama:** Animasyon kelimesi, Latince 'anima' kökünden türemiştir ve özünde can, ruh veya hayat anlamına gelir. Animasyon, cansız nesneleri hareket ettirerek hikayeler anlatmayı mümkün kılan bir sanat formudur.
 
     <hr />
 
@@ -628,7 +497,7 @@
 
 ### Hareket Tasarımı Tanımı
 
-1. cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
+1. cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(4 kez soruldu)*
     - A-) Kısa Film
     - B-) Efekt
     - C-) Video
@@ -638,20 +507,10 @@
     > **Açıklama:** Cansız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan sanat formuna 'Animasyon' adı verilir. Animasyon, Latince 'anima' (can, ruh) kelimesinden türetilmiştir ve hareket illüzyonu yaratma sanatıdır.
 
     <hr />
-1. cansıız nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan bir kendini ifade etme çabasına veya sanat formuna vurgu yapar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - A-) Kısa Film
-    - B-) Video
-    - **Cevap C-) Animasyon**
-    - D-) Sunum
-    - E-) Efekt
-
-    > **Açıklama:** Metinde, canı olan nesneleri hareket ettirerek hikâyeler anlatmayı mümkün kılan sanat formuna Animasyon denildiği belirtilmektedir. Animasyon, Latince 'anima' (can, ruh) kökünden türemiştir ve bir hikâye anlatımını güçlendirir.
-
-    <hr />
 
 ### Hareket Tasarımı Uygulama Alanları
 
-1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz?
+1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz? *(3 kez soruldu)*
     - A-) Video ve Film Prodüksiyonu
     - B-) Kullanıcı Arayüzleri (UI)
     - C-) Dijital Reklamlar
@@ -659,19 +518,6 @@
     - **Cevap E-) E-kitap Yayıncılığı**
 
     > **Açıklama:** Hareket tasarımı, UI/UX, dijital reklamlar, sosyal medya ve video prodüksiyonunda yoğun olarak kullanılır. Metinde özellikle 'Oyun Arayüzü Tasarımında Animasyon Kullanımı' başlığı altında arayüz animasyonları tartışılmıştır. Ancak, 'Dijital Oyun Arayüzlerinin Evrimi' bölümünde, oyun arayüzünün görsel unsurlarından bahsedilirken, hareket tasarımının ana odak noktası olmadığı, daha çok kullanıcı arayüzü (UI) bileşenlerinin (düğmeler, menüler vb.) görsel ve etkileşimli sunumuna odaklanıldığı belirtilir. Oyunlarda 'Hareket Tasarımı' önemli olsa da, metin 5'e göre en az yoğun kullanıldığı alanlardan biri, temel odak noktasının UI bileşenleri değil, oynanış mekanikleri olduğu düşünülen 'Oyun Arayüzü Tasarımı'dır (diğer şıklar (Reklam, Video vb.) ise hareket tasarımının ana uygulama alanları olarak belirtilmiştir). Ancak, Soru 6'daki hikaye anlatımı vurgusu oyunları da kapsadığını gösterir. Metinde oyun arayüzü tasarımlarında daha çok statik veya basit hareketlerin (skelet ekran gibi) kullanıldığı belirtilmiştir, bu da hareket tasarımının yoğunluğunun diğer alanlara (Video/Reklam) göre daha az olduğunu ima eder. Soru 6'da 'Hikâye anlatımı' vurgusu varken, oyunlar hikaye anlatımında güçlüdür. Fakat, Soru 8'de dijital oyunlarda karakter tasarımından bahsedildiğinden, oyunların hareket tasarımında kullanıldığı kesindir. Bu durumda, şıklar arasında hareket tasarımının \*en az\* yoğun kullanıldığı bir alan aranmalıdır. Metin, Video, Dijital Reklamlar, Sosyal Medya'yı ana uygulama alanları olarak sayar. Dijital Oyun Arayüzleri ise UI/UX başlığı altında ele alınır. Oyun arayüzlerinde hareketin bir geri bildirim aracı olarak kullanıldığı belirtilse de, genel olarak dijital oyunların temel taşı kodlama ve görsel tasarım (statik) iken, diğer seçenekler doğrudan hareket odaklıdır.
-
-    <hr />
-
-### Hareket Tasarımı Uygulamaları
-
-1. Aşağıdaki dijital medya türlerinin hangisinde hareket tasarımının yoğun bir şekilde kullanılmaz? *(2 kez soruldu)*
-    - A-) Kullanıcı Arayüzleri (UI)
-    - B-) Dijital Reklamlar
-    - C-) Video ve Film Prodüksiyon
-    - **Cevap D-) E-kitap Yayıncılığı**
-    - E-) Sosyal Medya
-
-    > **Açıklama:** Hareket tasarımının öne çıktığı uygulamalar arasında Kullanıcı Arayüzleri (UI), Dijital Reklamlar, Sosyal Medya, Video ve Film Prodüksiyonu ve Sunular sayılmıştır. Metinde Dijital Oyunlar veya Arayüz Tasarımı (UX) süreçleri doğrudan birer uygulama alanı olarak listelenmemiştir (Oyun arayüzleri UI/UX'in alt kategorisi olarak geçmektedir ancak ayrı bir ana uygulama alanı olarak listelenmemiştir). Dijital Oyunlar (Ünite 6) ve Arayüz Tasarımı (Ünite 2, 3) ayrı ünitelerdir. Ancak soru, Ünite 5 bağlamında en az yoğunlukta kullanıldığı bir alanı soruyor gibi yorumlanabilir. Hareket tasarımının en çok kullanıldığı alanlar Video/Film ve UI'dır. Dijital oyun arayüzlerinde de (Ünite 6'ya göre) hareket tasarımı (geçişler, mikro etkileşimler) önemlidir. Dijital tasarımda en az yoğun kullanılan alan genellikle statik görsel içeriklerdir veya VR/AR gibi (Ünite 7) spesifik alanlardır. Ancak verilen listeye göre en az vurgulananlar oyun arayüzleridir.
 
     <hr />
 
@@ -742,22 +588,22 @@
 
     <hr />
 
-### Erken Dönem Video Oyunları
+### Erken Dönem Oyunlar
 
 1. Aşağıdakilerden hangisi erken dönem video oyunlarından biri değildir? *(3 kez soruldu)*
-    - A-) Spacewar
-    - B-) OXO
-    - C-) Pong
-    - D-) Pac-Man
-    - **Cevap E-) Pokemon**
+    - A-) Pong
+    - B-) Pac-Man
+    - C-) Spacewar
+    - **Cevap D-) Pokemon**
+    - E-) OXO
 
-    > **Açıklama:** Erken dönem video oyunları arasında OXO (1952), Tennis for Two (1958) ve Spacewar (ilk popüler bilgisayar oyunu) bulunmaktadır. Atari'nin Pong (1972) oyunu da ticari başarı kazanan ilk oyunlardandır. Super Mario Bros. (1985) veya Mortal Kombat (1992) ise daha sonraki dönemlere aittir.
+    > **Açıklama:** Erken dönem video oyunlarına OXO (1952), Tennis for Two (1958) ve Spacewar dahildir. 'Mortal Kombat' ise 1992'de yaratılmıştır ve erken dönem oyunları kategorisinde değerlendirilmez, daha çok 3B deneyime yakınlaşma dönemi ile ilişkilidir (Ünite 6).
 
     <hr />
 
 ### Oyun Arayüz Bileşenleri
 
-1. ----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br />Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
+1. ----- bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.<br />Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? *(2 kez soruldu)*
     - **Cevap A-) Mekânsal (Spatial)**
     - B-) Oyun-içi (Diegetic)
     - C-) Oyun-dışı (Non-diegetic)
@@ -765,16 +611,6 @@
     - E-) Meta
 
     > **Açıklama:** Ünite 6'da 'Oyun Arayüzlerinin Temel Bileşenleri' başlığı altında, 'Mekânsal (Spatial) Bileşenler' tanımında, bu bileşenlerin oyunun mekanında bulunduğu ancak karakterler tarafından görülmediği; seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabileceği belirtilmektedir. Bu tanım boş bırakılan yere uymaktadır.
-
-    <hr />
-1. bileşenler genellikle görsel yardımcılar olarak işlev görür, oyunculara nesneleri seçmelerinde yardımcı olur veya önemli yer işaretlerini gösterir. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?
-    - **Cevap A-) Mekânsal (Spatial)**
-    - B-) Oyun-içi (Diegetic)
-    - C-) Oyun-dışı (Non-diegetic)
-    - D-) Kullanıcı Arayüzü (UI)
-    - E-) Meta
-
-    > **Açıklama:** Ünite 6'da 'Oyun Arayüzlerinin Temel Bileşenleri' başlığı altında, Mekânsal (Spatial) Bileşenler şu şekilde tanımlanmıştır: 'Mekânsal arayüz bileşenleri, oyunun mekanında bulunur ancak oyun içindeki karakterler tarafından görülmezler. Bunlar seçim auraları, istikamet gösterici işaretler veya tanım gösteren yazılar olabilir.' Bu tanım, boş bırakılan yere tam olarak uymaktadır.
 
     <hr />
 
@@ -913,13 +749,13 @@
 ### VR Tarihsel Gelişimi
 
 1. Başa takılan ekranların ilk örneklerinden biri olarak kabul edilen ve sanal gerçeklik teknolojisinin gelişiminde önemli bir yere sahip olan stereoskopik sisteme ne ad verilir? *(3 kez soruldu)*
-    - **Cevap A-) Telesfer Maskesi**
+    - A-) Sensorama
     - B-) Pygmalion'un Gözlükleri
     - C-) Video Place
-    - D-) Sensorama
-    - E-) Demokles'in Kılıcı
+    - D-) Demokles'in Kılıcı
+    - **Cevap E-) Telesfer**
 
-    > **Açıklama:** Ünite 7'de, 1960'ta Morton Heilig tarafından icat edilen, kafaya takılabilen, bireysel kullanım amaçlı stereoskopik sisteme 'Telesfer Maskesi' adı verildiği ve bu cihazın HMD'nin ilk örneği olduğu belirtilmektedir.
+    > **Açıklama:** Ünite 7'de, Morton Heilig tarafından icat edilen ve sanal gerçeklik gözlüklerinin en ilkel versiyonu olan, stereoskopik bir sisteme sahip olan cihaza 'Telesfer Maskesi' adı verildiği belirtilmektedir. Bu cihaz, 1960'larda icat edilmiş olup HMD'nin ilk örneğidir.
 
     <hr />
 
@@ -1037,15 +873,5 @@
 
     > **Açıklama:** Yapay zekâ ve derin öğrenme teknikleri kullanılarak yapılan video manipülasyon tekniğine Deepfake adı verilir. Bu teknik, gerçek insanların yüzlerini, vücutlarını ve hareketlerini kurgu dışı videolarda taklit etmek için kullanılır.
 
-    <hr />
-
-## Ünite Diğer
-
-1. Aşağıdakilerden hangisi dijital ses düzenleme işlemlerinde yaygın olarak kullanılan yazılımlardan biridir? *(3 kez soruldu)*
-    - A-) Rush
-    - B-) Premier Pro
-    - C-) Lightroom
-    - **Cevap D-) Adobe Audition**
-    - E-) InDesign
     <hr />
 

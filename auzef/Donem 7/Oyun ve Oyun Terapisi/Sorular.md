@@ -15,35 +15,9 @@
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)
-
-2. Aşağıdaki kuramların hangisinin temelinde oyunun <ins>evrimsel biyolojik sürecin bir ürünü</ins> olduğu ve oyun gelişiminin <ins>insan soyunun evrimsel gelişimini izlediği</ins> yer alır?
-    - A-) Psikososyal Oyun Teorisi
-    - **Cevap B-) Özünü Yineleme Kuramı**
-    - C-) Psikodinamik Oyun Teorisi
-    - D-) İçgüdü-Eylem Kuramı
-    - E-) Becerilerin Eğitimi Teorisi
-
-    > **Açıklama:** <ins>Özünü Yineleme Kuramı</ins>, çocuğun atalarının deneyimlerini oyunda tekrar yaşayarak ilkel içgüdülerini kullandığını ve oyunun evrimsel biyolojik bir süreç olduğunu savunur.
-
-    <hr />
-
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)
-
-3. Oyun ile ilgili teorilerden hangisinin açıklaması şu şekildedir: “Oyun yoluyla çocuk yaşam boyunca gerekli olabilecek <ins>uyum becerilerini kazanır</ins>. Amaçsız gibi görünen eylemlerin aslında <ins>biyolojik bir amacı</ins> vardır. Uyum sağlamak ve gerektiğinde kullanmak için, taklit ile hazır oluşluğu sağlar”?
-    - A-) Bilişsel gelişim
-    - B-) Fazla enerjiyi tüketme teorisi
-    - C-) Psikodinamik kuram
-    - **Cevap D-) İç güdü-Eylem kuramı**
-    - E-) Özünü Yineleme kuramı
-
-    > **Açıklama:** Bu açıklama, oyunun gelecekteki rollere hazırlık ve <ins>uyum becerilerini kazanma</ins> işlevi gördüğünü belirten <ins>İçgüdü-Eylem Kuramı</na> (alıştırma kuramı) ile ilgilidir.
-
-    <hr />
-
 ### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
 
-4. Bir çocuğun oyun içerisinde <ins>duyuları ile tüm dünyayı tanımaya</ins> çalıştığı dönemin adı aşağıdakilerden hangisidir?
+1. Bir çocuğun oyun içerisinde <ins>duyuları ile tüm dünyayı tanımaya</ins> çalıştığı dönemin adı aşağıdakilerden hangisidir?
     - **Cevap A-) Bebeklik dönemi**
     - B-) Ergenlik dönemi
     - C-) Anal dönem
@@ -54,9 +28,7 @@
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-5. “Bebeğin temel gereksinimleri karşılanmalıdır. Temel haz <ins>emme davranışıdır</ins>.”
+2. “Bebeğin temel gereksinimleri karşılanmalıdır. Temel haz <ins>emme davranışıdır</ins>.”
 Yukarıda verilen özellik Freud’un psikoseksüel kuramının hangi döneminde görülür?
     - A-) Anal dönem
     - B-) Fallik dönem
@@ -68,9 +40,7 @@ Yukarıda verilen özellik Freud’un psikoseksüel kuramının hangi döneminde
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-6. Psikoseksüel gelişim dönemlerine göre <ins>Anal Dönem</ins> hangi yaş grubunu içerir?
+3. Psikoseksüel gelişim dönemlerine göre <ins>Anal Dönem</ins> hangi yaş grubunu içerir?
     - A-) 0-1 yaş
     - B-) 2-6 yaş
     - **Cevap C-) 1-3 yaş**
@@ -81,9 +51,7 @@ Yukarıda verilen özellik Freud’un psikoseksüel kuramının hangi döneminde
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-7. Çocuğun <ins>kendi cinselliğini keşfettiği</ins> dönemdir. Bu dönemde Oedipus kompleksinden bahsedilir. Aynı cinsten ebeveyni ile <ins>özdeşim</ins> dönemidir.
+4. Çocuğun <ins>kendi cinselliğini keşfettiği</ins> dönemdir. Bu dönemde Oedipus kompleksinden bahsedilir. Aynı cinsten ebeveyni ile <ins>özdeşim</ins> dönemidir.
 Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
     - A-) Anal dönem
     - B-) Latans dönemi
@@ -95,9 +63,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-8. Psikoseksüel gelişim dönemlerine göre <ins>Latans Dönemi</ins> hangi yaş grubunu içerir?
+5. Psikoseksüel gelişim dönemlerine göre <ins>Latans Dönemi</ins> hangi yaş grubunu içerir?
     - A-) 0-1 yaş
     - B-) 1-3 yaş
     - C-) 3-5 yaş
@@ -108,22 +74,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Türleri)
-
-9. “Bir çocuk <ins>kalemkutusunu bebek gibi</ins> kullanarak oyun kurar.” Yukarıda verilen oyun aşağıdakilerden hangisine örnektir?
-    - A-) Kurallı oyun
-    - B-) İşlevsel Oyun
-    - **Cevap C-) Sembolik oyun**
-    - D-) Taklit oyunu
-    - E-) Hiçbirisi
-
-    > **Açıklama:** Bir nesneyi başka bir nesne yerine kullanarak (mış gibi yaparak) oyun kurma, <ins>Sembolik oyuna</ins> örnektir. Bu, 2-4 yaş aralığında yaygındır.
-
-    <hr />
-
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-10. <ins>Senaryolu oyunlar</ins>, “-mış gibi” oyunlar hangi dönemde daha sık gözlenir?
+6. <ins>Senaryolu oyunlar</ins>, “-mış gibi” oyunlar hangi dönemde daha sık gözlenir?
     - A-) Okul çağı
     - **Cevap B-) Okul öncesi dönem**
     - C-) Ergenlik
@@ -134,9 +85,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Gelişimsel Dönemler)
-
-11. <ins>Kızlı erkekli gruplaşmalı oyunlar ve rekabete dayalı oyunlar</ins> hangi gelişim döneminde daha sık görülür?
+7. <ins>Kızlı erkekli gruplaşmalı oyunlar ve rekabete dayalı oyunlar</ins> hangi gelişim döneminde daha sık görülür?
     - A-) Ergenlik döneminde
     - B-) Her gelişim döneminde
     - C-) Okul öncesi dönemde
@@ -147,9 +96,44 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
     <hr />
 
+### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Kuramları)
+
+1. Aşağıdaki kuramların hangisinin temelinde oyunun <ins>evrimsel biyolojik sürecin bir ürünü</ins> olduğu ve oyun gelişiminin <ins>insan soyunun evrimsel gelişimini izlediği</ins> yer alır?
+    - A-) Psikososyal Oyun Teorisi
+    - **Cevap B-) Özünü Yineleme Kuramı**
+    - C-) Psikodinamik Oyun Teorisi
+    - D-) İçgüdü-Eylem Kuramı
+    - E-) Becerilerin Eğitimi Teorisi
+
+    > **Açıklama:** <ins>Özünü Yineleme Kuramı</ins>, çocuğun atalarının deneyimlerini oyunda tekrar yaşayarak ilkel içgüdülerini kullandığını ve oyunun evrimsel biyolojik bir süreç olduğunu savunur.
+
+    <hr />
+
+2. Oyun ile ilgili teorilerden hangisinin açıklaması şu şekildedir: “Oyun yoluyla çocuk yaşam boyunca gerekli olabilecek <ins>uyum becerilerini kazanır</ins>. Amaçsız gibi görünen eylemlerin aslında <ins>biyolojik bir amacı</ins> vardır. Uyum sağlamak ve gerektiğinde kullanmak için, taklit ile hazır oluşluğu sağlar”?
+    - A-) Bilişsel gelişim
+    - B-) Fazla enerjiyi tüketme teorisi
+    - C-) Psikodinamik kuram
+    - **Cevap D-) İç güdü-Eylem kuramı**
+    - E-) Özünü Yineleme kuramı
+
+    > **Açıklama:** Bu açıklama, oyunun gelecekteki rollere hazırlık ve <ins>uyum becerilerini kazanma</ins> işlevi gördüğünü belirten <ins>İçgüdü-Eylem Kuramı</na> (alıştırma kuramı) ile ilgilidir.
+
+    <hr />
+
 ### 1.2. Oyun Oynamanın Çocuk Gelişimindeki Yeri (Oyun Türleri)
 
-12. 1 – 2 yaş arası çocuklarda “İçeri-dışarı, it-çek, saklan-çık” gibi oyun becerilerini geliştiren oyun türü aşağıdakilerden hangi gruba dâhildir?
+1. “Bir çocuk <ins>kalemkutusunu bebek gibi</ins> kullanarak oyun kurar.” Yukarıda verilen oyun aşağıdakilerden hangisine örnektir?
+    - A-) Kurallı oyun
+    - B-) İşlevsel Oyun
+    - **Cevap C-) Sembolik oyun**
+    - D-) Taklit oyunu
+    - E-) Hiçbirisi
+
+    > **Açıklama:** Bir nesneyi başka bir nesne yerine kullanarak (mış gibi yaparak) oyun kurma, <ins>Sembolik oyuna</ins> örnektir. Bu, 2-4 yaş aralığında yaygındır.
+
+    <hr />
+
+2. 1 – 2 yaş arası çocuklarda “İçeri-dışarı, it-çek, saklan-çık” gibi oyun becerilerini geliştiren oyun türü aşağıdakilerden hangi gruba dâhildir?
     - A-) Sosyal oyun
     - B-) Yaratıcı oyun
     - C-) Duyusal motor oyun
@@ -162,7 +146,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
 ### 1.3. Oyunun Terapötik İşlevleri
 
-13. Aşağıdakilerden hangisi <ins>oyunun terapötik işlevlerinden</ins> biri değildir?
+1. Aşağıdakilerden hangisi <ins>oyunun terapötik işlevlerinden</ins> biri değildir?
     - A-) Duygusal iyilik halini destekleme
     - B-) İletişim kolaylaştırıcılık
     - C-) Sosyal ilişkileri destekleme
@@ -175,7 +159,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
 ### 1.3.1. İletişim Kolaylaştırıcılık
 
-14. Aşağıdakilerden hangisi oyunun <ins>iletişimi kolaylaştırmayı</ins> sağlayan işlevlerinden biri değildir?
+1. Aşağıdakilerden hangisi oyunun <ins>iletişimi kolaylaştırmayı</ins> sağlayan işlevlerinden biri değildir?
     - A-) Kendini ifade etme
     - **Cevap B-) Fiziksel büyüme sağlama**
     - C-) Bilinçdışına erişim
@@ -188,7 +172,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
 ### 1.3.2. Duygusal İyilik Halini Destekleme
 
-15. <ins>Bastırılmış yoğun duyguların sağaltılması</ins> ve bu duygulara dair farkındalık ve kontrolün artma hali nasıl isimlendirilir?
+1. <ins>Bastırılmış yoğun duyguların sağaltılması</ins> ve bu duygulara dair farkındalık ve kontrolün artma hali nasıl isimlendirilir?
     - **Cevap A-) Katarsis**
     - B-) Abreaksiyon
     - C-) Stres aşılama
@@ -199,9 +183,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.3.2. Duygusal İyilik Halini Destekleme
-
-16. Oyun yararları düşünüldüğünde oyun içerisinde kabul edilebilir <ins>saldırganlık ve hayal kırıklıkları</ins> yaşanabilir. Bu hangi açıdan oyunun faydası sayılmaktadır?
+2. Oyun yararları düşünüldüğünde oyun içerisinde kabul edilebilir <ins>saldırganlık ve hayal kırıklıkları</ins> yaşanabilir. Bu hangi açıdan oyunun faydası sayılmaktadır?
     - A-) Motor ve sosyal gelişime katkısı
     - B-) Fiziksel gelişime katkısı
     - C-) Bilişsel gelişimi katkısı
@@ -214,7 +196,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
 ### 1.3.3. Sosyal İlişkileri Destekleme
 
-17. Aşağıdakilerden hangisi oyunun sosyal ilişkileri nasıl desteklediğini <ins>açıklamaz</ins>?
+1. Aşağıdakilerden hangisi oyunun sosyal ilişkileri nasıl desteklediğini <ins>açıklamaz</ins>?
     - A-) Terapötik ilişki
     - B-) Bağlanma
     - C-) Empati
@@ -227,7 +209,7 @@ Yukarıda belirtilen döneme verilen ad aşağıdakilerden hangisidir?
 
 ### 1.3.4. Kişisel Güçleri Arttırma
 
-18. Aşağıdakilerden hangileri oyun terapilerinin <ins>temel hedefleri arasında sayılmaz</ins>?
+1. Aşağıdakilerden hangileri oyun terapilerinin <ins>temel hedefleri arasında sayılmaz</ins>?
 I. Olumlu benlik algısını geliştirmek
 II. Çocukta sorunla başa çıkma becerilerini geliştirmek
 III. <ins>Aile ile olan bağları düzeltmek, boşanmayı engellemek</ins>
@@ -244,9 +226,45 @@ VI. Çocuğun yenilgiye tahammülünü ve dürtü kontrolünü arttırmak
 
     <hr />
 
+### 1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)
+
+1. Bağlanma Kuramına göre sağlıklı nüfusun yüzde kaçında <ins>güvenli bağlanma</ins> gelişmiştir?
+    - A-) Yüzde 50
+    - B-) Yüzde 75
+    - **Cevap C-) Yüzde 65**
+    - D-) Yüzde 100
+    - E-) Yüzde 80
+
+    > **Açıklama:** Bağlanma Kuramına göre, sağlıklı nüfusun yaklaşık <ins>yüzde 65’inde</ins> güvenli bağlanma stili gelişmiştir.
+
+    <hr />
+
+2. Bebek annesi ayrıldığında <ins>aşırı tepki veriyor</ins> ve annesi geldiğinde <ins>umursamaz davranıyorsa</ins> bu bebekteki bağlanma türü hangisidir?
+    - A-) Kaygılı kararsız bağlanma
+    - B-) Korkusuz bağlanma
+    - C-) Kaygılı kaçıngan bağlanma
+    - D-) Güvenli bağlanma
+    - **Cevap E-) Dezorganize bağlanma**
+
+    > **Açıklama:** Bu tutarsız ve düzensiz tepki örüntüsü (<ins>aşırı tepkiyi umursamazlık takip etmesi</ins>) <ins>Dezorganize Bağlanma</ya</ins> işaret eder. İhmal ve istismar görmüş çocuklarda daha sık görülür.
+
+    <hr />
+
+3. “Bu bebekler anneleri varken bile <ins>huzursuzdurlar</ins> ve anne ile kavuşunca yine de <ins>protestoya devam edebilirler</ins>.”
+Yukarıda verilen tanımlama hangi bağlanma türü için belirgindir?
+    - A-) Güvenli bağlanma
+    - B-) Kaçıngan
+    - C-) Anksiyöz kaçıngan
+    - **Cevap D-) Anksiyöz-ambivalan**
+    - E-) Dezorganize
+
+    > **Açıklama:** Huzursuz davranışlar ve anneye karşı çelişkili/kararsız tepkiler (<ins>protestonun devam etmesi</ins>), <ins>Anksiyöz-Ambivalan</ins> bağlanma türünün belirgin özelliğidir.
+
+    <hr />
+
 ### 1.4.1. Psikanalitik Çocuk Terapisi
 
-19. “Çocukla oyun aracılığı ile gerçekleştirilen psikoterapi sürecinde, oyun çocukların <ins>serbest çağrışımda</ins> bulunmalarına destek olarak çözümleyemedikleri duyguları ve çatışmaları ifade etmelerine ve dönüştürmelerine alan açar.”
+1. “Çocukla oyun aracılığı ile gerçekleştirilen psikoterapi sürecinde, oyun çocukların <ins>serbest çağrışımda</ins> bulunmalarına destek olarak çözümleyemedikleri duyguları ve çatışmaları ifade etmelerine ve dönüştürmelerine alan açar.”
 Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
     - A-) Çocuk merkezli oyun terapisi
     - B-) Deneyimsel oyun terapisi
@@ -258,9 +276,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.1. Psikanalitik Çocuk Terapisi
-
-20. Aşağıdakilerden hangisi <ins>psikodinamik oyun terapisinin</ins> esas aldığı temel ilkelerden biri değildir?
+2. Aşağıdakilerden hangisi <ins>psikodinamik oyun terapisinin</ins> esas aldığı temel ilkelerden biri değildir?
     - A-) Çocuklar yaşadıkları bilinçdışı çatışmaların üstesinden gelemeyebilirler.
     - **Cevap B-) Çocukların sorunlu yaşantıları <ins>görüşmede konuşularak serbest çağrışım ile çözülür</ins>.**
     - C-) Çocukların sahip oldukları semptomların bir anlamı vardır.
@@ -271,48 +287,9 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)
-
-21. Ayşe 5 yaşında anaokuluna giden bir kız çocuğudur. Son 2 aydır öğretmenleri Ayşe’nin <ins>parmak emmeye</ins> başladığını fark etmişler ve ailesi ile konuştuklarında geçtiğimiz dönem bir kardeşi doğduğunu öğrenmişler. Bu durumda Ayşe’nin verdiği tepkiye verilen ad aşağıdakilerden hangisidir?
-    - A-) Aktarım - Yapma bozma
-    - B-) Karşıt aktarım - İnkar
-    - C-) Savunma mekanizması - İnkar
-    - D-) Aktarım - Regresyon
-    - **Cevap E-) Savunma mekanizması - Regresyon**
-
-    > **Açıklama:** Yaşadığı stres veya kaygıya tepki olarak daha erken bir gelişim evresine (bebeklik dönemi davranışı olan parmak emmeye) geri dönmesi <ins>Savunma Mekanizması - Regresyon</ins> olarak adlandırılır.
-
-    <hr />
-
-### 1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)
-
-22. Genelde dürtüsel ve öfkeli olan bir ressamın eserlerinin daha dışavurumcu ve güçlü fırça darbeleri içermesi ne tür <ins>savunma düzeneğine</ins> örnektir?
-    - A-) Bastırma
-    - B-) Saldırganla özdeşim
-    - C-) Pasif agresyon
-    - **Cevap D-) Yüceltme**
-    - E-) İnkar
-
-    > **Açıklama:** <ins>Yüceltme</ins> (Sublimation), kabul edilemez dürtülerin (agresyon/dürtüsellik) toplum tarafından onaylanan, yaratıcı bir aktiviteye (sanat) dönüştürülmesidir.
-
-    <hr />
-
-### 1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)
-
-23. Aşağıdaki örneklerden hangisi kendisine bir görev verildiğinde itiraz etmeyen ama sürekli <ins>erteleyen ve geciktiren</ins> bir kişinin davranışını tanımlar?
-    - A-) Regresyon
-    - B-) Represyon
-    - C-) İnkar
-    - **Cevap D-) Pasif agresyon**
-    - E-) Yapma bozma
-
-    > **Açıklama:** Açıkça karşı çıkmadan, olumsuz davranışlarla (erteleme, geciktirme) direnç gösterme <ins>Pasif Agresyon</ins> savunma mekanizmasına örnektir.
-
-    <hr />
-
 ### 1.4.1. Psikanalitik Çocuk Terapisi (Kuramcılar)
 
-24. İnsanların <ins>sevgi, onay ve başarı</ins> gibi temel ihtiyaçları olduğunu ileri süren psikanalitik kuramcı aşağıdakilerden hangisidir?
+1. İnsanların <ins>sevgi, onay ve başarı</ins> gibi temel ihtiyaçları olduğunu ileri süren psikanalitik kuramcı aşağıdakilerden hangisidir?
     - **Cevap A-) Horney**
     - B-) Winnicott
     - C-) Maslow
@@ -323,9 +300,44 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
+### 1.4.1. Psikanalitik Çocuk Terapisi (Savunma Mekanizmaları)
+
+1. Ayşe 5 yaşında anaokuluna giden bir kız çocuğudur. Son 2 aydır öğretmenleri Ayşe’nin <ins>parmak emmeye</ins> başladığını fark etmişler ve ailesi ile konuştuklarında geçtiğimiz dönem bir kardeşi doğduğunu öğrenmişler. Bu durumda Ayşe’nin verdiği tepkiye verilen ad aşağıdakilerden hangisidir?
+    - A-) Aktarım - Yapma bozma
+    - B-) Karşıt aktarım - İnkar
+    - C-) Savunma mekanizması - İnkar
+    - D-) Aktarım - Regresyon
+    - **Cevap E-) Savunma mekanizması - Regresyon**
+
+    > **Açıklama:** Yaşadığı stres veya kaygıya tepki olarak daha erken bir gelişim evresine (bebeklik dönemi davranışı olan parmak emmeye) geri dönmesi <ins>Savunma Mekanizması - Regresyon</ins> olarak adlandırılır.
+
+    <hr />
+
+2. Genelde dürtüsel ve öfkeli olan bir ressamın eserlerinin daha dışavurumcu ve güçlü fırça darbeleri içermesi ne tür <ins>savunma düzeneğine</ins> örnektir?
+    - A-) Bastırma
+    - B-) Saldırganla özdeşim
+    - C-) Pasif agresyon
+    - **Cevap D-) Yüceltme**
+    - E-) İnkar
+
+    > **Açıklama:** <ins>Yüceltme</ins> (Sublimation), kabul edilemez dürtülerin (agresyon/dürtüsellik) toplum tarafından onaylanan, yaratıcı bir aktiviteye (sanat) dönüştürülmesidir.
+
+    <hr />
+
+3. Aşağıdaki örneklerden hangisi kendisine bir görev verildiğinde itiraz etmeyen ama sürekli <ins>erteleyen ve geciktiren</ins> bir kişinin davranışını tanımlar?
+    - A-) Regresyon
+    - B-) Represyon
+    - C-) İnkar
+    - **Cevap D-) Pasif agresyon**
+    - E-) Yapma bozma
+
+    > **Açıklama:** Açıkça karşı çıkmadan, olumsuz davranışlarla (erteleme, geciktirme) direnç gösterme <ins>Pasif Agresyon</ins> savunma mekanizmasına örnektir.
+
+    <hr />
+
 ### 1.4.2. Çocuk Merkezli Oyun Terapisi
 
-25. Danışan merkezli terapiyi <ins>Rogers</ins> oluşturmuşken, buradaki temel özellikler kime ilham vermiş ve çocuk merkezli oyun terapileri kuramını oluşturmuştur?
+1. Danışan merkezli terapiyi <ins>Rogers</ins> oluşturmuşken, buradaki temel özellikler kime ilham vermiş ve çocuk merkezli oyun terapileri kuramını oluşturmuştur?
     - A-) Rogers - Landreth
     - B-) Axline - Landreth
     - C-) Landreth - Schaefer
@@ -336,9 +348,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.2. Çocuk Merkezli Oyun Terapisi
-
-26. Aşağıdaki kuramcılardan hangisinin çocuk merkezli oyun terapisine katkısından <ins>bahsedilemez</ins>?
+2. Aşağıdaki kuramcılardan hangisinin çocuk merkezli oyun terapisine katkısından <ins>bahsedilemez</ins>?
     - A-) Schaefer
     - B-) Rogers
     - C-) Landreth
@@ -349,9 +359,21 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
+3. Oyunda çocuk kuklalardan birisini terapiste verir ve “Sen de anne ol.” der. Bunun üzerine terapist “Ben anneyim.” der. Ancak kuklayı alıp çocuk demeden “Anneyim, temizlik yapıyorum vs.” derse, bu çocuğun hayal gücüne müdahaledir, uygun değildir. “Tamam ben anneyim, bu nasıl bir anne?” gibi tanımlayıcı sorular sorabilir. 
+Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden hangisidir?
+    - A-) Yönlendirilmiş Oyun Terapisi
+    - B-) Psikodinamik Oyun Terapisi
+    - C-) Filial Terapi
+    - D-) Bilişsel Davranışçı Oyun Terapisi
+    - **Cevap E-) Çocuk Merkezli Oyun Terapisi**
+
+    > **Açıklama:** Bu yaklaşım, çocuğun verdiği role uyum sağlamayı, oyuna müdahale etmemeyi ve yansıtıcı/tanımlayıcı dil kullanmayı içeren <ins>Çocuk Merkezli Oyun Terapisine</ins> (Axline) aittir.
+
+    <hr />
+
 ### 1.4.3. Deneyimsel Oyun Terapisi
 
-27. “Oyunun kendisi bir psikoterapidir.” sözü kime aittir?
+1. “Oyunun kendisi bir psikoterapidir.” sözü kime aittir?
     - A-) Axline
     - **Cevap B-) Winnicott**
     - C-) Rogers
@@ -362,9 +384,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.3. Deneyimsel Oyun Terapisi
-
-28. Psikodinamik yaklaşımda <ins>“yeterince iyi anne ve geçiş nesnesi”</ins> kavramını kullanan terapist kimdir?
+2. Psikodinamik yaklaşımda <ins>“yeterince iyi anne ve geçiş nesnesi”</ins> kavramını kullanan terapist kimdir?
     - A-) Anna Freud
     - B-) Melanie Klein
     - C-) Erik Ericson
@@ -377,7 +397,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
 ### 1.4.5. Theraplay
 
-29. Oyun odasına ve oyuncaklara ihtiyaç duymadan gerçekleşen, <ins>ebeveyn ve çocuk arasındaki bağa ve ilişkiyi onarıp geliştirmeye</ins> odaklanan oyun terapisi yöntemi aşağıdakilerden hangisidir?
+1. Oyun odasına ve oyuncaklara ihtiyaç duymadan gerçekleşen, <ins>ebeveyn ve çocuk arasındaki bağa ve ilişkiyi onarıp geliştirmeye</ins> odaklanan oyun terapisi yöntemi aşağıdakilerden hangisidir?
     - **Cevap A-) Theraplay**
     - B-) Adleryan oyun terapisi
     - C-) Deneyimsel oyun terapisi
@@ -388,9 +408,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.5. Theraplay
-
-30. Theraplay ile ilgili aşağıdakilerden hangisi <ins>söylenemez</ins>?
+2. Theraplay ile ilgili aşağıdakilerden hangisi <ins>söylenemez</ins>?
     - **Cevap A-) Theraplay kökenini <ins>davranışçı kuramdan</ins> almıştır.**
     - B-) Temel amacı oyun aracılığıyla ebeveyn-çocuk arası etkileşimin arttırılmasıdır.
     - C-) Oyun sırasında bebeklerin sahip olduğu bağlanma özellikleri gözlemlenir.
@@ -401,9 +419,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.5. Theraplay
-
-31. Aşağıdaki theraplay ile ilgili terim-tanım eşleştirmelerinden hangisi yanlıştır?
+3. Aşağıdaki theraplay ile ilgili terim-tanım eşleştirmelerinden hangisi yanlıştır?
     - A-) Theraplay terapisti: Anne-babalar için rehberlik ederek yapılandırma sunar.
     - **Cevap B-) Besleme boyutu: Burada amaç çocuğun <ins>beceri geliştirmesinin</ins> hedeflenmesi ve özgüvenin oluşturulmasına yardımcı olmaktır.**
     - C-) Yapı boyutu: Çocuğun içinde bulunduğu atmosferin güvenli olmasıdır.
@@ -414,9 +430,7 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
 
     <hr />
 
-### 1.4.5. Theraplay
-
-32. Aşağıdakilerden hangisi Theraplay oyun terapisinin hedeflerinden birisi <ins>değildir</ins>?
+4. Aşağıdakilerden hangisi Theraplay oyun terapisinin hedeflerinden birisi <ins>değildir</ins>?
     - A-) Anne ve bebek arasındaki ilişkiye ve ihtiyaçlarına odaklanarak bu ihtiyaçların karşılanmasıdır.
     - B-) Çocuğun beceri geliştirmesinin hedeflenmesi ve bu sayede kendisine olan özgüveni ve yeterlilik hissinin oluşturulmasına yardımcı olmaktır.
     - C-) Ebeveyn ve çocuk arasında uyumlu ve keyifli bir etkileşimi amaçlar.
@@ -424,60 +438,6 @@ Yukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?
     - **Cevap E-) Öncelikle <ins>ebeveynin ruh sağlığında iyileşmeyi</ins> hedefler.**
 
     > **Açıklama:** Theraplay temel olarak <ins>ebeveyn-çocuk ilişkisini</ins> ve çocuğun gelişimini hedefler. <ins>Öncelikle ebeveynin ruh sağlığında iyileşmeyi hedeflemesi</ins>, Theraplay’ın doğrudan ve birincil hedefi değildir.
-
-    <hr />
-
-### 1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)
-
-33. Bağlanma Kuramına göre sağlıklı nüfusun yüzde kaçında <ins>güvenli bağlanma</ins> gelişmiştir?
-    - A-) Yüzde 50
-    - B-) Yüzde 75
-    - **Cevap C-) Yüzde 65**
-    - D-) Yüzde 100
-    - E-) Yüzde 80
-
-    > **Açıklama:** Bağlanma Kuramına göre, sağlıklı nüfusun yaklaşık <ins>yüzde 65’inde</ins> güvenli bağlanma stili gelişmiştir.
-
-    <hr />
-
-### 1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)
-
-34. Bebek annesi ayrıldığında <ins>aşırı tepki veriyor</ins> ve annesi geldiğinde <ins>umursamaz davranıyorsa</ins> bu bebekteki bağlanma türü hangisidir?
-    - A-) Kaygılı kararsız bağlanma
-    - B-) Korkusuz bağlanma
-    - C-) Kaygılı kaçıngan bağlanma
-    - D-) Güvenli bağlanma
-    - **Cevap E-) Dezorganize bağlanma**
-
-    > **Açıklama:** Bu tutarsız ve düzensiz tepki örüntüsü (<ins>aşırı tepkiyi umursamazlık takip etmesi</ins>) <ins>Dezorganize Bağlanma</ya</ins> işaret eder. İhmal ve istismar görmüş çocuklarda daha sık görülür.
-
-    <hr />
-
-### 1.4. Oyun ve Psikoterapi (Bağlanma Kuramı Temeli)
-
-35. “Bu bebekler anneleri varken bile <ins>huzursuzdurlar</ins> ve anne ile kavuşunca yine de <ins>protestoya devam edebilirler</ins>.”
-Yukarıda verilen tanımlama hangi bağlanma türü için belirgindir?
-    - A-) Güvenli bağlanma
-    - B-) Kaçıngan
-    - C-) Anksiyöz kaçıngan
-    - **Cevap D-) Anksiyöz-ambivalan**
-    - E-) Dezorganize
-
-    > **Açıklama:** Huzursuz davranışlar ve anneye karşı çelişkili/kararsız tepkiler (<ins>protestonun devam etmesi</ins>), <ins>Anksiyöz-Ambivalan</ins> bağlanma türünün belirgin özelliğidir.
-
-    <hr />
-
-### 1.4.2. Çocuk Merkezli Oyun Terapisi
-
-36. Oyunda çocuk kuklalardan birisini terapiste verir ve “Sen de anne ol.” der. Bunun üzerine terapist “Ben anneyim.” der. Ancak kuklayı alıp çocuk demeden “Anneyim, temizlik yapıyorum vs.” derse, bu çocuğun hayal gücüne müdahaledir, uygun değildir. “Tamam ben anneyim, bu nasıl bir anne?” gibi tanımlayıcı sorular sorabilir. 
-Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden hangisidir?
-    - A-) Yönlendirilmiş Oyun Terapisi
-    - B-) Psikodinamik Oyun Terapisi
-    - C-) Filial Terapi
-    - D-) Bilişsel Davranışçı Oyun Terapisi
-    - **Cevap E-) Çocuk Merkezli Oyun Terapisi**
-
-    > **Açıklama:** Bu yaklaşım, çocuğun verdiği role uyum sağlamayı, oyuna müdahale etmemeyi ve yansıtıcı/tanımlayıcı dil kullanmayı içeren <ins>Çocuk Merkezli Oyun Terapisine</ins> (Axline) aittir.
 
     <hr />
 
@@ -496,8 +456,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
-
 2. Aşağıdakilerden hangisi oyun terapisi odasının <ins>etkili işleyişini</ins> desteklemek için önerilen bir uygulamadır?
     - A-) Odayı haftalık olarak tamamen yeniden düzenlemek
     - **Cevap B-) Oda içinde yapılandırılmış, tematik alanlar oluşturmak**
@@ -508,8 +466,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
     > **Açıklama:** Oda içinde <ins>yapılandırılmış, tematik alanlar</ins> oluşturmak, çocuğun oyun seçeneklerini kategorize etmesine yardımcı olarak terapötik süreci destekler.
 
     <hr />
-
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
 
 3. Terapist, oyun terapisi odasına <ins>çok fazla oyuncak</ins> yerleştirirse çocukta hangi olumsuz durum gelişebilir?
     - A-) Artan terapötik derinlik
@@ -522,8 +478,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
-
 4. Terapötik ortamda <ins>“sessiz alan”</ins> olarak tanımlanan bir bölümün amacı aşağıdakilerden hangisidir?
     - A-) Çocuğun agresif davranışlarını artırmak
     - B-) Duyusal bütünlemeyi bozmak
@@ -534,8 +488,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
     > **Açıklama:** Sessiz alan, çocuğun aşırı uyarılma durumlarında <ins>regülasyonu</ins> sağlamasına ve duygusal deneyimlerini <ins>içe dönük işleyebilmesine</ins> (düşünme) olanak tanır.
 
     <hr />
-
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
 
 5. Aşağıdakilerden hangisi oyun terapisi odasının düzenlenmesinde temel terapötik amaçlardan biri <ins>değildir</ins>?
     - A-) Çocuğun duygularını özgürce ifade edebilmesini sağlamak
@@ -548,8 +500,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
-
 6. Oyun odası ile ilgili aşağıdaki bilgilerden hangisi <ins>yanlıştır</ins>?
     - A-) Oyun odasında bir lavabonun bulunması iyidir.
     - **Cevap B-) Oyun odasında mutlaka bir <ins>pencere</ins> olmalıdır.**
@@ -560,8 +510,6 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
     > **Açıklama:** Kaynaklarda bazı kuramcıların terapi sürecini etkileyeceği için <ins>penceresiz bir oda</ins> önerdiği veya pencerenin kapatılması gerektiğini belirttiği ifade edilmektedir. Bu nedenle pencerenin 'mutlaka' bulunması <ins>doğru değildir</ins>.
 
     <hr />
-
-### 2.1. Oyun Terapisi Odasının Genel Özellikleri
 
 7. Oyun odası ile ilgili aşağıdaki bilgilerden hangisi doğrudur?
     - A-) Çocuk, oyun odasında yemek yiyebilir.
@@ -576,7 +524,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
 ### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
 
-8. Aşağıdaki oyuncak listelerinden hangisinin bir oyun odasındaki <ins>olmazsa olmazlardan değildir</ins>?
+1. Aşağıdaki oyuncak listelerinden hangisinin bir oyun odasındaki <ins>olmazsa olmazlardan değildir</ins>?
     - A-) Agresyon ifadesini gösterebileceği oyuncaklar
     - B-) Gündelik yaşam oyuncakları
     - C-) Duyguların gösterilmesini kolaylaştıran oyuncaklar
@@ -587,9 +535,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
-
-9. Aşağıdaki materyallerden hangisi doğrudan <ins>"saldırgan dürtülerin dışa vurumu"</ins> için önerilen oyuncaklardan biridir?
+2. Aşağıdaki materyallerden hangisi doğrudan <ins>"saldırgan dürtülerin dışa vurumu"</ins> için önerilen oyuncaklardan biridir?
     - A-) Kukla sahnesi
     - B-) Yumuşak oyuncak ayı
     - **Cevap C-) Plastik silah ve asker figürleri**
@@ -600,9 +546,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
-
-10. Oyun terapisi odasında bulunması gereken oyuncak türlerinden hangisi, çocuğun <ins>gerçek yaşamı temsil etme becerilerini</ins> destekler?
+3. Oyun terapisi odasında bulunması gereken oyuncak türlerinden hangisi, çocuğun <ins>gerçek yaşamı temsil etme becerilerini</ins> destekler?
     - A-) Kum terapisi araçları
     - B-) Sanat malzemeleri
     - C-) Zeka geliştirici oyunlar
@@ -613,9 +557,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
-
-11. “<ins>Tahta bloklar, kağıtlar, kuklalar, renkli kağıtlar, oyun hamuru</ins>” gibi malzemeler özellikle hangi tür oyuncak gruplarına girmektedir?
+4. “<ins>Tahta bloklar, kağıtlar, kuklalar, renkli kağıtlar, oyun hamuru</ins>” gibi malzemeler özellikle hangi tür oyuncak gruplarına girmektedir?
     - A-) Rekabet oyunları
     - **Cevap B-) Yaratıcı oyuncaklar**
     - C-) Agresyon ifadesi oyuncakları
@@ -626,9 +568,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
-
-12. Aşağıdakilerden hangisi oyun terapisi odasında bulunması önerilen malzemelerin seçiminde <ins>etik ilkelere aykırıdır</ins>?
+5. Aşağıdakilerden hangisi oyun terapisi odasında bulunması önerilen malzemelerin seçiminde <ins>etik ilkelere aykırıdır</ins>?
     - A-) Kültürel çeşitliliği yansıtan oyuncaklar kullanmak
     - B-) Cinsiyet rolleri açısından çeşitli seçenekler sunmak
     - **Cevap C-) Tek bir kültüre ait <ins>stereotipik materyalleri çoğaltmak</ins>**
@@ -639,9 +579,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.2. Terapi Malzemelerinin Türleri ve Kullanım Amaçları
-
-13. Aşağıdaki oyuncaklardan hangisinin bulundurulması şart ve <ins>uygun değildir</ins>?
+6. Aşağıdaki oyuncaklardan hangisinin bulundurulması şart ve <ins>uygun değildir</ins>?
     - A-) Savaş oyuncakları
     - B-) Gerçek yaşam roller oyuncakları
     - **Cevap C-) Müzikli kumandalı robot**
@@ -654,7 +592,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
 ### 2.3. Oyun Terapisi Malzeme Seçiminde Dikkat Edilecek Hususlar
 
-14. Terapist, materyalleri seçerken çocuğun <ins>gelişim düzeyine uygunluk</ins> ilkesini göz ardı ederse aşağıdakilerden hangisi en olası sonuçtur?
+1. Terapist, materyalleri seçerken çocuğun <ins>gelişim düzeyine uygunluk</ins> ilkesini göz ardı ederse aşağıdakilerden hangisi en olası sonuçtur?
     - **Cevap A-) Duygusal olarak geri çekilme veya hayal kırıklığı**
     - B-) Terapi sürecinde hızlı ilerleme
     - C-) Çocuğun ilgisinin artması
@@ -665,9 +603,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
     <hr />
 
-### 2.3. Oyun Terapisi Malzeme Seçiminde Dikkat Edilecek Hususlar
-
-15. Oyun terapisi odasında materyallerin <ins>kolay erişilebilir</ins> olması çocuğa hangi psikolojik ihtiyacı karşılama açısından en çok katkı sağlar?
+2. Oyun terapisi odasında materyallerin <ins>kolay erişilebilir</ins> olması çocuğa hangi psikolojik ihtiyacı karşılama açısından en çok katkı sağlar?
     - A-) Duygusal dışavurum
     - B-) Otoriteye uyum
     - C-) Disiplin geliştirme
@@ -680,7 +616,7 @@ Yukarıdaki örnekte terapistin uyguladığı oyun terapisi aşağıdakilerden h
 
 ### 2.4. Kum Terapisi ve Figürlerin Düzenlenmesi
 
-16. Kum tepsisi terapisi yapmak için yukarıdakilerden hangileri <ins>gerekli değildir</ins>?
+1. Kum tepsisi terapisi yapmak için yukarıdakilerden hangileri <ins>gerekli değildir</ins>?
 I. Terapi kumu
 II. Terapi odası
 III. Kum yoksa öğütülmüş tahıllar
@@ -699,7 +635,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
 ### 2.4.1. Kum Tepsisi (Sandtray)
 
-17. Terapi kumu ile ilgili aşağıdakilerden hangisi doğrudur?
+1. Terapi kumu ile ilgili aşağıdakilerden hangisi doğrudur?
     - A-) Dürtüsel çocuklar kumu ağzına almamaları için uyarılırlar.
     - B-) Kumun ıslatılıp kullanılması uygun değildir.
     - **Cevap C-) Kinetik kum yapıştığı için tercih edilmez.**
@@ -710,9 +646,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
     <hr />
 
-### 2.4.1. Kum Tepsisi (Sandtray)
-
-18. Aşağıdakilerden hangisi kum tepsisi terapisinin yararlarından biri <ins>değildir</ins>?
+2. Aşağıdakilerden hangisi kum tepsisi terapisinin yararlarından biri <ins>değildir</ins>?
     - **Cevap A-) Sınırlar yoktur ve özgürlükler sunar.**
     - B-) Kinestetik etkiye sahiptir.
     - C-) Yaratıcılığı destekler.
@@ -723,9 +657,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
     <hr />
 
-### 2.4.1. Kum Tepsisi (Sandtray)
-
-19. Terapide kullanılan kum tepsisi ile ilgili aşağıda verilenlerden hangisi <ins>yanlıştır</ins>?
+3. Terapide kullanılan kum tepsisi ile ilgili aşağıda verilenlerden hangisi <ins>yanlıştır</ins>?
     - A-) Kuru ve ıslak kum kullanımı için 2 tepsi kullanılabilir.
     - B-) Dikdörtgen şeklinde bir tepsi önerilir.
     - **Cevap C-) Ahşap kısmı ve dibinin genelde kumla aynı renge boyanması tavsiye edilir.**
@@ -736,9 +668,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
     <hr />
 
-### 2.4.1. Kum Tepsisi (Sandtray)
-
-20. Aşağıdakilerden hangisi <ins>tanısal değerlendirme</ins> amaçlı oyun terapisinin kullanılmasına örnek <ins>değildir</ins>?
+4. Aşağıdakilerden hangisi <ins>tanısal değerlendirme</ins> amaçlı oyun terapisinin kullanılmasına örnek <ins>değildir</ins>?
     - **Cevap A-) Theraplay**
     - B-) Welt tekniği
     - C-) Yapılandırılmış oyun testleri
@@ -751,7 +681,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
 ### 2.4.2. Terapötik Materyaller (Minyatür Figürler ve Objeler)
 
-21. Aşağıdaki oyuncaklardan hangisi Kum Tepsisi Terapisinde <ins>kullanılmaz</ins>?
+1. Aşağıdaki oyuncaklardan hangisi Kum Tepsisi Terapisinde <ins>kullanılmaz</ins>?
     - **Cevap A-) El ve parmak kuklaları**
     - B-) Çitler, Bayraklar
     - C-) Aile minyatürleri
@@ -762,9 +692,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
     <hr />
 
-### 2.4.2. Terapötik Materyaller (Minyatür Figürler ve Objeler)
-
-22. Kum tepsisi terapisinde <ins>çitler ve yoğun sınırlar</ins> aşağıdakilerden hangisini sembolize eder?
+2. Kum tepsisi terapisinde <ins>çitler ve yoğun sınırlar</ins> aşağıdakilerden hangisini sembolize eder?
     - A-) Agresif dünya
     - B-) Boş dünya
     - C-) Dağınık dünya
@@ -792,7 +720,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
 ### 3.2. Oyun Terapisinin Gelişimsel İşlevleri
 
-2. Aşağıdakilerden hangisi oyun terapisinde ele alınan gelişim alanlarından biri <ins>değildir</ins>?
+1. Aşağıdakilerden hangisi oyun terapisinde ele alınan gelişim alanlarından biri <ins>değildir</ins>?
     - A-) Bilişsel gelişim
     - **Cevap B-) Akademik başarı**
     - C-) Duygusal gelişim
@@ -805,7 +733,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
 ### 3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapistin Rolü
 
-3. Yönlendirmesiz (İnsan Merkezli) oyun terapisi yaklaşımında terapistin temel rolü aşağıdakilerden hangisidir?
+1. Yönlendirmesiz (İnsan Merkezli) oyun terapisi yaklaşımında terapistin temel rolü aşağıdakilerden hangisidir?
     - A-) Sorun çözme tekniklerini öğretmek
     - B-) Oyunun yapısını belirlemek
     - **Cevap C-) Empatik, yansıtıcı ve kabul edici bir tutum sergilemek**
@@ -816,9 +744,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
     <hr />
 
-### 3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapistin Rolü
-
-4. Aşağıdakilerden hangisi çocuk merkezli oyun terapileri ile ilgili <ins>söylenemez</ins>?
+2. Aşağıdakilerden hangisi çocuk merkezli oyun terapileri ile ilgili <ins>söylenemez</ins>?
     - A-) Problem çözümü yerine öncelikle ilişkiye odaklanır.
     - B-) Axline ile temelleri atılmıştır.
     - C-) Çocuk aktif rol alır.
@@ -831,7 +757,7 @@ VI. <ins>Ahşap bebek evi</ins>
 
 ### 3.3.1. Yönlendirmesiz (Çocuk Merkezli) Oyun Terapisinde Terapötik Süreç
 
-5. Oyunda çocuk kuklalardan birisini terapiste verir ve “Sen de anne ol.” der. Bunun üzerine terapist “Ben anneyim.” der. Ancak kuklayı alıp çocuk demeden “Anneyim, temizlik yapıyorum vs.” derse, bu çocuğun hayal gücüne müdahaledir, uygun değildir. “Tamam ben anneyim, bu nasıl bir anne?” gibi tanımlayıcı sorular sorabilir. 
+1. Oyunda çocuk kuklalardan birisini terapiste verir ve “Sen de anne ol.” der. Bunun üzerine terapist “Ben anneyim.” der. Ancak kuklayı alıp çocuk demeden “Anneyim, temizlik yapıyorum vs.” derse, bu çocuğun hayal gücüne müdahaledir, uygun değildir. “Tamam ben anneyim, bu nasıl bir anne?” gibi tanımlayıcı sorular sorabilir. 
 Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
     - A-) Filial terapi
     - B-) Bilişsel davranışçı oyun terapisi
@@ -845,7 +771,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
 ### 3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç
 
-6. Aşağıdaki oyun terapi türlerinden hangisi aynı zamanda <ins>“eğitim”</ins> amaçlı da kullanılır?
+1. Aşağıdaki oyun terapi türlerinden hangisi aynı zamanda <ins>“eğitim”</ins> amaçlı da kullanılır?
     - A-) Psikodinamik oyun terapisi
     - **Cevap B-) Bilişsel davranışçı oyun terapisi**
     - C-) Çocuk merkezli oyun terapisi
@@ -856,9 +782,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
     <hr />
 
-### 3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç
-
-7. <ins>Bilişsel kuramı</ins> geliştiren ve bilişsel oyun terapilerini kavramsallaştıranlar sırasıyla kimlerdir?
+2. <ins>Bilişsel kuramı</ins> geliştiren ve bilişsel oyun terapilerini kavramsallaştıranlar sırasıyla kimlerdir?
     - A-) Rogers - Axline
     - B-) Landreth - Knell
     - C-) Beck - Winnicott
@@ -869,9 +793,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
     <hr />
 
-### 3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç
-
-8. Aşağıdakilerden hangisi çocuk merkezli oyun terapisi (ÇMOT) ile bilişsel davranışçı oyun terapisi (BDOT) arasındaki <ins>farkı</ins> anlatmaktadır?
+3. Aşağıdakilerden hangisi çocuk merkezli oyun terapisi (ÇMOT) ile bilişsel davranışçı oyun terapisi (BDOT) arasındaki <ins>farkı</ins> anlatmaktadır?
     - A-) Çocuk merkezli oyun terapisinde çocuk isterse terapist katılır, bilişsel davranışçı oyun terapisinde ise terapist en baştan beri aktif katılımcıdır.
     - B-) Terapist çocuk merkezli oyun terapisinde daha çok övgüyü kullanır.
     - C-) Çocuk merkezli oyun terapisinde seansların sayısı daha önceden belirlidir.
@@ -882,9 +804,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
     <hr />
 
-### 3.3.2. Yönlendirmeli Oyun Terapisinde Terapötik Süreç
-
-9. Aşağıdakilerden hangisi <ins>yönlendirmeli oyun terapisinin</ins> bir özelliğidir?
+4. Aşağıdakilerden hangisi <ins>yönlendirmeli oyun terapisinin</ins> bir özelliğidir?
     - A-) Çocuğun oyunu tamamen serbest bırakılır
     - **Cevap B-) Terapist, müdahaleleri <ins>hedef doğrultusunda yapılandırır</ins>**
     - C-) Yalnızca fiziksel gelişime odaklanır
@@ -897,7 +817,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
 ### 3.3.3. Psikodinamik Oyun Terapisinde Terapistin Rolü
 
-10. Psikodinamik oyun terapisi ile ilgili aşağıdaki bilgilerden hangisi <ins>yanlıştır</ins>?
+1. Psikodinamik oyun terapisi ile ilgili aşağıdaki bilgilerden hangisi <ins>yanlıştır</ins>?
     - A-) Terapi planlamasında çocuğun gelişim dönemi göz önünde bulundurulmalıdır.
     - **Cevap B-) Terapist <ins>hiç müdahale etmeden gözlemler</ins>.**
     - C-) Ebeveynlerin süreç ile bilgilendirilmesi gerekebilir.
@@ -910,7 +830,7 @@ Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?
 
 ### 3.3.3. Psikodinamik Oyun Terapisinde Terapötik Süreç
 
-11. Psikodinamik oyun terapisi yaklaşımı için yukarıdaki ifadelerden hangileri söylenebilir?
+1. Psikodinamik oyun terapisi yaklaşımı için yukarıdaki ifadelerden hangileri söylenebilir?
 I. Süreç ilerledikçe ve ego gücü arttıkça yorumlamalar yapılır.
 II. Çocuğun aynı hataları yapmaması için seans başından itibaren yorumlamalar yapılır.
 III. Psikodinamik oyun terapileri kısa süreli ve sorun çözme odaklıdırlar.
@@ -927,7 +847,7 @@ IV. Seanslar çocukla yürütülür, ebeveynler de bilgilendirilir.
 
 ### 3.3.4. Eklektik Oyun Terapisinde Terapötik Süreç
 
-12. Eklektik yaklaşımın temel özelliği aşağıdakilerden hangisidir?
+1. Eklektik yaklaşımın temel özelliği aşağıdakilerden hangisidir?
     - A-) Tek bir terapi kuramına bağlı kalmak
     - B-) Sadece yönlendirmesiz teknikler kullanmak
     - C-) Yalnızca grup terapisinde kullanılmak
@@ -940,7 +860,7 @@ IV. Seanslar çocukla yürütülür, ebeveynler de bilgilendirilir.
 
 ### 3.4.1. Kum Oyunu (Sandplay Therapy) Terapisinde Terapötik Süreç
 
-13. Kum oyunu terapisinin en belirgin özelliği nedir?
+1. Kum oyunu terapisinin en belirgin özelliği nedir?
     - A-) Grup içi yarışmalar içerir
     - **Cevap B-) Çocuğun <ins>iç dünyasını semboller aracılığıyla ifade etmesine</ins> imkân tanır**
     - C-) Aile ile birlikte yürütülür
@@ -953,7 +873,7 @@ IV. Seanslar çocukla yürütülür, ebeveynler de bilgilendirilir.
 
 ### 3.5.1. Terapistin Tutumu Nasıl Olmalıdır?
 
-14. Oyun terapisti ile ilgili aşağıdaki bilgilerden hangisi <ins>yanlıştır</ins>?
+1. Oyun terapisti ile ilgili aşağıdaki bilgilerden hangisi <ins>yanlıştır</ins>?
     - A-) Ebeveynlerin aralıklı bilgilendirmesini yapmalıdır.
     - B-) Çocuk merkezli oyun terapisinde terapist iyi bir gözlemci olmalıdır.
     - C-) Oyun terapisti çocuğa koşulsuzca yaklaşır.
@@ -966,7 +886,7 @@ IV. Seanslar çocukla yürütülür, ebeveynler de bilgilendirilir.
 
 ### 3.6. Oyun Terapisinde Uygulama Süreçleri
 
-15. Oyun terapisindeki seanslar gruplanırsa aşağıdaki sıralamalardan hangisi <ins>doğru</ins> olur?
+1. Oyun terapisindeki seanslar gruplanırsa aşağıdaki sıralamalardan hangisi <ins>doğru</ins> olur?
     - A-) Dayanışma İlişkisi Geliştirme - Yapılandırılmış Çalışma - Sonlandırma
     - B-) Başlangıç - Ayrıntılı Çalışma - Aileyle Çalışma - Veda
     - C-) Çocukla İlişki Kurma - Çocukla Dayanışma - Sonlandırma
@@ -979,7 +899,7 @@ IV. Seanslar çocukla yürütülür, ebeveynler de bilgilendirilir.
 
 ### 3.6.1. Ön Görüşme ve Değerlendirme
 
-16. Bir çocuğu kum tepsisi terapisine almak için yukarıdaki bilgilerden hangileri <ins>mutlaka bilinmelidir</ins>?
+1. Bir çocuğu kum tepsisi terapisine almak için yukarıdaki bilgilerden hangileri <ins>mutlaka bilinmelidir</ins>?
 I. Gelişim öyküsü
 II. Geliş şikâyetinin öyküsü
 III. Ebeveynlerinin ve kardeşinin gelişim öyküsü
@@ -996,7 +916,7 @@ IV. Önemli yaşam olayları
 
 ### 3.6.5. Sürecin Sonlandırılması
 
-17. Oyun terapisi sürecinde <ins>sonlandırma</ins> aşamasında en çok dikkat edilmesi gereken husus aşağıdakilerden hangisidir?
+1. Oyun terapisi sürecinde <ins>sonlandırma</ins> aşamasında en çok dikkat edilmesi gereken husus aşağıdakilerden hangisidir?
     - A-) Oyuncakları çocuktan saklamak
     - B-) Aileyi sürece dahil etmemek
     - **Cevap C-) Çocuğun duygusal hazırlığını destekleyerek süreci aşamalı olarak kapatmak**
@@ -1022,61 +942,9 @@ IV. Önemli yaşam olayları
 
     <hr />
 
-### 4.4. Ebeveyn Danışmanlığı ve Ebeveyn Danışmanlığında Sıkça Ele Alınan Konular
-
-2. Aşağıdakilerden hangisi Ray ve Landreth’e göre ebeveyn danışmanlıklarının amaçları arasında yer <ins>almaz</ins>?
-    - A-) Ebeveyne destek olmak
-    - **Cevap B-) Ebeveynlere <ins>bireysel psikolojik danışmanlık hizmeti sunmak</ins>**
-    - C-) Ebeveyne bilgi ve beceri öğretimi
-    - D-) Terapi sürecinin ilerlemesinin izlenmesi
-    - E-) Terapi ile beraber ebeveynin tutum veya davranışlarının değerlendirilerek değişimini sağlamak
-
-    > **Açıklama:** Ebeveyn danışmanlığı, çocuğun sorunlarına odaklanmış bilgi ve beceri öğretimine yöneliktir. <ins>Bireysel psikolojik danışmanlık hizmeti</ins> vermek, birincil amaç değildir.
-
-    <hr />
-
-### 4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı
-
-3. <ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?
-    - A-) Aile danışmanlığı
-    - **Cevap B-) Filial terapi**
-    - C-) Kum tepsisi terapisi
-    - D-) Psikodrama
-    - E-) Theraplay
-
-    > **Açıklama:** <ins>Filial terapi</ins> (Aile Katılımlı Oyun Terapisi), ebeveyni terapötik aracı olarak kullanarak <ins>Çocuk Merkezli Oyun Terapisi</nin</ins> ilkelerini <ins>Aile Terapisi</nin</ins> sistemik bakış açısıyla birleştirir.
-
-    <hr />
-
-### 4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı
-
-4. Aşağıdakilerden hangisi <ins>Filial Terapi’de</ins> kullanılan beceriler arasında yer <ins>almaz</ins>?
-    - A-) Empatik yansıtma
-    - B-) Yapılandırma
-    - **Cevap C-) Oyunla dikkat testi uygulama**
-    - D-) Sınır koyma
-    - E-) Çocuk merkezli hayali oyun
-
-    > **Açıklama:** Filial terapide amaçlanan; ilişkiyi güçlendirmek ve ebeveyn becerilerini artırmaktır. <ins>Oyunla dikkat testi uygulamak</ins> (tanısal ve yapılandırılmış bir teknik) bu beceriler arasında yer almaz.
-
-    <hr />
-
-### 4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı
-
-5. Aşağıdakilerden hangisi <ins>Filial Terapi’nin amaçlarından değildir</ins>?
-    - A-) Ebeveyn-çocuk ilişki kalitesini iyileştirmek
-    - B-) Ebeveyn-çocuk arasındaki güvenli bağı ve yakınlığı arttırmak
-    - C-) Sevgi başta olmak üzere duyguları ifade etmelerini güçlendirmek
-    - D-) Sorun çözme becerileri geliştirmek
-    - **Cevap E-) Çocukta görülen <ins>bilişsel sorunları düzeltmek</ins>**
-
-    > **Açıklama:** Filial terapi, duygusal ve ilişkisel sorunlara odaklanır. <ins>Çocukta görülen bilişsel sorunları düzeltmek</ins> (örneğin öğrenme güçlüğü) terapinin doğrudan amacı değildir.
-
-    <hr />
-
 ### 4.3 Farklı Oyun Terapilerinde Ebeveyn ve Aile Katılımı
 
-6. Yukarıdakilerden hangisi veya hangileri <ins>ebeveynin de terapi sürecine katıldığı</ins> oyun terapi türlerindendir?
+1. Yukarıdakilerden hangisi veya hangileri <ins>ebeveynin de terapi sürecine katıldığı</ins> oyun terapi türlerindendir?
 I. Theraplay
 II. Çocuk Merkezli Oyun Terapisi
 III. Deneyimsel Oyun Terapisi
@@ -1091,9 +959,55 @@ IV. Filial Terapi
 
     <hr />
 
+### 4.3.2.2. Psikanalitik Oyun Terapisinde Ebeveyn ve Aile Katılımı
+
+1. Aşağıdakilerden hangisi <ins>psikodinamik oyun terapisinin</ins> temellerinden biridir?
+    - A-) Çocuğun yaşadıkları görüşmede serbest çağrışım yoluyla çözülür.
+    - B-) Çocuklar yaşadıkları biliçdışı çatışmaların üstesinden gelebilirler.
+    - C-) Oyunda çocuk, duygularını işlemleme için oyuncağı araç olarak kullanır.
+    - **Cevap D-) Aktarım, terapide ele alınması <ins>önemli bir kavramdır</ins>.**
+    - E-) Çocukların sahip oldukları semptomların bir anlamı yoktur.
+
+    > **Açıklama:** Psikodinamik yaklaşımda <ins>Aktarım</ins>, danışanın yaşamındaki hisleri terapiste aktarması olup, terapötik süreçte ele alınması gereken önemli bir kavramdır.
+
+    <hr />
+
 ### 4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı
 
-7. Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?
+1. <ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?
+    - A-) Aile danışmanlığı
+    - **Cevap B-) Filial terapi**
+    - C-) Kum tepsisi terapisi
+    - D-) Psikodrama
+    - E-) Theraplay
+
+    > **Açıklama:** <ins>Filial terapi</ins> (Aile Katılımlı Oyun Terapisi), ebeveyni terapötik aracı olarak kullanarak <ins>Çocuk Merkezli Oyun Terapisi</nin</ins> ilkelerini <ins>Aile Terapisi</nin</ins> sistemik bakış açısıyla birleştirir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi <ins>Filial Terapi’de</ins> kullanılan beceriler arasında yer <ins>almaz</ins>?
+    - A-) Empatik yansıtma
+    - B-) Yapılandırma
+    - **Cevap C-) Oyunla dikkat testi uygulama**
+    - D-) Sınır koyma
+    - E-) Çocuk merkezli hayali oyun
+
+    > **Açıklama:** Filial terapide amaçlanan; ilişkiyi güçlendirmek ve ebeveyn becerilerini artırmaktır. <ins>Oyunla dikkat testi uygulamak</ins> (tanısal ve yapılandırılmış bir teknik) bu beceriler arasında yer almaz.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi <ins>Filial Terapi’nin amaçlarından değildir</ins>?
+    - A-) Ebeveyn-çocuk ilişki kalitesini iyileştirmek
+    - B-) Ebeveyn-çocuk arasındaki güvenli bağı ve yakınlığı arttırmak
+    - C-) Sevgi başta olmak üzere duyguları ifade etmelerini güçlendirmek
+    - D-) Sorun çözme becerileri geliştirmek
+    - **Cevap E-) Çocukta görülen <ins>bilişsel sorunları düzeltmek</ins>**
+
+    > **Açıklama:** Filial terapi, duygusal ve ilişkisel sorunlara odaklanır. <ins>Çocukta görülen bilişsel sorunları düzeltmek</ins> (örneğin öğrenme güçlüğü) terapinin doğrudan amacı değildir.
+
+    <hr />
+
+4. Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?
     - A-) Filial terapi uygulaması için çocuk merkezli oyun terapisi hakkında bilgi verilmelidir.
     - B-) Filial terapisti öncelikle nasıl oyun teknikleri uygulanacağını aileye gösterir.
     - **Cevap C-) Filial terapi uygulamaları evdeki seanslara döndüğünde <ins>sınır koyulmaz</ins>.**
@@ -1104,9 +1018,7 @@ IV. Filial Terapi
 
     <hr />
 
-### 4.3.3.1. Filial Terapide Ebeveyn ve Aile Katılımı
-
-8. Aşağıdakilerden hangisi Filial Terapi’de ebeveyne sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?
+5. Aşağıdakilerden hangisi Filial Terapi’de ebeveyne sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?
     - A-) Empatik dinleme becerisi
     - B-) Sınır koyma becerisi
     - C-) Seansları yapılandırma
@@ -1117,9 +1029,22 @@ IV. Filial Terapi
 
     <hr />
 
+### 4.4. Ebeveyn Danışmanlığı ve Ebeveyn Danışmanlığında Sıkça Ele Alınan Konular
+
+1. Aşağıdakilerden hangisi Ray ve Landreth’e göre ebeveyn danışmanlıklarının amaçları arasında yer <ins>almaz</ins>?
+    - A-) Ebeveyne destek olmak
+    - **Cevap B-) Ebeveynlere <ins>bireysel psikolojik danışmanlık hizmeti sunmak</ins>**
+    - C-) Ebeveyne bilgi ve beceri öğretimi
+    - D-) Terapi sürecinin ilerlemesinin izlenmesi
+    - E-) Terapi ile beraber ebeveynin tutum veya davranışlarının değerlendirilerek değişimini sağlamak
+
+    > **Açıklama:** Ebeveyn danışmanlığı, çocuğun sorunlarına odaklanmış bilgi ve beceri öğretimine yöneliktir. <ins>Bireysel psikolojik danışmanlık hizmeti</ins> vermek, birincil amaç değildir.
+
+    <hr />
+
 ### 4.4.3. Sınır Koyma
 
-9. Sınır koyma aşamaları yukarıda karışık halde verilmiştir. Sınır koyma aşamalarının doğru sıralanmış hali aşağıdakilerden hangisidir?
+1. Sınır koyma aşamaları yukarıda karışık halde verilmiştir. Sınır koyma aşamalarının doğru sıralanmış hali aşağıdakilerden hangisidir?
 1. Uygun alternatifler sunmak
 2. Çocuğun duygularını ve isteklerini anlamak
 3. Kararlı bir biçimde sınırı uygulamak
@@ -1134,9 +1059,7 @@ IV. Filial Terapi
 
     <hr />
 
-### 4.4.3. Sınır Koyma
-
-10. “Yüzümü çizmen hâlinde oyun odasından ayrılmamız gerekeceğini söylediğimi hatırla. Yüzümü çizmeyi seçtiğin için, şimdi odadan çıkmak zorundayız.” Terapistin bu ifadesi hangi kavrama denk düşer?
+2. “Yüzümü çizmen hâlinde oyun odasından ayrılmamız gerekeceğini söylediğimi hatırla. Yüzümü çizmeyi seçtiğin için, şimdi odadan çıkmak zorundayız.” Terapistin bu ifadesi hangi kavrama denk düşer?
     - A-) İlişki kurma
     - B-) Empatik konuşma
     - C-) Sınırları ifade etme
@@ -1144,19 +1067,6 @@ IV. Filial Terapi
     - **Cevap E-) Sonucunu uygulama**
 
     > **Açıklama:** Terapist, önceden belirlenen sınırın ihlali durumunda kararlı bir şekilde <ins>Sonucunu uygulama</ins> aşamasını gerçekleştirmektedir.
-
-    <hr />
-
-### 4.3.2.2. Psikanalitik Oyun Terapisinde Ebeveyn ve Aile Katılımı
-
-11. Aşağıdakilerden hangisi <ins>psikodinamik oyun terapisinin</ins> temellerinden biridir?
-    - A-) Çocuğun yaşadıkları görüşmede serbest çağrışım yoluyla çözülür.
-    - B-) Çocuklar yaşadıkları biliçdışı çatışmaların üstesinden gelebilirler.
-    - C-) Oyunda çocuk, duygularını işlemleme için oyuncağı araç olarak kullanır.
-    - **Cevap D-) Aktarım, terapide ele alınması <ins>önemli bir kavramdır</ins>.**
-    - E-) Çocukların sahip oldukları semptomların bir anlamı yoktur.
-
-    > **Açıklama:** Psikodinamik yaklaşımda <ins>Aktarım</ins>, danışanın yaşamındaki hisleri terapiste aktarması olup, terapötik süreçte ele alınması gereken önemli bir kavramdır.
 
     <hr />
 
@@ -1175,61 +1085,7 @@ IV. Filial Terapi
 
     <hr />
 
-### 5.1.4. Terapistin Konumu
-
-2. Aşağıdaki ifadelerden hangisi yönlendirmesiz oyun terapisinde terapistin rolünü en iyi tanımlar?
-    - A-) Oyuna hemen katılmak için çocuğu teşvik etmek
-    - B-) Seansın sonunda çocuğa ödül vermek
-    - **Cevap C-) Çocuğun duygusal açılımı için zaman tanımak**
-    - D-) Her seansta farklı materyal sunmak
-    - E-) Seans sırasında hedef belirlemek
-
-    > **Açıklama:** Yönlendirmesiz terapide terapist, çocuğun kendi kendini yönlendirme kapasitesine güvenir ve <ins>duygusal açılımı için zaman tanıyarak</ins> süreci hızlandırmaktan kaçınır.
-
-    <hr />
-
-### 5.1.3. Oyun Odasında Bulunması Gereken Materyaller
-
-3. Yönlendirmesiz oyun terapisinde oyuncak seçiminde <ins>popüler kültür figürlerinden</ins> uzak durulmasının nedeni nedir?
-    - A-) Daha pahalı oyuncaklara yer açmak
-    - B-) Çocuğun dikkatini farklı yöne çekmek
-    - **Cevap C-) Yaratıcılığı sınırlayan temalardan kaçınmak**
-    - D-) Oyuncakları kolayca tanıyabilmek
-    - E-) Çocuğun yaşını belirlemek
-
-    > **Açıklama:** Yönlendirmesiz oyun terapisinde kullanılan oyuncaklar, popüler kültürden uzak olmalı ve <ins>yaratıcılığı sınırlayan temalardan kaçınarak</ins> çocuğun kendi duygusal ifadesini geliştirmesine olanak tanımalıdır.
-
-    <hr />
-
-### 5.1.5. Ebeveyn Katılımı
-
-4. Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde ebeveyn katılımının amaçlarından biri <ins>değildir</ins>?
-    - A-) Terapötik kazanımların ev ortamına taşınması
-    - B-) Ebeveynin çocukla empatik ilişki geliştirmesi
-    - C-) Ebeveynin sınır koyma becerilerini desteklemek
-    - **Cevap D-) Ebeveynin terapi sürecine <ins>doğrudan yön vermesi</ins>**
-    - E-) Ebeveynin duygusal farkındalığını artırmak
-
-    > **Açıklama:** Yönlendirmesiz oyun terapisinde terapist, çocuğun özerkliğine güvenir. Bu nedenle, <ins>Ebeveynin terapi sürecine doğrudan yön vermesi</ins> amaçlanan bir durum değildir.
-
-    <hr />
-
-### 5.1.6. Terapötik Sınırlar
-
-5. Terapistin “Oyunumuz beş dakika sonra sona erecek.” demesi ne tür bir sınıra örnektir?
-    - A-) Mekânsal sınır
-    - B-) Etik sınır
-    - C-) Zihinsel sınır
-    - **Cevap D-) Zamansal sınır**
-    - E-) Davranışsal sınır
-
-    > **Açıklama:** Seansın ne zaman başlayıp ne zaman biteceğinin belirlenmesi ve çocuğa önceden bildirilmesi <ins>Zamansal sınır</ins> koyma ilkesine örnektir.
-
-    <hr />
-
-### 5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri
-
-6. Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde terapistin uygulayacağı bir <ins>empatik yansıtma</ins> örneğidir?
+2. Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde terapistin uygulayacağı bir <ins>empatik yansıtma</ins> örneğidir?
     - A-) “Oyuncağı fırlatman doğru değil.”
     - **Cevap B-) “Çok üzülmüş olmalısın.”**
     - C-) “Bu şekilde oynamamalısın.”
@@ -1240,9 +1096,42 @@ IV. Filial Terapi
 
     <hr />
 
+3. Çocuk merkezlidir, herhangi bir müdahale yoktur. Aktif olan çocuktur, çocuk istediği zaman oyuna katılımı söz konusudur. Bahsedilen oyun terapisi aşağıdakilerden hangisidir?
+    - **Cevap A-) Axline oyun terapisi**
+    - B-) Bilişsel Oyun Terapisi
+    - C-) Psikodinamik Oyun Terapisi
+    - D-) Serbest Oyun Terapisi
+    - E-) Filial Terapi
+
+    > **Açıklama:** Bahsedilen özellikler (çocuk merkezli, müdahalesiz, çocuğun aktif rol alması), <ins>Virginia Axline</ın</ins> tarafından Carl Rogers'ın yaklaşımına dayanılarak çocuklara uygulanabilir hale getirilen <ins>Axline oyun terapisine</ins> (ÇMOT) aittir.
+
+    <hr />
+
+4. Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> ile ilgili bir özelliktir?
+    - A-) Çocuğun istediği zaman oyuna katılımı söz konusudur.
+    - B-) Terapist en baştan itibaren aktif rol oynar.
+    - C-) Dinamik terapide sonuçlandırırken yorum yapılabilir.
+    - **Cevap D-) Baştan hedefler belirlenmesi gerekli değildir.**
+    - E-) Terapist aktif rol oynar.
+
+    > **Açıklama:** Yönlendirmesiz (Çocuk Merkezli) oyun terapisinde, terapinin temel ilkesi çocuğun özerkliğine güvenmek olduğundan, <ins>baştan hedefler belirlenmesi gerekli değildir</ins>. Bu yaklaşım serbest ve yönlendirmesizdir.
+
+    <hr />
+
 ### 5.1.3. Oyun Odasında Bulunması Gereken Materyaller
 
-7. Çocuk merkezli oyun terapisinde, oyuncakların belli kategorilerde seçilmesinin temel amacı nedir?
+1. Yönlendirmesiz oyun terapisinde oyuncak seçiminde <ins>popüler kültür figürlerinden</ins> uzak durulmasının nedeni nedir?
+    - A-) Daha pahalı oyuncaklara yer açmak
+    - B-) Çocuğun dikkatini farklı yöne çekmek
+    - **Cevap C-) Yaratıcılığı sınırlayan temalardan kaçınmak**
+    - D-) Oyuncakları kolayca tanıyabilmek
+    - E-) Çocuğun yaşını belirlemek
+
+    > **Açıklama:** Yönlendirmesiz oyun terapisinde kullanılan oyuncaklar, popüler kültürden uzak olmalı ve <ins>yaratıcılığı sınırlayan temalardan kaçınarak</ins> çocuğun kendi duygusal ifadesini geliştirmesine olanak tanımalıdır.
+
+    <hr />
+
+2. Çocuk merkezli oyun terapisinde, oyuncakların belli kategorilerde seçilmesinin temel amacı nedir?
     - A-) Akademik gelişimi artırmak
     - B-) Oyunu kontrol altına almak
     - **Cevap C-) Duygu ifadesini ve keşfi desteklemek**
@@ -1255,7 +1144,18 @@ IV. Filial Terapi
 
 ### 5.1.4. Terapistin Konumu
 
-8. Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> için yanlıştır?
+1. Aşağıdaki ifadelerden hangisi yönlendirmesiz oyun terapisinde terapistin rolünü en iyi tanımlar?
+    - A-) Oyuna hemen katılmak için çocuğu teşvik etmek
+    - B-) Seansın sonunda çocuğa ödül vermek
+    - **Cevap C-) Çocuğun duygusal açılımı için zaman tanımak**
+    - D-) Her seansta farklı materyal sunmak
+    - E-) Seans sırasında hedef belirlemek
+
+    > **Açıklama:** Yönlendirmesiz terapide terapist, çocuğun kendi kendini yönlendirme kapasitesine güvenir ve <ins>duygusal açılımı için zaman tanıyarak</ins> süreci hızlandırmaktan kaçınır.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> için yanlıştır?
     - A-) Çocuk aktif rol oynar.
     - **Cevap B-) Terapist aktif rol oynar.**
     - C-) Baştan hedefler belirlenmesi gerekli değildir.
@@ -1266,22 +1166,7 @@ IV. Filial Terapi
 
     <hr />
 
-### 5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri
-
-9. Çocuk merkezlidir, herhangi bir müdahale yoktur. Aktif olan çocuktur, çocuk istediği zaman oyuna katılımı söz konusudur. Bahsedilen oyun terapisi aşağıdakilerden hangisidir?
-    - **Cevap A-) Axline oyun terapisi**
-    - B-) Bilişsel Oyun Terapisi
-    - C-) Psikodinamik Oyun Terapisi
-    - D-) Serbest Oyun Terapisi
-    - E-) Filial Terapi
-
-    > **Açıklama:** Bahsedilen özellikler (çocuk merkezli, müdahalesiz, çocuğun aktif rol alması), <ins>Virginia Axline</ın</ins> tarafından Carl Rogers'ın yaklaşımına dayanılarak çocuklara uygulanabilir hale getirilen <ins>Axline oyun terapisine</ins> (ÇMOT) aittir.
-
-    <hr />
-
-### 5.1.4. Terapistin Konumu
-
-10. Aşağıdakilerden hangisi çocuk merkezli oyun terapileri ile ilgili <ins>söylenemez</ins>?
+3. Aşağıdakilerden hangisi çocuk merkezli oyun terapileri ile ilgili <ins>söylenemez</ins>?
     - A-) Problem çözümü yerine öncelikle ilişkiye odaklanır.
     - B-) Çocuk aktif rol alır.
     - C-) Yönlendirmesiz bir oyun terapisi türüdür.
@@ -1292,9 +1177,33 @@ IV. Filial Terapi
 
     <hr />
 
+### 5.1.5. Ebeveyn Katılımı
+
+1. Aşağıdakilerden hangisi yönlendirmesiz oyun terapisinde ebeveyn katılımının amaçlarından biri <ins>değildir</ins>?
+    - A-) Terapötik kazanımların ev ortamına taşınması
+    - B-) Ebeveynin çocukla empatik ilişki geliştirmesi
+    - C-) Ebeveynin sınır koyma becerilerini desteklemek
+    - **Cevap D-) Ebeveynin terapi sürecine <ins>doğrudan yön vermesi</ins>**
+    - E-) Ebeveynin duygusal farkındalığını artırmak
+
+    > **Açıklama:** Yönlendirmesiz oyun terapisinde terapist, çocuğun özerkliğine güvenir. Bu nedenle, <ins>Ebeveynin terapi sürecine doğrudan yön vermesi</ins> amaçlanan bir durum değildir.
+
+    <hr />
+
 ### 5.1.6. Terapötik Sınırlar
 
-11. Aşağıdakilerden hangisi çocuk merkezli oyun terapisi ile ilgili <ins>yanlış</ins> bir ifadedir?
+1. Terapistin “Oyunumuz beş dakika sonra sona erecek.” demesi ne tür bir sınıra örnektir?
+    - A-) Mekânsal sınır
+    - B-) Etik sınır
+    - C-) Zihinsel sınır
+    - **Cevap D-) Zamansal sınır**
+    - E-) Davranışsal sınır
+
+    > **Açıklama:** Seansın ne zaman başlayıp ne zaman biteceğinin belirlenmesi ve çocuğa önceden bildirilmesi <ins>Zamansal sınır</ins> koyma ilkesine örnektir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi çocuk merkezli oyun terapisi ile ilgili <ins>yanlış</ins> bir ifadedir?
     - A-) Çocuk yönetir, terapist izler.
     - **Cevap B-) Serbest oyun içerir ve oyun terapisindeki sınırlar burada yoktur.**
     - C-) Terapist çocuğun adlandırmalarına sadık kalarak yansıtmalar yapar.
@@ -1302,19 +1211,6 @@ IV. Filial Terapi
     - E-) Terapinin ilk hedefi ilişki kurmadır.
 
     > **Açıklama:** Yönlendirmesiz (Çocuk Merkezli) oyun terapisinde dahi <ins>sınırların olması</ins> (güvenlik, etik, zamansal) esastır; bu sınırlar çocuğun gelişimini destekler. Dolayısıyla <ins>“sınırlar burada yoktur”</ins> ifadesi yanlıştır.
-
-    <hr />
-
-### 5.1.1. Yönlendirmesiz Oyun Terapisinin Temel İlkeleri
-
-12. Aşağıdakilerden hangisi <ins>yönlendirmesiz oyun terapisi</ins> ile ilgili bir özelliktir?
-    - A-) Çocuğun istediği zaman oyuna katılımı söz konusudur.
-    - B-) Terapist en baştan itibaren aktif rol oynar.
-    - C-) Dinamik terapide sonuçlandırırken yorum yapılabilir.
-    - **Cevap D-) Baştan hedefler belirlenmesi gerekli değildir.**
-    - E-) Terapist aktif rol oynar.
-
-    > **Açıklama:** Yönlendirmesiz (Çocuk Merkezli) oyun terapisinde, terapinin temel ilkesi çocuğun özerkliğine güvenmek olduğundan, <ins>baştan hedefler belirlenmesi gerekli değildir</ins>. Bu yaklaşım serbest ve yönlendirmesizdir.
 
     <hr />
 
@@ -1333,8 +1229,6 @@ IV. Filial Terapi
 
     <hr />
 
-### 6.1. Filial Terapi
-
 2. <ins>Aile terapisi kuramı ve çocuk merkezli oyun terapisini</ins> birleştiren terapi türü aşağıdakilerden hangisidir?
     - A-) Aile danışmanlığı
     - **Cevap B-) Filial terapi**
@@ -1346,74 +1240,9 @@ IV. Filial Terapi
 
     <hr />
 
-### 6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri
-
-3. Aşağıdakilerden hangisi Filial Terapi’de ebeveyne öğretilecek temel beceriler arasında yer <ins>almamaktadır</ins>?
-    - A-) Yapılandırma
-    - B-) Çocuğun Liderliğini Takip Etme
-    - **Cevap C-) Oyunu yönlendirme**
-    - D-) Empatik Dinleme
-    - E-) Sınır Çizme
-
-    > **Açıklama:** Filial Terapi, çocuk merkezli oyun terapisi ilkelerine dayanır; bu nedenle ebeveynin rolü <ins>oyunu yönlendirmek</ins> değil, çocuğun liderliğini takip etmektir.
-
-    <hr />
-
-### 6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri
-
-4. Aşağıdakilerden hangisi Filial Terapi’de ebeveynlere sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?
-    - A-) Empatik dinleme becerisi
-    - B-) Sınır koyma becerisi
-    - C-) Seansları yapılandırma
-    - **Cevap D-) Süpervizyonluk yapma**
-    - E-) Çocuğun hayali oyununda verilen role grime
-
-    > **Açıklama:** Temel ebeveyn becerileri Yapılandırma, Empatik Dinleme, Çocuk Merkezli Hayali Oyun ve Sınır Koymadır. <ins>Süpervizyonluk yapma</ins>, ebeveynin değil <ins>terapistin</ins> görevidir.
-
-    <hr />
-
-### 6.6.2. Empatik Dinleme Becerisi (Empathic Listening)
-
-5. Filial Terapi yaklaşımının en temel farkı aşağıdakilerden hangisidir?
-    - A-) Çocuğun sorularla yönlendirilmesini sağlamak
-    - B-) Ebeveynin çocuğun davranışlarını düzeltmesi
-    - **Cevap C-) Çocuğun duygularını anlama ve yargılamadan kabul etme**
-    - D-) Çocuğun bilişsel performansını artırmak
-    - E-) Sessizliği engelleyerek çocukla sürekli konuşmak
-
-    > **Açıklama:** Filial terapi, yönlendirici olmayan oyun terapisinin ilkelerine dayanır. En temel farkı, ebeveynin çocuğun <ins>duygularını anlama ve yargılamadan kabul etme</ins> becerisini kazanmasını sağlamaktır.
-
-    <hr />
-
-### 6.6.1. Yapılandırma Becerisi (Structuring Skill)
-
-6. Aşağıdakilerden hangisi Filial Terapi’nin <ins>yapılandırma becerisi</ins> ile doğrudan ilişkilidir?
-    - A-) Çocuğun sınırları test etmesine izin vermek
-    - B-) Seans boyunca ebeveynin çocuğa direktifler vermesi
-    - **Cevap C-) Seans süresinin başlangıç ve bitişinin net şekilde belirlenmesi**
-    - D-) Çocuğun davranışlarını ödüllerle pekiştirmek
-    - E-) Sessizlikleri sözel müdahaleyle kırmak
-
-    > **Açıklama:** Yapılandırma becerisi, çocuğun özel oyun zamanının <ins>sınırlarını, kurallarını ve süresini</ins> (başlangıç ve bitişini) kavrayabilmesini sağlayan temel bir ebeveynlik becerisidir.
-
-    <hr />
-
-### 6.6.3. Çocuk Merkezli Hayali Oyun (Child-Centered Imaginary Play)
-
-7. Filial Terapi’de “oyunun lideri çocuktur” ilkesi en çok hangi terapi bileşenine karşılık gelir?
-    - A-) Süpervizyon
-    - **Cevap B-) Yönlendirici olmayan oyun**
-    - C-) Empatik dinleme
-    - D-) Sınır koyma
-    - E-) Ebeveyn eğitimi
-
-    > **Açıklama:** Oyunun çocuk tarafından yönetilmesi ilkesi, Filial Terapinin temel aldığı <ins>Yönlendirici olmayan oyun</ins> (Çocuk Merkezli Oyun Terapisi) yaklaşımından gelmektedir.
-
-    <hr />
-
 ### 6.3. Filial Terapi’nin Amaçları ve Hedefleri
 
-8. Aşağıdakilerden hangisi Filial Terapi’nin terapötik etkilerinden biridir?
+1. Aşağıdakilerden hangisi Filial Terapi’nin terapötik etkilerinden biridir?
     - A-) Aile dışı sosyal destekleri azaltmak
     - B-) Ebeveynin terapiye yalnız katılması
     - **Cevap C-) Çocukların davranışsal sorunlarında azalma**
@@ -1424,22 +1253,31 @@ IV. Filial Terapi
 
     <hr />
 
-### 6.6.5. Terapiden Ayrılma (Sonlandırma)
+### 6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri
 
-9. Aşağıdakilerden hangisi Filial Terapi sürecinin <ins>sonlandırılmasını</ins> gerektiren bir durumdur?
-    - **Cevap A-) Ebeveynin yeterli beceri kazanması ve hedeflere ulaşılması**
-    - B-) Çocuğun oyunlara katılmak istememesi
-    - C-) Terapistin eğitimine devam etmek istemesi
-    - D-) Ailenin terapi ücretini ödeyememesi
-    - E-) Seansların yeterince uzun sürmemesi
+1. Aşağıdakilerden hangisi Filial Terapi’de ebeveyne öğretilecek temel beceriler arasında yer <ins>almamaktadır</ins>?
+    - A-) Yapılandırma
+    - B-) Çocuğun Liderliğini Takip Etme
+    - **Cevap C-) Oyunu yönlendirme**
+    - D-) Empatik Dinleme
+    - E-) Sınır Çizme
 
-    > **Açıklama:** Filial terapinin sonlandırma aşaması, terapinin başlangıcında ele alınan <ins>amaçlara ulaşılıp ulaşılmadığının değerlendirildiği</ins> ve ebeveynin beceri kazandığının görüldüğü aşamadır.
+    > **Açıklama:** Filial Terapi, çocuk merkezli oyun terapisi ilkelerine dayanır; bu nedenle ebeveynin rolü <ins>oyunu yönlendirmek</ins> değil, çocuğun liderliğini takip etmektir.
 
     <hr />
 
-### 6.6. Filial Terapi'de Ev Uygulamaları İçin Temel Ebeveyn Becerileri
+2. Aşağıdakilerden hangisi Filial Terapi’de ebeveynlere sunulan ve gerçekleştirmesi gereken temel becerilerden birisi <ins>değildir</ins>?
+    - A-) Empatik dinleme becerisi
+    - B-) Sınır koyma becerisi
+    - C-) Seansları yapılandırma
+    - **Cevap D-) Süpervizyonluk yapma**
+    - E-) Çocuğun hayali oyununda verilen role grime
 
-10. Filial Terapi sürecinde önerilen oyuncak türlerinden biri aşağıdakilerden hangisidir?
+    > **Açıklama:** Temel ebeveyn becerileri Yapılandırma, Empatik Dinleme, Çocuk Merkezli Hayali Oyun ve Sınır Koymadır. <ins>Süpervizyonluk yapma</ins>, ebeveynin değil <ins>terapistin</ins> görevidir.
+
+    <hr />
+
+3. Filial Terapi sürecinde önerilen oyuncak türlerinden biri aşağıdakilerden hangisidir?
     - A-) Sadece elektronik oyuncaklar
     - B-) Ders kitapları
     - **Cevap C-) Kuklalar ve figürler**
@@ -1450,9 +1288,60 @@ IV. Filial Terapi
 
     <hr />
 
+### 6.6.1. Yapılandırma Becerisi (Structuring Skill)
+
+1. Aşağıdakilerden hangisi Filial Terapi’nin <ins>yapılandırma becerisi</ins> ile doğrudan ilişkilidir?
+    - A-) Çocuğun sınırları test etmesine izin vermek
+    - B-) Seans boyunca ebeveynin çocuğa direktifler vermesi
+    - **Cevap C-) Seans süresinin başlangıç ve bitişinin net şekilde belirlenmesi**
+    - D-) Çocuğun davranışlarını ödüllerle pekiştirmek
+    - E-) Sessizlikleri sözel müdahaleyle kırmak
+
+    > **Açıklama:** Yapılandırma becerisi, çocuğun özel oyun zamanının <ins>sınırlarını, kurallarını ve süresini</ins> (başlangıç ve bitişini) kavrayabilmesini sağlayan temel bir ebeveynlik becerisidir.
+
+    <hr />
+
+2. “Bu çok özel bir oda, burada hemen hemen herşeyi söyleyebilir ve yapabilirsin. Yapamayacağın bir şey olursa sana söyleyeceğim. Belirli bir süremiz var, bitmeye yakın olunca haber vereceğim.”
+Bu aşağıdakilerden hangisidir?
+    - **Cevap A-) Yapılandırma Becerisi**
+    - B-) Sonlandırma Becerisi
+    - C-) Sınır Koyma Becerisi
+    - D-) Hayali Oyun Becerisi
+    - E-) Empatik Dinleme
+
+    > **Açıklama:** Bu metin, seansın kurallarını, sınırlarını ve süresini (özel oyun zamanının sınırları) belirleyen <ins>Yapılandırma Becerisinin</ins> bir örneğidir.
+
+    <hr />
+
+### 6.6.2. Empatik Dinleme Becerisi (Empathic Listening)
+
+1. Filial Terapi yaklaşımının en temel farkı aşağıdakilerden hangisidir?
+    - A-) Çocuğun sorularla yönlendirilmesini sağlamak
+    - B-) Ebeveynin çocuğun davranışlarını düzeltmesi
+    - **Cevap C-) Çocuğun duygularını anlama ve yargılamadan kabul etme**
+    - D-) Çocuğun bilişsel performansını artırmak
+    - E-) Sessizliği engelleyerek çocukla sürekli konuşmak
+
+    > **Açıklama:** Filial terapi, yönlendirici olmayan oyun terapisinin ilkelerine dayanır. En temel farkı, ebeveynin çocuğun <ins>duygularını anlama ve yargılamadan kabul etme</ins> becerisini kazanmasını sağlamaktır.
+
+    <hr />
+
+### 6.6.3. Çocuk Merkezli Hayali Oyun (Child-Centered Imaginary Play)
+
+1. Filial Terapi’de “oyunun lideri çocuktur” ilkesi en çok hangi terapi bileşenine karşılık gelir?
+    - A-) Süpervizyon
+    - **Cevap B-) Yönlendirici olmayan oyun**
+    - C-) Empatik dinleme
+    - D-) Sınır koyma
+    - E-) Ebeveyn eğitimi
+
+    > **Açıklama:** Oyunun çocuk tarafından yönetilmesi ilkesi, Filial Terapinin temel aldığı <ins>Yönlendirici olmayan oyun</ins> (Çocuk Merkezli Oyun Terapisi) yaklaşımından gelmektedir.
+
+    <hr />
+
 ### 6.6.4. Sınır Koyma Becerisi (Limit-Setting Skill)
 
-11. Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?
+1. Filial terapi uygulamaları ile ilgili aşağıdaki ifadelerden hangisi <ins>yanlıştır</ins>?
     - A-) Filial terapi uygulaması için çocuk merkezli oyun terapisi hakkında bilgi verilmelidir.
     - B-) Filial terapisti öncelikle nasıl oyun teknikleri uygulanacağını aileye gösterir.
     - **Cevap C-) Filial terapi uygulamaları evdeki seanslara döndüğünde <ins>sınır koyulmaz</ins>.**
@@ -1463,17 +1352,16 @@ IV. Filial Terapi
 
     <hr />
 
-### 6.6.1. Yapılandırma Becerisi (Structuring Skill)
+### 6.6.5. Terapiden Ayrılma (Sonlandırma)
 
-12. “Bu çok özel bir oda, burada hemen hemen herşeyi söyleyebilir ve yapabilirsin. Yapamayacağın bir şey olursa sana söyleyeceğim. Belirli bir süremiz var, bitmeye yakın olunca haber vereceğim.”
-Bu aşağıdakilerden hangisidir?
-    - **Cevap A-) Yapılandırma Becerisi**
-    - B-) Sonlandırma Becerisi
-    - C-) Sınır Koyma Becerisi
-    - D-) Hayali Oyun Becerisi
-    - E-) Empatik Dinleme
+1. Aşağıdakilerden hangisi Filial Terapi sürecinin <ins>sonlandırılmasını</ins> gerektiren bir durumdur?
+    - **Cevap A-) Ebeveynin yeterli beceri kazanması ve hedeflere ulaşılması**
+    - B-) Çocuğun oyunlara katılmak istememesi
+    - C-) Terapistin eğitimine devam etmek istemesi
+    - D-) Ailenin terapi ücretini ödeyememesi
+    - E-) Seansların yeterince uzun sürmemesi
 
-    > **Açıklama:** Bu metin, seansın kurallarını, sınırlarını ve süresini (özel oyun zamanının sınırları) belirleyen <ins>Yapılandırma Becerisinin</ins> bir örneğidir.
+    > **Açıklama:** Filial terapinin sonlandırma aşaması, terapinin başlangıcında ele alınan <ins>amaçlara ulaşılıp ulaşılmadığının değerlendirildiği</ins> ve ebeveynin beceri kazandığının görüldüğü aşamadır.
 
     <hr />
 
@@ -1492,22 +1380,9 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 7.3.4. Yaratıcı Sanat Teknikleri
-
-2. Oyun terapisinde kullanılan <ins>“Hayatını Renklendir”</ins> tekniğinin temel amacı nedir?
-    - A-) Çocuğun akademik becerilerini değerlendirmek
-    - B-) Çocuğun fiziksel koordinasyonunu geliştirmek
-    - **Cevap C-) Çocuğun yaşamındaki duygusal deneyimleri sembolik olarak ifade etmesini sağlamak**
-    - D-) Çocuğun bilişsel performansını ölçmek
-    - E-) Çocuğun sosyal becerilerini test etmek
-
-    > **Açıklama:** “Hayatını Renklendir” tekniği, <ins>Yaratıcı Sanat Teknikleri</ins> grubuna girer ve çocuğun duygusal deneyimlerini farklı bir biçimde dışa vurabilmesi, yani <ins>sembolik olarak ifade etmesini sağlamak</ın> temel amacıdır.
-
-    <hr />
-
 ### 7.2. Terapötik Süreçte Öfke İfadesinin Değerlendirilmesi
 
-3. Aşağıdakilerden hangisi <ins>oyun temaları envanterinin</ins> terapötik kullanım amaçlarından biri <ins>değildir</ins>?
+1. Aşağıdakilerden hangisi <ins>oyun temaları envanterinin</ins> terapötik kullanım amaçlarından biri <ins>değildir</ins>?
     - A-) Çocuğun oyunundaki tekrar eden temaları belirlemek
     - B-) Terapistin çocuğun içsel dünyasına dair çıkarım yapmasını sağlamak
     - **Cevap C-) Çocuğun <ins>IQ düzeyini belirlemek</ins>**
@@ -1520,7 +1395,7 @@ Bu aşağıdakilerden hangisidir?
 
 ### 7.3.3. Rol Oynama Teknikleri
 
-4. “Terapistin Arkadaşı Kukla” tekniği aşağıdakilerden hangisi için özellikle uygundur?
+1. “Terapistin Arkadaşı Kukla” tekniği aşağıdakilerden hangisi için özellikle uygundur?
     - A-) Sınıf kurallarını öğretmek
     - B-) Akademik başarıyı artırmak
     - **Cevap C-) Sınır ihlali yapan çocuklara dolaylı geri bildirim vermek**
@@ -1531,9 +1406,22 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
+### 7.3.4. Yaratıcı Sanat Teknikleri
+
+1. Oyun terapisinde kullanılan <ins>“Hayatını Renklendir”</ins> tekniğinin temel amacı nedir?
+    - A-) Çocuğun akademik becerilerini değerlendirmek
+    - B-) Çocuğun fiziksel koordinasyonunu geliştirmek
+    - **Cevap C-) Çocuğun yaşamındaki duygusal deneyimleri sembolik olarak ifade etmesini sağlamak**
+    - D-) Çocuğun bilişsel performansını ölçmek
+    - E-) Çocuğun sosyal becerilerini test etmek
+
+    > **Açıklama:** “Hayatını Renklendir” tekniği, <ins>Yaratıcı Sanat Teknikleri</ins> grubuna girer ve çocuğun duygusal deneyimlerini farklı bir biçimde dışa vurabilmesi, yani <ins>sembolik olarak ifade etmesini sağlamak</ın> temel amacıdır.
+
+    <hr />
+
 ### 7.4. Uygulamalara Dair İpuçları ve Etik Hususlar
 
-5. Aşağıdakilerden hangisi ebeveyn eğitiminin oyun terapisi sürecindeki amaçlarından biri <ins>değildir</ins>?
+1. Aşağıdakilerden hangisi ebeveyn eğitiminin oyun terapisi sürecindeki amaçlarından biri <ins>değildir</ins>?
     - A-) Ebeveynin duygusal farkındalığını artırmak
     - **Cevap B-) Ebeveynin <ins>duygularını bastırmayı öğretmek</ins>**
     - C-) Çocuğa duyarlı yaklaşım geliştirmek
@@ -1544,9 +1432,7 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 7.4. Uygulamalara Dair İpuçları ve Etik Hususlar
-
-6. Çocukta görülen aşağıdaki davranışlardan hangisi <ins>ek hizmetlere yönlendirme</ins> gerektiren bir durumdur?
+2. Çocukta görülen aşağıdaki davranışlardan hangisi <ins>ek hizmetlere yönlendirme</ins> gerektiren bir durumdur?
     - A-) Oyun oynarken sessiz kalması
     - **Cevap B-) Tekrarlayıcı ve şiddetli saldırgan davranışlar**
     - C-) Duygularını sembollerle ifade etmesi
@@ -1572,8 +1458,6 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 8.2. Gelişimsel Sorunların Belirtileri ve Çocuk Üzerindeki Etkileri
-
 2. Gelişimsel sorunların erken tanısının önemi nedir?
     - A-) Sadece akademik başarı için gereklidir.
     - **Cevap B-) Müdahale planlaması ve çocuğun sağlıklı gelişimi için kritiktir.**
@@ -1587,7 +1471,7 @@ Bu aşağıdakilerden hangisidir?
 
 ### 8.3. Oyun Terapisinin Çocuk Gelişimindeki Rolü
 
-3. Oyun terapisi hangi psikoterapi kuramlarından etkilenmiştir?
+1. Oyun terapisi hangi psikoterapi kuramlarından etkilenmiştir?
     - **Cevap A-) Psikanalitik, Davranışçı ve Bilişsel Kuramlar**
     - B-) Yalnızca Bilişsel ve Davranışçı Kuramlar
     - C-) Sadece Psikanalitik Kuram
@@ -1598,22 +1482,7 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi
-
-4. Aşağıdakilerden hangisi oyun terapisinin temel amaçlarından biri <ins>değildir</ins>?
-    - A-) Çocuğun duygularını ifade etmesi
-    - **Cevap B-) Çocuğun akademik başarısını artırmak**
-    - C-) Duygusal iyilik halini desteklemek
-    - D-) Gelişimsel zorluklarla başa çıkmayı kolaylaştırmak
-    - E-) Çocuğun iç dünyasını anlamak
-
-    > **Açıklama:** Oyun terapisi bilişsel gelişimi dolaylı olarak destekleyebilirken, <ins>Çocuğun akademik başarısını artırmak</ins> doğrudan ve temel amaçlardan biri değildir.
-
-    <hr />
-
-### 8.3. Oyun Terapisinin Çocuk Gelişimindeki Rolü
-
-5. Yönlendirilmiş oyun terapisi ile yönlendirilmemiş oyun terapisi arasındaki temel fark nedir?
+2. Yönlendirilmiş oyun terapisi ile yönlendirilmemiş oyun terapisi arasındaki temel fark nedir?
     - A-) Kullanılan oyuncakların türü
     - **Cevap B-) Terapistin müdahale ve yönlendirme düzeyi**
     - C-) Seansların süresi
@@ -1624,9 +1493,33 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
+### 8.3.1. Oyun Terapisinde Kullanılan Temel Teknikler ve Araçlar
+
+1. Aşağıdakilerden hangisi <ins>tanısal değerlendirme</ins> amaçlı oyun terapisinin kullanılmasına örnek <ins>değildir</ins>?
+    - **Cevap A-) Theraplay**
+    - B-) Welt tekniği
+    - C-) Yapılandırılmış oyun testleri
+    - D-) Sceno testi
+    - E-) ADOS görüşmesi
+
+    > **Açıklama:** <ins>Theraplay</ins> (Bağlanma kuramı temelli), temel olarak <ins>müdahaleye yönelik</ins> bir terapi yöntemidir ve tanısal değerlendirme amaçlı kullanılmaz. Diğerleri ise yapılandırılmış veya yarı yapılandırılmış değerlendirme araçlarıdır.
+
+    <hr />
+
 ### 8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi
 
-6. Oyun terapisinde uygulanacak oyun tekniklerinin seçimi neye bağlıdır?
+1. Aşağıdakilerden hangisi oyun terapisinin temel amaçlarından biri <ins>değildir</ins>?
+    - A-) Çocuğun duygularını ifade etmesi
+    - **Cevap B-) Çocuğun akademik başarısını artırmak**
+    - C-) Duygusal iyilik halini desteklemek
+    - D-) Gelişimsel zorluklarla başa çıkmayı kolaylaştırmak
+    - E-) Çocuğun iç dünyasını anlamak
+
+    > **Açıklama:** Oyun terapisi bilişsel gelişimi dolaylı olarak destekleyebilirken, <ins>Çocuğun akademik başarısını artırmak</ins> doğrudan ve temel amaçlardan biri değildir.
+
+    <hr />
+
+2. Oyun terapisinde uygulanacak oyun tekniklerinin seçimi neye bağlıdır?
     - A-) Çocuğun yaşına ve cinsiyetine
     - B-) Terapistin kendi uzmanlık alanına
     - C-) Terapistin deneyim düzeyine
@@ -1637,22 +1530,7 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 8.9. Oyun Terapisinin Uygulama Süreci ve Terapistin Rolü
-
-7. Aşağıdakilerden hangisi oyun terapisi sürecinde dikkat edilmesi gereken bir unsurdur?
-    - **Cevap A-) Terapistin sınırları net koyması**
-    - B-) Çocuğa sürekli müdahale etmek
-    - C-) Oyun sırasında akademik konulara girmek
-    - D-) Çocuğun oyun sürecini sürekli kesmek
-    - E-) Oyun materyallerini sınırlamak
-
-    > **Açıklama:** Terapötik sürecin en önemli unsurlarından biri, güvenli ve öngörülebilir bir ortam sağlamak için <ins>Terapistin sınırları net koymasıdır</ins>.
-
-    <hr />
-
-### 8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi
-
-8. Oyun terapisi çocuklarda hangi gelişimsel sorunlarda daha etkili olabilir?
+3. Oyun terapisi çocuklarda hangi gelişimsel sorunlarda daha etkili olabilir?
     - **Cevap A-) Duygusal ve davranışsal sorunlarda**
     - B-) Sadece motor gelişim gecikmelerinde
     - C-) Yalnızca fiziksel hastalıklarda
@@ -1663,9 +1541,7 @@ Bu aşağıdakilerden hangisidir?
 
     <hr />
 
-### 8.4. Oyun Terapisinin Gelişimsel Sorunlar Üzerindeki Etkisi
-
-9. Yukarıda verilen durumların hangileri için özellikle oyun terapileri kullanılabilir?
+4. Yukarıda verilen durumların hangileri için özellikle oyun terapileri kullanılabilir?
 I. Seçici konuşmazlık
 II. Ağır otizm
 III. Ebeveyn kaybı
@@ -1682,16 +1558,16 @@ VI. Uyum bozukluğu
 
     <hr />
 
-### 8.3.1. Oyun Terapisinde Kullanılan Temel Teknikler ve Araçlar
+### 8.9. Oyun Terapisinin Uygulama Süreci ve Terapistin Rolü
 
-10. Aşağıdakilerden hangisi <ins>tanısal değerlendirme</ins> amaçlı oyun terapisinin kullanılmasına örnek <ins>değildir</ins>?
-    - **Cevap A-) Theraplay**
-    - B-) Welt tekniği
-    - C-) Yapılandırılmış oyun testleri
-    - D-) Sceno testi
-    - E-) ADOS görüşmesi
+1. Aşağıdakilerden hangisi oyun terapisi sürecinde dikkat edilmesi gereken bir unsurdur?
+    - **Cevap A-) Terapistin sınırları net koyması**
+    - B-) Çocuğa sürekli müdahale etmek
+    - C-) Oyun sırasında akademik konulara girmek
+    - D-) Çocuğun oyun sürecini sürekli kesmek
+    - E-) Oyun materyallerini sınırlamak
 
-    > **Açıklama:** <ins>Theraplay</ins> (Bağlanma kuramı temelli), temel olarak <ins>müdahaleye yönelik</ins> bir terapi yöntemidir ve tanısal değerlendirme amaçlı kullanılmaz. Diğerleri ise yapılandırılmış veya yarı yapılandırılmış değerlendirme araçlarıdır.
+    > **Açıklama:** Terapötik sürecin en önemli unsurlarından biri, güvenli ve öngörülebilir bir ortam sağlamak için <ins>Terapistin sınırları net koymasıdır</ins>.
 
     <hr />
 

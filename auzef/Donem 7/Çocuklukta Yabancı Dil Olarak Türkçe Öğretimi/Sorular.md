@@ -15,282 +15,9 @@
 
     <hr />
 
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-2. Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya ne ad verilir?
-    - **Cevap A-) Evrensel dilbilgisi**
-    - B-) Aradil
-    - C-) Ana dili
-    - D-) İkinci dil
-    - E-) İkidillilik
-
-    > **Açıklama:** Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya <b>Evrensel dilbilgisi</b> adı verilir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-3. Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Yukarıdaki bu duruma ne ad verilir?
-    - A-) İkidillilik
-    - B-) Fosilleşme
-    - **Cevap C-) Aradil**
-    - D-) Ana dili
-    - E-) Edinim
-
-    > **Açıklama:** Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Bu duruma <b>Aradil</b> adı verilir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-4. Aşağıdakilerden hangisi Selinker’in ortaya koyduğu aradilin özelliklerinden birisidir?
-    - A-) Evrensellik
-    - B-) Kolaylılık
-    - C-) Çekiniklik
-    - D-) Karmaşıklık
-    - **Cevap E-) Geçirgenlik**
-
-    > **Açıklama:** Aradilin geçirgenlik, dinamiklik ve sistematiklik olmak üzere üç temel özelliği bulunmaktadır. Bu özelliklerden biri <b>Geçirgenliktir</b>.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-5. Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna ne ad verilir?
-    - A-) Geçirgenlik
-    - **Cevap B-) Fosilleşme**
-    - C-) Dinamiklik
-    - D-) Kod değiştirme
-    - E-) Sistematiklik
-
-    > **Açıklama:** Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna <b>Fosilleşme</b> adı verilir.
-
-    <hr />
-
-### 1.4. İki dillilikte Dil Kullanımı
-
-6. Annesi Almanca babası Türkçe konuşan iki dilli bir çocuk annesiyle Almanca konuşurken babası tarafından bir soru yöneltilmesi durumunda hemen Türkçe yanıt verip annesi ile Almanca konuşmaya devam edebilir. Yukarıdaki bu durum aşağıdakilerden hangisidir?
-    - **Cevap A-) Kod değiştirme**
-    - B-) Kod karıştırma
-    - C-) Kodlama
-    - D-) Karmalaştırma
-    - E-) Karıştırma
-
-    > **Açıklama:** İki dilli bir çocuğun konuşma sırasında diller arasında anlık olarak geçiş yapması durumu <b>Kod değiştirme</b> olarak adlandırılır.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-7. Aradil her ne kadar bireyin sahip olduğu ana dilin ve hedef dilin kurallarının karıştırılmasıyla oluşturuluyor olsa da kendi içerisinde incelendiğinde oldukça tutarlı kurallara sahip olduğu ancak bu kuralların ana dilinden ve hedef dilden farklılaşabileceği görülmektedir. Yukarıda aradilin hangi özelliği vurgulanmaktadır?
-    - A-) Geçirgenlik
-    - **Cevap B-) Sistematiklik**
-    - C-) Dinamiklik
-    - D-) Karmaşıklık
-    - E-) Fosilleşme
-
-    > **Açıklama:** Ara dilin kendi içerisinde kural yönetimli olması ve tutarlı kurallara sahip olması, aradilin <b>Sistematiklik</b> özelliğini vurgulamaktadır.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-8. Bireyin sahip olduğu dillerden birinde var olan bir dilbilgisi yapısının yeni edindiği dile aktarması ve bu aktarımın yeni dildeki edinim sürecini kolaylaştırması durumuna ne ad verilir?
-    - A-) Geçişim
-    - B-) Karmalaştırma
-    - C-) Aktarımsız tam kabul
-    - **Cevap D-) Olumlu aktarım**
-    - E-) Olumsuz aktarım
-
-    > **Açıklama:** Bir dilde var olan bir dilbilgisi yapısının yeni edindiği dile aktarılması ve bu aktarımın yeni dildeki edinim sürecini <b>kolaylaştırması</b> durumu <b>Olumlu aktarım</b> olarak adlandırılır.
-
-    <hr />
-
-### 1.4. İki dillilikte Dil Kullanımı
-
-9. Arapça ve Türkçe bilen ikidilli bir çocuğun Arapça konuşarken Türkçe sözcükleri cümlelerinin içerisine yerleştirmesi durumu aşağıdakilerden hangisine örnektir?
-    - A-) Kod değiştirme
-    - **Cevap B-) Kod karıştırma**
-    - C-) Fosilleşme
-    - D-) Edinim
-    - E-) Öğrenim
-
-    > **Açıklama:** İki dilli bir çocuğun bir dildeki cümle yapısı içerisine diğer dilden sözcükleri yerleştirmesi durumu <b>Kod karıştırma</b> olarak adlandırılır.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-10. Krashen’e göre ……….; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken …….., yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir. Yukarıdaki boşluklara aşağıdaki kavramlardan hangisi getirilmelidir?
-    - A-) Edinim-anadilleştirme
-    - B-) Öğrenme-anadilleştirme
-    - C-) Karmalaştırma-Fosilleşme
-    - D-) Öğrenme-edinim
-    - **Cevap E-) Edinim-öğrenme**
-
-    > **Açıklama:** Krashen’e göre <b>Edinim</b>; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken <b>Öğrenme</b>, yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-11. Aşağıdaki seçeneklerden hangisi İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlardan biri olarak kabul edilir?
-    - **Cevap A-) Tam Aktarım Tam Kabul Varsayımı**
-    - B-) Yalın Ağaçlar Varsayımı
-    - C-) Sözdizimi Başlanşıç Aşaması Varsayımı
-    - D-) Değer Taşımayan Özellikler Varsayımı
-    - E-) Etkisel Filtre Varsayımı
-
-    > **Açıklama:** Tam Aktarım Tam Kabul Varsayımı, ikinci dilde dil bilgisi edinim sürecine ilişkin yaklaşımlardan biridir.
-
-    <hr />
-
-### 1.7. İki dilli Eğitim
-
-12. Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?
-    - A-) İşe dayalı öğrenme
-    - B-) İletişimsel yaklaşım
-    - C-) Tek yönlü daldırma
-    - **Cevap D-) İki yönlü daldırma**
-    - E-) İçerik tabanlı öğrenme
-
-    > **Açıklama:** Öğrencilerin bir kısmının bir dili, diğer kısmının ise başka bir dili bildiği okullarda uygulanan ve her iki dilin de eğitim programında yer aldığı ikidilli eğitim yaklaşımı <b>İki yönlü daldırma</b> olarak adlandırılır.
-
-    <hr />
-
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-13. Annesi ve babası tek dilli 12 yaşındaki İngiliz olan bir çocuğun İngiltere’de Fransız lisesine gitmesi ve burada Fransızca eğitim alması durumu aşağıdakilerden hangisine girmektedir?
-    - A-) Azınlık dil grubu - ikinci dil öğrenenler
-    - B-) Azınlık dil grubu - Eş zamanlı ikidilliler
-    - C-) Çoğunluk dil grubu - Eş zamanlı ikidilliler
-    - **Cevap D-) Çoğunluk dil grubu - ikinci dil öğrenenler**
-    - E-) Aile ikidilliliği - eş zamanlı ikidilliler
-
-    > **Açıklama:** Annesi ve babası tek dilli, 12 yaşındaki İngiliz çocuğun (çoğunluk dil grubu) İngiltere’de Fransız lisesine giderek Fransızca eğitim alması durumu <b>Çoğunluk dil grubu- ikinci dil öğrenenler</b> kategorisine girmektedir.
-
-    <hr />
-
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-14. Suriyeli ve ana dili Arapça olan ve Türkçe bilmeyen bir aileye mensup 12 yaşındaki bir çocuğun Türkiye’ye göç ederek Türkçe eğitim veren bir okula başlaması durumunda aşağıdaki gruplardan hangisine girecektir?
-    - A-) Çoğunluk dil grubu- ikinci dil öğrenenler
-    - B-) Azınlık dil grubu- Eş zamanlı ikidilliler
-    - C-) Çoğunluk dil grubu- Eş zamanlı ikidilliler
-    - **Cevap D-) Azınlık dil grubu- ikinci dil öğrenenler**
-    - E-) Aile ikidilliliği- eş zamanlı ikidilliler
-
-    > **Açıklama:** Suriyeli ve ana dili Arapça olan bir çocuğun Türkiye’de Türkçe eğitim veren okula başlaması durumu, azınlık dil grubundan birinin yeni bir dil öğrenmesi nedeniyle <b>Azınlık dil grubu- ikinci dil öğrenenler</b> kategorisine girer.
-
-    <hr />
-
-### 1.7. İki dilli Eğitim
-
-15. Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır. Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?
-    - A-) Etkileşimli edinim
-    - B-) Tüm fiziksel tepki
-    - C-) Kısmi daldırma
-    - **Cevap D-) Tek yönlü daldırma**
-    - E-) İki yönlü daldırma
-
-    > **Açıklama:** Öğrencinin dilini bilmediği bir ülkede, tek dilli bir okul ortamında hedef dilde eğitim almaya başlaması durumu <b>Tek yönlü daldırma</b> yöntemidir.
-
-    <hr />
-
-### 1.7. İki dilli Eğitim
-
-16. İrlanda Cumhuriyetinde gündelik yaşamda, eğitim kurumlarında İngilizce kullanılmasına karşın bu ülkede İrlandaca dili de bulunmaktadır. İrlandaca bilen sayısı gittikçe azaldığı için kimi okullarda tek dilli İrlandaca eğitim verildiği görülmektedir. Yukarıda aktarılan eğitim durumu aşağıdakilerden hangisini örneklendirmektedir?
-    - A-) eklemeli daldırma
-    - B-) kaynaştırma eğitimi
-    - C-) grup eğitimi
-    - D-) iki yönlü daldırma
-    - **Cevap E-) yerli dillere daldırma**
-
-    > **Açıklama:** İrlandaca gibi yerel dillerin bilen sayısının azalmasını önlemek amacıyla tek dilli eğitim verilmesi <b>yerli dillere daldırma</b> yaklaşımını örneklendirmektedir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-17. I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur. II. Hedef dille sınırlı düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülür. IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
-    - **Cevap A-) Anadilleştirme**
-    - B-) Yerlileştirme
-    - C-) Fosilleşme
-    - D-) Karmalaştırma
-    - E-) Etkileşim
-
-    > **Açıklama:** Hedef dilin kurallarından bağımsız gelişim, sınırlı etkileşim ve karmalaştırmanın görülmesi, Anderson tarafından ortaya konulan <b>Anadilleştirme</b> (Nativization) sürecini belirtir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-18. I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
-    - A-) Anadilleştirme
-    - **Cevap B-) Yerlileştirme**
-    - C-) Fosilleşme
-    - D-) Karmalaştırma
-    - E-) Etkileşim
-
-    > **Açıklama:** Hedef dilin kurallarına bağımlı gelişim, yeterli düzeyde etkileşim ve karmalaştırmanın az görülmesi, Anderson tarafından ortaya konulan <b>Yerlileştirme</b> (Acculturation) sürecini belirtir.
-
-    <hr />
-
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-19. İkinci dil edinimi sürecinde kimi durumlarda birey hedef dil topluluğundan kendini uzaklaştırır. Bu durumda hedef dili öğrenen bireyin toplulukla olan mesafesi artar. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?
-    - **Cevap A-) Toplumsal mesafe**
-    - B-) Psikolojik mesafe
-    - C-) Anadilleştirme
-    - D-) Yerlileştirme
-    - E-) Fosilleşme
-
-    > **Açıklama:** İkinci dil edinimi sürecinde bireyin hedef dil topluluğundan kendini uzaklaştırması durumu, <b>Toplumsal mesafe</b> ile ilgilidir.
-
-    <hr />
-
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-20. İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?
-    - A-) Toplumsal mesafe
-    - **Cevap B-) Psikolojik mesafe**
-    - C-) Anadilleştirme
-    - D-) Yerlileştirme
-    - E-) Fosilleşme
-
-    > **Açıklama:** Dil şoku, kültür şoku, güdülenmişlik düzeyi ve ego sınırları gibi içsel faktörler <b>Psikolojik mesafe</b> ile ilgilidir.
-
-    <hr />
-
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-21. İkinci dil edinim sürecinde bireylerin anlamlandırabileceğinin ötesinde bir dile maruz kalması edinim sürecinde soruna sebep olabilir. Sözgelimi, Türkçe bilmeyen bir öğrenci sadece üniversitede derslerde Türkçeye maruz kalırsa buradaki dil Türkçe gelişimini yeterince desteklemeyecektir. Yukarıda vurgulanmaya çalışılan özellik aşağıdakilerden hangisidir?
-    - A-) Toplumsal mesafenin önemi
-    - B-) Etkileşimin önemli
-    - C-) Dil aktarımının önemi
-    - D-) Diller arasındaki benzerliğin önemli
-    - **Cevap E-) Anlaşılır girdinin önemi**
-
-    > **Açıklama:** Bu durum, Krashen’in de belirttiği gibi, bireyin mevcut dil seviyesinin (i) bir adım ötesi (i+1) ile karşılaşmasının edinim sürecini olumsuz etkileyeceğini, bu nedenle <b>Anlaşılır girdinin önemi</b>ni vurgulamaktadır.
-
-    <hr />
-
-### 1.4. İki dillilikte Dil Kullanımı
-
-22. İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemesi durumu zaman içerisinde dil aşınmasına da sebep olabilmektedir. Yukarıda bahsedilen ikidillilik türü aşağıdakilerden hangisidir?
-    - A-) Eşzamanlı ikidillilik
-    - **Cevap B-) Çekinik ikidillilik**
-    - C-) Yeni başlayan ikidillilik
-    - D-) Baskın ikidillilik
-    - E-) Sıralı ikidillilik
-
-    > **Açıklama:** İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemenin yaşanması ve dil aşınmasına sebep olması durumu <b>Çekinik ikidillilik</b> olarak adlandırılmaktadır.
-
-    <hr />
-
 ### 1.2. İki dillilik Sürecinin Yaş ile İlişkisi
 
-23. Bir çocuğun doğumundan itibaren babası ile Fransızca, annesi ile İngilizce etkileşime girmesi durumunda oluşacak iki dillilik aşağıdakilerden hangisi ile tanımlanabilir?
+1. Bir çocuğun doğumundan itibaren babası ile Fransızca, annesi ile İngilizce etkileşime girmesi durumunda oluşacak iki dillilik aşağıdakilerden hangisi ile tanımlanabilir?
     - **Cevap A-) Eş zamanlı iki dillilik**
     - B-) Yarım iki dillilik
     - C-) Geç iki dillilik
@@ -301,9 +28,7 @@
 
     <hr />
 
-### 1.2. İki dillilik Sürecinin Yaş ile İlişkisi
-
-24. Çocuğun ana dilini edinimine başladıktan sonra, 4-5 yaşlarında yeni bir edinmeye başlaması durumunda bu sürece verilen ad aşağıdakilerden hangisidir?
+2. Çocuğun ana dilini edinimine başladıktan sonra, 4-5 yaşlarında yeni bir edinmeye başlaması durumunda bu sürece verilen ad aşağıdakilerden hangisidir?
     - A-) Çekinik iki dillilik
     - B-) Aile içi iki dillilik
     - **Cevap C-) Sıralı iki dillilik**
@@ -314,9 +39,7 @@
 
     <hr />
 
-### 1.2. İki dillilik Sürecinin Yaş ile İlişkisi
-
-25. Ana dili Türkçe olan tek dilli anne babanın 12 yaşındaki çocukları ile birlikte İngiltere’ye yerleşmeleri durumunda aşağıdaki durumlardan hangisi bu çocuğun durumunu en iyi biçimde betimler?
+3. Ana dili Türkçe olan tek dilli anne babanın 12 yaşındaki çocukları ile birlikte İngiltere’ye yerleşmeleri durumunda aşağıdaki durumlardan hangisi bu çocuğun durumunu en iyi biçimde betimler?
     - **Cevap A-) Azınlık dil grubuna ait geç iki dilliler**
     - B-) Azınlık dil grubuna ait eş zamanlı iki dilliler
     - C-) Çoğunluk dil grubuna ait eş zamanlı iki dilliler
@@ -327,48 +50,7 @@
 
     <hr />
 
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-26. Annesi ve babasının ana dili Türkçe olan ve Türkiye’de yaşayan bir çocuk 12 yaşında sadece İngilizce eğitim veren okula gönderilmiştir. Aşağıdakilerden hangisi bu çocuğun durumunu en iyi biçimde betimler?
-    - A-) Çoğunluk dil grubuna ait eş zamanlı iki dilliler
-    - B-) Azınlık dil grubuna ait eş zamanlı iki dilliler
-    - C-) Azınlık dil grubuna ait ikinci dil öğrenenler
-    - D-) Azınlık dil grubuna ait geç iki dilliler
-    - **Cevap E-) Çoğunluk dil grubuna ait ikinci dil öğrenenler**
-
-    > **Açıklama:** Türkiye'de yaşayan ve ana dili Türkçe olan bir çocuğun (çoğunluk dil grubu) 12 yaşında İngilizce eğitim veren bir okula gönderilmesi, çocuğun <b>Çoğunluk dil grubuna ait ikinci dil öğrenenler</b> olduğunu betimler.
-
-    <hr />
-
-### 1.7. İki dilli Eğitim
-
-27. Dışsal topluluklar içerisinde iki dilden birisi daha az destek ile karşılaşmakta ve devlet politikası olarak bireylerin belirli dillere zorlanabildiği görülmektedir. Bu durumda devletler ikidillileri de devletin benimsediği dili kullanmaya yöneltmektedir. Böylece bireylerin sahip oldukları dillerden birisi büyük oranda devre dışı kalmaktadır. Yukarıda açıklanmaya çalışılan durum aşağıdakilerden hangisidir?
-    - A-) Eklemeli ikidillilik
-    - B-) Baskın ikidillilik
-    - **Cevap C-) Eksiltmeli ikidillilik**
-    - D-) Seçmeli ikidillilik
-    - E-) Aile ikidilliği
-
-    > **Açıklama:** Devlet politikaları nedeniyle bireyin sahip olduğu dillerden birisinin büyük oranda devre dışı bırakılması ve daha az destekle karşılaşması durumu <b>Eksiltmeli ikidillilik</b> olarak adlandırılır.
-
-    <hr />
-
-### 1.3. İki dillilik ve Toplumsal Etkileşim
-
-28. İkinci dil edinimi sürecinde iletişimde bir sorun oluştuğunda bu sorunun giderilmesine yönelik olarak karşı tarafın ürettiği birim aşağıdakilerden hangisidir?
-    - **Cevap A-) Tetik**
-    - B-) Tepki
-    - C-) Sinyal
-    - D-) Onarım
-    - E-) Yanıt
-
-    > **Açıklama:** Anlamda uzlaşma sürecinde karşı taraf için problem oluşturan dilsel yapılara <b>Tetik</b> adı verilir.
-
-    <hr />
-
-### 1.2. İki dillilik Sürecinin Yaş ile İlişkisi
-
-29. Bir çocuk bebeklik ya da anaokulu döneminde iki dilli daldırma programı uygulayan bir eğitim kurumunda eğitime başladığında, yaş faktörü dikkate alındığında bu durum nasıl adlandırılır?
+4. Bir çocuk bebeklik ya da anaokulu döneminde iki dilli daldırma programı uygulayan bir eğitim kurumunda eğitime başladığında, yaş faktörü dikkate alındığında bu durum nasıl adlandırılır?
     - A-) Tam daldırma
     - **Cevap B-) Erken daldırma**
     - C-) Yarım daldırma
@@ -379,48 +61,233 @@
 
     <hr />
 
-### 1.7. İki dilli Eğitim
+### 1.3. İki dillilik ve Toplumsal Etkileşim
 
-30. Kanada iki dilli bir toplumdur ve kimi okullarda İngilizce-Fransızca iki dilli eğitim verilir. Dolayısıyla öğrencilerin yarısının İngilizce yarsının ise Fransızca bildiği kimi durumlarda İngilizce-Fransızca iki dilli eğitim programı görülebilir. Bu durum hangi iki dilli eğitim yaklaşımını yansıtmaktadır?
-    - A-) Evrensel dile daldırma
-    - B-) Yeni dile daldırma
-    - C-) Azınlık diline daldırma
-    - **Cevap D-) İki yönlü daldırma**
-    - E-) Tek yönlü daldırma
+1. Annesi ve babası tek dilli 12 yaşındaki İngiliz olan bir çocuğun İngiltere’de Fransız lisesine gitmesi ve burada Fransızca eğitim alması durumu aşağıdakilerden hangisine girmektedir?
+    - A-) Azınlık dil grubu - ikinci dil öğrenenler
+    - B-) Azınlık dil grubu - Eş zamanlı ikidilliler
+    - C-) Çoğunluk dil grubu - Eş zamanlı ikidilliler
+    - **Cevap D-) Çoğunluk dil grubu - ikinci dil öğrenenler**
+    - E-) Aile ikidilliliği - eş zamanlı ikidilliler
 
-    > **Açıklama:** Öğrencilerin yarısının bir dili, diğer yarısının ise diğer dili bildiği, her iki dilin de programda yer aldığı eğitim yaklaşımı <b>İki yönlü daldırma</b> yaklaşımını yansıtmaktadır.
-
-    <hr />
-
-### 1.7. İki dilli Eğitim
-
-31. İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?
-    - A-) Tam zamanlı daldırma
-    - B-) Yapılandırılmış daldırma
-    - **Cevap C-) Kısmi zamanlı daldırma**
-    - D-) Yerli dillere daldırma
-    - E-) Tek yönlü daldırma
-
-    > **Açıklama:** Çocukların eğitim zamanının yarısını (%50’si) hedef dil ile geçirdiği daldırma programlarına <b>Kısmi zamanlı daldırma</b> adı verilir.
+    > **Açıklama:** Annesi ve babası tek dilli, 12 yaşındaki İngiliz çocuğun (çoğunluk dil grubu) İngiltere’de Fransız lisesine giderek Fransızca eğitim alması durumu <b>Çoğunluk dil grubu- ikinci dil öğrenenler</b> kategorisine girmektedir.
 
     <hr />
 
-### 1.7. İki dilli Eğitim
+2. Suriyeli ve ana dili Arapça olan ve Türkçe bilmeyen bir aileye mensup 12 yaşındaki bir çocuğun Türkiye’ye göç ederek Türkçe eğitim veren bir okula başlaması durumunda aşağıdaki gruplardan hangisine girecektir?
+    - A-) Çoğunluk dil grubu- ikinci dil öğrenenler
+    - B-) Azınlık dil grubu- Eş zamanlı ikidilliler
+    - C-) Çoğunluk dil grubu- Eş zamanlı ikidilliler
+    - **Cevap D-) Azınlık dil grubu- ikinci dil öğrenenler**
+    - E-) Aile ikidilliliği- eş zamanlı ikidilliler
 
-32. Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?
-    - A-) Dışsal ikidillilik
-    - B-) Seçmeli ikidillilik
-    - C-) Durumsal ikidillilik
-    - D-) Eksiltmeli ikidillilik
-    - **Cevap E-) Eklemeli ikidillilik**
+    > **Açıklama:** Suriyeli ve ana dili Arapça olan bir çocuğun Türkiye’de Türkçe eğitim veren okula başlaması durumu, azınlık dil grubundan birinin yeni bir dil öğrenmesi nedeniyle <b>Azınlık dil grubu- ikinci dil öğrenenler</b> kategorisine girer.
 
-    > **Açıklama:** Yeni bir dilin öğrenilmesi sırasında diğer dilin olumsuz etkilenmediği durum <b>Eklemeli ikidillilik</b> olarak tanımlanmaktadır.
+    <hr />
+
+3. İkinci dil edinimi sürecinde kimi durumlarda birey hedef dil topluluğundan kendini uzaklaştırır. Bu durumda hedef dili öğrenen bireyin toplulukla olan mesafesi artar. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?
+    - **Cevap A-) Toplumsal mesafe**
+    - B-) Psikolojik mesafe
+    - C-) Anadilleştirme
+    - D-) Yerlileştirme
+    - E-) Fosilleşme
+
+    > **Açıklama:** İkinci dil edinimi sürecinde bireyin hedef dil topluluğundan kendini uzaklaştırması durumu, <b>Toplumsal mesafe</b> ile ilgilidir.
+
+    <hr />
+
+4. İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?
+    - A-) Toplumsal mesafe
+    - **Cevap B-) Psikolojik mesafe**
+    - C-) Anadilleştirme
+    - D-) Yerlileştirme
+    - E-) Fosilleşme
+
+    > **Açıklama:** Dil şoku, kültür şoku, güdülenmişlik düzeyi ve ego sınırları gibi içsel faktörler <b>Psikolojik mesafe</b> ile ilgilidir.
+
+    <hr />
+
+5. Annesi ve babasının ana dili Türkçe olan ve Türkiye’de yaşayan bir çocuk 12 yaşında sadece İngilizce eğitim veren okula gönderilmiştir. Aşağıdakilerden hangisi bu çocuğun durumunu en iyi biçimde betimler?
+    - A-) Çoğunluk dil grubuna ait eş zamanlı iki dilliler
+    - B-) Azınlık dil grubuna ait eş zamanlı iki dilliler
+    - C-) Azınlık dil grubuna ait ikinci dil öğrenenler
+    - D-) Azınlık dil grubuna ait geç iki dilliler
+    - **Cevap E-) Çoğunluk dil grubuna ait ikinci dil öğrenenler**
+
+    > **Açıklama:** Türkiye'de yaşayan ve ana dili Türkçe olan bir çocuğun (çoğunluk dil grubu) 12 yaşında İngilizce eğitim veren bir okula gönderilmesi, çocuğun <b>Çoğunluk dil grubuna ait ikinci dil öğrenenler</b> olduğunu betimler.
+
+    <hr />
+
+6. İkinci dil edinimi sürecinde iletişimde bir sorun oluştuğunda bu sorunun giderilmesine yönelik olarak karşı tarafın ürettiği birim aşağıdakilerden hangisidir?
+    - **Cevap A-) Tetik**
+    - B-) Tepki
+    - C-) Sinyal
+    - D-) Onarım
+    - E-) Yanıt
+
+    > **Açıklama:** Anlamda uzlaşma sürecinde karşı taraf için problem oluşturan dilsel yapılara <b>Tetik</b> adı verilir.
+
+    <hr />
+
+### 1.4. İki dillilikte Dil Kullanımı
+
+1. Annesi Almanca babası Türkçe konuşan iki dilli bir çocuk annesiyle Almanca konuşurken babası tarafından bir soru yöneltilmesi durumunda hemen Türkçe yanıt verip annesi ile Almanca konuşmaya devam edebilir. Yukarıdaki bu durum aşağıdakilerden hangisidir?
+    - **Cevap A-) Kod değiştirme**
+    - B-) Kod karıştırma
+    - C-) Kodlama
+    - D-) Karmalaştırma
+    - E-) Karıştırma
+
+    > **Açıklama:** İki dilli bir çocuğun konuşma sırasında diller arasında anlık olarak geçiş yapması durumu <b>Kod değiştirme</b> olarak adlandırılır.
+
+    <hr />
+
+2. Arapça ve Türkçe bilen ikidilli bir çocuğun Arapça konuşarken Türkçe sözcükleri cümlelerinin içerisine yerleştirmesi durumu aşağıdakilerden hangisine örnektir?
+    - A-) Kod değiştirme
+    - **Cevap B-) Kod karıştırma**
+    - C-) Fosilleşme
+    - D-) Edinim
+    - E-) Öğrenim
+
+    > **Açıklama:** İki dilli bir çocuğun bir dildeki cümle yapısı içerisine diğer dilden sözcükleri yerleştirmesi durumu <b>Kod karıştırma</b> olarak adlandırılır.
+
+    <hr />
+
+3. İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemesi durumu zaman içerisinde dil aşınmasına da sebep olabilmektedir. Yukarıda bahsedilen ikidillilik türü aşağıdakilerden hangisidir?
+    - A-) Eşzamanlı ikidillilik
+    - **Cevap B-) Çekinik ikidillilik**
+    - C-) Yeni başlayan ikidillilik
+    - D-) Baskın ikidillilik
+    - E-) Sıralı ikidillilik
+
+    > **Açıklama:** İkidilli bireylerde bir dilde gelişim görülürken diğer dilde bir gerilemenin yaşanması ve dil aşınmasına sebep olması durumu <b>Çekinik ikidillilik</b> olarak adlandırılmaktadır.
 
     <hr />
 
 ### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
 
-33. İkinci dil edinimi sürecinde bireyler ikinci dillerinde ana dillerinden kurallara, sözcüklere yer verebilmektedir. Bu durumda hedef dil kullanımlarının içerisinde ana dillerinden öğeler yer alabilmektedir. Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?
+1. Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya ne ad verilir?
+    - **Cevap A-) Evrensel dilbilgisi**
+    - B-) Aradil
+    - C-) Ana dili
+    - D-) İkinci dil
+    - E-) İkidillilik
+
+    > **Açıklama:** Chomsky’nin öne sürdüğü, bireyin doğuştan getirdiği iddia edilen ve bütün dillerin altında yatan kuralları oluşturan yapıya <b>Evrensel dilbilgisi</b> adı verilir.
+
+    <hr />
+
+2. Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Yukarıdaki bu duruma ne ad verilir?
+    - A-) İkidillilik
+    - B-) Fosilleşme
+    - **Cevap C-) Aradil**
+    - D-) Ana dili
+    - E-) Edinim
+
+    > **Açıklama:** Bireylerin ikinci dil edinim sürecinde belirli bir aşamadaki dil özelliği gerek ana dilinden gerekse hedef dilden aldığı kurallarla oluşturulmuş bir forma dönüşebilir. Bu duruma <b>Aradil</b> adı verilir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi Selinker’in ortaya koyduğu aradilin özelliklerinden birisidir?
+    - A-) Evrensellik
+    - B-) Kolaylılık
+    - C-) Çekiniklik
+    - D-) Karmaşıklık
+    - **Cevap E-) Geçirgenlik**
+
+    > **Açıklama:** Aradilin geçirgenlik, dinamiklik ve sistematiklik olmak üzere üç temel özelliği bulunmaktadır. Bu özelliklerden biri <b>Geçirgenliktir</b>.
+
+    <hr />
+
+4. Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna ne ad verilir?
+    - A-) Geçirgenlik
+    - **Cevap B-) Fosilleşme**
+    - C-) Dinamiklik
+    - D-) Kod değiştirme
+    - E-) Sistematiklik
+
+    > **Açıklama:** Aradilin geçirgenliğini durdurması diğer bir ifadeyle ikinci dil edinim sürecinin belirli bir noktada durarak ilerleme kaydedemesi durumuna <b>Fosilleşme</b> adı verilir.
+
+    <hr />
+
+5. Aradil her ne kadar bireyin sahip olduğu ana dilin ve hedef dilin kurallarının karıştırılmasıyla oluşturuluyor olsa da kendi içerisinde incelendiğinde oldukça tutarlı kurallara sahip olduğu ancak bu kuralların ana dilinden ve hedef dilden farklılaşabileceği görülmektedir. Yukarıda aradilin hangi özelliği vurgulanmaktadır?
+    - A-) Geçirgenlik
+    - **Cevap B-) Sistematiklik**
+    - C-) Dinamiklik
+    - D-) Karmaşıklık
+    - E-) Fosilleşme
+
+    > **Açıklama:** Ara dilin kendi içerisinde kural yönetimli olması ve tutarlı kurallara sahip olması, aradilin <b>Sistematiklik</b> özelliğini vurgulamaktadır.
+
+    <hr />
+
+6. Bireyin sahip olduğu dillerden birinde var olan bir dilbilgisi yapısının yeni edindiği dile aktarması ve bu aktarımın yeni dildeki edinim sürecini kolaylaştırması durumuna ne ad verilir?
+    - A-) Geçişim
+    - B-) Karmalaştırma
+    - C-) Aktarımsız tam kabul
+    - **Cevap D-) Olumlu aktarım**
+    - E-) Olumsuz aktarım
+
+    > **Açıklama:** Bir dilde var olan bir dilbilgisi yapısının yeni edindiği dile aktarılması ve bu aktarımın yeni dildeki edinim sürecini <b>kolaylaştırması</b> durumu <b>Olumlu aktarım</b> olarak adlandırılır.
+
+    <hr />
+
+7. Krashen’e göre ……….; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken …….., yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir. Yukarıdaki boşluklara aşağıdaki kavramlardan hangisi getirilmelidir?
+    - A-) Edinim-anadilleştirme
+    - B-) Öğrenme-anadilleştirme
+    - C-) Karmalaştırma-Fosilleşme
+    - D-) Öğrenme-edinim
+    - **Cevap E-) Edinim-öğrenme**
+
+    > **Açıklama:** Krashen’e göre <b>Edinim</b>; yeni dil ile etkileşimdeki otomatik olarak gerçekleşen, bilinçsiz bir işlemlemenin varlığını ifade ederken <b>Öğrenme</b>, yeni dil ile etkileşimdeki bilinçli olarak gerçekleşen yapılandırılmış süreçleri ifade etmektedir.
+
+    <hr />
+
+8. Aşağıdaki seçeneklerden hangisi İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlardan biri olarak kabul edilir?
+    - **Cevap A-) Tam Aktarım Tam Kabul Varsayımı**
+    - B-) Yalın Ağaçlar Varsayımı
+    - C-) Sözdizimi Başlanşıç Aşaması Varsayımı
+    - D-) Değer Taşımayan Özellikler Varsayımı
+    - E-) Etkisel Filtre Varsayımı
+
+    > **Açıklama:** Tam Aktarım Tam Kabul Varsayımı, ikinci dilde dil bilgisi edinim sürecine ilişkin yaklaşımlardan biridir.
+
+    <hr />
+
+9. I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur. II. Hedef dille sınırlı düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülür. IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
+    - **Cevap A-) Anadilleştirme**
+    - B-) Yerlileştirme
+    - C-) Fosilleşme
+    - D-) Karmalaştırma
+    - E-) Etkileşim
+
+    > **Açıklama:** Hedef dilin kurallarından bağımsız gelişim, sınırlı etkileşim ve karmalaştırmanın görülmesi, Anderson tarafından ortaya konulan <b>Anadilleştirme</b> (Nativization) sürecini belirtir.
+
+    <hr />
+
+10. I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
+    - A-) Anadilleştirme
+    - **Cevap B-) Yerlileştirme**
+    - C-) Fosilleşme
+    - D-) Karmalaştırma
+    - E-) Etkileşim
+
+    > **Açıklama:** Hedef dilin kurallarına bağımlı gelişim, yeterli düzeyde etkileşim ve karmalaştırmanın az görülmesi, Anderson tarafından ortaya konulan <b>Yerlileştirme</b> (Acculturation) sürecini belirtir.
+
+    <hr />
+
+11. İkinci dil edinim sürecinde bireylerin anlamlandırabileceğinin ötesinde bir dile maruz kalması edinim sürecinde soruna sebep olabilir. Sözgelimi, Türkçe bilmeyen bir öğrenci sadece üniversitede derslerde Türkçeye maruz kalırsa buradaki dil Türkçe gelişimini yeterince desteklemeyecektir. Yukarıda vurgulanmaya çalışılan özellik aşağıdakilerden hangisidir?
+    - A-) Toplumsal mesafenin önemi
+    - B-) Etkileşimin önemli
+    - C-) Dil aktarımının önemi
+    - D-) Diller arasındaki benzerliğin önemli
+    - **Cevap E-) Anlaşılır girdinin önemi**
+
+    > **Açıklama:** Bu durum, Krashen’in de belirttiği gibi, bireyin mevcut dil seviyesinin (i) bir adım ötesi (i+1) ile karşılaşmasının edinim sürecini olumsuz etkileyeceğini, bu nedenle <b>Anlaşılır girdinin önemi</b>ni vurgulamaktadır.
+
+    <hr />
+
+12. İkinci dil edinimi sürecinde bireyler ikinci dillerinde ana dillerinden kurallara, sözcüklere yer verebilmektedir. Bu durumda hedef dil kullanımlarının içerisinde ana dillerinden öğeler yer alabilmektedir. Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?
     - A-) Pekiştirme
     - **Cevap B-) Karmalaştırma**
     - C-) Fosilleşme
@@ -431,9 +298,7 @@
 
     <hr />
 
-### 1.6. İkinci Dilde Dil bilgisi Edinim Sürecine İlişkin Yaklaşımlar
-
-34. Selinker, ikinci dil edinimi sürecinde anlaşılabilir dil verisi ile karşılaşmanın oldukça önemli olduğunu belirtmekte ve bunu “i” olarak adlandırmaktadır. Bunun ötesinde olan yani bireylerin anlamlandıramadığı dil verisini ise “i+1” olarak adlandırmaktadır. Dil edinicilerinin “i+1” niteliğinde dil verisi ile karşılaşması edinim sürecini olumsuz etkilemektedir. Yukarıda açıklanan ve Selinker’in ortaya koyduğu varsayım aşağıdakilerden hangisidir?
+13. Selinker, ikinci dil edinimi sürecinde anlaşılabilir dil verisi ile karşılaşmanın oldukça önemli olduğunu belirtmekte ve bunu “i” olarak adlandırmaktadır. Bunun ötesinde olan yani bireylerin anlamlandıramadığı dil verisini ise “i+1” olarak adlandırmaktadır. Dil edinicilerinin “i+1” niteliğinde dil verisi ile karşılaşması edinim sürecini olumsuz etkilemektedir. Yukarıda açıklanan ve Selinker’in ortaya koyduğu varsayım aşağıdakilerden hangisidir?
     - A-) Sözdizimi Başlanşıç Aşaması Varsayımı
     - **Cevap B-) Girdi Varsayımı**
     - C-) Aktarımsız Tam Kabul Varsayımı
@@ -441,6 +306,85 @@
     - E-) Etkisel Filtre Varsayımı
 
     > **Açıklama:** Selinker’in (Krashen ile birlikte anılan) <b>Girdi Varsayımı</b>, ikinci dil ediniminde anlaşılabilir dil verisi (“i”) ile karşılaşmanın oldukça önemli olduğunu ve bireylerin anlamlandıramadığı dil verisi (“i+1”) ile karşılaşmasının edinim sürecini olumsuz etkilediğini savunur.
+
+    <hr />
+
+### 1.7. İki dilli Eğitim
+
+1. Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?
+    - A-) İşe dayalı öğrenme
+    - B-) İletişimsel yaklaşım
+    - C-) Tek yönlü daldırma
+    - **Cevap D-) İki yönlü daldırma**
+    - E-) İçerik tabanlı öğrenme
+
+    > **Açıklama:** Öğrencilerin bir kısmının bir dili, diğer kısmının ise başka bir dili bildiği okullarda uygulanan ve her iki dilin de eğitim programında yer aldığı ikidilli eğitim yaklaşımı <b>İki yönlü daldırma</b> olarak adlandırılır.
+
+    <hr />
+
+2. Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır. Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?
+    - A-) Etkileşimli edinim
+    - B-) Tüm fiziksel tepki
+    - C-) Kısmi daldırma
+    - **Cevap D-) Tek yönlü daldırma**
+    - E-) İki yönlü daldırma
+
+    > **Açıklama:** Öğrencinin dilini bilmediği bir ülkede, tek dilli bir okul ortamında hedef dilde eğitim almaya başlaması durumu <b>Tek yönlü daldırma</b> yöntemidir.
+
+    <hr />
+
+3. İrlanda Cumhuriyetinde gündelik yaşamda, eğitim kurumlarında İngilizce kullanılmasına karşın bu ülkede İrlandaca dili de bulunmaktadır. İrlandaca bilen sayısı gittikçe azaldığı için kimi okullarda tek dilli İrlandaca eğitim verildiği görülmektedir. Yukarıda aktarılan eğitim durumu aşağıdakilerden hangisini örneklendirmektedir?
+    - A-) eklemeli daldırma
+    - B-) kaynaştırma eğitimi
+    - C-) grup eğitimi
+    - D-) iki yönlü daldırma
+    - **Cevap E-) yerli dillere daldırma**
+
+    > **Açıklama:** İrlandaca gibi yerel dillerin bilen sayısının azalmasını önlemek amacıyla tek dilli eğitim verilmesi <b>yerli dillere daldırma</b> yaklaşımını örneklendirmektedir.
+
+    <hr />
+
+4. Dışsal topluluklar içerisinde iki dilden birisi daha az destek ile karşılaşmakta ve devlet politikası olarak bireylerin belirli dillere zorlanabildiği görülmektedir. Bu durumda devletler ikidillileri de devletin benimsediği dili kullanmaya yöneltmektedir. Böylece bireylerin sahip oldukları dillerden birisi büyük oranda devre dışı kalmaktadır. Yukarıda açıklanmaya çalışılan durum aşağıdakilerden hangisidir?
+    - A-) Eklemeli ikidillilik
+    - B-) Baskın ikidillilik
+    - **Cevap C-) Eksiltmeli ikidillilik**
+    - D-) Seçmeli ikidillilik
+    - E-) Aile ikidilliği
+
+    > **Açıklama:** Devlet politikaları nedeniyle bireyin sahip olduğu dillerden birisinin büyük oranda devre dışı bırakılması ve daha az destekle karşılaşması durumu <b>Eksiltmeli ikidillilik</b> olarak adlandırılır.
+
+    <hr />
+
+5. Kanada iki dilli bir toplumdur ve kimi okullarda İngilizce-Fransızca iki dilli eğitim verilir. Dolayısıyla öğrencilerin yarısının İngilizce yarsının ise Fransızca bildiği kimi durumlarda İngilizce-Fransızca iki dilli eğitim programı görülebilir. Bu durum hangi iki dilli eğitim yaklaşımını yansıtmaktadır?
+    - A-) Evrensel dile daldırma
+    - B-) Yeni dile daldırma
+    - C-) Azınlık diline daldırma
+    - **Cevap D-) İki yönlü daldırma**
+    - E-) Tek yönlü daldırma
+
+    > **Açıklama:** Öğrencilerin yarısının bir dili, diğer yarısının ise diğer dili bildiği, her iki dilin de programda yer aldığı eğitim yaklaşımı <b>İki yönlü daldırma</b> yaklaşımını yansıtmaktadır.
+
+    <hr />
+
+6. İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?
+    - A-) Tam zamanlı daldırma
+    - B-) Yapılandırılmış daldırma
+    - **Cevap C-) Kısmi zamanlı daldırma**
+    - D-) Yerli dillere daldırma
+    - E-) Tek yönlü daldırma
+
+    > **Açıklama:** Çocukların eğitim zamanının yarısını (%50’si) hedef dil ile geçirdiği daldırma programlarına <b>Kısmi zamanlı daldırma</b> adı verilir.
+
+    <hr />
+
+7. Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?
+    - A-) Dışsal ikidillilik
+    - B-) Seçmeli ikidillilik
+    - C-) Durumsal ikidillilik
+    - D-) Eksiltmeli ikidillilik
+    - **Cevap E-) Eklemeli ikidillilik**
+
+    > **Açıklama:** Yeni bir dilin öğrenilmesi sırasında diğer dilin olumsuz etkilenmediği durum <b>Eklemeli ikidillilik</b> olarak tanımlanmaktadır.
 
     <hr />
 
@@ -460,8 +404,6 @@ Yukarıdaki görüşü savunan yaklaşım aşağıdakilerden hangisidir?
 
     <hr />
 
-### 2.2.1. Kültür Uyuşumu Modeli
-
 2. İkinci bir dil edinme sürecinin büyük oranda yeni bir kültüre uyum sağlama süreci olduğunu söyleyen ve kültür uyuşumu modelini öne süren araştırmacı aşağıdakilerden hangisidir?
     - A-) Anderson
     - B-) Vygotsky
@@ -473,8 +415,6 @@ Yukarıdaki görüşü savunan yaklaşım aşağıdakilerden hangisidir?
 
     <hr />
 
-### 2.2.1. Kültür Uyuşumu Modeli
-
 3. İkinci dil edinimi sürecinde bireylerde dil şoku, kültür şoku olup olmaması güdülenmişlik düzeyleri ve ego sınırları dil ediniminde etkilidir. Yukarıdaki değişkenler aşağıdakilerden hangisi ile ilintilidir?
     - A-) Toplumsal mesafe
     - **Cevap B-) Psikolojik mesafe**
@@ -485,8 +425,6 @@ Yukarıdaki görüşü savunan yaklaşım aşağıdakilerden hangisidir?
     > **Açıklama:** Dil edinimi sürecindeki bireye özgü durumları ifade eden ve dil şoku yaşayıp yaşamama, dil egosunun var olup olmaması, güdülenme düzeyi gibi durumları içeren etmenler <b>Psikolojik mesafe</b>yi oluşturmaktadır.
 
     <hr />
-
-### 2.2.1. Kültür Uyuşumu Modeli
 
 4. Kültür uyuşumu modeline göre birtakım etmenler ikinci dil edinim sürecinde etkili olabilmektedir. Bu etmenlerden bazıları şu şekildedir: – İki kültürün birbirine benzeme düzeyi – İki dil grubunun sayıca birbirine yakın olup olmaması – İki dil grubunun birbiri ile entegre olma arzusu – İki dil grubunun arasında eşitlik olup olmaması
 Yukarıda sıralanan etmenler aşağıdakilerden hangisi ile ilgilidir?
@@ -502,7 +440,7 @@ Yukarıda sıralanan etmenler aşağıdakilerden hangisi ile ilgilidir?
 
 ### 2.2.2. Karmalaştırma Varsayımı
 
-5. İkinci dil edinimi sürecinde bireyler ikinci dillerinde ana dillerinden kurallara, sözcüklere yer verebilmektedir. Bu durumda hedef dil kullanımlarının içerisinde ana dillerinden öğeler yer alabilmektedir. Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?
+1. İkinci dil edinimi sürecinde bireyler ikinci dillerinde ana dillerinden kurallara, sözcüklere yer verebilmektedir. Bu durumda hedef dil kullanımlarının içerisinde ana dillerinden öğeler yer alabilmektedir. Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?
     - A-) Pekiştirme
     - **Cevap B-) Karmalaştırma**
     - C-) Fosilleşme
@@ -515,7 +453,7 @@ Yukarıda sıralanan etmenler aşağıdakilerden hangisi ile ilgilidir?
 
 ### 2.2.3. Ana dilleştirme Modeli
 
-6. I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
+1. I. Hedef dilin kurallarına bağımlı bir gelişim söz konusudur. II. Hedef dille yeterli düzeyde bir etkileşim vardır. III. Dil edinim sürecinde karmalaştırma görülmez ya da az görülür. IV. Hedef dilin kurallarına göre bir ikinci dil edinimi süreci söz konusudur. Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç aşağıdakilerden hangisidir?
     - A-) Anadilleştirme
     - **Cevap B-) Yerlileştirme**
     - C-) Fosilleşme
@@ -526,9 +464,7 @@ Yukarıda sıralanan etmenler aşağıdakilerden hangisi ile ilgilidir?
 
     <hr />
 
-### 2.2.3. Ana dilleştirme Modeli
-
-7. I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur.
+2. I. Hedef dilin kurallarından bağımsız bir gelişim söz konusudur.
 II. Hedef dille sınırlı düzeyde bir etkileşim vardır.
 III. Dil edinim sürecinde karmalaştırma görülür.
 IV. Hedef dilin kurallarından bağımsız bir ikinci dil edinimi süreci söz konusudur.
@@ -545,7 +481,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
 ### 2.2.4. Etkileşim Varsayımı
 
-8. Etkileşim varsayımı ikinci dil edinimi sürecinin büyük oranda bireyler arasında hedef dilde kurulan etkileşim ile sağlandığını belirtmektedir. Bununla birlikte, anlamda uzlaşma sürecinin de oldukça önemli olduğu belirtilmektedir. Anlamda uzlaşma sürecinde bir konuşucunun ürettiği ve etkileşim sürecindeki diğer bireyler için sorun oluşturan dilsel yapılara verilen ad aşağıdakilerden hangisidir?
+1. Etkileşim varsayımı ikinci dil edinimi sürecinin büyük oranda bireyler arasında hedef dilde kurulan etkileşim ile sağlandığını belirtmektedir. Bununla birlikte, anlamda uzlaşma sürecinin de oldukça önemli olduğu belirtilmektedir. Anlamda uzlaşma sürecinde bir konuşucunun ürettiği ve etkileşim sürecindeki diğer bireyler için sorun oluşturan dilsel yapılara verilen ad aşağıdakilerden hangisidir?
     - A-) Sinyal
     - B-) Onarım
     - **Cevap C-) Tetik**
@@ -558,7 +494,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
 ### 2.3. Daldırma Yöntemi
 
-9. Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?
+1. Ülkeye bir öğrenci ailesiyle göç etmiş ve dilini bilmediği bu ülkedeki bir okula yerleştirilmiştir. Okulda tek dilli bir ortam bulunmaktadır Öğrenci hedef dile ilişkin temel bilgisi olmasa da bu eğitim ortamında tek dilli biçimde eğitim almaya başlamıştır. Yukarıda aktarılan durumda hangi yöntem uygulanmaktadır?
     - A-) Etkileşimli edinim
     - B-) Tüm fiziksel tepki
     - C-) Kısmi daldırma
@@ -569,9 +505,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-10. Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?
+2. Okuldaki öğrencilerinin yarısının Flemenkçe yarsının ise Almanca bildiği okulda Fremenkçe-Almanca ikidilli eğitim programı düzenlemek hangi ikidilli eğitim yaklaşımına girmektedir?
     - A-) İşe dayalı öğrenme
     - B-) İletişimsel yaklaşım
     - C-) Tek yönlü daldırma
@@ -582,9 +516,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-11. İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?
+3. İki dilli eğitim kurumlarında uygulanan kimi daldırma programlarında çocuklar zamanının yarısını (%50’si) hedef dil ile geçirmektedir. Bu tür bir daldırmaya verilen ad aşağıdakilerden hangisidir?
     - A-) Yapılandırılmış daldırma
     - B-) Tam zamanlı daldırma
     - **Cevap C-) Kısmi zamanlı daldırma**
@@ -595,9 +527,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-12. Avustralya’da bir okulda tehlike altında olan Aborjin dilinde belirli ağırlıkta eğitim verilmeye başlanması durumunda bu okulda aşağıdaki daldırma yöntemlerinden hangisi kullanılmış olur?
+4. Avustralya’da bir okulda tehlike altında olan Aborjin dilinde belirli ağırlıkta eğitim verilmeye başlanması durumunda bu okulda aşağıdaki daldırma yöntemlerinden hangisi kullanılmış olur?
     - A-) Geç tam zamanlı daldırma
     - **Cevap B-) Yerli dillere daldırma**
     - C-) Geç kısmi zamanlı daldırma
@@ -608,9 +538,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-13. Özellikle okul öncesi dönemde iki dilli eğitim sürecinde okul içerisinde birtakım rutinlerin oluşturulmasının çocukların iki dilli eğitim sürecini olumlu etkilediği belirtilmektedir. Buna göre öğle yemeği zamanı, eve gitmek için hazırlanmak, kart oyunları ya da hikaye anlatma gibi rutin aktiviteler, çocukların kendilerinden ne yapmaları ve ne söylemeleri beklendiğini tahmin etmelerini sağlamaktadır. Yukarıdaki metinde iki dilli eğitim süreci ile ilgili aşağıdakilerin hangisinin önemine vurgu yapılmıştır?
+5. Özellikle okul öncesi dönemde iki dilli eğitim sürecinde okul içerisinde birtakım rutinlerin oluşturulmasının çocukların iki dilli eğitim sürecini olumlu etkilediği belirtilmektedir. Buna göre öğle yemeği zamanı, eve gitmek için hazırlanmak, kart oyunları ya da hikaye anlatma gibi rutin aktiviteler, çocukların kendilerinden ne yapmaları ve ne söylemeleri beklendiğini tahmin etmelerini sağlamaktadır. Yukarıdaki metinde iki dilli eğitim süreci ile ilgili aşağıdakilerin hangisinin önemine vurgu yapılmıştır?
     - A-) Destekleyici ortam
     - B-) Yetişkin konuşması
     - C-) Ebeveyn etkisi
@@ -621,9 +549,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-14. Özellikle okul öncesi dönemde iki dilli eğitim sürecinde eğitmenlerin hedef dilde iletişim kurarken basit, kısa ifadelere yer vermeleri, anlamayı artırmak için ifadelerinde küçük değişiklikler yapmaları ve pek çok tekrara yer vermeleri iki dilli eğitim sürecini olumlu etkilemektedir. Bu metinde iki dilli eğitim süreci ile ilgili aşağıdakilerden hangisinin önemine vurgu yapılmıştır?
+6. Özellikle okul öncesi dönemde iki dilli eğitim sürecinde eğitmenlerin hedef dilde iletişim kurarken basit, kısa ifadelere yer vermeleri, anlamayı artırmak için ifadelerinde küçük değişiklikler yapmaları ve pek çok tekrara yer vermeleri iki dilli eğitim sürecini olumlu etkilemektedir. Bu metinde iki dilli eğitim süreci ile ilgili aşağıdakilerden hangisinin önemine vurgu yapılmıştır?
     - **Cevap A-) Yetişkin konuşması**
     - B-) Bağlamsal ipuçları
     - C-) Destekleyici ortam
@@ -634,9 +560,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 2.3. Daldırma Yöntemi
-
-15. İki dilli eğitimde bireyler kendilerini yoğun olarak hedef dile maruz kaldıkları bir ortamda bulurlar. Hedef dil ile yoğun etkileşim bireylerin hızlıca yeni dili edinmesinde etkili bir rol üstlenir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?
+7. İki dilli eğitimde bireyler kendilerini yoğun olarak hedef dile maruz kaldıkları bir ortamda bulurlar. Hedef dil ile yoğun etkileşim bireylerin hızlıca yeni dili edinmesinde etkili bir rol üstlenir. Yukarıda açıklanan kavram aşağıdakilerden hangisidir?
     - A-) Aktarım
     - B-) Pekiştirme
     - **Cevap C-) Daldırma**
@@ -664,7 +588,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
 ### 3.1. Söz Varlığı Nedir?
 
-2. Bir dilin söz varlığında aşağıdakilerden hangisi yer alır?
+1. Bir dilin söz varlığında aşağıdakilerden hangisi yer alır?
     - A-) Sözcükler/göstergeler,
     - B-) Terimler,
     - C-) Deyimler ve atasözleri,
@@ -675,9 +599,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 3.1. Söz Varlığı Nedir?
-
-3. Söz varlığı ile ilgili söylenenlerden hangisi yanlıştır.
+2. Söz varlığı ile ilgili söylenenlerden hangisi yanlıştır.
     - **Cevap A-) Sadece bir dilde kodlar- ya da dilbilimdeki terimiyle göstergelerden oluşur.**
     - B-) Sözcüklerin yanında bir toplumun kavramlar dünyasını da kapsar.
     - C-) Dili konuşan toplumun, maddi ve manevi kültürünün yansıtıcısıdır.
@@ -688,9 +610,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 3.1. Söz Varlığı Nedir?
-
-4. Hiç kimse konuştuğu dilin tüm söz varlığını bilemez. ifadesiyle vurgulanmak istenen aşağıdakilerden hangisidir?
+3. Hiç kimse konuştuğu dilin tüm söz varlığını bilemez. ifadesiyle vurgulanmak istenen aşağıdakilerden hangisidir?
     - A-) Ezber yeteneğinin söz varlığını geliştirmek için önemli olduğu
     - **Cevap B-) Dildeki söz sayısının çok geniş olduğu**
     - C-) Kitap okumanın söz varlığı gelişimindeki rolü
@@ -701,9 +621,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
     <hr />
 
-### 3.1. Söz Varlığı Nedir?
-
-5. Bir dilde var olan veya bir kişinin, bir topluluğun kullandığı, ya da bir eserde bulunan sözcüklerin bütününe verilen ad aşağıdakilerden hangisidir?
+4. Bir dilde var olan veya bir kişinin, bir topluluğun kullandığı, ya da bir eserde bulunan sözcüklerin bütününe verilen ad aşağıdakilerden hangisidir?
     - A-) Ana dili
     - B-) Söz sanatı
     - C-) Terim
@@ -716,7 +634,7 @@ Yukarıda özellikleri belirtilen ve Anderson tarafından ortaya konulan süreç
 
 ### 3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi
 
-6. Öğrenicilere göre bir strateji geliştirirken aşağıdaki hususlardan umumiyetle hangilerine dikkat etmek gerekir?
+1. Öğrenicilere göre bir strateji geliştirirken aşağıdaki hususlardan umumiyetle hangilerine dikkat etmek gerekir?
 I. Hedef kitlenin özelliklerini göz önünde bulundurmak
 II. Hem kaynak dilde hem de hedef dilde söz varlığınız genişletmek
 III. Sık kullanılan söz varlığı unsurlarına öncelik vermek
@@ -731,9 +649,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi
-
-7. İnsanın söz varlığını geliştirmek için sarf ettiği çaba ............ arz eder. Boşluğa uygun gelen ifade hangisidir.
+2. İnsanın söz varlığını geliştirmek için sarf ettiği çaba ............ arz eder. Boşluğa uygun gelen ifade hangisidir.
     - A-) Durağanlık
     - B-) Devingenlik
     - **Cevap C-) Süreklilik**
@@ -744,9 +660,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi
-
-8. Okul öncesi dönemde tema ağırlıklı bir izlence ile öğretim yapılacağından temanın içinde yer alan kavram alanına uygun sözcüklere yer verilmesi gerekecektir. Buna göre okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken aşağıdakilerden hangisine dikkat edilmelidir?
+3. Okul öncesi dönemde tema ağırlıklı bir izlence ile öğretim yapılacağından temanın içinde yer alan kavram alanına uygun sözcüklere yer verilmesi gerekecektir. Buna göre okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken aşağıdakilerden hangisine dikkat edilmelidir?
     - A-) Temalar rastgele belirlenmelidir.
     - B-) Yabancı dil olarak Türkçe öğretiminde temalar belirlenirken ailenin görüşü alınmalıdır.
     - C-) Okul öncesi dönemde tema belirlenirken öncelik zor temalara verilmelidir.
@@ -757,9 +671,31 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
+4. Aşağıdakilerden hangisi söz varlığı türlerinden biridir?
+    - A-) Sesletimsel söz varlığı
+    - **Cevap B-) Temel söz varlığı**
+    - C-) Karma söz varlığı
+    - D-) Yapısal söz varlığı
+    - E-) Çok yönlü söz varlığı
+
+    > **Açıklama:** Kaynaklarda söz varlığı türlerinden biri olarak **Temel söz varlığı** geçmektedir.
+
+    <hr />
+
+5. Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
+    - **Cevap A-) Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini tamamlamıştır.**
+    - B-) Çocuklarda sayı gelişimi; sayısal farklılıklara dikkat etme, çok ve azı ayırt etme, yetişkini taklit ederek sayma, ezbere gelişigüzel ve ritmik sayma, sayma ile ilgili kuralları öğrenme, nesnelerle sayı sözcüklerini eşleyerek sayma şeklinde gerçekleşir.
+    - C-) Okul öncesi dönemde kavram geliştirme çalışmaları için gruplama çalışmaları yapılabilir.
+    - D-) Okul öncesi dönemdeki çocuklar bir grup nesne içindeki benzerlikler ve farklılıkları ayırt edebilir.
+    - E-) Okul öncesi dönemdeki çocuklar nesneleri kişilerle eşleştirebilir.
+
+    > **Açıklama:** Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma döneminde olmakla birlikte, bu dönemi tam olarak **tamamlamış değildir**. Bu dönem hala gelişim aşamasında olabilir.
+
+    <hr />
+
 ### 3.4. Sözcük Öğrenme Stratejileri
 
-9. Schmitt’in sözcük öğrenme stratejileri konusunda yaptığı çalışmada öne çıkardığı iki önemli strateji aşağıdakilerden hangileridir?
+1. Schmitt’in sözcük öğrenme stratejileri konusunda yaptığı çalışmada öne çıkardığı iki önemli strateji aşağıdakilerden hangileridir?
     - **Cevap A-) Keşfetme stratejileri ve pekiştirme stratejileri**
     - B-) Tespit stratejileri ve Sosyal stratejileri
     - C-) Bellek stratejileri ve Bilişsel stratejileri
@@ -770,9 +706,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.4. Sözcük Öğrenme Stratejileri
-
-10. Aşağıdakilerden hangisi sosyal stratejilere örnektir?
+2. Aşağıdakilerden hangisi sosyal stratejilere örnektir?
     - **Cevap A-) İletişimde bulunduğu kişiden açıklamalarda bulunmasını isteme ya da öğrenme aşamasında başkalarıyla işbirliği içinde birlikte çalışmaya gayret göstermek**
     - B-) Yabancı dilde iletişimde meydana gelebilecek stres ve korku gibi duyguları azaltmak veya arkadaşlarla öğretmenle, okul arkadaşıyla yabancı dili öğrenirken veya kullanırken oluşan duyguları hakkında konuşmak
     - C-) Bir metnin içeriği hakkında varsayımda bulunmak veya bir metni özetlemek
@@ -783,9 +717,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.4. Sözcük Öğrenme Stratejileri
-
-11. Aşağıdakilerden hangisi bilişsel stratejinin yöntemidir?
+3. Aşağıdakilerden hangisi bilişsel stratejinin yöntemidir?
     - **Cevap A-) Sözcüğün anlamını öğrenicinin kendi başına çıkarması**
     - B-) Öğrenilenlerin kontrol edilmesi için kullanılan strateji
     - C-) Öğrenicinin sözcüğü başkalarının yardımıyla anlaması
@@ -798,7 +730,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi
 
-12. Erken çocukluk gelişimine uygun olarak planlama aşağıdakilerden hangisinde doğru olarak verilmiştir.
+1. Erken çocukluk gelişimine uygun olarak planlama aşağıdakilerden hangisinde doğru olarak verilmiştir.
     - **Cevap A-) Başlangıç I, Başlangıç II, Başlangıç III**
     - B-) Temel, ara, ileri düzey
     - C-) A1, A2, B1, B2, C1 ve C2
@@ -809,9 +741,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi
-
-13. Aşağıdakilerden hangisi okul öncesi dönemde söz varlığı öğretiminde öncelikle dikkat edilmesi gereken hususlardan biri değildir?
+2. Aşağıdakilerden hangisi okul öncesi dönemde söz varlığı öğretiminde öncelikle dikkat edilmesi gereken hususlardan biri değildir?
     - A-) Öğretim sürecinin merkezine oyun yerleştirilmesi
     - **Cevap B-) Ezberlenmesi gereken sözcük listelerinin aileye verilmesi**
     - C-) Millî Eğitim Bakanlığının Okul Öncesi Eğitim Programı'nın ilkelerinin göz önünde tutulması
@@ -822,35 +752,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi
-
-14. Aşağıdakilerden hangisi söz varlığı türlerinden biridir?
-    - A-) Sesletimsel söz varlığı
-    - **Cevap B-) Temel söz varlığı**
-    - C-) Karma söz varlığı
-    - D-) Yapısal söz varlığı
-    - E-) Çok yönlü söz varlığı
-
-    > **Açıklama:** Kaynaklarda söz varlığı türlerinden biri olarak **Temel söz varlığı** geçmektedir.
-
-    <hr />
-
-### 3.5.3. 61-72 Aylık Çocuklarda Söz Varlığı Öğretimi
-
-15. Aşağıdakilerden hangisi çocuğun ana dilinde sesler arasındaki farklılıkları ve benzerlikleri söylemesi, ses tonunu, hızını ve şiddetini ayarlaması, sıralı ve bileşik cümleleri kurması gibi ciddi değişimlerin olduğu dönemdir?
-    - **Cevap A-) 61-72 aylar**
-    - B-) 55- 60 aylar
-    - C-) 50-60 aylar
-    - D-) 32-42 aylar
-    - E-) 45-55 aylar
-
-    > **Açıklama:** Çocuk 61-72 aylık dönemde ana dilinde **sesler arasındaki farklılıkları ve benzerlikleri söyler**. Sesinin tonunu, hızını, şiddetini ayarlar. **Sıralı ve bileşik cümleler kurar**. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.
-
-    <hr />
-
-### 3.5. Okul Öncesi Dönemde Söz Varlığı Öğretimi
-
-16. Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha ….. ve daha ….. bir biçimde öğrenildiği bilinmektedir. Yukarıdaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?
+3. Erken çocukluk döneminde bir yabancı dilin yetişkine göre daha ….. ve daha ….. bir biçimde öğrenildiği bilinmektedir. Yukarıdaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?
     - A-) karmaşık - doğal
     - B-) çetrefilli - yapay
     - C-) derin - kolay
@@ -861,16 +763,16 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 3.3. Yabancı Dil Olarak Türkçe Öğretiminde Söz Varlığı Öğretimi
+### 3.5.3. 61-72 Aylık Çocuklarda Söz Varlığı Öğretimi
 
-17. Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
-    - **Cevap A-) Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini tamamlamıştır.**
-    - B-) Çocuklarda sayı gelişimi; sayısal farklılıklara dikkat etme, çok ve azı ayırt etme, yetişkini taklit ederek sayma, ezbere gelişigüzel ve ritmik sayma, sayma ile ilgili kuralları öğrenme, nesnelerle sayı sözcüklerini eşleyerek sayma şeklinde gerçekleşir.
-    - C-) Okul öncesi dönemde kavram geliştirme çalışmaları için gruplama çalışmaları yapılabilir.
-    - D-) Okul öncesi dönemdeki çocuklar bir grup nesne içindeki benzerlikler ve farklılıkları ayırt edebilir.
-    - E-) Okul öncesi dönemdeki çocuklar nesneleri kişilerle eşleştirebilir.
+1. Aşağıdakilerden hangisi çocuğun ana dilinde sesler arasındaki farklılıkları ve benzerlikleri söylemesi, ses tonunu, hızını ve şiddetini ayarlaması, sıralı ve bileşik cümleleri kurması gibi ciddi değişimlerin olduğu dönemdir?
+    - **Cevap A-) 61-72 aylar**
+    - B-) 55- 60 aylar
+    - C-) 50-60 aylar
+    - D-) 32-42 aylar
+    - E-) 45-55 aylar
 
-    > **Açıklama:** Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma döneminde olmakla birlikte, bu dönemi tam olarak **tamamlamış değildir**. Bu dönem hala gelişim aşamasında olabilir.
+    > **Açıklama:** Çocuk 61-72 aylık dönemde ana dilinde **sesler arasındaki farklılıkları ve benzerlikleri söyler**. Sesinin tonunu, hızını, şiddetini ayarlar. **Sıralı ve bileşik cümleler kurar**. Cümlelerinde özneye uygun fiil kullanır. Altı ve daha fazla sözcükten oluşan cümleler kurabilir ve dilin yapısına büyük ölçüde kullanım açısından hâkimdir.
 
     <hr />
 
@@ -889,243 +791,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 4.3. Dinleme ve işitme arasındaki farklılıklar
-
-2. Aşağıdakilerden hangisi dinleme ve işitme arasındaki farklılıklardan biri değildir.
-    - A-) İşitme doğal bir süreç dinleme ise öğrenilmesi gereken bir beceridir.
-    - B-) İşitme irade dışında gerçekleşebilir, dinleme ise bilinçli bir süreçtir.
-    - C-) İşitme dinlemenin sadece bir ögesidir.
-    - D-) İşitme kulağın işittiği tüm seslerin aktarılmasıyken dinleme odaklanılan seslerin ayırt edilmesini gerektirir.
-    - **Cevap E-) İşitme ve dinleme irade dışı gerçekleşebilir.**
-
-    > **Açıklama:** İşitme irade dışında gerçekleşebilirken, <b>dinleme bilinçli bir süreçtir</b> ve irade gerektirir. Dolayısıyla hem işitmenin hem de dinlemenin irade dışı gerçekleştiğini söyleyen ifade yanlıştır. Diğer yandan dinleme öğrenilmesi gereken bir beceriyken, işitme doğal bir süreçtir.
-
-    <hr />
-
-### 4.4. Dinleme Türleri
-
-3. Sohbet ve tartışma gibi eylemlerde soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan dinleme türüdür tanımı aşağıdakilerden hangisine aittir?
-    - **Cevap A-) Etkileşimli dinleme**
-    - B-) Etkileşimsiz dinleme
-    - C-) Olumlu dinleme
-    - D-) Olumsuz dinleme
-    - E-) Aktif dinleme
-
-    > **Açıklama:** Sohbet ve tartışma gibi eylemlerde <b>soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan</b> dinleme türü <b>Etkileşimli Dinleme</b>dir. Etkileşimli dinleme, mesajın tam ve eksiksiz olarak alınabilmesi için tarafların eleştirel ve empatik bir tutum sergilemesini gerektirir.
-
-    <hr />
-
-### 4.5. Dinlemenin Aşamaları
-
-4. Aşağıdakilerden hangileri dinleme etkinliğinin aşamalarıdır?
-    - A-) Etkileşimsiz dinleme, Olumlu dinleme, Olumsuz dinleme
-    - B-) Aktif dinleme, Etkileşimli dinleme, Olumlu dinleme
-    - C-) Dinleme ortamı, dinleme materyali, dinleme bağlamı
-    - **Cevap D-) Dinleme öncesi, dinleme sırası, dinleme sonrası**
-    - E-) Görsellerle seçme, Diyalog tamamlama, Eşleştirme
-
-    > **Açıklama:** Dinleme etkinlikleri üç aşamada gerçekleşmektedir: <b>Dinleme öncesi, dinleme sırası ve dinleme sonrası</b>.
-
-    <hr />
-
-### 4.5.2. Dinleme Sırası
-
-5. Dinleme sürecinde ………, …………… ve ……………. teknikleri olmak üzere üç aşamadan bahsedilir. Boşluğa uygun gelen terimler aşağıdakilerden hangileridir.
-    - **Cevap A-) anlama - yapılandırma - düzenleme**
-    - B-) Dinleme ortamını inceleme - Dinleme materyalini inceleme - Bağlam oluşturma
-    - C-) İlgi oluşturma - Ön bilgileri harekete geçirme - Dinleme amacını belirleme
-    - D-) Görsellerle seçme - Diyalog tamamlama - Dinleme öncesi tahminlerle karşılaştırma
-    - E-) Farklılıkları bulma - Eşleştirme - Resimleri sıraya dizme
-
-    > **Açıklama:** Güneş’e (2007) göre dinleme sürecinde, yani dinleme sırası aşamasında, <b>anlama, yapılandırma ve düzenleme</b> teknikleri olmak üzere üç aşamadan bahsedilmektedir.
-
-    <hr />
-
-### 4.5.2. Dinleme Sırası
-
-6. Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklerden biri değildir.
-    - A-) Görsellerle seçme
-    - B-) Diyalog tamamlama
-    - C-) Farklılıkları bulma
-    - D-) Eşleştirme
-    - **Cevap E-) Bağlam oluşturma**
-
-    > **Açıklama:** <b>Bağlam oluşturma</b>, dinleme etkinliğinin <b>Dinleme Öncesi</b> aşamasında yapılan bir hazırlık aktivitesidir ve öğrencinin kimin nerede, ne hakkında konuşacağını tahmin etmesini içerir. Görsellerle seçme, diyalog tamamlama, farklılıkları bulma ve eşleştirme ise dinleme sırasında yapılabilecek etkinlik örneklerindendir.
-
-    <hr />
-
-### 4.5.3. Dinleme Sonrası
-
-7. Özetleme, yorumlama, değerlendirme ve soru-cevaplar dinleme etkinliklerinin hangi aşamasında gerçekleşir.
-    - A-) Dinleme öncesi
-    - B-) Dinleme sırası
-    - C-) Görsel seçme
-    - **Cevap D-) Dinleme sonrası**
-    - E-) Eşleştirme
-
-    > **Açıklama:** Dinlemenin tamamlanmasından sonraki aşama olan <b>Dinleme Sonrası</b> süreci, dinleme metnini <b>özetleme, yorumlama, değerlendirme ve soru-cevapları</b> içerir.
-
-    <hr />
-
-### 4.5.3. Dinleme Sonrası
-
-8. Aşağıdakilerden hangisi Yabancılara Türkçe öğretimi dinleme etkinliklerinde dikkat edilmesi gereken hususlardan biri değildir.
-    - A-) Ders kitabına ya da öğretmenin ayrıca hazırladığı bir çalışmaya paralel olarak yapılacak olan dinleme etkinlikleri öncesinde iyi bir planlama yapılmalıdır.
-    - B-) Öğretmen derste kullanmayı düşündüğü bir dinleme parçasını önceden kendisi dinlemelidir. İlgili dinleme parçasının uygun olup olmadığını kontrol etmelidir.
-    - C-) Dinleme parçaları yabancılara Türkçe öğretiminde belirlenen seviyelere uygun olmalıdır.
-    - **Cevap D-) Kullanılması düşünülen dinleme parçaları gelişigüzel seçilmelidir.**
-    - E-) Dinleme parçaları genel ahlak kurallarına ve ilgili ülkenin milli-manevi değerlerine aykırı seslendirmeler içermemelidir.
-
-    > **Açıklama:** Yabancılara Türkçe öğretimi dinleme etkinliklerinde dinleme parçalarının <b>gelişigüzel seçilmesi</b> değil, belirlenen seviyelere uygun olması, söyleniş hızına, telaffuzuna ve anlaşılabilirliğine dikkat edilmesi ve iyi bir planlama yapılması gerekmektedir.
-
-    <hr />
-
-### 4.5.3. Dinleme Sonrası
-
-9. Aşağıdakilerden hangileri dinleme sonrasında kullanılacak tekniklerdendir. I. Konuşmada verilen bilgileri değerlendirme, II. Sunu biçimi ve içeriği değerlendirme, III. Nedenleri, kaynağını ve bakış açılarını değerlendirme, IV. Sözel ve sözel olmayan ipuçlarını değerlendirme, V. Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilme,
-    - A-) I, II, III, IV
-    - B-) I, II
-    - C-) I, IV
-    - D-) I, II, III
-    - **Cevap E-) Hepsi**
-
-    > **Açıklama:** Güneş'e (2007) göre dinleme sonrasında kullanılacak teknikler arasında I, II, III ve IV. maddeler yer alır. Ayrıca Schwartz’a göre dinleme sonrası etkinliklerinin temel amaçları arasında <b>Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilmesi</b> (V. madde) de bulunmaktadır. Bu nedenle tüm seçenekler dinleme sonrası süreçle ilgilidir.
-
-    <hr />
-
-### 4.5.3. Dinleme Sonrası
-
-10. Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru ………. ve ……….. becerisi kazandırmada yardımcı olmaktadır. Boşluklara uygun gelen ifadeler hangileridir.
-    - A-) dinleme - yazma
-    - B-) yazma- konuşma
-    - **Cevap C-) telaffuz - konuşma**
-    - D-) telaffuz - okuma
-    - E-) okuma - dinleme
-
-    > **Açıklama:** Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru <b>telaffuz ve konuşma becerisi</b> kazandırmada yardımcı olmaktadır. Öğrenciler sınıf içinde en çok dinledikleri kişi olan öğretmenlerinin konuşmalarını taklit ettiklerinden, öğretmenin doğru telaffuz etmesi önemlidir.
-
-    <hr />
-
-### 4.5.2. Dinleme Sırası
-
-11. Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklere örnek olamaz?
-    - A-) Dinleme etkinliğinde yer alan bir diyaloğun öğreniciler tarafından tamamlanması
-    - **Cevap B-) Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi**
-    - C-) Dinleme metni ile ilgili ve ilgisiz çeşitli görseller verilerek bu görsellerden dinleme metnine ait olanının seçilmesi
-    - D-) Dinleme metni kendisine verilen öğreniciden, dinlediği ile yazılı metin arasındaki farklılıkları bulması
-    - E-) Öğreniciler dinleme etkinliğinin özelliğine göre kendilerine verilen resimleri eşleştirmesi
-
-    > **Açıklama:** Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi, Dinleme Öncesi aşamasında yer alan <b>İlgi oluşturma</b> etkinliğidir. Diğer seçenekler ise dinleme sırasında (Dinleme Anı) yapılabilecek aktivitelerdir.
-
-    <hr />
-
-### 4.4. Dinleme Türleri
-
-12. I. Grup – konferans II. Kişiler arası – televizyon seyretme III. Kişiler arası – sohbet etme IV. Bireysel – müzik dinleme Yukarıda verilen dinleme etkinlikleri eşleştirmelerinden hangisi veya hangileri yanlıştır?
-    - A-) II ve III
-    - B-) III ve IV
-    - C-) I, II ve IV
-    - **Cevap D-) Yalnız II**
-    - E-) I ve III
-
-    > **Açıklama:** Televizyon seyretme, cevap vermeyi gerektirmeyen, bir tarafın pasif kaldığı <b>Etkileşimsiz Dinleme</b> türüdür. Bu nedenle II. maddede yer alan 'Kişiler arası' dinleme türü ile eşleştirilmesi yanlıştır.
-
-    <hr />
-
-### 4.5.1. Dinleme Öncesi
-
-13. Aşağıdakilerden hangisi bir dinleme öncesi etkinliği değildir?
-    - A-) Materyal inceleme
-    - B-) Ön bilgileri harekete geçirme
-    - C-) Amaç belirleme
-    - D-) Bağlam oluşturma
-    - **Cevap E-) Soru belirleme**
-
-    > **Açıklama:** Dinleme Öncesi etkinlikleri dinleme ortamını inceleme, dinleme materyalini inceleme, bağlam oluşturma, ilgi oluşturma, ön bilgileri harekete geçirme, dinleme amacını belirleme, dinleme yöntemini ve biçimini belirleme şeklinde sıralanır. <b>Soru belirleme</b> bu etkinliklerden biri olarak doğrudan listelenmemiştir.
-
-    <hr />
-
-### 4.5.3. Dinleme Sonrası
-
-14. Aşağıdakilerden hangisi dinleme sonrasında kullanılacak tekniklere bir örnek değildir?
-    - A-) Sunu biçimi ve içeriği değerlendirme
-    - B-) Konuşmada verilen bilgileri değerlendirme
-    - **Cevap C-) Dinleme yöntemini ve biçimini belirleme**
-    - D-) Nedenleri, kaynağını ve bakış açılarını değerlendirme
-    - E-) Sunu biçimi ve içeriği değerlendirme
-
-    > **Açıklama:** Dinleme yöntemini ve biçimini belirleme, dinlemenin başlangıcında (Dinleme Öncesi) gerçekleştirilen bir eylemdir. Diğer seçenekler ise Dinleme Sonrası aşamasında kullanılan tekniklerdir.
-
-    <hr />
-
-### 4.5.1. Dinleme Öncesi
-
-15. Dinleme etkinliğine hazırlık aşamasına ….. denir.
-    - A-) okuma öncesi
-    - B-) dinleme dönemi
-    - C-) yazma öncesi
-    - D-) dinleme sonrası
-    - **Cevap E-) dinleme öncesi**
-
-    > **Açıklama:** Dinleme etkinliğine hazırlık aşamasına <b>Dinleme Öncesi</b> denir. Bu aşama fiziksel ve zihinsel boyutları içerir.
-
-    <hr />
-
-### 4.8. Dinleme Becerisinin Gelişiminde Aile Unsuru
-
-16. Dinleme sürecinde çocuklar etkin olmalıdırlar. Aksi takdirde dinleme eylemi öncelikle seçerek dinlemeye, ardından da duyduklarını önemsememeye dönüşür. Dinlemede çocuğun etken hâle getirilebilmesi amacıyla anne ve baba rehberlik etmelidir. Bu süreçte anne ve baba iyi birer dinleyici olmalıdır. Yukarıdaki paragrafta aşağıdakilerden hangisi vurgulanmaktadır?
-    - **Cevap A-) Dinleme eğitiminde ailenin rolü**
-    - B-) Dinleme eğitiminde öğretmenin rolü
-    - C-) Dinleme eğitiminde kurumun rolü
-    - D-) Dinleme eğitiminde etkinliklerin rolü
-    - E-) Dinleme eğitiminde arkadaş grubunun rolü
-
-    > **Açıklama:** Paragrafta, dinleme sürecinde çocukların etkin hâle getirilmesi amacıyla <b>anne ve babanın rehberlik etmesi</b> ve <b>iyi birer dinleyici olması</b> gerektiği vurgulanmıştır. Bu durum, <b>Dinleme eğitiminde ailenin rolü</b>ne dikkat çekmektedir.
-
-    <hr />
-
-### 4.5.2. Dinleme Sırası
-
-17. Konuşma ve bilgiler arasında bağ kurma; soruları belirleme; açıklayıcı noktaları not alma; sözel olmayan ipuçlarını gözleme (jestler, ifadeler, duruş, vb.); anlaşılmayan yerleri belirleme ve sorular sorma; kendi kelimeleriyle konuşmanın özetini yapma; yeni bir kelimenin anlamını belirlemek için konuşma bütününden yararlanma, ….. tekniklerine örnek olarak gösterilebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
-    - A-) yapılandırma
-    - **Cevap B-) anlama**
-    - C-) görselleştirme
-    - D-) sunu
-    - E-) düzenleme
-
-    > **Açıklama:** Bu maddeler, Güneş'in (2007) dinleme sürecinde bahsettiği <b>anlama tekniklerine</b> örnek olarak gösterilebilir. Anlama teknikleri, konuşma ve bilgiler arasında bağ kurma, sorular belirleme, anlaşılmayan yerleri belirleyip sorular sorma gibi iletişimsel yeterliliği geliştiren eylemleri içerir.
-
-    <hr />
-
-### 4.5.1. Dinleme Öncesi
-
-18. Okulöncesi eğitim kurumlarının hedef kitlesi sebebiyle dinleme ortamı bazen istenilen seviyede olmayabilir. Bu sebeple öncelikle fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir. Bu ifadeye göre bir eğitici dinleme öncesinde aşağıdakilerden hangisini yapmalıdır?
-    - A-) Dinleme materyali hazırlamalı
-    - B-) Dinleme yöntemini belirlemeli
-    - **Cevap C-) Dinleme ortamını incelemeli**
-    - D-) İlgi oluşturmalı
-    - E-) Bağlam oluşturmalı
-
-    > **Açıklama:** Dinleme Öncesi etkinliklerinden biri <b>Dinleme ortamını inceleme</b>dir. Bu süreç, dinlemenin gerçekleşeceği fiziksel ortamın belirlenmesi ve buna uygun hâle getirilmesi sürecini içerir. Okulöncesi kurumlarda fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir.
-
-    <hr />
-
-### 4.3. Dinleme ve işitme arasındaki farklılıklar
-
-19. – I. İşitme öğrenilmesi gereken bir beceriyken dinleme ise doğal bir süreçtir. – II. İşitme dinlemenin sadece bir ögesidir. – III. İşitme dinlemenin bir parçası iken dinleme anlamanın bir parçasıdır. – IV. İşitme irade dışında gerçekleşebilirken dinleme ise bilinçli bir süreçtir. Yukarıdaki numaralandırılmış cümlelerden hangisi ya da hangileri yanlıştır?
-    - A-) I ve III
-    - B-) III ve IV
-    - C-) Yalnız III
-    - **Cevap D-) Yalnız I**
-    - E-) I ve II
-
-    > **Açıklama:** Yanlış olan ifade <b>Yalnız I</b>'dir. Çünkü işitme doğal bir süreçtir ve öğrenilmesi gereken bir beceri değildir. Tersine, dinleme bilinçli bir süreçtir ve öğrenilmesi gereken bir beceridir. II, III ve IV. ifadeler ise doğrudur: İşitme, dinlemenin sadece bir ögesidir; dinleme anlamanın bir parçasıdır; işitme irade dışı gerçekleşirken dinleme bilinçli bir süreçtir.
-
-    <hr />
-
-### 4.1. Giriş
-
-20. ….. konuşan kişinin vermek istediği mesajı tam olarak anlayabilme ve söz konusu uyarana karşı tepkide bulunma etkinliğidir.
+2. ….. konuşan kişinin vermek istediği mesajı tam olarak anlayabilme ve söz konusu uyarana karşı tepkide bulunma etkinliğidir.
     - A-) Değerlendirme
     - B-) Yazma
     - C-) Algılama
@@ -1136,9 +802,103 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
+### 4.3. Dinleme ve işitme arasındaki farklılıklar
+
+1. Aşağıdakilerden hangisi dinleme ve işitme arasındaki farklılıklardan biri değildir.
+    - A-) İşitme doğal bir süreç dinleme ise öğrenilmesi gereken bir beceridir.
+    - B-) İşitme irade dışında gerçekleşebilir, dinleme ise bilinçli bir süreçtir.
+    - C-) İşitme dinlemenin sadece bir ögesidir.
+    - D-) İşitme kulağın işittiği tüm seslerin aktarılmasıyken dinleme odaklanılan seslerin ayırt edilmesini gerektirir.
+    - **Cevap E-) İşitme ve dinleme irade dışı gerçekleşebilir.**
+
+    > **Açıklama:** İşitme irade dışında gerçekleşebilirken, <b>dinleme bilinçli bir süreçtir</b> ve irade gerektirir. Dolayısıyla hem işitmenin hem de dinlemenin irade dışı gerçekleştiğini söyleyen ifade yanlıştır. Diğer yandan dinleme öğrenilmesi gereken bir beceriyken, işitme doğal bir süreçtir.
+
+    <hr />
+
+2. – I. İşitme öğrenilmesi gereken bir beceriyken dinleme ise doğal bir süreçtir. – II. İşitme dinlemenin sadece bir ögesidir. – III. İşitme dinlemenin bir parçası iken dinleme anlamanın bir parçasıdır. – IV. İşitme irade dışında gerçekleşebilirken dinleme ise bilinçli bir süreçtir. Yukarıdaki numaralandırılmış cümlelerden hangisi ya da hangileri yanlıştır?
+    - A-) I ve III
+    - B-) III ve IV
+    - C-) Yalnız III
+    - **Cevap D-) Yalnız I**
+    - E-) I ve II
+
+    > **Açıklama:** Yanlış olan ifade <b>Yalnız I</b>'dir. Çünkü işitme doğal bir süreçtir ve öğrenilmesi gereken bir beceri değildir. Tersine, dinleme bilinçli bir süreçtir ve öğrenilmesi gereken bir beceridir. II, III ve IV. ifadeler ise doğrudur: İşitme, dinlemenin sadece bir ögesidir; dinleme anlamanın bir parçasıdır; işitme irade dışı gerçekleşirken dinleme bilinçli bir süreçtir.
+
+    <hr />
+
+### 4.4. Dinleme Türleri
+
+1. Sohbet ve tartışma gibi eylemlerde soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan dinleme türüdür tanımı aşağıdakilerden hangisine aittir?
+    - **Cevap A-) Etkileşimli dinleme**
+    - B-) Etkileşimsiz dinleme
+    - C-) Olumlu dinleme
+    - D-) Olumsuz dinleme
+    - E-) Aktif dinleme
+
+    > **Açıklama:** Sohbet ve tartışma gibi eylemlerde <b>soru sormayı, cevap vermeyi içeren karşılıklı konuşmaya dayanan</b> dinleme türü <b>Etkileşimli Dinleme</b>dir. Etkileşimli dinleme, mesajın tam ve eksiksiz olarak alınabilmesi için tarafların eleştirel ve empatik bir tutum sergilemesini gerektirir.
+
+    <hr />
+
+2. I. Grup – konferans II. Kişiler arası – televizyon seyretme III. Kişiler arası – sohbet etme IV. Bireysel – müzik dinleme Yukarıda verilen dinleme etkinlikleri eşleştirmelerinden hangisi veya hangileri yanlıştır?
+    - A-) II ve III
+    - B-) III ve IV
+    - C-) I, II ve IV
+    - **Cevap D-) Yalnız II**
+    - E-) I ve III
+
+    > **Açıklama:** Televizyon seyretme, cevap vermeyi gerektirmeyen, bir tarafın pasif kaldığı <b>Etkileşimsiz Dinleme</b> türüdür. Bu nedenle II. maddede yer alan 'Kişiler arası' dinleme türü ile eşleştirilmesi yanlıştır.
+
+    <hr />
+
+### 4.5. Dinlemenin Aşamaları
+
+1. Aşağıdakilerden hangileri dinleme etkinliğinin aşamalarıdır?
+    - A-) Etkileşimsiz dinleme, Olumlu dinleme, Olumsuz dinleme
+    - B-) Aktif dinleme, Etkileşimli dinleme, Olumlu dinleme
+    - C-) Dinleme ortamı, dinleme materyali, dinleme bağlamı
+    - **Cevap D-) Dinleme öncesi, dinleme sırası, dinleme sonrası**
+    - E-) Görsellerle seçme, Diyalog tamamlama, Eşleştirme
+
+    > **Açıklama:** Dinleme etkinlikleri üç aşamada gerçekleşmektedir: <b>Dinleme öncesi, dinleme sırası ve dinleme sonrası</b>.
+
+    <hr />
+
 ### 4.5.1. Dinleme Öncesi
 
-21. Dinlenecek konuya odaklanma (motivasyon, konsantrasyon) ile dinlemenin amacını belirleme, dinlemenin hangi boyutuna vurgu yapar?
+1. Aşağıdakilerden hangisi bir dinleme öncesi etkinliği değildir?
+    - A-) Materyal inceleme
+    - B-) Ön bilgileri harekete geçirme
+    - C-) Amaç belirleme
+    - D-) Bağlam oluşturma
+    - **Cevap E-) Soru belirleme**
+
+    > **Açıklama:** Dinleme Öncesi etkinlikleri dinleme ortamını inceleme, dinleme materyalini inceleme, bağlam oluşturma, ilgi oluşturma, ön bilgileri harekete geçirme, dinleme amacını belirleme, dinleme yöntemini ve biçimini belirleme şeklinde sıralanır. <b>Soru belirleme</b> bu etkinliklerden biri olarak doğrudan listelenmemiştir.
+
+    <hr />
+
+2. Dinleme etkinliğine hazırlık aşamasına ….. denir.
+    - A-) okuma öncesi
+    - B-) dinleme dönemi
+    - C-) yazma öncesi
+    - D-) dinleme sonrası
+    - **Cevap E-) dinleme öncesi**
+
+    > **Açıklama:** Dinleme etkinliğine hazırlık aşamasına <b>Dinleme Öncesi</b> denir. Bu aşama fiziksel ve zihinsel boyutları içerir.
+
+    <hr />
+
+3. Okulöncesi eğitim kurumlarının hedef kitlesi sebebiyle dinleme ortamı bazen istenilen seviyede olmayabilir. Bu sebeple öncelikle fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir. Bu ifadeye göre bir eğitici dinleme öncesinde aşağıdakilerden hangisini yapmalıdır?
+    - A-) Dinleme materyali hazırlamalı
+    - B-) Dinleme yöntemini belirlemeli
+    - **Cevap C-) Dinleme ortamını incelemeli**
+    - D-) İlgi oluşturmalı
+    - E-) Bağlam oluşturmalı
+
+    > **Açıklama:** Dinleme Öncesi etkinliklerinden biri <b>Dinleme ortamını inceleme</b>dir. Bu süreç, dinlemenin gerçekleşeceği fiziksel ortamın belirlenmesi ve buna uygun hâle getirilmesi sürecini içerir. Okulöncesi kurumlarda fiziksel ortam gözden geçirilmeli ve eksiklikler giderilmelidir.
+
+    <hr />
+
+4. Dinlenecek konuya odaklanma (motivasyon, konsantrasyon) ile dinlemenin amacını belirleme, dinlemenin hangi boyutuna vurgu yapar?
     - A-) Fiziksel boyut
     - B-) Psikolojik boyut
     - C-) Felsefi boyut
@@ -1149,9 +909,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 4.5.1. Dinleme Öncesi
-
-22. Dinleme eyleminin gerçekleşeceği ortamın özelliklerinin dinlemeye uygunluğu, sessizlik ve dinlenen kaynakla ilgili durumları dinlemenin hangi boyutuna vurgu yapar?
+5. Dinleme eyleminin gerçekleşeceği ortamın özelliklerinin dinlemeye uygunluğu, sessizlik ve dinlenen kaynakla ilgili durumları dinlemenin hangi boyutuna vurgu yapar?
     - A-) Sosyolojik boyut
     - B-) Coğrafi boyut
     - C-) Psikolojik boyut
@@ -1164,7 +922,51 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 4.5.2. Dinleme Sırası
 
-23. Aşağıdakilerden hangisi dilin parçalarüstü özelliklerine ilişkin bir dinleme hedefidir?
+1. Dinleme sürecinde ………, …………… ve ……………. teknikleri olmak üzere üç aşamadan bahsedilir. Boşluğa uygun gelen terimler aşağıdakilerden hangileridir.
+    - **Cevap A-) anlama - yapılandırma - düzenleme**
+    - B-) Dinleme ortamını inceleme - Dinleme materyalini inceleme - Bağlam oluşturma
+    - C-) İlgi oluşturma - Ön bilgileri harekete geçirme - Dinleme amacını belirleme
+    - D-) Görsellerle seçme - Diyalog tamamlama - Dinleme öncesi tahminlerle karşılaştırma
+    - E-) Farklılıkları bulma - Eşleştirme - Resimleri sıraya dizme
+
+    > **Açıklama:** Güneş’e (2007) göre dinleme sürecinde, yani dinleme sırası aşamasında, <b>anlama, yapılandırma ve düzenleme</b> teknikleri olmak üzere üç aşamadan bahsedilmektedir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklerden biri değildir.
+    - A-) Görsellerle seçme
+    - B-) Diyalog tamamlama
+    - C-) Farklılıkları bulma
+    - D-) Eşleştirme
+    - **Cevap E-) Bağlam oluşturma**
+
+    > **Açıklama:** <b>Bağlam oluşturma</b>, dinleme etkinliğinin <b>Dinleme Öncesi</b> aşamasında yapılan bir hazırlık aktivitesidir ve öğrencinin kimin nerede, ne hakkında konuşacağını tahmin etmesini içerir. Görsellerle seçme, diyalog tamamlama, farklılıkları bulma ve eşleştirme ise dinleme sırasında yapılabilecek etkinlik örneklerindendir.
+
+    <hr />
+
+3. Aşağıdakilerden hangisi dinleme sırasında yapılabilecek etkinliklere örnek olamaz?
+    - A-) Dinleme etkinliğinde yer alan bir diyaloğun öğreniciler tarafından tamamlanması
+    - **Cevap B-) Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi**
+    - C-) Dinleme metni ile ilgili ve ilgisiz çeşitli görseller verilerek bu görsellerden dinleme metnine ait olanının seçilmesi
+    - D-) Dinleme metni kendisine verilen öğreniciden, dinlediği ile yazılı metin arasındaki farklılıkları bulması
+    - E-) Öğreniciler dinleme etkinliğinin özelliğine göre kendilerine verilen resimleri eşleştirmesi
+
+    > **Açıklama:** Öğrenicinin motivasyonunu artırarak dinlemeye istekli hâle getirilmesi, Dinleme Öncesi aşamasında yer alan <b>İlgi oluşturma</b> etkinliğidir. Diğer seçenekler ise dinleme sırasında (Dinleme Anı) yapılabilecek aktivitelerdir.
+
+    <hr />
+
+4. Konuşma ve bilgiler arasında bağ kurma; soruları belirleme; açıklayıcı noktaları not alma; sözel olmayan ipuçlarını gözleme (jestler, ifadeler, duruş, vb.); anlaşılmayan yerleri belirleme ve sorular sorma; kendi kelimeleriyle konuşmanın özetini yapma; yeni bir kelimenin anlamını belirlemek için konuşma bütününden yararlanma, ….. tekniklerine örnek olarak gösterilebilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+    - A-) yapılandırma
+    - **Cevap B-) anlama**
+    - C-) görselleştirme
+    - D-) sunu
+    - E-) düzenleme
+
+    > **Açıklama:** Bu maddeler, Güneş'in (2007) dinleme sürecinde bahsettiği <b>anlama tekniklerine</b> örnek olarak gösterilebilir. Anlama teknikleri, konuşma ve bilgiler arasında bağ kurma, sorular belirleme, anlaşılmayan yerleri belirleyip sorular sorma gibi iletişimsel yeterliliği geliştiren eylemleri içerir.
+
+    <hr />
+
+5. Aşağıdakilerden hangisi dilin parçalarüstü özelliklerine ilişkin bir dinleme hedefidir?
     - A-) Duygusal tepkileri ayırt etme
     - B-) Temel sözcük dizimi için dinleme
     - C-) Biçimbirimleri ayırt etmeye yönelik dinleme
@@ -1172,6 +974,76 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
     - **Cevap E-) Tümcelerdeki ezgi örüntüleri arasındaki farkı ayırt etme**
 
     > **Açıklama:** Brown (2001), dinleme becerisinin geliştirilmesi amacıyla gerçekleştirilebilecek etkinlikler arasında Bütünleyici (Veri Çıkışlı) Süreçleri İşleten Etkinlikler başlığı altında <b>Tümcelerdeki ezgi örüntüleri arasındaki farkı ayırt etme</b> hedefine yer vermektedir. Ezgi (ton değişimi), parçalarüstü (suprasegmental) özelliklerden biridir.
+
+    <hr />
+
+### 4.5.3. Dinleme Sonrası
+
+1. Özetleme, yorumlama, değerlendirme ve soru-cevaplar dinleme etkinliklerinin hangi aşamasında gerçekleşir.
+    - A-) Dinleme öncesi
+    - B-) Dinleme sırası
+    - C-) Görsel seçme
+    - **Cevap D-) Dinleme sonrası**
+    - E-) Eşleştirme
+
+    > **Açıklama:** Dinlemenin tamamlanmasından sonraki aşama olan <b>Dinleme Sonrası</b> süreci, dinleme metnini <b>özetleme, yorumlama, değerlendirme ve soru-cevapları</b> içerir.
+
+    <hr />
+
+2. Aşağıdakilerden hangisi Yabancılara Türkçe öğretimi dinleme etkinliklerinde dikkat edilmesi gereken hususlardan biri değildir.
+    - A-) Ders kitabına ya da öğretmenin ayrıca hazırladığı bir çalışmaya paralel olarak yapılacak olan dinleme etkinlikleri öncesinde iyi bir planlama yapılmalıdır.
+    - B-) Öğretmen derste kullanmayı düşündüğü bir dinleme parçasını önceden kendisi dinlemelidir. İlgili dinleme parçasının uygun olup olmadığını kontrol etmelidir.
+    - C-) Dinleme parçaları yabancılara Türkçe öğretiminde belirlenen seviyelere uygun olmalıdır.
+    - **Cevap D-) Kullanılması düşünülen dinleme parçaları gelişigüzel seçilmelidir.**
+    - E-) Dinleme parçaları genel ahlak kurallarına ve ilgili ülkenin milli-manevi değerlerine aykırı seslendirmeler içermemelidir.
+
+    > **Açıklama:** Yabancılara Türkçe öğretimi dinleme etkinliklerinde dinleme parçalarının <b>gelişigüzel seçilmesi</b> değil, belirlenen seviyelere uygun olması, söyleniş hızına, telaffuzuna ve anlaşılabilirliğine dikkat edilmesi ve iyi bir planlama yapılması gerekmektedir.
+
+    <hr />
+
+3. Aşağıdakilerden hangileri dinleme sonrasında kullanılacak tekniklerdendir. I. Konuşmada verilen bilgileri değerlendirme, II. Sunu biçimi ve içeriği değerlendirme, III. Nedenleri, kaynağını ve bakış açılarını değerlendirme, IV. Sözel ve sözel olmayan ipuçlarını değerlendirme, V. Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilme,
+    - A-) I, II, III, IV
+    - B-) I, II
+    - C-) I, IV
+    - D-) I, II, III
+    - **Cevap E-) Hepsi**
+
+    > **Açıklama:** Güneş'e (2007) göre dinleme sonrasında kullanılacak teknikler arasında I, II, III ve IV. maddeler yer alır. Ayrıca Schwartz’a göre dinleme sonrası etkinliklerinin temel amaçları arasında <b>Öğrenicilerin dinleme becerisinin ve stratejilerinin değerlendirilmesi</b> (V. madde) de bulunmaktadır. Bu nedenle tüm seçenekler dinleme sonrası süreçle ilgilidir.
+
+    <hr />
+
+4. Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru ………. ve ……….. becerisi kazandırmada yardımcı olmaktadır. Boşluklara uygun gelen ifadeler hangileridir.
+    - A-) dinleme - yazma
+    - B-) yazma- konuşma
+    - **Cevap C-) telaffuz - konuşma**
+    - D-) telaffuz - okuma
+    - E-) okuma - dinleme
+
+    > **Açıklama:** Dinleme etkinlikleri yabancılara Türkçe öğretiminde öğrencilere doğru <b>telaffuz ve konuşma becerisi</b> kazandırmada yardımcı olmaktadır. Öğrenciler sınıf içinde en çok dinledikleri kişi olan öğretmenlerinin konuşmalarını taklit ettiklerinden, öğretmenin doğru telaffuz etmesi önemlidir.
+
+    <hr />
+
+5. Aşağıdakilerden hangisi dinleme sonrasında kullanılacak tekniklere bir örnek değildir?
+    - A-) Sunu biçimi ve içeriği değerlendirme
+    - B-) Konuşmada verilen bilgileri değerlendirme
+    - **Cevap C-) Dinleme yöntemini ve biçimini belirleme**
+    - D-) Nedenleri, kaynağını ve bakış açılarını değerlendirme
+    - E-) Sunu biçimi ve içeriği değerlendirme
+
+    > **Açıklama:** Dinleme yöntemini ve biçimini belirleme, dinlemenin başlangıcında (Dinleme Öncesi) gerçekleştirilen bir eylemdir. Diğer seçenekler ise Dinleme Sonrası aşamasında kullanılan tekniklerdir.
+
+    <hr />
+
+### 4.8. Dinleme Becerisinin Gelişiminde Aile Unsuru
+
+1. Dinleme sürecinde çocuklar etkin olmalıdırlar. Aksi takdirde dinleme eylemi öncelikle seçerek dinlemeye, ardından da duyduklarını önemsememeye dönüşür. Dinlemede çocuğun etken hâle getirilebilmesi amacıyla anne ve baba rehberlik etmelidir. Bu süreçte anne ve baba iyi birer dinleyici olmalıdır. Yukarıdaki paragrafta aşağıdakilerden hangisi vurgulanmaktadır?
+    - **Cevap A-) Dinleme eğitiminde ailenin rolü**
+    - B-) Dinleme eğitiminde öğretmenin rolü
+    - C-) Dinleme eğitiminde kurumun rolü
+    - D-) Dinleme eğitiminde etkinliklerin rolü
+    - E-) Dinleme eğitiminde arkadaş grubunun rolü
+
+    > **Açıklama:** Paragrafta, dinleme sürecinde çocukların etkin hâle getirilmesi amacıyla <b>anne ve babanın rehberlik etmesi</b> ve <b>iyi birer dinleyici olması</b> gerektiği vurgulanmıştır. Bu durum, <b>Dinleme eğitiminde ailenin rolü</b>ne dikkat çekmektedir.
 
     <hr />
 
@@ -1192,7 +1064,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.2. Konuşma Eğitimiyle İlgili Temel Terimler
 
-2. ……... konuşma organının belirli hareketleri ile oluşan ve belli bir biçimde sıralanarak aynı dili konuşanlar arasında bir kavram ifadesi için kullanılan kelimeleri oluşturan anlam ayırt edici sestir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+1. ……... konuşma organının belirli hareketleri ile oluşan ve belli bir biçimde sıralanarak aynı dili konuşanlar arasında bir kavram ifadesi için kullanılan kelimeleri oluşturan anlam ayırt edici sestir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
     - A-) Ses bilim
     - **Cevap B-) Ses birim**
     - C-) Tonlama
@@ -1203,9 +1075,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 5.2. Konuşma Eğitimiyle İlgili Temel Terimler
-
-3. Konuşmada ve okumada seslerin, kelimelerin, vurguların, anlam ve heyecan duraklarının açık ve anlaşılır olmasına dikkat eden konuşma biçimi; düzgün söz söyleme sanatına verilen ad aşağıdakilerden hangisidir?
+2. Konuşmada ve okumada seslerin, kelimelerin, vurguların, anlam ve heyecan duraklarının açık ve anlaşılır olmasına dikkat eden konuşma biçimi; düzgün söz söyleme sanatına verilen ad aşağıdakilerden hangisidir?
     - A-) Telaffuz
     - B-) Nutuk
     - C-) Ses birim
@@ -1216,9 +1086,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 5.2. Konuşma Eğitimiyle İlgili Temel Terimler
-
-4. Konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik perdeleme ve dalgalanmadır. Yukarıda tanımı verilen konuşma terimi aşağıdakilerden hangisidir?
+3. Konuşma sırasında sesin perdesinin değişmesiyle oluşan melodik perdeleme ve dalgalanmadır. Yukarıda tanımı verilen konuşma terimi aşağıdakilerden hangisidir?
     - A-) Diksiyon
     - B-) Boğumlama
     - C-) Durak
@@ -1231,7 +1099,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.3. Konuşma Süreci ve Aşamaları
 
-5. Konuşmanın boyutları hangi seçenekte doğru verilmiştir?
+1. Konuşmanın boyutları hangi seçenekte doğru verilmiştir?
     - A-) psikolojik, fiziksel, analojik
     - B-) doğal, yapay
     - **Cevap C-) fiziksel, psikolojik, toplumsal**
@@ -1242,9 +1110,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 5.3. Konuşma Süreci ve Aşamaları
-
-6. Aşağıdaki seçeneklerden hangisi Bygate’e göre, konuşma eyleminin gerçekleşmesindeki dört süreçtir?
+2. Aşağıdaki seçeneklerden hangisi Bygate’e göre, konuşma eyleminin gerçekleşmesindeki dört süreçtir?
     - **Cevap A-) Anlamlandırma, şekillendirme, uygulama ve kişisel denetim**
     - B-) Şekillendirme, anlamlandırma, kişisel denetim ve uygulama
     - C-) Anlamlandırma, kişisel denetim, uygulama ve şekillendirme
@@ -1257,7 +1123,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4. Konuşma Becerisini Geliştirme
 
-7. Aşağıdaki seçeneklerden hangisi okulöncesi dönemde konuşma becerisini geliştirmek için öğreticilerin öncelikle dikkate almaları gereken hususlara dahil edilemez?
+1. Aşağıdaki seçeneklerden hangisi okulöncesi dönemde konuşma becerisini geliştirmek için öğreticilerin öncelikle dikkate almaları gereken hususlara dahil edilemez?
     - A-) Konuşma eğitiminde söz varlığı öğretimi ve dinleme eğitimlerinde olduğu gibi tema ağırlıklı olarak oluşturulan izlencelere göre planlama yapılmalıdır.
     - B-) Okulöncesi dönemde konuşma becerisini geliştirmek için çocukların Türkçe konuşulan ortamlarda iletişim sürecine katılmalarını desteklemek temel amaç olmalıdır.
     - **Cevap C-) Okulöncesi dönemdeki konuşma eğitiminde, özel gereksinimli çocukların diğer öğrencilerle aynı programa göre dikkate alınması gerekir.**
@@ -1268,9 +1134,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 5.4. Konuşma Becerisini Geliştirme
-
-8. Aşağıdakilerden hangisinde konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırmalar doğru sırada verilmiştir?
+2. Aşağıdakilerden hangisinde konuşma becerisini geliştirmeye dönük olarak öğretmenlerin en çok kullandıkları alıştırmalar doğru sırada verilmiştir?
     - A-) İletişimsel alıştırmalar - mekanik alıştırmalar - bireysel alıştırmalar
     - B-) Anlamlı alıştırmalar - mekanik alıştırmalar - iletişimsel alıştırmalar
     - C-) Bireysel alıştırmalar - anlamlı alıştırmalar - mekanik alıştırmalar
@@ -1283,7 +1147,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4.1. Seslerin Öğretimi
 
-9. Türkçeyi yeni öğrenen bir kişinin “meydaaana, bööörek, zaaamir, metrekaaare” gibi telaffuzlar yapması konuşma sırasında nerede hata yaptığını gösterir?
+1. Türkçeyi yeni öğrenen bir kişinin “meydaaana, bööörek, zaaamir, metrekaaare” gibi telaffuzlar yapması konuşma sırasında nerede hata yaptığını gösterir?
     - A-) Şiddet
     - B-) Ritim
     - C-) Hız
@@ -1296,7 +1160,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4.2.2. Müzik
 
-10. ……….. etkinlikleri sayesinde çocuklarda, yabancı dile ait kültürel yapı ve değerler konusunda farkındalık yaratmak mümkündür. Yukarıdaki paragraftaki boşluğa uygun kelime aşağıdakilerden hangisidir?
+1. ……….. etkinlikleri sayesinde çocuklarda, yabancı dile ait kültürel yapı ve değerler konusunda farkındalık yaratmak mümkündür. Yukarıdaki paragraftaki boşluğa uygun kelime aşağıdakilerden hangisidir?
     - A-) Oyun
     - B-) Masal
     - C-) Futbol
@@ -1309,7 +1173,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4.2.3. Hikâye Okuma/Anlatma
 
-11. Demirel’e göre konuşma becerisini geliştirmeye yönelik öğretmenlerin en çok kullandıkları alıştırma ve izlenecek sırada: Mekanik Alıştırmalar, Anlamlı Alıştırmalar ve İletişimsel Alıştırmalar bulunmaktadır. Aşağıdaki seçeneklerden hangisi Demirel’in bahsettiği İletişimsel Alıştırmalar bölümüyle ilgilidir?
+1. Demirel’e göre konuşma becerisini geliştirmeye yönelik öğretmenlerin en çok kullandıkları alıştırma ve izlenecek sırada: Mekanik Alıştırmalar, Anlamlı Alıştırmalar ve İletişimsel Alıştırmalar bulunmaktadır. Aşağıdaki seçeneklerden hangisi Demirel’in bahsettiği İletişimsel Alıştırmalar bölümüyle ilgilidir?
     - A-) Dilin kurallarını ve yapılarını öğrenmek için soru cevap tekniğinin uygulanması
     - B-) Dinleme ve daha sonrasında tekrar etme
     - C-) Sınıf içinde düşünceye dayanan anlamlı cümleler üretme
@@ -1322,7 +1186,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4.2.5. Grup Etkinlikleri
 
-12. Aşağıda verilenlerden hangileri dil öğreniminde grup çalışmalarının kullanılmasını gerektiren pedagojik gerekçelerdendir? I. Grup çalışması, dil uygulamaları için fırsatlar oluşturur. II. Grup çalışması, öğrencilerin konuşma becerilerindeki niteliği artırır. III. Grup çalışması, öğretimi bireyselleştirmede yardımcı olur. IV. Grup çalışması, olumlu duygusal bir ortam oluşturulmasını teşvik etmektedir.
+1. Aşağıda verilenlerden hangileri dil öğreniminde grup çalışmalarının kullanılmasını gerektiren pedagojik gerekçelerdendir? I. Grup çalışması, dil uygulamaları için fırsatlar oluşturur. II. Grup çalışması, öğrencilerin konuşma becerilerindeki niteliği artırır. III. Grup çalışması, öğretimi bireyselleştirmede yardımcı olur. IV. Grup çalışması, olumlu duygusal bir ortam oluşturulmasını teşvik etmektedir.
     - **Cevap A-) Hepsi**
     - B-) I ve III
     - C-) III ve IV
@@ -1335,7 +1199,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 5.4.2.6. Diğer Etkinlikler
 
-13. “Bana elmayı çok sevdiğini söyle” biçimindeki bir konuşma görevi aşağıdakilerden hangisine girmektedir?
+1. “Bana elmayı çok sevdiğini söyle” biçimindeki bir konuşma görevi aşağıdakilerden hangisine girmektedir?
     - **Cevap A-) Güdümlü yanıt görevi**
     - B-) Sesli okuma görevi
     - C-) Konuşma tamamlama görevi
@@ -1361,8 +1225,6 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.1. Giriş
-
 2. ’’Çocuklar okur-yazarlığı … olarak öğrenirler.’’ Yukarıda verilen cümledeki boş yere uygun kavram aşağıdaki seçeneklerden hangisinde verilmiştir?
     - **Cevap A-) Aktif**
     - B-) Pasif
@@ -1373,8 +1235,6 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
     > **Açıklama:** Okuma-yazma becerisinin oluşumunu içeren unsurlardan biri, çocukların okur-yazarlığı <b>aktif</b> olarak öğrendiği bilgisidir.
 
     <hr />
-
-### 6.1. Giriş
 
 3. Okuma-yazmayı öğrenme ne tür bir süreçtir?
     - A-) Sanatsal
@@ -1387,8 +1247,6 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.1. Giriş
-
 4. Okuma-yazma becerisinin oluşumu ile ilgili aşağıdakilerden hangisi yanlıştır?
     - A-) Çocuklar okur-yazarlığı aktif olarak öğrenirler.
     - B-) Bir şeyleri gerçekleştirmek için okuma ve yazmanın kullanıldığı gerçek yaşam koşulları okur-yazarlığı geliştirir.
@@ -1400,22 +1258,9 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.4. Okuma Becerisi ve Gelişimi
-
-5. Yazılı materyal üzerinde gerçekleşen bilişsel eyleme verilen ad aşağıdakilerden hangisidir?
-    - A-) Dinleme
-    - B-) Öğrenme
-    - C-) Yazma
-    - D-) Edinme
-    - **Cevap E-) Okuma**
-
-    > **Açıklama:** <b>Okuma</b>, en temel anlamda <b>yazılı materyal üzerinde gerçekleşen bilişsel eylem</b> olarak tanımlanabilir.
-
-    <hr />
-
 ### 6.2.1. Sınama Yoluyla Öğrenme
 
-6. Aşağıda verilen seçeneklerden hangisi Thorndike tarafından da çalışılan okuma ve yazmaya hazırlık ile ilgili kuramsal yaklaşımdır?
+1. Aşağıda verilen seçeneklerden hangisi Thorndike tarafından da çalışılan okuma ve yazmaya hazırlık ile ilgili kuramsal yaklaşımdır?
     - A-) Kavrama yoluyla öğrenme
     - **Cevap B-) Sınama yoluyla öğrenme**
     - C-) Beceri yoluyla öğrenme
@@ -1426,9 +1271,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.2.1. Sınama Yoluyla Öğrenme
-
-7. Sınama yoluyla öğrenmede … ve …. yararlanarak öğrenme gerçekleşmektedir. Yukarıdaki cümlede boş bırakılan yerlere gelmesi gereken uygun kavramlar aşağıdaki seçeneklerden hangisinde verilmiştir?
+2. Sınama yoluyla öğrenmede … ve …. yararlanarak öğrenme gerçekleşmektedir. Yukarıdaki cümlede boş bırakılan yerlere gelmesi gereken uygun kavramlar aşağıdaki seçeneklerden hangisinde verilmiştir?
     - **Cevap A-) direktiflerden / taklitten**
     - B-) hazırlıktan / harekete geçmeden
     - C-) tanımlardan / kurallardan
@@ -1439,9 +1282,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.2.1. Sınama Yoluyla Öğrenme
-
-8. Sınama yoluyla öğrenmenin dayalı olduğu kanunlar aşağıdaki seçeneklerden hangisinde doğru verilmiştir?
+3. Sınama yoluyla öğrenmenin dayalı olduğu kanunlar aşağıdaki seçeneklerden hangisinde doğru verilmiştir?
     - **Cevap A-) Hazır oluş, tekrar, sonuç etki**
     - B-) Bekleme, hazır oluş, okur-yazarlık
     - C-) Sonuç etki, sabretme, duyuya dayalı eğitim
@@ -1454,7 +1295,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 6.2.2. Kavrama Yoluyla Öğrenme
 
-9. Hangi yöntemle bilinçli ve düzenli düşünme, akıl yürütme yeteneğini arttırarak aynı zamanda kavrama yetisi de gelişmektedir?
+1. Hangi yöntemle bilinçli ve düzenli düşünme, akıl yürütme yeteneğini arttırarak aynı zamanda kavrama yetisi de gelişmektedir?
     - A-) Sorun çözme
     - B-) Ses temelli cümle
     - C-) Çağrışım
@@ -1465,9 +1306,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.2.2. Kavrama Yoluyla Öğrenme
-
-10. İlk kez 1920’lerde şempanzeler üzerinde yaptığı çalışmalar sonucu ‘’Kavrama yoluyla öğrenme’’ görüşünü ortaya atan bilim insanı kimdir?
+2. İlk kez 1920’lerde şempanzeler üzerinde yaptığı çalışmalar sonucu ‘’Kavrama yoluyla öğrenme’’ görüşünü ortaya atan bilim insanı kimdir?
     - A-) Thorndike
     - B-) Chastain
     - C-) Eliason
@@ -1478,9 +1317,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.2.2. Kavrama Yoluyla Öğrenme
-
-11. W. Köhler, psikolojinin daha çok algı alanında ele aldığı hangi yaklaşım ekolünün bir temsilcisidir?
+3. W. Köhler, psikolojinin daha çok algı alanında ele aldığı hangi yaklaşım ekolünün bir temsilcisidir?
     - **Cevap A-) Gestalt psikolojisi**
     - B-) Hümanizm
     - C-) Bilişsel psikoloji
@@ -1493,7 +1330,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 6.3. Yabancı Dil Olarak Türkçe Okuma ve Yazmaya Hazırlık
 
-12. Çocuğun okul öncesi ortamda karşılaştığı kitap, dergi, gazete, görsel ve dilsel algıyı geliştirici resim çizme, tamamlama kitapları, tahmin edilebilir okuma kitapları gibi basılı araç gereçlerin yanı sıra ailede veya anaokulunda katıldığı dinleme, çizme, boyama etkinliklerinin tamamı, okul öncesinde aşağıdakilerden hangisi olarak kabul edilmektedir?
+1. Çocuğun okul öncesi ortamda karşılaştığı kitap, dergi, gazete, görsel ve dilsel algıyı geliştirici resim çizme, tamamlama kitapları, tahmin edilebilir okuma kitapları gibi basılı araç gereçlerin yanı sıra ailede veya anaokulunda katıldığı dinleme, çizme, boyama etkinliklerinin tamamı, okul öncesinde aşağıdakilerden hangisi olarak kabul edilmektedir?
     - **Cevap A-) Okuma yazma deneyimleri**
     - B-) Dil gelişimi
     - C-) Ezberleme
@@ -1506,7 +1343,18 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 6.4. Okuma Becerisi ve Gelişimi
 
-13. Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
+1. Yazılı materyal üzerinde gerçekleşen bilişsel eyleme verilen ad aşağıdakilerden hangisidir?
+    - A-) Dinleme
+    - B-) Öğrenme
+    - C-) Yazma
+    - D-) Edinme
+    - **Cevap E-) Okuma**
+
+    > **Açıklama:** <b>Okuma</b>, en temel anlamda <b>yazılı materyal üzerinde gerçekleşen bilişsel eylem</b> olarak tanımlanabilir.
+
+    <hr />
+
+2. Okuma becerisine hazırlık yapmak için kullanılan temel materyaller ve faaliyetlerden kavram geliştirme çalışmaları ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?
     - **Cevap A-) Okul öncesi dönemdeki çocuklar geometrik materyalleri tanıma dönemini tamamlamıştır.**
     - B-) Çocuklarda sayı gelişimi; sayısal farklılıklara dikkat etme, çok ve azı ayırt etme, yetişkini taklit ederek sayma, ezbere gelişigüzel ve ritmik sayma, sayma ile ilgili kuralları öğrenme, nesnelerle sayı sözcüklerini eşleyerek sayma şeklinde gerçekleşir.
     - C-) Okul öncesi dönemde kavram geliştirme çalışmaları için gruplama çalışmaları yapılabilir.
@@ -1519,7 +1367,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 6.5. Yazma Becerisi ve Gelişimi
 
-14. “….. insanoğlunun düşünce, duygu, durum ve çeşitli taleplerini birtakım sembollerle ifade etme eylemidir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+1. “….. insanoğlunun düşünce, duygu, durum ve çeşitli taleplerini birtakım sembollerle ifade etme eylemidir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
     - A-) Okuryazar
     - **Cevap B-) Yazma**
     - C-) Konuşma
@@ -1530,9 +1378,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 6.5. Yazma Becerisi ve Gelişimi
-
-15. Aşağıdakilerden hangisi çocukların alfabe bilgisini arttırabilmek için okul öncesi öğretmenlerinin düzenleyebilecekleri çalışmalardan biri değildir?
+2. Aşağıdakilerden hangisi çocukların alfabe bilgisini arttırabilmek için okul öncesi öğretmenlerinin düzenleyebilecekleri çalışmalardan biri değildir?
     - A-) Havada ve kum üzerinde harf şekillerini çizebilmelerini istemek
     - **Cevap B-) Birbirleriyle belirli bir konuda münazara yapmalarını sağlamak**
     - C-) Alfabe harflerini sayıların asıldığı gibi sınıflarına asmak
@@ -1545,7 +1391,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 6.6. Yazı Öncesi Etkinlikler
 
-16. Aşağıdaki seçeneklerden hangisi çocukların yazıya hazırlık ve motor becerilerini geliştirebilmek için yapılabilecek temel çalışmalardan değildir?
+1. Aşağıdaki seçeneklerden hangisi çocukların yazıya hazırlık ve motor becerilerini geliştirebilmek için yapılabilecek temel çalışmalardan değildir?
     - A-) Hamur, kil vb. malzemelerle çalışma
     - B-) Modeli kopyalayarak çizme
     - C-) İki satır aralığında model çizgiyi çizme
@@ -1573,7 +1419,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 7.7. İki dilde Akıcılık Düzeyi
 
-2. İkidilliliğe ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+1. İkidilliliğe ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
     - A-) İkidilli bireyler sahip oldukları dilleri karmalaştırarak kullanabilirler.
     - **Cevap B-) İkidilli çocuklar sahip oldukları dillerde her zaman eşit düzeyde akıcılığa sahiptirler.**
     - C-) İkidillilik eşzamanlı gelişebileceği gibi sıralı olarak da gelişebilir.
@@ -1586,7 +1432,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
 ### 7.8. İkinci Dilin Birinci Dile Etkisi
 
-3. Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?
+1. Türkiye’de İngilizce kursuna giderek ana dilin olumsuz etkilenmeden yeni bir dil edinilmesi ikidillilik bağlamında aşağıdakilerden hangisi olarak tanımlanmaktadır?
     - A-) Dışsal ikidillilik
     - B-) Seçmeli ikidillilik
     - C-) Durumsal ikidillilik
@@ -1597,9 +1443,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 7.8. İkinci Dilin Birinci Dile Etkisi
-
-4. İki dilli eğitim örneklerine bakıldığında kimi durumlarda devlet politikası olarak bireylerin belirli dillere zorlandığı görülmektedir. Bu durumda da bireyin ana dili tamamen devre dışı kalmaktadır. Yukarıdaki öncül aşağıdakilerden hangisi olarak adlandırılmaktadır?
+2. İki dilli eğitim örneklerine bakıldığında kimi durumlarda devlet politikası olarak bireylerin belirli dillere zorlandığı görülmektedir. Bu durumda da bireyin ana dili tamamen devre dışı kalmaktadır. Yukarıdaki öncül aşağıdakilerden hangisi olarak adlandırılmaktadır?
     - A-) Seçmeli iki dillilik
     - B-) Aile iki dilliliği
     - **Cevap C-) Eksiltmeli iki dillilik**
@@ -1610,9 +1454,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 7.8. İkinci Dilin Birinci Dile Etkisi
-
-5. Almanya’da İngilizce kursuna giderek yeni bir dil edinmeye çalışan ana dili Almanca konuşucusunun mevcut durumu iki dillilik bağlamında değerlendirildiğinde aşağıdakilerden hangisi olarak tanımlanabilir?
+3. Almanya’da İngilizce kursuna giderek yeni bir dil edinmeye çalışan ana dili Almanca konuşucusunun mevcut durumu iki dillilik bağlamında değerlendirildiğinde aşağıdakilerden hangisi olarak tanımlanabilir?
     - **Cevap A-) Seçmeli iki dillilik**
     - B-) Durumsal iki dillilik
     - C-) Eşzamanlı iki dillilik
@@ -1623,9 +1465,7 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 7.8. İkinci Dilin Birinci Dile Etkisi
-
-6. İkinci dil edinimi sürecinde kimi durumlarda bireyin sahip olduğu dillerden birisindeki bilgisini diğer diline yansıtması ikinci dilde sorun oluşturabilmektedir. Bu durum iki dilin birbirinden farklılaştığı durumlarda görülür.
+4. İkinci dil edinimi sürecinde kimi durumlarda bireyin sahip olduğu dillerden birisindeki bilgisini diğer diline yansıtması ikinci dilde sorun oluşturabilmektedir. Bu durum iki dilin birbirinden farklılaştığı durumlarda görülür.
     - A-) Olumlu aktarım
     - B-) Kod karmalaştırma
     - **Cevap C-) Olumsuz aktarım**
@@ -1651,8 +1491,6 @@ IV. Sağlıklı ve tam bir iletişimin gerçekleştirilmesini sağlamak
 
     <hr />
 
-### 8.2. Etkinlik Öncesi, Etkinlik Sırası ve Etkinlik Sonrası
-
 2. “Öğrencilerden öğretilmesi amaçlanan beceriyi ya da stratejiyi kullanması hedeflenmektedir. Dolayısıyla, bu aşama asıl etkinliği oluşturmaktadır. Bu aşamada öğrencilere yaptıkları etkinliğe ya da oynadıkları oyuna ilişkin birtakım yönergeler verilir ve öğrencilerin bu yönergeleri gerçekleştirmesi beklenir.”
 Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
     - A-) Etkinlik amaçları
@@ -1664,8 +1502,6 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
     > **Açıklama:** Bu aşama, öğrencilerden öğretilmesi amaçlanan beceriyi ya da stratejiyi kullanmasının hedeflendiği, asıl etkinliği oluşturan ve yönergelerin verildiği <b>Etkinlik sırası</b> bölümünü tarif etmektedir.
 
     <hr />
-
-### 8.2. Etkinlik Öncesi, Etkinlik Sırası ve Etkinlik Sonrası
 
 3. “Temel amaç; çözümleyici ve bütünleyici şemaları tetiklemektedir. Dolayısıyla öğrencinin dünya bilgisi harekete geçirilerek öğrenci yapılacaklara hazır hale getirilir.”
 Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
@@ -1681,7 +1517,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
 ### 8.3. Biçim-Anlam-Kullanım
 
-4. “Türkçede ‘-dır’ ekinin işlevlerine bakıldığında ‘Türkiye’nin başkenti Ankara’dır.’ örneğinde olduğu gibi kesinlik oluşturmakla birlikte, ‘O şimdi İstanbul’a ulaşmıştır.’ örneğinde olduğu gibi olasılık işlevi de sunabilmektedir.” Yukarıdaki metinde bir dilbilgisel yapının hangi özelliği aktarılmaktadır?
+1. “Türkçede ‘-dır’ ekinin işlevlerine bakıldığında ‘Türkiye’nin başkenti Ankara’dır.’ örneğinde olduğu gibi kesinlik oluşturmakla birlikte, ‘O şimdi İstanbul’a ulaşmıştır.’ örneğinde olduğu gibi olasılık işlevi de sunabilmektedir.” Yukarıdaki metinde bir dilbilgisel yapının hangi özelliği aktarılmaktadır?
     - A-) Söylemsel özelliği
     - B-) Anlamsal özelliği
     - C-) Biçimsel özelliği
@@ -1694,7 +1530,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
 ### 8.4.2. Özgünlük
 
-5. Bir öğretmen gerçek hayattaki durumları düşünerek kendisi bir metin oluşturması ve bunu sınıf ortamında kullanması durumunda hangi girdi biçimini kullanmış olur?
+1. Bir öğretmen gerçek hayattaki durumları düşünerek kendisi bir metin oluşturması ve bunu sınıf ortamında kullanması durumunda hangi girdi biçimini kullanmış olur?
     - A-) Tamamen özgün girdi
     - B-) Kısmen değiştirilmiş özgün girdi
     - C-) Uyarlanmış girdi
@@ -1707,7 +1543,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
 ### 8.4.2.2. Girdi Özgünlüğü
 
-6. Gerçek yaşam için üretilmiş girdilerin üzerinde yabancı dil öğrencilerinin düzeyine uygun olarak kısaltmalar yapma, kimi sözcükleri çıkartarak bunların yerine eş anlamlı sözcükler kullanma, dilbilgisel yapıda bazı değişlikler yapma gibi değişiklikler yapılarak oluşturulan girdi biçimi aşağıdakilerden hangisidir?
+1. Gerçek yaşam için üretilmiş girdilerin üzerinde yabancı dil öğrencilerinin düzeyine uygun olarak kısaltmalar yapma, kimi sözcükleri çıkartarak bunların yerine eş anlamlı sözcükler kullanma, dilbilgisel yapıda bazı değişlikler yapma gibi değişiklikler yapılarak oluşturulan girdi biçimi aşağıdakilerden hangisidir?
     - A-) Tamamen özgün girdi
     - B-) Kısmen değiştirilmiş özgün girdi
     - C-) Benzetilmiş girdi
@@ -1718,9 +1554,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
     <hr />
 
-### 8.4.2.2. Girdi Özgünlüğü
-
-7. “Herhangi bir öğretim kaygısı yaşanmadan ana dili konuşucuları için oluşturulan girdilerdir. Ana dili konuşucularının günlük yaşamlarında karşılaştıkları gazete ve televizyon haberleri, şarkılar, televizyon programları, ilanlar, broşürler gibi unsurlar bu girdilerin özelliğini taşır.” Yukarıda ifade edilen girdi biçimi aşağıdakilerden hangisidir?
+2. “Herhangi bir öğretim kaygısı yaşanmadan ana dili konuşucuları için oluşturulan girdilerdir. Ana dili konuşucularının günlük yaşamlarında karşılaştıkları gazete ve televizyon haberleri, şarkılar, televizyon programları, ilanlar, broşürler gibi unsurlar bu girdilerin özelliğini taşır.” Yukarıda ifade edilen girdi biçimi aşağıdakilerden hangisidir?
     - **Cevap A-) Tamamen özgün girdi**
     - B-) Kısmen değiştirilmiş özgün girdi
     - C-) Benzetilmiş girdi
@@ -1733,7 +1567,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
 ### 8.5.1. Sınıf İçi Dinleme Görevleri
 
-8. Aşağıdakilerden hangisi dilin parçalarüstü özelliklerine ilişkin bir dinleme hedefidir?
+1. Aşağıdakilerden hangisi dilin parçalarüstü özelliklerine ilişkin bir dinleme hedefidir?
     - A-) Duygusal tepkileri ayırt etme
     - B-) Temel sözcük dizimi için dinleme
     - C-) Biçimbirimleri ayırt etmeye yönelik dinleme
@@ -1744,9 +1578,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
     <hr />
 
-### 8.5.1. Sınıf İçi Dinleme Görevleri
-
-9. Aşağıdakilerden hangisi dilin parçalı özelliklerine ilişkin bir dinleme hedefidir?
+2. Aşağıdakilerden hangisi dilin parçalı özelliklerine ilişkin bir dinleme hedefidir?
     - **Cevap A-) “a” sesi ile “e” sesini ayırt etme**
     - B-) Tümcedeki sözcük vurgusunu belirleme
     - C-) Tümcedeki durakları belirleme
@@ -1759,7 +1591,7 @@ Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?
 
 ### 8.5.2. Sınıf İçi Konuşma Görevleri
 
-10. “Tümceler arası ilişkilerle ilgili bir yeterlilik düzeyidir. Bağdaşıklık ve tutarlılığı sağlama ile ilintilidir.” Yukarıda açıklanan konuşma becerisinin yeterlilik düzeyi ile aşağıdakilerden hangisidir?
+1. “Tümceler arası ilişkilerle ilgili bir yeterlilik düzeyidir. Bağdaşıklık ve tutarlılığı sağlama ile ilintilidir.” Yukarıda açıklanan konuşma becerisinin yeterlilik düzeyi ile aşağıdakilerden hangisidir?
     - **Cevap A-) Söylemsel yeterlilik**
     - B-) Dilbilgisel yeterlilik
     - C-) Stratejik yeterlilik

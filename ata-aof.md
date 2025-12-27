@@ -1,0 +1,54 @@
+---
+layout: page
+title: Atatürk AÖF Grafik Sanatlar
+---
+
+# Atatürk AÖF - Ders Materyalleri
+
+> Soruların telif içerebilir. İçerik ders çalışma amaçlı hazırlanmış olup. İçeriğin ticari amaçlı kopyalanması, çoğaltılması hak sahibi tarafından yükümlülükler getirebilir. Telif hakkı bildirimleri için "[Issues](https://github.com/ata-aof-calisma-grubu/ata-aof-calisma-grubu.github.io/issues)" bölümünü kullanabilirsiniz. Telif bildirimi üzerinden 7 iş günü içerisinde içerik kaldırılacaktır<br />
+
+Yeni geliştirdiğimiz interaktif sınav aracıyla soruları çözerek öğrenebilirsiniz:
+[Interaktif sınav aracı için tıklayın](interaktif.html)
+
+Derslere ait sorulara aşağıdaki linklerden erişebilirsiniz:
+
+- [Dönem 1 - İletişime Giriş](<ATA-AÖF - Dönem 1 - İletişime Giriş - Sorular>)<br />
+- [Dönem 1 - Genel Sanat Tarihi](<ATA-AÖF - Dönem 1 - Genel Sanat Tarihi - Sorular>)<br />
+- [Dönem 1 - Temel Bilgi Teknolojileri I](<ATA-AÖF - Dönem 1 - Temel Bilgi Teknolojileri I - Sorular>)<br />
+- [Dönem 1 - Temel Fotoğrafçılık](<ATA-AÖF - Dönem 1 - Temel Fotoğrafçılık - Sorular>)<br />
+- [Dönem 1 - Temel Tasarım I](<ATA-AÖF - Dönem 1 - Temel Tasarım I - Sorular>)<br />
+- [Dönem 1 - Yabancı Dil I](<ATA-AÖF - Dönem 1 - Yabancı Dil I - Sorular>)<br />
+- [Dönem 2 - Reklam Fotoğrafçılığı](<ATA-AÖF - Dönem 2 - Reklam Fotoğrafçılığı - Sorular>)<br />
+- [Dönem 2 - Temel Tasarım II](<ATA-AÖF - Dönem 2 - Temel Tasarım II - Sorular>)<br />
+- [Dönem 2 - Sanat Sosyolojisi](<ATA-AÖF - Dönem 2 - Sanat Sosyolojisi - Sorular>)<br />
+- [Dönem 2 - Görme Biçimleri](<ATA-AÖF - Dönem 2 - Görme Biçimleri - Sorular>)<br />
+- [Dönem 2 - Grafik Tasarım Tarihi](<ATA-AÖF - Dönem 2 - Grafik Tasarım Tarihi - Sorular>)<br />
+- [Dönem 2 - Yabancı Dil II](<ATA-AÖF - Dönem 2 - Yabancı Dil II - Sorular>)<br />
+- [Dönem 3 - Sayısal Fotoğraf](<ATA-AÖF - Dönem 3 - Sayısal Fotoğraf - Sorular>)<br />
+- [Dönem 3 - Grafik Tasarım I](<ATA-AÖF - Dönem 3 - Grafik Tasarım I - Sorular>)<br />
+- [Dönem 3 - Reklam Analizleri](<ATA-AÖF - Dönem 3 - Reklam Analizleri - Sorular>)<br />
+- [Dönem 3 - Tipografi](<ATA-AÖF - Dönem 3 - Tipografi - Sorular>)<br />
+- [Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I](<ATA-AÖF - Dönem 3 - Atatürk İlkeleri ve İnkılap Tarihi I - Sorular>)<br />
+- [Dönem 3 - Türk Dili I](<ATA-AÖF - Dönem 3 - Türk Dili I - Sorular>)<br />
+- [Dönem 4 - Tasarımda Tipografi](<ATA-AÖF - Dönem 4 - Tasarımda Tipografi - Sorular>)<br />
+- [Dönem 4 - Masaüstü Yayıncılık](<ATA-AÖF - Dönem 4 - Masaüstü Yayıncılık - Sorular>)<br />
+- [Dönem 4 - Görsel İletişim Tasarımı](<ATA-AÖF - Dönem 4 - Görsel İletişim Tasarımı - Sorular>)<br />
+- [Dönem 4 - Grafik Tasarım II](<ATA-AÖF - Dönem 4 - Grafik Tasarım II - Sorular>)<br />
+- [Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II](<ATA-AÖF - Dönem 4 - Atatürk İlkeleri ve İnkılap Tarihi II - Sorular>)<br />
+- [Dönem 4 - Türk Dili II](<ATA-AÖF - Dönem 4 - Türk Dili II - Sorular>)<br />
+- [Dönem 5 - Web Tasarımının Temelleri](<ATA-AÖF - Dönem 5 - Web Tasarımının Temelleri - Sorular>)<br />
+- [Dönem 5 - Grafik Üretim Teknikleri](<ATA-AÖF - Dönem 5 - Grafik Üretim Teknikleri - Sorular>)<br />
+- [Dönem 5 - Reklam Grafiği](<ATA-AÖF - Dönem 5 - Reklam Grafiği - Sorular>)<br />
+- [Dönem 5 - Tasarım Okumaları](<ATA-AÖF - Dönem 5 - Tasarım Okumaları - Sorular>)<br />
+- [Dönem 5 - Özgün Baskı Teknikleri](<ATA-AÖF - Dönem 5 - Özgün Baskı Teknikleri - Sorular>)<br />
+- [Dönem 6 - Reklamda Yaratıcılık](<ATA-AÖF - Dönem 6 - Reklamda Yaratıcılık - Sorular>)<br />
+- [Dönem 6 - Göstergebilim](<ATA-AÖF - Dönem 6 - Göstergebilim - Sorular>)<br />
+- [Dönem 6 - Tasarımda Fotoğraf Kullanımı](<ATA-AÖF - Dönem 6 - Tasarımda Fotoğraf Kullanımı - Sorular>)<br />
+- [Dönem 6 - Yayın Grafiği](<ATA-AÖF - Dönem 6 - Yayın Grafiği - Sorular>)<br />
+- [Dönem 6 - Ambalaj Tasarımı](<ATA-AÖF - Dönem 6 - Ambalaj Tasarımı - Sorular>)<br />
+- [Dönem 7 - İllüstrasyon](<ATA-AÖF - Dönem 7 - İllüstrasyon - Sorular>)<br />
+- [Dönem 7 - Tanıtım Fotoğrafı](<ATA-AÖF - Dönem 7 - Tanıtım Fotoğrafı - Sorular>)<br />
+- [Dönem 7 - Görsel Kimlik ve Marka Tasarımı](<ATA-AÖF - Dönem 7 - Görsel Kimlik ve Marka Tasarımı - Sorular>)<br />
+- [Dönem 8 - Dijital Kültür ve Sosyal Medya](<ATA-AÖF - Dönem 8 - Dijital Kültür ve Sosyal Medya - Sorular>)<br />
+- [Dönem 8 - Tasarımda Kurgu ve Analiz](<ATA-AÖF - Dönem 8 - Tasarımda Kurgu ve Analiz - Sorular>)<br />
+- [Dönem 8 - Bilgilendirme Tasarımı](<ATA-AÖF - Dönem 8 - Bilgilendirme Tasarımı - Sorular>)

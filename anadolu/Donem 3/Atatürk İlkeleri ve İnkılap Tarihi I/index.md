@@ -2,9 +2,9 @@
 
 ## Ders Materyalleri
 
-### [📚 Sorularla Öğrenelim](Sorularla%20Ogrenelim)
+### [📚 Sorularla Öğrenelim](Sorularla Ogrenelim)
 
-### [✏️ Alıştırma Soruları](Alıştırma%20Soruları)
+### [✏️ Alıştırma Soruları](Alıştırma Soruları)
 
 ---
 ## Diğer Materyaller

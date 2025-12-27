@@ -7,3 +7,9 @@ relative_links:
 
 markdown: kramdown
 theme: minima
+
+header_pages:
+ - index.md
+ - ata-aof.md
+ - anadolu/index.md
+ - auzef/index.md

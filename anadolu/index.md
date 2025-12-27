@@ -1,83 +1,91 @@
+---
+layout: page
+title: Anadolu AÖF Görsel İletişim Sanatlar
+---
+
 # Anadolu AÖF - Ders Materyalleri
+
+Yeni geliştirdiğimiz interaktif sınav aracıyla soruları çözerek öğrenebilirsiniz:
+[Interaktif sınav aracı için tıklayın](interaktif.html)
 
 ## Donem 1
 
-- 📂 [Görsel Estetik](Donem%201/G%C3%B6rsel%20Estetik/)
-- 📂 [Mitoloji ve Din](Donem%201/Mitoloji%20ve%20Din/)
-- 📂 [Temel Fotoğrafçılık](Donem%201/Temel%20Foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k/)
-- 📂 [Temel Sanat ve Tasarım Eğitimi](Donem%201/Temel%20Sanat%20ve%20Tasar%C4%B1m%20E%C4%9Fitimi/)
-- 📂 [Yabancı Dil Dersleri](Donem%201/Yabanc%C4%B1%20Dil%20Dersleri/)
+- 📂 [Görsel Estetik](Donem 1/Görsel Estetik/)
+- 📂 [Mitoloji ve Din](Donem 1/Mitoloji ve Din/)
+- 📂 [Temel Fotoğrafçılık](Donem 1/Temel Fotoğrafçılık/)
+- 📂 [Temel Sanat ve Tasarım Eğitimi](Donem 1/Temel Sanat ve Tasarım Eğitimi/)
+- 📂 [Yabancı Dil Dersleri](Donem 1/Yabancı Dil Dersleri/)
 
 ---
 
 ## Donem 2
 
-- 📂 [Anadolu Kültür Tarihi](Donem%202/Anadolu%20K%C3%BClt%C3%BCr%20Tarihi/)
-- 📂 [Dijital Kültür](Donem%202/Dijital%20K%C3%BClt%C3%BCr/)
-- 📂 [Görsel İletişim ve Tasarım Tarihi](Donem%202/G%C3%B6rsel%20%C4%B0leti%C5%9Fim%20ve%20Tasar%C4%B1m%20Tarihi/)
-- 📂 [Tipografi](Donem%202/Tipografi/)
-- 📂 [Yabancı Dil Dersleri](Donem%202/Yabanc%C4%B1%20Dil%20Dersleri/)
+- 📂 [Anadolu Kültür Tarihi](Donem 2/Anadolu Kültür Tarihi/)
+- 📂 [Dijital Kültür](Donem 2/Dijital Kültür/)
+- 📂 [Görsel İletişim ve Tasarım Tarihi](Donem 2/Görsel İletişim ve Tasarım Tarihi/)
+- 📂 [Tipografi](Donem 2/Tipografi/)
+- 📂 [Yabancı Dil Dersleri](Donem 2/Yabancı Dil Dersleri/)
 
 ---
 
 ## Donem 3
 
-- 📂 [Atatürk İlkeleri ve İnkılap Tarihi I](Donem%203/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20I/)
-- 📂 [Görsel Tasarımda Yaratıcı Düşünme Teknikleri](Donem%203/G%C3%B6rsel%20Tasar%C4%B1mda%20Yarat%C4%B1c%C4%B1%20D%C3%BC%C5%9F%C3%BCnme%20Teknikleri/)
-- 📂 [Sanatta Eleştirel Düşünce](Donem%203/Sanatta%20Ele%C5%9Ftirel%20D%C3%BC%C5%9F%C3%BCnce/)
-- 📂 [Sayısal Görüntüleme Teknolojileri](Donem%203/Say%C4%B1sal%20G%C3%B6r%C3%BCnt%C3%BCleme%20Teknolojileri/)
-- 📂 [Türk Dili I](Donem%203/T%C3%BCrk%20Dili%20I/)
-- 📂 [Yeni Medya Sanatı](Donem%203/Yeni%20Medya%20Sanat%C4%B1/)
+- 📂 [Atatürk İlkeleri ve İnkılap Tarihi I](Donem 3/Atatürk İlkeleri ve İnkılap Tarihi I/)
+- 📂 [Görsel Tasarımda Yaratıcı Düşünme Teknikleri](Donem 3/Görsel Tasarımda Yaratıcı Düşünme Teknikleri/)
+- 📂 [Sanatta Eleştirel Düşünce](Donem 3/Sanatta Eleştirel Düşünce/)
+- 📂 [Sayısal Görüntüleme Teknolojileri](Donem 3/Sayısal Görüntüleme Teknolojileri/)
+- 📂 [Türk Dili I](Donem 3/Türk Dili I/)
+- 📂 [Yeni Medya Sanatı](Donem 3/Yeni Medya Sanatı/)
 
 ---
 
 ## Donem 4
 
-- 📂 [Atatürk İlkeleri ve İnkılap Tarihi II](Donem%204/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20II/)
-- 📂 [Dijital Görüntüleme İşleme Yöntemleri](Donem%204/Dijital%20G%C3%B6r%C3%BCnt%C3%BCleme%20%C4%B0%C5%9Fleme%20Y%C3%B6ntemleri/)
-- 📂 [Grafik Üretim ve Dijital Çoğaltım Teknikleri](Donem%204/Grafik%20%C3%9Cretim%20ve%20Dijital%20%C3%87o%C4%9Falt%C4%B1m%20Teknikleri/)
-- 📂 [Sanat Tarihi](Donem%204/Sanat%20Tarihi/)
-- 📂 [Türk Dili II](Donem%204/T%C3%BCrk%20Dili%20II/)
-- 📂 [İleri Tipografi](Donem%204/%C4%B0leri%20Tipografi/)
+- 📂 [Atatürk İlkeleri ve İnkılap Tarihi II](Donem 4/Atatürk İlkeleri ve İnkılap Tarihi II/)
+- 📂 [Dijital Görüntüleme İşleme Yöntemleri](Donem 4/Dijital Görüntüleme İşleme Yöntemleri/)
+- 📂 [Grafik Üretim ve Dijital Çoğaltım Teknikleri](Donem 4/Grafik Üretim ve Dijital Çoğaltım Teknikleri/)
+- 📂 [Sanat Tarihi](Donem 4/Sanat Tarihi/)
+- 📂 [Türk Dili II](Donem 4/Türk Dili II/)
+- 📂 [İleri Tipografi](Donem 4/İleri Tipografi/)
 
 ---
 
 ## Donem 5
 
-- 📂 [Ambalaj Tasarımı](Donem%205/Ambalaj%20Tasar%C4%B1m%C4%B1/)
-- 📂 [Engellilik ve Erişilebilir Tasarım](Donem%205/Engellilik%20ve%20Eri%C5%9Filebilir%20Tasar%C4%B1m/)
-- 📂 [Görsel Sistem Tasarımları](Donem%205/G%C3%B6rsel%20Sistem%20Tasar%C4%B1mlar%C4%B1/)
-- 📂 [Görsel İletişim ve Kuramları](Donem%205/G%C3%B6rsel%20%C4%B0leti%C5%9Fim%20ve%20Kuramlar%C4%B1/)
-- 📂 [Kurumsal Kimlik Tasarımı](Donem%205/Kurumsal%20Kimlik%20Tasar%C4%B1m%C4%B1/)
+- 📂 [Ambalaj Tasarımı](Donem 5/Ambalaj Tasarımı/)
+- 📂 [Engellilik ve Erişilebilir Tasarım](Donem 5/Engellilik ve Erişilebilir Tasarım/)
+- 📂 [Görsel Sistem Tasarımları](Donem 5/Görsel Sistem Tasarımları/)
+- 📂 [Görsel İletişim ve Kuramları](Donem 5/Görsel İletişim ve Kuramları/)
+- 📂 [Kurumsal Kimlik Tasarımı](Donem 5/Kurumsal Kimlik Tasarımı/)
 
 ---
 
 ## Donem 6
 
-- 📂 [Bilgi Görselleştirme](Donem%206/Bilgi%20G%C3%B6rselle%C5%9Ftirme/)
-- 📂 [Dijital Medya ve Arayüz Tasarımı](Donem%206/Dijital%20Medya%20ve%20Aray%C3%BCz%20Tasar%C4%B1m%C4%B1/)
-- 📂 [Dijital Video Kurgu ve Efekt](Donem%206/Dijital%20Video%20Kurgu%20ve%20Efekt/)
-- 📂 [Eğitici İçerik Tasarımı](Donem%206/E%C4%9Fitici%20%C4%B0%C3%A7erik%20Tasar%C4%B1m%C4%B1/)
-- 📂 [Sürdürülebilir Grafik Tasarım](Donem%206/S%C3%BCrd%C3%BCr%C3%BClebilir%20Grafik%20Tasar%C4%B1m/)
+- 📂 [Bilgi Görselleştirme](Donem 6/Bilgi Görselleştirme/)
+- 📂 [Dijital Medya ve Arayüz Tasarımı](Donem 6/Dijital Medya ve Arayüz Tasarımı/)
+- 📂 [Dijital Video Kurgu ve Efekt](Donem 6/Dijital Video Kurgu ve Efekt/)
+- 📂 [Eğitici İçerik Tasarımı](Donem 6/Eğitici İçerik Tasarımı/)
+- 📂 [Sürdürülebilir Grafik Tasarım](Donem 6/Sürdürülebilir Grafik Tasarım/)
 
 ---
 
 ## Donem 7
 
-- 📂 [Dijital Oyun Tasarımı](Donem%207/Dijital%20Oyun%20Tasar%C4%B1m%C4%B1/)
-- 📂 [Hareketli Grafik Tasarımı](Donem%207/Hareketli%20Grafik%20Tasar%C4%B1m%C4%B1/)
-- 📂 [Posthümanist Tasarım Yaklaşımları](Donem%207/Posth%C3%BCmanist%20Tasar%C4%B1m%20Yakla%C5%9F%C4%B1mlar%C4%B1/)
-- 📂 [Tasarım Etiği ve Hukuku](Donem%207/Tasar%C4%B1m%20Eti%C4%9Fi%20ve%20Hukuku/)
-- 📂 [Öğretim Tasarımı](Donem%207/%C3%96%C4%9Fretim%20Tasar%C4%B1m%C4%B1/)
+- 📂 [Dijital Oyun Tasarımı](Donem 7/Dijital Oyun Tasarımı/)
+- 📂 [Hareketli Grafik Tasarımı](Donem 7/Hareketli Grafik Tasarımı/)
+- 📂 [Posthümanist Tasarım Yaklaşımları](Donem 7/Posthümanist Tasarım Yaklaşımları/)
+- 📂 [Tasarım Etiği ve Hukuku](Donem 7/Tasarım Etiği ve Hukuku/)
+- 📂 [Öğretim Tasarımı](Donem 7/Öğretim Tasarımı/)
 
 ---
 
 ## Donem 8
 
-- 📂 [3B Tasarım ve Modelleme](Donem%208/3B%20Tasar%C4%B1m%20ve%20Modelleme/)
-- 📂 [Reklam Tasarım ve Uygulamaları](Donem%208/Reklam%20Tasar%C4%B1m%20ve%20Uygulamalar%C4%B1/)
-- 📂 [Tasarım Süreçleri ve Yönetimi](Donem%208/Tasar%C4%B1m%20S%C3%BCre%C3%A7leri%20ve%20Y%C3%B6netimi/)
-- 📂 [Tasarımda Sıralı Anlatım ve Öykülendirme](Donem%208/Tasar%C4%B1mda%20S%C4%B1ral%C4%B1%20Anlat%C4%B1m%20ve%20%C3%96yk%C3%BClendirme/)
-- 📂 [Yapay Zeka ve Tasarım](Donem%208/Yapay%20Zeka%20ve%20Tasar%C4%B1m/)
+- 📂 [3B Tasarım ve Modelleme](Donem 8/3B Tasarım ve Modelleme/)
+- 📂 [Reklam Tasarım ve Uygulamaları](Donem 8/Reklam Tasarım ve Uygulamaları/)
+- 📂 [Tasarım Süreçleri ve Yönetimi](Donem 8/Tasarım Süreçleri ve Yönetimi/)
+- 📂 [Tasarımda Sıralı Anlatım ve Öykülendirme](Donem 8/Tasarımda Sıralı Anlatım ve Öykülendirme/)
+- 📂 [Yapay Zeka ve Tasarım](Donem 8/Yapay Zeka ve Tasarım/)
 
 ---

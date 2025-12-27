@@ -2,7 +2,7 @@
 
 ## Ders Materyalleri
 
-### [✏️ Alıştırma Soruları](Alıştırma%20Soruları)
+### [✏️ Alıştırma Soruları](Alıştırma Soruları)
 
 ---
 ## Diğer Materyaller
